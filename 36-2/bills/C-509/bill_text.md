@@ -1,0 +1,10 @@
+Bill C-509 PublicationID : 2330866 Table of ContentsSummaryBILL C-509
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The enactment amends the Competition Act to clarify the Competition Tribunal's powers to make or not an order in the case of a merger when gains in efficiency are expected or when the merger would create or strenghten a dominant market position. |  |
+
+|  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-509 An Act to Amend the Competition Act Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Section 96 of the *Competition Act* is amended by adding the following after subsection (3):** Interpreta- tion (4) For the purpose of subsection (1), gains in efficiency cannot offset the effects of a lessening or prevention of competition unless the majority of the benefits derived or to be derived from such gains in efficiency are being or are likely to be passed on to customers within a reasonable time in the form of lower prices. Non-applicati on of section (5) This section does not apply where, after the transaction has been completed, the merger or proposed merger, will result or is likely to result in the creation or strengthening of a dominant market position.
