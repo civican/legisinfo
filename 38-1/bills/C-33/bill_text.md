@@ -3,12 +3,12 @@ COVER
 | C-33 |  | C-33 |
 | --- | --- | --- |
 | First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-33 |  | PROJET DE LOI C-33 |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |
-| first reading, December 8, 2004 |  | première lecture le 8 décembre 2004 |
-| THE MINISTER OF FINANCE 90290 |  | LE MINISTRE DES FINANCES |
+| AS PASSED BY THE HOUSE OF COMMONSFEBRUARY 25, 2005 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 25 FÉVRIER 2005 |
+| 90290 |  |  |
 
 INSIDECOVER
 
@@ -20,7 +20,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -259,7 +259,7 @@ MAINTEXT
 | 43. (1) Subsections 188(1) and (2) of the Act are replaced by the following: |  | 43. (1) Les paragraphes 188(1) et (2) de la même loi sont remplacés par ce qui suit : |  |  |  |  |
 | Deemed year-end on notice of revocation 188. (1) If on a particular day the Minister issues a notice of intention to revoke the registration of a taxpayer as a registered charity under any of subsections 149.1(2) to (4.1) and 168(1) or it is determined, under subsection 7(1) of the Charities Registration (Security Information) Act, that a certificate served in respect of the charity under subsection 5(1) of that Act is reasonable on the basis of information and evidence available, (a) the taxation year of the charity that would otherwise have included that day is deemed to end at the end of that day; (b) a new taxation year of the charity is deemed to begin immediately after that day; and (c) for the purpose of determining the charity's fiscal period after that day, the charity is deemed not to have established a fiscal period before that day. |  | 188. (1) Si un avis d'intention de révoquer l'enregistrement d'un contribuable comme organisme de bienfaisance enregistré est délivré par le ministre en vertu de l'un des paragraphes 149.1(2) à (4.1) et 168(1) ou si, compte tenu des renseignements et des autres éléments de preuve disponibles, un certificat signifié à l'égard de l'organisme en vertu du paragraphe 5(1) de la Loi sur l'enregistrement des organismes de bienfaisance (renseignements de sécurité) est jugé raisonnable au titre du paragraphe 7(1) de cette loi, les règles suivantes s'appliquent : Fin d'année réputée en cas d'avis de révocation a) l'année d'imposition de l'organisme qui aurait compris par ailleurs le jour où l'avis est délivré ou le jugement, rendu, est réputée prendre fin à la fin de ce jour; b) une nouvelle année d'imposition de l'organisme est réputée commencer immédiatement après ce jour; c) pour ce qui est de déterminer l'exercice de l'organisme après ce jour, l'organisme est réputé ne pas avoir établi d'exercice avant ce jour. |  |  |  |  |
 | Revocation tax (1.1) A charity referred to in subsection (1) is liable to a tax, for its taxation year that is deemed to have ended, equal to the amount determined by the formula A - B where A is the total of all amounts, each of which is (a) the fair market value of a property of the charity at the end of that taxation year, (b) the amount of an appropriation (within the meaning assigned by subsection (2)) in respect of a property transferred to another person in the 120-day period that ended at the end of that taxation year, or (c) the income of the charity for its winding-up period, including gifts received by the charity in that period from any source and any income that would be computed under section 3 as if that period were a taxation year; and B is the total of all amounts (other than the amount of an expenditure in respect of which a deduction has been made in computing income for the winding-up period under paragraph (c) of the description of A), each of which is (a) a debt of the charity that is outstanding at the end of that taxation year, (b) an expenditure made by the charity during the winding-up period on charitable activities carried on by it, or (c) an amount in respect of a property transferred by the charity during the winding-up period and not later than the latter of one year from the end of the taxation year and the day, if any, referred to in paragraph (1.2)(c), to a person that was at the time of the transfer an eligible donee in respect of the charity, equal to the amount, if any, by which the fair market value of the property, when transferred, exceeds the consideration given by the person for the transfer. |  | (1.1) L'organisme de bienfaisance visé au paragraphe (1) est redevable, pour l'année d'imposition qui est réputée avoir pris fin, d'un impôt égal au montant obtenu par la formule suivante : Impôt de révocation A - B où : A représente le total des montants représentant chacun : a) la juste valeur marchande d'un bien de l'organisme à la fin de l'année; b) le montant d'un crédit, au sens du paragraphe (2), relatif à un bien transféré à une autre personne au cours de la période de 120 jours s'étant terminée à la fin de l'année; c) le revenu de l'organisme pour sa période de liquidation, y compris les dons qu'il a reçus de toute source au cours de cette période ainsi que le revenu qui serait calculé selon l'article 3 si cette période était une année d'imposition; B le total des montants (sauf le montant d'une dépense qui a fait l'objet d'une déduction dans le calcul du revenu pour la période de liquidation selon l'alinéa c) de l'élément A) représentant chacun : a) toute somme dont l'organisme est débitrice à la fin de l'année; b) toute dépense effectuée par l'organisme au cours de la période de liquidation au titre de ses activités de bienfaisance; c) toute somme relative à un bien que l'organisme a transféré au cours de la période de liquidation et au plus tard un an après la fin de l'année ou, s'il est postérieur, le jour visé à l'alinéa (1.2)c), à une personne qui, au moment du transfert, était un donataire admissible relativement à l'organisme, égale à l'excédent éventuel de la juste valeur marchande du bien au moment de son transfert sur la contrepartie donnée par la personne pour le transfert. |  |  |  |  |
-| Winding-up period (1.2) In this Part, the winding-up period of a charity is the period, that begins immediately after the day on which the Minister issues a notice of intention to revoke the registration of a taxpayer as a registered charity under any of subsections 149.1(2) to (4.1) and 168(1) (or, if earlier, immediately after the day on which it is determined, under subsection 7(1) of the Charities Registration (Security Information) Act, that a certificate served in respect of the charity under subsection 5(1) of that Act is reasonable on the basis of information and evidence available), and that ends on the day that is the latest of (a) the day, if any, on which the charity files a return under subsection 189(6.1) for the taxation year deemed by subsection (1) to have ended, but not later than the day on which the charity is required to file that return, (b) the day on which the Minister last issues a notice of assessment of tax payable under subsection (1.1) for that taxation year by the charity, and (c) if the charity has filed a notice of objection or appeal in respect of that assessment, the day on which the Minister may take a collection action under section 225.1 in respect of that tax payable. |  | (1.2) Pour l'application de la présente partie, la période de liquidation d'un organisme de bienfaisance correspond à la période commençant le lendemain du jour où le ministre délivre un avis d'intention de révoquer l'enregistrement d'un contribuable comme organisme de bienfaisance enregistré en vertu de l'un des paragraphes 149.1(2) à (4.1) et 168(1) ou, s'il est antérieur, le lendemain du jour où un certificat signifié à l'égard de l'organisme en vertu du paragraphe 5(1) de la Loi sur l'enregistrement des organismes de bienfaisance (renseignements de sécurité) est jugé raisonnable au titre du paragraphe 7(1) de cette loi, compte tenu des renseignements et des autres éléments de preuve disponibles, et se terminant au dernier en date des jours suivants : Période de liquidation a) le jour où l'organisme produit une déclaration de revenu en vertu du paragraphe 189(6.1) pour l'année d'imposition qui est réputée, par le paragraphe (1), avoir pris fin, mais au plus tard le jour où l'organisme est tenu de produire cette déclaration; b) le jour où le ministre délivre le dernier avis de cotisation concernant l'impôt payable par l'organisme pour l'année en vertu du paragraphe (1.1); c) si l'organisme a produit un avis d'opposition ou d'appel relativement à cette cotisation, le jour où le ministre peut prendre une mesure de recouvrement en vertu de l'article 225.1 relativement à cet impôt payable. |  |  |  |  |
+| Winding-up period (1.2) In this Part, the winding-up period of a charity is the period that begins immediately after the day on which the Minister issues a notice of intention to revoke the registration of a taxpayer as a registered charity under any of subsections 149.1(2) to (4.1) and 168(1) (or, if earlier, immediately after the day on which it is determined, under subsection 7(1) of the Charities Registration (Security Information) Act, that a certificate served in respect of the charity under subsection 5(1) of that Act is reasonable on the basis of information and evidence available), and that ends on the day that is the latest of (a) the day, if any, on which the charity files a return under subsection 189(6.1) for the taxation year deemed by subsection (1) to have ended, but not later than the day on which the charity is required to file that return, (b) the day on which the Minister last issues a notice of assessment of tax payable under subsection (1.1) for that taxation year by the charity, and (c) if the charity has filed a notice of objection or appeal in respect of that assessment, the day on which the Minister may take a collection action under section 225.1 in respect of that tax payable. |  | (1.2) Pour l'application de la présente partie, la période de liquidation d'un organisme de bienfaisance correspond à la période commençant le lendemain du jour où le ministre délivre un avis d'intention de révoquer l'enregistrement d'un contribuable comme organisme de bienfaisance enregistré en vertu de l'un des paragraphes 149.1(2) à (4.1) et 168(1) ou, s'il est antérieur, le lendemain du jour où un certificat signifié à l'égard de l'organisme en vertu du paragraphe 5(1) de la Loi sur l'enregistrement des organismes de bienfaisance (renseignements de sécurité) est jugé raisonnable au titre du paragraphe 7(1) de cette loi, compte tenu des renseignements et des autres éléments de preuve disponibles, et se terminant au dernier en date des jours suivants : Période de liquidation a) le jour où l'organisme produit une déclaration de revenu en vertu du paragraphe 189(6.1) pour l'année d'imposition qui est réputée, par le paragraphe (1), avoir pris fin, mais au plus tard le jour où l'organisme est tenu de produire cette déclaration; b) le jour où le ministre délivre le dernier avis de cotisation concernant l'impôt payable par l'organisme pour l'année en vertu du paragraphe (1.1); c) si l'organisme a produit un avis d'opposition ou d'appel relativement à cette cotisation, le jour où le ministre peut prendre une mesure de recouvrement en vertu de l'article 225.1 relativement à cet impôt payable. |  |  |  |  |
 | Eligible donee (1.3) In this Part, an eligible donee in respect of a particular charity is a registered charity (a) of which more than 50% of the members of the board of directors or trustees of the registered charity deal at arm's length with each member of the board of directors or trustees of the particular charity; (b) that is not the subject of a suspension under subsection 188.2(1); (c) that has no unpaid liabilities under this Act or under the Excise Tax Act; (d) that has filed all information returns required by subsection 149.1(14); and (e) that is not the subject of a certificate under subsection 5(1) of the Charities Registration (Security Information) Act or, if it is the subject of such a certificate, the certificate has been determined under subsection 7(1) of that Act not to be reasonable. |  | (1.3) Pour l'application de la présente partie, est donataire admissible relativement à un organisme de bienfaisance donné l'organisme de bienfaisance enregistré qui répond aux conditions suivantes : Donataire admissible a) plus de 50 % des membres de son conseil d'administration n'ont aucun lien de dépendance avec les membres du conseil d'administration de l'organisme donné; b) il ne fait pas l'objet d'une suspension en vertu du paragraphe 188.2(1); c) il n'a aucune somme impayée sous le régime de la présente loi ou de la Loi sur la taxe d'accise; d) il a produit toutes les déclarations de renseignements exigées aux termes du paragraphe 149.1(14); e) il ne fait pas l'objet d'un certificat en vertu du paragraphe 5(1) de la Loi sur l'enregistrement des organismes de bienfaisance (renseignements de sécurité); dans le cas contraire, le certificat n'a pas été jugé raisonnable au titre du paragraphe 7(1) de cette loi. |  |  |  |  |
 | Shared liability — revocation tax (2) A person who, after the time that is 120 days before the end of the taxation year of a charity that is deemed by subsection (1) to have ended, receives property from the charity, is jointly and severally, or solidarily, liable with the charity for the tax payable under subsection (1.1) by the charity for that taxation year for an amount not exceeding the total of all appropriations, each of which is the amount by which the fair market value of such a property at the time it was so received by the person exceeds the consideration given by the person in respect of the property. |  | (2) La personne qui reçoit un bien d'un organisme de bienfaisance, après le moment qui précède de 120 jours la fin de l'année d'imposition de l'organisme qui est réputée par le paragraphe (1) avoir pris fin, est solidairement tenue, avec l'organisme, au paiement de l'impôt payable par celui-ci en vertu du paragraphe (1.1) pour cette année, jusqu'à concurrence du total des crédits représentant chacun l'excédent de la juste valeur marchande du bien au moment où il a été ainsi reçu par la personne sur la contrepartie donnée par celle-ci relativement au bien. Responsabilité partagée — impôt de révocation |  |  |  |  |
 | Non-application of revocation tax (2.1) Subsections (1) and (1.1) do not apply to a charity in respect of a notice of intention to revoke given under any of subsections 149.1(2) to (4.1) and 168(1) if the Minister abandons the intention and so notifies the charity or if (a) within the one-year period that begins immediately after the taxation year of the charity otherwise deemed by subsection (1) to have ended, the Minister has registered the charity as a charitable organization, private foundation or public foundation; and (b) the charity has, before the time that the Minister has so registered the charity, (i) paid all amounts, each of which is an amount for which the charity is liable under this Act (other than subsection (1.1)) or the Excise Tax Act in respect of taxes, penalties and interest, and (ii) filed all information returns required by or under this Act to be filed on or before that time. |  | (2.1) Les paragraphes (1) et (1.1) ne s'appliquent pas à un organisme de bienfaisance pour ce qui est d'un avis d'intention délivré en vertu de l'un des paragraphes 149.1(2) à (4.1) et 168(1), si le ministre renonce à l'intention et en avise l'organisme ou si, à la fois : Non-application de l'impôt de révocation a) dans la période d'un an commençant immédiatement après l'année d'imposition de l'organisme qui est réputée par le paragraphe (1) avoir pris fin, le ministre a enregistré l'organisme comme oeuvre de bienfaisance, fondation privée ou fondation publique; b) l'organisme a, avant le moment où il a été ainsi enregistré, à la fois : (i) payé les sommes dont chacune représente une somme dont il est redevable en vertu des dispositions de la présente loi, sauf le paragraphe (1.1), ou de la Loi sur la taxe d'accise au titre des impôts, taxes, pénalités et intérêts, (ii) produit les déclarations de renseignements qu'il est tenu de produire sous le régime de la présente loi au plus tard à ce moment. |  |  |  |  |
@@ -324,7 +324,7 @@ MAINTEXT
 | Collection-commencement day (1.1) The collection-commencement day in respect of an amount is (a) in the case of an amount assessed under subsection 188(1.1) in respect of a notice of intention to revoke given under subsection 168(1) or any of subsections 149.1(2) to (4.1), one year after the day on which the notice was mailed; (b) in the case of an amount assessed under section 188.1, one year after the day on which the notice of assessment was mailed; and (c) in any other case, 90 days after the day on which the notice of assessment was mailed. |  | (1.1) Le jour du début du recouvrement d'un montant correspond : Jour du début du recouvrement a) dans le cas du montant d'une cotisation établie en vertu du paragraphe 188(1.1) relativement à un avis d'intention de révoquer l'enregistrement délivré en vertu du paragraphe 168(1) ou l'un des paragraphes 149.1(2) à (4.1), un an après la date de mise à la poste de l'avis d'intention; b) dans le cas du montant d'une cotisation établie en vertu de l'article 188.1, un an après la date de mise à la poste de l'avis de cotisation; c) dans les autres cas, 90 jours suivant la date de mise à la poste de l'avis de cotisation. |  |  |  |  |
 | (4) Subsections (1) to (3) apply in respect of notices issued by the Minister of National Revenue after the day that is 30 days after the day on which this Act is assented to. |  | (4) Les paragraphes (1) à (3) s'appliquent relativement aux avis délivrés par le ministre du Revenu national après le jour qui suit de 30 jours la date de sanction de la présente loi. |  |  |  |  |
 | 50. Section 239 of the Act is amended by adding the following after subsection (4): |  | 50. L'article 239 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit : |  |  |  |  |
-| Offence and Punishment without reference to subsection 120(2.2) (5) In determining whether an offence under this Act, for which a person may on summary conviction or indictment be liable for a fine or imprisonment, has been committed, and in determining the punishment for such an offence, this Act is to be read without reference to subsection 120(2.2). |  | (5) Il n'est pas tenu compte du paragraphe 120(2.2) lorsqu'il s'agit de déterminer s'il y eu perpétration d'une infraction à la présente loi, punissable sur déclaration de culpabilité par procédure sommaire ou mise en accusation, et d'établir la peine applicable à cette infraction. Infraction et peine établies compte non tenu du par. 120(2.2) |  |  |  |  |
+| Offence and punishment without reference to subsection 120(2.2) (5) In determining whether an offence under this Act, for which a person may on summary conviction or indictment be liable for a fine or imprisonment, has been committed, and in determining the punishment for such an offence, this Act is to be read without reference to subsection 120(2.2). |  | (5) Il n'est pas tenu compte du paragraphe 120(2.2) lorsqu'il s'agit de déterminer s'il y eu perpétration d'une infraction à la présente loi, punissable sur déclaration de culpabilité par procédure sommaire ou mise en accusation, et d'établir la peine applicable à cette infraction. Infraction et peine établies compte non tenu du par. 120(2.2) |  |  |  |  |
 | 51. (1) Subsection 241(3.2) of the Act is amended by striking out the word "and" at the end of paragraph (d) and by replacing paragraph (e) with the following: |  | 51. (1) L'alinéa 241(3.2)e) de la même loi est remplacé par ce qui suit : |  |  |  |  |
 | (e) if the registration of the charity has been revoked or annulled, a copy of the entirety of or any part of any letter sent by or on behalf of the Minister to the charity relating to the grounds for the revocation or annulment; (f) financial statements required to be filed with an information return referred to in subsection 149.1(14); (g) a copy of the entirety of or any part of any letter or notice by the Minister to the charity relating to a suspension under section 188.2 or an assessment of tax or penalty under this Act (other than the amount of a liability under subsection 188(1.1)); and (h) an application by the charity, and information filed in support of the application, for a designation, determination or decision by the Minister under subsection 149.1(6.3), (7), (8) or (13). |  | e) en cas de révocation ou d'annulation de l'enregistrement de l'organisme, une copie de tout ou partie d'une lettre envoyée à l'organisme par le ministre, ou pour son compte, indiquant la raison de la révocation ou de l'annulation; f) les états financiers à produire avec la déclaration de renseignements visée au paragraphe 149.1(14); g) une copie de tout ou partie d'une lettre ou d'un avis envoyé à l'organisme par le ministre au sujet d'une suspension prévue à l'article 188.2 ou d'une cotisation concernant un impôt ou une pénalité à payer sous le régime de la présente loi, à l'exception d'une cotisation concernant une somme à payer en vertu du paragraphe 188(1.1); h) toute demande de désignation ou d'approbation que l'organisme présente en vertu des paragraphes 149.1(6.3), (7), (8) ou (13), ainsi que les renseignements présentés à l'appui de cette demande. |  |  |  |  |
 | (2) Subsection (1) applies to documents that are sent by the Minister of National Revenue, or that are filed or required to be filed with that Minister, after the day on which this Act is assented to. |  | (2) Le paragraphe (1) s'applique aux documents envoyés par le ministre du Revenu national, ainsi qu'aux documents qui lui sont présentés, ou qui doivent l'être, après la date de sanction de la présente loi. |  |  |  |  |
@@ -397,19 +397,19 @@ SCHEDULE
 
 Table of ContentsCoverSummaryBill  C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
 
-Bill  C-33Click here for the entire document (842Kb)Table of ContentsCoverSummaryBill  C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
+Bill  C-33Click here for the entire document (789Kb)Table of ContentsCoverSummaryBill  C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
 
 COVER
 
 | C-33 |  | C-33 |
 | --- | --- | --- |
 | First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-33 |  | PROJET DE LOI C-33 |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |
-| first reading, December 8, 2004 |  | première lecture le 8 décembre 2004 |
-| THE MINISTER OF FINANCE90290 |  | LE MINISTRE DES FINANCES |
+| AS PASSEDBY THE HOUSE OF COMMONSFEBRUARY 25, 2005 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 25 FÉVRIER 2005 |
+| 90290 |  |  |
 
 INSIDECOVER
 
@@ -425,7 +425,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -664,7 +664,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -903,7 +903,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -1142,7 +1142,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -1381,7 +1381,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -1620,7 +1620,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -1859,7 +1859,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -2098,7 +2098,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -2337,7 +2337,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -2576,7 +2576,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -2815,7 +2815,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -3054,7 +3054,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
@@ -3293,7 +3293,7 @@ MAINTEXT
 
 | 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53 Elizabeth II, 2004 |  | 53 Elizabeth II, 2004 |  |  |  |  |
+| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
