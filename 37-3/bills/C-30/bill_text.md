@@ -1,13 +1,10 @@
 COVER
 
-| C-30 |  | C-30 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-30 |  | PROJET DE LOI C-30 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 22 |  | LOIS DU CANADA (2004)CHAPITRE 22 |
 | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |
-| AS PASSED BY THE HOUSE OF COMMONS MAY 5, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 5 MAI 2004 |
-| 90261 |  |  |
+| BILL C-30 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-30 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
@@ -62,11 +59,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |  |
 |  |  | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the Budget Implementation Act, 2004. |  | 1. Loi d'exécution du budget de 2004. |  | Titre abrégé |  |  |  |
@@ -636,22 +634,19 @@ MAINTEXT
 |  |  | (d) an action that the Minister may otherwise take in respect of the tax debt is restricted or not permitted under any provision of the Bankruptcy and Insolvency Act, of the Companies' Creditors Arrangement Act or of the Farm Debt Mediation Act. |  | d) l'une des actions que le ministre peut exercer par ailleurs relativement à la dette fiscale est limitée ou interdite en vertu d'une disposition quelconque de la Loi sur la faillite et l'insolvabilité, de la Loi sur les arrangements avec les créanciers des compagnies ou de la Loi sur la médiation en matière d'endettement agricole. |  |  |  |  |  |
 | Bar to claims |  | (9) Notwithstanding any law of Canada or a province, Her Majesty is not liable for any claim that arises because the Minister collected a tax debt after the end of any limitation period that applied to the collection of the tax debt and before March 4, 2004. |  | (9) Malgré toute autre règle de droit fédérale ou provinciale, aucune réclamation ne peut être déposée contre Sa Majesté du fait que le ministre a recouvré une dette fiscale après que tout délai de prescription qui s'est appliqué au recouvrement de la dette a expiré et avant le 4 mars 2004. |  | Réclamation contre Sa Majesté |  |  |  |
 | Orders after March 3, 2004 and before effect |  | (10) Notwithstanding any order or judgment made after March 3, 2004 that declares a tax debt not to be payable by a taxpayer, or that orders the Minister to reimburse to a taxpayer a tax debt collected by the Minister, because a limitation period that applied to the collection of the tax debt ended before royal assent to any measure giving effect to this section, the tax debt is deemed to have become payable on March 4, 2004. |  | (10) Malgré toute ordonnance ou tout jugement rendu après le 3 mars 2004 dans lequel une dette fiscale est déclarée ne pas être exigible, ou selon lequel le ministre est tenu de rembourser à un contribuable le montant d'une dette fiscale recouvrée, du fait qu'un délai de prescription qui s'appliquait au recouvrement de la dette a pris fin avant la sanction de toute mesure donnant effet au présent article, la dette est réputée être devenue exigible le 4 mars 2004. |  | Ordonnances après le 3 mars 2004 et avant la prise d'effet |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
-Table of ContentsCoverTable of ProvisionsBill C-30short titlePART 1AMENDMENTS TO THE FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS ACTFiscal Equalization PaymentsCanada Social TransferPART 2AMENDMENT TO THE CANADA-NEWFOUNDLAND ATLANTIC ACCORD IMPLEMENTATION ACTPART 3GENERAL — PAYMENTS TO CERTAIN ENTITIESPayments to a TrustPayments to Nova ScotiaPayment to SaskatchewanAppropriations for GrantsAmendments to the Canada Foundation for Sustainable Development Technology ActPART 4AMENDMENTS TO THE CANADA PENSION PLANCanada Pension PlanTransitionalComing into ForcePART 5AMENDMENTS TO THE EMPLOYMENT INSURANCE ACTPART 6AMENDMENT TO THE FARM CREDIT CANADA ACTPART 7GOODS AND SERVICES TAX AND HARMONIZED SALES TAX REBATE FOR MUNICIPALITIESExcise Tax Act...PART 8LIMITATION PERIODS FOR COLLECTION OF CHARGE DEBTS AND TAX DEBTSAir Travellers Security Charge ActExcise ActExcise Act, 2001Excise Tax ActIncome Tax Act
+Table of ContentsCoverTable of ProvisionsBill short titlePART 1AMENDMENTS TO THE FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS ACTFiscal Equalization PaymentsCanada Social TransferPART 2AMENDMENT TO THE CANADA-NEWFOUNDLAND ATLANTIC ACCORD IMPLEMENTATION ACTPART 3GENERAL — PAYMENTS TO CERTAIN ENTITIESPayments to a TrustPayments to Nova ScotiaPayment to SaskatchewanAppropriations for GrantsAmendments to the Canada Foundation for Sustainable Development Technology ActPART 4AMENDMENTS TO THE CANADA PENSION PLANCanada Pension PlanTransitionalComing into ForcePART 5AMENDMENTS TO THE EMPLOYMENT INSURANCE ACTPART 6AMENDMENT TO THE FARM CREDIT CANADA ACTPART 7GOODS AND SERVICES TAX AND HARMONIZED SALES TAX REBATE FOR MUNICIPALITIESExcise Tax Act...PART 8LIMITATION PERIODS FOR COLLECTION OF CHARGE DEBTS AND TAX DEBTSAir Travellers Security Charge ActExcise ActExcise Act, 2001Excise Tax ActIncome Tax Act
 
-Bill C-30Click here for the entire document. PublicationID : 2331597 Table of ContentsCoverTable of ProvisionsBill C-30short titlePART 1AMENDMENTS TO THE FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS ACTFiscal Equalization PaymentsCanada Social TransferPART 2AMENDMENT TO THE CANADA-NEWFOUNDLAND ATLANTIC ACCORD IMPLEMENTATION ACTPART 3GENERAL — PAYMENTS TO CERTAIN ENTITIESPayments to a TrustPayments to Nova ScotiaPayment to SaskatchewanAppropriations for GrantsAmendments to the Canada Foundation for Sustainable Development Technology ActPART 4AMENDMENTS TO THE CANADA PENSION PLANCanada Pension PlanTransitionalComing into ForcePART 5AMENDMENTS TO THE EMPLOYMENT INSURANCE ACTPART 6AMENDMENT TO THE FARM CREDIT CANADA ACTPART 7GOODS AND SERVICES TAX AND HARMONIZED SALES TAX REBATE FOR MUNICIPALITIESExcise Tax Act...PART 8LIMITATION PERIODS FOR COLLECTION OF CHARGE DEBTS AND TAX DEBTSAir Travellers Security Charge ActExcise ActExcise Act, 2001Excise Tax ActIncome Tax Act
+Bill C-30Click here for the entire document. PublicationID : 2331598 Table of ContentsCoverTable of ProvisionsBill short titlePART 1AMENDMENTS TO THE FEDERAL-PROVINCIAL FISCAL ARRANGEMENTS ACTFiscal Equalization PaymentsCanada Social TransferPART 2AMENDMENT TO THE CANADA-NEWFOUNDLAND ATLANTIC ACCORD IMPLEMENTATION ACTPART 3GENERAL — PAYMENTS TO CERTAIN ENTITIESPayments to a TrustPayments to Nova ScotiaPayment to SaskatchewanAppropriations for GrantsAmendments to the Canada Foundation for Sustainable Development Technology ActPART 4AMENDMENTS TO THE CANADA PENSION PLANCanada Pension PlanTransitionalComing into ForcePART 5AMENDMENTS TO THE EMPLOYMENT INSURANCE ACTPART 6AMENDMENT TO THE FARM CREDIT CANADA ACTPART 7GOODS AND SERVICES TAX AND HARMONIZED SALES TAX REBATE FOR MUNICIPALITIESExcise Tax Act...PART 8LIMITATION PERIODS FOR COLLECTION OF CHARGE DEBTS AND TAX DEBTSAir Travellers Security Charge ActExcise ActExcise Act, 2001Excise Tax ActIncome Tax Act
 
 COVER
 
-| C-30 |  | C-30 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-30 |  | PROJET DE LOI C-30 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 22 |  | LOIS DU CANADA (2004)CHAPITRE 22 |
 | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |
-| AS PASSED BY THE HOUSE OF COMMONS MAY 5, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 5 MAI 2004 |
-| 90261 |  |  |
+| BILL C-30 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-30 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
@@ -704,11 +699,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |  |
 |  |  | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the Budget Implementation Act, 2004. |  | 1. Loi d'exécution du budget de 2004. |  | Titre abrégé |  |  |  |
@@ -827,11 +823,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |  |
 |  |  | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the Budget Implementation Act, 2004. |  | 1. Loi d'exécution du budget de 2004. |  | Titre abrégé |  |  |  |
@@ -950,11 +947,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |  |
 |  |  | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the Budget Implementation Act, 2004. |  | 1. Loi d'exécution du budget de 2004. |  | Titre abrégé |  |  |  |
@@ -1073,11 +1071,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |  |
 |  |  | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the Budget Implementation Act, 2004. |  | 1. Loi d'exécution du budget de 2004. |  | Titre abrégé |  |  |  |
@@ -1196,11 +1195,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |  |
 |  |  | An Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the Budget Implementation Act, 2004. |  | 1. Loi d'exécution du budget de 2004. |  | Titre abrégé |  |  |  |
