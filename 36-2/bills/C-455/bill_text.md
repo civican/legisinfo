@@ -1,0 +1,10 @@
+Bill C-455 PublicationID : 2330811 Table of ContentsSummaryBILL C-455
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment changes the name of the electoral district of Charlesbourg to Charlesbourg-Jacques-Cartier. |  |
+
+|  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-455 An Act to change the name of the electoral district of Charlesbourg Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: Name changed to ``Charlesbour g-Jacques-C artier'' **1.** In the representation order declared in force by Proclamation of January 8, 1996, under the *Electoral Boundaries Readjustment Act*, paragraph 15 of that part relating to the province of Quebec is amended by substituting the name ``Charlesbourg-Jacques-Cartier'' for the name ``Charlesbourg''.
