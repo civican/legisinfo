@@ -1,0 +1,152 @@
+<Bills>
+  <Bill>
+    <Id>4771482</Id>
+    <NumberCode>S-15</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>15</Number>
+    <LongTitleEn>An Act respecting the declaration of royal assent by the Governor General in the Queen's name to bills passed by the Houses of Parliament</LongTitleEn>
+    <LongTitleFr>Loi relative aux modalités d'octroi par le gouverneur général, au nom de Sa Majesté, de la sanction royale aux projets de loi adoptés par les chambres du Parlement</LongTitleFr>
+    <LongTitle>An Act respecting the declaration of royal assent by the Governor General in the Queen's name to bills passed by the Houses of Parliament</LongTitle>
+    <ShortTitleEn>Royal Assent Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la sanction royale</ShortTitleFr>
+    <ShortTitle>Royal Assent Act</ShortTitle>
+    <StatusId>345</StatusId>
+    <StatusNameEn>At report stage in the Senate</StatusNameEn>
+    <StatusNameFr>À l'étape du rapport au Sénat</StatusNameFr>
+    <StatusName>At report stage in the Senate</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the Senate</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60032</OngoingStageId>
+    <OngoingStageNameEn>Report stage</OngoingStageNameEn>
+    <OngoingStageNameFr>Étape du rapport</OngoingStageNameFr>
+    <OngoingStageName>Report stage</OngoingStageName>
+    <LatestCompletedBillStageId>60049</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Consideration in committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Examen en comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Consideration in committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>1998-06-18T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>36</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>80760</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Public Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi d'intérêt public du Sénat</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Public Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>62</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>1866</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>John</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Lynch-Staunton</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>John Lynch-Staunton</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Senator</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>sénateur</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Senator</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>3</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Senator</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>sénateur</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Senator</SponsorAffiliationRoleName>
+    <SponsorConstituencyId />
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn />
+    <LatestBillEventTypeNameFr />
+    <LatestBillEventStageId>0</LatestBillEventStageId>
+    <LatestBillEventTypeName />
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn />
+    <LatestBillEventChamberNameFr />
+    <LatestBillEventChamberName />
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber />
+    <LatestBillEventAdditionalInformationEn />
+    <LatestBillEventAdditionalInformationFr />
+    <LatestBillEventAdditionalInformation />
+    <PassedHouseFirstReadingDateTime />
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime>1998-04-02T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>1998-06-09T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages />
+    <Publications>
+      <PublicationId>5076389</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
