@@ -1,4 +1,4 @@
-Bill C-76 PublicationID : 2330043 Table of ContentsSummaryBILL C-76SHORT TITLEPART 1OPERATIONAL GROUPSInterpretationGovernment ServicesObligationsCollective AgreementsAmendment of Collective AgreementEnforcementComing into ForcePART 2CORRECTIONAL GROUPSInterpretationGovernment ServicesObligationsCollective AgreementsAmendment of Collective AgreementsEnforcementComing into ForceTABLE OF PROVISIONSSCHEDULE 1SCHEDULE 2
+Bill C-76 PublicationID : 2330044 Table of ContentsSummaryBILL C-76SHORT TITLEPART 1OPERATIONAL GROUPSInterpretationGovernment ServicesObligationsCollective AgreementsAmendment of Collective AgreementEnforcementComing into ForcePART 2CORRECTIONAL GROUPSInterpretationGovernment ServicesObligationsCollective AgreementsAmendment of Collective AgreementsEnforcementComing into ForceTABLE OF PROVISIONSSCHEDULE 1SCHEDULE 2
 
 |  | SUMMARY |  |
 | --- | --- | --- |
