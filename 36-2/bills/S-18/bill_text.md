@@ -1,11 +1,8 @@
-Bill S-18 PublicationID : 2330531 Table of ContentsSummaryBILL S-18Limitation on Deployment
+Bill S-18 PublicationID : 2330532 Table of ContentsSummaryBILL S-18Limitation on Deployment
 
 |  | SUMMARY |  |
 | --- | --- | --- |
 |  | This enactment prevents the deployment by the Canadian Forces of persons under the age of eighteen years to a theatre of hostilities. |  |
-|  | EXPLANATORY NOTE |  |
-|  | National Defence Act |  |
-|  | Clause 1: New. |  |
 
 |  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
 | --- | --- |
