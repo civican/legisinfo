@@ -1,13 +1,10 @@
 COVER
 
-| C-3 |  | C-3 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-3 |  | PROJET DE LOI C-3 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 24 |  | LOIS DU CANADA (2004)CHAPITRE 24 |
 | An Act to amend the Canada Elections Act and the Income Tax Act |  | Loi modifiant la Loi électorale du Canada et la Loi de l'impôt sur le revenu |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 31, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 31 MARS 2004 |
-| 90246 |  |  |
+| BILL C-3 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-3 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
@@ -17,11 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-3 |  | PROJET DE LOI C-3 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 24 |  | CHAPITRE 24 |  |  |  |  |  |
 |  |  | An Act to amend the Canada Elections Act and the Income Tax Act |  | Loi modifiant la Loi électorale du Canada et la Loi de l'impôt sur le revenu |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 9 |  | canada elections act |  | loi électorale du canada |  | 2000, ch. 9 |  |  |  |
 |  |  | 1. Subsection 2(1) of the Canada Elections Act is amended by adding the following in alphabetical order: |  | 1. Le paragraphe 2(1) de la Loi électorale du Canada est modifié par adjonction, selon l'ordre alphabétique, de ce qui suit : |  |  |  |  |  |
@@ -172,32 +170,30 @@ MAINTEXT
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Coming into force |  | 27. (1) Subject to subsection (2), this Act comes into force on June 27, 2004 unless, before that day, the Chief Electoral Officer has published a notice in the Canada Gazette that the necessary preparations for the bringing into operation of this Act have been made and that this Act may come into force accordingly. |  | 27. (1) Sous réserve du paragraphe (2), la présente loi entre en vigueur le 27 juin 2004 à moins que, avant cette date, le directeur général des élections n'ait publié, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à sa mise en application ont été faits et qu'elle peut en conséquence entrer en vigueur. |  | Entrée en vigueur |  |  |  |
 | Limitation |  | (2) If this Act receives royal assent on a day that is after June 27, 2004, it comes into force on that day. |  | (2) La présente loi entre en vigueur à la date de sa sanction si celle-ci est postérieure au 27 juin 2004. |  | Réserve |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publics Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
-Table of ContentsCoverBill C-3canada elections actDeregistrationincome tax acttransitional provisionscoming into force
+Table of ContentsCoverBill canada elections actDeregistrationincome tax acttransitional provisionscoming into force
 
-Bill C-3Click here for the entire document. PublicationID : 2331594 Table of ContentsCoverBill C-3canada elections actDeregistrationincome tax acttransitional provisionscoming into force
+Bill C-3Click here for the entire document. PublicationID : 2331595 Table of ContentsCoverBill canada elections actDeregistrationincome tax acttransitional provisionscoming into force
 
 COVER
 
-| C-3 |  | C-3 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-3 |  | PROJET DE LOI C-3 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 24 |  | LOIS DU CANADA (2004)CHAPITRE 24 |
 | An Act to amend the Canada Elections Act and the Income Tax Act |  | Loi modifiant la Loi électorale du Canada et la Loi de l'impôt sur le revenu |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 31, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 31 MARS 2004 |
-| 90246 |  |  |
+| BILL C-3 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-3 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-3 |  | PROJET DE LOI C-3 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 24 |  | CHAPITRE 24 |  |  |  |  |  |
 |  |  | An Act to amend the Canada Elections Act and the Income Tax Act |  | Loi modifiant la Loi électorale du Canada et la Loi de l'impôt sur le revenu |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 9 |  | canada elections act |  | loi électorale du canada |  | 2000, ch. 9 |  |  |  |
 |  |  | 1. Subsection 2(1) of the Canada Elections Act is amended by adding the following in alphabetical order: |  | 1. Le paragraphe 2(1) de la Loi électorale du Canada est modifié par adjonction, selon l'ordre alphabétique, de ce qui suit : |  |  |  |  |  |
@@ -324,11 +320,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-3 |  | PROJET DE LOI C-3 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 24 |  | CHAPITRE 24 |  |  |  |  |  |
 |  |  | An Act to amend the Canada Elections Act and the Income Tax Act |  | Loi modifiant la Loi électorale du Canada et la Loi de l'impôt sur le revenu |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 9 |  | canada elections act |  | loi électorale du canada |  | 2000, ch. 9 |  |  |  |
 |  |  | 1. Subsection 2(1) of the Canada Elections Act is amended by adding the following in alphabetical order: |  | 1. Le paragraphe 2(1) de la Loi électorale du Canada est modifié par adjonction, selon l'ordre alphabétique, de ce qui suit : |  |  |  |  |  |
