@@ -1,17 +1,17 @@
 NAVIGATION END
 
-| C-260 Second Session, Thirty-seventh Parliament, 51-52 Elizabeth II, 2002-2003 |  | C-260 Deuxième session, trente-septième législature, 51-52 Elizabeth II, 2002-2003 |
+| C-260 Third Session, Thirty-seventh Parliament, 52 Elizabeth II, 2004 |  | C-260 Troisième session, trente-septième législature, 52 Elizabeth II, 2004 |
 | --- | --- | --- |
 | house of Commons OF CANADA |  | chambre des communes DU CANADA |
 | BILL C-260 |  | PROJET DE LOI C-260 |
-| An Act to amend the Hazardous Products Act (fire-safe cigarettes) |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite) |
-| Reprinted as amended by the Standing Committee on Health as a working copy for the use of the House of Commons at Report Stage and as reported to the House on October 8, 2003 |  | Réimprimé tel que modifié par le Comité permanent de la Santé comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 8 octobre 2003 |
+| An Act to amend the Hazardous Products Act (fire-safe cigarettes) |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite)) |
+| AS PASSED BY THE HOUSE OF COMMONS FEBRUARY 2, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 2 FÉVRIER 2004 |
 
 | Summary | Sommaire |
 | --- | --- |
 | This enactment amends the Hazardous Products Act by adding to the list of prohibited products cigarettes that do not meet the flammability standard to be set out in the regulations. | Le texte modifie la Loi sur les produits dangereux en ajoutant à la liste des produits interdits les cigarettes qui ne satisfont pas aux exigences de la norme d'inflammabilité fixée par règlement. |
 
-|  | 2nd Session, 37th Parliament, 51-52 Elizabeth II, 2002-2003 House of Commons of Canada Bill C-260 |  | 2e session, 37e législature, 51-52 Elizabeth II, 2002-2003 Chambre des communes du Canada Projet de loi C-260 |  |  |
+|  | 3rd Session, 37th Parliament, 52 Elizabeth II, 2004 House of Commons of Canada Bill C-260 |  | 3e session, 37e législature, 52 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-260 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | An Act to amend the Hazardous Products Act (fire-safe cigarettes) |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite) |  |  |
 | R.S., 1985, c. H-3 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., (1985), ch. H-3 |
