@@ -1,13 +1,10 @@
 COVER
 
-| C-28 |  | C-28 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-28 |  | PROJET DE LOI C-28 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 20 |  | LOIS DU CANADA (2004)CHAPITRE 20 |
 | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 3, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 3 MAI 2004 |
-| 90260 |  |  |
+| BILL C-28 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-28 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
@@ -17,11 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 20 |  | CHAPITRE 20 |  |  |  |  |  |
 |  |  | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 32 |  | canada national parks act |  | loi sur les parcs nationaux du canada |  | 2000, ch. 32 |  |  |  |
 | SOR/2003-345 |  | 1. Paragraph (10)(a) of the description of Riding Mountain National Park of Canada in Part 4 of Schedule 1 to the Canada National Parks Act is replaced by the following: |  | 1. L'alinéa (10)a) de la description du parc national du Mont-Riding du Canada figurant à la partie 4 de l'annexe 1 de la Loi sur les parcs nationaux du Canada est remplacé par ce qui suit : |  | DORS/2003-345 |  |  |  |
@@ -30,32 +28,30 @@ MAINTEXT
 |  |  | Thirdly: Parcel 1 and Village Connector Road, as shown on a plan recorded in the Canada Lands Surveys Records at Ottawa as 88700. |  | Troisièmement : la parcelle 1 et le chemin de rattachement du village, lesquels figurent sur le plan no 88700 des Archives d'arpentage des terres du Canada à Ottawa. |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order of the Governor in Council |  | 3. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  | 3. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
-Table of ContentsCoverBill C-28canada national parks actcoming into force
+Table of ContentsCoverBill canada national parks actcoming into force
 
-Bill C-28Click here for the entire document. PublicationID : 2331590 Table of ContentsCoverBill C-28canada national parks actcoming into force
+Bill C-28Click here for the entire document. PublicationID : 2331591 Table of ContentsCoverBill canada national parks actcoming into force
 
 COVER
 
-| C-28 |  | C-28 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-28 |  | PROJET DE LOI C-28 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 20 |  | LOIS DU CANADA (2004)CHAPITRE 20 |
 | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 3, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 3 MAI 2004 |
-| 90260 |  |  |
+| BILL C-28 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-28 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 20 |  | CHAPITRE 20 |  |  |  |  |  |
 |  |  | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 32 |  | canada national parks act |  | loi sur les parcs nationaux du canada |  | 2000, ch. 32 |  |  |  |
 | SOR/2003-345 |  | 1. Paragraph (10)(a) of the description of Riding Mountain National Park of Canada in Part 4 of Schedule 1 to the Canada National Parks Act is replaced by the following: |  | 1. L'alinéa (10)a) de la description du parc national du Mont-Riding du Canada figurant à la partie 4 de l'annexe 1 de la Loi sur les parcs nationaux du Canada est remplacé par ce qui suit : |  | DORS/2003-345 |  |  |  |
@@ -64,15 +60,16 @@ MAINTEXT
 |  |  | Thirdly: Parcel 1 and Village Connector Road, as shown on a plan recorded in the Canada Lands Surveys Records at Ottawa as 88700. |  | Troisièmement : la parcelle 1 et le chemin de rattachement du village, lesquels figurent sur le plan no 88700 des Archives d'arpentage des terres du Canada à Ottawa. |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order of the Governor in Council |  | 3. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  | 3. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 20 |  | CHAPITRE 20 |  |  |  |  |  |
 |  |  | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 32 |  | canada national parks act |  | loi sur les parcs nationaux du canada |  | 2000, ch. 32 |  |  |  |
 | SOR/2003-345 |  | 1. Paragraph (10)(a) of the description of Riding Mountain National Park of Canada in Part 4 of Schedule 1 to the Canada National Parks Act is replaced by the following: |  | 1. L'alinéa (10)a) de la description du parc national du Mont-Riding du Canada figurant à la partie 4 de l'annexe 1 de la Loi sur les parcs nationaux du Canada est remplacé par ce qui suit : |  | DORS/2003-345 |  |  |  |
@@ -81,15 +78,16 @@ MAINTEXT
 |  |  | Thirdly: Parcel 1 and Village Connector Road, as shown on a plan recorded in the Canada Lands Surveys Records at Ottawa as 88700. |  | Troisièmement : la parcelle 1 et le chemin de rattachement du village, lesquels figurent sur le plan no 88700 des Archives d'arpentage des terres du Canada à Ottawa. |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order of the Governor in Council |  | 3. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  | 3. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 20 |  | CHAPITRE 20 |  |  |  |  |  |
 |  |  | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | 2000, c. 32 |  | canada national parks act |  | loi sur les parcs nationaux du canada |  | 2000, ch. 32 |  |  |  |
 | SOR/2003-345 |  | 1. Paragraph (10)(a) of the description of Riding Mountain National Park of Canada in Part 4 of Schedule 1 to the Canada National Parks Act is replaced by the following: |  | 1. L'alinéa (10)a) de la description du parc national du Mont-Riding du Canada figurant à la partie 4 de l'annexe 1 de la Loi sur les parcs nationaux du Canada est remplacé par ce qui suit : |  | DORS/2003-345 |  |  |  |
@@ -98,4 +96,4 @@ MAINTEXT
 |  |  | Thirdly: Parcel 1 and Village Connector Road, as shown on a plan recorded in the Canada Lands Surveys Records at Ottawa as 88700. |  | Troisièmement : la parcelle 1 et le chemin de rattachement du village, lesquels figurent sur le plan no 88700 des Archives d'arpentage des terres du Canada à Ottawa. |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order of the Governor in Council |  | 3. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  | 3. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
