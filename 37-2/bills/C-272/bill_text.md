@@ -1,0 +1,10 @@
+Bill C-272 PublicationID : 2331529 Table of ContentsSummaryBILL C-272
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to impose two conditions on the appointment of a judge to the Supreme Court of Canada: the prior communication of the person's name to the House of Commons, and the adoption of a resolution by that House on the recommendation of the committee of the House that considers matters relating to justice. |  |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-272 An Act to amend the Supreme Court Act (appointment of judges) R.S., c. S-26 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 2(1) of the *Supreme Court Act* is amended by adding the following in alphabetical order:** ``committee'' « *comité* » ``committee'' means the standing committee of the House of Commons that considers matters relating to justice; **2. Section 4 of the Act is amended by adding the following after subsection (2):** Who may be appointed judge (3) A person may not be appointed a judge under subsection (2) unless (*a*) the Governor in Council has informed the House of Commons that the person has been chosen for appointment as a judge; (*b*) the House of Commons has referred the appointment to the committee for consideration; (*c*) the committee has considered the choice and has presented to the House of Commons a report in which the committee recommends the appointment; and (*d*) the House of Commons has passed a resolution concurring in the committee's recommendation or has approved the choice. Court may summon witnesses (4) In considering the choice of a person for appointment to the Court, the committee may call witnesses, including the person in question.
