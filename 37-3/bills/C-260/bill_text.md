@@ -1,19 +1,19 @@
 NAVIGATION END
 
-| C-260 Third Session, Thirty-seventh Parliament, 52 Elizabeth II, 2004 |  | C-260 Troisième session, trente-septième législature, 52 Elizabeth II, 2004 |
+| Third Session, Thirty-seventh Parliament, 52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature, 52-53 Elizabeth II, 2004 |
 | --- | --- | --- |
-| house of Commons OF CANADA |  | chambre des communes DU CANADA |
-| BILL C-260 |  | PROJET DE LOI C-260 |
+| STATUTES OF CANADA 2004 |  | lOIS DU Canada (2004) |
+| CHAPTER 9 |  | CHAPITRE 9 |
 | An Act to amend the Hazardous Products Act (fire-safe cigarettes) |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite)) |
-| AS PASSED BY THE HOUSE OF COMMONS FEBRUARY 2, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 2 FÉVRIER 2004 |
+| BILL C-260 ASSENTED TO 31st MARCH, 2004 |  | PROJET DE LOI C-260 SANCTIONNÉ LE 31 MARS 2004 |
 
 | Summary | Sommaire |
 | --- | --- |
 | This enactment amends the Hazardous Products Act by adding to the list of prohibited products cigarettes that do not meet the flammability standard to be set out in the regulations. | Le texte modifie la Loi sur les produits dangereux en ajoutant à la liste des produits interdits les cigarettes qui ne satisfont pas aux exigences de la norme d'inflammabilité fixée par règlement. |
 
-|  | 3rd Session, 37th Parliament, 52 Elizabeth II, 2004 House of Commons of Canada Bill C-260 |  | 3e session, 37e législature, 52 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-260 |  |  |
+|  | 52-53 ELIZABETH II _________ CHAPTER 9 |  | 52-53 ELIZABETH II _________ CHAPITRE 9 |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | An Act to amend the Hazardous Products Act (fire-safe cigarettes) |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite) |  |  |
+|  | An Act to amend the Hazardous Products Act (fire-safe cigarettes) [Assented to 31st March, 2004] |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite) [Sanctionné le 31 mars 2004] |  |  |
 | R.S., 1985, c. H-3 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., (1985), ch. H-3 |
 | 1997, c. 9, s. 104, c. 13, s. 61 | 1. Subsection 3(2) of the Hazardous Products Act is replaced by the following: |  | 1. Le paragraphe 3(2) de la Loi sur les produits dangereux est remplacé par ce qui suit : |  | 1997, ch. 9, art. 104, ch. 13, art. 61 |
 | Restrictions on application | (2) This Part does not apply to the advertising, sale or importation of a tobacco product as defined in section 2 of the Tobacco Act or the advertising of lighters or matches that display a tobacco product-related brand element, except to the extent that a cigarette described in item 41 of Part I of Schedule I is a prohibited product. |  | (2) Sont exclues de l'application de la présente partie la vente, l'importation ou la publicité de produits du tabac au sens de l'article 2 de la Loi sur le tabac et la publicité des briquets ou des allumettes portant un élément de marque d'un produit du tabac, exception faite des produits du tabac visés à l'article 41 de la partie I de l'annexe I qui sont des produits interdits. |  | Exclusion |
