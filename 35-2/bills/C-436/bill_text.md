@@ -1,0 +1,10 @@
+Bill C-436 PublicationID : 2329845 Table of ContentsSummaryBILL C-436
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Wages Liability Act to add a definition of ``adult''. This ensures that the Act will be interpreted consistently with the definition of ``child'' proposed by the United Nations Convention on the Rights of the Child as a person who is less than eighteen years old. |  |
+
+|  | 2nd Session, 35th Parliament, 45-46 Elizabeth II, 1996-97 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-436 An Act to amend the Wages Liability Act (definition of adult) Preamble WHEREAS, on November 20, 1989, the Convention on the Rights of the Child was adopted by the United Nations General Assembly; WHEREAS the Convention was ratified by Canada on December 31, 1991; WHEREAS the Convention proposes a definition of ``child'' that should be applied uniformly throughout federal legislation; AND WHEREAS the definition of ``adult'' should be consistent with that of ``child''; R.S., c. W-1 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Section 7 of the *Wages Liability Act* is renumbered as subsection 7(1) and is amended by adding the following:** Definition of ``adult'' (6) In subsection (1), ``adult'' means a person who is eighteen years of age or more.

@@ -1,4 +1,4 @@
-Bill C-95 PublicationID : 2329668 Table of ContentsSummaryBILL C-95Forfeiture of Offence-related PropertyCONSEQUENTIAL AMENDMENTSAccess to Information ActSeized Property Management ActCONDITIONAL AMENDMENTSCOMING INTO FORCE
+Bill C-95 PublicationID : 2329669 Table of ContentsSummaryBILL C-95Forfeiture of Offence-related PropertyCONSEQUENTIAL AMENDMENTSAccess to Information ActSeized Property Management ActCONDITIONAL AMENDMENTSCOMING INTO FORCE
 
 |  | SUMMARY |  |
 | --- | --- | --- |

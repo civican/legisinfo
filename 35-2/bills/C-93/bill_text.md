@@ -1,4 +1,4 @@
-Bill C-93 PublicationID : 2329661 Table of ContentsSummaryBILL C-93SHORT TITLEPART ICANADA FOUNDATION FOR INNOVATIONInterpretationEstablishment of FoundationDirectorsMembersStaffOperationsFinancial Matters and AuditsReports and Consideration of ReportsWinding UpGeneralPART IICOWICHAN TRIBES TOBACCO TAXPART IIICOWICHAN TRIBES TOBACCO PRODUCTS TAXPART IVWESTBANK FIRST NATION TOBACCO PRODUCTS TAXPART VTOBACCO PRODUCTSExcise Tax ActIncome Tax ActCustoms TariffPART VICHILD TAX BENEFITIncome Tax ActPART VIIAVIATION FUEL TAX REBATEExcise Tax ActIncome Tax ActPART VIIIFUEL MEASUREMENTExcise Tax ActPART IXEMPLOYMENT INSURANCEEmployment Insurance ActPART XAMENDMENTS TO OTHER ACTSBretton Woods and Related Agreements ActFarm Credit Corporation ActPART XIPAYMENT TO THE CANADA FOUNDATION FOR INNOVATION
+Bill C-93 PublicationID : 2329663 Table of ContentsSummaryBILL C-93SHORT TITLEPART ICANADA FOUNDATION FOR INNOVATIONInterpretationEstablishment of FoundationDirectorsMembersStaffOperationsFinancial Matters and AuditsReports and Consideration of ReportsWinding UpGeneralPART IICOWICHAN TRIBES TOBACCO TAXPART IIICOWICHAN TRIBES TOBACCO PRODUCTS TAXPART IVWESTBANK FIRST NATION TOBACCO PRODUCTS TAXPART VTOBACCO PRODUCTSExcise Tax ActIncome Tax ActCustoms TariffPART VICHILD TAX BENEFITIncome Tax ActPART VIIAVIATION FUEL TAX REBATEExcise Tax ActIncome Tax ActPART VIIIFUEL MEASUREMENTExcise Tax ActPART IXEMPLOYMENT INSURANCEEmployment Insurance ActPART XAMENDMENTS TO OTHER ACTSBretton Woods and Related Agreements ActFarm Credit Corporation ActPART XIPAYMENT TO THE CANADA FOUNDATION FOR INNOVATION
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -30,232 +30,6 @@ Bill C-93 PublicationID : 2329661 Table of ContentsSummaryBILL C-93SHORT TITLEPA
 |  | The Farm Credit Corporation Act is amended to increase the ceiling on amounts that the Minister of Finance may pay to the Farm Credit Corporation. |  |
 |  | PART XI |  |
 |  | Part XI provides for the payment of $800 million plus interest to the Canada Foundation for Innovation. |  |
-|  | EXPLANATORY NOTES |  |
-|  | Excise Tax Act |  |
-|  | Clause 59: (1) The amendment adds a reference to section 23.22. |  |
-|  | Clause 60: (1) New. |  |
-|  | Clause 61: (1) The amendment deletes a reference to the Province of New Brunswick. |  |
-|  | (2) Subsection 23.31(2) reads as follows: |  |
-|  | (2) Tax shall not be imposed under subsection (1) where the purchaser referred to in that subsection is a consumer located in the province referred to in that subsection and the purchase is for consumption by the purchaser or by others at the expense of the purchaser. |  |
-|  | Clause 62: (1) The amendment adds a reference to the Province of New Brunswick. |  |
-|  | (2) Subsection 23.32(2) reads as follows: |  |
-|  | (2) Tax shall not be imposed under subsection (1) where the purchaser referred to in that subsection is a consumer in the Province of Quebec and the purchase is for consumption by the purchaser or by others at the expense of the purchaser. |  |
-|  | Clause 63: (1) Subsection 23.33(1) reads as follows: |  |
-|  | 23.33 (1) An excise tax shall be imposed, levied and collected on manufactured tobacco, other than tobacco sticks, that is |  |
-|  | (a) marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that it is intended for retail sale in the province; and |  |
-|  | (b) sold by the manufacturer of the manufactured tobacco, or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
-|  | (2) Subsections 23.33(3) and (4) read as follows: |  |
-|  | (3) The tax imposed under subsection (1) is payable by the person selling the manufactured tobacco to the purchaser referred to in that subsection and is payable at the time of the sale. |  |
-|  | (4) The tax imposed on manufactured tobacco under subsection (1) shall be equal to the amount by which |  |
-|  | (a) the excise tax that would have been imposed under section 23 in respect of the manufactured tobacco if the applicable rates of excise tax were the rates set out in paragraphs 1(f) and 3(e) of Schedule II |  |
-|  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the manufactured tobacco. |  |
-|  | Clause 64: (1) The definition ``Nova Scotia manufactured tobacco'' in subsection 23.34(1) reads as follows: |  |
-|  | ``Nova Scotia manufactured tobacco'' means manufactured tobacco that is marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the manufactured tobacco is intended for retail sale in the Province of Nova Scotia. |  |
-|  | (2) New. The definitions ``Nova Scotia cigarettes'' and ``Nova Scotia tobacco sticks'' are the same as those in subsection 68.169(1). |  |
-|  | (3) The relevant portion of subsection 23.34(2) reads as follows: |  |
-|  | (2) An excise tax shall be imposed, levied and collected on manufactured tobacco, other than tobacco sticks, that is Atlantic manufactured tobacco, black stock or Nova Scotia manufactured tobacco, to which paragraph 1(e) or 3(d) of Schedule II applies and that a licensed wholesale vendor sells to a person other than |  |
-|  | (4) Subsection 23.34(4) reads as follows: |  |
-|  | (4) The tax imposed on manufactured tobacco under subsection (2) shall be equal to the amount by which |  |
-|  | (a) the excise tax that would have been imposed under section 23 in respect of the manufactured tobacco if the applicable rates of excise tax were the rates set out in paragraphs 1(f) and 3(e) of Schedule II |  |
-|  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the manufactured tobacco. |  |
-|  | Clause 65: (1) The relevant portion of subsection 23.341(1) reads as follows: |  |
-|  | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia manufactured tobacco, to which section 68.169 and paragraph 1(e) or 3(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
-|  | (2) Subsection 23.341(3) reads as follows: |  |
-|  | (3) The tax imposed under subsection (1) shall be equal to the amount by which |  |
-|  | (a) the excise tax that would have been imposed under section 23 in respect of the manufactured tobacco if the applicable rates of excise tax were the rates set out in paragraphs 1(f) and 3(e) of Schedule II, |  |
-|  | exceeds |  |
-|  | (b) the excise tax imposed at the rates of |  |
-|  | (i) $0.05263 per five cigarettes, in the case of cigarettes, |  |
-|  | (ii) $0.00325 per tobacco stick, in the case of tobacco sticks, and |  |
-|  | (iii) $7.948 per kilogram, in the case of manufactured tobacco other than cigarettes and tobacco sticks. |  |
-|  | Clause 66: (1) Subsection 23.36(2) reads as follows: |  |
-|  | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock, in respect of which subparagraph 1(c)(ii) or 3(b)(ii) of Schedule II applies, that is in excess of the quantity of black stock that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on that excess black stock. |  |
-|  | (2) Subsection 23.36(3) reads as follows: |  |
-|  | (3) Where a designated wholesale vendor sells black stock, in respect of which subparagraph 1(c)(ii) or 3(b)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on that black stock. |  |
-|  | (3) Subsection 23.36(5) reads as follows: |  |
-|  | (5) The tax imposed on black stock under subsection (2) or (3) shall be equal to the amount by which |  |
-|  | (a) the excise tax that would have been imposed under section 23 in respect of the black stock if the applicable rates of excise tax were the rates set out in paragraphs 1(f) and 3(e) of Schedule II |  |
-|  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the black stock. |  |
-|  | Clause 67: (1) Section 68.161 reads as follows: |  |
-|  | 68.161 The Minister may refund to the manufacturer or producer of tobacco products (within the meaning assigned by section 23.1) the tax paid under subsection 23.2(1) in respect of the tobacco products where |  |
-|  | (a) the manufacturer or producer provides to the Minister evidence satisfactory to the Minister that all taxes imposed on the tobacco products by the national government of the country to which the tobacco products were exported have been paid; and |  |
-|  | (b) the manufacturer or producer applies to the Minister for the repayment within two years after the tobacco products were exported. |  |
-|  | Clause 68: (1) New. The definition ``Nova Scotia manufactured tobacco'' is the same as that in subsection 23.34(1). |  |
-|  | (2) Subsections 68.169(3.21) and (3.22) are new. Subsections 68.169(3.2), (4) and (5) read as follows: |  |
-|  | (3.2) Where, after the day on which the Act that enacts this subsection is assented to, a licensed wholesale vendor sells Nova Scotia cigarettes or Nova Scotia tobacco sticks to a licensed retail vendor, or to a consumer in the Province of Prince Edward Island for consumption by the consumer or by others at the expense of the consumer, the Minister may pay to the licensed wholesale vendor a tax rebate equal to the total of |  |
-|  | (a) $0.00625 multiplied by the number of those cigarettes, and |  |
-|  | (b) $0.0074 multiplied by the number of those tobacco sticks. |  |
-|  | (4) To qualify to receive a rebate under any of subsections (2) to (3.2) in respect of cigarettes or tobacco sticks, the licensed wholesale vendor must |  |
-|  | (a) apply to the Minister for the rebate, within two years after the sale of the cigarettes or tobacco sticks by the licensed wholesale vendor, in any form and manner that is authorized by the Minister; and |  |
-|  | (b) include in the application a certification by the Treasurer of the Province of Prince Edward Island that all tax payable in respect of the cigarettes or tobacco sticks under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, has been paid. |  |
-|  | (5) A licensed wholesale vendor shall not apply for a rebate under any of subsections (2) to (3.2) more often than once per month. |  |
-|  | Clause 69: (1) The amendment adds a reference to section 68.161. |  |
-|  | Clause 70: (1) The amendment deletes a reference to the Province of New Brunswick. |  |
-|  | Clause 71: (1) The amendment adds a reference to the Province of New Brunswick. |  |
-|  | Clause 72: (1) Section 97.3 reads as follows: |  |
-|  | 97.3 Where manufactured tobacco, other than tobacco sticks, has been marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that the manufactured tobacco is intended for sale in that province, every person who sells or offers for sale the manufactured tobacco to a consumer in any other province, other than the Province of Prince Edward Island, is guilty of an offence and is liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
-|  | (a) the excise tax that would be imposed under section 23 in respect of the manufactured tobacco if the applicable rates of excise tax were the rates set out in paragraphs 1(f) and 3(e) of Schedule II |  |
-|  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the manufactured tobacco. |  |
-|  | Clause 73: (1) Subsection 97.5(2) reads as follows: |  |
-|  | (2) Every person who sells or offers for sale black stock in respect of which excise tax was imposed under section 23 at a rate provided for under paragraph 1(c) or 3(b) of Schedule II, because of the application of subparagraph 1(c)(ii) or 3(b)(ii) of that Schedule, to a person other than a designated wholesale vendor, a designated retail vendor or an Indian consumer on a reserve in Nova Scotia is guilty of an offence and liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
-|  | (a) the excise tax that would be imposed under section 23 in respect of the black stock if the applicable rates of excise tax were the rates set out in paragraphs 1(f) and 3(e) of Schedule II |  |
-|  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the black stock. |  |
-|  | Clause 74: (1) to (4) The relevant portion of item 1 of Schedule II reads as follows: |  |
-|  | 1. Cigarettes: |  |
-|  | (a) $0.03388 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
-|  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.O. 1990, c. T.10, to clearly indicate that the cigarettes are intended for retail sale in the Province of Ontario, or |  |
-|  | ... |  |
-|  | (b) $0.02388 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.Q. 1977, c. I-2, to indicate that the cigarettes are intended for retail sale in the Province of Quebec; |  |
-|  | (c) $0.08388 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
-|  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to clearly indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia, or |  |
-|  | ... |  |
-|  | (d) $0.08388 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to clearly indicate that the cigarettes are intended for retail sale in the Province of New Brunswick; |  |
-|  | (e) $0.08388 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
-|  | (i) the cigarettes |  |
-|  | (A) are marked or stamped ``ATLANTIC'' or ``ATLANTIQUE'' in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3, but not marked or stamped to indicate that they are intended for retail sale in a particular province, and are delivered after May 31, 1994 and before September 12, 1994 by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under that Act, |  |
-|  | (B) are black stock delivered after August 31, 1994 and before the first day of the second month following the month in which the Act that enacts this clause is assented to, by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, or |  |
-|  | (C) are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia and are delivered by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with that Act; and |  |
-|  | Clause 75: (1) The amendment replaces ``$0.00575'' with ``$0.00865''. |  |
-|  | Clause 76: (1) The relevant portion of item 3 of Schedule II reads as follows: |  |
-|  | 3. Manufactured tobacco other than cigarettes and tobacco sticks: |  |
-|  | ... |  |
-|  | (b) $7.948 per kilogram, where |  |
-|  | (i) the manufactured tobacco is marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to clearly indicate that the manufactured tobacco is intended for retail sale in the Province of Nova Scotia, or |  |
-|  | (ii) the manufactured tobacco is black stock delivered after April 14, 1994 by the manufacturer or producer of the manufactured tobacco to a designated wholesale vendor (as defined in subsection 23.36(1)) and the designated wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the manufactured tobacco is intended for resale to designated retail vendors (as defined in subsection 23.36(1)); |  |
-|  | (c) $9.448 per kilogram, where the manufactured tobacco is marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to clearly indicate that the manufactured tobacco is intended for retail sale in the Province of New Brunswick; |  |
-|  | (d) $7.948 per kilogram, where |  |
-|  | (i) the manufactured tobacco |  |
-|  | (A) is black stock delivered after May 31, 1994 and before the first day of the second month following the month in which the Act that enacts this clause is assented to, by the manufacturer or producer of the manufactured tobacco to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, or |  |
-|  | (B) is marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the manufactured tobacco is intended for retail sale in the Province of Nova Scotia and is delivered by the manufacturer or producer of the manufactured tobacco to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the manufactured tobacco is intended for retail sale in the Province of Prince Edward Island in accordance with that Act; and |  |
-|  | Income Tax Act |  |
-|  | Clause 77: (1) The relevant portion of subsection 182(1) reads as follows: |  |
-|  | 182. (1) Every corporation shall pay a tax under this Part for each taxation year equal to 40% of that proportion of the corporation's Part I tax on tobacco manufacturing profits for the year that |  |
-|  | (a) the number of days in the year that are after February 8, 1994 and before February 9, 1997 |  |
-|  | Customs Tariff |  |
-|  | Clause 78: (1) The relevant portion of Note 7(a) to Chapter 98 of Schedule I reads as follows: |  |
-|  | 7. For the purpose of heading 98.05: |  |
-|  | (a) the provisions shall apply to alcoholic beverages not exceeding 1.14 litres and tobacco not exceeding fifty cigars, two hundred cigarettes, four hundred tobacco sticks and four hundred grams of manufactured tobacco where they are included in the baggage accompanying the importer, and no exemption is being claimed in respect of alcoholic beverages or tobacco under another heading or subheading at the time of importation; |  |
-|  | Clause 79: (1) Subheading Note 2 to Chapter 98 of Schedule I reads as follows: |  |
-|  | 2. For the purpose of subheading No. 9804.10, goods may include alcoholic beverages not exceeding 1.14 litres, and tobacco not exceeding fifty cigars, two hundred cigarettes, four hundred tobacco sticks and four hundred grams of manufactured tobacco. |  |
-|  | Income Tax Act |  |
-|  | Clause 80: (1) The relevant portion of subsection 122.61(1) reads as follows: |  |
-|  | 122.61 (1) Where a person and, where the Minister so demands, the person's cohabiting spouse at the end of a taxation year have filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year shall be deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula |  |
-|  | 1/12(A - B) |  |
-|  | where |  |
-|  | A is the total of |  |
-|  | (a) the product obtained by multiplying $1,020 by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month, |  |
-|  | (b) the product obtained by multiplying $75 by the number of qualified dependants, in excess of 2, in respect of whom the person was an eligible individual at the beginning of the month, |  |
-|  | (c) where the person is, at the beginning of the month, an eligible individual in respect of one or more qualified dependants, the amount determined by the formula |  |
-|  | C - D |  |
-|  | where |  |
-|  | C is the lesser of $500 and 8% of the amount, if any, by which the person's adjusted earned income for the year exceeds $3,750, and |  |
-|  | D is 10% of the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and |  |
-|  | (2) The relevant portion of subsection 122.61(5) reads as follows: |  |
-|  | (5) Each amount (other than the amount of $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1991, the amount to be used under that subsection for the month is equal to the total of |  |
-|  | (3) New. |  |
-|  | Excise Tax Act |  |
-|  | Clause 81: (1) The amendment adds a reference to subsection 68.4(3.1). |  |
-|  | (2) New. |  |
-|  | (3) New. |  |
-|  | (4) Subsection 68.4(3.1) is new. Subsection 68.4(4) reads as follows: |  |
-|  | (4) No fuel tax rebate shall be paid under subsection (2) or (3) |  |
-|  | (a) in respect of fuel that is used or to be used other than for commercial purposes; |  |
-|  | (b) in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; or |  |
-|  | (c) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel that was purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
-|  | (5) Subsections 68.4(6) to (8) read as follows: |  |
-|  | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person sells any of the fuel to a purchaser or uses any of the fuel for a purpose other than the provision of eligible transportation services for commercial purposes, the amount of the rebate paid in respect of the fuel so sold or used shall be deemed to be a tax under this Act payable by the person |  |
-|  | (a) at the time that the fuel is delivered to the purchaser, if it is sold to a purchaser; and |  |
-|  | (b) at the time of the use, if the fuel is used by the person for a purpose other than the provision of eligible transportation services for commercial purposes. |  |
-|  | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) in a taxation year of the person may repay to the Receiver General all or a part of the rebate. |  |
-|  | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid under subsection (2) to a person in a taxation year of the person shall be made on or before the day that is 90 days after the day on which the Minister sends to the person a notice of assessment of tax payable by the person under Part I of the Income Tax Act for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable by the person under that Part for the year. |  |
-|  | (6) The relevant portion of subsection 68.4(9) reads as follows: |  |
-|  | (9) Where a person repays under subsection (7) all or a part of a fuel tax rebate, subsections 79(1) to (1.2) apply, with such modifications as the circumstances require, as if |  |
-|  | ... |  |
-|  | (c) subsection 78(4) had required the tax to be paid on or before the last day of the month in which the person received the fuel tax rebate; and |  |
-|  | Income Tax Act |  |
-|  | Clause 82: (1) The relevant portion of subsection 12(1) reads as follows: |  |
-|  | 12. (1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable: |  |
-|  | ... |  |
-|  | (x.1) the total of all amounts each of which is |  |
-|  | ... |  |
-|  | (ii) the amount, if any, by which |  |
-|  | (A) 10 times the amount, if any, by which |  |
-|  | (I) the total of all fuel tax rebates under subsection 68.4(2) of that Act received in the year by the taxpayer |  |
-|  | exceeds |  |
-|  | (II) the total of all amounts, in respect of fuel tax rebates under subsection 68.4(2) of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act |  |
-|  | exceeds |  |
-|  | (B) the total of all amounts, in respect of fuel tax rebates under subsection 68.4(2) of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital loss for a year; |  |
-|  | Clause 83: (1) The relevant portion of subsection 87(2) reads as follows: |  |
-|  | (2) Where there has been an amalgamation of two or more corporations after 1971 the following rules apply: |  |
-|  | ... |  |
-|  | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), clause 111(10)(a)(i)(B) and subsection 111(11), the new corporation shall be deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
-|  | Clause 84: (1) The relevant portion of subsection 111(10) reads as follows: |  |
-|  | (10) Where, in a particular taxation year, a taxpayer received an amount (in this subsection referred to as a ``rebate'') as a fuel tax rebate under subsection 68.4(2) of the Excise Tax Act, in computing the amount of the taxpayer's non-capital loss for a taxation year (in this subsection referred to as the ``loss year'') that is one of the 7 taxation years preceding the particular year, there shall be deducted the lesser of |  |
-|  | (a) the amount, if any, by which |  |
-|  | (i) 10 times the amount, if any, by which |  |
-|  | (A) the total of all rebates received by the taxpayer in the particular year |  |
-|  | exceeds |  |
-|  | (B) the total of all amounts, in respect of rebates received by the taxpayer in the particular year, repaid by the taxpayer under subsection 68.4(7) of that Act |  |
-|  | exceeds |  |
-|  | (ii) the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years, and |  |
-|  | (2) The relevant portion of subsection 111(11) reads as follows: |  |
-|  | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period during which the partnership received a fuel tax rebate under subsection 68.4(2) or (3) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2) or (3), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
-|  | Clause 85: (1) The relevant portion of subsection 161(7) reads as follows: |  |
-|  | (7) For the purpose of computing interest under subsection (1) or (2) on tax or a part of an instalment of tax for a taxation year, and for the purpose of section 163.1, |  |
-|  | (a) the tax payable by the taxpayer under this Part and Parts I.3, VI and VI.1 for the year shall be deemed to be the amount that it would have been if none of the following amounts, namely, |  |
-|  | ... |  |
-|  | (viii) any amount excluded from the amount determined under clause 12(1)(x.1)(ii)(A) because of subclause 12(1)(x.1)(ii)(A)(II) in respect of a fuel tax rebate repayment made in a subsequent taxation year, |  |
-|  | ... |  |
-|  | were so excluded or deducted for the year, as the case may be; and |  |
-|  | Clause 86: (1) The relevant portion of subsection 164(5) reads as follows: |  |
-|  | (5) For the purpose of subsection (3), the portion of any overpayment of the tax payable by a taxpayer for a taxation year that arose as a consequence of |  |
-|  | (a) the deduction of an amount under subclause 12(1)(x.1)(ii)(A)(II) in respect of a fuel tax rebate repayment made in a subsequent taxation year, |  |
-|  | ... |  |
-|  | shall be deemed to have arisen on the day that is the latest of |  |
-|  | ... |  |
-|  | (2) The relevant portion of subsection 164(5.1) reads as follows: |  |
-|  | (5.1) Where a repayment made under subsection (1.1) or (4.1) or an amount applied under subsection (2) in respect of a repayment, or a part thereof, may reasonably be regarded as being in respect of a claim made by a taxpayer in an objection to or appeal from an assessment of tax for a taxation year for |  |
-|  | (a) the deduction of an amount under subclause 12(1)(x.1)(ii)(A)(II) in respect of a fuel tax rebate repayment made in a subsequent taxation year, |  |
-|  | ... |  |
-|  | interest shall not be paid or applied thereon for any part of a period that is before the latest of |  |
-|  | ... |  |
-|  | Excise Tax Act |  |
-|  | Clause 87: New. |  |
-|  | Employment Insurance Act |  |
-|  | Clause 88: (1) The relevant portion of subsection 25(1) reads as follows: |  |
-|  | 25. (1) For the purposes of this Part, a claimant is unemployed and capable of and available for work during a period when the claimant is |  |
-|  | (a) attending a course or program of instruction or training at the claimant's own expense, or under employment benefits, to which the Commission, or an authority that the Commission designates, has referred the claimant; or |  |
-|  | Clause 89: (1) Section 26 reads as follows: |  |
-|  | 26. For the purposes of this Part, Part IV, the Income Tax Act and the Canada Pension Plan, benefits paid to a claimant while employed under employment benefits are not earnings from employment. |  |
-|  | Clause 90: (1) Subsections 96(7.1) and (8.1) are new. Subsections 96(6) to (10) read as follows: |  |
-|  | (6) If an employer pays less than $30,000 in employer's premiums during 1996, the Minister shall refund to the employer a portion of the employer's premiums paid during 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $500) 2 |  |
-|  | where |  |
-|  | P1 is the amount of premiums paid in 1996; and |  |
-|  | P2 is the amount of premiums paid in 1997. |  |
-|  | (7) If an employer pays less than $30,000 in employer's premiums during 1996, the Minister shall refund to the employer a portion of the employer's premiums paid during 1998 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $500) 4 |  |
-|  | where |  |
-|  | P1 is the amount of premiums paid in 1996; and |  |
-|  | P2 is the amount of premiums paid in 1998. |  |
-|  | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $5,000, if the amount of premiums paid in 1996 is less than $25,000; and |  |
-|  | (b) $30,000 minus the amount of premiums paid in 1996, if that amount is $25,000 or more, but less than $30,000. |  |
-|  | (9) If two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
-|  | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premiums were deducted or paid. |  |
-|  | Bretton Woods and Related Agreements Act |  |
-|  | Clause 92: New. |  |
-|  | Farm Credit Corporation Act |  |
-|  | Clause 93: Subsection 11(1) reads as follows: |  |
-|  | 11. (1) At the request of the Corporation, the Minister of Finance may, with the approval of the Governor in Council, pay to the Corporation, out of the Consolidated Revenue Fund, amounts not exceeding in the aggregate one billion, one hundred and twenty-five million dollars, or such greater aggregate amount as may be authorized from time to time under an appropriation Act. |  |
 
 |  | 2nd Session, 35th Parliament, 45-46 Elizabeth II, 1996-97 |
 | --- | --- |
@@ -311,7 +85,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Terms of members | 14. (1) Subject to subsection (2), the members shall be appointed to hold office for terms of five years, but they may be removed from office by a special resolution of the members and, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Terms of first members | (2) Of the members appointed under subsections 13(2) and (4), one-third shall be appointed for terms of five years, one-third shall be appointed for four years and one-third shall be appointed for three years but, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Additional terms of office | (3) A member is eligible to be reappointed for one or more terms of office. |  |
-| Replace- ments | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
+| Replacements | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
 | Ceasing to be member | (5) A member ceases to be a member when the member |  |
 |  | (a) dies; |  |
 |  | (b) resigns; |  |
@@ -401,7 +175,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Terms of members | 14. (1) Subject to subsection (2), the members shall be appointed to hold office for terms of five years, but they may be removed from office by a special resolution of the members and, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Terms of first members | (2) Of the members appointed under subsections 13(2) and (4), one-third shall be appointed for terms of five years, one-third shall be appointed for four years and one-third shall be appointed for three years but, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Additional terms of office | (3) A member is eligible to be reappointed for one or more terms of office. |  |
-| Replace- ments | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
+| Replacements | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
 | Ceasing to be member | (5) A member ceases to be a member when the member |  |
 |  | (a) dies; |  |
 |  | (b) resigns; |  |
@@ -491,7 +265,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Terms of members | 14. (1) Subject to subsection (2), the members shall be appointed to hold office for terms of five years, but they may be removed from office by a special resolution of the members and, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Terms of first members | (2) Of the members appointed under subsections 13(2) and (4), one-third shall be appointed for terms of five years, one-third shall be appointed for four years and one-third shall be appointed for three years but, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Additional terms of office | (3) A member is eligible to be reappointed for one or more terms of office. |  |
-| Replace- ments | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
+| Replacements | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
 | Ceasing to be member | (5) A member ceases to be a member when the member |  |
 |  | (a) dies; |  |
 |  | (b) resigns; |  |
@@ -581,7 +355,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Terms of members | 14. (1) Subject to subsection (2), the members shall be appointed to hold office for terms of five years, but they may be removed from office by a special resolution of the members and, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Terms of first members | (2) Of the members appointed under subsections 13(2) and (4), one-third shall be appointed for terms of five years, one-third shall be appointed for four years and one-third shall be appointed for three years but, except where they cease to be members under subsection (5), they shall continue to hold office until their successors are appointed. |  |
 | Additional terms of office | (3) A member is eligible to be reappointed for one or more terms of office. |  |
-| Replace- ments | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
+| Replacements | (4) A person appointed to fill a vacancy in the office of a member who has ceased to hold the office before the expiry of the member's term of office shall be appointed to hold office for the unexpired portion of that term. |  |
 | Ceasing to be member | (5) A member ceases to be a member when the member |  |
 |  | (a) dies; |  |
 |  | (b) resigns; |  |
@@ -1482,29 +1256,29 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | 1994, c. 29, s. 6(1) | 63. (1) Subsection 23.33(1) of the Act is replaced by the following: |  |
 | Tax on cigarettes sold to purchaser not authorized to resell in Nova Scotia | 23.33 (1) An excise tax shall be imposed, levied and collected on cigarettes that are |  |
 |  | (a) marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that they are intended for retail sale in that province; and |  |
-|  | (b) sold by the manufacturer of them , or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
+|  | (b) sold by the manufacturer of them, or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
 | 1994, c. 29, s. 6(1) | (2) Subsections 23.33(3) and (4) of the Act are replaced by the following: |  |
 | When and by whom tax payable | (3) The tax imposed under subsection (1) is payable by the person selling the cigarettes to the purchaser referred to in that subsection and is payable at the time of the sale. |  |
 | Amount of tax | (4) The tax imposed on cigarettes under subsection (1) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (3) Subsections (1) and (2) are deemed to have come into force on November 29, 1996. |  |
 | 1995, c. 36, s. 3(2) | 64. (1) The definition ``Nova Scotia manufactured tobacco'' in subsection 23.34(1) of the Act is repealed. |  |
 |  | (2) Subsection 23.34(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``Nova Scotia cigarettes'' « cigarettes de la Nouvelle- Écosse » | ``Nova Scotia cigarettes'' means cigarettes that are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia; |  |
 | ``Nova Scotia tobacco sticks'' « bâtonnets de tabac de la Nouvelle- Écosse » | ``Nova Scotia tobacco sticks'' means tobacco sticks that are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the tobacco sticks are intended for retail sale in the Province of Nova Scotia. |  |
 | 1995, c. 36, s. 3(3) | (3) The portion of subsection 23.34(2) of the Act before paragraph (a) is replaced by the following: |  |
-| Excise tax on diverted P.E.I. cigarettes | (2) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes , to which paragraph 1(e) of Schedule II applies, that a licensed wholesale vendor sells to a person other than |  |
+| Excise tax on diverted P.E.I. cigarettes | (2) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes, to which paragraph 1(e) of Schedule II applies, that a licensed wholesale vendor sells to a person other than |  |
 | 1994, c. 29, s. 6(1) | (4) Subsection 23.34(4) of the Act is replaced by the following: |  |
 | Amount of tax | (4) The tax imposed on cigarettes under subsection (2) shall be equal to the amount by which |  |
 |  | (a) the excise that would have been imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (5) Subsection (1) is deemed to have come into force on December 12, 1996. |  |
 |  | (6) Subsections (2), (3) and (4) are deemed to have come into force on November 29, 1996. |  |
 | 1995, c. 36, s. 4 | 65. (1) The portion of subsection 23.341(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Excise tax on diverted P.E.I. tobacco | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes or Nova Scotia tobacco sticks , to which section 68.169 and paragraph 1(e) or 2(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
+| Excise tax on diverted P.E.I. tobacco | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes or Nova Scotia tobacco sticks, to which section 68.169 and paragraph 1(e) or 2(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
 | 1995, c. 36, s. 4 | (2) Subsection 23.341(3) of the Act is replaced by the following: |  |
 | Amount of tax | (3) The tax imposed under subsection (1) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of the cigarettes or tobacco sticks if the applicable rates of excise tax were the rates set out in paragraph 1(f) or 2(d) of Schedule II |  |
@@ -1514,14 +1288,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (ii) $0.00595 per tobacco stick, in the case of tobacco sticks. |  |
 |  | (3) Subsections (1) and (2) are deemed to have come into force on December 12, 1996. |  |
 | 1994, c. 29, s. 6(1) | 66. (1) Subsection 23.36(2) of the Act is replaced by the following: |  |
-| Tax on excess sale of black stock cigarettes | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock cigarettes , in respect of which subparagraph 1(c)(ii) of Schedule II applies, that is in excess of the quantity of black stock cigarettes that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on those excess black stock cigarettes . |  |
+| Tax on excess sale of black stock cigarettes | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock cigarettes, in respect of which subparagraph 1(c)(ii) of Schedule II applies, that is in excess of the quantity of black stock cigarettes that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on those excess black stock cigarettes. |  |
 | 1994, c. 29, s. 6(1) | (2) Subsection 23.36(3) of the Act is replaced by the following: |  |
-| Tax on illegal sale of black stock cigarettes | (3) Where a designated wholesale vendor sells black stock cigarettes , in respect of which subparagraph 1(c)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on those cigarettes . |  |
+| Tax on illegal sale of black stock cigarettes | (3) Where a designated wholesale vendor sells black stock cigarettes, in respect of which subparagraph 1(c)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on those cigarettes. |  |
 | 1994, c.29, s. 6(1) | (3) Subsection 23.36(5) of the Act is replaced by the following: |  |
 | Amount of tax | (5) The tax imposed on black stock cigarettes under subsection (2) or (3) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of those cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of those cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of those cigarettes. |  |
 |  | (4) Subsections (1) to (3) are deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 7(1) | 67. (1) Section 68.161 of the Act is replaced by the following: |  |
 | Refund of tax where foreign taxes paid or where products for sale in foreign duty free shop | 68.161 The Minister may refund to the manufacturer or producer of tobacco products (within the meaning assigned by section 23.1) the tax paid under subsection 23.2(1) in respect of the tobacco products where |  |
@@ -1572,29 +1346,29 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | 1994, c. 29, s. 6(1) | 63. (1) Subsection 23.33(1) of the Act is replaced by the following: |  |
 | Tax on cigarettes sold to purchaser not authorized to resell in Nova Scotia | 23.33 (1) An excise tax shall be imposed, levied and collected on cigarettes that are |  |
 |  | (a) marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that they are intended for retail sale in that province; and |  |
-|  | (b) sold by the manufacturer of them , or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
+|  | (b) sold by the manufacturer of them, or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
 | 1994, c. 29, s. 6(1) | (2) Subsections 23.33(3) and (4) of the Act are replaced by the following: |  |
 | When and by whom tax payable | (3) The tax imposed under subsection (1) is payable by the person selling the cigarettes to the purchaser referred to in that subsection and is payable at the time of the sale. |  |
 | Amount of tax | (4) The tax imposed on cigarettes under subsection (1) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (3) Subsections (1) and (2) are deemed to have come into force on November 29, 1996. |  |
 | 1995, c. 36, s. 3(2) | 64. (1) The definition ``Nova Scotia manufactured tobacco'' in subsection 23.34(1) of the Act is repealed. |  |
 |  | (2) Subsection 23.34(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``Nova Scotia cigarettes'' « cigarettes de la Nouvelle- Écosse » | ``Nova Scotia cigarettes'' means cigarettes that are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia; |  |
 | ``Nova Scotia tobacco sticks'' « bâtonnets de tabac de la Nouvelle- Écosse » | ``Nova Scotia tobacco sticks'' means tobacco sticks that are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the tobacco sticks are intended for retail sale in the Province of Nova Scotia. |  |
 | 1995, c. 36, s. 3(3) | (3) The portion of subsection 23.34(2) of the Act before paragraph (a) is replaced by the following: |  |
-| Excise tax on diverted P.E.I. cigarettes | (2) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes , to which paragraph 1(e) of Schedule II applies, that a licensed wholesale vendor sells to a person other than |  |
+| Excise tax on diverted P.E.I. cigarettes | (2) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes, to which paragraph 1(e) of Schedule II applies, that a licensed wholesale vendor sells to a person other than |  |
 | 1994, c. 29, s. 6(1) | (4) Subsection 23.34(4) of the Act is replaced by the following: |  |
 | Amount of tax | (4) The tax imposed on cigarettes under subsection (2) shall be equal to the amount by which |  |
 |  | (a) the excise that would have been imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (5) Subsection (1) is deemed to have come into force on December 12, 1996. |  |
 |  | (6) Subsections (2), (3) and (4) are deemed to have come into force on November 29, 1996. |  |
 | 1995, c. 36, s. 4 | 65. (1) The portion of subsection 23.341(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Excise tax on diverted P.E.I. tobacco | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes or Nova Scotia tobacco sticks , to which section 68.169 and paragraph 1(e) or 2(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
+| Excise tax on diverted P.E.I. tobacco | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes or Nova Scotia tobacco sticks, to which section 68.169 and paragraph 1(e) or 2(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
 | 1995, c. 36, s. 4 | (2) Subsection 23.341(3) of the Act is replaced by the following: |  |
 | Amount of tax | (3) The tax imposed under subsection (1) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of the cigarettes or tobacco sticks if the applicable rates of excise tax were the rates set out in paragraph 1(f) or 2(d) of Schedule II |  |
@@ -1604,14 +1378,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (ii) $0.00595 per tobacco stick, in the case of tobacco sticks. |  |
 |  | (3) Subsections (1) and (2) are deemed to have come into force on December 12, 1996. |  |
 | 1994, c. 29, s. 6(1) | 66. (1) Subsection 23.36(2) of the Act is replaced by the following: |  |
-| Tax on excess sale of black stock cigarettes | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock cigarettes , in respect of which subparagraph 1(c)(ii) of Schedule II applies, that is in excess of the quantity of black stock cigarettes that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on those excess black stock cigarettes . |  |
+| Tax on excess sale of black stock cigarettes | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock cigarettes, in respect of which subparagraph 1(c)(ii) of Schedule II applies, that is in excess of the quantity of black stock cigarettes that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on those excess black stock cigarettes. |  |
 | 1994, c. 29, s. 6(1) | (2) Subsection 23.36(3) of the Act is replaced by the following: |  |
-| Tax on illegal sale of black stock cigarettes | (3) Where a designated wholesale vendor sells black stock cigarettes , in respect of which subparagraph 1(c)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on those cigarettes . |  |
+| Tax on illegal sale of black stock cigarettes | (3) Where a designated wholesale vendor sells black stock cigarettes, in respect of which subparagraph 1(c)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on those cigarettes. |  |
 | 1994, c.29, s. 6(1) | (3) Subsection 23.36(5) of the Act is replaced by the following: |  |
 | Amount of tax | (5) The tax imposed on black stock cigarettes under subsection (2) or (3) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of those cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of those cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of those cigarettes. |  |
 |  | (4) Subsections (1) to (3) are deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 7(1) | 67. (1) Section 68.161 of the Act is replaced by the following: |  |
 | Refund of tax where foreign taxes paid or where products for sale in foreign duty free shop | 68.161 The Minister may refund to the manufacturer or producer of tobacco products (within the meaning assigned by section 23.1) the tax paid under subsection 23.2(1) in respect of the tobacco products where |  |
@@ -1662,29 +1436,29 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | 1994, c. 29, s. 6(1) | 63. (1) Subsection 23.33(1) of the Act is replaced by the following: |  |
 | Tax on cigarettes sold to purchaser not authorized to resell in Nova Scotia | 23.33 (1) An excise tax shall be imposed, levied and collected on cigarettes that are |  |
 |  | (a) marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that they are intended for retail sale in that province; and |  |
-|  | (b) sold by the manufacturer of them , or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
+|  | (b) sold by the manufacturer of them, or by a person who is authorized under a statute of the province to sell manufactured tobacco in the province, to a purchaser who is not authorized under a statute of the province to sell manufactured tobacco in the province. |  |
 | 1994, c. 29, s. 6(1) | (2) Subsections 23.33(3) and (4) of the Act are replaced by the following: |  |
 | When and by whom tax payable | (3) The tax imposed under subsection (1) is payable by the person selling the cigarettes to the purchaser referred to in that subsection and is payable at the time of the sale. |  |
 | Amount of tax | (4) The tax imposed on cigarettes under subsection (1) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (3) Subsections (1) and (2) are deemed to have come into force on November 29, 1996. |  |
 | 1995, c. 36, s. 3(2) | 64. (1) The definition ``Nova Scotia manufactured tobacco'' in subsection 23.34(1) of the Act is repealed. |  |
 |  | (2) Subsection 23.34(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``Nova Scotia cigarettes'' « cigarettes de la Nouvelle- Écosse » | ``Nova Scotia cigarettes'' means cigarettes that are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia; |  |
 | ``Nova Scotia tobacco sticks'' « bâtonnets de tabac de la Nouvelle- Écosse » | ``Nova Scotia tobacco sticks'' means tobacco sticks that are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the tobacco sticks are intended for retail sale in the Province of Nova Scotia. |  |
 | 1995, c. 36, s. 3(3) | (3) The portion of subsection 23.34(2) of the Act before paragraph (a) is replaced by the following: |  |
-| Excise tax on diverted P.E.I. cigarettes | (2) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes , to which paragraph 1(e) of Schedule II applies, that a licensed wholesale vendor sells to a person other than |  |
+| Excise tax on diverted P.E.I. cigarettes | (2) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes, to which paragraph 1(e) of Schedule II applies, that a licensed wholesale vendor sells to a person other than |  |
 | 1994, c. 29, s. 6(1) | (4) Subsection 23.34(4) of the Act is replaced by the following: |  |
 | Amount of tax | (4) The tax imposed on cigarettes under subsection (2) shall be equal to the amount by which |  |
 |  | (a) the excise that would have been imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (5) Subsection (1) is deemed to have come into force on December 12, 1996. |  |
 |  | (6) Subsections (2), (3) and (4) are deemed to have come into force on November 29, 1996. |  |
 | 1995, c. 36, s. 4 | 65. (1) The portion of subsection 23.341(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Excise tax on diverted P.E.I. tobacco | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes or Nova Scotia tobacco sticks , to which section 68.169 and paragraph 1(e) or 2(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
+| Excise tax on diverted P.E.I. tobacco | 23.341 (1) An excise tax shall be imposed, levied and collected on Nova Scotia cigarettes or Nova Scotia tobacco sticks, to which section 68.169 and paragraph 1(e) or 2(d) of Schedule II apply, that a licensed retail vendor sells to a person other than |  |
 | 1995, c. 36, s. 4 | (2) Subsection 23.341(3) of the Act is replaced by the following: |  |
 | Amount of tax | (3) The tax imposed under subsection (1) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of the cigarettes or tobacco sticks if the applicable rates of excise tax were the rates set out in paragraph 1(f) or 2(d) of Schedule II |  |
@@ -1694,14 +1468,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (ii) $0.00595 per tobacco stick, in the case of tobacco sticks. |  |
 |  | (3) Subsections (1) and (2) are deemed to have come into force on December 12, 1996. |  |
 | 1994, c. 29, s. 6(1) | 66. (1) Subsection 23.36(2) of the Act is replaced by the following: |  |
-| Tax on excess sale of black stock cigarettes | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock cigarettes , in respect of which subparagraph 1(c)(ii) of Schedule II applies, that is in excess of the quantity of black stock cigarettes that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on those excess black stock cigarettes . |  |
+| Tax on excess sale of black stock cigarettes | (2) Where a designated wholesale vendor sells to a designated retail vendor a quantity of black stock cigarettes, in respect of which subparagraph 1(c)(ii) of Schedule II applies, that is in excess of the quantity of black stock cigarettes that the designated wholesale vendor is authorized in writing by the Nova Scotia Provincial Tax Commission to sell to the designated retail vendor without the collection of tax under the Tobacco Tax Act, R.S.N.S. 1989, c. 470, an excise tax shall be imposed, levied and collected on those excess black stock cigarettes. |  |
 | 1994, c. 29, s. 6(1) | (2) Subsection 23.36(3) of the Act is replaced by the following: |  |
-| Tax on illegal sale of black stock cigarettes | (3) Where a designated wholesale vendor sells black stock cigarettes , in respect of which subparagraph 1(c)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on those cigarettes . |  |
+| Tax on illegal sale of black stock cigarettes | (3) Where a designated wholesale vendor sells black stock cigarettes, in respect of which subparagraph 1(c)(ii) of Schedule II applies, to a person other than an Indian consumer on a reserve in Nova Scotia or a designated retail vendor, an excise tax shall be imposed, levied and collected on those cigarettes. |  |
 | 1994, c.29, s. 6(1) | (3) Subsection 23.36(5) of the Act is replaced by the following: |  |
 | Amount of tax | (5) The tax imposed on black stock cigarettes under subsection (2) or (3) shall be equal to the amount by which |  |
 |  | (a) the excise tax that would have been imposed under section 23 in respect of those cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of those cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of those cigarettes. |  |
 |  | (4) Subsections (1) to (3) are deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 7(1) | 67. (1) Section 68.161 of the Act is replaced by the following: |  |
 | Refund of tax where foreign taxes paid or where products for sale in foreign duty free shop | 68.161 The Minister may refund to the manufacturer or producer of tobacco products (within the meaning assigned by section 23.1) the tax paid under subsection 23.2(1) in respect of the tobacco products where |  |
@@ -1725,7 +1499,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 
 |  | (b) $0.0047 multiplied by the number of those tobacco sticks. |  |
 | --- | --- | --- |
-| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco , the licensed wholesale vendor must |  |
+| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco, the licensed wholesale vendor must |  |
 |  | (a) apply to the Minister for the rebate, within two years after the sale of the manufactured tobacco by the licensed wholesale vendor, in any form and manner that is authorized by the Minister; and |  |
 |  | (b) include in the application a certification by the Treasurer of the Province of Prince Edward Island that all tax payable in respect of the manufactured tobacco under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, has been paid. |  |
 | Only one application per month | (5) A licensed wholesale vendor shall not apply for a rebate under any of subsections (2) to (3.22) more often than once per month. |  |
@@ -1743,13 +1517,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Offence of selling in another province cigarettes marked for sale in N.S. | 97.3 Where cigarettes have been marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that the cigarettes are intended for sale in that province, every person who sells or offers for sale the cigarettes to a consumer in any other province, other than the Province of Prince Edward Island, is guilty of an offence and is liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 10 | 73. (1) Subsection 97.5(2) of the Act is replaced by the following: |  |
 | Offence of unauthorized sale of cigarettes intended for Indian reserve | (2) Every person who sells or offers for sale black stock cigarettes in respect of which excise tax was imposed under section 23 at a rate provided for under paragraph 1(c) of Schedule II, because of the application of subparagraph 1(c)(ii) of that Schedule, to a person other than a designated wholesale vendor, a designated retail vendor or an Indian consumer on a reserve in Nova Scotia is guilty of an offence and liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1); 1995, c. 36, s. 9(1) | 74. (1) The portion of paragraph 1(a) of Schedule II to the Act before subparagraph (ii) is replaced by the following: |  |
 |  | (a) $0.05138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
@@ -1763,7 +1537,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (d) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to indicate that the cigarettes are intended for retail sale in the Province of New Brunswick; |  |
 |  | (e) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
 |  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia and are delivered by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3 ; and |  |
+|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3; and |  |
 |  | (5) Subsections (1) to (4) are deemed to have come into force on November 29, 1996. |  |
 |  | (6) For the purposes of the provisions of the Customs Act and the Excise Tax Act that provide for the payment of, or liability to pay, any interest, subsections (1) to (4) are deemed to have come into force as if this Act had been assented to on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1) | 75. (1) Paragraph 2(c) of Schedule II to the Act is replaced by the following: |  |
@@ -1789,7 +1563,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 80. (1) Paragraph (c) of the description of A in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
 |  | (c) where the person is, at the beginning of the month, an eligible individual in respect of one or more qualified dependants, the amount determined by the formula |  |
-|  | [C x (D - $3,750 )] - (G x H) $6,250 |  |
+|  | [C x (D - $3,750)] - (G x H) $6,250 |  |
 |  | where |  |
 |  | C is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, $605, and |  |
@@ -1797,14 +1571,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (A) $605 for the first qualified dependant, |  |
 |  | (B) $405 for the second qualified dependant, and |  |
 |  | (C) $330 for each, if any, of the third and subsequent qualified dependants, |  |
-|  | D is the lesser of $10,000 and the person's adjusted earned income for the year, |  |
+|  | D is the lesser of $10,000 and the per son's adjusted earned income for the year, |  |
 |  | G is the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and |  |
 |  | H is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, 12.1%, |  |
 |  | (ii) two qualified dependants, 20.2%, and |  |
 |  | (iii) three or more qualified dependants, 26.8%, and |  |
 |  | (2) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996 , the amount to be used under that subsection for the month is equal to the total of |  |
+| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (3) Section 122.61 of the Act is amended by adding the following after subsection (5): |  |
 | Annual adjustment | (5.1) The amount of $6,250 referred to in subsection (1) shall be adjusted so that the amount to be used under that subsection for a month in relation to a base taxation year that is after 1996 is equal to the amount by which |  |
 |  | (a) the amount of $10,000 referred to in that subsection, as adjusted and rounded under this section for the year, |  |
@@ -1814,7 +1588,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 
 |  | (b) $0.0047 multiplied by the number of those tobacco sticks. |  |
 | --- | --- | --- |
-| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco , the licensed wholesale vendor must |  |
+| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco, the licensed wholesale vendor must |  |
 |  | (a) apply to the Minister for the rebate, within two years after the sale of the manufactured tobacco by the licensed wholesale vendor, in any form and manner that is authorized by the Minister; and |  |
 |  | (b) include in the application a certification by the Treasurer of the Province of Prince Edward Island that all tax payable in respect of the manufactured tobacco under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, has been paid. |  |
 | Only one application per month | (5) A licensed wholesale vendor shall not apply for a rebate under any of subsections (2) to (3.22) more often than once per month. |  |
@@ -1832,13 +1606,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Offence of selling in another province cigarettes marked for sale in N.S. | 97.3 Where cigarettes have been marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that the cigarettes are intended for sale in that province, every person who sells or offers for sale the cigarettes to a consumer in any other province, other than the Province of Prince Edward Island, is guilty of an offence and is liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 10 | 73. (1) Subsection 97.5(2) of the Act is replaced by the following: |  |
 | Offence of unauthorized sale of cigarettes intended for Indian reserve | (2) Every person who sells or offers for sale black stock cigarettes in respect of which excise tax was imposed under section 23 at a rate provided for under paragraph 1(c) of Schedule II, because of the application of subparagraph 1(c)(ii) of that Schedule, to a person other than a designated wholesale vendor, a designated retail vendor or an Indian consumer on a reserve in Nova Scotia is guilty of an offence and liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1); 1995, c. 36, s. 9(1) | 74. (1) The portion of paragraph 1(a) of Schedule II to the Act before subparagraph (ii) is replaced by the following: |  |
 |  | (a) $0.05138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
@@ -1852,7 +1626,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (d) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to indicate that the cigarettes are intended for retail sale in the Province of New Brunswick; |  |
 |  | (e) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
 |  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia and are delivered by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3 ; and |  |
+|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3; and |  |
 |  | (5) Subsections (1) to (4) are deemed to have come into force on November 29, 1996. |  |
 |  | (6) For the purposes of the provisions of the Customs Act and the Excise Tax Act that provide for the payment of, or liability to pay, any interest, subsections (1) to (4) are deemed to have come into force as if this Act had been assented to on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1) | 75. (1) Paragraph 2(c) of Schedule II to the Act is replaced by the following: |  |
@@ -1878,7 +1652,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 80. (1) Paragraph (c) of the description of A in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
 |  | (c) where the person is, at the beginning of the month, an eligible individual in respect of one or more qualified dependants, the amount determined by the formula |  |
-|  | [C x (D - $3,750 )] - (G x H) $6,250 |  |
+|  | [C x (D - $3,750)] - (G x H) $6,250 |  |
 |  | where |  |
 |  | C is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, $605, and |  |
@@ -1886,14 +1660,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (A) $605 for the first qualified dependant, |  |
 |  | (B) $405 for the second qualified dependant, and |  |
 |  | (C) $330 for each, if any, of the third and subsequent qualified dependants, |  |
-|  | D is the lesser of $10,000 and the person's adjusted earned income for the year, |  |
+|  | D is the lesser of $10,000 and the per son's adjusted earned income for the year, |  |
 |  | G is the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and |  |
 |  | H is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, 12.1%, |  |
 |  | (ii) two qualified dependants, 20.2%, and |  |
 |  | (iii) three or more qualified dependants, 26.8%, and |  |
 |  | (2) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996 , the amount to be used under that subsection for the month is equal to the total of |  |
+| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (3) Section 122.61 of the Act is amended by adding the following after subsection (5): |  |
 | Annual adjustment | (5.1) The amount of $6,250 referred to in subsection (1) shall be adjusted so that the amount to be used under that subsection for a month in relation to a base taxation year that is after 1996 is equal to the amount by which |  |
 |  | (a) the amount of $10,000 referred to in that subsection, as adjusted and rounded under this section for the year, |  |
@@ -1903,7 +1677,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 
 |  | (b) $0.0047 multiplied by the number of those tobacco sticks. |  |
 | --- | --- | --- |
-| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco , the licensed wholesale vendor must |  |
+| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco, the licensed wholesale vendor must |  |
 |  | (a) apply to the Minister for the rebate, within two years after the sale of the manufactured tobacco by the licensed wholesale vendor, in any form and manner that is authorized by the Minister; and |  |
 |  | (b) include in the application a certification by the Treasurer of the Province of Prince Edward Island that all tax payable in respect of the manufactured tobacco under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, has been paid. |  |
 | Only one application per month | (5) A licensed wholesale vendor shall not apply for a rebate under any of subsections (2) to (3.22) more often than once per month. |  |
@@ -1921,13 +1695,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Offence of selling in another province cigarettes marked for sale in N.S. | 97.3 Where cigarettes have been marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that the cigarettes are intended for sale in that province, every person who sells or offers for sale the cigarettes to a consumer in any other province, other than the Province of Prince Edward Island, is guilty of an offence and is liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 10 | 73. (1) Subsection 97.5(2) of the Act is replaced by the following: |  |
 | Offence of unauthorized sale of cigarettes intended for Indian reserve | (2) Every person who sells or offers for sale black stock cigarettes in respect of which excise tax was imposed under section 23 at a rate provided for under paragraph 1(c) of Schedule II, because of the application of subparagraph 1(c)(ii) of that Schedule, to a person other than a designated wholesale vendor, a designated retail vendor or an Indian consumer on a reserve in Nova Scotia is guilty of an offence and liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1); 1995, c. 36, s. 9(1) | 74. (1) The portion of paragraph 1(a) of Schedule II to the Act before subparagraph (ii) is replaced by the following: |  |
 |  | (a) $0.05138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
@@ -1941,7 +1715,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (d) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to indicate that the cigarettes are intended for retail sale in the Province of New Brunswick; |  |
 |  | (e) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
 |  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia and are delivered by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3 ; and |  |
+|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3; and |  |
 |  | (5) Subsections (1) to (4) are deemed to have come into force on November 29, 1996. |  |
 |  | (6) For the purposes of the provisions of the Customs Act and the Excise Tax Act that provide for the payment of, or liability to pay, any interest, subsections (1) to (4) are deemed to have come into force as if this Act had been assented to on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1) | 75. (1) Paragraph 2(c) of Schedule II to the Act is replaced by the following: |  |
@@ -1967,7 +1741,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 80. (1) Paragraph (c) of the description of A in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
 |  | (c) where the person is, at the beginning of the month, an eligible individual in respect of one or more qualified dependants, the amount determined by the formula |  |
-|  | [C x (D - $3,750 )] - (G x H) $6,250 |  |
+|  | [C x (D - $3,750)] - (G x H) $6,250 |  |
 |  | where |  |
 |  | C is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, $605, and |  |
@@ -1975,14 +1749,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (A) $605 for the first qualified dependant, |  |
 |  | (B) $405 for the second qualified dependant, and |  |
 |  | (C) $330 for each, if any, of the third and subsequent qualified dependants, |  |
-|  | D is the lesser of $10,000 and the person's adjusted earned income for the year, |  |
+|  | D is the lesser of $10,000 and the per son's adjusted earned income for the year, |  |
 |  | G is the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and |  |
 |  | H is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, 12.1%, |  |
 |  | (ii) two qualified dependants, 20.2%, and |  |
 |  | (iii) three or more qualified dependants, 26.8%, and |  |
 |  | (2) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996 , the amount to be used under that subsection for the month is equal to the total of |  |
+| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (3) Section 122.61 of the Act is amended by adding the following after subsection (5): |  |
 | Annual adjustment | (5.1) The amount of $6,250 referred to in subsection (1) shall be adjusted so that the amount to be used under that subsection for a month in relation to a base taxation year that is after 1996 is equal to the amount by which |  |
 |  | (a) the amount of $10,000 referred to in that subsection, as adjusted and rounded under this section for the year, |  |
@@ -1992,7 +1766,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 
 |  | (b) $0.0047 multiplied by the number of those tobacco sticks. |  |
 | --- | --- | --- |
-| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco , the licensed wholesale vendor must |  |
+| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco, the licensed wholesale vendor must |  |
 |  | (a) apply to the Minister for the rebate, within two years after the sale of the manufactured tobacco by the licensed wholesale vendor, in any form and manner that is authorized by the Minister; and |  |
 |  | (b) include in the application a certification by the Treasurer of the Province of Prince Edward Island that all tax payable in respect of the manufactured tobacco under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, has been paid. |  |
 | Only one application per month | (5) A licensed wholesale vendor shall not apply for a rebate under any of subsections (2) to (3.22) more often than once per month. |  |
@@ -2010,13 +1784,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Offence of selling in another province cigarettes marked for sale in N.S. | 97.3 Where cigarettes have been marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that the cigarettes are intended for sale in that province, every person who sells or offers for sale the cigarettes to a consumer in any other province, other than the Province of Prince Edward Island, is guilty of an offence and is liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 10 | 73. (1) Subsection 97.5(2) of the Act is replaced by the following: |  |
 | Offence of unauthorized sale of cigarettes intended for Indian reserve | (2) Every person who sells or offers for sale black stock cigarettes in respect of which excise tax was imposed under section 23 at a rate provided for under paragraph 1(c) of Schedule II, because of the application of subparagraph 1(c)(ii) of that Schedule, to a person other than a designated wholesale vendor, a designated retail vendor or an Indian consumer on a reserve in Nova Scotia is guilty of an offence and liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1); 1995, c. 36, s. 9(1) | 74. (1) The portion of paragraph 1(a) of Schedule II to the Act before subparagraph (ii) is replaced by the following: |  |
 |  | (a) $0.05138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
@@ -2030,7 +1804,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (d) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to indicate that the cigarettes are intended for retail sale in the Province of New Brunswick; |  |
 |  | (e) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
 |  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia and are delivered by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3 ; and |  |
+|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3; and |  |
 |  | (5) Subsections (1) to (4) are deemed to have come into force on November 29, 1996. |  |
 |  | (6) For the purposes of the provisions of the Customs Act and the Excise Tax Act that provide for the payment of, or liability to pay, any interest, subsections (1) to (4) are deemed to have come into force as if this Act had been assented to on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1) | 75. (1) Paragraph 2(c) of Schedule II to the Act is replaced by the following: |  |
@@ -2056,7 +1830,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 80. (1) Paragraph (c) of the description of A in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
 |  | (c) where the person is, at the beginning of the month, an eligible individual in respect of one or more qualified dependants, the amount determined by the formula |  |
-|  | [C x (D - $3,750 )] - (G x H) $6,250 |  |
+|  | [C x (D - $3,750)] - (G x H) $6,250 |  |
 |  | where |  |
 |  | C is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, $605, and |  |
@@ -2064,14 +1838,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (A) $605 for the first qualified dependant, |  |
 |  | (B) $405 for the second qualified dependant, and |  |
 |  | (C) $330 for each, if any, of the third and subsequent qualified dependants, |  |
-|  | D is the lesser of $10,000 and the person's adjusted earned income for the year, |  |
+|  | D is the lesser of $10,000 and the per son's adjusted earned income for the year, |  |
 |  | G is the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and |  |
 |  | H is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, 12.1%, |  |
 |  | (ii) two qualified dependants, 20.2%, and |  |
 |  | (iii) three or more qualified dependants, 26.8%, and |  |
 |  | (2) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996 , the amount to be used under that subsection for the month is equal to the total of |  |
+| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (3) Section 122.61 of the Act is amended by adding the following after subsection (5): |  |
 | Annual adjustment | (5.1) The amount of $6,250 referred to in subsection (1) shall be adjusted so that the amount to be used under that subsection for a month in relation to a base taxation year that is after 1996 is equal to the amount by which |  |
 |  | (a) the amount of $10,000 referred to in that subsection, as adjusted and rounded under this section for the year, |  |
@@ -2081,7 +1855,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 
 |  | (b) $0.0047 multiplied by the number of those tobacco sticks. |  |
 | --- | --- | --- |
-| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco , the licensed wholesale vendor must |  |
+| Conditions for rebate | (4) To qualify to receive a rebate under any of subsections (2) to (3.22) in respect of manufactured tobacco, the licensed wholesale vendor must |  |
 |  | (a) apply to the Minister for the rebate, within two years after the sale of the manufactured tobacco by the licensed wholesale vendor, in any form and manner that is authorized by the Minister; and |  |
 |  | (b) include in the application a certification by the Treasurer of the Province of Prince Edward Island that all tax payable in respect of the manufactured tobacco under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, has been paid. |  |
 | Only one application per month | (5) A licensed wholesale vendor shall not apply for a rebate under any of subsections (2) to (3.22) more often than once per month. |  |
@@ -2099,13 +1873,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Offence of selling in another province cigarettes marked for sale in N.S. | 97.3 Where cigarettes have been marked or stamped in accordance with a statute of the Province of Nova Scotia to indicate that the cigarettes are intended for sale in that province, every person who sells or offers for sale the cigarettes to a consumer in any other province, other than the Province of Prince Edward Island, is guilty of an offence and is liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 10 | 73. (1) Subsection 97.5(2) of the Act is replaced by the following: |  |
 | Offence of unauthorized sale of cigarettes intended for Indian reserve | (2) Every person who sells or offers for sale black stock cigarettes in respect of which excise tax was imposed under section 23 at a rate provided for under paragraph 1(c) of Schedule II, because of the application of subparagraph 1(c)(ii) of that Schedule, to a person other than a designated wholesale vendor, a designated retail vendor or an Indian consumer on a reserve in Nova Scotia is guilty of an offence and liable on summary conviction to a fine of not less than $1,000 and not more than the greater of $1,000 and triple the amount by which |  |
 |  | (a) the excise tax that would be imposed under section 23 in respect of the cigarettes if the applicable rate of excise tax were the rate set out in paragraph 1(f) of Schedule II |  |
 |  | exceeds |  |
-|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes . |  |
+|  | (b) the excise tax that was imposed under section 23 in respect of the cigarettes. |  |
 |  | (2) Subsection (1) is deemed to have come into force on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1); 1995, c. 36, s. 9(1) | 74. (1) The portion of paragraph 1(a) of Schedule II to the Act before subparagraph (ii) is replaced by the following: |  |
 |  | (a) $0.05138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
@@ -2119,7 +1893,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (d) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.B. 1973, c. T-7, to indicate that the cigarettes are intended for retail sale in the Province of New Brunswick; |  |
 |  | (e) $0.10138 for each five cigarettes or fraction of five cigarettes contained in any package, where |  |
 |  | (i) the cigarettes are marked or stamped in accordance with the Tobacco Tax Act, R.S.N.S. 1989, c. 470, to indicate that the cigarettes are intended for retail sale in the Province of Nova Scotia and are delivered by the manufacturer or producer of the cigarettes to a wholesale vendor licensed as such under the Health Tax Act, R.S.P.E.I. 1988, c. H-3, and |  |
-|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3 ; and |  |
+|  | (ii) the wholesale vendor certifies to the manufacturer or producer, in any form and manner authorized by the Minister, that the cigarettes are intended for retail sale in the Province of Prince Edward Island in accordance with the Health Tax Act, R.S.P.E.I. 1988, c. H-3; and |  |
 |  | (5) Subsections (1) to (4) are deemed to have come into force on November 29, 1996. |  |
 |  | (6) For the purposes of the provisions of the Customs Act and the Excise Tax Act that provide for the payment of, or liability to pay, any interest, subsections (1) to (4) are deemed to have come into force as if this Act had been assented to on November 29, 1996. |  |
 | 1994, c. 29, s. 14(1) | 75. (1) Paragraph 2(c) of Schedule II to the Act is replaced by the following: |  |
@@ -2145,7 +1919,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 80. (1) Paragraph (c) of the description of A in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
 |  | (c) where the person is, at the beginning of the month, an eligible individual in respect of one or more qualified dependants, the amount determined by the formula |  |
-|  | [C x (D - $3,750 )] - (G x H) $6,250 |  |
+|  | [C x (D - $3,750)] - (G x H) $6,250 |  |
 |  | where |  |
 |  | C is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, $605, and |  |
@@ -2153,14 +1927,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (A) $605 for the first qualified dependant, |  |
 |  | (B) $405 for the second qualified dependant, and |  |
 |  | (C) $330 for each, if any, of the third and subsequent qualified dependants, |  |
-|  | D is the lesser of $10,000 and the person's adjusted earned income for the year, |  |
+|  | D is the lesser of $10,000 and the per son's adjusted earned income for the year, |  |
 |  | G is the amount, if any, by which the person's adjusted income for the year exceeds $20,921, and |  |
 |  | H is, where the person is an eligible individual in respect of |  |
 |  | (i) only one qualified dependant, 12.1%, |  |
 |  | (ii) two qualified dependants, 20.2%, and |  |
 |  | (iii) three or more qualified dependants, 26.8%, and |  |
 |  | (2) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996 , the amount to be used under that subsection for the month is equal to the total of |  |
+| Annual adjustment | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (3) Section 122.61 of the Act is amended by adding the following after subsection (5): |  |
 | Annual adjustment | (5.1) The amount of $6,250 referred to in subsection (1) shall be adjusted so that the amount to be used under that subsection for a month in relation to a base taxation year that is after 1996 is equal to the amount by which |  |
 |  | (a) the amount of $10,000 referred to in that subsection, as adjusted and rounded under this section for the year, |  |
@@ -2173,14 +1947,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2191,27 +1965,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2226,13 +2000,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2243,7 +2017,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2258,14 +2032,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2276,27 +2050,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2311,13 +2085,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2328,7 +2102,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2343,14 +2117,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2361,27 +2135,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2396,13 +2170,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2413,7 +2187,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2428,14 +2202,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2446,27 +2220,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2481,13 +2255,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2498,7 +2272,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2513,14 +2287,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2531,27 +2305,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2566,13 +2340,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2583,7 +2357,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2598,14 +2372,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2616,27 +2390,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2651,13 +2425,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2668,7 +2442,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2683,14 +2457,14 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | AVIATION FUEL TAX REBATE |  |
 | R.S., c. E-15 | Excise Tax Act |  |
 | 1992, c. 29, s. 1 | 81. (1) The definition ``fuel tax rebate'' in subsection 68.4(1) of the Excise Tax Act is replaced by the following: |  |
-| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1) ; |  |
+| ``fuel tax rebate'' « remise de taxe sur le combustible » | ``fuel tax rebate'' means an amount payable under subsection (2), (3) or (3.1); |  |
 |  | (2) Subsection 68.4(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``air carrier'' « transpor- teur aérien » | ``air carrier'' in a calendar year, means a person who is a carrier in the year and whose gross revenue for the year is derived primarily from the business of providing eligible air transportation services; |  |
 | ``aviation rebate limit'' « plafond de la remise aux transporteurs aériens » | ``aviation rebate limit'' of a particular air carrier for a calendar year, means |  |
 |  | (a) where at every time in the year no other air carrier is related to the particular air carrier, $20,000,000, and |  |
 |  | (b) in any other case, the amount that the particular air carrier and all other persons (in this paragraph referred to as ``related air carriers'') each of which is an air carrier in the year and is related to the particular air carrier at any time in the year allocate, in an agreement in prescribed form filed with the Minister with the application described in paragraph (3.1)(b), to the particular air carrier for the year, provided that |  |
 |  | (i) if the total of the amounts so allocated for the year to the particular air carrier and all related air carriers is greater than $20,000,000, each amount so allocated is deemed to be nil, and |  |
-|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allocated by the Minister is deemed to have been so allocated by the particular air carrier and all related air carriers in such an agreement; |  |
+|  | (ii) if the particular air carrier and all related air carriers fail to file an agreement under this paragraph for the year, the Minister may allocate an amount to one or more of them for the year, which amount or the total of which amounts shall not exceed $20,000,000, and any amount so allo cated by the Minister is deemed to have been so allocated by the particu lar air carrier and all related air carriers in such an agreement; |  |
 | ``eligible air transporta- tion services'' « service de transport aérien admissible » | ``eligible air transportation services'' means the carriage by aircraft of passengers or goods or both; |  |
 | ``ineligible use'' « fin inadmissi- ble » | ``ineligible use'' means any use other than the provision of eligible transportation services for commercial purposes or, where a rebate is paid under subsection (3.1), any use other than the provision of eligible air transportation services for commercial purposes, and for greater certainty the sale of fuel is an ineligible use; |  |
 |  | (3) Section 68.4 of the Act is amended by adding the following after subsection (1): |  |
@@ -2701,27 +2475,27 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (b) applies to the Minister, before the end of the sixth month following the end of the year in prescribed form for a fuel tax rebate in respect of that fuel, |  |
 |  | the Minister shall, subject to this Part, pay a fuel tax rebate to the person equal to the lesser of four cents for each litre of that fuel and the person's aviation rebate limit for the year. |  |
 | Limitation on rebates | (4) No fuel tax rebate shall be paid under this section |  |
-|  | (a) in respect of fuel used or to be used for an ineligible use ; |  |
+|  | (a) in respect of fuel used or to be used for an ineligible use; |  |
 |  | (b) where subsection (2) or (3) applies, in respect of fuel that is purchased or imported by the carrier or trucker, as the case may be, before 1991 or after 1992; |  |
 |  | (c) where subsection (3.1) applies, in respect of fuel that is purchased or imported by the air carrier before 1996 or after 1999; or |  |
 |  | (d) to a person who is or has been bankrupt or to the trustee in bankruptcy of the person in respect of any fuel purchased or imported by the person or the trustee before the person is discharged from the bankruptcy. |  |
 | 1992, c. 29, s. 1 | (5) Subsections 68.4(6) to (8) of the Act are replaced by the following: |  |
-| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use , the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used . |  |
+| Diverting fuel to ineligible uses | (6) Where a fuel tax rebate is paid to a person under this section in respect of fuel and the person uses the fuel for an ineligible use, the amount of the rebate paid is deemed to be a tax payable under Part III by the person at the time the fuel is so used. |  |
 | Repayment of rebate | (7) Subject to subsections (8) and (9), a person to whom a fuel tax rebate was paid under subsection (2) or (3.1) may repay to the Receiver General all or part of the rebate. |  |
 | Time for repayment | (8) A repayment made under subsection (7) in respect of a fuel tax rebate paid to a person in a taxation year of the person shall be made within the 90 day period that begins on any day on which the Minister sends to the person a notice of assessment of tax payable under Part I of the Income Tax Act by the person for the year, a notice of determination under subsection 152(1.1) of that Act in respect of the person for the year or a notification that no tax is payable under that Part by the person for the year. |  |
 |  | (6) Paragraph 68.4(9)(c) of the Act is replaced by the following: |  |
 |  | (c) subsection 78(4) had required the tax to be paid on or before |  |
 |  | (i) in the case of a rebate under subsection (3.1), the later of January 1, 2000 and the last day of the month in which the person received the rebate, and |  |
-|  | (ii) in any other case , the last day of the month in which the person received the rebate; and |  |
+|  | (ii) in any other case, the last day of the month in which the person received the rebate; and |  |
 |  | (7) Where a person has applied to the Minister of National Revenue under subsection 68.4(3.1) of the Act, as enacted by subsection (4), before the end of the sixth month after the end of the month in which this Act is assented to, the application is deemed to have been made on a timely basis. |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
 |  | 82. (1) Subparagraph 12(1)(x.1)(ii) of the Income Tax Act is replaced by the following: |  |
 |  | (ii) the amount determined by the formula |  |
 |  | 10(A - B) - C |  |
 |  | where |  |
-|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpayer, |  |
+|  | A is the total of all fuel tax rebates under subsections 68.4(2) and (3.1) of that Act received in the year by the taxpay er, |  |
 |  | B is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year by the taxpayer, repaid by the taxpayer under subsection 68.4(7) of that Act, and |  |
-|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in computing the taxpayer's non-capital losses for other taxation years; |  |
+|  | C is the total of all amounts, in respect of fuel tax rebates under section 68.4 of that Act received in the year, deducted under subsection 111(10) in comput ing the taxpayer's non-capital losses for other taxation years; |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 83. (1) Paragraph 87(2)(uu) of the Act is replaced by the following: |  |
 | Fuel tax rebates | (uu) for the purposes of paragraph 12(1)(x.1), the description of D.1 in the definition ``non-capital loss'' in subsection 111(8), and subsections 111(10) and (11), the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation. |  |
@@ -2736,13 +2510,13 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | C is the total of all amounts, in respect of rebates received in the particular year, deducted under this subsection in computing the taxpayer's non-capital losses for other taxation years; and |  |
 |  | (2) The portion of subsection 111(11) of the Act before paragraph (b) is replaced by the following: |  |
 | Fuel tax rebate - partnerships | (11) Where a taxpayer was a member of a partnership at any time in a fiscal period of the partnership during which it received a fuel tax rebate under subsection 68.4(2), (3) or (3.1) of the Excise Tax Act, the taxpayer is deemed |  |
-|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1) , as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
+|  | (a) to have received at that time as a rebate under subsection 68.4(2), (3) or (3.1), as the case may be, of that Act an amount equal to that proportion of the amount of the rebate received by the partnership that the member's share of the partnership's income or loss for that fiscal period is of the whole of that income or loss, determined without reference to any rebate under section 68.4 of that Act; and |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
 |  | 85. (1) Subparagraph 161(7)(a)(viii) of the Act is replaced by the following: |  |
-|  | (viii) any amount deducted , in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (viii) any amount deducted, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Subsection (1) applies to the 1997 and subsequent taxation years. |  |
 |  | 86. (1) Paragraph 164(5)(a) of the Act is replaced by the following: |  |
-|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii) , |  |
+|  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (2) Paragraph 164(5.1)(a) of the Act is replaced by the following: |  |
 |  | (a) the deduction of an amount, in respect of a repayment under subsection 68.4(7) of the Excise Tax Act made in a subsequent taxation year, in computing the amount determined under subparagraph 12(1)(x.1)(ii), |  |
 |  | (3) Subsections (1) and (2) apply to the 1997 and subsequent taxation years. |  |
@@ -2753,7 +2527,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 | Definitions | 23.01 (1) The definitions in this subsection apply in this section. |  |
 | ``fuel'' « combusti- ble » | ``fuel'' means gasoline, diesel fuel and aviation fuel. |  |
 | ``temperature compensated method'' « méthode fondée sur la compensation de la température » | ``temperature compensated method'' means the method involving the measurement of the volume of fuel in litres that are corrected to the reference temperature of 15 degrees Celsius in accordance with the requirements imposed by or under the Weights and Measures Act. |  |
-| ``uncompensa - ted method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
+| ``uncompen- sated method'' « méthode tradition- nelle » | ``uncompensated method'' means the method involving the measurement of the volume of fuel in litres that are not corrected to a reference temperature. |  |
 | Measure- ment of fuel volume | (2) For the purposes of determining the tax imposed under subsection 23(1) in respect of fuel, the volume of the fuel shall be measured in accordance with |  |
 |  | (a) the temperature compensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported; or |  |
 |  | (b) the uncompensated method, where that method is used by the manufacturer or producer of the fuel for the purpose of establishing the amount of fuel delivered and charged to the purchaser, or by the importer of the fuel to establish the amount of fuel imported. |  |
@@ -2775,7 +2549,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -2786,8 +2560,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -2822,7 +2596,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -2833,8 +2607,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -2869,7 +2643,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -2880,8 +2654,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -2916,7 +2690,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -2927,8 +2701,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -2963,7 +2737,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -2974,8 +2748,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -3010,7 +2784,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -3021,8 +2795,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -3057,7 +2831,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -3068,8 +2842,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -3104,7 +2878,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -3115,8 +2889,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |
@@ -3151,7 +2925,7 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | (2) Subsection (1) comes into force or is deemed to have come into force on April 1, 1997. |  |
 |  | 90. (1) Subsections 96(6) to (10) of the Act are replaced by the following: |  |
 | Temporary measure - employer's premium refund for 1997 | (6) If an employer's premium is less than $60,000 during 1996, the Minister shall refund to the employer a portion of the premium for 1997 determined by the following formula if that amount is more than $1: |  |
-|  | P2 - (P1 + $250 ) |  |
+|  | P2 - (P1 + $250) |  |
 |  | where |  |
 |  | P1 is the amount of the employer's premium in 1996; and |  |
 |  | P2 is the amount of the employer's premium in 1997. |  |
@@ -3162,8 +2936,8 @@ The House of Commons of Canada # BILL C-93 An Act to implement certain provision
 |  | P2 is the amount of the employer's premium in 1998. |  |
 | P1 can be equal to zero | (7.1) For the purposes of subsections (6) and (7), P1 is equal to zero where a person was not required to pay an employer's premium in 1996. |  |
 | Maximum refund | (8) A refund under subsection (6) or (7) shall not exceed |  |
-|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000 ; and |  |
-|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000 . |  |
+|  | (a) $10,000, if the amount of the employer's premium in 1996 is less than $50,000; and |  |
+|  | (b) $60,000 minus the amount of the employer's premium in 1996, if that amount is $50,000 or more, but less than $60,000. |  |
 | Interpreta- tion | (8.1) For the purposes of subsections (6) to (8), a reference to an employer's premium in 1996 includes the employer's premium required to be paid that year under the Unemployment Insurance Act. |  |
 | Associated employers | (9) If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8) and any refund shall be allocated to them in the prescribed manner. |  |
 | Application for refund | (10) A refund under subsections (4) to (7) is payable only if an application is made in writing to the Minister within three years after the end of the year for which the premium was deducted or required to be paid. |  |

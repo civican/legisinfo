@@ -1,4 +1,4 @@
-Bill C-17 PublicationID : 2328522 Table of ContentsSummaryBILL C-17SHORT TITLECRIMINAL CODEElectronically Transmitted CopiesFORM 9(SECTION 493)APPEARANCE NOTICE ISSUED BY A PEACE AN OFFENCEFORM 10(SECTION 493)PROMISE TO APPEARFORM 11(SECTION 493)RECOGNIZANCE ENTERED INTO BEFORE AN OFFICER IN CHARGE OR OTHER PEACE OFFICERFORM 11.1(SECTIONS 493, 499 AND 503)UNDERTAKING GIVEN TO A PEACE OFFICER OR AN OFFICER IN CHARGERELATED AND CONSEQUENTIAL AMENDMENTSCanada Evidence ActCustoms ActExcise ActFood and Drugs ActForeign Extraterritorial Measures ActNarcotic Control ActNational Defence ActSeized Property Management ActSupreme Court ActAn Act to amend the Criminal Code (judicial ActCONDITIONAL AMENDMENTSCOMING INTO FORCE
+Bill C-17 PublicationID : 2329437 Table of ContentsSummaryBILL C-17SHORT TITLECRIMINAL CODEElectronically Transmitted CopiesFORM 9(SECTION 493)APPEARANCE NOTICE ISSUED BY A PEACE AN OFFENCEFORM 10(SECTION 493)PROMISE TO APPEARFORM 11(SECTION 493)RECOGNIZANCE ENTERED INTO BEFORE AN OFFICER IN CHARGE OR OTHER PEACE OFFICERFORM 11.1(SECTIONS 493, 499 AND 503)UNDERTAKING GIVEN TO A PEACE OFFICER OR AN OFFICER IN CHARGERELATED AND CONSEQUENTIAL AMENDMENTSCanada Evidence ActCustoms ActExcise ActFood and Drugs ActForeign Extraterritorial Measures ActNarcotic Control ActNational Defence ActSeized Property Management ActSupreme Court ActAn Act to amend the Criminal Code (judicial ActCONDITIONAL AMENDMENTSCOMING INTO FORCE
 
 |  | SUMMARY |  |
 | --- | --- | --- |
@@ -1028,7 +1028,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1097,7 +1097,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1166,7 +1166,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1235,7 +1235,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1304,7 +1304,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1373,7 +1373,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1442,7 +1442,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 
@@ -1511,7 +1511,7 @@ The House of Commons of Canada # BILL C-17 An Act to amend the Criminal Code and
 | Mandatory oral hearing | (1.2) On the request of the applicant, an oral hearing shall be ordered to determine an application for leave to appeal to the Court from a judgment of a court of appeal setting aside an acquittal of an indictable offence and ordering a new trial if there is no right of appeal on a question of law on which a judge of the court of appeal dissents. |  |
 | R.S., c. 34 (3rd Supp.), s. 5 | 139. Subsection 58(2) of the Act is replaced by the following: |  |
 | Computation of time periods | (2) The month of July shall be excluded in the computation of a time period referred to in subsection (1). |  |
-|  | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
+| 1996, c. 34 | An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act |  |
 |  | 139.1 Section 8 of An Act to amend the Criminal Code (judicial review of parole ineligibility) and another Act is replaced by the following: |  |
 |  | 8. Paragraph 745.63(1)(d) of the Criminal Code, as enacted by section 2 of this Act, applies in respect of hearings held after the coming into force of this section with respect to applications for judicial review in respect of crimes committed before or after the coming into force of this section. |  |
 

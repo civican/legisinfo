@@ -1,0 +1,10 @@
+Bill C-415 PublicationID : 2329819 Table of ContentsSummaryBILL C-415
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment provides definitions of ``infant'' and ``minor'' as being a person under 18, in order to ensure that the Act is interpreted consistently with the definition of ``child'' proposed by the United Nations Convention on the Rights of the Child. |  |
+
+|  | 2nd Session, 35th Parliament, 45-46 Elizabeth II, 1996-97 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-415 An Act to amend the Bills of Exchange Act (definitions of infant and minor) Preamble WHEREAS, on November 20, 1989, the Convention on the Rights of the Child was adopted by the United Nations General Assembly; WHEREAS the Convention was ratified by Canada on December 31, 1991; AND WHEREAS the Convention proposes a definition of ``child'' that should be applied uniformly throughout federal legislation and the words ``infant'' and ``minor'' also need consistent definitions; R.S., c. B-4 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Section 2 of the *Bills of Exchange Act* is amended by adding the following in alphabetical order:** ``infant'' « *enfant* » ``infant'' means a person who is less than eighteen years of age; ``minor'' « *mineur* » ``minor'' means a person who is less than eighteen years of age;
