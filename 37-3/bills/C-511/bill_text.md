@@ -1,0 +1,26 @@
+NAVIGATION END
+
+| C-511 Third Session, Thirty-seventh Parliament, 52-53 Elizabeth II, 2004 |  | C-511 Troisième session, trente-septième législature, 52-53 Elizabeth II, 2004 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-511 |  | PROJET DE LOI C-511 |
+| An Act to amend the Railway Safety Act (visibility of railway equipment) |  | Loi modifiant la Loi sur la sécurité ferroviaire (visibilité du matériel ferroviaire) |
+| First reading, April 1, 2004 |  | Première lecture le 1er avril 2004 |
+
+[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m0,0l0,21600,21600,21600,21600,0xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif] [if gte vml 1]></o:wrapblock><![endif]
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Railway Safety Act to require railway equipment to be equipped with retroreflective material in order to enhance the visibility of trains and thus reduce the number of accidents at grade crossings in which poor visibility of trains is a contributing factor. | Le texte modifie la Loi sur la sécurité ferroviaire pour exiger que le matériel ferroviaire soit équipé d'éléments rétroréfléchissants, de façon à améliorer la visibilité des trains et à ainsi réduire, aux passages à niveau, le nombre d'accidents auxquels contribue la mauvaise visibilité des trains. |
+
+|  | 3rd Session, 37th Parliament, 52-53 Elizabeth II, 2004 House of Commons of Canada Bill C-511 |  | 3e session, 37e législature, 52-53 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-511 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Railway Safety Act (visibility of railway equipment) |  | Loi modifiant la Loi sur la sécurité ferroviaire (visibilité du matériel ferroviaire) |  |  |
+| R.S., c. 32 (4th Supp.) | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. 32 (4e suppl.) |
+|  | 1. Subsection 18(1) of the Railway Safety Act is amended by adding the following after paragraph (a): (a.1) establishing, for the purposes of section 23.2, requirements respecting retroreflective material; |  | 1. Le paragraphe 18(1) de la Loi sur la sécurité ferroviaire est modifié par adjonction, après l'alinéa a), de ce qui suit : a.1) prévoir, pour l'application de l'article 23.2, les exigences relatives aux éléments rétroréfléchissants; |  |  |
+|  | 2. The Act is amended by adding the following after section 23.1: |  | 2. La même loi est modifiée par adjonction, après l'article 23.1, de ce qui suit : |  |  |
+|  | Visibility of Railway Equipment |  | Visibilité du matériel ferroviaire |  |  |
+| Retroflective material | 23.2 (1) A railway company shall ensure that (a) all railway equipment that it operates on a railway is equipped with retroreflective material that conforms to the requirements set out in the regulations; and (b) the retroreflective material is applied, inspected and maintained as required by the regulations. |  | 23.2 (1) La compagnie de chemin de fer prend les mesures nécessaires pour que : a) le matériel ferroviaire qu'elle exploite sur une voie ferrée soit muni d'éléments rétroréfléchissants conformes aux exigences réglementaires; b) les éléments rétroréfléchissants soient apposés, inspectés et entretenus de la façon prévue par règlement. |  | Éléments rétroréfléchis-sants |
+| Replacement of retroflective material | (2) A railway company shall replace all retroreflective material required under this section, regardless of its condition, within the period required by the regulations. |  | (2) La compagnie de chemin de fer remplace les éléments rétroréfléchissants visés au présent article, quel que soit leur état, dans le délai prévu par règlement. |  | Remplacement des éléments rétroréfléchis-sants |
+| Exclusion | (3) The Governor in Council may by regulation exclude, in whole or part, from the application of this section any railway equipment or class of railway equipment, or all or any part of a railway, if the exclusion is in the public interest and consistent with railway safety. |  | (3) Le gouverneur en conseil peut, par règlement, soustraire, en tout ou en partie, à l'application du présent article tout matériel ferroviaire — ou catégorie de matériel ferroviaire — ou tout ou partie d'une voie ferrée, si cela est dans l'intérêt public et compatible avec la sécurité ferroviaire. |  | Exclusion |
+| Coming into force | 3. This Act comes into force on December 31, 2005. |  | 3. La présente loi entre en vigueur le 31 décembre 2005. |  | Entrée en vigueur |
