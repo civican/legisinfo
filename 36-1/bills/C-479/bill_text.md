@@ -1,0 +1,20 @@
+Bill C-479 PublicationID : 2330386 Table of ContentsSummaryBILL C-479SHORT TITLEESTABLISHMENT OF AN EXHIBIT
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to mandate the establishment of an exhibit in the Canadian Museum of Civilization that recognizes the crimes against humanity that have been perpetrated during the twentieth century. |  |
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-479 An Act to establish by the beginning of the twenty-first century an exhibit in the Canadian Museum of Civilization to recognize the crimes against humanity as defined by the United Nations that have been perpetrated during the twentieth century Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act shall be cited as the *Recognition of Crimes Against Humanity Act*. #### ESTABLISHMENT OF AN EXHIBIT Establish- ment of an exhibit **2.** (1) The Board of Trustees of the Canadian Museum of Civilization shall, not later than two years after this section comes into force, cause to be established in the Canadian Museum of Civilization, an exhibit that recognizes the crimes against humanity perpetrated during the twentieth century and acts as a reminder of the inhumanity of people towards one another. Definition (2) In subsection (1), the expression ``crimes against humanity'' means crimes against humanity as defined by the United Nations.
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-479 An Act to establish by the beginning of the twenty-first century an exhibit in the Canadian Museum of Civilization to recognize the crimes against humanity as defined by the United Nations that have been perpetrated during the twentieth century Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act shall be cited as the *Recognition of Crimes Against Humanity Act*. #### ESTABLISHMENT OF AN EXHIBIT Establish- ment of an exhibit **2.** (1) The Board of Trustees of the Canadian Museum of Civilization shall, not later than two years after this section comes into force, cause to be established in the Canadian Museum of Civilization, an exhibit that recognizes the crimes against humanity perpetrated during the twentieth century and acts as a reminder of the inhumanity of people towards one another. Definition (2) In subsection (1), the expression ``crimes against humanity'' means crimes against humanity as defined by the United Nations.
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-479 An Act to establish by the beginning of the twenty-first century an exhibit in the Canadian Museum of Civilization to recognize the crimes against humanity as defined by the United Nations that have been perpetrated during the twentieth century Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act shall be cited as the *Recognition of Crimes Against Humanity Act*. #### ESTABLISHMENT OF AN EXHIBIT Establish- ment of an exhibit **2.** (1) The Board of Trustees of the Canadian Museum of Civilization shall, not later than two years after this section comes into force, cause to be established in the Canadian Museum of Civilization, an exhibit that recognizes the crimes against humanity perpetrated during the twentieth century and acts as a reminder of the inhumanity of people towards one another. Definition (2) In subsection (1), the expression ``crimes against humanity'' means crimes against humanity as defined by the United Nations.
