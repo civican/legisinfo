@@ -1,0 +1,16 @@
+Bill C-249 PublicationID : 2331649 Table of ContentsCoverSummaryBILL C-249
+
+|  | C-249 |  |
+| --- | --- | --- |
+|  | Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002 |
+
+**HOUSE OF COMMONS OF CANADA** # BILL C-249 An Act to amend the Competition Act First reading, October 24, 2002
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The enactment amends the Competition Act to clarify the Competition Tribunal's powers to make or not an order in the case of a merger when gains in efficiency are expected or when the merger would create or strenghten a dominant market position. |  |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-249 An Act to amend the Competition Act R.S., 1985, c. C-34 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: added, R.S., c. 19 (2nd Supp.), s.45 **1. Section 96 of the *Competition Act* is amended by adding the following after subsection (3):** Interpreta- tion (4) For the purpose of subsection (1), gains in efficiency cannot offset the effects of a lessening or prevention of competition unless the majority of the benefits derived or to be derived from such gains in efficiency are being or are likely to be passed on to customers within a reasonable time in the form of lower prices. Non-applica- tion of section (5) This section does not apply where, after the transaction has been completed, the merger or proposed merger, will result or is likely to result in the creation or strengthening of a dominant market position.
