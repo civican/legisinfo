@@ -1,0 +1,30 @@
+NAVIGATION END
+
+| C-291 First Session, Thirty-eighth Parliament, 53 Elizabeth II, 2004 |  | C-291 Première session, trente-huitième législature, 53 Elizabeth II, 2004 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-291 |  | PROJET DE LOI C-291 |
+| An Act to amend the Criminal Code (weapons trafficking) |  | Loi modifiant le Code criminel (trafic d'armes) |
+| First reading, November 17, 2004 |  | Première lecture le 17 novembre 2004 |
+
+[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif]if !vml endif[if gte vml 1]></o:wrapblock><![endif]
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Criminal Code by allowing summary proceedings to be taken against a person who commits an offence under subsection 99(1) and by providing for proceedings by way of indictment only against a person who commits an offence under subsection 99.1(1) of that Act. | Le texte modifie le Code criminel en permettant la poursuite par procédure sommaire de toute personne qui contrevient au paragraphe 99(1) et en prévoyant les poursuites par voie de mise en accusation uniquement à l'endroit des personnes qui enfreignent le paragraphe 99.1(1) de cette loi. |
+
+|  | 1st Session, 38th Parliament, 53 Elizabeth II, 2004 House of Commons of Canada Bill C-291 |  | 1re session, 38e législature, 53 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-291 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Criminal Code (weapons trafficking) |  | Loi modifiant le Code criminel (trafic d'armes) |  |  |
+| R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
+|  | 1. (1) The portion of subsection 99(1) of the Criminal Code after paragraph (b) is replaced by the following: |  | 1. (1) Le paragraphe 99(1) du Code criminel est remplacé par ce qui suit : |  |  |
+|  | a firearm or any ammunition knowing that the person is not authorized to do so under the Firearms Act or any other Act of Parliament or any regulations made under any Act of Parliament. |  | 99. (1) Commet une infraction quiconque fabrique ou cède, même sans contrepartie, ou offre de fabriquer ou de céder une arme à feu ou des munitions sachant qu'il n'y est pas autorisé en vertu de la Loi sur les armes à feu, de toute autre loi fédérale ou de leurs règlements. |  | Trafic d'armes |
+|  | (2) Subsection 99(2) of the Act is replaced by the following: |  | (2) Le paragraphe 99(2) de la même loi est remplacé par ce qui suit : |  |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is guilty of an offence and is liable (a) on summary conviction, to a fine not exceeding two hundred and fifty thousand dollars or to imprisonment for a term not exceeding two years, or to both; or (b) on conviction on indictment, to a fine not exceeding five hundred thousand dollars or to imprisonment for a term not exceeding five years, or to both. |  | (2) Quiconque commet l'infraction prévue au paragraphe (1) est coupable : a) soit d'une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d'une amende maximale de deux cent cinquante mille dollars et d'un emprisonnement maximal de deux ans, ou de l'une de ces peines; b) soit d'un acte criminel et passible d'une amende maximale de cinq cent mille dollars et d'un emprisonnement maximal de cinq ans, ou de l'une de ces peines. |  | Peine |
+|  | 2. The Act is amended by adding the following after section 99: |  | 2. La même loi est modifiée par adjonction, après l'article 99, de ce qui suit : |  |  |
+| Weapons trafficking | 99.1 (1) Every person commits an offence who (a) manufactures or transfers, whether or not for consideration, (b) imports or exports, or transports in transit through Canada without authorization, or (c) offers to do anything referred to in paragraph (a) or (b) in respect of a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition knowing that the person is not authorized to do so under the Firearms Act or any other Act of Parliament or any regulations made under any Act of Parliament. |  | 99.1 (1) Commet une infraction quiconque fabrique ou cède, même sans contrepartie, importe ou exporte, transporte en transit au Canada sans autorisation ou offre de fabriquer, de céder, d'importer ou d'exporter, ou de transporter en transit au Canada sans autorisation une arme prohibée, une arme à autorisation restreinte, un dispositif prohibé ou des munitions prohibées sachant qu'il n'y est pas autorisé en vertu de la Loi sur les armes à feu, de toute autre loi fédérale ou de leurs règlements. |  | Trafic d'armes |
+| Punishment | (2) Every person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding fifteen years and to a minimum punishment of imprisonment for a term of two years. |  | (2) Quiconque commet l'infraction prévue au paragraphe (1) est coupable d'un acte criminel et passible d'un emprisonnement maximal de quinze ans, la peine minimale étant de deux ans. |  | Peine |
+
+if !supportAnnotations
+
+endif
