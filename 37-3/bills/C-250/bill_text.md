@@ -1,17 +1,17 @@
 NAVIGATION END
 
-| C-250 Third Session, Thirty-seventh Parliament, 52 Elizabeth II, 2004 |  | C-250 Troisième session, trente-septième législature, 52 Elizabeth II, 2004 |
+| Third Session, Thirty-seventh Parliament, 52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature, 52-53 Elizabeth II, 2004 |
 | --- | --- | --- |
-| house of Commons OF CANADA |  | chambre des communes DU CANADA |
-| BILL C-250 |  | PROJET DE LOI C-250 |
+| STATUTES OF CANADA 2004 |  | lOIS DU Canada (2004) |
+| CHAPTER 14 |  | CHAPITRE 14 |
 | An Act to amend the Criminal Code (hate propaganda) |  | Loi modifiant le Code criminel (propagande haineuse) |
-| AS PASSED BY THE HOUSE OF COMMONS FEBRUARY 2, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 2 FÉVRIER 2004 |
+| BILL C-250 ASSENTED TO 29th APRIL, 2004 |  | PROJET DE LOI C-250 SANCTIONNÉ LE 29 AVRIL 2004 |
 
 | Summary | Sommaire |
 | --- | --- |
 | This enactment expands the definition "identifiable group" relating to the area of hate propaganda in the Criminal Code to include any section of the public distinguished by sexual orientation. | Le texte modifie la définition de « groupe identifiable » concernant la question de la propagande haineuse dans le Code criminel pour y inclure toute section du public qui se différencie des autres par l'orientation sexuelle. |
 
-|  | 3rd Session, 37th Parliament, 52 Elizabeth II, 2004 House of Commons of Canada Bill C-250 |  | 3e session, 37e législature, 52 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-250 |  |  |
+|  | 52-53 ELIZABETH II _________ CHAPTER 14 |  | 52-53 ELIZABETH II _________ CHAPITRE 14 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | An Act to amend the Criminal Code (hate propaganda) |  | Loi modifiant le Code criminel (propagande haineuse) |  |  |
 | R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
