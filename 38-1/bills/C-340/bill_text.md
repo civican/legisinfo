@@ -1,0 +1,24 @@
+NAVIGATION END
+
+| C-340 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-340 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-340 |  | PROJET DE LOI C-340 |
+| An Act to amend the Criminal Code (breach of a conditional sentence order) |  | Loi modifiant le Code criminel (manquement aux conditions d'une ordonnance de sursis) |
+| First reading, February 25, 2005 |  | Première lecture le 25 février 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the provisions of subsection 742.6(9) of the Criminal Code, which provides direction to a court when an offender has, without reasonable excuse — which is to be proved by the offender — breached a condition of a conditional sentence order. | Le texte modifie le paragraphe 742.6(9) du Code criminel qui prescrit les mesures que doit prendre le tribunal dans les cas où le délinquant enfreint, sans excuse raisonnable dont la preuve lui incombe, une condition de l'ordonnance de sursis. |
+| The enactment removes the court's options of taking no action, changing the optional conditions, or suspending the order and requiring part of the sentence to be served in custody with the order resuming on the offender's release for the balance of the sentence. | Il supprime la faculté du tribunal de ne pas agir ou de modifier les conditions facultatives, ou encore de suspendre l'ordonnance et d'ordonner, d'une part, qu'une partie de la peine soit purgée en prison et, d'autre part, que l'ordonnance s'applique à compter de la libération du délinquant jusqu'à l'expiration de la peine. |
+| It requires the court, in such circumstances, to terminate the conditional sentence order and direct that the sentence be served in custody. | Le texte oblige ainsi le tribunal à mettre fin à l'ordonnance de sursis dans un tel cas et à ordonner que la peine soit purgée en prison. |
+| Subsection 742.7(2) of the Criminal Code is amended solely to make the necessary consequential change to the reference to subsection 742.6(9). | Le paragraphe 742.7(2) du Code criminel est modifié en conséquence pour faire renvoi au paragraphe 742.6(9). |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-340 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-340 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Criminal Code (breach of a conditional sentence order) |  | Loi modifiant le Code criminel (manquement aux conditions d'une ordonnance de sursis) |  |  |
+| R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
+|  | 1. Subsection 742.6(9) of the Criminal Code is replaced by the following: |  | 1. Le paragraphe 742.6(9) du Code crimi-nel est remplacé par ce qui suit : |  |  |
+| Powers of court | (9) Where the court is satisfied, on a balance of probabilities, that the offender has without reasonable excuse, the proof of which lies on the offender, breached a condition of the conditional sentence order, the court shall terminate the conditional sentence order and direct that the offender be committed to custody until the expiration of the sentence. |  | (9) S'il est convaincu, par une preuve prépondérante, que le délinquant a enfreint, sans excuse raisonnable dont la preuve lui incombe, une condition de l'ordonnance de sursis, le tribunal met fin à cette ordonnance et ordonne que le délinquant soit incarcéré jusqu'à la fin de la peine d'emprisonnement. |  | Pouvoir du tribunal |
+|  | 2. Subsection 742.7(2) of the Act is replaced by the following: |  | 2. Le paragraphe 742.7(2) de la même loi est remplacé par ce qui suit : |  |  |
+| Breach of condition | (2) When an order is made under subsection 742.6(9) to commit an offender to custody, the custodial period ordered shall, unless the court considers that it would not be in the interests of justice, be served consecutively to any other period of imprisonment that the offender is serving when that order is made. |  | (2) Lorsqu'une ordonnance de détention est rendue en vertu du paragraphe 742.6(9), la période de détention est purgée consécutive-ment à toute autre période d'emprisonnement que le délinquant purge alors, sauf si le tribunal est d'avis que cela ne serait pas dans l'intérêt de la justice. |  | Manquement à une condition d'une ordonnance de sursis |
