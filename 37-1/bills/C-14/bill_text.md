@@ -1,4 +1,4 @@
-Bill C-14 PublicationID : 2330884 Table of ContentsSummaryBILL C-14SHORT TITLEINTERPRETATIONPART 1GENERALHer MajestyObjectivesApplicationMinisterial ResponsibilityPowers of MinistersInspections by Marine Safety Inspectors and OthersAuthorized RepresentativeAdjudicatorsCanadian Maritime DocumentsOther DocumentsGeneral ProhibitionsTonnage MeasurersMarine Technical Review BoardInternational Conventions, Protocols and ResolutionsIncorporation by ReferenceOrders and DirectionsRegulationsFeesOffences and PunishmentPART 2REGISTRATION, LISTING AND RECORDINGInterpretationCanadian Register of Vessels and RegistrarsRegistration, Listing and RecordingApplicationNames of VesselsOwnership of VesselsCertificatesMarkingNotifying Chief RegistrarMaintenance of RegisterSuspension, Cancellation and Reinstatement of RegistrationCustody of Certificates of Registry and Provisional CertificatesRights and ObligationsMortgagesTransfers of Vessels or Shares in VesselsEntriesRegulationsOffences and PunishmentPART 3PERSONNELInterpretationApplicationMastersStowaways and Other PersonsContract of EmploymentLiens and ClaimsCertificatesMedical or Optometric InformationArticles of Agreement, Discharge and Record of Sea ServiceReturn of Crew MembersBirths and DeathsObligation of Persons Who Provide Crew MembersResolution of DisputesRegulationsOffences and PunishmentPART 4SAFETYInterpretationApplicationAuthorized RepresentativesMastersCrewPassengersAuthorized Representatives, Masters, Crew Members and Other PersonsConstruction of VesselsRegulationsOffences and PunishmentPART 5NAVIGATION SERVICESInterpretationVessel Traffic ServicesAids to NavigationSearch and RescueSable and St. Paul IslandsEnforcementRegulationsOffences and PunishmentPART 6INCIDENTS, ACCIDENTS AND CASUALTIESInterpretationApplicationSalvageObligations in Case of CollisionsInquiry into Causes of DeathRegulationsOffences and PunishmentPART 7WRECKInterpretationDesignation of Receivers of WreckFound WreckDisposition of WreckRegulationsOffences and PunishmentPART 8POLLUTION PREVENTION AND FISHERIES AND OCEANSInterpretationApplicationDischarges of OilResponse OrganizationsAdvisory CouncilsReport to ParliamentPollution Prevention OfficersDetention of VesselsResponse MeasuresRegulationsOffences and PunishmentPART 9POLLUTION TRANSPORTInterpretationApplicationPollution IncidentsDirections to VesselsRegulationsOffences and PunishmentPART 10PLEASURE CRAFTInterpretationInspectionsInvestigationsSafe Operation of Pleasure CraftPleasure Craft LicencesRegulationsOffences and PunishmentPART 11ENFORCEMENT - DEPARTMENT OF TRANSPORTInterpretationInspectionsClearanceVoyage with a Person on Board without Their ConsentReporting of Alleged ContraventionsInvestigationsAnalysis and ExaminationDetention of VesselsSale of VesselsForeign Vessels in Contravention of International ConventionsAdministrative PenaltiesRegulationsOffences and PunishmentPART 12MISCELLANEOUSGoodsStevedoringProof of Offences by VesselsOffencesDue DiligenceProhibitions on ConvictionSummary Conviction ProceedingsJurisdictionDamage Occasioned by Foreign VesselsDefenceDepositions in Legal ProceedingsProcedureApplication of FinesState of War or Armed ConflictPART 13TRANSITIONALPART 14CONSEQUENTIAL AND COORDINATING AMENDMENTSConsequential AmendmentsPART 1PILOTAGEInterpretation PART 2LOWER ST. LAWRENCE PILOTS' PENSIONSInterpretationPension Benefits Standards Act, 1985Income Tax ActRegulationsCoordinating AmendmentsPART 15AMENDMENTS TO THE SHIPPING CONFERENCES EXEMPTION ACT, 1987INSPECTION OF DOCUMENTS PART 16AMENDMENTS TO THE CANADIAN 1999PART 17REPEALS AND COMING INTO FORCERepealsComing into ForceSCHEDULE 1SCHEDULE 2SCHEDULE 3TABLE OF PROVISIONS
+Bill C-14 PublicationID : 2330885 Table of ContentsSummaryBILL C-14SHORT TITLEINTERPRETATIONPART 1GENERALHer MajestyObjectivesApplicationMinisterial ResponsibilityPowers of MinistersInspections by Marine Safety Inspectors and OthersAuthorized RepresentativeAdjudicatorsCanadian Maritime DocumentsOther DocumentsGeneral ProhibitionsTonnage MeasurersMarine Technical Review BoardInternational Conventions, Protocols and ResolutionsIncorporation by ReferenceOrders and DirectionsRegulationsFeesOffences and PunishmentPART 2REGISTRATION, LISTING AND RECORDINGInterpretationCanadian Register of Vessels and RegistrarsRegistration, Listing and RecordingApplicationNames of VesselsOwnership of VesselsCertificatesMarkingNotifying Chief RegistrarMaintenance of RegisterSuspension, Cancellation and Reinstatement of RegistrationCustody of Certificates of Registry and Provisional CertificatesRights and ObligationsMortgagesTransfers of Vessels or Shares in VesselsEntriesRegulationsOffences and PunishmentPART 3PERSONNELInterpretationApplicationMastersStowaways and Other PersonsContract of EmploymentLiens and ClaimsCertificatesMedical or Optometric InformationArticles of Agreement, Discharge and Record of Sea ServiceReturn of Crew MembersBirths and DeathsObligation of Persons Who Provide Crew MembersResolution of DisputesRegulationsOffences and PunishmentPART 4SAFETYInterpretationApplicationAuthorized RepresentativesMastersCrewPassengersAuthorized Representatives, Masters, Crew Members and Other PersonsConstruction of VesselsRegulationsOffences and PunishmentPART 5NAVIGATION SERVICESInterpretationVessel Traffic ServicesAids to NavigationSearch and RescueSable IslandEnforcementRegulationsOffences and PunishmentPART 6INCIDENTS, ACCIDENTS AND CASUALTIESInterpretationApplicationSalvageObligations in Case of CollisionsInquiry into Causes of DeathRegulationsOffences and PunishmentPART 7WRECKInterpretationDesignation of Receivers of WreckFound WreckDisposition of WreckRegulationsOffences and PunishmentPART 8POLLUTION PREVENTION AND FISHERIES AND OCEANSInterpretationApplicationDischarges of OilResponse OrganizationsAdvisory CouncilsReport to ParliamentPollution Prevention OfficersDetention of VesselsResponse MeasuresRegulationsOffences and PunishmentPART 9POLLUTION TRANSPORTInterpretationApplicationPollution IncidentsDirections to VesselsRegulationsOffences and PunishmentPART 10PLEASURE CRAFTInterpretationInspectionsInvestigationsSafe Operation of Pleasure CraftPleasure Craft LicencesRegulationsOffences and PunishmentPART 11ENFORCEMENT - DEPARTMENT OF TRANSPORTInterpretationInspectionsClearanceVoyage with a Person on Board without Their ConsentReporting of Alleged ContraventionsInvestigationsAnalysis and ExaminationDetention of VesselsSale of VesselsForeign Vessels in Contravention of International ConventionsAdministrative PenaltiesRegulationsOffences and PunishmentPART 12MISCELLANEOUSGoodsStevedoringProof of Offences by VesselsOffencesDue DiligenceProhibitions on ConvictionSummary Conviction ProceedingsJurisdictionDamage Occasioned by Foreign VesselsDefenceDepositions in Legal ProceedingsProcedureApplication of FinesCrown LiabilityState of War or Armed ConflictPART 13TRANSITIONALPART 14CONSEQUENTIAL AND COORDINATING AMENDMENTSConsequential AmendmentsPART 1PILOTAGEInterpretationPART 2LOWER ST. LAWRENCE PILOTS' PENSIONSInterpretationPension Benefits Standards Act, 1985Income Tax ActRegulationsCoordinating AmendmentsPART 15AMENDMENTS TO THE SHIPPING CONFERENCES EXEMPTION ACT, 1987INSPECTION OF DOCUMENTSPART 16AMENDMENTS TO THE CANADIAN 1999PART 17REPEALS AND COMING INTO FORCERepealsComing into ForceSCHEDULE 1SCHEDULE 2SCHEDULE 3TABLE OF PROVISIONS
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -8,223 +8,6 @@ Bill C-14 PublicationID : 2330884 Table of ContentsSummaryBILL C-14SHORT TITLEIN
 |  | The enactment clarifies the marine responsibilities between the Department of Transport and the Department of Fisheries and Oceans. |  |
 |  | The enactment organizes the contents, updates the terminology and streamlines substantive requirements to make the law much clearer and easier to understand. |  |
 |  | The enactment amends the Shipping Conferences Exemption Act, 1987 to inject greater competition within shipping conferences, to streamline the administration of the Act and to ensure that Canadian legislation covering international liner shipping conferences remains in harmony with that of Canada's major trading partners. |  |
-|  | EXPLANATORY NOTES |  |
-|  | Bank Act |  |
-|  | Clause 275: Subsections 428(5) and (6) read as follows: |  |
-|  | (5) Where security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the Canada Shipping Act or registered under the Maritime Code, chapter 41 of the Statutes of Canada, 1977-78, the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act or Code unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act or Code in respect of the vessel before the recording or registration thereunder of those rights. |  |
-|  | (6) A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the Canada Shipping Act or the Maritime Code, chapter 41 of the Statutes of Canada, 1977-78, as if it were a mortgage given thereunder, and on the recording or registration thereof the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act or Code. |  |
-|  | Canada Marine Act |  |
-|  | Clause 276: Subsection 56(3) reads as follows: |  |
-|  | (3) Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the Canada Shipping Act. |  |
-|  | Clause 277: The relevant portion of subsection 58(2) reads as follows: |  |
-|  | (2) A person designated under subsection (1) may direct a ship to do or refrain from doing anything described in paragraph (1)(d) only if the person believes on reasonable grounds that any of the following circumstances exist: |  |
-|  | . . . |  |
-|  | (f) the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 562.1(1)(a) of the Canada Shipping Act; |  |
-|  | Clause 278: The relevant portion of subsection 120(1) reads as follows: |  |
-|  | 120. (1) Where a ship is sold pursuant to an order, the proceeds of the sale shall be applied first to satisfy claims for wages of seamen under the Canada Shipping Act and then to satisfy the following claims in order of priority: |  |
-|  | Clause 279: The relevant portion of subsection 122(1) reads as follows: |  |
-|  | 122. (1) A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of seamen under the Canada Shipping Act, if the amount is owing in respect of |  |
-|  | Canada-Newfoundland Atlantic Accord Implementation Act |  |
-|  | Clause 280: Subsection 160(1) reads as follows: |  |
-|  | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized pursuant to the regulations or any other federal law or that constitutes a discharge from a ship to which Part XV or XVI of the Canada Shipping Act applies. |  |
-|  | Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act |  |
-|  | Clause 281: Subsection 165(1) reads as follows: |  |
-|  | 165. (1) In sections 166 to 170, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized pursuant to the regulations or any other federal law or that constitutes a discharge from a ship to which Part XV or XVI of the Canada Shipping Act applies. |  |
-|  | Canada Transportation Act |  |
-|  | Clause 282: The definition ``export'' in section 147 reads as follows: |  |
-|  | ``export'', in respect of grain, means shipment by a vessel, as defined in section 2 of the Canada Shipping Act, to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; |  |
-|  | Canadian Environmental Protection Act, 1999 |  |
-|  | Clause 283: Section 277 reads as follows: |  |
-|  | 277. Subsection 389(5) of the Canada Shipping Act is not to be construed so as to relieve any person from liability under this Act. |  |
-|  | Canadian Transportation Accident Investigation and Safety Board Act |  |
-|  | Clause 284: Section 61 reads as follows: |  |
-|  | 61. (1) For the sole purpose of enabling the completion under section 477 of the Canada Shipping Act of an investigation by a person, or by persons who include a person, who is appointed as an investigator under section 9 of this Act into, or into matters that include, the causes and contributing factors of an accident on a ship, where the investigation was commenced but not completed before the day on which section 54 of this Act comes into force, |  |
-|  | (a) that person continues to have the same powers and duties under the Canada Shipping Act as the person had before the person's appointment under this Act; |  |
-|  | (b) the Canadian Transportation Accident Investigation and Safety Board shall make the services of that person available to the Minister of Transport; and |  |
-|  | (c) that person shall be paid remuneration and expenses in respect of the performance of duties under the Canada Shipping Act as if those duties were being performed under this Act. |  |
-|  | (2) For the sole purpose of enabling the completion under section 480 of the Canada Shipping Act of a preliminary inquiry by a person, or by persons who include a person, who is appointed as an investigator under section 9 of this Act into, or into matters that include, the causes and contributing factors of a shipping casualty, where the preliminary inquiry was commenced but not completed before the day on which section 55 of this Act comes into force, |  |
-|  | (a) that person continues to have the same powers and duties under the Canada Shipping Act as the person had before the person's appointment under this Act; |  |
-|  | (b) the Canadian Transportation Accident Investigation and Safety Board shall make the services of that person available to the Minister of Transport; and |  |
-|  | (c) that person shall be paid remuneration and expenses in respect of the performance of duties under the Canada Shipping Act as if those duties were being performed under this Act. |  |
-|  | Carriage of Goods by Water Act |  |
-|  | Clause 285: Section 6 reads as follows: |  |
-|  | 6. Nothing in this Act affects the operation of sections 389, 390 and 574 to 587 of the Canada Shipping Act or the operation of any other enactment limiting the liability of the owners of ships or vessels. |  |
-|  | Citizenship Act |  |
-|  | Clause 286: The relevant portion of subsection 2(2) reads as follows: |  |
-|  | (2) For the purposes of this Act, |  |
-|  | (a) a person is deemed to be born in Canada if the person is born on a Canadian ship as defined in the Canada Shipping Act, on an air cushion vehicle registered in Canada under that Act or on an aircraft registered in Canada under the Aeronautics Act and regulations made thereunder; |  |
-|  | Coastal Fisheries Protection Act |  |
-|  | Clause 287: The definition ``Canadian fishing vessel'' in section 2 reads as follows: |  |
-|  | ``Canadian fishing vessel'' means a fishing vessel |  |
-|  | (a) that is registered or licensed under the Canada Shipping Act, or |  |
-|  | (b) that is not registered or licensed under the Canada Shipping Act or under the laws of another state but is owned by one or more persons each of whom is |  |
-|  | (i) a Canadian citizen, |  |
-|  | (ii) in the case of a vessel that is not required to be registered or licensed under that Act, a person resident and domiciled in Canada, or |  |
-|  | (iii) a corporation incorporated under the laws of Canada or a province, having its principal place of business in Canada; |  |
-|  | Clause 288: Section 19 reads as follows: |  |
-|  | 19. All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 610 and 611 of the Canada Shipping Act with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the Canada Shipping Act. |  |
-|  | Coasting Trade Act |  |
-|  | Clause 289: The definitions ``Canadian ship'', ``mas ter'' and ``ship'' in subsection 2(1) read as follows: |  |
-|  | ``Canadian ship'' means a ship |  |
-|  | (a) registered under Part I of the Canada Shipping Act and in respect of which all duties and taxes imposed under the Customs Tariff and the Excise Tax Act have been paid, or |  |
-|  | (b) built in Canada and not required or entitled to be registered under Part I of the Canada Shipping Act; |  |
-|  | ``master'', in relation to a ship, has the same meaning as in the Canada Shipping Act; |  |
-|  | ``ship'' includes any description of vessel, boat or craft, including air cushion vehicles and dynamically supported craft, designed, used or capable of being used solely or partly for marine navigation without regard to method or lack of propulsion; |  |
-|  | Clause 290: The relevant portion of subsection 3(2) reads as follows: |  |
-|  | (2) Subsection (1) does not apply in respect of any foreign ship or non-duty paid ship that is |  |
-|  | . . . |  |
-|  | (e) engaged, with the approval of a pollution prevention officer, within the meaning of section 661 of the Canada Shipping Act, in activities related to a marine pollution emergency, or to a risk thereof. |  |
-|  | Clause 291: Sections 29 and 30 read as follows: |  |
-|  | 29. In the case of any ship that, immediately prior to the coming into force of this Act, is operating pursuant to a valid coasting trade licence under the Canada Shipping Act, this Act shall apply to that ship in respect of any activity authorized to be performed by the licence from the day that licence would otherwise have expired had this Act not come into force. |  |
-|  | 30. All of the provisions of the Canada Shipping Act as that Act read immediately prior to the coming into force of this Act shall continue to apply with respect to any valid coasting trade licence under that Act in force immediately prior to the coming into force of this Act. |  |
-|  | Clause 292: Subsection 31(2) reads as follows: |  |
-|  | (2) In the case of any ship that is a British ship or that benefits from an exemption made pursuant to section 595 of the Canada Shipping Act, this Act shall apply to that ship six months after the day on which this Act comes into force. |  |
-|  | Contraventions Act |  |
-|  | Clause 293: Subsection 17(4) reads as follows: |  |
-|  | (4) Notwithstanding section 606 of the Canada Shipping Act, one justice of the peace has jurisdiction in respect of a contravention for which proceedings are commenced under this Act. |  |
-|  | Criminal Code |  |
-|  | Clause 294: Section 44 reads as follows: |  |
-|  | 44. The master or officer in command of a vessel on a voyage is justified in using as much force as he believes, on reasonable grounds, is necessary for the purpose of maintaining good order and discipline on the vessel. |  |
-|  | Crown Liability and Proceedings Act |  |
-|  | Clause 295: The definition ``Crown ship'' in section 2 reads as follows: |  |
-|  | ``Crown ship'' means a ship, as defined in section 673 of the Canada Shipping Act, that is owned by or is in the exclusive possession of the Crown; |  |
-|  | Clause 296: Subsection 5(1) reads as follows: |  |
-|  | 5. (1) Subject to subsection (2), the law relating to civil salvage, whether of life or property (except sections 453 to 456, 459 to 463 and 465 of the Canada Shipping Act), applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life therefrom, or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person. |  |
-|  | Clause 297: Subsection 6(2) reads as follows: |  |
-|  | (2) Where, for the purposes of any proceedings under this Act, it is necessary to ascertain the tonnage of a ship that has no register tonnage within the meaning of the Canada Shipping Act, the tonnage of the ship shall be ascertained in accordance with section 94 of that Act. |  |
-|  | Clause 298: Subsection 7(1) reads as follows: |  |
-|  | 7. (1) Section 471 of the Canada Shipping Act applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft. |  |
-|  | Customs Act |  |
-|  | Clause 299: The relevant portion of subsection 16(2) reads as follows: |  |
-|  | (2) Where any wreck that has come into Canada from outside Canada is delivered up to the owner thereof or his agent pursuant to section 441 of the Canada Shipping Act, the owner of the wreck |  |
-|  | Fisheries Act |  |
-|  | Clause 300: Subsection 38(7) reads as follows: |  |
-|  | (7) Any requirement or direction of an inspector under this section that is inconsistent with any requirement or order of a pollution prevention officer under the Canada Shipping Act is void to the extent of the inconsistency. |  |
-|  | Clause 301: Subsection 42(7) reads as follows: |  |
-|  | (7) Subsections (1) to (3) do not apply in respect of any deposit of a deleterious substance that, within the meaning of Part XV of the Canada Shipping Act, constitutes a discharge of a pollutant caused by or otherwise attributable to a ship. |  |
-|  | Clause 302: Section 88 reads as follows: |  |
-|  | 88. All courts and justices in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 610 and 611 of the Canada Shipping Act with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the Canada Shipping Act. |  |
-|  | Great Lakes Fisheries Convention Act |  |
-|  | Clause 303: Section 6 reads as follows: |  |
-|  | 6. All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under regulations made pursuant to section 4 as they have under sections 610 and 611 of the Canada Shipping Act with respect to offences under that Act, and those sections apply to offences under regulations made pursuant to section 4 in the same manner and to the same extent as they apply to offences under the Canada Shipping Act. |  |
-|  | Health of Animals Act |  |
-|  | Clause 304: The relevant portion of section 20 reads as follows: |  |
-|  | 20. Nothing in this Act affects |  |
-|  | (a) the provisions of the Canada Shipping Act respecting port wardens, |  |
-|  | . . . |  |
-|  | and this Act shall, with respect to the ports to which the Acts referred to in paragraphs (a) to (d) apply, be construed as having been enacted in addition to and not in derogation from those Acts. |  |
-|  | Canada Labour Code |  |
-|  | Clause 305: The relevant portion of subsection 127(2) reads as follows: |  |
-|  | (2) No authorization referred to in subsection (1) is required where an employee is killed or seriously injured by an accident or incident involving |  |
-|  | (a) an aircraft, a ship, rolling stock or a pipeline, where the accident or incident is being investigated under the Aeronautics Act, the Canada Shipping Act or the Canadian Transportation Accident Investigation and Safety Board Act; or |  |
-|  | Marine Transportation Security Act |  |
-|  | Clause 306: The definition ``Canadian ship'' in subsection 2(1) reads as follows: |  |
-|  | ``Canadian ship'' means a ship registered under the Canada Shipping Act or registered in Canada before August 1, 1936 under the Mer chant Shipping Act, 1894 of the Parliament of the United Kingdom, 57-58 Victoria, chapter 60, and all Acts adding to or amending that Act; |  |
-|  | Merchant Seamen Compensation Act |  |
-|  | Clause 307: (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) read as follows: |  |
-|  | ``seaman'' means every person, except pilots, apprenticed pilots and fishermen, employed or engaged on |  |
-|  | (a) a ship registered in Canada, or |  |
-|  | (b) a ship chartered by demise to a person resident in Canada or having his principal place of business in Canada, |  |
-|  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage as those voyages are defined in the Canada Shipping Act, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having his principal place of business in Canada when that ship is so engaged; |  |
-|  | ``ship'' means any ship or vessel as defined in the Canada Shipping Act. |  |
-|  | (2) New. |  |
-|  | Clause 308: The relevant portion of subsection 31(1) reads as follows: |  |
-|  | 31. (1) Where the death of a seaman results from an injury, the following amounts of compensation shall be paid: |  |
-|  | . . . |  |
-|  | (c) where the expenses of burial of a seaman are paid by an employer under Part IV of the Canada Shipping Act, following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
-|  | Clause 309: Subsection 42(2) reads as follows: |  |
-|  | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
-|  | Clause 310: Section 47 reads as follows: |  |
-|  | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part IV of the Canada Shipping Act, or any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under the Canada Shipping Act or that other Act. |  |
-|  | National Defence Act |  |
-|  | Clause 311: Section 266 reads as follows: |  |
-|  | 266. Section 466 of the Canada Shipping Act does not apply in respect of any claim for salvage services by Her Majesty or by the commander or crew or part of the crew of a vessel or aircraft belonging to or in the service of Her Majesty and used in the Canadian Forces. |  |
-|  | Non-smokers' Health Act |  |
-|  | Clause 312: Subsection 2(2) reads as follows: |  |
-|  | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act or a work space on a ship registered under the Canada Shipping Act that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
-|  | Northwest Territories Waters Act |  |
-|  | Clause 313: The relevant portion of the definition ``use'' in section 2 reads as follows: |  |
-|  | ``use'', in relation to waters, means a direct or indirect use of any kind, including, without limiting the generality of the foregoing, |  |
-|  | . . . |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act; |  |
-|  | Nuclear Safety and Control Act |  |
-|  | Clause 314: Section 54 reads as follows: |  |
-|  | 54. Subsection 389(5) of the Canada Shipping Act does not apply in respect of a nuclear substance, prescribed equipment, a nuclear facility or a nuclear-powered vehicle. |  |
-|  | Canada Oil and Gas Operations Act |  |
-|  | Clause 315: Subsection 24(1) reads as follows: |  |
-|  | 24. (1) In sections 25 to 28, ``spill'' means a discharge, emission or escape of oil or gas, other than one that is authorized pursuant to the regulations or any other federal law or that constitutes a discharge from a ship to which Part XV or XVI of the Canada Shipping Act applies. |  |
-|  | Pilotage Act |  |
-|  | Clause 316: Section 2 reads as follows: |  |
-|  | 2. In this Act, |  |
-|  | ``apprentice pilot'' means a person who is training to become a licensed pilot; |  |
-|  | ``Authority'' means a Pilotage Authority established by section 3; |  |
-|  | ``Canadian waters'' means the territorial sea of Canada and all internal waters of Canada; |  |
-|  | ``compulsory pilotage'' means, in respect of a ship, the requirement that the ship be under the conduct of a licensed pilot or the holder of a pi lotage certificate; |  |
-|  | ``compulsory pilotage area'' means an area of water in which ships are subject to compulsory pilotage; |  |
-|  | ``licence'' means a licence issued by an Authority pursuant to section 22; |  |
-|  | ``licensed pilot'' means a person who holds a valid licence; |  |
-|  | ``Minister'' means the Minister of Transport; |  |
-|  | ``pilot'' means any person not belonging to a ship who has the conduct thereof; |  |
-|  | ``pilotage certificate'' means a certificate issued by an Authority pur suant to section 22; |  |
-|  | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
-|  | Clause 317: New. |  |
-|  | Canada Shipping Act |  |
-|  | Clause 319: Subsection 52(3) reads as follows: |  |
-|  | (3) A ship exempt from registration under this Act before this Part comes into force continues to be exempt until two years after this Part comes into force. |  |
-|  | Clause 320: The definition ``pollutant'' in section 673 reads as follows: |  |
-|  | ``pollutant'' means |  |
-|  | (a) any substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of those waters to an extent that is detrimental to their use by man or by any animal, fish or plant that is useful to man, and |  |
-|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of those waters to an extent that is detrimental to their use by man or by any animal, fish or plant that is useful to man, |  |
-|  | and, without limiting the generality of the foregoing, includes oil and any substance or any substance of a class of substances that is prescribed for the purposes of Part XV to be a pollutant; |  |
-|  | Yukon Waters Act |  |
-|  | Clause 321: The relevant portion of the definition ``use'' in section 2 reads as follows: |  |
-|  | ``use'', in relation to waters, means a direct or indirect use of any kind, including, without limiting the generality of the foregoing, |  |
-|  | . . . |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act; |  |
-|  | Shipping Conferences Exemption Act, 1987 |  |
-|  | Clause 325: Subsection 2(2) reads as follows: |  |
-|  | (2) For the purposes of this Act, a document shall be deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
-|  | Clause 326: (1) Subsection 4(3) reads as follows: |  |
-|  | (3) Subsection (1) does not apply in respect of a conference agreement unless the conference agreement |  |
-|  | (a) provides that any member of the conference may, after giving to the other members of the conference such number of days written notice as is fixed by order of the Governor in Council, or such lesser number of days notice as may be specified in the conference agreement, of the member's intention to do so, take independent action except with respect to service contracts; |  |
-|  | (b) provides that, where a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than such number of days after the notice is received by every member of the conference as is fixed by order of the Governor in Council; and |  |
-|  | (c) provides that, where a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action, except with respect to service contracts, on or after the day on which that independent action is first taken. |  |
-|  | (2) New. |  |
-|  | Clause 327: (1) and (2) The relevant portion of subsection 6(1) reads as follows: |  |
-|  | 6. (1) Every member of a conference shall, within the time prescribed in section 7, file or cause to be filed with the Agency |  |
-|  | . . . |  |
-|  | (b) a copy of every service contract to which the member is a party; |  |
-|  | . . . |  |
-|  | (d) a copy of each tariff established by the members of the conference containing the information described in subsection (2); |  |
-|  | (e) a copy of each standard form of loyalty contract approved by the members of the conference; and |  |
-|  | (f) a copy of every amendment to such tariff or standard form of loyalty contract. |  |
-|  | (3) Subsection 6(2) reads as follows: |  |
-|  | (2) Each tariff referred to in subsection (1) shall set out |  |
-|  | (a) the rates that may be assessed by a member of a conference who uses the tariff in connection with the transportation of goods other than the rates that may be assessed by that member under any service contract; |  |
-|  | (b) the places from and to which every rate referred to in paragraph (a) applies; |  |
-|  | (c) every rule and regulation that in any way determines the calculation of any rate set out in the tariff or affects or alters any term or condition for the transportation of goods; and |  |
-|  | (d) the address of the office or agency established pursuant to section 18 and to which communications respecting the tariff or negotiation of rates with the members of the conference may be directed. |  |
-|  | Clause 328: The relevant portion of section 7 reads as follows: |  |
-|  | 7. Every document required to be filed pursuant to |  |
-|  | . . . |  |
-|  | (d) paragraph 6(1)(d) or (e) shall be filed with the Agency not later than the day on which the tariff or standard form of loyalty contract becomes effective; and |  |
-|  | (e) paragraph 6(1)(f) shall be filed with the Agency not later than thirty days after the day on which the amendment becomes effective. |  |
-|  | Clause 329: Sections 18 and 19 read as follows: |  |
-|  | 18. Members of a conference shall maintain jointly an office or agency in that region of Canada where they operate and shall make available to the public during regular business hours for inspection or for purchase at a reasonable price copies of all documents in force that they have filed or caused to be filed pursuant to section 6, other than copies of service contracts, and of all notices in force that they have given pursuant to section 9 or 10. |  |
-|  | 19. Every member of a conference shall make available to the public for inspection, at all the member's principal offices or agencies in Canada during regular business hours, copies of all tariffs in force that the member has filed or caused to be filed pursuant to section 6 and of all notices of amendment to those tariffs given pursuant to section 10. |  |
-|  | Clause 330: Subsection 24(1) reads as follows: |  |
-|  | 24. (1) Where a member of a conference fails to comply with an obligation imposed on the member by this Act or the regulations, that member is guilty of an offence punishable on summary conviction and liable to a fine not exceeding one thousand dollars for each offence. |  |
-|  | Canadian Environmental Protection Act, 1999 |  |
-|  | Clause 331: (1) The definition ``engine'' in section 149 reads as follows: |  |
-|  | ``engine'' means any prescribed internal combustion engine, but does not include an engine designed to propel |  |
-|  | (a) an aircraft as defined in subsection 3(1) of the Aeronautics Act; |  |
-|  | (b) rolling stock as defined in section 6 of the Canada Transportation Act; or |  |
-|  | (c) a steamer, steamship or tug as defined in section 2 of the Canada Shipping Act. |  |
-|  | (2) The relevant portion of the definition ``vehicle'' in section 149 reads as follows: |  |
-|  | ``vehicle'' means any prescibed self-propelled vehicle, but does not in clude |  |
-|  | . . . |  |
-|  | (c) a steamer, steamship or tug as defined in section 2 of the Canada Shipping Act. |  |
-|  | (3) New. |  |
 
 |  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
 | --- | --- |
@@ -295,7 +78,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Immunity | (5) The person, classification society or other organization is not personally liable for anything they do or omit to do in good faith under this Act. |  |
 | Audit | 13. The Minister of Transport may authorize any person or class of persons to audit inspections carried out under section 211. The auditor may exercise the powers under that section of the person, classification society or other organization whose inspections are being audited. |  |
 |  | Authorized Representative |  |
-| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
+| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible under this Act for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
 | Authorized representa- tive | (2) Subject to subsections (3) and (4), the authorized representative of a Canadian vessel is the owner of the vessel or, in the case of a vessel described in section 48 (a bare-boat chartered vessel), the bare-boat charterer. |  |
 | Representativ e if more than one owner | (3) In the case of a Canadian vessel that is owned by more than one person, the owners must appoint one of themselves as the authorized representative. |  |
 | Representativ e of foreign corporation | (4) In the case of a Canadian vessel that is owned by a corporation incorporated under the laws of a state other than Canada, the authorized representative must be |  |
@@ -368,7 +151,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Immunity | (5) The person, classification society or other organization is not personally liable for anything they do or omit to do in good faith under this Act. |  |
 | Audit | 13. The Minister of Transport may authorize any person or class of persons to audit inspections carried out under section 211. The auditor may exercise the powers under that section of the person, classification society or other organization whose inspections are being audited. |  |
 |  | Authorized Representative |  |
-| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
+| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible under this Act for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
 | Authorized representa- tive | (2) Subject to subsections (3) and (4), the authorized representative of a Canadian vessel is the owner of the vessel or, in the case of a vessel described in section 48 (a bare-boat chartered vessel), the bare-boat charterer. |  |
 | Representativ e if more than one owner | (3) In the case of a Canadian vessel that is owned by more than one person, the owners must appoint one of themselves as the authorized representative. |  |
 | Representativ e of foreign corporation | (4) In the case of a Canadian vessel that is owned by a corporation incorporated under the laws of a state other than Canada, the authorized representative must be |  |
@@ -441,7 +224,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Immunity | (5) The person, classification society or other organization is not personally liable for anything they do or omit to do in good faith under this Act. |  |
 | Audit | 13. The Minister of Transport may authorize any person or class of persons to audit inspections carried out under section 211. The auditor may exercise the powers under that section of the person, classification society or other organization whose inspections are being audited. |  |
 |  | Authorized Representative |  |
-| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
+| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible under this Act for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
 | Authorized representa- tive | (2) Subject to subsections (3) and (4), the authorized representative of a Canadian vessel is the owner of the vessel or, in the case of a vessel described in section 48 (a bare-boat chartered vessel), the bare-boat charterer. |  |
 | Representativ e if more than one owner | (3) In the case of a Canadian vessel that is owned by more than one person, the owners must appoint one of themselves as the authorized representative. |  |
 | Representativ e of foreign corporation | (4) In the case of a Canadian vessel that is owned by a corporation incorporated under the laws of a state other than Canada, the authorized representative must be |  |
@@ -514,7 +297,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Immunity | (5) The person, classification society or other organization is not personally liable for anything they do or omit to do in good faith under this Act. |  |
 | Audit | 13. The Minister of Transport may authorize any person or class of persons to audit inspections carried out under section 211. The auditor may exercise the powers under that section of the person, classification society or other organization whose inspections are being audited. |  |
 |  | Authorized Representative |  |
-| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
+| Authorized representa- tive | 14. (1) Every Canadian vessel must have a person - the authorized representative - who is responsible under this Act for acting with respect to all matters relating to the vessel that are not otherwise assigned by this Act to any other person. |  |
 | Authorized representa- tive | (2) Subject to subsections (3) and (4), the authorized representative of a Canadian vessel is the owner of the vessel or, in the case of a vessel described in section 48 (a bare-boat chartered vessel), the bare-boat charterer. |  |
 | Representativ e if more than one owner | (3) In the case of a Canadian vessel that is owned by more than one person, the owners must appoint one of themselves as the authorized representative. |  |
 | Representativ e of foreign corporation | (4) In the case of a Canadian vessel that is owned by a corporation incorporated under the laws of a state other than Canada, the authorized representative must be |  |
@@ -2751,22 +2534,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -2831,22 +2613,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -2911,22 +2692,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -2991,22 +2771,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3071,22 +2850,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3151,22 +2929,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3231,22 +3008,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3311,22 +3087,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3391,22 +3166,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3471,22 +3245,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3551,22 +3324,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3631,22 +3403,21 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
 |  | Transfers of Vessels or Shares in Vessels |  |
 | --- | --- | --- |
@@ -3711,105 +3482,30 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Liens and Claims |  |
 | Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
 | Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
+| Liens for necessaries | (2.1) The master of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of disbursements made or liabilities incurred by the master for necessaries on account of the vessel. |  |
+| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred by subsection (1), (2) or (2.1) . |  |
 | Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
 |  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
 |  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
+| Priority - liens for necessaries | (5) Liens conferred by subsection (2.1) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
+|  | (a) liens conferred by subsection (1) or (2); |  |
+|  | (b) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
+|  | (c) any lien arising from a claim for salvage in respect of the vessel. |  |
 |  | Certificates |  |
 | Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
 | Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
 | Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
 | Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
-| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
-| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
-| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
-| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
-| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
 
-|  | Transfers of Vessels or Shares in Vessels |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
-| Transfer | 73. If the ownership of a Canadian vessel or a share in one changes and the vessel is still required or entitled to be registered under this Part, |  |
-|  | (a) the owner must provide the Chief Registrar with the evidence, including declarations, that the Chief Registrar considers necessary to establish that the vessel is required or entitled to be so registered; and |  |
-|  | (b) the Chief Registrar must amend the Register and the vessel's certificate of registry to reflect the change. |  |
-| Order for sale on acquisition by an unqualified person | 74. If an unqualified person acquires a Canadian vessel, other than a vessel described in paragraph 47(b) (a vessel owned by a foreign corporation), a vessel described in paragraph 47(c) (a vessel subject to a financing agreement) or a vessel described in section 48 (a bare-boat chartered vessel), or a share in one, any interested person may apply to the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for an order that the vessel or share, as the case may be, be sold to a qualified person. |  |
-| Power of court to prohibit transfer | 75. On the application of an interested person, the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, may make an order prohibiting any dealing with a Canadian vessel or a share in one for a specified period. |  |
-|  | Entries |  |
-| Copies of entries | 76. A person may examine or obtain copies of any entries in the Register with respect to a vessel. |  |
-|  | Regulations |  |
-| Regulations | 77. The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations |  |
-|  | (a) respecting the registration, listing and recording of vessels; |  |
-|  | (b) respecting the issuance and renewal of certificates of registry; |  |
-|  | (c) respecting the suspension and cancellation of the registration or listing of a Canadian vessel; |  |
-|  | (d) respecting the naming and marking of vessels; |  |
-|  | (e) respecting the port of registration; |  |
-|  | (f) respecting the form and manner of notifying the Chief Registrar under section 58; |  |
-|  | (g) respecting the evidence that owners of vessels previously registered in a foreign state must provide to prove that the vessels are no longer registered in the foreign state; |  |
-|  | (h) respecting the calculation of the tonnage of vessels and the issuance of certificates of tonnage; and |  |
-|  | (i) prescribing anything that may be prescribed under this Part. |  |
-|  | Offences and Punishment |  |
-| Contraven- tion of Act or regulations | 78. (1) Every person commits an offence who contravenes |  |
-|  | (a) subsection 57(4) (wilfully defacing, altering, concealing or removing markings); or |  |
-|  | (b) a provision of the regulations made under paragraph 77(h). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Contraven- tion of Act or regulations | 79. (1) Every person commits an offence who contravenes |  |
-|  | (a) subsection 46(2) (register vessel); |  |
-|  | (b) an order made under subsection 52(4) (renaming of vessel); |  |
-|  | (c) subsection 57(1) (mark vessel); |  |
-|  | (d) subsection 57(3) (maintenance of markings); |  |
-|  | (e) subsection 58(1) (notify of changes - authorized representative); |  |
-|  | (f) subsection 58(2) (notify of alteration - authorized representative); |  |
-|  | (g) subsection 58(3) (notify if no authorized representative - owner); |  |
-|  | (h) subsection 58(4) (notify of completion of construction); |  |
-|  | (i) subsection 63(1) (operation of vessel without a certificate on board); |  |
-|  | (j) subsection 63(2) (deliver certificate to person entitled to operate vessel); |  |
-|  | (k) subsection 63(3) (deliver certificate to Chief Registrar); |  |
-|  | (l) subsection 64(2) (fly Canadian flag); or |  |
-|  | (m) a provision of the regulations made under any of paragraphs 77(a) to (g). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-| Continuing offence | (3) If an offence under paragraph (1)(a) or (c) is committed or continued on more than one day, the person who committed it is liable to be convicted for a separate offence for each day on which it is committed or continued. |  |
-|  | PART 3 |  |
-|  | PERSONNEL |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 80. In this Part, ``Minister'' means the Minister of Transport. |  |
-|  | Application |  |
-| Canadian vessels | 81. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere. Subsections 86(2) to (4) also apply in respect of foreign vessels in Canadian waters. |  |
-|  | Masters |  |
-| Presentation of documents | 82. (1) The master of a Canadian vessel shall ensure that every person who is employed in a position on board presents to the master all Canadian maritime documents that they are required under this Part to have for that position. |  |
-| Sufficient and competent staff | (2) No master of a Canadian vessel shall operate it unless it is staffed with a crew that is sufficient and competent for the safe operation of the vessel on its intended voyage, and is kept so staffed during the voyage. |  |
-| Obstruction prohibited | (3) No crew member shall wilfully obstruct a master's operation of a Canadian vessel unless the master is, without just cause, putting at risk the safety of the vessel or of any person on board. |  |
-| Detention of persons | 83. (1) The master of a Canadian vessel may detain any person on board if the master has reasonable grounds to believe that it is necessary to do so to maintain good order and discipline on the vessel or for the safety of the vessel or of persons or property on board. The detention may last only as long as necessary to maintain order and discipline or to ensure the safety of persons or property. |  |
-| Custody | (2) The master of a Canadian vessel on a voyage may take into custody without warrant any person on board who the master has reasonable grounds to believe has committed an offence under this Act or any other Act of Parliament, and must as soon as feasible deliver that person to a peace officer. |  |
-| Use of force on a voyage | (3) The master of a Canadian vessel on a voyage is justified in using as much force as the master believes on reasonable grounds is necessary for the purpose of maintaining good order and discipline on the vessel, but the master must not use force that is intended or is likely to cause death or grievous bodily harm unless the master believes on reasonable grounds that it is necessary for self-preservation or the preservation of anyone on the vessel from death or grievous bodily harm. |  |
-|  | Stowaways and Other Persons |  |
-| Liable for discipline | 84. Every person whom the master of a Canadian vessel is compelled to take on board and convey, and every person who stows away on a Canadian vessel or hides in cargo that is subsequently loaded on a Canadian vessel, is, as long as the person remains on board, subject to the same rules and orders for preserving discipline, and to the same punishments for contravening the rules or orders constituting or tending to a breach of discipline, as are crew members. |  |
-|  | Contract of Employment |  |
-| Masters' contracts | 85. (1) In every contract of employment between the authorized representative and the master of a Canadian vessel there is implied, notwithstanding any agreement to the contrary, an obligation on the authorized representative that the authorized representative and every agent charged with loading the vessel, preparing it for a voyage or sending it on a voyage use all reasonable means to ensure its seaworthiness for the voyage when the voyage commences and to keep the vessel in a seaworthy condition during the voyage. |  |
-| Crew members' contracts | (2) In every contract of employment between the authorized representative and a crew member of a Canadian vessel there is implied, notwithstanding any agreement to the contrary, an obligation on the authorized representative that the authorized representative, the master and every agent charged with loading the vessel, preparing it for a voyage or sending it on a voyage use all reasonable means to ensure its seaworthiness for the voyage when the voyage commences and to keep the vessel in a seaworthy condition during the voyage. |  |
-| Exception | (3) Nothing in this section subjects the authorized representative of a Canadian vessel to any liability by reason of the vessel's being sent to sea in an unseaworthy condition if sending the vessel to sea in that condition was reasonable and justifiable in order to mitigate unsafe circumstances. |  |
-|  | Liens and Claims |  |
-| Liens | 86. (1) The master, and each crew member, of a Canadian vessel has a maritime lien against the vessel for claims that arise in respect of their employment on the vessel, including in respect of wages and costs of repatriation that are payable to the master or crew member under any law or custom. |  |
-| Foreign liens | (2) The master and each crew member of a vessel on whom a maritime lien against the vessel is conferred by a jurisdiction other than Canada in respect of employment on the vessel has a maritime lien against the vessel. |  |
-| Claims | (3) The master, and each crew member, of a vessel may maintain an action against the vessel in the Federal Court, or any court of competent jurisdiction whose rules provide for in rem procedure in respect of vessels, for claims in respect of which a lien is conferred under subsection (1) or (2). |  |
-| Priority | (4) Liens conferred by subsection (1) or (2) rank in priority to all other claims, secured or unsecured, against the vessel, other than |  |
-|  | (a) claims for costs relating to the arrest and the judicial sale of the vessel; or |  |
-|  | (b) any lien arising from a claim for salvage in respect of the vessel. |  |
-|  | Certificates |  |
-| Positions on board Canadian vessels | 87. Every person who is employed on board a Canadian vessel in a position in respect of which a certificate is required under this Part shall hold the certificate and comply with its terms and conditions. |  |
-| Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration Act may hold a certificate of competency that is issued under this Part. |  |
-| Foreign certificates of competency | (2) The Minister may, on application by a person described in subsection (1), issue a certificate of competency in respect of certain requirements under this Act to the holder of a certificate of competency that was issued under the laws of a foreign state if the Minister is satisfied that the requirements under those laws for the foreign certificate meet or exceed the requirements under this Act. Before issuing the certificate, the Minister may require that the holder take an examination set by the Minister. |  |
-| Acceptance of foreign certificates | 89. (1) If the government of a foreign state has entered into a reciprocal arrangement with the Government of Canada to accept certificates of competency issued under this Part in lieu of certificates of competency of that state and if the Minister is satisfied that the requirements under the laws of the foreign state for a certificate of competency meet or exceed the requirements under this Act, the Minister may direct, subject to any conditions that the Minister specifies, that the foreign certificate may be accepted in lieu of a certificate of competency issued under this Part. |  |
-| Suspension or cancellation | (2) A foreign certificate that is accepted under subsection (1) may, in so far only as concerns its validity in Canada, be suspended or cancelled by the Minister as though it were a Canadian maritime document, and the holder of any certificate so suspended or cancelled must deliver it to the Minister, who must then return it to the authority that issued it. |  |
-|  | Medical or Optometric Information |  |
 | Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
 | Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
 | Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
 | No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
 | Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
-
 |  | Articles of Agreement, Discharge and Record of Sea Service |  |
-| --- | --- | --- |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -3823,7 +3519,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -3882,13 +3578,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -3902,7 +3600,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -3961,13 +3659,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -3981,7 +3681,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -4040,13 +3740,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -4060,7 +3762,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -4119,13 +3821,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -4139,7 +3843,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -4198,13 +3902,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -4218,7 +3924,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -4277,13 +3983,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -4297,7 +4005,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -4356,13 +4064,15 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | Medical or Optometric Information |  |
 | --- | --- | --- |
+| Minister to be provided with information | 90. (1) If a physician or an optometrist believes on reasonable grounds that the holder of a certificate issued under this Part has a medical or optometric condition that is likely to constitute a hazard to maritime safety, the physician or optometrist shall inform the Minister without delay of that opinion and the reasons for it. |  |
+| Patient to advise | (2) The holder of a certificate issued under this Part in respect of which standards of medical or optometric fitness are required shall, before being examined by a physician or an optometrist, advise the physician or optometrist that they hold the certificate. |  |
+| Use by Minister | (3) The Minister may use any information provided under subsection (1) for the purpose of determining whether the holder of a certificate meets the requirements in respect of that certificate. |  |
+| No proceedings shall lie | (4) No legal, disciplinary or other proceedings lie against a physician or optometrist for anything they do in good faith in compliance with this section. |  |
+| Deemed consent | (5) The holder of a certificate is deemed, for the purposes of this section, to have consented to the Minister being informed under subsection (1) in the circumstances referred to in that subsection. |  |
+|  | Articles of Agreement, Discharge and Record of Sea Service |  |
 | Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
 |  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
 |  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
@@ -4376,7 +4086,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
 | Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
 |  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
+| Informing province | 96. The authorized representative of a Canadian vessel must, in the form and manner specified by the Minister , inform the Minister of every birth or death on board. |  |
 | Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
 |  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
 |  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
@@ -4435,171 +4145,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
 |  | (k) a provision of the regulations made under paragraph 100(j). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
 
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
+|  | PART 4 |  |
 | --- | --- | --- |
-| Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
-|  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
-|  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
-| Information | (2) The articles of agreement between the master and a crew member must state the surname and other names of the crew member, the respective rights and obligations of each of the parties and any other information required by the regulations made under this Part. |  |
-| Discharge | 92. When a crew member of a Canadian vessel is discharged, the authorized representative shall provide the member with a certificate of discharge in the form and manner specified by the Minister. |  |
-| Record of sea service | 93. (1) The authorized representative and every crew member of a Canadian vessel shall each maintain, in the form and manner and for the period specified by the Minister, a record of sea service of the member. |  |
-| Copies to the Minister | (2) On request, the authorized representative shall provide the Minister with a copy of, or an extract from, a crew member's record of sea service. |  |
-|  | Return of Crew Members |  |
-| Return and payment of expenses | 94. (1) Subject to the regulations and except in the case of desertion or mutual agreement, if a crew member is left behind when a Canadian vessel sails or is shipwrecked, the authorized representative shall ensure that arrangements are made to return the crew member to the place where they first came on board or to another place to which they have agreed, and pay the expenses of returning the crew member as well as all expenses, including medical expenses, that the crew member reasonably incurs before being returned. |  |
-| Exception if insurance | (2) The authorized representative is not responsible to pay any expenses covered by insurance for which the authorized representative paid. |  |
-| If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
-| Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
-|  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
-| Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
-|  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
-|  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
-| Cremation or burial | (2) If the contact person referred to in paragraph (1)(b) cannot be consulted within a reasonable period, the master shall, subject to any other law, bury or cremate the body, taking into account the deceased's wishes if known. |  |
-| Exceptional circumstances | (3) If, in the opinion of the master, it is not feasible, because of the type of voyage or the lack of facilities, to follow the wishes of the contact person referred to in paragraph (1)(b) or of the deceased crew member, the master shall, subject to any other law, bury or cremate the body. |  |
-| Property of a deceased crew member | (4) The authorized representative of a Canadian vessel shall give any property that belonged to a deceased crew member and was on board to the contact person referred to in paragraph (1)(b) or the deceased crew member's estate or succession. |  |
-|  | Obligation of Persons Who Provide Crew Members |  |
-| If an agreement to provide crew members | 98. If the authorized representative of a Canadian vessel entered into an agreement with another person to provide crew members, that other person shall, in lieu of the authorized representative or the master with respect to those crew members, comply with the obligation of the authorized representative or master set out in |  |
-|  | (a) paragraph 91(1)(a) (enter into articles); |  |
-|  | (b) section 92 (provide certificate of discharge); |  |
-|  | (c) subsection 93(1) (maintain record of sea service); |  |
-|  | (d) subsection 93(2) (provide copy of record of sea service); and |  |
-|  | (e) subsection 94(1) (pay expenses), except in respect of any expenses covered by insurance for which that other person or the authorized representative paid. |  |
-|  | Resolution of Disputes |  |
-| Adjudication by Minister | 99. The Minister may, on the request of the authorized representative and a crew member of a Canadian vessel, adjudicate any dispute between them that arises under this Part. The Minister's decision is binding on the parties. |  |
-|  | Regulations |  |
-| Regulations | 100. The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations |  |
-|  | (a) specifying the positions that shall be occupied on board Canadian vessels, or classes of Canadian vessels, their minimum number and the types and classes of Canadian maritime documents that persons in those positions shall hold; |  |
-|  | (b) specifying the requirements in respect of any position on board Canadian vessels or classes of Canadian vessels; |  |
-|  | (c) specifying the types and classes of certificates that may be issued in respect of positions on board Canadian vessels or classes of Canadian vessels; |  |
-|  | (d) respecting the qualifications required of applicants for any type or class of certificate specified under paragraph (c), including their medical fitness, minimum age, degree of knowledge, skill, training and experience; |  |
-|  | (e) respecting the manner of determining whether a person meets the requirements specified under paragraph (b) in respect of a position or the qualifications required under paragraph (d) for any type or class of certificate of competency or other Canadian maritime document; |  |
-|  | (f) specifying the terms and conditions of certificates of competency or other Canadian maritime documents issued under this Part; |  |
-|  | (g) specifying the circumstances in which ensuring arrangements for a crew member's return and paying their expenses are not required for the purpose of subsection 94(1); |  |
-|  | (h) respecting persons who enter into agreements to provide crew members, including requiring that those persons be licensed; |  |
-|  | (i) specifying the Canadian vessels or classes of Canadian vessels in respect of which the master shall enter into articles of agreement with crew members; |  |
-|  | (j) specifying the information that must be contained in articles of agreement; |  |
-|  | (k) specifying what constitutes a serious violation of a contract of employment; |  |
-|  | (l) respecting any occupational health or safety matter on board a vessel that is not regulated by the Canada Labour Code; and |  |
-|  | (m) respecting the payment and allotment of crew members' wages. |  |
-|  | Offences and Punishment |  |
-| Contraven- tion of Act or regulations | 101. (1) Every person commits an offence who contravenes |  |
-|  | (a) subsection 82(2) (operating a vessel without sufficient and competent crew); |  |
-|  | (b) subsection 82(3) (wilfully obstructing the operation of a vessel); or |  |
-|  | (c) a provision of the regulations made under any of paragraphs 100(a) to (i) and (k) to (m). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-| Continuing offence | (3) If an offence under subsection (1) is committed or continued on more than one day, the person who committed it is liable to be convicted for a separate offence for each day on which it is committed or continued. |  |
-| Contraven- tion of Act | 102. (1) Every person commits an offence who contravenes |  |
-|  | (a) section 87 (hold certificate or document and comply with its terms and conditions); |  |
-|  | (b) subsection 90(1) (inform Minister of medical opinion); |  |
-|  | (c) subsection 90(2) (inform that holder of a certificate); |  |
-|  | (d) subsection 94(1) (pay expenses); |  |
-|  | (e) subsection 97(1), (2), (3) or (4) (take measures following a death); or |  |
-|  | (f) paragraph 98(e) (failure to pay expenses). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Contraven- tion of Act or regulations | 103. (1) Every person commits an offence who contravenes |  |
-|  | (a) subsection 82(1) (ensure employees present Canadian maritime documents); |  |
-|  | (b) paragraph 91(1)(a) (enter into articles); |  |
-|  | (c) paragraph 91(1)(b) (display articles); |  |
-|  | (d) section 92 (provide certificate of discharge); |  |
-|  | (e) subsection 93(1) (maintain record of sea service); |  |
-|  | (f) subsection 93(2) (provide copy of record of sea service); |  |
-|  | (g) paragraph 98(a) (enter into articles); |  |
-|  | (h) paragraph 98(b) (provide certificate of discharge); |  |
-|  | (i) paragraph 98(c) (maintain record of sea service); |  |
-|  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
-|  | (k) a provision of the regulations made under paragraph 100(j). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
 |  | SAFETY |  |
 |  | Interpretation |  |
 | Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
-
-|  | Articles of Agreement, Discharge and Record of Sea Service |  |
-| --- | --- | --- |
-| Articles of agreement | 91. (1) The master of a vessel who is required by the regulations made under this Part to enter into articles of agreement shall |  |
-|  | (a) ensure that every crew member has entered into and received articles of agreement, in the form and manner specified by the Minister, with respect to their position on the vessel; and |  |
-|  | (b) display, in a location that is accessible to the crew, the provisions of the articles of agreement that are common to each crew member. |  |
-| Information | (2) The articles of agreement between the master and a crew member must state the surname and other names of the crew member, the respective rights and obligations of each of the parties and any other information required by the regulations made under this Part. |  |
-| Discharge | 92. When a crew member of a Canadian vessel is discharged, the authorized representative shall provide the member with a certificate of discharge in the form and manner specified by the Minister. |  |
-| Record of sea service | 93. (1) The authorized representative and every crew member of a Canadian vessel shall each maintain, in the form and manner and for the period specified by the Minister, a record of sea service of the member. |  |
-| Copies to the Minister | (2) On request, the authorized representative shall provide the Minister with a copy of, or an extract from, a crew member's record of sea service. |  |
-|  | Return of Crew Members |  |
-| Return and payment of expenses | 94. (1) Subject to the regulations and except in the case of desertion or mutual agreement, if a crew member is left behind when a Canadian vessel sails or is shipwrecked, the authorized representative shall ensure that arrangements are made to return the crew member to the place where they first came on board or to another place to which they have agreed, and pay the expenses of returning the crew member as well as all expenses, including medical expenses, that the crew member reasonably incurs before being returned. |  |
-| Exception if insurance | (2) The authorized representative is not responsible to pay any expenses covered by insurance for which the authorized representative paid. |  |
-| If authorized representa- tive does not comply | (3) If the authorized representative does not comply with subsection (1), the Minister may act in place of the authorized representative and any expenses incurred by the Minister constitute a debt due to Her Majesty in right of Canada by the authorized representative and may be recovered as such in a court of competent jurisdiction. |  |
-| Desertion or serious violation of contract | 95. If a crew member deserts a Canadian vessel or has committed a serious violation of their contract of employment, the authorized representative or, if the authorized representative entered into an agreement with another person to provide the crew member, that person may return the crew member to the place where they first came on board or to another place on which they and the authorized representative or the other person, as the case may be, have agreed. The expenses of returning the crew member may be deducted from any remuneration due to them. |  |
-|  | Births and Deaths |  |
-| Informing province | 96. The authorized representative of a Canadian vessel must, in accordance with the law of the province where the port of registry of the vessel is located, inform the province of every birth or death on board. |  |
-| Death of crew member | 97. (1) Subject to any other law, if a crew member of a Canadian vessel dies, the master shall |  |
-|  | (a) without delay inform the Minister or a diplomatic or consular officer of Canada of the circumstances surrounding the death; and |  |
-|  | (b) at the option of the person, if any, whom the crew member identified as a contact in case of emergency, arrange to bury or cremate the body or, if the person and the master agree on a place to return the body to, return it to that place. |  |
-| Cremation or burial | (2) If the contact person referred to in paragraph (1)(b) cannot be consulted within a reasonable period, the master shall, subject to any other law, bury or cremate the body, taking into account the deceased's wishes if known. |  |
-| Exceptional circumstances | (3) If, in the opinion of the master, it is not feasible, because of the type of voyage or the lack of facilities, to follow the wishes of the contact person referred to in paragraph (1)(b) or of the deceased crew member, the master shall, subject to any other law, bury or cremate the body. |  |
-| Property of a deceased crew member | (4) The authorized representative of a Canadian vessel shall give any property that belonged to a deceased crew member and was on board to the contact person referred to in paragraph (1)(b) or the deceased crew member's estate or succession. |  |
-|  | Obligation of Persons Who Provide Crew Members |  |
-| If an agreement to provide crew members | 98. If the authorized representative of a Canadian vessel entered into an agreement with another person to provide crew members, that other person shall, in lieu of the authorized representative or the master with respect to those crew members, comply with the obligation of the authorized representative or master set out in |  |
-|  | (a) paragraph 91(1)(a) (enter into articles); |  |
-|  | (b) section 92 (provide certificate of discharge); |  |
-|  | (c) subsection 93(1) (maintain record of sea service); |  |
-|  | (d) subsection 93(2) (provide copy of record of sea service); and |  |
-|  | (e) subsection 94(1) (pay expenses), except in respect of any expenses covered by insurance for which that other person or the authorized representative paid. |  |
-|  | Resolution of Disputes |  |
-| Adjudication by Minister | 99. The Minister may, on the request of the authorized representative and a crew member of a Canadian vessel, adjudicate any dispute between them that arises under this Part. The Minister's decision is binding on the parties. |  |
-|  | Regulations |  |
-| Regulations | 100. The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations |  |
-|  | (a) specifying the positions that shall be occupied on board Canadian vessels, or classes of Canadian vessels, their minimum number and the types and classes of Canadian maritime documents that persons in those positions shall hold; |  |
-|  | (b) specifying the requirements in respect of any position on board Canadian vessels or classes of Canadian vessels; |  |
-|  | (c) specifying the types and classes of certificates that may be issued in respect of positions on board Canadian vessels or classes of Canadian vessels; |  |
-|  | (d) respecting the qualifications required of applicants for any type or class of certificate specified under paragraph (c), including their medical fitness, minimum age, degree of knowledge, skill, training and experience; |  |
-|  | (e) respecting the manner of determining whether a person meets the requirements specified under paragraph (b) in respect of a position or the qualifications required under paragraph (d) for any type or class of certificate of competency or other Canadian maritime document; |  |
-|  | (f) specifying the terms and conditions of certificates of competency or other Canadian maritime documents issued under this Part; |  |
-|  | (g) specifying the circumstances in which ensuring arrangements for a crew member's return and paying their expenses are not required for the purpose of subsection 94(1); |  |
-|  | (h) respecting persons who enter into agreements to provide crew members, including requiring that those persons be licensed; |  |
-|  | (i) specifying the Canadian vessels or classes of Canadian vessels in respect of which the master shall enter into articles of agreement with crew members; |  |
-|  | (j) specifying the information that must be contained in articles of agreement; |  |
-|  | (k) specifying what constitutes a serious violation of a contract of employment; |  |
-|  | (l) respecting any occupational health or safety matter on board a vessel that is not regulated by the Canada Labour Code; and |  |
-|  | (m) respecting the payment and allotment of crew members' wages. |  |
-|  | Offences and Punishment |  |
-| Contraven- tion of Act or regulations | 101. (1) Every person commits an offence who contravenes |  |
-|  | (a) subsection 82(2) (operating a vessel without sufficient and competent crew); |  |
-|  | (b) subsection 82(3) (wilfully obstructing the operation of a vessel); or |  |
-|  | (c) a provision of the regulations made under any of paragraphs 100(a) to (i) and (k) to (m). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-| Continuing offence | (3) If an offence under subsection (1) is committed or continued on more than one day, the person who committed it is liable to be convicted for a separate offence for each day on which it is committed or continued. |  |
-| Contraven- tion of Act | 102. (1) Every person commits an offence who contravenes |  |
-|  | (a) section 87 (hold certificate or document and comply with its terms and conditions); |  |
-|  | (b) subsection 90(1) (inform Minister of medical opinion); |  |
-|  | (c) subsection 90(2) (inform that holder of a certificate); |  |
-|  | (d) subsection 94(1) (pay expenses); |  |
-|  | (e) subsection 97(1), (2), (3) or (4) (take measures following a death); or |  |
-|  | (f) paragraph 98(e) (failure to pay expenses). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Contraven- tion of Act or regulations | 103. (1) Every person commits an offence who contravenes |  |
-|  | (a) subsection 82(1) (ensure employees present Canadian maritime documents); |  |
-|  | (b) paragraph 91(1)(a) (enter into articles); |  |
-|  | (c) paragraph 91(1)(b) (display articles); |  |
-|  | (d) section 92 (provide certificate of discharge); |  |
-|  | (e) subsection 93(1) (maintain record of sea service); |  |
-|  | (f) subsection 93(2) (provide copy of record of sea service); |  |
-|  | (g) paragraph 98(a) (enter into articles); |  |
-|  | (h) paragraph 98(b) (provide certificate of discharge); |  |
-|  | (i) paragraph 98(c) (maintain record of sea service); |  |
-|  | (j) paragraph 98(d) (provide copy of record of sea service); or |  |
-|  | (k) a provision of the regulations made under paragraph 100(j). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $10,000. |  |
-|  | PART 4 |  |
-|  | SAFETY |  |
-|  | Interpretation |  |
-| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
-
 |  | Application |  |
-| --- | --- | --- |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -4617,6 +4169,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -4649,7 +4202,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -4690,13 +4243,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -4714,6 +4267,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -4746,7 +4300,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -4787,13 +4341,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -4811,6 +4365,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -4843,7 +4398,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -4884,13 +4439,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -4908,6 +4463,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -4940,7 +4496,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -4981,13 +4537,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -5005,6 +4561,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -5037,7 +4594,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -5078,13 +4635,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -5102,6 +4659,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -5134,7 +4692,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -5175,13 +4733,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -5199,6 +4757,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -5231,7 +4790,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -5272,13 +4831,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -5296,6 +4855,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -5328,7 +4888,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -5369,13 +4929,13 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
-|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
-|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
-| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 
-|  | Application |  |
+|  | PART 4 |  |
 | --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
 | Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
 |  | Authorized Representatives |  |
 | General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
@@ -5393,6 +4953,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
 | Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
 | Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
 | Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
 | Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
 |  | Crew |  |
@@ -5425,7 +4986,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
 |  | (i) respecting procedures and practices that must be followed; |  |
 |  | (j) respecting compulsory routes and recommended routes; |  |
-|  | (k) regulating or prohibiting the navigation, operation, anchoring, mooring or berthing of vessels of 15 tons gross tonnage or more for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
 |  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
 |  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
 |  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
@@ -5466,19 +5027,313 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) section 114 (comply with direction); |  |
 |  | (b) subsection 115(1) (passenger to comply with direction); |  |
 |  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
+
+|  | PART 4 |  |
+| --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
+| Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
+|  | Authorized Representatives |  |
+| General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
+|  | (a) ensure that the vessel and its machinery and equipment meet the requirements of the regulations made under this Part; |  |
+|  | (b) develop procedures for the safe operation of the vessel and for dealing with emergencies; and |  |
+|  | (c) ensure that the crew and passengers receive safety training. |  |
+| Duties re Canadian maritime documents | (2) The authorized representative of a Canadian vessel shall ensure that |  |
+|  | (a) the vessel and its machinery and equipment are inspected for the purpose of obtaining all of the Canadian maritime documents that are required under this Part; and |  |
+|  | (b) every term or condition attached to a Canadian maritime document issued in respect of the vessel or its machinery or equipment is met. |  |
+|  | Masters |  |
+| Obtaining Canadian maritime documents | 107. The master of a Canadian vessel shall, before the vessel embarks on a voyage from a port in Canada, ensure that all of the Canadian maritime documents required under this Part have been obtained. |  |
+| Exemptions | 108. (1) If the master of a Canadian vessel has had the vessel or its machinery or equipment inspected by an authority of a foreign state and that authority has issued a certificate that certifies that the vessel, machinery or equipment meets certain requirements of that state and the Minister is satisfied that those requirements meet or exceed the requirements for a Canadian maritime document required under this Part, the Minister may grant an exemption, for the period specified by the Minister, from the obligation to comply with subsection 106(2) and section 107 with respect to that certificate. |  |
+| Issuance of certificates by foreign states | (2) The Minister may request the government of a state that is a party to a convention, protocol or resolution listed in Schedule 1 respecting the safety of vessels or of persons who are on board or are loading or unloading vessels to issue in respect of a Canadian vessel any certificate provided for by the convention, protocol or resolution. A certificate issued as a result of such a request and containing a statement that it has been so issued has effect for the purposes of this Act as if it had been issued under this Part and may be suspended or cancelled as though it were a Canadian maritime document. |  |
+| Safety of persons | 109. (1) The master of a vessel shall take all reasonable steps to ensure the safety of the vessel and of persons who are on board or are loading or unloading it while using equipment on it. |  |
+| Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
+| Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
+| Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
+| Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
+| Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
+|  | Crew |  |
+| Carrying out duties and reporting | 113. Every crew member on board a vessel shall |  |
+|  | (a) carry out their duties and functions in a manner that does not jeopardize the safety of the vessel or of any person on board; |  |
+|  | (b) report to the master any safety hazards of which they become aware; |  |
+|  | (c) report to the master any change in their circumstances that could affect their ability to carry out their duties and functions safely; and |  |
+|  | (d) comply with lawful directions given by the master. |  |
+| Compliance with directions | 114. Every crew member on board a vessel shall comply with any direction given to them by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
+|  | Passengers |  |
+| Compliance with directions | 115. (1) Every passenger on board a vessel shall comply with any direction that is given to them by the master or a crew member to carry out the provisions of this Act or the regulations. |  |
+| Compliance with direction to leave a vessel | (2) Every passenger on board a vessel shall comply with a direction to leave the vessel that is given to them by the master before the vessel embarks on a voyage. |  |
+|  | Authorized Representatives, Masters, Crew Members and Other Persons |  |
+| When boarding a vessel prohibited | 116. Subject to sections 135 (stopping and boarding a vessel), 175 (pollution prevention officers' powers), 196 and 198 (pleasure craft inspections), 200 (stopping and boarding a vessel) and 211 (inspections) and to any other Act of Parliament, no person shall go or attempt to go on board a vessel or to leave or attempt to leave one |  |
+|  | (a) without the permission or against the orders of the master or the person in charge of embarkation or disembarkation; or |  |
+|  | (b) if there is no safe means of embarkation or disembarkation or every such means has been blocked. |  |
+| Tampering and vandalism | 117. No person shall tamper with or vandalize a vessel or its machinery, equipment or notices or plans relating to emergency procedures, safety or navigation. |  |
+| Jeopardizing safety | 118. No person shall take any action that might jeopardize the safety of a vessel or of persons on board. |  |
+|  | Construction of Vessels |  |
+| In accordance with plans | 119. Subject to the regulations, no person shall construct, manufacture or alter a vessel of a prescribed class otherwise than in accordance with plans approved by the Minister as having met the requirements of the regulations respecting the design and construction of vessels of that class. |  |
+|  | Regulations |  |
+| Regulations | 120. (1) The Governor in Council may, on the recommendation of the Minister, make regulations respecting the safety of vessels or classes of vessels and of persons on board or loading or unloading a vessel, including regulations |  |
+|  | (a) respecting the design, construction, manufacture and maintenance of vessels or classes of vessels; |  |
+|  | (b) specifying the machinery, equipment and supplies that are required or prohibited on board vessels or classes of vessels; |  |
+|  | (c) respecting the design, construction, manufacture, maintenance, storage, testing, approval, arrangement and use of a vessel's or a class of vessels' machinery, equipment and supplies; |  |
+|  | (d) respecting the requirements that vessels, or classes of vessels, and their machinery and equipment must meet; |  |
+|  | (e) requiring the obtaining of certificates certifying that any of the requirements referred to in paragraph (d) are met; |  |
+|  | (f) specifying the terms and conditions of certificates issued under this Part; |  |
+|  | (g) respecting inspections and the testing of vessels, or classes of vessels, and their machinery, equipment and supplies; |  |
+|  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
+|  | (i) respecting procedures and practices that must be followed; |  |
+|  | (j) respecting compulsory routes and recommended routes; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
+|  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
+|  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
+|  | (o) respecting the marking of vessels and the posting of notices, plans and Canadian maritime documents to show information relating to safety and to emergency procedures; |  |
+|  | (p) respecting the number of passengers that may be on board a vessel and their safety; |  |
+|  | (q) respecting the illumination of docks or wharfs at which vessels are berthed; |  |
+|  | (r) respecting shore-based gangways; |  |
+|  | (s) respecting cargo; and |  |
+|  | (t) prescribing anything that may be prescribed under this Part. |  |
+| Application of regulations | (2) Regulations made under this section apply in respect of vessels that are capable of engaging in the drilling for, or the production, conservation or processing of, oil or gas only if the regulations so state and were made on the joint recommendation of the Minister and the Minister of Natural Resources. |  |
+| Aircraft | (3) Despite section 105, regulations referred to in paragraph (1)(k) or (l) may be made in respect of aircraft on or over Canadian waters. |  |
+| Pleasure craft | (4) Despite section 105, regulations referred to in paragraph (1)(j), (k) or (l) may be made in respect of pleasure craft that are in Canadian waters. |  |
+| Contraven- tions of regulations | (5) Despite section 105, paragraph 121(1)(s) applies in respect of contraventions of regulations made under subsection (3) or (4). |  |
+|  | Offences and Punishment |  |
+| Contraven- tion of Act or regulations | 121. (1) Every person who, or vessel that, contravenes any of the following commits an offence: |  |
+|  | (a) paragraph 106(1)(a) (ensure vessel meets requirements); |  |
+|  | (b) paragraph 106(1)(b) (develop emergency procedures); |  |
+|  | (c) paragraph 106(1)(c) (ensure training); |  |
+|  | (d) paragraph 106(2)(a) (ensure vessel inspected); |  |
+|  | (e) paragraph 106(2)(b) (ensure terms and conditions met); |  |
+|  | (f) section 107 (obtain certificates); |  |
+|  | (g) subsection 109(1) (ensure safety); |  |
+|  | (h) subsection 109(2) (protect from hazards and notify authorized representative); |  |
+|  | (i) subsection 110(1) (too many persons); |  |
+|  | (j) section 111 (master to comply with direction); |  |
+|  | (k) section 112 (inform of danger); |  |
+|  | (l) paragraph 113(a) (carry out duties and functions safely); |  |
+|  | (m) paragraph 113(b) (report safety hazards); |  |
+|  | (n) paragraph 113(c) (report change in circumstances); |  |
+|  | (o) paragraph 113(d) (comply with lawful direction given by master); |  |
+|  | (p) section 117 (tampering or vandalism); |  |
+|  | (q) section 118 (jeopardizing safety); |  |
+|  | (r) section 119 (constructing, manufacturing or altering a vessel not in accordance with approved plans); and |  |
+|  | (s) a provision of the regulations made under this Part. |  |
+| Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
+| Contraven- tion of subsection 110(2) | 122. Every person who contravenes subsection 110(2) (submerged load lines) commits an offence and is liable on summary conviction to a fine of not more than $500,000 in respect of each centimetre or part of a centimetre that the applicable load line is submerged or to imprisonment for a term of not more than 18 months, or to both. |  |
+| Contraven- tion of Act | 123. (1) Every person commits an offence who contravenes |  |
+|  | (a) section 114 (comply with direction); |  |
+|  | (b) subsection 115(1) (passenger to comply with direction); |  |
+|  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
+
+|  | PART 4 |  |
+| --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
+| Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
+|  | Authorized Representatives |  |
+| General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
+|  | (a) ensure that the vessel and its machinery and equipment meet the requirements of the regulations made under this Part; |  |
+|  | (b) develop procedures for the safe operation of the vessel and for dealing with emergencies; and |  |
+|  | (c) ensure that the crew and passengers receive safety training. |  |
+| Duties re Canadian maritime documents | (2) The authorized representative of a Canadian vessel shall ensure that |  |
+|  | (a) the vessel and its machinery and equipment are inspected for the purpose of obtaining all of the Canadian maritime documents that are required under this Part; and |  |
+|  | (b) every term or condition attached to a Canadian maritime document issued in respect of the vessel or its machinery or equipment is met. |  |
+|  | Masters |  |
+| Obtaining Canadian maritime documents | 107. The master of a Canadian vessel shall, before the vessel embarks on a voyage from a port in Canada, ensure that all of the Canadian maritime documents required under this Part have been obtained. |  |
+| Exemptions | 108. (1) If the master of a Canadian vessel has had the vessel or its machinery or equipment inspected by an authority of a foreign state and that authority has issued a certificate that certifies that the vessel, machinery or equipment meets certain requirements of that state and the Minister is satisfied that those requirements meet or exceed the requirements for a Canadian maritime document required under this Part, the Minister may grant an exemption, for the period specified by the Minister, from the obligation to comply with subsection 106(2) and section 107 with respect to that certificate. |  |
+| Issuance of certificates by foreign states | (2) The Minister may request the government of a state that is a party to a convention, protocol or resolution listed in Schedule 1 respecting the safety of vessels or of persons who are on board or are loading or unloading vessels to issue in respect of a Canadian vessel any certificate provided for by the convention, protocol or resolution. A certificate issued as a result of such a request and containing a statement that it has been so issued has effect for the purposes of this Act as if it had been issued under this Part and may be suspended or cancelled as though it were a Canadian maritime document. |  |
+| Safety of persons | 109. (1) The master of a vessel shall take all reasonable steps to ensure the safety of the vessel and of persons who are on board or are loading or unloading it while using equipment on it. |  |
+| Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
+| Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
+| Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
+| Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
+| Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
+|  | Crew |  |
+| Carrying out duties and reporting | 113. Every crew member on board a vessel shall |  |
+|  | (a) carry out their duties and functions in a manner that does not jeopardize the safety of the vessel or of any person on board; |  |
+|  | (b) report to the master any safety hazards of which they become aware; |  |
+|  | (c) report to the master any change in their circumstances that could affect their ability to carry out their duties and functions safely; and |  |
+|  | (d) comply with lawful directions given by the master. |  |
+| Compliance with directions | 114. Every crew member on board a vessel shall comply with any direction given to them by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
+|  | Passengers |  |
+| Compliance with directions | 115. (1) Every passenger on board a vessel shall comply with any direction that is given to them by the master or a crew member to carry out the provisions of this Act or the regulations. |  |
+| Compliance with direction to leave a vessel | (2) Every passenger on board a vessel shall comply with a direction to leave the vessel that is given to them by the master before the vessel embarks on a voyage. |  |
+|  | Authorized Representatives, Masters, Crew Members and Other Persons |  |
+| When boarding a vessel prohibited | 116. Subject to sections 135 (stopping and boarding a vessel), 175 (pollution prevention officers' powers), 196 and 198 (pleasure craft inspections), 200 (stopping and boarding a vessel) and 211 (inspections) and to any other Act of Parliament, no person shall go or attempt to go on board a vessel or to leave or attempt to leave one |  |
+|  | (a) without the permission or against the orders of the master or the person in charge of embarkation or disembarkation; or |  |
+|  | (b) if there is no safe means of embarkation or disembarkation or every such means has been blocked. |  |
+| Tampering and vandalism | 117. No person shall tamper with or vandalize a vessel or its machinery, equipment or notices or plans relating to emergency procedures, safety or navigation. |  |
+| Jeopardizing safety | 118. No person shall take any action that might jeopardize the safety of a vessel or of persons on board. |  |
+|  | Construction of Vessels |  |
+| In accordance with plans | 119. Subject to the regulations, no person shall construct, manufacture or alter a vessel of a prescribed class otherwise than in accordance with plans approved by the Minister as having met the requirements of the regulations respecting the design and construction of vessels of that class. |  |
+|  | Regulations |  |
+| Regulations | 120. (1) The Governor in Council may, on the recommendation of the Minister, make regulations respecting the safety of vessels or classes of vessels and of persons on board or loading or unloading a vessel, including regulations |  |
+|  | (a) respecting the design, construction, manufacture and maintenance of vessels or classes of vessels; |  |
+|  | (b) specifying the machinery, equipment and supplies that are required or prohibited on board vessels or classes of vessels; |  |
+|  | (c) respecting the design, construction, manufacture, maintenance, storage, testing, approval, arrangement and use of a vessel's or a class of vessels' machinery, equipment and supplies; |  |
+|  | (d) respecting the requirements that vessels, or classes of vessels, and their machinery and equipment must meet; |  |
+|  | (e) requiring the obtaining of certificates certifying that any of the requirements referred to in paragraph (d) are met; |  |
+|  | (f) specifying the terms and conditions of certificates issued under this Part; |  |
+|  | (g) respecting inspections and the testing of vessels, or classes of vessels, and their machinery, equipment and supplies; |  |
+|  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
+|  | (i) respecting procedures and practices that must be followed; |  |
+|  | (j) respecting compulsory routes and recommended routes; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
+|  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
+|  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
+|  | (o) respecting the marking of vessels and the posting of notices, plans and Canadian maritime documents to show information relating to safety and to emergency procedures; |  |
+|  | (p) respecting the number of passengers that may be on board a vessel and their safety; |  |
+|  | (q) respecting the illumination of docks or wharfs at which vessels are berthed; |  |
+|  | (r) respecting shore-based gangways; |  |
+|  | (s) respecting cargo; and |  |
+|  | (t) prescribing anything that may be prescribed under this Part. |  |
+| Application of regulations | (2) Regulations made under this section apply in respect of vessels that are capable of engaging in the drilling for, or the production, conservation or processing of, oil or gas only if the regulations so state and were made on the joint recommendation of the Minister and the Minister of Natural Resources. |  |
+| Aircraft | (3) Despite section 105, regulations referred to in paragraph (1)(k) or (l) may be made in respect of aircraft on or over Canadian waters. |  |
+| Pleasure craft | (4) Despite section 105, regulations referred to in paragraph (1)(j), (k) or (l) may be made in respect of pleasure craft that are in Canadian waters. |  |
+| Contraven- tions of regulations | (5) Despite section 105, paragraph 121(1)(s) applies in respect of contraventions of regulations made under subsection (3) or (4). |  |
+|  | Offences and Punishment |  |
+| Contraven- tion of Act or regulations | 121. (1) Every person who, or vessel that, contravenes any of the following commits an offence: |  |
+|  | (a) paragraph 106(1)(a) (ensure vessel meets requirements); |  |
+|  | (b) paragraph 106(1)(b) (develop emergency procedures); |  |
+|  | (c) paragraph 106(1)(c) (ensure training); |  |
+|  | (d) paragraph 106(2)(a) (ensure vessel inspected); |  |
+|  | (e) paragraph 106(2)(b) (ensure terms and conditions met); |  |
+|  | (f) section 107 (obtain certificates); |  |
+|  | (g) subsection 109(1) (ensure safety); |  |
+|  | (h) subsection 109(2) (protect from hazards and notify authorized representative); |  |
+|  | (i) subsection 110(1) (too many persons); |  |
+|  | (j) section 111 (master to comply with direction); |  |
+|  | (k) section 112 (inform of danger); |  |
+|  | (l) paragraph 113(a) (carry out duties and functions safely); |  |
+|  | (m) paragraph 113(b) (report safety hazards); |  |
+|  | (n) paragraph 113(c) (report change in circumstances); |  |
+|  | (o) paragraph 113(d) (comply with lawful direction given by master); |  |
+|  | (p) section 117 (tampering or vandalism); |  |
+|  | (q) section 118 (jeopardizing safety); |  |
+|  | (r) section 119 (constructing, manufacturing or altering a vessel not in accordance with approved plans); and |  |
+|  | (s) a provision of the regulations made under this Part. |  |
+| Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
+| Contraven- tion of subsection 110(2) | 122. Every person who contravenes subsection 110(2) (submerged load lines) commits an offence and is liable on summary conviction to a fine of not more than $500,000 in respect of each centimetre or part of a centimetre that the applicable load line is submerged or to imprisonment for a term of not more than 18 months, or to both. |  |
+| Contraven- tion of Act | 123. (1) Every person commits an offence who contravenes |  |
+|  | (a) section 114 (comply with direction); |  |
+|  | (b) subsection 115(1) (passenger to comply with direction); |  |
+|  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
+
+|  | PART 4 |  |
+| --- | --- | --- |
+|  | SAFETY |  |
+|  | Interpretation |  |
+| Definition of ``Minister'' | 104. In this Part, ``Minister'' means the Minister of Transport. |  |
+|  | Application |  |
+| Canadian vessels and foreign vessels | 105. This Part applies in respect of Canadian vessels, other than pleasure craft, everywhere and in respect of foreign vessels in Canadian waters. |  |
+|  | Authorized Representatives |  |
+| General duties | 106. (1) The authorized representative of a Canadian vessel shall |  |
+|  | (a) ensure that the vessel and its machinery and equipment meet the requirements of the regulations made under this Part; |  |
+|  | (b) develop procedures for the safe operation of the vessel and for dealing with emergencies; and |  |
+|  | (c) ensure that the crew and passengers receive safety training. |  |
+| Duties re Canadian maritime documents | (2) The authorized representative of a Canadian vessel shall ensure that |  |
+|  | (a) the vessel and its machinery and equipment are inspected for the purpose of obtaining all of the Canadian maritime documents that are required under this Part; and |  |
+|  | (b) every term or condition attached to a Canadian maritime document issued in respect of the vessel or its machinery or equipment is met. |  |
+|  | Masters |  |
+| Obtaining Canadian maritime documents | 107. The master of a Canadian vessel shall, before the vessel embarks on a voyage from a port in Canada, ensure that all of the Canadian maritime documents required under this Part have been obtained. |  |
+| Exemptions | 108. (1) If the master of a Canadian vessel has had the vessel or its machinery or equipment inspected by an authority of a foreign state and that authority has issued a certificate that certifies that the vessel, machinery or equipment meets certain requirements of that state and the Minister is satisfied that those requirements meet or exceed the requirements for a Canadian maritime document required under this Part, the Minister may grant an exemption, for the period specified by the Minister, from the obligation to comply with subsection 106(2) and section 107 with respect to that certificate. |  |
+| Issuance of certificates by foreign states | (2) The Minister may request the government of a state that is a party to a convention, protocol or resolution listed in Schedule 1 respecting the safety of vessels or of persons who are on board or are loading or unloading vessels to issue in respect of a Canadian vessel any certificate provided for by the convention, protocol or resolution. A certificate issued as a result of such a request and containing a statement that it has been so issued has effect for the purposes of this Act as if it had been issued under this Part and may be suspended or cancelled as though it were a Canadian maritime document. |  |
+| Safety of persons | 109. (1) The master of a vessel shall take all reasonable steps to ensure the safety of the vessel and of persons who are on board or are loading or unloading it while using equipment on it. |  |
+| Protection from hazards | (2) If the master of a vessel is informed of a safety hazard, the master shall, unless the master determines that the hazard does not exist, take reasonable measures to protect the vessel and persons on board from the hazard, including eliminating it if feasible. If it is not feasible to eliminate it, the master of a Canadian vessel shall notify the authorized representative. |  |
+| Carrying excess number of persons | 110. (1) The master of a vessel shall ensure that the number of persons carried on board is not more than the number of persons authorized to be on board under any certificate issued under this Part or under an international convention or protocol listed in Schedule 1. |  |
+| Submerging load lines | (2) The master of a vessel shall ensure that the applicable load lines on the vessel are not submerged. |  |
+| Exception to subsection (1) | (3) Subsection (1) does not apply in respect of a person carried on board a vessel in pursuance of the obligation on the master to carry shipwrecked or distressed persons. |  |
+| Compliance with directions | 111. Every master shall comply with any direction given to the master by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
+| Information to be sent respecting dangers to navigation | 112. If the master of a Canadian vessel encounters dangerous ice, a dangerous derelict or other direct danger to navigation, a tropical storm, winds of a force of 10 or more on the Beaufort scale for which no storm warning has been received or subfreezing air temperatures associated with gale force winds and causing severe ice accretion on the superstructure of the vessel, the master shall give notice to all vessels in the vicinity and the prescribed authorities on shore of the danger. |  |
+|  | Crew |  |
+| Carrying out duties and reporting | 113. Every crew member on board a vessel shall |  |
+|  | (a) carry out their duties and functions in a manner that does not jeopardize the safety of the vessel or of any person on board; |  |
+|  | (b) report to the master any safety hazards of which they become aware; |  |
+|  | (c) report to the master any change in their circumstances that could affect their ability to carry out their duties and functions safely; and |  |
+|  | (d) comply with lawful directions given by the master. |  |
+| Compliance with directions | 114. Every crew member on board a vessel shall comply with any direction given to them by a marine safety inspector to cease any operation or procedure that, in the inspector's opinion, poses an undue risk because of unsafe conditions. |  |
+|  | Passengers |  |
+| Compliance with directions | 115. (1) Every passenger on board a vessel shall comply with any direction that is given to them by the master or a crew member to carry out the provisions of this Act or the regulations. |  |
+| Compliance with direction to leave a vessel | (2) Every passenger on board a vessel shall comply with a direction to leave the vessel that is given to them by the master before the vessel embarks on a voyage. |  |
+|  | Authorized Representatives, Masters, Crew Members and Other Persons |  |
+| When boarding a vessel prohibited | 116. Subject to sections 135 (stopping and boarding a vessel), 175 (pollution prevention officers' powers), 196 and 198 (pleasure craft inspections), 200 (stopping and boarding a vessel) and 211 (inspections) and to any other Act of Parliament, no person shall go or attempt to go on board a vessel or to leave or attempt to leave one |  |
+|  | (a) without the permission or against the orders of the master or the person in charge of embarkation or disembarkation; or |  |
+|  | (b) if there is no safe means of embarkation or disembarkation or every such means has been blocked. |  |
+| Tampering and vandalism | 117. No person shall tamper with or vandalize a vessel or its machinery, equipment or notices or plans relating to emergency procedures, safety or navigation. |  |
+| Jeopardizing safety | 118. No person shall take any action that might jeopardize the safety of a vessel or of persons on board. |  |
+|  | Construction of Vessels |  |
+| In accordance with plans | 119. Subject to the regulations, no person shall construct, manufacture or alter a vessel of a prescribed class otherwise than in accordance with plans approved by the Minister as having met the requirements of the regulations respecting the design and construction of vessels of that class. |  |
+|  | Regulations |  |
+| Regulations | 120. (1) The Governor in Council may, on the recommendation of the Minister, make regulations respecting the safety of vessels or classes of vessels and of persons on board or loading or unloading a vessel, including regulations |  |
+|  | (a) respecting the design, construction, manufacture and maintenance of vessels or classes of vessels; |  |
+|  | (b) specifying the machinery, equipment and supplies that are required or prohibited on board vessels or classes of vessels; |  |
+|  | (c) respecting the design, construction, manufacture, maintenance, storage, testing, approval, arrangement and use of a vessel's or a class of vessels' machinery, equipment and supplies; |  |
+|  | (d) respecting the requirements that vessels, or classes of vessels, and their machinery and equipment must meet; |  |
+|  | (e) requiring the obtaining of certificates certifying that any of the requirements referred to in paragraph (d) are met; |  |
+|  | (f) specifying the terms and conditions of certificates issued under this Part; |  |
+|  | (g) respecting inspections and the testing of vessels, or classes of vessels, and their machinery, equipment and supplies; |  |
+|  | (h) respecting load lines and draught marks on vessels or classes of vessels; |  |
+|  | (i) respecting procedures and practices that must be followed; |  |
+|  | (j) respecting compulsory routes and recommended routes; |  |
+|  | (k) regulating or prohibiting the operation of vessels for the purpose of protecting persons, vessels, artificial islands, installations, structures, works, shore areas or environmentally sensitive areas; |  |
+|  | (l) respecting the prevention of collisions in Canadian waters or waters in the exclusive economic zone of Canada; |  |
+|  | (m) respecting arrangements for ensuring communication between persons in different parts of a vessel and between persons on board and other persons; |  |
+|  | (n) respecting information and documents that must be supplied to the master and kept on board vessels or classes of vessels; |  |
+|  | (o) respecting the marking of vessels and the posting of notices, plans and Canadian maritime documents to show information relating to safety and to emergency procedures; |  |
+|  | (p) respecting the number of passengers that may be on board a vessel and their safety; |  |
+|  | (q) respecting the illumination of docks or wharfs at which vessels are berthed; |  |
+|  | (r) respecting shore-based gangways; |  |
+|  | (s) respecting cargo; and |  |
+|  | (t) prescribing anything that may be prescribed under this Part. |  |
+| Application of regulations | (2) Regulations made under this section apply in respect of vessels that are capable of engaging in the drilling for, or the production, conservation or processing of, oil or gas only if the regulations so state and were made on the joint recommendation of the Minister and the Minister of Natural Resources. |  |
+| Aircraft | (3) Despite section 105, regulations referred to in paragraph (1)(k) or (l) may be made in respect of aircraft on or over Canadian waters. |  |
+| Pleasure craft | (4) Despite section 105, regulations referred to in paragraph (1)(j), (k) or (l) may be made in respect of pleasure craft that are in Canadian waters. |  |
+| Contraven- tions of regulations | (5) Despite section 105, paragraph 121(1)(s) applies in respect of contraventions of regulations made under subsection (3) or (4). |  |
+|  | Offences and Punishment |  |
+| Contraven- tion of Act or regulations | 121. (1) Every person who, or vessel that, contravenes any of the following commits an offence: |  |
+|  | (a) paragraph 106(1)(a) (ensure vessel meets requirements); |  |
+|  | (b) paragraph 106(1)(b) (develop emergency procedures); |  |
+|  | (c) paragraph 106(1)(c) (ensure training); |  |
+|  | (d) paragraph 106(2)(a) (ensure vessel inspected); |  |
+|  | (e) paragraph 106(2)(b) (ensure terms and conditions met); |  |
+|  | (f) section 107 (obtain certificates); |  |
+|  | (g) subsection 109(1) (ensure safety); |  |
+|  | (h) subsection 109(2) (protect from hazards and notify authorized representative); |  |
+|  | (i) subsection 110(1) (too many persons); |  |
+|  | (j) section 111 (master to comply with direction); |  |
+|  | (k) section 112 (inform of danger); |  |
+|  | (l) paragraph 113(a) (carry out duties and functions safely); |  |
+|  | (m) paragraph 113(b) (report safety hazards); |  |
+|  | (n) paragraph 113(c) (report change in circumstances); |  |
+|  | (o) paragraph 113(d) (comply with lawful direction given by master); |  |
+|  | (p) section 117 (tampering or vandalism); |  |
+|  | (q) section 118 (jeopardizing safety); |  |
+|  | (r) section 119 (constructing, manufacturing or altering a vessel not in accordance with approved plans); and |  |
+|  | (s) a provision of the regulations made under this Part. |  |
+| Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
+| Contraven- tion of subsection 110(2) | 122. Every person who contravenes subsection 110(2) (submerged load lines) commits an offence and is liable on summary conviction to a fine of not more than $500,000 in respect of each centimetre or part of a centimetre that the applicable load line is submerged or to imprisonment for a term of not more than 18 months, or to both. |  |
+| Contraven- tion of Act | 123. (1) Every person commits an offence who contravenes |  |
+|  | (a) section 114 (comply with direction); |  |
+|  | (b) subsection 115(1) (passenger to comply with direction); |  |
+|  | (c) subsection 115(2) (passenger to comply with direction to leave vessel); |  |
+
 |  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
+| --- | --- | --- |
 |  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
 | Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), 122(1) or 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
-
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
 |  | PART 5 |  |
-| --- | --- | --- |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5495,14 +5350,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5523,36 +5378,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5569,14 +5428,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5597,36 +5456,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5643,14 +5506,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5671,36 +5534,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5717,14 +5584,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5745,36 +5612,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5791,14 +5662,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5819,36 +5690,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5865,14 +5740,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5893,36 +5768,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -5939,14 +5818,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -5967,36 +5846,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -6013,14 +5896,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -6041,36 +5924,40 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
-|  | PART 5 |  |
+|  | (d) paragraph 116(a) (boarding or attempting to board without permission); or |  |
 | --- | --- | --- |
+|  | (e) paragraph 116(b) (boarding or attempting to board after safety barriers are in place). |  |
+| Punishment | (2) Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| When compliance agreement in effect | 124. If an offence under any of sections 121 to 123 is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with a provision referred to in subsection 121(1), section 122 or subsection 123(1) will be carried out by the authorized representative or a person or an organization acting on their behalf, the amount of any fine imposed under that section may be doubled. |  |
+|  | PART 5 |  |
 |  | NAVIGATION SERVICES |  |
 |  | Interpretation |  |
 | Definitions | 125. The definitions in this section apply in this Part. |  |
 | ``aid to navigation'' « aide à la navigation » | ``aid to navigation'' means a buoy, beacon, lighthouse, landmark, radio aid to marine navigation or any other structure or device installed, built or maintained in or on water or on land for the purpose of assisting with marine navigation. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Fisheries and Oceans. |  |
-| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(a). |  |
+| ``VTS Zone'' « zone STM » | ``VTS Zone'' means a Vessel Traffic Services Zone established under paragraph 136(1) (a). |  |
 |  | Vessel Traffic Services |  |
 | Entering, leaving or proceeding within a VTS Zone | 126. (1) Subject to subsection (4), no vessel of a prescribed class shall |  |
 |  | (a) enter, leave or proceed within a VTS Zone without having previously obtained a clearance under this section; or |  |
@@ -6087,14 +5974,14 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | If vessel unable to communicate | (4) If a vessel |  |
 |  | (a) is unable to obtain a clearance required by subsection (1) because of an inability to establish direct communication with a marine communications and traffic services officer, or |  |
 |  | (b) after obtaining a clearance, is unable to maintain direct communication with a marine communications and traffic services officer, |  |
-|  | the vessel may, subject to subsection (6), nev ertheless proceed on its route. |  |
+|  | the vessel may, subject to subsection (6), nevertheless proceed on its route. |  |
 | Communica- tion and obtaining clearance | (5) The master shall |  |
 |  | (a) in the circumstances described in subsection (4), take all reasonable measures to communicate with a marine communications and traffic services officer as soon as possible; and |  |
 |  | (b) in the circumstances described in paragraph (4)(a), obtain a clearance as soon as possible after direct communication is established. |  |
 | Equipment failure | (6) In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall |  |
 |  | (a) if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and |  |
 |  | (b) if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations. |  |
-| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
+| Variations from requirements or conditions | 127. (1) The Minister may, on request, vary in respect of a vessel a requirement or condition made under paragraph 136(1) (b) or (c) if the Minister is satisfied that the varied requirement or condition would result in an equivalent or greater level of safety. |  |
 | Contraven- tion | (2) A contravention of a requirement that is varied under subsection (1) is deemed to be a contravention of the original requirement. |  |
 |  | Aids to Navigation |  |
 | Aids to navigation vest in Her Majesty | 128. All aids to navigation acquired, installed, built or maintained at the expense of a province before it became a part of Canada, or at the expense of the Government of Canada, and all buildings and other works relating to those aids, are vested in Her Majesty in right of Canada and are under the control and management of the Minister. |  |
@@ -6115,27 +6002,27 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Further release | (5) The master of a vessel shall be released from an obligation imposed by subsection (1) or (3) if the master is informed by the persons in distress or by the master of another vessel that has reached those persons that assistance is no longer necessary. |  |
 | Assistance | 132. The master of a vessel in Canadian waters and every qualified person who is the master of a vessel in any waters shall render assistance to every person who is found at sea and in danger of being lost. |  |
 | Aircraft treated as if vessel | 133. Sections 130 to 132 apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels in Canadian waters, with any modifications that the circumstances require. |  |
-|  | Sable and St. Paul Islands |  |
-| Presence on Islands | 134. No person shall be present on Sable Island or St. Paul Island unless the person |  |
-|  | (a) has been so authorized in writing by the Minister and, in the case of a person present on Sable Island, meets any terms and conditions specified in the authorization; |  |
+|  | Sable Island |  |
+| Presence on Island | 134. No person shall be present on Sable Island unless the person |  |
+|  | (a) has been so authorized in writing by the Minister and meets any terms and conditions specified in the authorization; |  |
 |  | (b) is there to perform duties on behalf of the Government of Canada; or |  |
 |  | (c) landed on the Island because of adverse weather conditions or the wreck or distress of a vessel or an aircraft that the person was on. |  |
 |  | Enforcement |  |
 | Designation | 135. (1) The Minister may designate any person or class of persons for the purposes of enforcing this Part. |  |
 | Stopping and boarding a vessel | (2) A person, or a member of a class of persons, designated under subsection (1) who has reasonable grounds to believe that an offence has been committed or is about to be committed under this Part by a vessel or any person on board a vessel may stop and board the vessel and take any reasonable action to ensure public safety or protect the public interest. |  |
 |  | Regulations |  |
-| Regulations | 136. The Governor in Council may, on the recommendation of the Minister, make regulations |  |
+| Regulations - Minister | 136. (1) The Governor in Council may, on the recommendation of the Minister, make regulations |  |
 |  | (a) establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the Arctic Waters Pollution Prevention Act; |  |
 |  | (b) respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone; |  |
 |  | (c) respecting the conditions under which a clearance under section 126 is to be granted; |  |
 |  | (d) defining the expression ``about to enter'' for the purpose of this Part; |  |
 |  | (e) respecting aids to navigation in Canadian waters; |  |
-|  | (f) respecting the administration and control of Sable Island and St. Paul Island; |  |
+|  | (f) respecting the administration and control of Sable Island; |  |
 |  | (g) respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities; |  |
-|  | (h) regulating or prohibiting navigation in Canadian waters of vessels of not more than 15 tons gross tonnage, for the purpose of promoting the safe and efficient navigation of vessels and of protecting the public interest and the environment; |  |
-|  | (i) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
-|  | (j) respecting maritime search and rescue; and |  |
-|  | (k) prescribing anything that may be prescribed under this Part. |  |
+|  | (h) specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (f) to (h) and specifying their powers and duties; |  |
+|  | (i) respecting maritime search and rescue; and |  |
+|  | (j) prescribing anything that may be prescribed under this Part. |  |
+| Regulations - Minister and Minister of Transport | (2) The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment. |  |
 
 |  | Offences and Punishment |  |
 | --- | --- | --- |
@@ -6157,9 +6044,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6167,7 +6054,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6192,9 +6079,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6240,9 +6127,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6250,7 +6137,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6275,9 +6162,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6323,9 +6210,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6333,7 +6220,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6358,9 +6245,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6406,9 +6293,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6416,7 +6303,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6441,9 +6328,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6489,9 +6376,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6499,7 +6386,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6524,9 +6411,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6572,9 +6459,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6582,7 +6469,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6607,9 +6494,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6655,9 +6542,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6665,7 +6552,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6690,9 +6577,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6738,9 +6625,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6748,7 +6635,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6773,9 +6660,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6821,9 +6708,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6831,7 +6718,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6856,9 +6743,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -6904,9 +6791,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (i) subsection 130(3) (comply with direction of rescue coordinator); or |  |
 |  | (j) a provision of the regulations made under this Part. |  |
 | Punishment | (2) Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
-| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
+| Defence available in certain cases | (3) No vessel or person on board a vessel may be convicted of contravening subsection 126(1) (entering, leaving or proceeding within a VTS Zone) or a provision of the regulations made under paragraph 136(1) (b) if they had reasonable grounds to believe that compliance with that provision would have imperilled life, the vessel, another vessel or any property. |  |
 | Vessel may be detained | (4) If the Minister or a person authorized by the Minister for the purpose of this subsection believes on reasonable grounds that an offence referred to in subsection (1) has been committed by or in respect of a vessel, the Minister or that person may make a detention order in respect of the vessel, and section 222 (detention of vessels) applies to the detention order, with any modifications that the circumstances require. |  |
-| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island or St. Paul Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
+| Contraven- tion of section 134 | 139. Every person who contravenes section 134 (unauthorized presence on Sable Island) commits an offence and is liable on summary conviction to a fine of not more than $10,000. |  |
 |  | PART 6 |  |
 |  | INCIDENTS, ACCIDENTS AND CASUALTIES |  |
 |  | Interpretation |  |
@@ -6914,7 +6801,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | ``Crown vessel'' « bâtiment appartenant à Sa Majesté » | ``Crown vessel'' means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
 |  | Application |  |
-| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of foreign vessels in Canadian waters. |  |
+| Vessels | 141. This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters. |  |
 |  | Salvage |  |
 |  | International Convention on Salvage, 1989 |  |
 | Salvage Convention | 142. (1) Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada. |  |
@@ -6939,9 +6826,9 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Obligations in Case of Collisions |  |
 | Duty of masters in collision | 148. If vessels collide, the master or person in charge of each vessel shall, if and in so far as they can to do so without endangering their vessel, crew or passengers, |  |
 |  | (a) render to the other vessel, its master, crew and passengers the assistance that may be necessary to save them from any danger caused by the collision, and to stay by the other vessel until the master or person has determined that it has no need of further assistance; and |  |
-|  | (b) give the name of their vessel, its authorized representative's name and address and any other prescribed information to the master or person in charge of the other vessel. |  |
+|  | (b) give the name of their vessel, if any, the name and address of its authorized representative, if any , and any other prescribed information to the master or person in charge of the other vessel. |  |
 |  | Inquiry into Causes of Death |  |
-| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to inquire into the cause of the death. |  |
+| Inquiry into cause of death on board | 149. (1) If a person dies on board a Canadian vessel, on the vessel's arrival at a port in Canada, the Minister is to endeavour to ascertain the cause of death and, for that purpose, may hold an inquiry . |  |
 | Powers of Minister | (2) For the purpose of the inquiry, the Minister has the powers of a commissioner under Part I of the Inquiries Act and may, if it appears to the Minister to be necessary for the purpose of the inquiry, |  |
 |  | (a) go on board any vessel and inspect it or any part of it, or any of its machinery, equipment or cargo, while not detaining the vessel for longer than necessary from proceeding on a voyage; and |  |
 |  | (b) enter and inspect any premises at any reasonable time. |  |
@@ -7041,7 +6928,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7117,7 +7004,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7193,7 +7080,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7269,7 +7156,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7345,7 +7232,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7421,7 +7308,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7497,7 +7384,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7573,7 +7460,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7649,7 +7536,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7725,7 +7612,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | PART 7 |  |
 | --- | --- | --- |
@@ -7801,7 +7688,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans. |  |
 |  | It includes oil and any substance or class of substances that is prescribed for the purpose of this Part to be a pollutant. |  |
 | ``pollution damage'' « dommages dus à la pollution » | ``pollution damage'', in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility. |  |
-| ``response organization'' « organisme d'interven- tion » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
+| ``response organization'' « organisme d'intervention » | ``response organization'' means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1). |  |
 
 |  | Application |  |
 | --- | --- | --- |
@@ -7860,7 +7747,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Term | (3) Each member of an advisory council is to be appointed for a term of not more than three years and is eligible for reappointment. |  |
 | President | (4) An advisory council must elect one of its members to be its president. |  |
 | Honoraria and expenses | (5) The members of an advisory council may be paid the honoraria that the Minister considers appropriate and may be paid any reasonable travel, living and child care expenses incurred by them when engaged on the business of the council while absent from their ordinary place of residence. |  |
-| Recommenda- tions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
+| Recommendat ions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
 | Meetings in public | (7) Advisory council meetings must be open to the public unless the council is satisfied that a public meeting would not be in the public interest, in which case the meeting or any part of it may be held in private. |  |
 |  | Report to Parliament |  |
 | Review and report by Minister | 173. Every five years, the Minister must review the operation of sections 167 to 172 and have laid before each House of Parliament a report setting out the results of the review. |  |
@@ -7952,7 +7839,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Term | (3) Each member of an advisory council is to be appointed for a term of not more than three years and is eligible for reappointment. |  |
 | President | (4) An advisory council must elect one of its members to be its president. |  |
 | Honoraria and expenses | (5) The members of an advisory council may be paid the honoraria that the Minister considers appropriate and may be paid any reasonable travel, living and child care expenses incurred by them when engaged on the business of the council while absent from their ordinary place of residence. |  |
-| Recommenda- tions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
+| Recommendat ions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
 | Meetings in public | (7) Advisory council meetings must be open to the public unless the council is satisfied that a public meeting would not be in the public interest, in which case the meeting or any part of it may be held in private. |  |
 |  | Report to Parliament |  |
 | Review and report by Minister | 173. Every five years, the Minister must review the operation of sections 167 to 172 and have laid before each House of Parliament a report setting out the results of the review. |  |
@@ -8044,7 +7931,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Term | (3) Each member of an advisory council is to be appointed for a term of not more than three years and is eligible for reappointment. |  |
 | President | (4) An advisory council must elect one of its members to be its president. |  |
 | Honoraria and expenses | (5) The members of an advisory council may be paid the honoraria that the Minister considers appropriate and may be paid any reasonable travel, living and child care expenses incurred by them when engaged on the business of the council while absent from their ordinary place of residence. |  |
-| Recommenda- tions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
+| Recommendat ions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
 | Meetings in public | (7) Advisory council meetings must be open to the public unless the council is satisfied that a public meeting would not be in the public interest, in which case the meeting or any part of it may be held in private. |  |
 |  | Report to Parliament |  |
 | Review and report by Minister | 173. Every five years, the Minister must review the operation of sections 167 to 172 and have laid before each House of Parliament a report setting out the results of the review. |  |
@@ -8136,7 +8023,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Term | (3) Each member of an advisory council is to be appointed for a term of not more than three years and is eligible for reappointment. |  |
 | President | (4) An advisory council must elect one of its members to be its president. |  |
 | Honoraria and expenses | (5) The members of an advisory council may be paid the honoraria that the Minister considers appropriate and may be paid any reasonable travel, living and child care expenses incurred by them when engaged on the business of the council while absent from their ordinary place of residence. |  |
-| Recommenda- tions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
+| Recommendat ions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
 | Meetings in public | (7) Advisory council meetings must be open to the public unless the council is satisfied that a public meeting would not be in the public interest, in which case the meeting or any part of it may be held in private. |  |
 |  | Report to Parliament |  |
 | Review and report by Minister | 173. Every five years, the Minister must review the operation of sections 167 to 172 and have laid before each House of Parliament a report setting out the results of the review. |  |
@@ -8228,7 +8115,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Term | (3) Each member of an advisory council is to be appointed for a term of not more than three years and is eligible for reappointment. |  |
 | President | (4) An advisory council must elect one of its members to be its president. |  |
 | Honoraria and expenses | (5) The members of an advisory council may be paid the honoraria that the Minister considers appropriate and may be paid any reasonable travel, living and child care expenses incurred by them when engaged on the business of the council while absent from their ordinary place of residence. |  |
-| Recommenda- tions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
+| Recommendat ions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
 | Meetings in public | (7) Advisory council meetings must be open to the public unless the council is satisfied that a public meeting would not be in the public interest, in which case the meeting or any part of it may be held in private. |  |
 |  | Report to Parliament |  |
 | Review and report by Minister | 173. Every five years, the Minister must review the operation of sections 167 to 172 and have laid before each House of Parliament a report setting out the results of the review. |  |
@@ -8320,7 +8207,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Term | (3) Each member of an advisory council is to be appointed for a term of not more than three years and is eligible for reappointment. |  |
 | President | (4) An advisory council must elect one of its members to be its president. |  |
 | Honoraria and expenses | (5) The members of an advisory council may be paid the honoraria that the Minister considers appropriate and may be paid any reasonable travel, living and child care expenses incurred by them when engaged on the business of the council while absent from their ordinary place of residence. |  |
-| Recommenda- tions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
+| Recommendat ions | (6) An advisory council is to advise and may make recommendations to the Minister. |  |
 | Meetings in public | (7) Advisory council meetings must be open to the public unless the council is satisfied that a public meeting would not be in the public interest, in which case the meeting or any part of it may be held in private. |  |
 |  | Report to Parliament |  |
 | Review and report by Minister | 173. Every five years, the Minister must review the operation of sections 167 to 172 and have laid before each House of Parliament a report setting out the results of the review. |  |
@@ -8733,7 +8620,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -8777,7 +8664,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -8815,7 +8702,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -8859,7 +8746,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -8897,7 +8784,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -8941,7 +8828,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -8979,7 +8866,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9023,7 +8910,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9061,7 +8948,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9105,7 +8992,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9143,7 +9030,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9187,7 +9074,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9225,7 +9112,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9269,7 +9156,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9307,7 +9194,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9351,7 +9238,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9389,7 +9276,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9433,7 +9320,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9471,7 +9358,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9515,7 +9402,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9553,7 +9440,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Definition of ``oil'' and ``gas'' | (3) In subsection (2), ``oil'' and ``gas'' have the same meaning as in section 2 of the Canada Oil and Gas Operations Act. |  |
 |  | Pollution Incidents |  |
 | Discharge of pollutant prohibited | 187. No person or vessel shall discharge a prescribed pollutant, except in accordance with the regulations made under this Part or a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
-| Implementa- tion of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
+| Implementatio n of oil pollution emergency plan | 188. If a vessel is required by the regulations to have a shipboard oil pollution emergency plan, the vessel shall take reasonable measures to implement the plan in respect of an oil pollution incident. |  |
 |  | Directions to Vessels |  |
 | Powers in case of discharge | 189. If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may |  |
 |  | (a) direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part; |  |
@@ -9597,7 +9484,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) a direction given under paragraph 189(a) or (b) (to provide information); |  |
 |  | (b) a direction given under paragraph 189(c) (to proceed by a specified route); or |  |
 |  | (c) a direction given under subparagraph 189(d)(ii) (to proceed to a place and remain there). |  |
-| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both. |  |
+| Punishment | (2) Every vessel that commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000. |  |
 | Court orders | 193. If an offender is convicted of an offence under this Part, in addition to imposing any other punishment that may be imposed under this Act, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order having any or all of the following effects: |  |
 |  | (a) prohibiting the offender from performing any act or engaging in any activity that may result in the continuation or repetition of the offence; |  |
 |  | (b) directing the offender to publish the facts relating to the conviction; |  |
@@ -9634,8 +9521,8 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Duty to assist | (5) The owner or person in charge of a pleasure craft and every person on board shall |  |
 |  | (a) give an officer or inspector all reasonable assistance to enable them to carry out an inspection and exercise any power conferred by this section; and |  |
 |  | (b) produce to an officer or inspector any document, or provide them with any information, that the officer or inspector may reasonably require, for the administration of this Part or Part 5 (Navigation Services) or the regulations made under either of those Parts. |  |
-| Manufactu- rers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
-| Vendors | (2) No person shall sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
+| Manufacturers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
+| Vendors | (2) No person shall, in the course of a commercial enterprise , sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
 | Powers | 198. (1) An inspector may, for the purpose of ensuring that a manufacturer, importer or vendor is in compliance with section 197, |  |
 |  | (a) enter any place, other than a dwelling-house, where the inspector has reasonable grounds to believe a pleasure craft is located; |  |
 |  | (b) examine anything that the inspector finds and take samples of it; |  |
@@ -9718,8 +9605,8 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Duty to assist | (5) The owner or person in charge of a pleasure craft and every person on board shall |  |
 |  | (a) give an officer or inspector all reasonable assistance to enable them to carry out an inspection and exercise any power conferred by this section; and |  |
 |  | (b) produce to an officer or inspector any document, or provide them with any information, that the officer or inspector may reasonably require, for the administration of this Part or Part 5 (Navigation Services) or the regulations made under either of those Parts. |  |
-| Manufactu- rers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
-| Vendors | (2) No person shall sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
+| Manufacturers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
+| Vendors | (2) No person shall, in the course of a commercial enterprise , sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
 | Powers | 198. (1) An inspector may, for the purpose of ensuring that a manufacturer, importer or vendor is in compliance with section 197, |  |
 |  | (a) enter any place, other than a dwelling-house, where the inspector has reasonable grounds to believe a pleasure craft is located; |  |
 |  | (b) examine anything that the inspector finds and take samples of it; |  |
@@ -9802,8 +9689,8 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Duty to assist | (5) The owner or person in charge of a pleasure craft and every person on board shall |  |
 |  | (a) give an officer or inspector all reasonable assistance to enable them to carry out an inspection and exercise any power conferred by this section; and |  |
 |  | (b) produce to an officer or inspector any document, or provide them with any information, that the officer or inspector may reasonably require, for the administration of this Part or Part 5 (Navigation Services) or the regulations made under either of those Parts. |  |
-| Manufactu- rers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
-| Vendors | (2) No person shall sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
+| Manufacturers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
+| Vendors | (2) No person shall, in the course of a commercial enterprise , sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
 | Powers | 198. (1) An inspector may, for the purpose of ensuring that a manufacturer, importer or vendor is in compliance with section 197, |  |
 |  | (a) enter any place, other than a dwelling-house, where the inspector has reasonable grounds to believe a pleasure craft is located; |  |
 |  | (b) examine anything that the inspector finds and take samples of it; |  |
@@ -9886,8 +9773,8 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Duty to assist | (5) The owner or person in charge of a pleasure craft and every person on board shall |  |
 |  | (a) give an officer or inspector all reasonable assistance to enable them to carry out an inspection and exercise any power conferred by this section; and |  |
 |  | (b) produce to an officer or inspector any document, or provide them with any information, that the officer or inspector may reasonably require, for the administration of this Part or Part 5 (Navigation Services) or the regulations made under either of those Parts. |  |
-| Manufactu- rers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
-| Vendors | (2) No person shall sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
+| Manufacturers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
+| Vendors | (2) No person shall, in the course of a commercial enterprise , sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
 | Powers | 198. (1) An inspector may, for the purpose of ensuring that a manufacturer, importer or vendor is in compliance with section 197, |  |
 |  | (a) enter any place, other than a dwelling-house, where the inspector has reasonable grounds to believe a pleasure craft is located; |  |
 |  | (b) examine anything that the inspector finds and take samples of it; |  |
@@ -9970,8 +9857,8 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Duty to assist | (5) The owner or person in charge of a pleasure craft and every person on board shall |  |
 |  | (a) give an officer or inspector all reasonable assistance to enable them to carry out an inspection and exercise any power conferred by this section; and |  |
 |  | (b) produce to an officer or inspector any document, or provide them with any information, that the officer or inspector may reasonably require, for the administration of this Part or Part 5 (Navigation Services) or the regulations made under either of those Parts. |  |
-| Manufactu- rers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
-| Vendors | (2) No person shall sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
+| Manufacturers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
+| Vendors | (2) No person shall, in the course of a commercial enterprise , sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
 | Powers | 198. (1) An inspector may, for the purpose of ensuring that a manufacturer, importer or vendor is in compliance with section 197, |  |
 |  | (a) enter any place, other than a dwelling-house, where the inspector has reasonable grounds to believe a pleasure craft is located; |  |
 |  | (b) examine anything that the inspector finds and take samples of it; |  |
@@ -10054,8 +9941,8 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Duty to assist | (5) The owner or person in charge of a pleasure craft and every person on board shall |  |
 |  | (a) give an officer or inspector all reasonable assistance to enable them to carry out an inspection and exercise any power conferred by this section; and |  |
 |  | (b) produce to an officer or inspector any document, or provide them with any information, that the officer or inspector may reasonably require, for the administration of this Part or Part 5 (Navigation Services) or the regulations made under either of those Parts. |  |
-| Manufactu- rers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
-| Vendors | (2) No person shall sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
+| Manufacturers and importers | 197. (1) Every manufacturer, builder or importer of a pleasure craft shall ensure that it is constructed in accordance with the regulations. |  |
+| Vendors | (2) No person shall, in the course of a commercial enterprise , sell a pleasure craft that does not display a plate or label if required to do so by the regulations made under paragraph 207(1)(h). |  |
 | Powers | 198. (1) An inspector may, for the purpose of ensuring that a manufacturer, importer or vendor is in compliance with section 197, |  |
 |  | (a) enter any place, other than a dwelling-house, where the inspector has reasonable grounds to believe a pleasure craft is located; |  |
 |  | (b) examine anything that the inspector finds and take samples of it; |  |
@@ -10127,7 +10014,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10150,7 +10037,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10158,7 +10045,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10216,7 +10103,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10239,7 +10126,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10247,7 +10134,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10305,7 +10192,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10328,7 +10215,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10336,7 +10223,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10394,7 +10281,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10417,7 +10304,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10425,7 +10312,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10483,7 +10370,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10506,7 +10393,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10514,7 +10401,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10572,7 +10459,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10595,7 +10482,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10603,7 +10490,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10661,7 +10548,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10684,7 +10571,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10692,7 +10579,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10750,7 +10637,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10773,7 +10660,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10781,7 +10668,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10839,7 +10726,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10862,7 +10749,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10870,7 +10757,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -10928,7 +10815,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | Interpretation |  |
 | Definitions | 210. The definitions in this section apply in this Part. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of Transport. |  |
-| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering. |  |
+| ``relevant provision'' « disposition visée » | ``relevant provision'' means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels . |  |
 |  | Inspections |  |
 | Authorized persons and organizations | 211. (1) A marine safety inspector referred to in section 11 or a person, classification society or other organization authorized to carry out inspections under section 12 may, for the purpose of ensuring compliance with a relevant provision, board any vessel or enter any premises or other place at any reasonable time and carry out any inspection that the inspector, person, classification society or other organization considers necessary and that the Minister has authorized them to carry out. |  |
 | Living quarters | (2) Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision. |  |
@@ -10951,7 +10838,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) by means of which or in relation to which the inspector believes on reasonable grounds that a relevant provision has been contravened; or |  |
 |  | (b) that the inspector believes on reasonable grounds will afford evidence in respect of a contravention of a relevant provision. |  |
 | Storage or removal | (2) An inspector may direct the person in charge of the place where something was seized to store it in that place or may remove it to any other place. |  |
-| Return of things or forfeiture | (3) Unless a thing seized cannot be brought into compliance with the relevant provisions, it must be returned as soon as feasible after it is no longer needed for any proceedings. If it cannot be brought into compliance, it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of, at the expense of the person from whom it was seized, unless the Minister directs otherwise. |  |
+| Return of things or forfeiture | (3) Any thing seized must be returned as soon as feasible after it is no longer needed for any proceedings unless it cannot be brought into compliance with the relevant provisions and the Minister directs that it not be returned, in which case it is forfeited to Her Majesty in right of Canada after it is no longer needed for any proceedings and may be disposed of at the expense of the person from whom it was seized. |  |
 |  | Clearance |  |
 | No departure without clearance | 213. Subject to the regulations, no vessel shall depart from a port in Canada unless clearance has been granted. |  |
 | Granting clearance | 214. Any person who is authorized under an Act of Parliament to grant clearance of a vessel at a port in Canada is not to grant it unless satisfied that the master has all of the documents required under this Act for the clearance. |  |
@@ -10959,7 +10846,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 | Prohibition | 215. No master shall proceed on a voyage with a person on board who is exercising powers or performing duties relating to the administration or enforcement of a relevant provision unless the person consents. |  |
 |  | Reporting of Alleged Contraventions |  |
 | Reasonable grounds | 216. (1) An individual who has reasonable grounds to believe that a person or vessel has contravened or intends to contravene a relevant provision may notify the Minister of the particulars of the matter and may request that their identity be kept confidential with respect to the notification. |  |
-| Confidentia- lity | (2) The Minister must keep confidential the identity of an individual who has notified the Minister under subsection (1) and to whom the Minister has provided an assurance of confidentiality. |  |
+| Confidentialit y | (2) The identity of an individual to whom the Minister has provided an assurance of confidentiality may be disclosed by the Minister only in accordance with the Privacy Act . |  |
 | Inspection | 217. (1) On being notified under subsection 216(1), the Minister is to determine whether an inspection should be carried out by a marine safety inspector. |  |
 | Costs | (2) If a marine safety inspector determines that the individual who notified the Minister did not have reasonable grounds to believe that a person or vessel had contravened or had intended to contravene a relevant provision, the individual is liable to pay the costs of the inspection. |  |
 | Prohibition | 218. (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
@@ -11021,6 +10908,7 @@ House of Commons of Canada # BILL C-14 An Act respecting shipping and navigation
 |  | (a) the cost of the seizure and sale; |  |
 |  | (b) any claim for salvage in respect of the vessel; |  |
 |  | (c) the claims of masters and crew members for wages; |  |
+|  | (c.1) the claims of masters for disbursements made or liabilities incurred for necessaries on account of the vessel; |  |
 |  | (d) the amount of any fine imposed or debt due under a relevant provision; and |  |
 |  | (e) the cost of returning masters and crew members to the place where they first came on board or to another place to which they and the Minister have agreed. |  |
 | If proceeds insufficient | (4) If the proceeds of sale of a vessel are insufficient to satisfy the claims described in subsection (3), the Minister may proceed for the balance owing against |  |
@@ -11050,6 +10938,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the cost of the seizure and sale; |  |
 |  | (b) any claim for salvage in respect of the vessel; |  |
 |  | (c) the claims of masters and crew members for wages; |  |
+|  | (c.1) the claims of masters for disbursements made or liabilities incurred for necessaries on account of the vessel; |  |
 |  | (d) the amount of any fine imposed or debt due under a relevant provision; and |  |
 |  | (e) the cost of returning masters and crew members to the place where they first came on board or to another place to which they and the Minister have agreed. |  |
 | If proceeds insufficient | (4) If the proceeds of sale of a vessel are insufficient to satisfy the claims described in subsection (3), the Minister may proceed for the balance owing against |  |
@@ -11079,6 +10968,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the cost of the seizure and sale; |  |
 |  | (b) any claim for salvage in respect of the vessel; |  |
 |  | (c) the claims of masters and crew members for wages; |  |
+|  | (c.1) the claims of masters for disbursements made or liabilities incurred for necessaries on account of the vessel; |  |
 |  | (d) the amount of any fine imposed or debt due under a relevant provision; and |  |
 |  | (e) the cost of returning masters and crew members to the place where they first came on board or to another place to which they and the Minister have agreed. |  |
 | If proceeds insufficient | (4) If the proceeds of sale of a vessel are insufficient to satisfy the claims described in subsection (3), the Minister may proceed for the balance owing against |  |
@@ -12003,6 +11893,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12033,13 +11925,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12070,6 +11961,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12100,13 +11993,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12137,6 +12029,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12167,13 +12061,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12204,6 +12097,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12234,13 +12129,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12271,6 +12165,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12301,13 +12197,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12338,6 +12233,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12368,13 +12265,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12405,6 +12301,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12435,13 +12333,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12472,6 +12369,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12502,13 +12401,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
 |  | Damage Occasioned by Foreign Vessels |  |
 | --- | --- | --- |
@@ -12539,6 +12437,8 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) be applied in compensating a person for any wrong or damage that may have been caused by the act or default in respect of which the fine was imposed; |  |
 |  | (b) be applied in or toward payment of the expenses of the proceedings; or |  |
 |  | (c) be paid to the provincial, municipal or local authority bearing in whole or in part the expense of prosecuting the contravention of this Act in respect of which the fine was imposed. |  |
+|  | Crown Liability |  |
+| Crown not relieved | 268.1 Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the Crown Liability and Proceedings Act, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject. |  |
 |  | State of War or Armed Conflict |  |
 | Prohibition of shipment of articles of war | 269. (1) No person shall, during a prescribed period, |  |
 |  | (a) discharge from a Canadian vessel a prescribed article in any prescribed territory or within the territorial waters adjacent to the territory; |  |
@@ -12569,61 +12469,83 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | (a) the earlier of the date the vessel's ownership changes and five years after Part 2 comes into force; or |  |
 |  | (b) in the case of a vessel that was issued a licence under that Act, the expiry date of the licence. |  |
 | Certificates remain in force | 273. Subject to the provisions of this Act or the regulations respecting the suspension or cancellation of Canadian maritime documents, certificates issued under Part II, III or V of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, remain in force for the purpose for which they were issued. |  |
-| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than Part XVI of that Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
+| Regulations remain in force | 274. (1) Regulations made under the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act , remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1). |  |
 | Validity periods of certificates | (3) Any certificate's period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1). |  |
 | Canadian ships | (4) Every reference to ``Canadian ship'' or ``Canadian ships'' in the regulations referred to in subsection (1) shall be read as a reference to ``Canadian vessel'' or ``Canadian vessels'', respectively. |  |
 | Pleasure craft | (5) Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the Canada Shipping Act, chapter S-9 of the Revised Statutes of Canada, 1985 (``that Act''), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the Small Vessel Regulations made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first. |  |
 | Offence | (6) Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both. |  |
-|  | PART 14 |  |
 
+|  | PART 14 |  |
+| --- | --- | --- |
 |  | CONSEQUENTIAL AND COORDINATING AMENDMENTS |  |
-| --- | --- | --- |
 |  | Consequential Amendments |  |
 | 1991, c. 46 | Bank Act |  |
 |  | 275. Subsections 428(5) and (6) of the Bank Act are replaced by the following: |  |
-| Security on fishing vessels | (5) If security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the Canada Shipping Act, 2001 , the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act in respect of the vessel before the recording or registration under that Act of those rights. |  |
-| Effect of registration of security | (6) A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the Canada Shipping Act, 2001 as if it were a mortgage given under that Act and, on the recording or registration of the document , the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act. |  |
+| Security on fishing vessels | (5) If security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the Canada Shipping Act, 2001, the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act in respect of the vessel before the recording or registration under that Act of those rights. |  |
+| Effect of registration of security | (6) A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the Canada Shipping Act, 2001 as if it were a mortgage given under that Act and, on the recording or registration of the document, the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act. |  |
 | 1998, c. 10 | Canada Marine Act |  |
 |  | 276. Subsection 56(3) of the Canada Marine Act is replaced by the following: |  |
-| Consistency | (3) Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the Canada Shipping Act, 2001 . |  |
+| Consistency | (3) Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the Canada Shipping Act, 2001. |  |
 |  | 277. Paragraph 58(2)(f) of the Act is replaced by the following: |  |
-|  | (f) the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 120(1)(b) of the Canada Shipping Act, 2001 ; |  |
+|  | (f) the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 120(1)(b) of the Canada Shipping Act, 2001; |  |
 |  | 278. The portion of subsection 120(1) of the Act before paragraph (a) is replaced by the following: |  |
 | Payment of proceeds | 120. (1) If a ship is sold under an order, the proceeds of the sale shall be applied first to satisfy claims for wages of crew members under the Canada Shipping Act, 2001 and then to satisfy the following claims in order of priority: |  |
 |  | 279. The portion of subsection 122(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Lien on ships | 122. (1) A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of crew members under the Canada Shipping Act, 2001 , if the amount is owing in respect of |  |
+| Lien on ships | 122. (1) A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of crew members under the Canada Shipping Act, 2001, if the amount is owing in respect of |  |
 | 1987, c. 3 | Canada-Newfoundland Atlantic Accord Implementation Act |
 
-1992, c. 35, s. 73(1) **280.** Subsection 160(1) of the *Canada-Newfoundland Atlantic Accord Implementation Act* is replaced by the following: Definition of ``spill'' **160.** (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1988, c. 28 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act 1992, c. 35, s. 110(1) **281.** Subsection 165(1) of the *Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act* is replaced by the following: Definition of ``spill'' **165.** (1) In sections 166 to 170, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1996, c. 10 Canada Transportation Act **282.** The definition ``export'' in section 147 of the *Canada Transportation Act* is replaced by the following: ``export'' « *exportation* » ``export'', in respect of grain, means shipment by a vessel, as defined in section 2 of the *Canada Shipping Act, 2001*, to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; 1999, c. 33 Canadian Environmental Protection Act, 1999 **283.** Section 277 of the *Canadian Environmental Protection Act, 1999* is repealed. 1989, c. 3 Canadian Transportation Accident Investigation and Safety Board Act **284.** Section 61 of the *Canadian Transportation Accident Investigation and Safety Board Act* is repealed. 1993, c. 21 Carriage of Goods by Water Act **285.** Section 6 of the *Carriage of Goods by Water Act* is replaced by the following: Other statutory limitations of liability **6.** Nothing in this Act affects the operation of sections 574 to 583 of the *Canada Shipping Act* or the operation of any other enactment limiting the liability of the owners of ships or vessels. R.S., c. C-29 Citizenship Act **286.** Paragraph 2(2)(*a*) of the *Citizenship Act* is replaced by the following: (*a*) a person is deemed to be born in Canada if the person is born on a Canadian vessel as defined in section 2 of the *Canada Shipping Act, 2001*, or on an aircraft registered in Canada under the *Aeronautics Act* and regulations made under that Act ; R.S., c. C-33 Coastal Fisheries Protection Act 1998, c. 16, s. 29 **287.** The definition ``Canadian fishing vessel'' in section 2 of the *Coastal Fisheries Protection Act* is replaced by the following: ``Canadian fishing vessel'' « *bateau de pêche canadien* » ``Canadian fishing vessel'' means a fishing vessel (*a*) that is registered or licensed under the *Canada Shipping Act, 2001* , or (*b*) that is not registered or licensed under the *Canada Shipping Act, 2001* or under the laws of another state but is owned by one or more persons each of whom is (i) a Canadian citizen, (ii) in the case of a vessel that is not required to be registered or licensed under that Act, a person resident and domiciled in Canada, or (iii) a corporation incorporated under the laws of Canada or a province, having its principal place of business in Canada; 1990, c. 44, s. 18(2) **288.** Section 19 of the Act is replaced by the following: Jurisdiction of courts **19.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1992, c. 31 Coasting Trade Act 1998, c. 16, s. 30 **289.** The definitions ``Canadian ship'', ``master'' and ``ship'' in subsection 2(1) of the *Coasting Trade Act* are replaced by the following: ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a ship registered or listed under Part 2 of the *Canada Shipping Act, 2001* and in respect of which all duties and taxes imposed under the *Customs Tariff* and the *Excise Tax Act* have been paid; ``master'' « *capitaine* » ``master'', in relation to a ship, has the same meaning as in section 2 of the *Canada Shipping Act, 2001*; ``ship'' « *navire* » ``ship'' has the same meaning as ``vessel'' in section 2 of the *Canada Shipping Act, 2001* ; **290.** Paragraph 3(2)(*e*) of the Act is replaced by the following: (*e*) engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the *Canada Shipping Act, 2001* or authorized under paragraph 11(2)(*d*) of that Act to carry out inspections , in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency . **291.** Sections 29 and 30 of the Act are repealed. **292.** Subsection 31(2) of the Act is repealed. 1992, c. 47 Contraventions Act 1996, c. 7, s. 7 **293.** Subsection 17(4) of the *Contraventions Act* is repealed. R.S., c. C-46 Criminal Code **294.** Section 44 of the *Criminal Code* is repealed. R.S., c. C-50; 1990, c. 8, s. 21 Crown Liability and Proceedings Act 1990, c. 8, s. 22 **295.** The definition ``Crown ship'' in section 2 of the *Crown Liability and Proceedings Act* is replaced by the following: ``Crown ship'' « *navire de l'État* » ``Crown ship'' means a Crown vessel as defined in section 140 of the *Canada Shipping Act, 2001*; **296.** Subsection 5(1) of the Act is replaced by the following: Civil salvage **5.** (1) Subject to subsection (2), the law relating to civil salvage, whether of life or property, applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life from a Crown ship or aircraft , or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person. 1998, c. 16, s. 32 **297.** Subsection 6(2) of the Act is replaced by the following: Ascertaining tonnage of ship (2) If, for the purposes of any proceedings under this Act, it is necessary to ascertain the tonnage of a ship that has not been determined by a tonnage measurer appointed under section 24 of the *Canada Shipping Act, 2001*, the tonnage of the ship must be determined by a tonnage measurer appointed under that section . **298.** Subsection 7(1) of the Act is replaced by the following: Limitation period for salvage proceedings **7.** (1) Section 145 of the *Canada Shipping Act, 2001* applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft. R.S., c. 1 (2nd Supp.) Customs Act **299.** The portion of subsection 16(2) of the *Customs Act* before paragraph (*a*) is replaced by the following: Report of wreck and liability for duties (2) If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the *Canada Shipping Act, 2001*, that person R.S., c. F-14 Fisheries Act **300.** Subsection 38(7) of the *Fisheries Act* is replaced by the following: Inconsistent orders (7) Any requirement or direction of an inspector under this section that is inconsistent with any direction of a marine safety inspector under the *Canada Shipping Act, 2001* is void to the extent of the inconsistency. **301.** Subsection 42(7) of the Act is replaced by the following: Exception (7) Subsections (1) to (3) do not apply in respect of any deposit of a deleterious substance that, within the meaning of Part 8 or 9 of the *Canada Shipping Act, 2001*, constitutes a discharge of a pollutant caused by or otherwise attributable to a vessel . 1990, c. 44, s. 18(2) **302.** Section 88 of the Act is replaced by the following: Jurisdiction of courts **88.** All courts and justices in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. R.S., c. F-17 Great Lakes Fisheries Convention Act 1990, c. 44, s. 18(2) **303.** Section 6 of the *Great Lakes Fisheries Convention Act* is replaced by the following: Jurisdiction of courts **6.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under regulations made under section 4 as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under regulations made under section 4 in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1990, c. 21 Health of Animals Act **304.** Paragraph 20(*a*) of the *Health of Animals Act* is replaced by the following: (*a*) the provisions of the *Canada Shipping Act, 2001* respecting inspections authorized under paragraph 11(2)(*e*) of that Act to be carried out , R.S., c. L-2 Canada Labour Code 1998, c. 20, s. 29 **305.** Paragraph 127(2)(*a*) of the *Canada Labour Code* is replaced by the following: (*a*) an aircraft, a vessel , rolling stock or a pipeline, if the accident or incident is being investigated under the *Aeronautics Act*, the *Canada Shipping Act, 2001* or the *Canadian Transportation Accident Investigation and Safety Board Act*; or 1994, c. 40 Marine Transportation Security Act **306.** The definition ``Canadian ship'' in subsection 2(1) of the *Marine Transportation Security Act* is replaced by the following: ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a vessel registered under the *Canada Shipping Act, 2001* or registered in Canada before August 1, 1936 under the *Merchant Shipping Act, 1894* of the Parliament of the United Kingdom, 57-58 Victoria, chapter 60, and all Acts adding to or amending that Act; R.S., c. M-6 Merchant Seamen Compensation Act
+1992, c. 35, s. 73(1) **280. Subsection 160(1) of the *Canada-Newfoundland Atlantic Accord Implementation Act* is replaced by the following:** Definition of ``spill'' **160.** (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1988, c. 28 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act 1992, c. 35, s. 110(1) **281. Subsection 165(1) of the *Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act* is replaced by the following:** Definition of ``spill'' **165.** (1) In sections 166 to 170, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1996, c. 10 Canada Transportation Act **282. The definition ``export'' in section 147 of the *Canada Transportation Act* is replaced by the following:** ``export'' « *exportation* » ``export'', in respect of grain, means shipment by a vessel, as defined in section 2 of the *Canada Shipping Act, 2001*, to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; 1999, c. 33 Canadian Environmental Protection Act, 1999 **283. Section 277 of the *Canadian Environmental Protection Act, 1999* is repealed.** 1989, c. 3 Canadian Transportation Accident Investigation and Safety Board Act **284. Section 61 of the *Canadian Transportation Accident Investigation and Safety Board Act* is repealed.** 1993, c. 21 Carriage of Goods by Water Act **285. Section 6 of the *Carriage of Goods by Water Act* is replaced by the following:** Other statutory limitations of liability **6.** Nothing in this Act affects the operation of sections 574 to 583 of the *Canada Shipping Act* or the operation of any other enactment limiting the liability of the owners of ships or vessels. R.S., c. C-29 Citizenship Act **286. Paragraph 2(2)(*a*) of the *Citizenship Act* is replaced by the following:** (*a*) a person is deemed to be born in Canada if the person is born on a Canadian vessel as defined in section 2 of the *Canada Shipping Act, 2001*, or on an aircraft registered in Canada under the *Aeronautics Act* and regulations made under that Act; R.S., c. C-33 Coastal Fisheries Protection Act 1998, c. 16, s. 29 **287. The definition ``Canadian fishing vessel'' in section 2 of the *Coastal Fisheries Protection Act* is replaced by the following:** ``Canadian fishing vessel'' « *bateau de pêche canadien* » ``Canadian fishing vessel'' means a fishing vessel (*a*) that is registered or licensed under the *Canada Shipping Act, 2001*, or (*b*) that is not registered or licensed under the *Canada Shipping Act, 2001* or under the laws of another state but is owned by one or more persons each of whom is (i) a Canadian citizen, (ii) in the case of a vessel that is not required to be registered or licensed under that Act, a person resident and domiciled in Canada, or (iii) a corporation incorporated under the laws of Canada or a province, having its principal place of business in Canada; 1990, c. 44, s. 18(2) **288. Section 19 of the Act is replaced by the following:** Jurisdiction of courts **19.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1992, c. 31 Coasting Trade Act 1998, c. 16, s. 30 **289. The definitions ``Canadian ship'', ``master'' and ``ship'' in subsection 2(1) of the *Coasting Trade Act* are replaced by the following:** ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a ship registered or listed under Part 2 of the *Canada Shipping Act, 2001* and in respect of which all duties and taxes imposed under the *Customs Tariff* and the *Excise Tax Act* have been paid; ``master'' « *capitaine* » ``master'', in relation to a ship, has the same meaning as in section 2 of the *Canada Shipping Act, 2001*; ``ship'' « *navire* » ``ship'' has the same meaning as ``vessel'' in section 2 of the *Canada Shipping Act, 2001*; **290. Paragraph 3(2)(*e*) of the Act is replaced by the following:** (*e*) engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the *Canada Shipping Act, 2001* or authorized under paragraph 11(2)(*d*) of that Act to carry out inspections, in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency. **291. Sections 29 and 30 of the Act are repealed.** **292. Subsection 31(2) of the Act is repealed.** 1992, c. 47 Contraventions Act 1996, c. 7, s. 7 **293. Subsection 17(4) of the *Contraventions Act* is repealed.** R.S., c. C-46 Criminal Code **294. Section 44 of the *Criminal Code* is repealed.** R.S., c. C-50; 1990, c. 8, s. 21 Crown Liability and Proceedings Act 1990, c. 8, s. 22 **295. The definition ``Crown ship'' in section 2 of the *Crown Liability and Proceedings Act* is replaced by the following:** ``Crown ship'' « *navire de l'État* » ``Crown ship'' means a Crown vessel as defined in section 140 of the *Canada Shipping Act, 2001*; **296. Subsection 5(1) of the Act is replaced by the following:** Civil salvage **5.** (1) Subject to subsection (2), the law relating to civil salvage, whether of life or property, applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life from a Crown ship or aircraft, or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person. 1998, c. 16, s. 32 **297. Subsection 6(2) of the Act is replaced by the following:** Ascertaining tonnage of ship (2) If, for the purposes of any proceedings under this Act, it is necessary to ascertain the tonnage of a ship that has not been determined by a tonnage measurer appointed under section 24 of the *Canada Shipping Act, 2001*, the tonnage of the ship must be determined by a tonnage measurer appointed under that section. **298. Subsection 7(1) of the Act is replaced by the following:** Limitation period for salvage proceedings **7.** (1) Section 145 of the *Canada Shipping Act, 2001* applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft. R.S., c. 1 (2nd Supp.) Customs Act **299. The portion of subsection 16(2) of the *Customs Act* before paragraph (*a*) is replaced by the following:** Report of wreck and liability for duties (2) If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the *Canada Shipping Act, 2001*, that person R.S., c. F-14 Fisheries Act **300. Subsection 38(7) of the *Fisheries Act* is replaced by the following:** Inconsistent orders (7) Any requirement or direction of an inspector under this section that is inconsistent with any direction of a marine safety inspector under the *Canada Shipping Act, 2001* is void to the extent of the inconsistency. **301. Subsection 42(7) of the Act is replaced by the following:** Exception (7) Subsections (1) to (3) do not apply in respect of any deposit of a deleterious substance that, within the meaning of Part 8 or 9 of the *Canada Shipping Act, 2001*, constitutes a discharge of a pollutant caused by or otherwise attributable to a vessel. 1990, c. 44, s. 18(2) **302. Section 88 of the Act is replaced by the following:** Jurisdiction of courts **88.** All courts and justices in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. R.S., c. F-17 Great Lakes Fisheries Convention Act 1990, c. 44, s. 18(2) **303. Section 6 of the *Great Lakes Fisheries Convention Act* is replaced by the following:** Jurisdiction of courts **6.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under regulations made under section 4 as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under regulations made under section 4 in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1990, c. 21 Health of Animals Act **304. Paragraph 20(*a*) of the *Health of Animals Act* is replaced by the following:** (*a*) the provisions of the *Canada Shipping Act, 2001* respecting inspections authorized under paragraph 11(2)(*e*) of that Act to be carried out, R.S., c. L-2 Canada Labour Code 1998, c. 20, s. 29 **305. Paragraph 127(2)(*a*) of the *Canada Labour Code* is replaced by the following:** (*a*) an aircraft, a vessel, rolling stock or a pipeline, if the accident or incident is being investigated under the *Aeronautics Act*, the *Canada Shipping Act, 2001* or the *Canadian Transportation Accident Investigation and Safety Board Act*; or 1994, c. 40 Marine Transportation Security Act **306. The definition ``Canadian ship'' in subsection 2(1) of the *Marine Transportation Security Act* is replaced by the following:** ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a vessel registered under the *Canada Shipping Act, 2001* or registered in Canada before August 1, 1936 under the *Merchant Shipping Act, 1894* of the Parliament of the United Kingdom, 57-58 Victoria, chapter 60, and all Acts adding to or amending that Act; R.S., c. M-6 Merchant Seamen Compensation Act
 
-|  | CONSEQUENTIAL AND COORDINATING AMENDMENTS |  |
+|  | PART 14 |  |
 | --- | --- | --- |
+|  | CONSEQUENTIAL AND COORDINATING AMENDMENTS |  |
 |  | Consequential Amendments |  |
 | 1991, c. 46 | Bank Act |  |
 |  | 275. Subsections 428(5) and (6) of the Bank Act are replaced by the following: |  |
-| Security on fishing vessels | (5) If security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the Canada Shipping Act, 2001 , the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act in respect of the vessel before the recording or registration under that Act of those rights. |  |
-| Effect of registration of security | (6) A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the Canada Shipping Act, 2001 as if it were a mortgage given under that Act and, on the recording or registration of the document , the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act. |  |
+| Security on fishing vessels | (5) If security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the Canada Shipping Act, 2001, the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act in respect of the vessel before the recording or registration under that Act of those rights. |  |
+| Effect of registration of security | (6) A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the Canada Shipping Act, 2001 as if it were a mortgage given under that Act and, on the recording or registration of the document, the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act. |  |
 | 1998, c. 10 | Canada Marine Act |  |
 |  | 276. Subsection 56(3) of the Canada Marine Act is replaced by the following: |  |
-| Consistency | (3) Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the Canada Shipping Act, 2001 . |  |
+| Consistency | (3) Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the Canada Shipping Act, 2001. |  |
 |  | 277. Paragraph 58(2)(f) of the Act is replaced by the following: |  |
-|  | (f) the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 120(1)(b) of the Canada Shipping Act, 2001 ; |  |
+|  | (f) the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 120(1)(b) of the Canada Shipping Act, 2001; |  |
 |  | 278. The portion of subsection 120(1) of the Act before paragraph (a) is replaced by the following: |  |
 | Payment of proceeds | 120. (1) If a ship is sold under an order, the proceeds of the sale shall be applied first to satisfy claims for wages of crew members under the Canada Shipping Act, 2001 and then to satisfy the following claims in order of priority: |  |
 |  | 279. The portion of subsection 122(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Lien on ships | 122. (1) A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of crew members under the Canada Shipping Act, 2001 , if the amount is owing in respect of |  |
+| Lien on ships | 122. (1) A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of crew members under the Canada Shipping Act, 2001, if the amount is owing in respect of |  |
 | 1987, c. 3 | Canada-Newfoundland Atlantic Accord Implementation Act |
 
-1992, c. 35, s. 73(1) **280.** Subsection 160(1) of the *Canada-Newfoundland Atlantic Accord Implementation Act* is replaced by the following: Definition of ``spill'' **160.** (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1988, c. 28 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act 1992, c. 35, s. 110(1) **281.** Subsection 165(1) of the *Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act* is replaced by the following: Definition of ``spill'' **165.** (1) In sections 166 to 170, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1996, c. 10 Canada Transportation Act **282.** The definition ``export'' in section 147 of the *Canada Transportation Act* is replaced by the following: ``export'' « *exportation* » ``export'', in respect of grain, means shipment by a vessel, as defined in section 2 of the *Canada Shipping Act, 2001*, to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; 1999, c. 33 Canadian Environmental Protection Act, 1999 **283.** Section 277 of the *Canadian Environmental Protection Act, 1999* is repealed. 1989, c. 3 Canadian Transportation Accident Investigation and Safety Board Act **284.** Section 61 of the *Canadian Transportation Accident Investigation and Safety Board Act* is repealed. 1993, c. 21 Carriage of Goods by Water Act **285.** Section 6 of the *Carriage of Goods by Water Act* is replaced by the following: Other statutory limitations of liability **6.** Nothing in this Act affects the operation of sections 574 to 583 of the *Canada Shipping Act* or the operation of any other enactment limiting the liability of the owners of ships or vessels. R.S., c. C-29 Citizenship Act **286.** Paragraph 2(2)(*a*) of the *Citizenship Act* is replaced by the following: (*a*) a person is deemed to be born in Canada if the person is born on a Canadian vessel as defined in section 2 of the *Canada Shipping Act, 2001*, or on an aircraft registered in Canada under the *Aeronautics Act* and regulations made under that Act ; R.S., c. C-33 Coastal Fisheries Protection Act 1998, c. 16, s. 29 **287.** The definition ``Canadian fishing vessel'' in section 2 of the *Coastal Fisheries Protection Act* is replaced by the following: ``Canadian fishing vessel'' « *bateau de pêche canadien* » ``Canadian fishing vessel'' means a fishing vessel (*a*) that is registered or licensed under the *Canada Shipping Act, 2001* , or (*b*) that is not registered or licensed under the *Canada Shipping Act, 2001* or under the laws of another state but is owned by one or more persons each of whom is (i) a Canadian citizen, (ii) in the case of a vessel that is not required to be registered or licensed under that Act, a person resident and domiciled in Canada, or (iii) a corporation incorporated under the laws of Canada or a province, having its principal place of business in Canada; 1990, c. 44, s. 18(2) **288.** Section 19 of the Act is replaced by the following: Jurisdiction of courts **19.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1992, c. 31 Coasting Trade Act 1998, c. 16, s. 30 **289.** The definitions ``Canadian ship'', ``master'' and ``ship'' in subsection 2(1) of the *Coasting Trade Act* are replaced by the following: ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a ship registered or listed under Part 2 of the *Canada Shipping Act, 2001* and in respect of which all duties and taxes imposed under the *Customs Tariff* and the *Excise Tax Act* have been paid; ``master'' « *capitaine* » ``master'', in relation to a ship, has the same meaning as in section 2 of the *Canada Shipping Act, 2001*; ``ship'' « *navire* » ``ship'' has the same meaning as ``vessel'' in section 2 of the *Canada Shipping Act, 2001* ; **290.** Paragraph 3(2)(*e*) of the Act is replaced by the following: (*e*) engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the *Canada Shipping Act, 2001* or authorized under paragraph 11(2)(*d*) of that Act to carry out inspections , in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency . **291.** Sections 29 and 30 of the Act are repealed. **292.** Subsection 31(2) of the Act is repealed. 1992, c. 47 Contraventions Act 1996, c. 7, s. 7 **293.** Subsection 17(4) of the *Contraventions Act* is repealed. R.S., c. C-46 Criminal Code **294.** Section 44 of the *Criminal Code* is repealed. R.S., c. C-50; 1990, c. 8, s. 21 Crown Liability and Proceedings Act 1990, c. 8, s. 22 **295.** The definition ``Crown ship'' in section 2 of the *Crown Liability and Proceedings Act* is replaced by the following: ``Crown ship'' « *navire de l'État* » ``Crown ship'' means a Crown vessel as defined in section 140 of the *Canada Shipping Act, 2001*; **296.** Subsection 5(1) of the Act is replaced by the following: Civil salvage **5.** (1) Subject to subsection (2), the law relating to civil salvage, whether of life or property, applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life from a Crown ship or aircraft , or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person. 1998, c. 16, s. 32 **297.** Subsection 6(2) of the Act is replaced by the following: Ascertaining tonnage of ship (2) If, for the purposes of any proceedings under this Act, it is necessary to ascertain the tonnage of a ship that has not been determined by a tonnage measurer appointed under section 24 of the *Canada Shipping Act, 2001*, the tonnage of the ship must be determined by a tonnage measurer appointed under that section . **298.** Subsection 7(1) of the Act is replaced by the following: Limitation period for salvage proceedings **7.** (1) Section 145 of the *Canada Shipping Act, 2001* applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft. R.S., c. 1 (2nd Supp.) Customs Act **299.** The portion of subsection 16(2) of the *Customs Act* before paragraph (*a*) is replaced by the following: Report of wreck and liability for duties (2) If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the *Canada Shipping Act, 2001*, that person R.S., c. F-14 Fisheries Act **300.** Subsection 38(7) of the *Fisheries Act* is replaced by the following: Inconsistent orders (7) Any requirement or direction of an inspector under this section that is inconsistent with any direction of a marine safety inspector under the *Canada Shipping Act, 2001* is void to the extent of the inconsistency. **301.** Subsection 42(7) of the Act is replaced by the following: Exception (7) Subsections (1) to (3) do not apply in respect of any deposit of a deleterious substance that, within the meaning of Part 8 or 9 of the *Canada Shipping Act, 2001*, constitutes a discharge of a pollutant caused by or otherwise attributable to a vessel . 1990, c. 44, s. 18(2) **302.** Section 88 of the Act is replaced by the following: Jurisdiction of courts **88.** All courts and justices in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. R.S., c. F-17 Great Lakes Fisheries Convention Act 1990, c. 44, s. 18(2) **303.** Section 6 of the *Great Lakes Fisheries Convention Act* is replaced by the following: Jurisdiction of courts **6.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under regulations made under section 4 as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under regulations made under section 4 in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1990, c. 21 Health of Animals Act **304.** Paragraph 20(*a*) of the *Health of Animals Act* is replaced by the following: (*a*) the provisions of the *Canada Shipping Act, 2001* respecting inspections authorized under paragraph 11(2)(*e*) of that Act to be carried out , R.S., c. L-2 Canada Labour Code 1998, c. 20, s. 29 **305.** Paragraph 127(2)(*a*) of the *Canada Labour Code* is replaced by the following: (*a*) an aircraft, a vessel , rolling stock or a pipeline, if the accident or incident is being investigated under the *Aeronautics Act*, the *Canada Shipping Act, 2001* or the *Canadian Transportation Accident Investigation and Safety Board Act*; or 1994, c. 40 Marine Transportation Security Act **306.** The definition ``Canadian ship'' in subsection 2(1) of the *Marine Transportation Security Act* is replaced by the following: ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a vessel registered under the *Canada Shipping Act, 2001* or registered in Canada before August 1, 1936 under the *Merchant Shipping Act, 1894* of the Parliament of the United Kingdom, 57-58 Victoria, chapter 60, and all Acts adding to or amending that Act; R.S., c. M-6 Merchant Seamen Compensation Act
+1992, c. 35, s. 73(1) **280. Subsection 160(1) of the *Canada-Newfoundland Atlantic Accord Implementation Act* is replaced by the following:** Definition of ``spill'' **160.** (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1988, c. 28 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act 1992, c. 35, s. 110(1) **281. Subsection 165(1) of the *Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act* is replaced by the following:** Definition of ``spill'' **165.** (1) In sections 166 to 170, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1996, c. 10 Canada Transportation Act **282. The definition ``export'' in section 147 of the *Canada Transportation Act* is replaced by the following:** ``export'' « *exportation* » ``export'', in respect of grain, means shipment by a vessel, as defined in section 2 of the *Canada Shipping Act, 2001*, to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; 1999, c. 33 Canadian Environmental Protection Act, 1999 **283. Section 277 of the *Canadian Environmental Protection Act, 1999* is repealed.** 1989, c. 3 Canadian Transportation Accident Investigation and Safety Board Act **284. Section 61 of the *Canadian Transportation Accident Investigation and Safety Board Act* is repealed.** 1993, c. 21 Carriage of Goods by Water Act **285. Section 6 of the *Carriage of Goods by Water Act* is replaced by the following:** Other statutory limitations of liability **6.** Nothing in this Act affects the operation of sections 574 to 583 of the *Canada Shipping Act* or the operation of any other enactment limiting the liability of the owners of ships or vessels. R.S., c. C-29 Citizenship Act **286. Paragraph 2(2)(*a*) of the *Citizenship Act* is replaced by the following:** (*a*) a person is deemed to be born in Canada if the person is born on a Canadian vessel as defined in section 2 of the *Canada Shipping Act, 2001*, or on an aircraft registered in Canada under the *Aeronautics Act* and regulations made under that Act; R.S., c. C-33 Coastal Fisheries Protection Act 1998, c. 16, s. 29 **287. The definition ``Canadian fishing vessel'' in section 2 of the *Coastal Fisheries Protection Act* is replaced by the following:** ``Canadian fishing vessel'' « *bateau de pêche canadien* » ``Canadian fishing vessel'' means a fishing vessel (*a*) that is registered or licensed under the *Canada Shipping Act, 2001*, or (*b*) that is not registered or licensed under the *Canada Shipping Act, 2001* or under the laws of another state but is owned by one or more persons each of whom is (i) a Canadian citizen, (ii) in the case of a vessel that is not required to be registered or licensed under that Act, a person resident and domiciled in Canada, or (iii) a corporation incorporated under the laws of Canada or a province, having its principal place of business in Canada; 1990, c. 44, s. 18(2) **288. Section 19 of the Act is replaced by the following:** Jurisdiction of courts **19.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1992, c. 31 Coasting Trade Act 1998, c. 16, s. 30 **289. The definitions ``Canadian ship'', ``master'' and ``ship'' in subsection 2(1) of the *Coasting Trade Act* are replaced by the following:** ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a ship registered or listed under Part 2 of the *Canada Shipping Act, 2001* and in respect of which all duties and taxes imposed under the *Customs Tariff* and the *Excise Tax Act* have been paid; ``master'' « *capitaine* » ``master'', in relation to a ship, has the same meaning as in section 2 of the *Canada Shipping Act, 2001*; ``ship'' « *navire* » ``ship'' has the same meaning as ``vessel'' in section 2 of the *Canada Shipping Act, 2001*; **290. Paragraph 3(2)(*e*) of the Act is replaced by the following:** (*e*) engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the *Canada Shipping Act, 2001* or authorized under paragraph 11(2)(*d*) of that Act to carry out inspections, in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency. **291. Sections 29 and 30 of the Act are repealed.** **292. Subsection 31(2) of the Act is repealed.** 1992, c. 47 Contraventions Act 1996, c. 7, s. 7 **293. Subsection 17(4) of the *Contraventions Act* is repealed.** R.S., c. C-46 Criminal Code **294. Section 44 of the *Criminal Code* is repealed.** R.S., c. C-50; 1990, c. 8, s. 21 Crown Liability and Proceedings Act 1990, c. 8, s. 22 **295. The definition ``Crown ship'' in section 2 of the *Crown Liability and Proceedings Act* is replaced by the following:** ``Crown ship'' « *navire de l'État* » ``Crown ship'' means a Crown vessel as defined in section 140 of the *Canada Shipping Act, 2001*; **296. Subsection 5(1) of the Act is replaced by the following:** Civil salvage **5.** (1) Subject to subsection (2), the law relating to civil salvage, whether of life or property, applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life from a Crown ship or aircraft, or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person. 1998, c. 16, s. 32 **297. Subsection 6(2) of the Act is replaced by the following:** Ascertaining tonnage of ship (2) If, for the purposes of any proceedings under this Act, it is necessary to ascertain the tonnage of a ship that has not been determined by a tonnage measurer appointed under section 24 of the *Canada Shipping Act, 2001*, the tonnage of the ship must be determined by a tonnage measurer appointed under that section. **298. Subsection 7(1) of the Act is replaced by the following:** Limitation period for salvage proceedings **7.** (1) Section 145 of the *Canada Shipping Act, 2001* applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft. R.S., c. 1 (2nd Supp.) Customs Act **299. The portion of subsection 16(2) of the *Customs Act* before paragraph (*a*) is replaced by the following:** Report of wreck and liability for duties (2) If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the *Canada Shipping Act, 2001*, that person R.S., c. F-14 Fisheries Act **300. Subsection 38(7) of the *Fisheries Act* is replaced by the following:** Inconsistent orders (7) Any requirement or direction of an inspector under this section that is inconsistent with any direction of a marine safety inspector under the *Canada Shipping Act, 2001* is void to the extent of the inconsistency. **301. Subsection 42(7) of the Act is replaced by the following:** Exception (7) Subsections (1) to (3) do not apply in respect of any deposit of a deleterious substance that, within the meaning of Part 8 or 9 of the *Canada Shipping Act, 2001*, constitutes a discharge of a pollutant caused by or otherwise attributable to a vessel. 1990, c. 44, s. 18(2) **302. Section 88 of the Act is replaced by the following:** Jurisdiction of courts **88.** All courts and justices in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. R.S., c. F-17 Great Lakes Fisheries Convention Act 1990, c. 44, s. 18(2) **303. Section 6 of the *Great Lakes Fisheries Convention Act* is replaced by the following:** Jurisdiction of courts **6.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under regulations made under section 4 as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under regulations made under section 4 in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1990, c. 21 Health of Animals Act **304. Paragraph 20(*a*) of the *Health of Animals Act* is replaced by the following:** (*a*) the provisions of the *Canada Shipping Act, 2001* respecting inspections authorized under paragraph 11(2)(*e*) of that Act to be carried out, R.S., c. L-2 Canada Labour Code 1998, c. 20, s. 29 **305. Paragraph 127(2)(*a*) of the *Canada Labour Code* is replaced by the following:** (*a*) an aircraft, a vessel, rolling stock or a pipeline, if the accident or incident is being investigated under the *Aeronautics Act*, the *Canada Shipping Act, 2001* or the *Canadian Transportation Accident Investigation and Safety Board Act*; or 1994, c. 40 Marine Transportation Security Act **306. The definition ``Canadian ship'' in subsection 2(1) of the *Marine Transportation Security Act* is replaced by the following:** ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a vessel registered under the *Canada Shipping Act, 2001* or registered in Canada before August 1, 1936 under the *Merchant Shipping Act, 1894* of the Parliament of the United Kingdom, 57-58 Victoria, chapter 60, and all Acts adding to or amending that Act; R.S., c. M-6 Merchant Seamen Compensation Act
+
+|  | PART 14 |  |
+| --- | --- | --- |
+|  | CONSEQUENTIAL AND COORDINATING AMENDMENTS |  |
+|  | Consequential Amendments |  |
+| 1991, c. 46 | Bank Act |  |
+|  | 275. Subsections 428(5) and (6) of the Bank Act are replaced by the following: |  |
+| Security on fishing vessels | (5) If security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the Canada Shipping Act, 2001, the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act in respect of the vessel before the recording or registration under that Act of those rights. |  |
+| Effect of registration of security | (6) A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the Canada Shipping Act, 2001 as if it were a mortgage given under that Act and, on the recording or registration of the document, the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act. |  |
+| 1998, c. 10 | Canada Marine Act |  |
+|  | 276. Subsection 56(3) of the Canada Marine Act is replaced by the following: |  |
+| Consistency | (3) Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the Canada Shipping Act, 2001. |  |
+|  | 277. Paragraph 58(2)(f) of the Act is replaced by the following: |  |
+|  | (f) the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 120(1)(b) of the Canada Shipping Act, 2001; |  |
+|  | 278. The portion of subsection 120(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payment of proceeds | 120. (1) If a ship is sold under an order, the proceeds of the sale shall be applied first to satisfy claims for wages of crew members under the Canada Shipping Act, 2001 and then to satisfy the following claims in order of priority: |  |
+|  | 279. The portion of subsection 122(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Lien on ships | 122. (1) A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of crew members under the Canada Shipping Act, 2001, if the amount is owing in respect of |  |
+| 1987, c. 3 | Canada-Newfoundland Atlantic Accord Implementation Act |
+
+1992, c. 35, s. 73(1) **280. Subsection 160(1) of the *Canada-Newfoundland Atlantic Accord Implementation Act* is replaced by the following:** Definition of ``spill'' **160.** (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1988, c. 28 Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act 1992, c. 35, s. 110(1) **281. Subsection 165(1) of the *Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act* is replaced by the following:** Definition of ``spill'' **165.** (1) In sections 166 to 170, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the *Canada Shipping Act, 2001* applies or a ship to which Part XVI of the *Canada Shipping Act* applies. 1996, c. 10 Canada Transportation Act **282. The definition ``export'' in section 147 of the *Canada Transportation Act* is replaced by the following:** ``export'' « *exportation* » ``export'', in respect of grain, means shipment by a vessel, as defined in section 2 of the *Canada Shipping Act, 2001*, to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country; 1999, c. 33 Canadian Environmental Protection Act, 1999 **283. Section 277 of the *Canadian Environmental Protection Act, 1999* is repealed.** 1989, c. 3 Canadian Transportation Accident Investigation and Safety Board Act **284. Section 61 of the *Canadian Transportation Accident Investigation and Safety Board Act* is repealed.** 1993, c. 21 Carriage of Goods by Water Act **285. Section 6 of the *Carriage of Goods by Water Act* is replaced by the following:** Other statutory limitations of liability **6.** Nothing in this Act affects the operation of sections 574 to 583 of the *Canada Shipping Act* or the operation of any other enactment limiting the liability of the owners of ships or vessels. R.S., c. C-29 Citizenship Act **286. Paragraph 2(2)(*a*) of the *Citizenship Act* is replaced by the following:** (*a*) a person is deemed to be born in Canada if the person is born on a Canadian vessel as defined in section 2 of the *Canada Shipping Act, 2001*, or on an aircraft registered in Canada under the *Aeronautics Act* and regulations made under that Act; R.S., c. C-33 Coastal Fisheries Protection Act 1998, c. 16, s. 29 **287. The definition ``Canadian fishing vessel'' in section 2 of the *Coastal Fisheries Protection Act* is replaced by the following:** ``Canadian fishing vessel'' « *bateau de pêche canadien* » ``Canadian fishing vessel'' means a fishing vessel (*a*) that is registered or licensed under the *Canada Shipping Act, 2001*, or (*b*) that is not registered or licensed under the *Canada Shipping Act, 2001* or under the laws of another state but is owned by one or more persons each of whom is (i) a Canadian citizen, (ii) in the case of a vessel that is not required to be registered or licensed under that Act, a person resident and domiciled in Canada, or (iii) a corporation incorporated under the laws of Canada or a province, having its principal place of business in Canada; 1990, c. 44, s. 18(2) **288. Section 19 of the Act is replaced by the following:** Jurisdiction of courts **19.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1992, c. 31 Coasting Trade Act 1998, c. 16, s. 30 **289. The definitions ``Canadian ship'', ``master'' and ``ship'' in subsection 2(1) of the *Coasting Trade Act* are replaced by the following:** ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a ship registered or listed under Part 2 of the *Canada Shipping Act, 2001* and in respect of which all duties and taxes imposed under the *Customs Tariff* and the *Excise Tax Act* have been paid; ``master'' « *capitaine* » ``master'', in relation to a ship, has the same meaning as in section 2 of the *Canada Shipping Act, 2001*; ``ship'' « *navire* » ``ship'' has the same meaning as ``vessel'' in section 2 of the *Canada Shipping Act, 2001*; **290. Paragraph 3(2)(*e*) of the Act is replaced by the following:** (*e*) engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the *Canada Shipping Act, 2001* or authorized under paragraph 11(2)(*d*) of that Act to carry out inspections, in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency. **291. Sections 29 and 30 of the Act are repealed.** **292. Subsection 31(2) of the Act is repealed.** 1992, c. 47 Contraventions Act 1996, c. 7, s. 7 **293. Subsection 17(4) of the *Contraventions Act* is repealed.** R.S., c. C-46 Criminal Code **294. Section 44 of the *Criminal Code* is repealed.** R.S., c. C-50; 1990, c. 8, s. 21 Crown Liability and Proceedings Act 1990, c. 8, s. 22 **295. The definition ``Crown ship'' in section 2 of the *Crown Liability and Proceedings Act* is replaced by the following:** ``Crown ship'' « *navire de l'État* » ``Crown ship'' means a Crown vessel as defined in section 140 of the *Canada Shipping Act, 2001*; **296. Subsection 5(1) of the Act is replaced by the following:** Civil salvage **5.** (1) Subject to subsection (2), the law relating to civil salvage, whether of life or property, applies in relation to salvage services rendered in assisting any Crown ship or aircraft, or in saving life from a Crown ship or aircraft, or in saving any cargo or apparel belonging to the Crown, in the same manner as if the ship, aircraft, cargo or apparel belonged to a private person. 1998, c. 16, s. 32 **297. Subsection 6(2) of the Act is replaced by the following:** Ascertaining tonnage of ship (2) If, for the purposes of any proceedings under this Act, it is necessary to ascertain the tonnage of a ship that has not been determined by a tonnage measurer appointed under section 24 of the *Canada Shipping Act, 2001*, the tonnage of the ship must be determined by a tonnage measurer appointed under that section. **298. Subsection 7(1) of the Act is replaced by the following:** Limitation period for salvage proceedings **7.** (1) Section 145 of the *Canada Shipping Act, 2001* applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft. R.S., c. 1 (2nd Supp.) Customs Act **299. The portion of subsection 16(2) of the *Customs Act* before paragraph (*a*) is replaced by the following:** Report of wreck and liability for duties (2) If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the *Canada Shipping Act, 2001*, that person R.S., c. F-14 Fisheries Act **300. Subsection 38(7) of the *Fisheries Act* is replaced by the following:** Inconsistent orders (7) Any requirement or direction of an inspector under this section that is inconsistent with any direction of a marine safety inspector under the *Canada Shipping Act, 2001* is void to the extent of the inconsistency. **301. Subsection 42(7) of the Act is replaced by the following:** Exception (7) Subsections (1) to (3) do not apply in respect of any deposit of a deleterious substance that, within the meaning of Part 8 or 9 of the *Canada Shipping Act, 2001*, constitutes a discharge of a pollutant caused by or otherwise attributable to a vessel. 1990, c. 44, s. 18(2) **302. Section 88 of the Act is replaced by the following:** Jurisdiction of courts **88.** All courts and justices in Canada have the same jurisdiction with respect to offences under this Act as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under this Act in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. R.S., c. F-17 Great Lakes Fisheries Convention Act 1990, c. 44, s. 18(2) **303. Section 6 of the *Great Lakes Fisheries Convention Act* is replaced by the following:** Jurisdiction of courts **6.** All courts, justices of the peace and provincial court judges in Canada have the same jurisdiction with respect to offences under regulations made under section 4 as they have under sections 257 and 258 of the *Canada Shipping Act, 2001* with respect to offences under that Act, and those sections apply to offences under regulations made under section 4 in the same manner and to the same extent as they apply to offences under the *Canada Shipping Act, 2001*. 1990, c. 21 Health of Animals Act **304. Paragraph 20(*a*) of the *Health of Animals Act* is replaced by the following:** (*a*) the provisions of the *Canada Shipping Act, 2001* respecting inspections authorized under paragraph 11(2)(*e*) of that Act to be carried out, R.S., c. L-2 Canada Labour Code 1998, c. 20, s. 29 **305. Paragraph 127(2)(*a*) of the *Canada Labour Code* is replaced by the following:** (*a*) an aircraft, a vessel, rolling stock or a pipeline, if the accident or incident is being investigated under the *Aeronautics Act*, the *Canada Shipping Act, 2001* or the *Canadian Transportation Accident Investigation and Safety Board Act*; or 1994, c. 40 Marine Transportation Security Act **306. The definition ``Canadian ship'' in subsection 2(1) of the *Marine Transportation Security Act* is replaced by the following:** ``Canadian ship'' « *navire canadien* » ``Canadian ship'' means a vessel registered under the *Canada Shipping Act, 2001* or registered in Canada before August 1, 1936 under the *Merchant Shipping Act, 1894* of the Parliament of the United Kingdom, 57-58 Victoria, chapter 60, and all Acts adding to or amending that Act; R.S., c. M-6 Merchant Seamen Compensation Act
 
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -12633,9 +12555,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -12643,7 +12565,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -12655,7 +12577,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -12672,7 +12594,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -12693,10 +12615,10 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -12706,9 +12628,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -12716,7 +12638,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -12728,7 +12650,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -12745,7 +12667,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -12766,10 +12688,10 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -12779,9 +12701,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -12789,7 +12711,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -12801,7 +12723,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -12818,7 +12740,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -12839,10 +12761,10 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -12852,9 +12774,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -12862,7 +12784,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -12874,7 +12796,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -12891,7 +12813,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -12912,10 +12834,10 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -12925,9 +12847,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -12935,7 +12857,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -12947,7 +12869,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -12964,7 +12886,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -12985,10 +12907,10 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -12998,9 +12920,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -13008,7 +12930,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -13020,7 +12942,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -13037,7 +12959,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -13058,10 +12980,10 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 307. (1) The definitions ``seaman'' and ``ship'' in subsection 2(1) of the Merchant Seamen Compensation Act are replaced by the following: |  |
 | --- | --- | --- |
 | ``seaman'' « marin » | ``seaman'' means every person, except pilots, apprenticed pilots and fishers, employed or engaged on |  |
-|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001 , or |  |
+|  | (a) a ship registered in Canada under the Canada Shipping Act, 2001, or |  |
 |  | (b) a ship chartered by demise to a person resident in Canada or having their principal place of business in Canada, |  |
 |  | when the ship is engaged in trading on a foreign voyage or on a home-trade voyage, and, if so ordered by the Governor in Council, includes a seaman engaged in Canada and employed on a ship that is registered outside Canada and operated by a person resident in Canada or having their principal place of business in Canada when that ship is so engaged; |  |
-| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001 . |  |
+| ``ship'' « navire » | ``ship'' means a vessel as defined in section 2 of the Canada Shipping Act, 2001. |  |
 |  | (2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order: |  |
 | ``foreign voyage'' « voyage de long cours » | ``foreign voyage'' means a voyage extending beyond the area of a home-trade voyage and not being an inland or minor waters voyage; |  |
 | ``home-trade voyage'' « voyage de cabotage » | ``home-trade voyage'' means a voyage, not being an inland or minor waters voyage, between places within the following areas, namely, Canada, the United States other than Hawaii, St. Pierre and Miquelon, the West Indies, Mexico, Central America and the northeast coast of South America, in the course of which a ship does not go south of the sixth parallel of north latitude; |  |
@@ -13071,9 +12993,9 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 308. Paragraph 31(1)(c) of the Act is replaced by the following: |  |
 |  | (c) if the expenses of burial of a seaman are paid by an employer under section 93 of the Canada Shipping Act, 2001 following any accident in respect of which compensation is payable under this Act, the amount of the expenses shall be deducted from the amount payable under paragraphs (a) and (b); |  |
 |  | 309. Subsection 42(2) of the Act is replaced by the following: |  |
-| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001 , or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
+| No compensation if wages paid | (2) No compensation is payable in respect of the period during which an employer is, under the Canada Shipping Act, 2001, or otherwise, liable for the payment of wages and to defray the expenses of maintenance of an injured seaman. |  |
 |  | 310. Section 47 of the Act is replaced by the following: |  |
-| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001 , or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
+| Medical aid under one Act only | 47. Notwithstanding anything in this Act, a seaman entitled to medical aid under Part 3 of the Canada Shipping Act, 2001, or under any other Act that provides similar benefits, is not entitled to medical aid under this Act during the period and to the extent that medical aid is furnished under that Part or that other Act. |  |
 | R.S., c. N-5 | National Defence Act |  |
 |  | 311. Section 266 of the National Defence Act is repealed. |  |
 | R.S., c. 15 (4th Supp.) | Non-smokers' Health Act |  |
@@ -13081,7 +13003,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Application outside Canada | (2) This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the Canada Transportation Act, or a work space on a vessel registered or listed under the Canada Shipping Act, 2001 that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction. |  |
 | 1992, c. 39 | Northwest Territories Waters Act |  |
 |  | 313. The portion of the definition ``use'' in section 2 of the Northwest Territories Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 | 1997, c. 9 | Nuclear Safety and Control Act |  |
 |  | 314. Section 54 of the Nuclear Safety and Control Act is repealed. |  |
 | R.S., c. O-7; 1992, c. 35, s. 2 | Canada Oil and Gas Operations Act |  |
@@ -13093,7 +13015,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | ``apprentice pilot'' « apprenti-pil ote » | ``apprentice pilot'' means a person who is training to become a licensed pilot. |  |
 | ``licence'' « brevet » | ``licence'' means a licence issued by an Authority under section 22. |  |
 | ``licensed pilot'' « pilote breveté » | ``licensed pilot'' means a person who holds a valid licence. |  |
-| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it . |  |
+| ``pilot'' « pilote » | ``pilot'' means any person who does not belong to a ship and who has the conduct of it. |  |
 | ``ship'' « navire » | ``ship'' includes any description of vessel or boat used or designed for use in navigation, without regard to method or lack of propulsion. |  |
 |  | PART 1 |  |
 |  | PILOTAGE |  |
@@ -13110,7 +13032,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | LOWER ST. LAWRENCE PILOTS' PENSIONS |  |
 |  | Interpretation |  |
 | Definitions | 54. The definitions in this section apply in this Part. |  |
-| ``Authority'' « Administra- tion » | ``Authority'' means the Laurentian Pilotage Authority. |  |
+| ``Authority'' « Administrati on » | ``Authority'' means the Laurentian Pilotage Authority. |  |
 | ``CPBSL'' « CPBSL » | ``CPBSL'' means the Corporation of the Lower St. Lawrence Pilots established by letters patent under Part II of the Canada Corporations Act, chapter 53 of the Revised Statutes of Canada, 1952, as amended by chapter 52 of the Statutes of Canada, 1964-65, a body corporate contracting with the Authority for the services of pilots under this Act, or any successor of the Corporation that carries on similar functions. |  |
 | ``CPHQ'' « CPHQ » | ``CPHQ'' means the Corporation of Pilots for and below the Harbour of Quebec, established by chapter 123 of the Statutes of the Province of Canada, 1860 (23 Vict., c. 123). |  |
 | ``eligible pilot'' « pilote admissible » | ``eligible pilot'' means a person |  |
@@ -13171,12 +13093,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Exemption from registration | (3) Ships exempt from registration under this Act before this Part comes into force continue to be exempt until two years or, in the case of a pleasure craft, six years after this Part comes into force. |  |
 | R.S., c. 6 (3rd Supp.), s. 84 | 320. The definition ``pollutant'' in section 673 of the Act is replaced by the following: |  |
 | ``pollutant'' « polluant » | ``pollutant'' means |  |
-|  | (a) a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans , and |  |
-|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans , |  |
+|  | (a) a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans, and |  |
+|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans, |  |
 |  | and includes oil and any substance or class of substances identified by the regulations as a pollutant for the purposes of this Part; |  |
 | 1992, c. 40 | Yukon Waters Act |  |
 |  | 321. The portion of the definition ``use'' in section 2 of the Yukon Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 |  | Coordinating Amendments |  |
 | Bill C-10 | 322. (1) If Bill C-10, introduced in the 1st session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act (the ``other Act''), receives royal assent, then the provisions mentioned in subsections (2) to (4) are amended as provided in those subsections. |  |
 |  | (2) On the later of the coming into force of section 1 of this Act and subsection 16(3) of the other Act, subsection 16(3) of the other Act is replaced by the following: |  |
@@ -13194,7 +13116,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act may hold a certificate of competency that is issued under this Part. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | R.S., c. 6 (3rd Supp.), s. 84 | 218. Subparagraph 712(3)(b)(i) of the Canada Shipping Act is replaced by the following: |  |
-|  | (i) are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act in the case of an individual, or |  |
+|  | (i) are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, in the case of an individual, or |  |
 |  | (3) If paragraph (a) of the definition ``qualified person'' in section 2 of this Act is not in force when section 1 of the other Act comes into force, then that paragraph is replaced by the following: |  |
 |  | (a) a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act; or |  |
 |  | (4) If subsection 88(1) of this Act is not in force when section 1 of the other Act comes into force, then that subsection is replaced by the following: |  |
@@ -13262,12 +13184,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Exemption from registration | (3) Ships exempt from registration under this Act before this Part comes into force continue to be exempt until two years or, in the case of a pleasure craft, six years after this Part comes into force. |  |
 | R.S., c. 6 (3rd Supp.), s. 84 | 320. The definition ``pollutant'' in section 673 of the Act is replaced by the following: |  |
 | ``pollutant'' « polluant » | ``pollutant'' means |  |
-|  | (a) a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans , and |  |
-|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans , |  |
+|  | (a) a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans, and |  |
+|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans, |  |
 |  | and includes oil and any substance or class of substances identified by the regulations as a pollutant for the purposes of this Part; |  |
 | 1992, c. 40 | Yukon Waters Act |  |
 |  | 321. The portion of the definition ``use'' in section 2 of the Yukon Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 |  | Coordinating Amendments |  |
 | Bill C-10 | 322. (1) If Bill C-10, introduced in the 1st session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act (the ``other Act''), receives royal assent, then the provisions mentioned in subsections (2) to (4) are amended as provided in those subsections. |  |
 |  | (2) On the later of the coming into force of section 1 of this Act and subsection 16(3) of the other Act, subsection 16(3) of the other Act is replaced by the following: |  |
@@ -13285,7 +13207,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act may hold a certificate of competency that is issued under this Part. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | R.S., c. 6 (3rd Supp.), s. 84 | 218. Subparagraph 712(3)(b)(i) of the Canada Shipping Act is replaced by the following: |  |
-|  | (i) are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act in the case of an individual, or |  |
+|  | (i) are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, in the case of an individual, or |  |
 |  | (3) If paragraph (a) of the definition ``qualified person'' in section 2 of this Act is not in force when section 1 of the other Act comes into force, then that paragraph is replaced by the following: |  |
 |  | (a) a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act; or |  |
 |  | (4) If subsection 88(1) of this Act is not in force when section 1 of the other Act comes into force, then that subsection is replaced by the following: |  |
@@ -13353,12 +13275,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Exemption from registration | (3) Ships exempt from registration under this Act before this Part comes into force continue to be exempt until two years or, in the case of a pleasure craft, six years after this Part comes into force. |  |
 | R.S., c. 6 (3rd Supp.), s. 84 | 320. The definition ``pollutant'' in section 673 of the Act is replaced by the following: |  |
 | ``pollutant'' « polluant » | ``pollutant'' means |  |
-|  | (a) a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans , and |  |
-|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans , |  |
+|  | (a) a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans, and |  |
+|  | (b) any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans, |  |
 |  | and includes oil and any substance or class of substances identified by the regulations as a pollutant for the purposes of this Part; |  |
 | 1992, c. 40 | Yukon Waters Act |  |
 |  | 321. The portion of the definition ``use'' in section 2 of the Yukon Waters Act after paragraph (c) is replaced by the following: |  |
-|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001 ; |  |
+|  | but does not include a use connected with shipping activities that are governed by the Canada Shipping Act, 2001; |  |
 |  | Coordinating Amendments |  |
 | Bill C-10 | 322. (1) If Bill C-10, introduced in the 1st session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act (the ``other Act''), receives royal assent, then the provisions mentioned in subsections (2) to (4) are amended as provided in those subsections. |  |
 |  | (2) On the later of the coming into force of section 1 of this Act and subsection 16(3) of the other Act, subsection 16(3) of the other Act is replaced by the following: |  |
@@ -13376,7 +13298,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Eligibility | 88. (1) Only a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act may hold a certificate of competency that is issued under this Part. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | R.S., c. 6 (3rd Supp.), s. 84 | 218. Subparagraph 712(3)(b)(i) of the Canada Shipping Act is replaced by the following: |  |
-|  | (i) are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act in the case of an individual, or |  |
+|  | (i) are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act, in the case of an individual, or |  |
 |  | (3) If paragraph (a) of the definition ``qualified person'' in section 2 of this Act is not in force when section 1 of the other Act comes into force, then that paragraph is replaced by the following: |  |
 |  | (a) a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act; or |  |
 |  | (4) If subsection 88(1) of this Act is not in force when section 1 of the other Act comes into force, then that subsection is replaced by the following: |  |
@@ -13403,7 +13325,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13417,12 +13339,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13465,7 +13387,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13479,12 +13401,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13527,7 +13449,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13541,12 +13463,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13589,7 +13511,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13603,12 +13525,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13651,7 +13573,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13665,12 +13587,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13713,7 +13635,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13727,12 +13649,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13775,7 +13697,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13789,12 +13711,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13837,7 +13759,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13851,12 +13773,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13899,7 +13821,7 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 |  | (7) On the later of the coming into force of section 250 of this Act and section 130 of the other Act, section 250 of this Act is replaced by the following: |  |
 | --- | --- | --- |
-| Responsibi- lity for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
+| Responsibility for goods | 250. Subject to Part 5 of the Marine Liability Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water. |  |
 |  | (8) On the later of the coming into force of section 280 of this Act and section 110 of the other Act, subsection 160(1) of the Canada-Newfoundland Atlantic Accord Implementation Act is replaced by the following: |  |
 | Definition of ``spill'' | 160. (1) In sections 161 to 165, ``spill'' means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the Canada Shipping Act, 2001 applies or a ship to which Part 6 of the Marine Liability Act applies. |  |
 |  | (9) On the later of the coming into force of section 281 of this Act and section 111 of the other Act, subsection 165(1) of the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act is replaced by the following: |  |
@@ -13913,12 +13835,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 | Filing of documents | (2) For the purposes of this Act, a document may be filed with or given to the Agency in paper form or electronic form, and is deemed not to have been filed with or given to the Agency until it has actually been received by the Agency. |  |
 |  | 326. (1) Paragraphs 4(3)(a) to (c) of the Act are replaced by the following: |  |
 |  | (a) provides that any member of the conference may, after giving to the other members of the conference five days written notice, or such lesser number of days written notice as may be specified in the conference agreement, of the member's intention to do so, take independent action; |  |
-|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective ; and |  |
+|  | (b) provides that, when a member of the conference gives notice as described in paragraph (a), any other member of the conference may, after giving to the other members of the conference notice in writing of the member's intention to do so, take the same independent action as soon as the first independent action becomes effective; and |  |
 |  | (c) provides that, when a member of the conference gives notice as described in paragraph (a), the members of the conference shall publish or cause to be published the new rate or service item in a tariff not later than five days after the day on which the notice is received by the members of the conference. |  |
 |  | (2) Section 4 of the Act is amended by adding the following after subsection (3): |  |
-| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or divulge the substance of the contract. |  |
+| Exception re service contracts | (3.1) The terms and conditions established by a conference agreement under paragraph (1)(c) shall not have the effect of preventing a member of the conference from negotiating or entering into a service contract on terms and conditions that the member considers appropriate and without having to give notice to the other members or having to divulge the terms and conditions of the contract. |  |
 |  | 327. (1) Paragraph 6(1)(b) of the Act is replaced by the following: |  |
-|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1) ; |  |
+|  | (b) a copy of every service contract to which the member is a party, except a service contract referred to in subsection 4(3.1); |  |
 |  | (2) Subsection 6(1) of the Act is amended by adding the word ``and'' at the end of paragraph (c) and by replacing paragraphs (d) to (f) with the following: |  |
 |  | (d) a copy of each standard form of loyalty contract approved by the members of the conference, and of every amendment to such a standard form of loyalty contract. |  |
 |  | (3) Subsection 6(2) of the Act is repealed. |  |
@@ -13986,13 +13908,12 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 |  | 22. International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 |  |
 |  | 23. Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships |  |
 |  | 24. Protocol of 1978 relating to the International Convention for the Safety of Life At Sea of 1974 |  |
-|  | 25. International Convention on Maritime Search and Rescue, 1979 |  |
-|  | 26. Convention for the Suppression of Unlawful Act Against the Safety of Maritime Navigation, 1988 |  |
-|  | 27. Protocol of 1988 relating to the International Convention for the Safety of Life At Sea of 1974 |  |
-|  | 28. Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf |  |
-|  | 29. Protocol of 1988 relating to the International Convention on Load Lines, 1966 |  |
-|  | 30. International Convention on Oil Pollution Preparedness Response and Cooperation, 1990 |  |
-|  | 31. Protocol of 1997 relating to the International Convention for the Prevention of Pollution from Ships |  |
+|  | 25. Convention for the Suppression of Unlawful Act Against the Safety of Maritime Navigation, 1988 |  |
+|  | 26. Protocol of 1988 relating to the International Convention for the Safety of Life At Sea of 1974 |  |
+|  | 27. Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf |  |
+|  | 28. Protocol of 1988 relating to the International Convention on Load Lines, 1966 |  |
+|  | 29. International Convention on Oil Pollution Preparedness Response and Cooperation, 1990 |  |
+|  | 30. Protocol of 1997 relating to the International Convention for the Prevention of Pollution from Ships |  |
 
 |  | SCHEDULE 2 (Subsection 29(2), sections 30 and 31 and paragraph 35(3)(a)) |  |
 | --- | --- | --- |
@@ -14201,4 +14122,4 @@ If reasonable grounds to believe a violation **229.** (1) If the Minister has re
 
 It is the common understanding of the Conference that, in fixing a reward under article 13 and assessing special compensation under article 14 of the International Convention on Salvage, 1989 the tribunal is under no duty to fix a reward under article 13 up to the maximum salved value of the vessel and other property before assessing the special compensation to be paid under article 14. ### ATTACHMENT 2 ***Resolution requesting the amendment of the York-Antwerp Rules, 1974*** THE INTERNATIONAL CONFERENCE ON SALVAGE, 1989, HAVING ADOPTED the International Convention on Salvage, 1989, CONSIDERING that payments made pursuant to article 14 are not intended to be allowed in general average, REQUESTS the Secretary-General of the International Maritime Organization to take the appropriate steps in order to ensure speedy amendment of the York-Antwerp Rules, 1974, to ensure that special compensation paid under article 14 is not subject to general average. ### ATTACHMENT 3 ***Resolution on international co-operation for the implementation of the International Convention on Salvage, 1989*** THE INTERNATIONAL CONFERENCE ON SALVAGE, 1989, IN ADOPTING the International Convention on Salvage, 1989 (hereinafter referred to as ``The Convention''), CONSIDERING IT DESIRABLE that as many States as possible should become Parties to the Convention, RECOGNIZING that the entry into force of the Convention will represent an important additional factor for the protection of the marine environment, CONSIDERING that the international publicizing and wide implementation of the Convention is of the utmost importance for the attainment of its objectives, I RECOMMENDS: (a) that the Organization promote public awareness of the Convention through the holding of seminars, courses or symposia; (b) that training institutions created under the auspices of the Organization include the study of the Convention in their corresponding courses of study. II REQUESTS: (a) Members States to transmit to the Organization the text of the laws, orders, decrees, regulations and other instruments that they promulgate concerning the various matters falling within the scope of application of the Convention; (b) Member States, in consultation with the Organization, to promote the giving of help to those States requesting technical assistance for the drafting of laws, orders, decrees, regulations and other instruments necessary for the implementation of the Convention; and (c) the Organization to notify Member States of any communication it may receive under paragraph II(a). ## PART 2 ### CANADA'S RESERVATIONS The Government of Canada reserves the right not to apply the provisions of the International Convention on Salvage, 1989 when the property involved is maritime cultural property of prehistoric, archaeological or historic interest and is situated on the seabed.
 
-| TABLE OF PROVISIONS | | --- | | AN ACT RESPECTING SHIPPING AND NAVIGATION AND TO AMEND THE SHIPPING CONFERENCES EXEMPTION ACT, 1987 AND OTHER ACTS | | SHORT TITLE | | 1. Short title | | --- | | INTERPRETATION | | 2. Definitions | | 3. Descriptive cross-references | | 4. Regulations | | PART 1 | | GENERAL | | Her Majesty | | 5. Binding on Her Majesty | | Objectives | | 6. Objectives of Act | | Application | | 7. Exclusion | | 8. Application of this Part | | Ministerial Responsibility | | 9. Role of Minister of Transport | | Powers of Ministers | | 10. General | | Inspections by Marine Safety Inspectors and Others | | 11. Appointment of marine safety inspectors | | 12. Authorizing others to inspect | | 13. Audit | | Authorized Representative | | 14. Authorized representative | | Adjudicators | | 15. Appointment | | Canadian Maritime Documents | | 16. Application | | 17. Period of validity | | 18. Production of document | | 19. Lost documents | | 20. Suspension, cancellation and refusal to renew | | Other Documents | | 21. Issuance of documents to foreign vessels | | 22. Foreign documents | | General Prohibitions | | 23. Destruction of documents, fraud, obstruction and movement of detained vessel | | Tonnage Measurers | | 24. Appointment of tonnage measurers | | 25. Fees and travel expenses | | Marine Technical Review Board | | 26. Establishment | | 27. Striking panels | | 28. Application | | International Conventions, Protocols and Resolutions | | 29. Schedule 1 | | 30. Additions to Schedule 1 or 2 | | 31. Deletions from Schedule 1 or 2 | | Incorporation by Reference | | 32. Externally produced material | | 33. Defence | | Orders and Directions | | 34. In writing | | Regulations | | 35. Regulations - Minister of Transport | | Fees | | 36. Debt due to Her Majesty | | Offences and Punishment | | 37. Contravention of section 23 | | 38. Contravention of regulations made under par. 35(1)(d) or (3)(a) | | 39. Contravention of Act | | 40. Contravention of Act or regulations | | PART 2 | | REGISTRATION, LISTING AND RECORDING | | Interpretation | | 41. Definition of ``Minister'' | | Canadian Register of Vessels and Registrars | | 42. Appointment of Chief Registrar | | 43. Duties and powers of Chief Registrar | | 44. Registrars | | 45. Immunity | | Registration, Listing and Recording | | 46. Mandatory registration of vessels | | 47. Optional registration | | 48. Bare-boat chartered vessels | | 49. Vessels under construction | | 50. Vessels built outside Canada | | Application | | 51. Application | | Names of Vessels | | 52. Before registration or listing | | Ownership of Vessels | | 53. Shares | | Certificates | | 54. Certificates of registry | | 55. Provisional certificates | | 56. Lost certificates | | Marking | | 57. Marking | | Notifying Chief Registrar | | 58. Notification of changes | | Maintenance of Register | | 59. Amendments | | Suspension, Cancellation and Reinstatement of Registration | | 60. Suspension and cancellation | | 61. Registration of mortgages not affected | | 62. Reinstatement | | Custody of Certificates of Registry and Provisional Certificates | | 63. Carrying on board | | Rights and Obligations | | 64. Right to fly Canadian flag | | Mortgages | | 65. Mortgage of vessel or share | | 66. Entry of discharge of mortgage | | 67. Priority of mortgages | | 68. Mortgagee not treated as owner | | 69. Mortgagee has power of sale | | 70. Mortgage not affected by bankruptcy | | 71. Transfer of mortgages | | 72. Transmission of interest of mortgagee | | Transfers of Vessels or Shares in Vessels | | 73. Transfer | | 74. Order for sale on acquisition by an unqualified person | | 75. Power of court to prohibit transfer | | Entries | | 76. Copies of entries | | Regulations | | 77. Regulations | | Offences and Punishment | | 78. Contravention of Act or regulations | | 79. Contravention of Act or regulations | | PART 3 | | PERSONNEL | | Interpretation | | 80. Definition of ``Minister'' | | Application | | 81. Canadian vessels | | Masters | | 82. Presentation of documents | | 83. Detention of persons | | Stowaways and Other Persons | | 84. Liable for discipline | | Contract of Employment | | 85. Masters' contracts | | Liens and Claims | | 86. Liens | | Certificates | | 87. Positions on board Canadian vessels | | 88. Eligibility | | 89. Acceptance of foreign certificates | | Medical or Optometric Information | | 90. Minister to be provided with information | | Articles of Agreement, Discharge and Record of Sea Service | | 91. Articles of agreement | | 92. Discharge | | 93. Record of sea service | | Return of Crew Members | | 94. Return and payment of expenses | | 95. Desertion or serious violation of contract | | Births and Deaths | | 96. Informing province | | 97. Death of crew member | | Obligation of Persons Who Provide Crew Members | | 98. If an agreement to provide crew members | | Resolution of Disputes | | 99. Adjudication by Minister | | Regulations | | 100. Regulations | | Offences and Punishment | | 101. Contravention of Act or regulations | | 102. Contravention of Act | | 103. Contravention of Act or regulations | | PART 4 | | SAFETY | | Interpretation | | 104. Definition of ``Minister'' | | Application | | 105. Canadian vessels and foreign vessels | | Authorized Representatives | | 106. General duties | | Masters | | 107. Obtaining Canadian maritime documents | | 108. Exemptions | | 109. Safety of persons | | 110. Carrying excess number of persons | | 111. Compliance with directions | | 112. Information to be sent respecting dangers to navigation | | Crew | | 113. Carrying out duties and reporting | | 114. Compliance with directions | | Passengers | | 115. Compliance with directions | | Authorized Representatives, Masters, Crew Members and Other Persons | | 116. When boarding a vessel prohibited | | 117. Tampering and vandalism | | 118. Jeopardizing safety | | Construction of Vessels | | 119. In accordance with plans | | Regulations | | 120. Regulations | | Offences and Punishment | | 121. Contravention of Act or regulations | | 122. Contravention of subsection 110(2) | | 123. Contravention of Act | | 124. When compliance agreement in effect | | PART 5 | | NAVIGATION SERVICES | | Interpretation | | 125. Definitions | | Vessel Traffic Services | | 126. Entering, leaving or proceeding within a VTS Zone | | 127. Variations from requirements or conditions | | Aids to Navigation | | 128. Aids to navigation vest in Her Majesty | | 129. Obligation to report damage | | Search and Rescue | | 130. Designation of rescue coordinators | | 131. Answering distress signal | | 132. Assistance | | 133. Aircraft treated as if vessel | | Sable and St. Paul Islands | | 134. Presence on Islands | | Enforcement | | 135. Designation | | Regulations | | 136. Regulations | | Offences and Punishment | | 137. Contravention of Act | | 138. Contravention of Act or regulations | | 139. Contravention of section 134 | | PART 6 | | INCIDENTS, ACCIDENTS AND CASUALTIES | | Interpretation | | 140. Definitions | | Application | | 141. Vessels | | Salvage | | International Convention on Salvage, 1989 | | 142. Salvage Convention | | Salvage by Crown Vessels | | 143. When salvage services may be claimed | | 144. Governor in Council may accept offers of settlement | | Limitation of Time for Salvage Proceedings | | 145. Proceedings within two years | | Aircraft | | 146. Aircraft treated as if vessel | | Rights Not Affected | | 147. Salvage | | Obligations in Case of Collisions | | 148. Duty of masters in collision | | Inquiry into Causes of Death | | 149. Inquiry into cause of death on board | | Regulations | | 150. Regulations - Minister | | Offences and Punishment | | 151. Contravention of paragraph 148(a) or the regulations | | 152. Contravention of Act or regulations | | PART 7 | | WRECK | | Interpretation | | 153. Definitions | | Designation of Receivers of Wreck | | 154. Designation | | Found Wreck | | 155. Duty of persons taking possession of wreck | | 156. Salvage award | | 157. Prohibition | | 158. Delivery of wreck or proceeds of disposition | | 159. Interpleader in case of wreck | | Disposition of Wreck | | 160. When wreck may be disposed of | | 161. Unpaid salvage, fees, expenses | | 162. Release of wreck | | Regulations | | 163. Regulations - Minister | | Offences and Punishment | | 164. Contravention of Act or regulations | | PART 8 | | POLLUTION PREVENTION AND RESPONSE - DEPARTMENT OF FISHERIES AND OCEANS | | Interpretation | | 165. Definitions | | Application | | 166. Application | | Discharges of Oil | | 167. Vessels - requirements | | 168. Oil handling facilities - requirements | | Response Organizations | | 169. Certificate of designation | | 170. Statement of fees | | 171. Prescribed procedures, equipment and resources | | Advisory Councils | | 172. Advisory councils | | Report to Parliament | | 173. Review and report by Minister | | Pollution Prevention Officers | | 174. Designation | | 175. Powers - general | | 176. Assistance to pollution prevention officer | | Detention of Vessels | | 177. Detention | | 178. Interference with service | | 179. Direction to move a detained vessel | | Response Measures | | 180. Minister may take necessary measures | | 181. Civil or criminal liability | | Regulations | | 182. Regulations | | Offences and Punishment | | 183. Contravention of Act | | 184. Contravention of Act or regulations | | PART 9 | | POLLUTION PREVENTION - DEPARTMENT OF TRANSPORT | | Interpretation | | 185. Definitions | | Application | | 186. Application | | Pollution Incidents | | 187. Discharge of pollutant prohibited | | 188. Implementation of oil pollution emergency plan | | Directions to Vessels | | 189. Powers in case of discharge | | Regulations | | 190. Regulations | | Offences and Punishment | | 191. Contravention of Act or regulations | | 192. Contravention of directions | | 193. Court orders | | PART 10 | | PLEASURE CRAFT | | Interpretation | | 194. Definitions | | Inspections | | 195. Designation | | 196. Designation | | 197. Manufacturers and importers | | 198. Powers | | 199. Operation prohibited | | Investigations | | 200. Stopping and boarding vessels | | Safe Operation of Pleasure Craft | | 201. Duty | | Pleasure Craft Licences | | 202. Licensing of pleasure craft | | 203. Application | | 204. Licence number | | 205. Defacing, etc., licence number | | 206. Lost documents | | Regulations | | 207. Regulations | | Offences and Punishment | | 208. Contravention of Act | | 209. Contravention of Act or regulations | | PART 11 | | ENFORCEMENT - DEPARTMENT OF TRANSPORT | | Interpretation | | 210. Definitions | | Inspections | | 211. Authorized persons and organizations | | 212. Seizure | | Clearance | | 213. No departure without clearance | | 214. Granting clearance | | Voyage with a Person on Board without Their Consent | | 215. Prohibition | | Reporting of Alleged Contraventions | | 216. Reasonable grounds | | 217. Inspection | | 218. Prohibition | | Investigations | | 219. Investigations | | 220. Search and seizure without warrant | | Analysis and Examination | | 221. Submission | | Detention of Vessels | | 222. Optional detention | | 223. Interference with service | | 224. Direction to move a detained vessel | | Sale of Vessels | | 225. Distress on vessel for sums ordered to be paid | | 226. Abandoned vessels | | Foreign Vessels in Contravention of International Conventions | | 227. Minister's powers | | Administrative Penalties | | Interpretation | | 228. Definition of ``violation'' | | Assurances of Compliance and Notices of Violation | | 229. If reasonable grounds to believe a violation | | 230. Deemed violation | | 231. When assurance of compliance complied with | | 232. Notice of violation | | Choice of Proceedings | | 233. How contravention may be proceeded with | | Recovery of Debts | | 234. Debts due to Her Majesty | | 235. Certificate of default | | Rules of Law about Violations | | 236. Violations are not offences | | 237. Common law principles | | 238. Vicarious liability - Canadian maritime document holders | | General Provisions | | 239. Notations removed | | 240. Disclosure of notations of violations | | 241. Limitation period | | 242. Certificate of Minister | | 243. When compliance agreement in effect | | Regulations | | 244. Regulations | | Offences and Punishment | | 245. Contravention of Act | | 246. Contravention of Act or regulations | | PART 12 | | MISCELLANEOUS | | Goods | | 247. Definition of ``carrier'' | | 248. Carrier's lien | | 249. Sale or other disposition of goods | | 250. Responsibility for goods | | Stevedoring | | 251. Actions in rem | | Proof of Offences by Vessels | | 252. Proof of offence | | Offences | | 253. Damage to environment and risk of death or harm to persons | | Due Diligence | | 254. Persons | | Prohibitions on Conviction | | 255. Court order | | Summary Conviction Proceedings | | 256. Limitation period | | Jurisdiction | | 257. Jurisdiction in case of offences | | 258. Jurisdiction over vessels lying off coasts | | Damage Occasioned by Foreign Vessels | | 259. Power to detain foreign vessel that has caused damage | | Defence | | 260. Defence available in certain cases | | Depositions in Legal Proceedings | | 261. Depositions received when witness cannot be produced | | Procedure | | 262. Examination of persons before trial | | 263. No stay of proceedings without order | | 264. Jurisdiction | | 265. Documents admissible in evidence | | 266. Admissibility of documents in evidence | | 267. Document entries as proof | | Application of Fines | | 268. Paid to Receiver General | | State of War or Armed Conflict | | 269. Prohibition of shipment of articles of war | | PART 13 | | TRANSITIONAL | | 270. Decisions that cease to have effect | | 271. Acquired rights - registered vessels | | 272. Acquired rights - licensed vessels | | 273. Certificates remain in force | | 274. Regulations remain in force | | PART 14 | | CONSEQUENTIAL AND COORDINATING AMENDMENTS | | Consequential Amendments | | 275. Bank Act | | 276-279. Canada Marine Act | | 280. Canada-Newfoundland Atlantic Accord Implementation Act | | 281. Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act | | 282. Canada Transportation Act | | 283. Canadian Environmental Protection Act, 1999 | | 284. Canadian Transportation Accident Investigation and Safety Board Act | | 285. Carriage of Goods by Water Act | | 286. Citizenship Act | | 287-288. Coastal Fisheries Protection Act | | 289-292. Coasting Trade Act | | 293. Contraventions Act | | 294. Criminal Code | | 295-298. Crown Liability and Proceedings Act | | 299. Customs Act | | 300-302. Fisheries Act | | 303. Great Lakes Fisheries Convention Act | | 304. Health of Animals Act | | 305. Canada Labour Code | | 306. Marine Transportation Security Act | | 307-310. Merchant Seamen Compensation Act | | 311. National Defence Act | | 312. Non-smokers' Health Act | | 313. Northwest Territories Waters Act | | 314. Nuclear Safety and Control Act | | 315. Canada Oil and Gas Operations Act | | 316-318. Pilotage Act | | 319-320. Canada Shipping Act | | 321. Yukon Waters Act | | Coordinating Amendments | | 322. Bill C-10 | | 323. Bill C-11 | | 324. Bill S-2 | | PART 15 | | AMENDMENTS TO THE SHIPPING CONFERENCES EXEMPTION ACT, 1987 | | 325-330. Amendments | | PART 16 | | AMENDMENTS TO THE CANADIAN ENVIRONMENTAL PROCTECTION ACT, 1999 | | 331. Amendments | | PART 17 | | REPEALS AND COMING INTO FORCE | | Repeals | | 332-333. Repeals | | Coming into Force | | 334. Coming into force | | SCHEDULES 1 TO 3 |
+| TABLE OF PROVISIONS | | --- | | AN ACT RESPECTING SHIPPING AND NAVIGATION AND TO AMEND THE SHIPPING CONFERENCES EXEMPTION ACT, 1987 AND OTHER ACTS | | SHORT TITLE | | 1. Short title | | --- | | INTERPRETATION | | 2. Definitions | | 3. Descriptive cross-references | | 4. Regulations | | PART 1 | | GENERAL | | Her Majesty | | 5. Binding on Her Majesty | | Objectives | | 6. Objectives of Act | | Application | | 7. Exclusion | | 8. Application of this Part | | Ministerial Responsibility | | 9. Role of Minister of Transport | | Powers of Ministers | | 10. General | | Inspections by Marine Safety Inspectors and Others | | 11. Appointment of marine safety inspectors | | 12. Authorizing others to inspect | | 13. Audit | | Authorized Representative | | 14. Authorized representative | | Adjudicators | | 15. Appointment | | Canadian Maritime Documents | | 16. Application | | 17. Period of validity | | 18. Production of document | | 19. Lost documents | | 20. Suspension, cancellation and refusal to renew | | Other Documents | | 21. Issuance of documents to foreign vessels | | 22. Foreign documents | | General Prohibitions | | 23. Destruction of documents, fraud, obstruction and movement of detained vessel | | Tonnage Measurers | | 24. Appointment of tonnage measurers | | 25. Fees and travel expenses | | Marine Technical Review Board | | 26. Establishment | | 27. Striking panels | | 28. Application | | International Conventions, Protocols and Resolutions | | 29. Schedule 1 | | 30. Additions to Schedule 1 or 2 | | 31. Deletions from Schedule 1 or 2 | | Incorporation by Reference | | 32. Externally produced material | | 33. Defence | | Orders and Directions | | 34. In writing | | Regulations | | 35. Regulations - Minister of Transport | | Fees | | 36. Debt due to Her Majesty | | Offences and Punishment | | 37. Contravention of section 23 | | 38. Contravention of regulations made under par. 35(1)(d) or (3)(a) | | 39. Contravention of Act | | 40. Contravention of Act or regulations | | PART 2 | | REGISTRATION, LISTING AND RECORDING | | Interpretation | | 41. Definition of ``Minister'' | | Canadian Register of Vessels and Registrars | | 42. Appointment of Chief Registrar | | 43. Duties and powers of Chief Registrar | | 44. Registrars | | 45. Immunity | | Registration, Listing and Recording | | 46. Mandatory registration of vessels | | 47. Optional registration | | 48. Bare-boat chartered vessels | | 49. Vessels under construction | | 50. Vessels built outside Canada | | Application | | 51. Application | | Names of Vessels | | 52. Before registration or listing | | Ownership of Vessels | | 53. Shares | | Certificates | | 54. Certificates of registry | | 55. Provisional certificates | | 56. Lost certificates | | Marking | | 57. Marking | | Notifying Chief Registrar | | 58. Notification of changes | | Maintenance of Register | | 59. Amendments | | Suspension, Cancellation and Reinstatement of Registration | | 60. Suspension and cancellation | | 61. Registration of mortgages not affected | | 62. Reinstatement | | Custody of Certificates of Registry and Provisional Certificates | | 63. Carrying on board | | Rights and Obligations | | 64. Right to fly Canadian flag | | Mortgages | | 65. Mortgage of vessel or share | | 66. Entry of discharge of mortgage | | 67. Priority of mortgages | | 68. Mortgagee not treated as owner | | 69. Mortgagee has power of sale | | 70. Mortgage not affected by bankruptcy | | 71. Transfer of mortgages | | 72. Transmission of interest of mortgagee | | Transfers of Vessels or Shares in Vessels | | 73. Transfer | | 74. Order for sale on acquisition by an unqualified person | | 75. Power of court to prohibit transfer | | Entries | | 76. Copies of entries | | Regulations | | 77. Regulations | | Offences and Punishment | | 78. Contravention of Act or regulations | | 79. Contravention of Act or regulations | | PART 3 | | PERSONNEL | | Interpretation | | 80. Definition of ``Minister'' | | Application | | 81. Canadian vessels | | Masters | | 82. Presentation of documents | | 83. Detention of persons | | Stowaways and Other Persons | | 84. Liable for discipline | | Contract of Employment | | 85. Masters' contracts | | Liens and Claims | | 86. Liens | | Certificates | | 87. Positions on board Canadian vessels | | 88. Eligibility | | 89. Acceptance of foreign certificates | | Medical or Optometric Information | | 90. Minister to be provided with information | | Articles of Agreement, Discharge and Record of Sea Service | | 91. Articles of agreement | | 92. Discharge | | 93. Record of sea service | | Return of Crew Members | | 94. Return and payment of expenses | | 95. Desertion or serious violation of contract | | Births and Deaths | | 96. Informing province | | 97. Death of crew member | | Obligation of Persons Who Provide Crew Members | | 98. If an agreement to provide crew members | | Resolution of Disputes | | 99. Adjudication by Minister | | Regulations | | 100. Regulations | | Offences and Punishment | | 101. Contravention of Act or regulations | | 102. Contravention of Act | | 103. Contravention of Act or regulations | | PART 4 | | SAFETY | | Interpretation | | 104. Definition of ``Minister'' | | Application | | 105. Canadian vessels and foreign vessels | | Authorized Representatives | | 106. General duties | | Masters | | 107. Obtaining Canadian maritime documents | | 108. Exemptions | | 109. Safety of persons | | 110. Carrying excess number of persons | | 111. Compliance with directions | | 112. Information to be sent respecting dangers to navigation | | Crew | | 113. Carrying out duties and reporting | | 114. Compliance with directions | | Passengers | | 115. Compliance with directions | | Authorized Representatives, Masters, Crew Members and Other Persons | | 116. When boarding a vessel prohibited | | 117. Tampering and vandalism | | 118. Jeopardizing safety | | Construction of Vessels | | 119. In accordance with plans | | Regulations | | 120. Regulations | | Offences and Punishment | | 121. Contravention of Act or regulations | | 122. Contravention of subsection 110(2) | | 123. Contravention of Act | | 124. When compliance agreement in effect | | PART 5 | | NAVIGATION SERVICES | | Interpretation | | 125. Definitions | | Vessel Traffic Services | | 126. Entering, leaving or proceeding within a VTS Zone | | 127. Variations from requirements or conditions | | Aids to Navigation | | 128. Aids to navigation vest in Her Majesty | | 129. Obligation to report damage | | Search and Rescue | | 130. Designation of rescue coordinators | | 131. Answering distress signal | | 132. Assistance | | 133. Aircraft treated as if vessel | | Sable and St. Paul Islands | | 134. Presence on Islands | | Enforcement | | 135. Designation | | Regulations | | 136. Regulations | | Offences and Punishment | | 137. Contravention of Act | | 138. Contravention of Act or regulations | | 139. Contravention of section 134 | | PART 6 | | INCIDENTS, ACCIDENTS AND CASUALTIES | | Interpretation | | 140. Definitions | | Application | | 141. Vessels | | Salvage | | International Convention on Salvage, 1989 | | 142. Salvage Convention | | Salvage by Crown Vessels | | 143. When salvage services may be claimed | | 144. Governor in Council may accept offers of settlement | | Limitation of Time for Salvage Proceedings | | 145. Proceedings within two years | | Aircraft | | 146. Aircraft treated as if vessel | | Rights Not Affected | | 147. Salvage | | Obligations in Case of Collisions | | 148. Duty of masters in collision | | Inquiry into Causes of Death | | 149. Inquiry into cause of death on board | | Regulations | | 150. Regulations - Minister | | Offences and Punishment | | 151. Contravention of paragraph 148(a) or the regulations | | 152. Contravention of Act or regulations | | PART 7 | | WRECK | | Interpretation | | 153. Definitions | | Designation of Receivers of Wreck | | 154. Designation | | Found Wreck | | 155. Duty of persons taking possession of wreck | | 156. Salvage award | | 157. Prohibition | | 158. Delivery of wreck or proceeds of disposition | | 159. Interpleader in case of wreck | | Disposition of Wreck | | 160. When wreck may be disposed of | | 161. Unpaid salvage, fees, expenses | | 162. Release of wreck | | Regulations | | 163. Regulations - Minister | | Offences and Punishment | | 164. Contravention of Act or regulations | | PART 8 | | POLLUTION PREVENTION AND RESPONSE - DEPARTMENT OF FISHERIES AND OCEANS | | Interpretation | | 165. Definitions | | Application | | 166. Application | | Discharges of Oil | | 167. Vessels - requirements | | 168. Oil handling facilities - requirements | | Response Organizations | | 169. Certificate of designation | | 170. Statement of fees | | 171. Prescribed procedures, equipment and resources | | Advisory Councils | | 172. Advisory councils | | Report to Parliament | | 173. Review and report by Minister | | Pollution Prevention Officers | | 174. Designation | | 175. Powers - general | | 176. Assistance to pollution prevention officer | | Detention of Vessels | | 177. Detention | | 178. Interference with service | | 179. Direction to move a detained vessel | | Response Measures | | 180. Minister may take necessary measures | | 181. Civil or criminal liability | | Regulations | | 182. Regulations | | Offences and Punishment | | 183. Contravention of Act | | 184. Contravention of Act or regulations | | PART 9 | | POLLUTION PREVENTION - DEPARTMENT OF TRANSPORT | | Interpretation | | 185. Definitions | | Application | | 186. Application | | Pollution Incidents | | 187. Discharge of pollutant prohibited | | 188. Implementation of oil pollution emergency plan | | Directions to Vessels | | 189. Powers in case of discharge | | Regulations | | 190. Regulations | | Offences and Punishment | | 191. Contravention of Act or regulations | | 192. Contravention of directions | | 193. Court orders | | PART 10 | | PLEASURE CRAFT | | Interpretation | | 194. Definitions | | Inspections | | 195. Designation | | 196. Designation | | 197. Manufacturers and importers | | 198. Powers | | 199. Operation prohibited | | Investigations | | 200. Stopping and boarding vessels | | Safe Operation of Pleasure Craft | | 201. Duty | | Pleasure Craft Licences | | 202. Licensing of pleasure craft | | 203. Application | | 204. Licence number | | 205. Defacing, etc., licence number | | 206. Lost documents | | Regulations | | 207. Regulations | | Offences and Punishment | | 208. Contravention of Act | | 209. Contravention of Act or regulations | | PART 11 | | ENFORCEMENT - DEPARTMENT OF TRANSPORT | | Interpretation | | 210. Definitions | | Inspections | | 211. Authorized persons and organizations | | 212. Seizure | | Clearance | | 213. No departure without clearance | | 214. Granting clearance | | Voyage with a Person on Board without Their Consent | | 215. Prohibition | | Reporting of Alleged Contraventions | | 216. Reasonable grounds | | 217. Inspection | | 218. Prohibition | | Investigations | | 219. Investigations | | 220. Search and seizure without warrant | | Analysis and Examination | | 221. Submission | | Detention of Vessels | | 222. Optional detention | | 223. Interference with service | | 224. Direction to move a detained vessel | | Sale of Vessels | | 225. Distress on vessel for sums ordered to be paid | | 226. Abandoned vessels | | Foreign Vessels in Contravention of International Conventions | | 227. Minister's powers | | Administrative Penalties | | Interpretation | | 228. Definition of ``violation'' | | Assurances of Compliance and Notices of Violation | | 229. If reasonable grounds to believe a violation | | 230. Deemed violation | | 231. When assurance of compliance complied with | | 232. Notice of violation | | Choice of Proceedings | | 233. How contravention may be proceeded with | | Recovery of Debts | | 234. Debts due to Her Majesty | | 235. Certificate of default | | Rules of Law about Violations | | 236. Violations are not offences | | 237. Common law principles | | 238. Vicarious liability - Canadian maritime document holders | | General Provisions | | 239. Notations removed | | 240. Disclosure of notations of violations | | 241. Limitation period | | 242. Certificate of Minister | | 243. When compliance agreement in effect | | Regulations | | 244. Regulations | | Offences and Punishment | | 245. Contravention of Act | | 246. Contravention of Act or regulations | | PART 12 | | MISCELLANEOUS | | Goods | | 247. Definition of ``carrier'' | | 248. Carrier's lien | | 249. Sale or other disposition of goods | | 250. Responsibility for goods | | Stevedoring | | 251. Actions in rem | | Proof of Offences by Vessels | | 252. Proof of offence | | Offences | | 253. Damage to environment and risk of death or harm to persons | | Due Diligence | | 254. Persons | | Prohibitions on Conviction | | 255. Court order | | Summary Conviction Proceedings | | 256. Limitation period | | Jurisdiction | | 257. Jurisdiction in case of offences | | 258. Jurisdiction over vessels lying off coasts | | Damage Occasioned by Foreign Vessels | | 259. Power to detain foreign vessel that has caused damage | | Defence | | 260. Defence available in certain cases | | Depositions in Legal Proceedings | | 261. Depositions received when witness cannot be produced | | Procedure | | 262. Examination of persons before trial | | 263. No stay of proceedings without order | | 264. Jurisdiction | | 265. Documents admissible in evidence | | 266. Admissibility of documents in evidence | | 267. Document entries as proof | | Application of Fines | | 268. Paid to Receiver General | | 268.1 Crown not relieved | | State of War or Armed Conflict | | 269. Prohibition of shipment of articles of war | | PART 13 | | TRANSITIONAL | | 270. Decisions that cease to have effect | | 271. Acquired rights - registered vessels | | 272. Acquired rights - licensed vessels | | 273. Certificates remain in force | | 274. Regulations remain in force | | PART 14 | | CONSEQUENTIAL AND COORDINATING AMENDMENTS | | Consequential Amendments | | 275. Bank Act | | 276-279. Canada Marine Act | | 280. Canada-Newfoundland Atlantic Accord Implementation Act | | 281. Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act | | 282. Canada Transportation Act | | 283. Canadian Environmental Protection Act, 1999 | | 284. Canadian Transportation Accident Investigation and Safety Board Act | | 285. Carriage of Goods by Water Act | | 286. Citizenship Act | | 287-288. Coastal Fisheries Protection Act | | 289-292. Coasting Trade Act | | 293. Contraventions Act | | 294. Criminal Code | | 295-298. Crown Liability and Proceedings Act | | 299. Customs Act | | 300-302. Fisheries Act | | 303. Great Lakes Fisheries Convention Act | | 304. Health of Animals Act | | 305. Canada Labour Code | | 306. Marine Transportation Security Act | | 307-310. Merchant Seamen Compensation Act | | 311. National Defence Act | | 312. Non-smokers' Health Act | | 313. Northwest Territories Waters Act | | 314. Nuclear Safety and Control Act | | 315. Canada Oil and Gas Operations Act | | 316-318. Pilotage Act | | 319-320. Canada Shipping Act | | 321. Yukon Waters Act | | Coordinating Amendments | | 322. Bill C-10 | | 323. Bill C-11 | | 324. Bill S-2 | | PART 15 | | AMENDMENTS TO THE SHIPPING CONFERENCES EXEMPTION ACT, 1987 | | 325-330. Amendments | | PART 16 | | AMENDMENTS TO THE CANADIAN ENVIRONMENTAL PROCTECTION ACT, 1999 | | 331. Amendments | | PART 17 | | REPEALS AND COMING INTO FORCE | | Repeals | | 332-333. Repeals | | Coming into Force | | 334. Coming into force | | SCHEDULES 1 TO 3 |
