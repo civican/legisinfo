@@ -1,13 +1,10 @@
 COVER
 
-| C-15 |  | C-15 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-15 |  | PROJET DE LOI C-15 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 21 |  | LOIS DU CANADA (2004)CHAPITRE 21 |
 | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |
-| AS PASSED BY THE HOUSE OF COMMONSAPRIL 27, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 27 AVRIL 2004 |
-| 90220 |  |  |
+| BILL C-15 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-15 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
@@ -84,11 +81,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -243,22 +241,19 @@ MAINTEXT
 | Repeal |  | 42. The Transfer of Offenders Act, chapter T-15 of the Revised Statutes of Canada, 1985, and any regulation made under it are repealed. |  | 42. La Loi sur le transfèrement des délinquants, chapitre T-15 des Lois révisées du Canada (1985), et ses règlements sont abrogés. |  | Abrogation |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Coming into force |  | 43. This Act, other than section 41, comes into force on a day to be fixed by order of the Governor in Council. |  | 43. La présente loi, à l'exception de l'article 41, entre en vigueur à la date fixée par décret. |  | Entrée en vigueur |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
-Table of ContentsCoverTable of ProvisionsBill C-15short titleinterpretationpurpose and principlesministerconsentcontinued enforcement and adaptationprobationyoung personssentence calculationcompassionate measuresadministrative arrangementsgeneral provisiontransitional provisionconsequential amendmentCorrections and Conditional Release Actreferencescoordinating amendmentrepealcoming into force
+Table of ContentsCoverTable of ProvisionsBill short titleinterpretationpurpose and principlesministerconsentcontinued enforcement and adaptationprobationyoung personssentence calculationcompassionate measuresadministrative arrangementsgeneral provisiontransitional provisionconsequential amendmentCorrections and Conditional Release Actreferencescoordinating amendmentrepealcoming into force
 
-Bill C-15Click here for the entire document. PublicationID : 2331566 Table of ContentsCoverTable of ProvisionsBill C-15short titleinterpretationpurpose and principlesministerconsentcontinued enforcement and adaptationprobationyoung personssentence calculationcompassionate measuresadministrative arrangementsgeneral provisiontransitional provisionconsequential amendmentCorrections and Conditional Release Actreferencescoordinating amendmentrepealcoming into force
+Bill C-15Click here for the entire document. PublicationID : 2331567 Table of ContentsCoverTable of ProvisionsBill short titleinterpretationpurpose and principlesministerconsentcontinued enforcement and adaptationprobationyoung personssentence calculationcompassionate measuresadministrative arrangementsgeneral provisiontransitional provisionconsequential amendmentCorrections and Conditional Release Actreferencescoordinating amendmentrepealcoming into force
 
 COVER
 
-| C-15 |  | C-15 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-15 |  | PROJET DE LOI C-15 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 21 |  | LOIS DU CANADA (2004)CHAPITRE 21 |
 | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |
-| AS PASSED BY THE HOUSE OF COMMONSAPRIL 27, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 27 AVRIL 2004 |
-| 90220 |  |  |
+| BILL C-15 ASSENTED TO 14th MAY, 2004 |  | PROJET DE LOI C-15 SANCTIONNÉ LE 14 MAI 2004 |
 
 INSIDECOVER
 
@@ -333,11 +328,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -446,11 +442,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -559,11 +556,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -672,11 +670,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -785,11 +784,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -898,11 +898,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -1011,11 +1012,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -1124,11 +1126,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -1237,11 +1240,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
@@ -1350,11 +1354,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-15 |  | PROJET DE LOI C-15 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |  |
 |  |  | An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences |  | Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles |  |  |  |  |  |
+|  |  | [Assented to 14th May, 2004] |  | [Sanctionnée le 14 mai 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
 | Short title |  | 1. This Act may be cited as the International Transfer of Offenders Act. |  | 1. Loi sur le transfèrement international des délinquants. |  | Titre abrégé |  |  |  |
