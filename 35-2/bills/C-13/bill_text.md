@@ -7,9 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-13 |  | PROJET DE LOI C-13 |
 | An Act to provide for the establishment and operation of a program to enable certain persons to receive protection in relation to certain inquiries, investigations or prosecutions |  | Loi instaurant un programme de protection pour certaines personnes dans le cadre de certaines enquêtes ou poursuites |
-| first reading, March 8, 1996 |  | première lecture le 8 mars 1996 |
-| NOTE Printed, pursuant to Order made March 4, 1996, in the same form as Bill C-78 of the First Session of the Thirty-fifth Parliament, as amended in committee and/or at the report stage, for the use of the House of Commons at third reading. |  | NOTE Imprimé, conformément à un ordre adopté le 4 mars 1996, dans le même état où était le projet de loi C-78 de la première session de la trente-cinquième législature, tel que modifié en comité et/ou à l'étape du rapport, à l'usage de la Chambre des communes pour l'étape de la troisième lecture. |
-| THE SOLICITOR GENERAL OF CANADA 17954 |  | LE SOLLICITEUR GÉNÉRAL DU CANADA |
+| AS PASSED BY THE HOUSE OF COMMONSMARCH 29, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 29 MARS 1996 |
+| 17954 |  |  |
 
 INSIDECOVER
 
@@ -29,7 +28,7 @@ MAINTEXT
 
 Table of ContentsCoverSummaryBill C-13
 
-Bill C-13Click here for the entire document (16Kb)Table of ContentsCoverSummaryBill C-13
+Bill C-13Click here for the entire document (15Kb)Table of ContentsCoverSummaryBill C-13
 
 COVER
 
@@ -40,9 +39,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-13 |  | PROJET DE LOI C-13 |
 | An Act to provide for the establishment and operation of a program to enable certain persons to receive protection in relation to certain inquiries, investigations or prosecutions |  | Loi instaurant un programme de protection pour certaines personnes dans le cadre de certaines enquêtes ou poursuites |
-| first reading, March 8, 1996 |  | première lecture le 8 mars 1996 |
-| NOTEPrinted, pursuant to Order made March 4, 1996, in the same form as Bill C-78 of the First Session of the Thirty-fifth Parliament, as amended in committee and/or at the report stage, for the use of the House of Commons at third reading. |  | NOTEImprimé, conformément à un ordre adopté le 4 mars 1996, dans le même état où était le projet de loi C-78 de la première session de la trente-cinquième législature, tel que modifié en comité et/ou à l'étape du rapport, à l'usage de la Chambre des communes pour l'étape de la troisième lecture. |
-| THE SOLICITOR GENERAL OF CANADA17954 |  | LE SOLLICITEUR GÉNÉRAL DU CANADA |
+| AS PASSEDBY THE HOUSE OF COMMONSMARCH 29, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 29 MARS 1996 |
+| 17954 |  |  |
 
 INSIDECOVER
 
