@@ -5,7 +5,7 @@ NAVIGATION END
 | house of Commons OF CANADA |  | chambre des communes DU CANADA |
 | BILL C-411 |  | PROJET DE LOI C-411 |
 | An Act to establish Merchant Navy Veterans Day |  | Loi instituant la Journée des anciens combattants de la marine marchande |
-| First reading, March 19, 2003 |  | Première lecture le 19 mars 2003 |
+| AS PASSED BY THE HOUSE OF COMMONS JUNE 12, 2003 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 12 JUIN 2003 |
 
 | Summary | Sommaire |
 | --- | --- |
