@@ -1,4 +1,4 @@
-Bill C-13 PublicationID : 2330881 Table of ContentsSummaryBILL C-13SHORT TITLEEXCISE TAX ACT
+Bill C-13 PublicationID : 2330882 Table of ContentsSummaryBILL C-13SHORT TITLEEXCISE TAX ACT
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -14,8 +14,6 @@ Bill C-13 PublicationID : 2330881 Table of ContentsSummaryBILL C-13SHORT TITLEEX
 |  | (5) Education: ensures that similar vocational training across the country is provided the same exempt treatment regardless of how vocational schools are regulated in each province; exempts from tax vocational training supplied by a government entity or agency; allows suppliers of vocational training to elect to treat that training as taxable where it is provided to registrants that are able to recover the tax by way of input tax credits. |  |
 |  | (6) Electronic Filing: removes the requirement to apply to the Minister of National Revenue for permission to file GST/HST returns electronically (e.g., over the telephone or the Internet) and therefore allows anyone to do so provided they meet the criteria set out by the Minister. |  |
 |  | (7) Miscellaneous Amendments: corrects ambiguities in existing provisions consistent with current industry practice, administrative interpretation and the underlying policy intent. |  |
-|  | EXPLANATORY NOTES |  |
-|  | The explanatory notes relating to this enactment issued by the Minister of Finance provide a detailed explanation of these amendments. |  |
 
 |  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
 | --- | --- |
