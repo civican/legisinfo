@@ -1,13 +1,10 @@
 COVER
 
-| C-11 |  | C-11 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-11 |  | PROJET DE LOI C-11 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 17 |  | LOIS DU CANADA (2004)CHAPITRE 17 |
 | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |
-| AS PASSED BY THE HOUSE OF COMMONSAPRIL 27, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 27 AVRIL 2004 |
-| 90252 |  |  |
+| BILL C-11 ASSENTED TO 6th MAY, 2004 |  | PROJET DE LOI C-11 SANCTIONNÉ LE 6 MAI 2004 |
 
 INSIDECOVER
 
@@ -17,11 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -85,32 +83,30 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
-Table of ContentsCoverBill C-11short titleinterpretationeffect of agreementapplication of other actslegal proceedingsgeneralrelated amendmentsAccess to Information ActLobbyists Registration ActPrivacy Actcoordinating amendmentscoming into force
+Table of ContentsCoverBill short titleinterpretationeffect of agreementapplication of other actslegal proceedingsgeneralrelated amendmentsAccess to Information ActLobbyists Registration ActPrivacy Actcoordinating amendmentscoming into force
 
-Bill C-11Click here for the entire document. PublicationID : 2331557 Table of ContentsCoverBill C-11short titleinterpretationeffect of agreementapplication of other actslegal proceedingsgeneralrelated amendmentsAccess to Information ActLobbyists Registration ActPrivacy Actcoordinating amendmentscoming into force
+Bill C-11Click here for the entire document. PublicationID : 2331558 Table of ContentsCoverBill short titleinterpretationeffect of agreementapplication of other actslegal proceedingsgeneralrelated amendmentsAccess to Information ActLobbyists Registration ActPrivacy Actcoordinating amendmentscoming into force
 
 COVER
 
-| C-11 |  | C-11 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-11 |  | PROJET DE LOI C-11 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 17 |  | LOIS DU CANADA (2004)CHAPITRE 17 |
 | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |
-| AS PASSED BY THE HOUSE OF COMMONSAPRIL 27, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 27 AVRIL 2004 |
-| 90252 |  |  |
+| BILL C-11 ASSENTED TO 6th MAY, 2004 |  | PROJET DE LOI C-11 SANCTIONNÉ LE 6 MAI 2004 |
 
 INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -174,15 +170,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -246,15 +243,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -318,15 +316,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -390,15 +389,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -462,15 +462,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -534,15 +535,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -606,15 +608,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -678,15 +681,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -750,15 +754,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -822,15 +827,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -894,15 +900,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -966,15 +973,16 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 17 |  | CHAPITRE 17 |  |  |  |  |  |
 |  |  | An Act to give effect to the Westbank First Nation Self-Government Agreement |  | Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank |  |  |  |  |  |
+|  |  | [Assented to 6th May, 2004] |  | [Sanctionnée le 6 mai 2004] |  |  |  |  |  |
 | Preamble |  | WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to give effect to the Westbank First Nation Self-Government Agreement; |  | Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank, |  | Préambule |  |  |  |
 |  |  | NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 |  |  | short title |  | titre abrégé |  |  |  |  |  |
@@ -1038,4 +1046,4 @@ MAINTEXT
 |  |  | (a) the Library and Archives of Canada; |  | a) à Bibliothèque et Archives du Canada; |  |  |  |  |  |
 |  |  | coming into force |  | entrée en vigueur |  |  |  |  |  |
 | Order |  | 22. The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council. |  | 22. Les dispositions de la présente loi, à l'exception des articles 20 et 21, entrent en vigueur à la date fixée par décret. |  | Décret |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Public Works and Government Services CanadaOttawa, Ontario K1A 0S5 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Travaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5 |  |  |  |
