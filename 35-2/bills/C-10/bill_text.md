@@ -1,14 +1,10 @@
 COVER
 
-| C-10 |  | C-10 |
+| Second Session, Thirty-fifth Parliament, 45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature, 45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-10 |  | PROJET DE LOI C-10 |
+| STATUTES OF CANADA 1996CHAPTER 3 |  | LOIS DU CANADA (1996)CHAPITRE 3 |
 | An Act to provide borrowing authority for the fiscal year beginning on April 1, 1996 |  | Loi portant pouvoir d'emprunt pour l'exercice 1996-1997 |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 21, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 21 MARS 1996 |
-| 17968 |  |  |
+| ASSENTED TO 28th MARCH, 1996 BILL C-10 |  | SANCTIONNÉE LE 28 MARS 1996 PROJET DE LOI C-10 |
 
 INSIDECOVER
 
@@ -18,29 +14,25 @@ INSIDECOVER
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-10 |  | PROJET DE LOI C-10 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 3 |  | CHAPITRE 3 |  |  |  |  |
 | An Act to provide borrowing authority for the fiscal year beginning on April 1, 1996 |  | Loi portant pouvoir d'emprunt pour l'exercice 1996-1997 |  |  |  |  |
+| [Assented to 28th March, 1996] |  | [Sanctionnée le 28 mars 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 Table of ContentsCoverSummaryBill C-10
 
-Bill C-10Click here for the entire document (14Kb)Table of ContentsCoverSummaryBill C-10
+Bill C-10Click here for the entire document (13Kb)Table of ContentsCoverSummaryBill C-10
 
 COVER
 
-| C-10 |  | C-10 |
+| Second Session, Thirty-fifth Parliament,45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature,45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-10 |  | PROJET DE LOI C-10 |
+| STATUTES OF CANADA 1996CHAPTER 3 |  | LOIS DU CANADA (1996)CHAPITRE 3 |
 | An Act to provide borrowing authority for the fiscal year beginning on April 1, 1996 |  | Loi portant pouvoir d'emprunt pour l'exercice 1996-1997 |
-| AS PASSEDBY THE HOUSE OF COMMONSMARCH 21, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 21 MARS 1996 |
-| 17968 |  |  |
+| ASSENTED TO28th MARCH, 1996BILL C-10 |  | SANCTIONNÉELE 28 MARS 1996PROJET DE LOI C-10 |
 
 INSIDECOVER
 
@@ -54,10 +46,10 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-10 |  | PROJET DE LOI C-10 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 3 |  | CHAPITRE 3 |  |  |  |  |
 | An Act to provide borrowing authority for the fiscal year beginning on April 1, 1996 |  | Loi portant pouvoir d'emprunt pour l'exercice 1996-1997 |  |  |  |  |
+| [Assented to 28th March, 1996] |  | [Sanctionnée le 28 mars 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
