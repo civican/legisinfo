@@ -1,4 +1,4 @@
-Bill C-5R PublicationID : 2330989 Table of ContentsSummaryBILL C-5SHORT TITLEINTERPRETATIONHER MAJESTYPURPOSESCANADIAN ENDANGERED SPECIES CONSERVATION COUNCILADMINISTRATION OF ACTSTEWARDSHIPWILDLIFE SPECIES LISTING PROCESSCommittee on the Status of Endangered Wildlife in CanadaReviews and ReportsList of Wildlife Species at RiskMEASURES TO PROTECT LISTED WILDLIFE SPECIESGeneral ProhibitionsRecovery of Endangered, Threatened and Extirpated SpeciesProtection of Critical HabitatManagement of Species of Special ConcernAgreements and PermitsProject ReviewEmergency OrdersExceptionsENFORCEMENT MEASURESEnforcement OfficersInspectionsDisposition of Things SeizedAssistance to Enforcement OfficersInvestigationsOFFENCES AND PUNISHMENTALTERNATIVE MEASURESPUBLIC REGISTRYFEES AND CHARGESREPORTS AND REVIEW OF ACTASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULESRELATED AMENDMENTSCanada Wildlife ActCanadian Environmental Assessment ActMigratory Birds Convention Act, 1994Wild Animal and Plant Protection and Interprovincial Trade ActCOMING INTO FORCESCHEDULE 21SCHEDULE 22SCHEDULE 23TABLE OF PROVISIONS
+Bill C-5 PublicationID : 2330990 Table of ContentsSummaryBILL C-5SHORT TITLEINTERPRETATIONHER MAJESTYPURPOSESCANADIAN ENDANGERED SPECIES CONSERVATION COUNCILADMINISTRATION OF ACTSTEWARDSHIP ACTION PLANSTEWARDSHIPWILDLIFE SPECIES LISTING PROCESSCommittee on the Status of Endangered Wildlife in CanadaReviews and ReportsList of Wildlife Species at RiskMEASURES TO PROTECT LISTED WILDLIFE SPECIESGeneral ProhibitionsRecovery of Endangered, Threatened and Extirpated SpeciesProtection of Critical HabitatManagement of Species of Special ConcernAgreements and PermitsProject ReviewEmergency OrdersExceptionsENFORCEMENT MEASURESEnforcement OfficersInspectionsDisposition of Things SeizedAssistance to Enforcement OfficersInvestigationsOFFENCES AND PUNISHMENTALTERNATIVE MEASURESPUBLIC REGISTRYFEES AND CHARGESREPORTS AND REVIEW OF ACTASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULESRELATED AMENDMENTSCanada Wildlife ActCanadian Environmental Assessment ActMigratory Birds Convention Act, 1994Wild Animal and Plant Protection and Interprovincial Trade ActCOORDINATING AMENDMENTCOMING INTO FORCESCHEDULE 1SCHEDULE 2SCHEDULE 3TABLE OF PROVISIONS
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -6,26 +6,26 @@ Bill C-5R PublicationID : 2330989 Table of ContentsSummaryBILL C-5SHORT TITLEINT
 |  | SUMMARY |  |
 |  | The purposes of this enactment are to prevent Canadian indigenous species, subspecies and distinct populations of wildlife from becoming extirpated or extinct, to provide for the recovery of endangered or threatened species, to encourage the management of other species to prevent them from becoming at risk. |  |
 |  | This enactment establishes the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) as an independent body of experts responsible for assessing and identifying species at risk. It provides that COSEWIC's assessments are to be reported to the Minister of the Environment and to the Canadian Endangered Species Conservation Council and it authorizes the Governor in Council to establish by regulation the official list of species at risk based on that process. |  |
-|  | It requires that the best available knowledge be used to define long- and short-term objectives in a recovery strategy for endangered and threatened species and it provides for action plans to identify specific actions. |  |
+|  | It requires that the best available knowledge be used to define long and short-term objectives in a recovery strategy for endangered and threatened species and it provides for action plans to identify specific actions. |  |
 |  | It creates prohibitions to protect listed threatened and endangered species and their critical habitat. |  |
 |  | It recognizes that compensation may be needed to ensure fairness following the imposition of the critical habitat prohibitions. |  |
 |  | It creates a public registry to assist in making documents under the Act more accessible to the public. |  |
 |  | It is consistent with Aboriginal and treaty rights and respects the authority of other federal ministers and provincial governments. |  |
 
-|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
 | --- | --- |
 
-House of Commons of Canada # BILL C-5 An Act respecting the protection of wildlife species at risk in Canada Preamble Recognizing that Canada's natural heritage is an integral part of our national identity and history, wildlife, in all its forms, has value in and of itself and is valued by Canadians for aesthetic, cultural, spiritual, recreational, educational, historical, economic, medical, ecological and scientific reasons, Canadian wildlife species and ecosystems are also part of the world's heritage and the Government of Canada has ratified the United Nations Convention on the Conservation of Biological Diversity, providing legal protection for species at risk will complement existing legislation and will, in part, meet Canada's commitments under that Convention, the Government of Canada is committed to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to a wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty, responsibility for the conservation of wildlife in Canada is shared among the governments in this country and that it is important for them to work cooperatively to pursue the establishment of complementary legislation and programs for the protection and recovery of species at risk in Canada, it is important that there be cooperation between the governments in this country to maintain and strengthen national standards of environmental conservation and that the Government of Canada is committed to the principles set out in intergovernmental agreements respecting environmental conservation, the Canadian Endangered Species Conservation Council is to provide national leadership for the protection of species at risk, including the provision of general direction to the Committee on the Status of Endangered Wildlife in Canada in respect of that Committee's activities and general directions in respect of the development, coordination and implementation of recovery efforts, the roles of the aboriginal peoples of Canada and of wildlife management boards established under land claims agreements in the conservation of wildlife in this country are essential, all Canadians have a role to play in the conservation of wildlife in this country, including the prevention of wildlife species from becoming extirpated or extinct, there will be circumstances under which the cost of conserving species at risk should be shared, the conservation efforts of individual Canadians and communities should be encouraged and supported, stewardship activities contributing to the conservation of wildlife species and their habitat should be supported to prevent species from becoming at risk, community knowledge and interests, including socio-economic interests, should be considered in developing and implementing recovery measures, the traditional knowledge of the aboriginal peoples of Canada should be considered in the assessment of which species may be at risk and in developing and implementing recovery measures, knowledge of wildlife species and ecosystems is critical to their conservation, the habitat of species at risk is key to their conservation, and Canada's protected areas, especially national parks, are vital to the protection and recovery of species at risk, NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Species at Risk Act*. #### INTERPRETATION Definitions **2.** (1) The definitions in this subsection apply in this Act. ``action plan'' « *plan d'action* » ``action plan'' means an action plan included in the public registry under section 50 or 51 and includes any amendment to it included in the public registry under section 52. ``alternative measures'' « *mesures de rechange* » ``alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. ``aquatic species'' « *espèce aquatique* » ``aquatic species'' means a wildlife species that is a fish, as defined in section 2 of the *Fisheries Act*, or a marine plant, as defined in section 47 of that Act. ``Attorney General'' « *procureur général* » ``Attorney General'' means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. ``Canadian Endangered Species Conservation Council'' « *Conseil canadien pour la conservation des espèces en péril* » ``Canadian Endangered Species Conservation Council'' means the Council referred to in subsection 7(1). ``competent minister'' « *ministre compétent* » ``competent minister'' means (*a*) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the *Parks Canada Agency Act*; (*b*) the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (*a*); and (*c*) the Minister of the Environment with respect to all other individuals. ``conveyance' ' « *moyen de transport* » ``conveyance'' means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. ``COSEWIC'' « *COSEPAC* » ``COSEWIC'' means the Committee on the Status of Endangered Wildlife in Canada established by section 14. ``critical habitat'' « *habitat essentiel* » ``critical habitat'' means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species. ``Crown corporation" [*Deleted*] ``emergency order'' « *décret d'urgence* » ``emergency order'' means an order made under section 80. ``endangered species'' « *espèce en voie de disparition* » ``endangered species'' means a wildlife species that is facing imminent extirpation or extinction. ``extirpated species'' « *espèce disparue du pays* » ``extirpated species'' means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land; (*b*) the internal waters of Canada and the territorial sea of Canada; and (*c*) reserves and any other lands that are set apart for the use and benefit of a band under the *Indian Act*, and all waters on and airspace above those reserves and lands. ``habitat'' « *habitat* » ``habitat'' means (*a*) in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced ; and (*b*) in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. ``individual'' « *individu* » ``individual'' means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. ``land claims agreement'' « *accord sur des revendications territoriales* » ``land claims agreement'' means a land claims agreement within the meaning of section 35 of the *Constitution Act, 1982*. ``List'' « *liste* » ``List'' means the List of Wildlife Species at Risk set out in Schedule 1 . ``listed'' « *inscrite* » ``listed'' means listed on the List. ``Minister'' « *ministre* » ``Minister'' means the Minister of the Environment. ``National Aboriginal Council on Species at Risk'' « *Conseil autochtone national sur les espèces en péril* » ``National Aboriginal Council on Species at Risk'' means the Council referred to in subsection 7.1(1). ``offence'' « *infraction* » ``offence'' means an offence under this Act. ``provincial minister'' « *ministre provincial* » ``provincial minister'' means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. ``public registry'' « *registre* » ``public registry'' means the registry established under section 120. ``recovery strategy'' « *programme de rétablissement* » ``recovery strategy'' means a recovery strategy included in the public registry under section 43 or 44, and includes any amendment to it included in the public registry under section 45. ``residence'' « résidence » ``residence'' means a dwelling-place, such as a den, nest or other similar area or a place that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. ``sell'' « *vente* » ``sell'' includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. ``species at risk'' « *espèce en péril* » ``species at risk'' means an extirpated, endangered or threatened species or a species of special concern. ``species of special concern'' « *espèce préoccupante* » ``species of special concern'' means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. ``status report'' « *rapport de situation* » ``status report'' means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. ``territorial minister'' « *ministre territorial* » ``territorial minister'' means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. ``threatened species'' « *espèce menacée* » ``threatened species'' means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. ``treaty'' « *traité* » ``treaty'' means a treaty within the meaning of section 35 of the *Constitution Act, 1982*. ``wildlife management board'' « *conseil de gestion des ressources fauniques* » ``wildlife management board'' means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. ``wildlife species'' « *espèce sauvage* » ``wildlife species'' means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and (*a*) is native to Canada; or (*b*) has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. Deeming (2) For the purposes of the definition ``wildlife species'' in subsection (1), a species, subspecies, variety or geographically or genetically distinct population is, in the absence of evidence to the contrary, presumed to have been present in Canada for at least 50 years. Competent minister (3) A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates. **(4) [*Deleted]*** Aboriginal and treaty rights **3.** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the *Constitution Act, 1982.* Sedentary living organisms **4.** (1) This Act also applies to sedentary living organisms on or under the continental shelf of Canada outside the exclusive economic zone. Meaning of ``sedentary'' (2) For the purpose of subsection (1), a living organism is sedentary if it is, at the harvestable stage, either immobile on or under the seabed or is unable to move except in constant physical contact with the seabed or subsoil.
+House of Commons of Canada # BILL C-5 An Act respecting the protection of wildlife species at risk in Canada Preamble Recognizing that Canada's natural heritage is an integral part of our national identity and history, wildlife, in all its forms, has value in and of itself and is valued by Canadians for aesthetic, cultural, spiritual, recreational, educational, historical, economic, medical, ecological and scientific reasons, Canadian wildlife species and ecosystems are also part of the world's heritage and the Government of Canada has ratified the United Nations Convention on the Conservation of Biological Diversity, providing legal protection for species at risk will complement existing legislation and will, in part, meet Canada's commitments under that Convention, the Government of Canada is committed to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to a wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty, responsibility for the conservation of wildlife in Canada is shared among the governments in this country and that it is important for them to work cooperatively to pursue the establishment of complementary legislation and programs for the protection and recovery of species at risk in Canada, it is important that there be cooperation between the governments in this country to maintain and strengthen national standards of environmental conservation and that the Government of Canada is committed to the principles set out in intergovernmental agreements respecting environmental conservation, the Canadian Endangered Species Conservation Council is to provide national leadership for the protection of species at risk, including the provision of general direction to the Committee on the Status of Endangered Wildlife in Canada in respect of that Committee's activities and general directions in respect of the development, coordination and implementation of recovery efforts, the roles of the aboriginal peoples of Canada and of wildlife management boards established under land claims agreements in the conservation of wildlife in this country are essential, all Canadians have a role to play in the conservation of wildlife in this country, including the prevention of wildlife species from becoming extirpated or extinct, there will be circumstances under which the cost of conserving species at risk should be shared, the conservation efforts of individual Canadians and communities should be encouraged and supported, stewardship activities contributing to the conservation of wildlife species and their habitat should be supported to prevent species from becoming at risk, community knowledge and interests, including socio-economic interests, should be considered in developing and implementing recovery measures, the traditional knowledge of the aboriginal peoples of Canada should be considered in the assessment of which species may be at risk and in developing and implementing recovery measures, knowledge of wildlife species and ecosystems is critical to their conservation, the habitat of species at risk is key to their conservation, and Canada's protected areas, especially national parks, are vital to the protection and recovery of species at risk, NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Species at Risk Act*. #### INTERPRETATION Definitions **2.** (1) The definitions in this subsection apply in this Act. ``action plan'' « *plan d'action* » ``action plan'' means an action plan included in the public registry under subsection 50(3) and includes any amendment to it included in the public registry under section 52. ``alternative measures'' « *mesures de rechange* » ``alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. ``aquatic species'' « *espèce aquatique* » ``aquatic species'' means a wildlife species that is a fish, as defined in section 2 of the *Fisheries Act*, or a marine plant, as defined in section 47 of that Act. ``Attorney General'' « *procureur général* » ``Attorney General'' means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. ``Canadian Endangered Species Conservation Council'' « *Conseil canadien pour la conservation des espèces en péril* » ``Canadian Endangered Species Conservation Council'' means the Council referred to in subsection 7(1). ``competent minister'' « *ministre compétent* » ``competent minister'' means (*a*) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the *Parks Canada Agency Act*; (*b*) the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (*a*); and (*c*) the Minister of the Environment with respect to all other individuals. ``conveyance' ' « *moyen de transport* » ``conveyance'' means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. ``COSEWIC'' « *COSEPAC* » ``COSEWIC'' means the Committee on the Status of Endangered Wildlife in Canada established by section 14. ``critical habitat'' « *habitat essentiel* » ``critical habitat'' means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species. ``emergency order'' « *décret d'urgence* » ``emergency order'' means an order made under section 80. ``endangered- species'' « *espèce en voie de disparition* » ``endangered species'' means a wildlife species that is facing imminent extirpation or extinction. ``extirpated species'' « *espèce disparue du pays* » ``extirpated species'' means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land; (*b*) the internal waters of Canada and the territorial sea of Canada; and (*c*) reserves and any other lands that are set apart for the use and benefit of a band under the *Indian Act*, and all waters on and airspace above those reserves and lands. ``habitat'' « *habitat* » ``habitat'' means (*a*) in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced; and (*b*) in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. ``individual''- « *individu* » ``individual'' means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. ``land claims agreement'' « *accord sur des revendica- tions territoriales* »- ``land claims agreement'' means a land claims agreement within the meaning of section 35 of the *Constitution Act, 1982*. ``List'' « *liste* » ``List'' means the List of Wildlife Species at Risk set out in Schedule 1. ``listed'' « *inscrite* » ``listed'' means listed on the List. ``Minister'' « *ministre* » ``Minister'' means the Minister of the Environment. ``offence'' « *infraction* » ``offence'' means an offence under this Act. ``provincial minister'' « *ministre provincial* » ``provincial minister'' means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. ``public registry'' « *registre* » ``public registry'' means the registry established under section 120. ``recovery strategy'' « *programme de rétablissement* » ``recovery strategy'' means a recovery strategy included in the public registry under subsection 43(2), and includes any amendment to it included in the public registry under section 45. ``residence'' « *résidence* » ``residence'' means a dwelling-place, such as a den, nest or other similar area or place, that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. ``sell'' « *vente* » ``sell'' includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. ``species at risk'' « *espèce en péril* » ``species at risk'' means an extirpated, endangered or threatened species or a species of special concern. ``species of special concern'' « *espèce préoccu- pante* » ``species of special concern'' means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. ``status report'' « *rapport de situation* » ``status report'' means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. ``territorial minister'' « *ministre territorial* » ``territorial minister'' means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. ``threatened species'' « *espèce menacée* » ``threatened species'' means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. ``treaty'' « *traité* » ``treaty'' means a treaty within the meaning of section 35 of the *Constitution Act, 1982*. ``wildlife management board'' « *conseil de gestion des ressources fauniques* » ``wildlife management board'' means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. ``wildlife species'' « *espèce sauvage* » ``wildlife species'' means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and (*a*) is native to Canada; or (*b*) has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. Deeming (2) For the purposes of the definition ``wildlife species'' in subsection (1), a species, subspecies, variety or geographically or genetically distinct population is, in the absence of evidence to the contrary, presumed to have been present in Canada for at least 50 years. Competent minister (3) A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates. Aboriginal and treaty rights **3.** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the *Constitution Act, 1982.* Sedentary living organisms **4.** (1) This Act also applies to sedentary living organisms on or under the continental shelf of Canada outside the exclusive economic zone. Meaning of ``sedentary'' (2) For the purpose of subsection (1), a living organism is sedentary if it is, at the harvestable stage, either immobile on or under the seabed or is unable to move except in constant physical contact with the seabed or subsoil.
 
-|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
 | --- | --- |
 
-House of Commons of Canada # BILL C-5 An Act respecting the protection of wildlife species at risk in Canada Preamble Recognizing that Canada's natural heritage is an integral part of our national identity and history, wildlife, in all its forms, has value in and of itself and is valued by Canadians for aesthetic, cultural, spiritual, recreational, educational, historical, economic, medical, ecological and scientific reasons, Canadian wildlife species and ecosystems are also part of the world's heritage and the Government of Canada has ratified the United Nations Convention on the Conservation of Biological Diversity, providing legal protection for species at risk will complement existing legislation and will, in part, meet Canada's commitments under that Convention, the Government of Canada is committed to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to a wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty, responsibility for the conservation of wildlife in Canada is shared among the governments in this country and that it is important for them to work cooperatively to pursue the establishment of complementary legislation and programs for the protection and recovery of species at risk in Canada, it is important that there be cooperation between the governments in this country to maintain and strengthen national standards of environmental conservation and that the Government of Canada is committed to the principles set out in intergovernmental agreements respecting environmental conservation, the Canadian Endangered Species Conservation Council is to provide national leadership for the protection of species at risk, including the provision of general direction to the Committee on the Status of Endangered Wildlife in Canada in respect of that Committee's activities and general directions in respect of the development, coordination and implementation of recovery efforts, the roles of the aboriginal peoples of Canada and of wildlife management boards established under land claims agreements in the conservation of wildlife in this country are essential, all Canadians have a role to play in the conservation of wildlife in this country, including the prevention of wildlife species from becoming extirpated or extinct, there will be circumstances under which the cost of conserving species at risk should be shared, the conservation efforts of individual Canadians and communities should be encouraged and supported, stewardship activities contributing to the conservation of wildlife species and their habitat should be supported to prevent species from becoming at risk, community knowledge and interests, including socio-economic interests, should be considered in developing and implementing recovery measures, the traditional knowledge of the aboriginal peoples of Canada should be considered in the assessment of which species may be at risk and in developing and implementing recovery measures, knowledge of wildlife species and ecosystems is critical to their conservation, the habitat of species at risk is key to their conservation, and Canada's protected areas, especially national parks, are vital to the protection and recovery of species at risk, NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Species at Risk Act*. #### INTERPRETATION Definitions **2.** (1) The definitions in this subsection apply in this Act. ``action plan'' « *plan d'action* » ``action plan'' means an action plan included in the public registry under section 50 or 51 and includes any amendment to it included in the public registry under section 52. ``alternative measures'' « *mesures de rechange* » ``alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. ``aquatic species'' « *espèce aquatique* » ``aquatic species'' means a wildlife species that is a fish, as defined in section 2 of the *Fisheries Act*, or a marine plant, as defined in section 47 of that Act. ``Attorney General'' « *procureur général* » ``Attorney General'' means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. ``Canadian Endangered Species Conservation Council'' « *Conseil canadien pour la conservation des espèces en péril* » ``Canadian Endangered Species Conservation Council'' means the Council referred to in subsection 7(1). ``competent minister'' « *ministre compétent* » ``competent minister'' means (*a*) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the *Parks Canada Agency Act*; (*b*) the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (*a*); and (*c*) the Minister of the Environment with respect to all other individuals. ``conveyance' ' « *moyen de transport* » ``conveyance'' means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. ``COSEWIC'' « *COSEPAC* » ``COSEWIC'' means the Committee on the Status of Endangered Wildlife in Canada established by section 14. ``critical habitat'' « *habitat essentiel* » ``critical habitat'' means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species. ``Crown corporation" [*Deleted*] ``emergency order'' « *décret d'urgence* » ``emergency order'' means an order made under section 80. ``endangered species'' « *espèce en voie de disparition* » ``endangered species'' means a wildlife species that is facing imminent extirpation or extinction. ``extirpated species'' « *espèce disparue du pays* » ``extirpated species'' means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land; (*b*) the internal waters of Canada and the territorial sea of Canada; and (*c*) reserves and any other lands that are set apart for the use and benefit of a band under the *Indian Act*, and all waters on and airspace above those reserves and lands. ``habitat'' « *habitat* » ``habitat'' means (*a*) in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced ; and (*b*) in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. ``individual'' « *individu* » ``individual'' means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. ``land claims agreement'' « *accord sur des revendications territoriales* » ``land claims agreement'' means a land claims agreement within the meaning of section 35 of the *Constitution Act, 1982*. ``List'' « *liste* » ``List'' means the List of Wildlife Species at Risk set out in Schedule 1 . ``listed'' « *inscrite* » ``listed'' means listed on the List. ``Minister'' « *ministre* » ``Minister'' means the Minister of the Environment. ``National Aboriginal Council on Species at Risk'' « *Conseil autochtone national sur les espèces en péril* » ``National Aboriginal Council on Species at Risk'' means the Council referred to in subsection 7.1(1). ``offence'' « *infraction* » ``offence'' means an offence under this Act. ``provincial minister'' « *ministre provincial* » ``provincial minister'' means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. ``public registry'' « *registre* » ``public registry'' means the registry established under section 120. ``recovery strategy'' « *programme de rétablissement* » ``recovery strategy'' means a recovery strategy included in the public registry under section 43 or 44, and includes any amendment to it included in the public registry under section 45. ``residence'' « résidence » ``residence'' means a dwelling-place, such as a den, nest or other similar area or a place that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. ``sell'' « *vente* » ``sell'' includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. ``species at risk'' « *espèce en péril* » ``species at risk'' means an extirpated, endangered or threatened species or a species of special concern. ``species of special concern'' « *espèce préoccupante* » ``species of special concern'' means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. ``status report'' « *rapport de situation* » ``status report'' means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. ``territorial minister'' « *ministre territorial* » ``territorial minister'' means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. ``threatened species'' « *espèce menacée* » ``threatened species'' means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. ``treaty'' « *traité* » ``treaty'' means a treaty within the meaning of section 35 of the *Constitution Act, 1982*. ``wildlife management board'' « *conseil de gestion des ressources fauniques* » ``wildlife management board'' means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. ``wildlife species'' « *espèce sauvage* » ``wildlife species'' means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and (*a*) is native to Canada; or (*b*) has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. Deeming (2) For the purposes of the definition ``wildlife species'' in subsection (1), a species, subspecies, variety or geographically or genetically distinct population is, in the absence of evidence to the contrary, presumed to have been present in Canada for at least 50 years. Competent minister (3) A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates. **(4) [*Deleted]*** Aboriginal and treaty rights **3.** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the *Constitution Act, 1982.* Sedentary living organisms **4.** (1) This Act also applies to sedentary living organisms on or under the continental shelf of Canada outside the exclusive economic zone. Meaning of ``sedentary'' (2) For the purpose of subsection (1), a living organism is sedentary if it is, at the harvestable stage, either immobile on or under the seabed or is unable to move except in constant physical contact with the seabed or subsoil.
+House of Commons of Canada # BILL C-5 An Act respecting the protection of wildlife species at risk in Canada Preamble Recognizing that Canada's natural heritage is an integral part of our national identity and history, wildlife, in all its forms, has value in and of itself and is valued by Canadians for aesthetic, cultural, spiritual, recreational, educational, historical, economic, medical, ecological and scientific reasons, Canadian wildlife species and ecosystems are also part of the world's heritage and the Government of Canada has ratified the United Nations Convention on the Conservation of Biological Diversity, providing legal protection for species at risk will complement existing legislation and will, in part, meet Canada's commitments under that Convention, the Government of Canada is committed to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to a wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty, responsibility for the conservation of wildlife in Canada is shared among the governments in this country and that it is important for them to work cooperatively to pursue the establishment of complementary legislation and programs for the protection and recovery of species at risk in Canada, it is important that there be cooperation between the governments in this country to maintain and strengthen national standards of environmental conservation and that the Government of Canada is committed to the principles set out in intergovernmental agreements respecting environmental conservation, the Canadian Endangered Species Conservation Council is to provide national leadership for the protection of species at risk, including the provision of general direction to the Committee on the Status of Endangered Wildlife in Canada in respect of that Committee's activities and general directions in respect of the development, coordination and implementation of recovery efforts, the roles of the aboriginal peoples of Canada and of wildlife management boards established under land claims agreements in the conservation of wildlife in this country are essential, all Canadians have a role to play in the conservation of wildlife in this country, including the prevention of wildlife species from becoming extirpated or extinct, there will be circumstances under which the cost of conserving species at risk should be shared, the conservation efforts of individual Canadians and communities should be encouraged and supported, stewardship activities contributing to the conservation of wildlife species and their habitat should be supported to prevent species from becoming at risk, community knowledge and interests, including socio-economic interests, should be considered in developing and implementing recovery measures, the traditional knowledge of the aboriginal peoples of Canada should be considered in the assessment of which species may be at risk and in developing and implementing recovery measures, knowledge of wildlife species and ecosystems is critical to their conservation, the habitat of species at risk is key to their conservation, and Canada's protected areas, especially national parks, are vital to the protection and recovery of species at risk, NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Species at Risk Act*. #### INTERPRETATION Definitions **2.** (1) The definitions in this subsection apply in this Act. ``action plan'' « *plan d'action* » ``action plan'' means an action plan included in the public registry under subsection 50(3) and includes any amendment to it included in the public registry under section 52. ``alternative measures'' « *mesures de rechange* » ``alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. ``aquatic species'' « *espèce aquatique* » ``aquatic species'' means a wildlife species that is a fish, as defined in section 2 of the *Fisheries Act*, or a marine plant, as defined in section 47 of that Act. ``Attorney General'' « *procureur général* » ``Attorney General'' means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. ``Canadian Endangered Species Conservation Council'' « *Conseil canadien pour la conservation des espèces en péril* » ``Canadian Endangered Species Conservation Council'' means the Council referred to in subsection 7(1). ``competent minister'' « *ministre compétent* » ``competent minister'' means (*a*) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the *Parks Canada Agency Act*; (*b*) the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (*a*); and (*c*) the Minister of the Environment with respect to all other individuals. ``conveyance' ' « *moyen de transport* » ``conveyance'' means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. ``COSEWIC'' « *COSEPAC* » ``COSEWIC'' means the Committee on the Status of Endangered Wildlife in Canada established by section 14. ``critical habitat'' « *habitat essentiel* » ``critical habitat'' means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species. ``emergency order'' « *décret d'urgence* » ``emergency order'' means an order made under section 80. ``endangered- species'' « *espèce en voie de disparition* » ``endangered species'' means a wildlife species that is facing imminent extirpation or extinction. ``extirpated species'' « *espèce disparue du pays* » ``extirpated species'' means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land; (*b*) the internal waters of Canada and the territorial sea of Canada; and (*c*) reserves and any other lands that are set apart for the use and benefit of a band under the *Indian Act*, and all waters on and airspace above those reserves and lands. ``habitat'' « *habitat* » ``habitat'' means (*a*) in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced; and (*b*) in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. ``individual''- « *individu* » ``individual'' means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. ``land claims agreement'' « *accord sur des revendica- tions territoriales* »- ``land claims agreement'' means a land claims agreement within the meaning of section 35 of the *Constitution Act, 1982*. ``List'' « *liste* » ``List'' means the List of Wildlife Species at Risk set out in Schedule 1. ``listed'' « *inscrite* » ``listed'' means listed on the List. ``Minister'' « *ministre* » ``Minister'' means the Minister of the Environment. ``offence'' « *infraction* » ``offence'' means an offence under this Act. ``provincial minister'' « *ministre provincial* » ``provincial minister'' means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. ``public registry'' « *registre* » ``public registry'' means the registry established under section 120. ``recovery strategy'' « *programme de rétablissement* » ``recovery strategy'' means a recovery strategy included in the public registry under subsection 43(2), and includes any amendment to it included in the public registry under section 45. ``residence'' « *résidence* » ``residence'' means a dwelling-place, such as a den, nest or other similar area or place, that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. ``sell'' « *vente* » ``sell'' includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. ``species at risk'' « *espèce en péril* » ``species at risk'' means an extirpated, endangered or threatened species or a species of special concern. ``species of special concern'' « *espèce préoccu- pante* » ``species of special concern'' means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. ``status report'' « *rapport de situation* » ``status report'' means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. ``territorial minister'' « *ministre territorial* » ``territorial minister'' means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. ``threatened species'' « *espèce menacée* » ``threatened species'' means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. ``treaty'' « *traité* » ``treaty'' means a treaty within the meaning of section 35 of the *Constitution Act, 1982*. ``wildlife management board'' « *conseil de gestion des ressources fauniques* » ``wildlife management board'' means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. ``wildlife species'' « *espèce sauvage* » ``wildlife species'' means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and (*a*) is native to Canada; or (*b*) has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. Deeming (2) For the purposes of the definition ``wildlife species'' in subsection (1), a species, subspecies, variety or geographically or genetically distinct population is, in the absence of evidence to the contrary, presumed to have been present in Canada for at least 50 years. Competent minister (3) A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates. Aboriginal and treaty rights **3.** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the *Constitution Act, 1982.* Sedentary living organisms **4.** (1) This Act also applies to sedentary living organisms on or under the continental shelf of Canada outside the exclusive economic zone. Meaning of ``sedentary'' (2) For the purpose of subsection (1), a living organism is sedentary if it is, at the harvestable stage, either immobile on or under the seabed or is unable to move except in constant physical contact with the seabed or subsoil.
 
-|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
 | --- | --- |
 
-House of Commons of Canada # BILL C-5 An Act respecting the protection of wildlife species at risk in Canada Preamble Recognizing that Canada's natural heritage is an integral part of our national identity and history, wildlife, in all its forms, has value in and of itself and is valued by Canadians for aesthetic, cultural, spiritual, recreational, educational, historical, economic, medical, ecological and scientific reasons, Canadian wildlife species and ecosystems are also part of the world's heritage and the Government of Canada has ratified the United Nations Convention on the Conservation of Biological Diversity, providing legal protection for species at risk will complement existing legislation and will, in part, meet Canada's commitments under that Convention, the Government of Canada is committed to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to a wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty, responsibility for the conservation of wildlife in Canada is shared among the governments in this country and that it is important for them to work cooperatively to pursue the establishment of complementary legislation and programs for the protection and recovery of species at risk in Canada, it is important that there be cooperation between the governments in this country to maintain and strengthen national standards of environmental conservation and that the Government of Canada is committed to the principles set out in intergovernmental agreements respecting environmental conservation, the Canadian Endangered Species Conservation Council is to provide national leadership for the protection of species at risk, including the provision of general direction to the Committee on the Status of Endangered Wildlife in Canada in respect of that Committee's activities and general directions in respect of the development, coordination and implementation of recovery efforts, the roles of the aboriginal peoples of Canada and of wildlife management boards established under land claims agreements in the conservation of wildlife in this country are essential, all Canadians have a role to play in the conservation of wildlife in this country, including the prevention of wildlife species from becoming extirpated or extinct, there will be circumstances under which the cost of conserving species at risk should be shared, the conservation efforts of individual Canadians and communities should be encouraged and supported, stewardship activities contributing to the conservation of wildlife species and their habitat should be supported to prevent species from becoming at risk, community knowledge and interests, including socio-economic interests, should be considered in developing and implementing recovery measures, the traditional knowledge of the aboriginal peoples of Canada should be considered in the assessment of which species may be at risk and in developing and implementing recovery measures, knowledge of wildlife species and ecosystems is critical to their conservation, the habitat of species at risk is key to their conservation, and Canada's protected areas, especially national parks, are vital to the protection and recovery of species at risk, NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Species at Risk Act*. #### INTERPRETATION Definitions **2.** (1) The definitions in this subsection apply in this Act. ``action plan'' « *plan d'action* » ``action plan'' means an action plan included in the public registry under section 50 or 51 and includes any amendment to it included in the public registry under section 52. ``alternative measures'' « *mesures de rechange* » ``alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. ``aquatic species'' « *espèce aquatique* » ``aquatic species'' means a wildlife species that is a fish, as defined in section 2 of the *Fisheries Act*, or a marine plant, as defined in section 47 of that Act. ``Attorney General'' « *procureur général* » ``Attorney General'' means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. ``Canadian Endangered Species Conservation Council'' « *Conseil canadien pour la conservation des espèces en péril* » ``Canadian Endangered Species Conservation Council'' means the Council referred to in subsection 7(1). ``competent minister'' « *ministre compétent* » ``competent minister'' means (*a*) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the *Parks Canada Agency Act*; (*b*) the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (*a*); and (*c*) the Minister of the Environment with respect to all other individuals. ``conveyance' ' « *moyen de transport* » ``conveyance'' means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. ``COSEWIC'' « *COSEPAC* » ``COSEWIC'' means the Committee on the Status of Endangered Wildlife in Canada established by section 14. ``critical habitat'' « *habitat essentiel* » ``critical habitat'' means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species. ``Crown corporation" [*Deleted*] ``emergency order'' « *décret d'urgence* » ``emergency order'' means an order made under section 80. ``endangered species'' « *espèce en voie de disparition* » ``endangered species'' means a wildlife species that is facing imminent extirpation or extinction. ``extirpated species'' « *espèce disparue du pays* » ``extirpated species'' means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land; (*b*) the internal waters of Canada and the territorial sea of Canada; and (*c*) reserves and any other lands that are set apart for the use and benefit of a band under the *Indian Act*, and all waters on and airspace above those reserves and lands. ``habitat'' « *habitat* » ``habitat'' means (*a*) in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced ; and (*b*) in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. ``individual'' « *individu* » ``individual'' means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. ``land claims agreement'' « *accord sur des revendications territoriales* » ``land claims agreement'' means a land claims agreement within the meaning of section 35 of the *Constitution Act, 1982*. ``List'' « *liste* » ``List'' means the List of Wildlife Species at Risk set out in Schedule 1 . ``listed'' « *inscrite* » ``listed'' means listed on the List. ``Minister'' « *ministre* » ``Minister'' means the Minister of the Environment. ``National Aboriginal Council on Species at Risk'' « *Conseil autochtone national sur les espèces en péril* » ``National Aboriginal Council on Species at Risk'' means the Council referred to in subsection 7.1(1). ``offence'' « *infraction* » ``offence'' means an offence under this Act. ``provincial minister'' « *ministre provincial* » ``provincial minister'' means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. ``public registry'' « *registre* » ``public registry'' means the registry established under section 120. ``recovery strategy'' « *programme de rétablissement* » ``recovery strategy'' means a recovery strategy included in the public registry under section 43 or 44, and includes any amendment to it included in the public registry under section 45. ``residence'' « résidence » ``residence'' means a dwelling-place, such as a den, nest or other similar area or a place that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. ``sell'' « *vente* » ``sell'' includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. ``species at risk'' « *espèce en péril* » ``species at risk'' means an extirpated, endangered or threatened species or a species of special concern. ``species of special concern'' « *espèce préoccupante* » ``species of special concern'' means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. ``status report'' « *rapport de situation* » ``status report'' means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. ``territorial minister'' « *ministre territorial* » ``territorial minister'' means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. ``threatened species'' « *espèce menacée* » ``threatened species'' means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. ``treaty'' « *traité* » ``treaty'' means a treaty within the meaning of section 35 of the *Constitution Act, 1982*. ``wildlife management board'' « *conseil de gestion des ressources fauniques* » ``wildlife management board'' means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. ``wildlife species'' « *espèce sauvage* » ``wildlife species'' means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and (*a*) is native to Canada; or (*b*) has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. Deeming (2) For the purposes of the definition ``wildlife species'' in subsection (1), a species, subspecies, variety or geographically or genetically distinct population is, in the absence of evidence to the contrary, presumed to have been present in Canada for at least 50 years. Competent minister (3) A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates. **(4) [*Deleted]*** Aboriginal and treaty rights **3.** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the *Constitution Act, 1982.* Sedentary living organisms **4.** (1) This Act also applies to sedentary living organisms on or under the continental shelf of Canada outside the exclusive economic zone. Meaning of ``sedentary'' (2) For the purpose of subsection (1), a living organism is sedentary if it is, at the harvestable stage, either immobile on or under the seabed or is unable to move except in constant physical contact with the seabed or subsoil.
+House of Commons of Canada # BILL C-5 An Act respecting the protection of wildlife species at risk in Canada Preamble Recognizing that Canada's natural heritage is an integral part of our national identity and history, wildlife, in all its forms, has value in and of itself and is valued by Canadians for aesthetic, cultural, spiritual, recreational, educational, historical, economic, medical, ecological and scientific reasons, Canadian wildlife species and ecosystems are also part of the world's heritage and the Government of Canada has ratified the United Nations Convention on the Conservation of Biological Diversity, providing legal protection for species at risk will complement existing legislation and will, in part, meet Canada's commitments under that Convention, the Government of Canada is committed to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to a wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty, responsibility for the conservation of wildlife in Canada is shared among the governments in this country and that it is important for them to work cooperatively to pursue the establishment of complementary legislation and programs for the protection and recovery of species at risk in Canada, it is important that there be cooperation between the governments in this country to maintain and strengthen national standards of environmental conservation and that the Government of Canada is committed to the principles set out in intergovernmental agreements respecting environmental conservation, the Canadian Endangered Species Conservation Council is to provide national leadership for the protection of species at risk, including the provision of general direction to the Committee on the Status of Endangered Wildlife in Canada in respect of that Committee's activities and general directions in respect of the development, coordination and implementation of recovery efforts, the roles of the aboriginal peoples of Canada and of wildlife management boards established under land claims agreements in the conservation of wildlife in this country are essential, all Canadians have a role to play in the conservation of wildlife in this country, including the prevention of wildlife species from becoming extirpated or extinct, there will be circumstances under which the cost of conserving species at risk should be shared, the conservation efforts of individual Canadians and communities should be encouraged and supported, stewardship activities contributing to the conservation of wildlife species and their habitat should be supported to prevent species from becoming at risk, community knowledge and interests, including socio-economic interests, should be considered in developing and implementing recovery measures, the traditional knowledge of the aboriginal peoples of Canada should be considered in the assessment of which species may be at risk and in developing and implementing recovery measures, knowledge of wildlife species and ecosystems is critical to their conservation, the habitat of species at risk is key to their conservation, and Canada's protected areas, especially national parks, are vital to the protection and recovery of species at risk, NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Species at Risk Act*. #### INTERPRETATION Definitions **2.** (1) The definitions in this subsection apply in this Act. ``action plan'' « *plan d'action* » ``action plan'' means an action plan included in the public registry under subsection 50(3) and includes any amendment to it included in the public registry under section 52. ``alternative measures'' « *mesures de rechange* » ``alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. ``aquatic species'' « *espèce aquatique* » ``aquatic species'' means a wildlife species that is a fish, as defined in section 2 of the *Fisheries Act*, or a marine plant, as defined in section 47 of that Act. ``Attorney General'' « *procureur général* » ``Attorney General'' means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. ``Canadian Endangered Species Conservation Council'' « *Conseil canadien pour la conservation des espèces en péril* » ``Canadian Endangered Species Conservation Council'' means the Council referred to in subsection 7(1). ``competent minister'' « *ministre compétent* » ``competent minister'' means (*a*) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the *Parks Canada Agency Act*; (*b*) the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (*a*); and (*c*) the Minister of the Environment with respect to all other individuals. ``conveyance' ' « *moyen de transport* » ``conveyance'' means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. ``COSEWIC'' « *COSEPAC* » ``COSEWIC'' means the Committee on the Status of Endangered Wildlife in Canada established by section 14. ``critical habitat'' « *habitat essentiel* » ``critical habitat'' means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species' critical habitat in the recovery strategy or in an action plan for the species. ``emergency order'' « *décret d'urgence* » ``emergency order'' means an order made under section 80. ``endangered- species'' « *espèce en voie de disparition* » ``endangered species'' means a wildlife species that is facing imminent extirpation or extinction. ``extirpated species'' « *espèce disparue du pays* » ``extirpated species'' means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land; (*b*) the internal waters of Canada and the territorial sea of Canada; and (*c*) reserves and any other lands that are set apart for the use and benefit of a band under the *Indian Act*, and all waters on and airspace above those reserves and lands. ``habitat'' « *habitat* » ``habitat'' means (*a*) in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced; and (*b*) in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. ``individual''- « *individu* » ``individual'' means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. ``land claims agreement'' « *accord sur des revendica- tions territoriales* »- ``land claims agreement'' means a land claims agreement within the meaning of section 35 of the *Constitution Act, 1982*. ``List'' « *liste* » ``List'' means the List of Wildlife Species at Risk set out in Schedule 1. ``listed'' « *inscrite* » ``listed'' means listed on the List. ``Minister'' « *ministre* » ``Minister'' means the Minister of the Environment. ``offence'' « *infraction* » ``offence'' means an offence under this Act. ``provincial minister'' « *ministre provincial* » ``provincial minister'' means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. ``public registry'' « *registre* » ``public registry'' means the registry established under section 120. ``recovery strategy'' « *programme de rétablissement* » ``recovery strategy'' means a recovery strategy included in the public registry under subsection 43(2), and includes any amendment to it included in the public registry under section 45. ``residence'' « *résidence* » ``residence'' means a dwelling-place, such as a den, nest or other similar area or place, that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. ``sell'' « *vente* » ``sell'' includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. ``species at risk'' « *espèce en péril* » ``species at risk'' means an extirpated, endangered or threatened species or a species of special concern. ``species of special concern'' « *espèce préoccu- pante* » ``species of special concern'' means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. ``status report'' « *rapport de situation* » ``status report'' means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. ``territorial minister'' « *ministre territorial* » ``territorial minister'' means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. ``threatened species'' « *espèce menacée* » ``threatened species'' means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. ``treaty'' « *traité* » ``treaty'' means a treaty within the meaning of section 35 of the *Constitution Act, 1982*. ``wildlife management board'' « *conseil de gestion des ressources fauniques* » ``wildlife management board'' means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. ``wildlife species'' « *espèce sauvage* » ``wildlife species'' means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and (*a*) is native to Canada; or (*b*) has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. Deeming (2) For the purposes of the definition ``wildlife species'' in subsection (1), a species, subspecies, variety or geographically or genetically distinct population is, in the absence of evidence to the contrary, presumed to have been present in Canada for at least 50 years. Competent minister (3) A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates. Aboriginal and treaty rights **3.** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the *Constitution Act, 1982.* Sedentary living organisms **4.** (1) This Act also applies to sedentary living organisms on or under the continental shelf of Canada outside the exclusive economic zone. Meaning of ``sedentary'' (2) For the purpose of subsection (1), a living organism is sedentary if it is, at the harvestable stage, either immobile on or under the seabed or is unable to move except in constant physical contact with the seabed or subsoil.
 
 |  | HER MAJESTY |  |
 | --- | --- | --- |
@@ -35,46 +35,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -82,7 +78,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -90,25 +86,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -124,46 +120,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -171,7 +163,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -179,25 +171,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -213,46 +205,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -260,7 +248,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -268,25 +256,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -302,46 +290,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -349,7 +333,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -357,25 +341,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -391,46 +375,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -438,7 +418,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -446,25 +426,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -480,46 +460,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -527,7 +503,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -535,25 +511,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -569,46 +545,42 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
 | Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
 | Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
-|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; |  |
-|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk; and |  |
-|  | (c) seek and consider advice and recommendations from the National Aboriginal Council on Species at Risk. |  |
-|  | 7.1 (1) The National Aboriginal Council on Species at Risk consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. |  |
-|  | (2) The role of the National Aboriginal Council on Species at Risk is to provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
 |  | ADMINISTRATION OF ACT |  |
-| Responsibility of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
-| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any government in Canada, any of that minister's powers or functions under this Act, relating to its enforcement . |  |
-| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement and of every annual report must be included in the public registry within 45 days of its completion . |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
 | Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
 | Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
-| Administrativ e agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
-|  | 10.1 Within one year after the coming into force of this Act, the Minister shall establish a national stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. |  |
-|  | 10.2 The National Stewardship Action Plan shall include, but is not limited to, |  |
-|  | (a) a commitment to regularly examine tax treatment and subsidies and to eliminate disincentives for actions taken by persons to protect species at risk; |  |
-|  | (b) a strategy for public education; |  |
-|  | (c) the establishment of mechanisms for sharing information both within and among various levels of governments and between the federal government and other persons; |  |
-|  | (d) the creation of awards and recognition programs; |  |
-|  | (e) methods of collecting and sharing knowledge about species at risk, including local and traditional knowledge; |  |
-|  | (f) the provision of information respecting methods to formalize commitments to land stewardship including land conservation easements, agreements or government programs; |  |
-|  | (g) a commitment to provide technical and scientific support to persons engaged in stewardship activities; and |  |
-|  | (h) a strategy for implementing the consultation provisions under this Act, including the provisions of subsections 48(3) and 66(3). |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
 |  | STEWARDSHIP |  |
-| Conservation agreements - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a species at risk. |  |
-| Contents | (2) The agreement shall provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
-|  | (c) developing and implementing recovery strategies, action plans and management plans; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
 |  | (d) protecting the species' habitat, including its critical habitat; or |  |
 |  | (e) undertaking research projects in support of recovery efforts for the species. |  |
-|  | (3) Any agreement under subsection (1), if it involves any activity that will affect a listed wildlife species, any part of its critical habitat or the residences of its individuals, must benefit the species or be required to enhance its chance of survival in the wild. |  |
-| Conservation agreements - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
 | Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
 |  | (a) monitoring the status of the species; |  |
 |  | (b) developing and implementing education and public awareness programs; |  |
 |  | (c) protecting the species' habitat; and |  |
 |  | (d) preventing the species from becoming a species at risk. |  |
 | Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
-|  | (1.1) At least 60 days before an agreement is concluded under section 8, 10, 11 or 13, the competent minister must make the proposed text of it public by including it in the public registry, and by any other means that the competent minister considers appropriate. |  |
-|  | (1.2) Once the agreement is signed, the competent minister must make it public by including it in the public registry. |  |
 | Provisions to be included | (2) The agreement must specify |  |
 |  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
 |  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
@@ -616,7 +588,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
 |  | WILDLIFE SPECIES LISTING PROCESS |  |
 |  | Committee on the Status of Endangered Wildlife in Canada |  |
-| Establishment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
 | Functions | 15. (1) The functions of COSEWIC are to |  |
 |  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
@@ -624,25 +596,110 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (iii) indicate that the species is not currently at risk; |  |
 |  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
 |  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
-|  | (c.1) indicate in the assessment if the wildlife species migrates across an international boundary of Canada or has a range extending across such a boundary; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
 |  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
 |  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
-| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species , including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
 | Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
 | Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
-| Qualifications of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
 | Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
 | Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
-| Remuneration and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
-|  | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
-| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC , establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
-| Subcommittee s | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
 | Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
-|  | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee shall be appointed by the Minister after consultation with aboriginal organizations. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
 | Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
 |  | (a) the selection of persons to chair its meetings; and |  |
 |  | (b) the meetings and activities of any of its subcommittees. |  |
-| Staff and facilities | 20. The Minister shall provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that are necessary to carry out its functions. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
+| Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
+| Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
+| Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
+| Regulations | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
+| Time for assessment | 23. (1) COSEWIC must assess the status of a wildlife species within one year after it receives a status report on the species, and it must provide reasons for its assessment. |  |
+| Notification of applicant | (2) If the assessment results from an application, COSEWIC must notify the applicant of the assessment and the reasons. |  |
+
+|  | HER MAJESTY |  |
+| --- | --- | --- |
+| Binding on Her Majesty | 5. This Act is binding on Her Majesty in right of Canada or a province. |  |
+|  | PURPOSES |  |
+| Purposes | 6. The purposes of this Act are to prevent wildlife species from being extirpated or becoming extinct, to provide for the recovery of wildlife species that are extirpated, endangered or threatened as a result of human activity and to manage species of special concern to prevent them from becoming endangered or threatened. |  |
+|  | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL |  |
+| Composition | 7. (1) The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory. |  |
+| Role | (2) The role of the Canadian Endangered Species Conservation Council is to |  |
+|  | (a) provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and |  |
+|  | (b) coordinate the activities of the various governments represented on the Council relating to the protection of species at risk. |  |
+|  | ADMINISTRATION OF ACT |  |
+| Responsibi- lity of Minister | 8. (1) The Minister is responsible for the administration of this Act, except in so far as this Act gives responsibility to another minister. |  |
+| Delegation | (2) The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister's powers or functions under this Act, relating to its enforcement. |  |
+| Agreement and reporting obligation | (3) The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister. |  |
+| National Aboriginal Council on Species at Risk | 8.1 The Minister shall establish a Council, to be known as the National Aboriginal Council on Species at Risk, consisting of six representatives of the aboriginal peoples of Canada selected by the Minister based upon recommendations from aboriginal organizations that the Minister considers appropriate. The role of the Council is to |  |
+|  | (a) advise the Minister on the administration of this Act; and |  |
+|  | (b) provide advice and recommendations to the Canadian Endangered Species Conservation Council. |  |
+| Advisory committees to assist Minister | 9. (1) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act. |  |
+| Advisory committees to assist Council | (2) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council's role. |  |
+| Administra- tive agreements | 10. A competent minister may, after consultation with every other competent minister, enter into an agreement with any government in Canada, organization or wildlife management board with respect to the administration of any provision of this Act for which that competent minister has responsibility, including the preparation and implementation of recovery strategies, action plans and management plans. |  |
+|  | STEWARDSHIP ACTION PLAN |  |
+| Stewardship action plan | 10.1 The Minister, after consultation with the Canadian Endangered Species Conservation Council, may establish a stewardship action plan that creates incentives and other measures to support voluntary stewardship actions taken by any government in Canada, organization or person. A copy of the stewardship action plan must be included in the public registry. |  |
+| Contents | 10.2 The stewardship action plan must include, but is not limited to, commitments to |  |
+|  | (a) regularly examine incentives and programs that support actions taken by persons to protect species at risk; |  |
+|  | (b) provide information and increase public awareness about species at risk; |  |
+|  | (c) methods for sharing information about species at risk, including community and aboriginal traditional knowledge, that respect, preserve and maintain knowledge and promote their wider application with the approval of the holders of such knowledge, with other governments and persons; |  |
+|  | (d) create awards and recognition programs; |  |
+|  | (e) provide information respecting programs related to stewardship agreements, land conservation easements and other such agreements; and |  |
+|  | (f) provide information relating to the technical and scientific support available to persons engaged in stewardship activities. |  |
+|  | STEWARDSHIP |  |
+| Conservation agreements - - species at risk | 11. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into a conservation agreement with any government in Canada, organization or person to benefit a species at risk or enhance its survival in the wild. |  |
+| Contents | (2) The agreement must provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, and may include measures with respect to |  |
+|  | (a) monitoring the status of the species; |  |
+|  | (b) developing and implementing education and public awareness programs; |  |
+|  | (c) developing and implementing recovery strategies, actions plans and management plans; |  |
+|  | (d) protecting the species' habitat, including its critical habitat; or |  |
+|  | (e) undertaking research projects in support of recovery efforts for the species. |  |
+| Conservation agreements - - other species | 12. (1) A competent minister may, after consultation with every other competent minister, and with the Canadian Endangered Species Conservation Council or any of its members if he or she considers it appropriate to do so, enter into an agreement with any government in Canada, organization or person to provide for the conservation of a wildlife species that is not a species at risk. |  |
+| Contents | (2) The agreement may provide for the taking of conservation measures and any other measures consistent with the purposes of this Act, including measures with respect to |  |
+|  | (a) monitoring the status of the species; |  |
+|  | (b) developing and implementing education and public awareness programs; |  |
+|  | (c) protecting the species' habitat; and |  |
+|  | (d) preventing the species from becoming a species at risk. |  |
+| Funding agreements | 13. (1) A competent minister may enter into an agreement with any government in Canada, organization or person to provide for the payment of contributions towards the costs of programs and measures for the conservation of wildlife species, including programs and measures under an agreement entered into under subsection 11(1) or 12(1). |  |
+| Provisions to be included | (2) The agreement must specify |  |
+|  | (a) the contribution towards the cost of the program or measure that is payable by any party and the time or times at which any amounts under the agreement will be paid; |  |
+|  | (b) the authority or person who will be responsible for operating and maintaining the program or measure or any part of it; |  |
+|  | (c) the proportions of any revenue from the program or measure that is payable to the parties; and |  |
+|  | (d) the terms and conditions governing the operation and maintenance of the program or measure. |  |
+|  | WILDLIFE SPECIES LISTING PROCESS |  |
+|  | Committee on the Status of Endangered Wildlife in Canada |  |
+| Establish- ment | 14. The Committee on the Status of Endangered Wildlife in Canada is hereby established. |  |
+| Functions | 15. (1) The functions of COSEWIC are to |  |
+|  | (a) assess the status of each wildlife species considered by COSEWIC to be at risk and, as part of the assessment, identify existing and potential threats to the species and |  |
+|  | (i) classify the species as extinct, extirpated, endangered, threatened or of special concern, |  |
+|  | (ii) indicate that COSEWIC does not have sufficient information to classify the species, or |  |
+|  | (iii) indicate that the species is not currently at risk; |  |
+|  | (b) determine when wildlife species are to be assessed, with priority given to those more likely to become extinct; |  |
+|  | (c) conduct a new assessment of the status of species at risk and, if appropriate, reclassify or declassify them; |  |
+|  | (c.1) indicate in the assessment whether the wildlife species migrates across Canada's boundary or has a range extending across Canada's boundary; |  |
+|  | (d) develop and periodically review criteria for assessing the status of wildlife species and for classifying them and recommend the criteria to the Minister and the Canadian Endangered Species Conservation Council; and |  |
+|  | (e) provide advice to the Minister and the Canadian Endangered Species Conservation Council and perform any other functions that the Minister, after consultation with that Council, may assign. |  |
+| Best information and knowledge | (2) COSEWIC must carry out its functions on the basis of the best available information on the biological status of a species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. |  |
+| Treaties and land claims agreements | (3) COSEWIC must take into account any applicable provisions of treaty and land claims agreements when carrying out its functions. |  |
+| Composition | 16. (1) COSEWIC is to be composed of members appointed by the Minister after consultation with the Canadian Endangered Species Conservation Council and with any experts and expert bodies, such as the Royal Society of Canada, that the Minister considers to have relevant expertise. |  |
+| Qualifica- tions of members | (2) Each member must have expertise drawn from a discipline such as conservation biology, population dynamics, taxonomy, systematics or genetics or from community knowledge or aboriginal traditional knowledge of the conservation of wildlife species. |  |
+| Term of appointment | (3) The members are to be appointed to hold office for renewable terms of not more than four years. |  |
+| Not part of the public service of Canada | (4) The members are not, because of being a member, part of the public service of Canada. |  |
+| Remunera- tion and expenses | (5) The members may be paid remuneration and expenses for their services in amounts that the Minister may set. |  |
+| Discretion | (6) Each member of COSEWIC shall exercise his or her discretion in an independent manner. |  |
+| Regulations and guidelines | 17. The Minister may, after consultation with the Canadian Endangered Species Conservation Council and COSEWIC, establish regulations or guidelines respecting the appointment of members and the carrying out of COSEWIC's functions. |  |
+| Subcommit- tees | 18. (1) COSEWIC must establish subcommittees of specialists to assist in the preparation and review of status reports on wildlife species considered to be at risk, including subcommittees specializing in groups of wildlife species and a subcommittee specializing in aboriginal traditional knowledge, and it may establish other subcommittees to advise it or to exercise or perform any of its functions. |  |
+| Membership | (2) Each subcommittee must be presided over by a member of COSEWIC, but the subcommittee may include persons who are not members of COSEWIC. |  |
+| Aboriginal traditional knowledge subcommittee | (3) Subject to subsection (2), the chairperson and members of the aboriginal traditional knowledge subcommittee must be appointed by the Minister after consultation with any aboriginal organization he or she considers appropriate. |  |
+| Rules | 19. COSEWIC may make rules respecting the holding of meetings and the general conduct of its activities, including rules respecting |  |
+|  | (a) the selection of persons to chair its meetings; and |  |
+|  | (b) the meetings and activities of any of its subcommittees. |  |
+| Staff and facilities | 20. The Minister must provide COSEWIC with any professional, technical, secretarial, clerical and other assistance, and any facilities and supplies, that, in his or her opinion, are necessary to carry out its functions. |  |
 | Status reports | 21. (1) COSEWIC's assessment of the status of a wildlife species must be based on a status report on the species that COSEWIC either has had prepared or has received with an application. |  |
 | Content | (2) The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports. |  |
 | Applications | 22. (1) Any person may apply to COSEWIC for an assessment of the status of a wildlife species. |  |
@@ -655,66 +712,53 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
 | Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
 | COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
-|  | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
+| Report on response | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
 | Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
 |  | List of Wildlife Species at Risk |  |
-| Regulations | 27. (1) The List of Wildlife Species at Risk is established in Schedule 1 and sets out extirpated, endangered, species of special concern and threatened species. The Governor in Council may, by regulation, amend the List in accordance with subsections (1.1) and (1.2), and the Minister may, by regulation, amend the List in accordance with subsection (3). |  |
-|  | (1.1) Subject to subsection (3), the Governor in Council, within six months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
+| Power to amend List | 27. (1) The Governor in Council may, on the recommendation of the Minister, by order amend the List in accordance with subsections (1.1) and (1.2) by adding a wildlife species, by reclassifying a listed wildlife species or by removing a listed wildlife species, and the Minister may, by order, amend the List in a similar fashion in accordance with subsection (3). |  |
+| Decision in respect of assessment | (1.1) Subject to subsection (3), the Governor in Council, within nine months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
 |  | (a) accept the assessment and add the species to the List; |  |
-|  | (b) vary the assessment and add the species to the List; |  |
-|  | (c) decide not to add the species to the List; or |  |
-|  | (d) refer the matter back to COSEWIC for further information or consideration. |  |
-|  | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b), (c) or (d), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
+|  | (b) decide not to add the species to the List; or |  |
+|  | (c) refer the matter back to COSEWIC for further information or consideration. |  |
+| Statement of reasons | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b) or (c), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
 | Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
 |  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
 |  | (b) consult the competent minister or ministers; and |  |
 |  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
-|  | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within six months after receiving an assessment of the status of a species by COSEWIC, the Minister shall by regulation amend the List of Wildlife Species at Risk in accordance with COSEWIC's assessment. |  |
-|  | (4) To the extent known, the Minister shall notify all directly affected landowners. |  |
+| Amendment of List by Minister | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within nine months after receiving an assessment of the status of a species by COSEWIC, the Minister shall, by order, amend the List in accordance with COSEWIC's assessment. |  |
 | Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
 | Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
 | Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
-| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment and a copy of the assessment must be included in the public registry. |  |
+| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry. |  |
 | Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
 | Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
-| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any regulation that is made under subsection 27(1) on the basis of that recommendation and the regulation is exempt from the application of section 3 of the Statutory Instruments Act. |  |
-| Review | 30. As soon as possible after a regulation is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the regulation, COSEWIC must |  |
+| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any order that is made under subsection 27(1) on the basis of that recommendation, and the order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+| Review | 30. (1) As soon as possible after an order is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the order, COSEWIC must, in a report in writing to the Minister, |  |
 |  | (a) confirm the classification of the species; |  |
-|  | (b) recommend to the Minister that the species be reclassified; |  |
-|  | (c) recommend to the Minister that the species be removed from the List; or |  |
-|  | (d) within 30 days after making the recommendation mentioned in paragraph (b) or (c), the Minister must include a copy of that recommendation in the public registry. |  |
-| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
+|  | (b) recommend to the Minister that the species be reclassified; or |  |
+|  | (c) recommend to the Minister that the species be removed from the List. |  |
+| Copy of report | (2) Within 30 days after the report is received by the Minister, a copy of the report must be included in the public registry. |  |
+| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(1)(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
 |  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
 |  | General Prohibitions |  |
-| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, except in accordance with an agreement, permit, licence, order or document referred to in section 74 or 75. |  |
+| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species. |  |
 | Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
 | Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
 | Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
 | Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
-| Order | (2) The Governor in Council shall , on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
+| Order | (2) The Governor in Council may, on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
 | Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate provincial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk throughout Canada. |  |
-|  | (3.2) The Minister shall, within the period mentioned in subsection (3.1), place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) are implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event there is no agreement within six months then subsection (3) shall apply. |  |
 | Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
-|  | (a) the appropriate provincial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; and |  |
-|  | (c) the public. |  |
-| Application - certain species in territories | 35. (1) The Governor in Council shall , on the recommendation of the Minister, by order, provide that section 32 applies in each of the territories in respect of a listed species of game. |  |
+|  | (a) the appropriate provincial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board. |  |
+| Application - certain species in territories | 35. (1) Sections 32 and 33 apply in each of the territories in respect of a listed wildlife species only to the extent that the Governor in Council, on the recommendation of the Minister, makes an order providing that they, or any of them, apply. |  |
 | Exception | (2) Subsection (1) does not apply |  |
 |  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
 |  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate territorial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk in each of the territories. |  |
-|  | (3.2) The Minister shall within the period mentioned in subsection (3.1) place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) have been implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event that there is no agreement on the criteria within the time limit set under subsection (3.1), subsections (1) and (3) will apply to the listed species of game. |  |
-|  | (3.5) The Minister shall provide reasons for his or her determination in the public registry. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species or the residences of its individuals. |  |
 | Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
-|  | (a) consult the appropriate territorial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board; and |  |
-|  | (c) consult the public. |  |
+|  | (a) consult the appropriate territorial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board. |  |
 | Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
 |  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
 |  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
@@ -723,10 +767,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Recovery of Endangered, Threatened and Extirpated Species |  |
 |  | Recovery Strategy |  |
 | Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
-|  | (1.1) The competent minister may take any interim measures that he or she considers necessary to protect the wildlife species from the date on which the species is listed to the date on which the recovery strategy is achieved. |  |
-| More than one competent minister | (2) If there is more than one competent minister with respect to the endangered or threatened species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
-|  | (3) [Deleted] |  |
-|  | (4) [Deleted] |  |
+| More than one competent minister | (2) If there is more than one competent minister with respect to the wildlife species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
 | Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
 | Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
 |  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
@@ -738,386 +779,374 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
 | Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
 | Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
-
-|  | Reviews and Reports |  |
-| --- | --- | --- |
-| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
-| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
-| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
-|  | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
-| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
-|  | List of Wildlife Species at Risk |  |
-| Regulations | 27. (1) The List of Wildlife Species at Risk is established in Schedule 1 and sets out extirpated, endangered, species of special concern and threatened species. The Governor in Council may, by regulation, amend the List in accordance with subsections (1.1) and (1.2), and the Minister may, by regulation, amend the List in accordance with subsection (3). |  |
-|  | (1.1) Subject to subsection (3), the Governor in Council, within six months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
-|  | (a) accept the assessment and add the species to the List; |  |
-|  | (b) vary the assessment and add the species to the List; |  |
-|  | (c) decide not to add the species to the List; or |  |
-|  | (d) refer the matter back to COSEWIC for further information or consideration. |  |
-|  | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b), (c) or (d), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
-| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
-|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
-|  | (b) consult the competent minister or ministers; and |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
-|  | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within six months after receiving an assessment of the status of a species by COSEWIC, the Minister shall by regulation amend the List of Wildlife Species at Risk in accordance with COSEWIC's assessment. |  |
-|  | (4) To the extent known, the Minister shall notify all directly affected landowners. |  |
-| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
-| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
-| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
-| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment and a copy of the assessment must be included in the public registry. |  |
-| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
-| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
-| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any regulation that is made under subsection 27(1) on the basis of that recommendation and the regulation is exempt from the application of section 3 of the Statutory Instruments Act. |  |
-| Review | 30. As soon as possible after a regulation is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the regulation, COSEWIC must |  |
-|  | (a) confirm the classification of the species; |  |
-|  | (b) recommend to the Minister that the species be reclassified; |  |
-|  | (c) recommend to the Minister that the species be removed from the List; or |  |
-|  | (d) within 30 days after making the recommendation mentioned in paragraph (b) or (c), the Minister must include a copy of that recommendation in the public registry. |  |
-| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
-|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
-|  | General Prohibitions |  |
-| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, except in accordance with an agreement, permit, licence, order or document referred to in section 74 or 75. |  |
-| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
-| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
-| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
-| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
-| Order | (2) The Governor in Council shall , on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate provincial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk throughout Canada. |  |
-|  | (3.2) The Minister shall, within the period mentioned in subsection (3.1), place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) are implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event there is no agreement within six months then subsection (3) shall apply. |  |
-| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
-|  | (a) the appropriate provincial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; and |  |
-|  | (c) the public. |  |
-| Application - certain species in territories | 35. (1) The Governor in Council shall , on the recommendation of the Minister, by order, provide that section 32 applies in each of the territories in respect of a listed species of game. |  |
-| Exception | (2) Subsection (1) does not apply |  |
-|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
-|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate territorial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk in each of the territories. |  |
-|  | (3.2) The Minister shall within the period mentioned in subsection (3.1) place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) have been implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event that there is no agreement on the criteria within the time limit set under subsection (3.1), subsections (1) and (3) will apply to the listed species of game. |  |
-|  | (3.5) The Minister shall provide reasons for his or her determination in the public registry. |  |
-| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
-|  | (a) consult the appropriate territorial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board; and |  |
-|  | (c) consult the public. |  |
-| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
-|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
-|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
-|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
-| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
-|  | Recovery of Endangered, Threatened and Extirpated Species |  |
-|  | Recovery Strategy |  |
-| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
-|  | (1.1) The competent minister may take any interim measures that he or she considers necessary to protect the wildlife species from the date on which the species is listed to the date on which the recovery strategy is achieved. |  |
-| More than one competent minister | (2) If there is more than one competent minister with respect to the endangered or threatened species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
-|  | (3) [Deleted] |  |
-|  | (4) [Deleted] |  |
-| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
-| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
-|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
-|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
-|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
-|  | (e) any other person or organization that the competent minister considers appropriate. |  |
-| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
-| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
-| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
-| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
-
-|  | Reviews and Reports |  |
-| --- | --- | --- |
-| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
-| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
-| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
-|  | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
-| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
-|  | List of Wildlife Species at Risk |  |
-| Regulations | 27. (1) The List of Wildlife Species at Risk is established in Schedule 1 and sets out extirpated, endangered, species of special concern and threatened species. The Governor in Council may, by regulation, amend the List in accordance with subsections (1.1) and (1.2), and the Minister may, by regulation, amend the List in accordance with subsection (3). |  |
-|  | (1.1) Subject to subsection (3), the Governor in Council, within six months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
-|  | (a) accept the assessment and add the species to the List; |  |
-|  | (b) vary the assessment and add the species to the List; |  |
-|  | (c) decide not to add the species to the List; or |  |
-|  | (d) refer the matter back to COSEWIC for further information or consideration. |  |
-|  | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b), (c) or (d), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
-| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
-|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
-|  | (b) consult the competent minister or ministers; and |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
-|  | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within six months after receiving an assessment of the status of a species by COSEWIC, the Minister shall by regulation amend the List of Wildlife Species at Risk in accordance with COSEWIC's assessment. |  |
-|  | (4) To the extent known, the Minister shall notify all directly affected landowners. |  |
-| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
-| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
-| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
-| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment and a copy of the assessment must be included in the public registry. |  |
-| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
-| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
-| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any regulation that is made under subsection 27(1) on the basis of that recommendation and the regulation is exempt from the application of section 3 of the Statutory Instruments Act. |  |
-| Review | 30. As soon as possible after a regulation is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the regulation, COSEWIC must |  |
-|  | (a) confirm the classification of the species; |  |
-|  | (b) recommend to the Minister that the species be reclassified; |  |
-|  | (c) recommend to the Minister that the species be removed from the List; or |  |
-|  | (d) within 30 days after making the recommendation mentioned in paragraph (b) or (c), the Minister must include a copy of that recommendation in the public registry. |  |
-| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
-|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
-|  | General Prohibitions |  |
-| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, except in accordance with an agreement, permit, licence, order or document referred to in section 74 or 75. |  |
-| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
-| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
-| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
-| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
-| Order | (2) The Governor in Council shall , on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate provincial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk throughout Canada. |  |
-|  | (3.2) The Minister shall, within the period mentioned in subsection (3.1), place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) are implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event there is no agreement within six months then subsection (3) shall apply. |  |
-| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
-|  | (a) the appropriate provincial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; and |  |
-|  | (c) the public. |  |
-| Application - certain species in territories | 35. (1) The Governor in Council shall , on the recommendation of the Minister, by order, provide that section 32 applies in each of the territories in respect of a listed species of game. |  |
-| Exception | (2) Subsection (1) does not apply |  |
-|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
-|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate territorial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk in each of the territories. |  |
-|  | (3.2) The Minister shall within the period mentioned in subsection (3.1) place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) have been implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event that there is no agreement on the criteria within the time limit set under subsection (3.1), subsections (1) and (3) will apply to the listed species of game. |  |
-|  | (3.5) The Minister shall provide reasons for his or her determination in the public registry. |  |
-| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
-|  | (a) consult the appropriate territorial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board; and |  |
-|  | (c) consult the public. |  |
-| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
-|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
-|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
-|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
-| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
-|  | Recovery of Endangered, Threatened and Extirpated Species |  |
-|  | Recovery Strategy |  |
-| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
-|  | (1.1) The competent minister may take any interim measures that he or she considers necessary to protect the wildlife species from the date on which the species is listed to the date on which the recovery strategy is achieved. |  |
-| More than one competent minister | (2) If there is more than one competent minister with respect to the endangered or threatened species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
-|  | (3) [Deleted] |  |
-|  | (4) [Deleted] |  |
-| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
-| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
-|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
-|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
-|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
-|  | (e) any other person or organization that the competent minister considers appropriate. |  |
-| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
-| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
-| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
-| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
-
-|  | Reviews and Reports |  |
-| --- | --- | --- |
-| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
-| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
-| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
-|  | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
-| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
-|  | List of Wildlife Species at Risk |  |
-| Regulations | 27. (1) The List of Wildlife Species at Risk is established in Schedule 1 and sets out extirpated, endangered, species of special concern and threatened species. The Governor in Council may, by regulation, amend the List in accordance with subsections (1.1) and (1.2), and the Minister may, by regulation, amend the List in accordance with subsection (3). |  |
-|  | (1.1) Subject to subsection (3), the Governor in Council, within six months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
-|  | (a) accept the assessment and add the species to the List; |  |
-|  | (b) vary the assessment and add the species to the List; |  |
-|  | (c) decide not to add the species to the List; or |  |
-|  | (d) refer the matter back to COSEWIC for further information or consideration. |  |
-|  | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b), (c) or (d), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
-| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
-|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
-|  | (b) consult the competent minister or ministers; and |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
-|  | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within six months after receiving an assessment of the status of a species by COSEWIC, the Minister shall by regulation amend the List of Wildlife Species at Risk in accordance with COSEWIC's assessment. |  |
-|  | (4) To the extent known, the Minister shall notify all directly affected landowners. |  |
-| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
-| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
-| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
-| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment and a copy of the assessment must be included in the public registry. |  |
-| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
-| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
-| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any regulation that is made under subsection 27(1) on the basis of that recommendation and the regulation is exempt from the application of section 3 of the Statutory Instruments Act. |  |
-| Review | 30. As soon as possible after a regulation is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the regulation, COSEWIC must |  |
-|  | (a) confirm the classification of the species; |  |
-|  | (b) recommend to the Minister that the species be reclassified; |  |
-|  | (c) recommend to the Minister that the species be removed from the List; or |  |
-|  | (d) within 30 days after making the recommendation mentioned in paragraph (b) or (c), the Minister must include a copy of that recommendation in the public registry. |  |
-| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
-|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
-|  | General Prohibitions |  |
-| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, except in accordance with an agreement, permit, licence, order or document referred to in section 74 or 75. |  |
-| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
-| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
-| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
-| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
-| Order | (2) The Governor in Council shall , on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate provincial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk throughout Canada. |  |
-|  | (3.2) The Minister shall, within the period mentioned in subsection (3.1), place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) are implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event there is no agreement within six months then subsection (3) shall apply. |  |
-| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
-|  | (a) the appropriate provincial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; and |  |
-|  | (c) the public. |  |
-| Application - certain species in territories | 35. (1) The Governor in Council shall , on the recommendation of the Minister, by order, provide that section 32 applies in each of the territories in respect of a listed species of game. |  |
-| Exception | (2) Subsection (1) does not apply |  |
-|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
-|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate territorial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk in each of the territories. |  |
-|  | (3.2) The Minister shall within the period mentioned in subsection (3.1) place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) have been implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event that there is no agreement on the criteria within the time limit set under subsection (3.1), subsections (1) and (3) will apply to the listed species of game. |  |
-|  | (3.5) The Minister shall provide reasons for his or her determination in the public registry. |  |
-| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
-|  | (a) consult the appropriate territorial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board; and |  |
-|  | (c) consult the public. |  |
-| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
-|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
-|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
-|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
-| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
-|  | Recovery of Endangered, Threatened and Extirpated Species |  |
-|  | Recovery Strategy |  |
-| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
-|  | (1.1) The competent minister may take any interim measures that he or she considers necessary to protect the wildlife species from the date on which the species is listed to the date on which the recovery strategy is achieved. |  |
-| More than one competent minister | (2) If there is more than one competent minister with respect to the endangered or threatened species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
-|  | (3) [Deleted] |  |
-|  | (4) [Deleted] |  |
-| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
-| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
-|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
-|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
-|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
-|  | (e) any other person or organization that the competent minister considers appropriate. |  |
-| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
-| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
-| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
-| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
-
-|  | Reviews and Reports |  |
-| --- | --- | --- |
-| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
-| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
-| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
-|  | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
-| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
-|  | List of Wildlife Species at Risk |  |
-| Regulations | 27. (1) The List of Wildlife Species at Risk is established in Schedule 1 and sets out extirpated, endangered, species of special concern and threatened species. The Governor in Council may, by regulation, amend the List in accordance with subsections (1.1) and (1.2), and the Minister may, by regulation, amend the List in accordance with subsection (3). |  |
-|  | (1.1) Subject to subsection (3), the Governor in Council, within six months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
-|  | (a) accept the assessment and add the species to the List; |  |
-|  | (b) vary the assessment and add the species to the List; |  |
-|  | (c) decide not to add the species to the List; or |  |
-|  | (d) refer the matter back to COSEWIC for further information or consideration. |  |
-|  | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b), (c) or (d), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
-| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
-|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
-|  | (b) consult the competent minister or ministers; and |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
-|  | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within six months after receiving an assessment of the status of a species by COSEWIC, the Minister shall by regulation amend the List of Wildlife Species at Risk in accordance with COSEWIC's assessment. |  |
-|  | (4) To the extent known, the Minister shall notify all directly affected landowners. |  |
-| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
-| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
-| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
-| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment and a copy of the assessment must be included in the public registry. |  |
-| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
-| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
-| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any regulation that is made under subsection 27(1) on the basis of that recommendation and the regulation is exempt from the application of section 3 of the Statutory Instruments Act. |  |
-| Review | 30. As soon as possible after a regulation is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the regulation, COSEWIC must |  |
-|  | (a) confirm the classification of the species; |  |
-|  | (b) recommend to the Minister that the species be reclassified; |  |
-|  | (c) recommend to the Minister that the species be removed from the List; or |  |
-|  | (d) within 30 days after making the recommendation mentioned in paragraph (b) or (c), the Minister must include a copy of that recommendation in the public registry. |  |
-| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
-|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
-|  | General Prohibitions |  |
-| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, except in accordance with an agreement, permit, licence, order or document referred to in section 74 or 75. |  |
-| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
-| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
-| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
-| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
-| Order | (2) The Governor in Council shall , on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate provincial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk throughout Canada. |  |
-|  | (3.2) The Minister shall, within the period mentioned in subsection (3.1), place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) are implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event there is no agreement within six months then subsection (3) shall apply. |  |
-| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
-|  | (a) the appropriate provincial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; and |  |
-|  | (c) the public. |  |
-| Application - certain species in territories | 35. (1) The Governor in Council shall , on the recommendation of the Minister, by order, provide that section 32 applies in each of the territories in respect of a listed species of game. |  |
-| Exception | (2) Subsection (1) does not apply |  |
-|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
-|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
-| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species. |  |
-|  | (3.1) Within six months of this Act receiving royal assent, the Minister shall, in consultation with the appropriate territorial ministers and other appropriate persons, develop criteria for determining what constitutes ``effective protection'' of species at risk in each of the territories. |  |
-|  | (3.2) The Minister shall within the period mentioned in subsection (3.1) place these criteria in the public registry for a period of 60 days for public comment. |  |
-|  | (3.3) Once the criteria under subsection (3.1) have been implemented, subsections (1) and (2) apply immediately. |  |
-|  | (3.4) In the event that there is no agreement on the criteria within the time limit set under subsection (3.1), subsections (1) and (3) will apply to the listed species of game. |  |
-|  | (3.5) The Minister shall provide reasons for his or her determination in the public registry. |  |
-| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
-|  | (a) consult the appropriate territorial minister; |  |
-|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board; and |  |
-|  | (c) consult the public. |  |
-| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
-|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
-|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
-|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
-| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
-|  | Recovery of Endangered, Threatened and Extirpated Species |  |
-|  | Recovery Strategy |  |
-| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
-|  | (1.1) The competent minister may take any interim measures that he or she considers necessary to protect the wildlife species from the date on which the species is listed to the date on which the recovery strategy is achieved. |  |
-| More than one competent minister | (2) If there is more than one competent minister with respect to the endangered or threatened species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
-|  | (3) [Deleted] |  |
-|  | (4) [Deleted] |  |
-| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
-| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
-|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
-|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
-|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
-|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
-|  | (e) any other person or organization that the competent minister considers appropriate. |  |
-| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
-| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
-| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
-| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
-
 |  | (a) a description of the species and its needs that is consistent with information provided by COSEWIC; |  |
-| --- | --- | --- |
 |  | (b) an identification of the threats to the survival of the species and threats to its habitat that is consistent with information provided by COSEWIC and a description of the broad strategy to be taken to address those threats; |  |
 |  | (c) an identification of the species' critical habitat, to the extent possible, based on the best available information, including the information provided by COSEWIC, and examples of activities that are likely to result in its destruction; |  |
 |  | (c.1) a schedule of studies to identify critical habitat, where available information is inadequate; |  |
-|  | (d) a statement of the population and distribution objectives that will assist for the survival and recovery of the species and a general description of the research and management activities needed to meet those objectives ; |  |
+|  | (d) a statement of the population and distribution objectives that will assist the recovery and survival of the species, and a general description of the research and management activities needed to meet those objectives; |  |
 |  | (e) any other matters that are prescribed by the regulations; |  |
 |  | (f) a statement about whether additional information is required about the species; and |  |
 |  | (g) a statement of when one or more action plans in relation to the recovery strategy will be completed. |  |
 | Contents if recovery not feasible | (2) If the competent minister determines that the recovery of the listed wildlife species is not feasible, the recovery strategy must include a description of the species and its needs, an identification of the species' critical habitat to the extent possible, and the reasons why its recovery is not feasible. |  |
 | Multi-species or ecosystem approach permissible | (3) The competent minister may adopt a multi-species or an ecosystem approach when preparing the recovery strategy if he or she considers it appropriate to do so. |  |
 | Regulations | (4) The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy. |  |
-| Proposed recovery strategy | 42. (1) Subject to subsection (2), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species . |  |
-|  | (2) With respect to wildlife species that are set out in Schedule 1 on the day section 27 comes into force, the competent minister must include a proposed recovery strategy in the public registry within three years after that day, in the case of a wildlife species listed as an endangered species, and within four years after that day, in the case of a wildlife species listed as a threatened species. |  |
-| Comments | 43. (1) Within 60 days after the publication of the proposed recovery strategy in the public registry, any person may file written comments with the competent minister. |  |
+| Proposed recovery strategy | 42. (1) Subject to subsection (2), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+| First listed wildlife species | (2) With respect to wildlife species that are set out in Schedule 1 on the day section 27 comes into force, the competent minister must include a proposed recovery strategy in the public registry within three years after that day, in the case of a wildlife species listed as an endangered species, and within four years after that day, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+
+|  | Reviews and Reports |  |
+| --- | --- | --- |
+| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
+| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
+| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
+| Report on response | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
+| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
+|  | List of Wildlife Species at Risk |  |
+| Power to amend List | 27. (1) The Governor in Council may, on the recommendation of the Minister, by order amend the List in accordance with subsections (1.1) and (1.2) by adding a wildlife species, by reclassifying a listed wildlife species or by removing a listed wildlife species, and the Minister may, by order, amend the List in a similar fashion in accordance with subsection (3). |  |
+| Decision in respect of assessment | (1.1) Subject to subsection (3), the Governor in Council, within nine months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
+|  | (a) accept the assessment and add the species to the List; |  |
+|  | (b) decide not to add the species to the List; or |  |
+|  | (c) refer the matter back to COSEWIC for further information or consideration. |  |
+| Statement of reasons | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b) or (c), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
+| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
+|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
+|  | (b) consult the competent minister or ministers; and |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
+| Amendment of List by Minister | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within nine months after receiving an assessment of the status of a species by COSEWIC, the Minister shall, by order, amend the List in accordance with COSEWIC's assessment. |  |
+| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
+| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
+| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
+| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry. |  |
+| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
+| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
+| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any order that is made under subsection 27(1) on the basis of that recommendation, and the order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+| Review | 30. (1) As soon as possible after an order is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the order, COSEWIC must, in a report in writing to the Minister, |  |
+|  | (a) confirm the classification of the species; |  |
+|  | (b) recommend to the Minister that the species be reclassified; or |  |
+|  | (c) recommend to the Minister that the species be removed from the List. |  |
+| Copy of report | (2) Within 30 days after the report is received by the Minister, a copy of the report must be included in the public registry. |  |
+| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(1)(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
+|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
+|  | General Prohibitions |  |
+| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species. |  |
+| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
+| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
+| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
+| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
+| Order | (2) The Governor in Council may, on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
+| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
+|  | (a) the appropriate provincial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board. |  |
+| Application - certain species in territories | 35. (1) Sections 32 and 33 apply in each of the territories in respect of a listed wildlife species only to the extent that the Governor in Council, on the recommendation of the Minister, makes an order providing that they, or any of them, apply. |  |
+| Exception | (2) Subsection (1) does not apply |  |
+|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
+|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species or the residences of its individuals. |  |
+| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
+|  | (a) consult the appropriate territorial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board. |  |
+| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
+|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
+|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
+|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
+| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
+|  | Recovery of Endangered, Threatened and Extirpated Species |  |
+|  | Recovery Strategy |  |
+| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
+| More than one competent minister | (2) If there is more than one competent minister with respect to the wildlife species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
+| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
+| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
+|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
+|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
+|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
+|  | (e) any other person or organization that the competent minister considers appropriate. |  |
+| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
+| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
+| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
+| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
+|  | (a) a description of the species and its needs that is consistent with information provided by COSEWIC; |  |
+|  | (b) an identification of the threats to the survival of the species and threats to its habitat that is consistent with information provided by COSEWIC and a description of the broad strategy to be taken to address those threats; |  |
+|  | (c) an identification of the species' critical habitat, to the extent possible, based on the best available information, including the information provided by COSEWIC, and examples of activities that are likely to result in its destruction; |  |
+|  | (c.1) a schedule of studies to identify critical habitat, where available information is inadequate; |  |
+|  | (d) a statement of the population and distribution objectives that will assist the recovery and survival of the species, and a general description of the research and management activities needed to meet those objectives; |  |
+|  | (e) any other matters that are prescribed by the regulations; |  |
+|  | (f) a statement about whether additional information is required about the species; and |  |
+|  | (g) a statement of when one or more action plans in relation to the recovery strategy will be completed. |  |
+| Contents if recovery not feasible | (2) If the competent minister determines that the recovery of the listed wildlife species is not feasible, the recovery strategy must include a description of the species and its needs, an identification of the species' critical habitat to the extent possible, and the reasons why its recovery is not feasible. |  |
+| Multi-species or ecosystem approach permissible | (3) The competent minister may adopt a multi-species or an ecosystem approach when preparing the recovery strategy if he or she considers it appropriate to do so. |  |
+| Regulations | (4) The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy. |  |
+| Proposed recovery strategy | 42. (1) Subject to subsection (2), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+| First listed wildlife species | (2) With respect to wildlife species that are set out in Schedule 1 on the day section 27 comes into force, the competent minister must include a proposed recovery strategy in the public registry within three years after that day, in the case of a wildlife species listed as an endangered species, and within four years after that day, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+
+|  | Reviews and Reports |  |
+| --- | --- | --- |
+| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
+| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
+| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
+| Report on response | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
+| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
+|  | List of Wildlife Species at Risk |  |
+| Power to amend List | 27. (1) The Governor in Council may, on the recommendation of the Minister, by order amend the List in accordance with subsections (1.1) and (1.2) by adding a wildlife species, by reclassifying a listed wildlife species or by removing a listed wildlife species, and the Minister may, by order, amend the List in a similar fashion in accordance with subsection (3). |  |
+| Decision in respect of assessment | (1.1) Subject to subsection (3), the Governor in Council, within nine months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
+|  | (a) accept the assessment and add the species to the List; |  |
+|  | (b) decide not to add the species to the List; or |  |
+|  | (c) refer the matter back to COSEWIC for further information or consideration. |  |
+| Statement of reasons | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b) or (c), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
+| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
+|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
+|  | (b) consult the competent minister or ministers; and |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
+| Amendment of List by Minister | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within nine months after receiving an assessment of the status of a species by COSEWIC, the Minister shall, by order, amend the List in accordance with COSEWIC's assessment. |  |
+| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
+| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
+| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
+| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry. |  |
+| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
+| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
+| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any order that is made under subsection 27(1) on the basis of that recommendation, and the order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+| Review | 30. (1) As soon as possible after an order is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the order, COSEWIC must, in a report in writing to the Minister, |  |
+|  | (a) confirm the classification of the species; |  |
+|  | (b) recommend to the Minister that the species be reclassified; or |  |
+|  | (c) recommend to the Minister that the species be removed from the List. |  |
+| Copy of report | (2) Within 30 days after the report is received by the Minister, a copy of the report must be included in the public registry. |  |
+| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(1)(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
+|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
+|  | General Prohibitions |  |
+| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species. |  |
+| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
+| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
+| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
+| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
+| Order | (2) The Governor in Council may, on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
+| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
+|  | (a) the appropriate provincial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board. |  |
+| Application - certain species in territories | 35. (1) Sections 32 and 33 apply in each of the territories in respect of a listed wildlife species only to the extent that the Governor in Council, on the recommendation of the Minister, makes an order providing that they, or any of them, apply. |  |
+| Exception | (2) Subsection (1) does not apply |  |
+|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
+|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species or the residences of its individuals. |  |
+| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
+|  | (a) consult the appropriate territorial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board. |  |
+| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
+|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
+|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
+|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
+| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
+|  | Recovery of Endangered, Threatened and Extirpated Species |  |
+|  | Recovery Strategy |  |
+| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
+| More than one competent minister | (2) If there is more than one competent minister with respect to the wildlife species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
+| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
+| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
+|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
+|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
+|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
+|  | (e) any other person or organization that the competent minister considers appropriate. |  |
+| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
+| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
+| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
+| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
+|  | (a) a description of the species and its needs that is consistent with information provided by COSEWIC; |  |
+|  | (b) an identification of the threats to the survival of the species and threats to its habitat that is consistent with information provided by COSEWIC and a description of the broad strategy to be taken to address those threats; |  |
+|  | (c) an identification of the species' critical habitat, to the extent possible, based on the best available information, including the information provided by COSEWIC, and examples of activities that are likely to result in its destruction; |  |
+|  | (c.1) a schedule of studies to identify critical habitat, where available information is inadequate; |  |
+|  | (d) a statement of the population and distribution objectives that will assist the recovery and survival of the species, and a general description of the research and management activities needed to meet those objectives; |  |
+|  | (e) any other matters that are prescribed by the regulations; |  |
+|  | (f) a statement about whether additional information is required about the species; and |  |
+|  | (g) a statement of when one or more action plans in relation to the recovery strategy will be completed. |  |
+| Contents if recovery not feasible | (2) If the competent minister determines that the recovery of the listed wildlife species is not feasible, the recovery strategy must include a description of the species and its needs, an identification of the species' critical habitat to the extent possible, and the reasons why its recovery is not feasible. |  |
+| Multi-species or ecosystem approach permissible | (3) The competent minister may adopt a multi-species or an ecosystem approach when preparing the recovery strategy if he or she considers it appropriate to do so. |  |
+| Regulations | (4) The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy. |  |
+| Proposed recovery strategy | 42. (1) Subject to subsection (2), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+| First listed wildlife species | (2) With respect to wildlife species that are set out in Schedule 1 on the day section 27 comes into force, the competent minister must include a proposed recovery strategy in the public registry within three years after that day, in the case of a wildlife species listed as an endangered species, and within four years after that day, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+
+|  | Reviews and Reports |  |
+| --- | --- | --- |
+| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
+| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
+| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
+| Report on response | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
+| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
+|  | List of Wildlife Species at Risk |  |
+| Power to amend List | 27. (1) The Governor in Council may, on the recommendation of the Minister, by order amend the List in accordance with subsections (1.1) and (1.2) by adding a wildlife species, by reclassifying a listed wildlife species or by removing a listed wildlife species, and the Minister may, by order, amend the List in a similar fashion in accordance with subsection (3). |  |
+| Decision in respect of assessment | (1.1) Subject to subsection (3), the Governor in Council, within nine months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
+|  | (a) accept the assessment and add the species to the List; |  |
+|  | (b) decide not to add the species to the List; or |  |
+|  | (c) refer the matter back to COSEWIC for further information or consideration. |  |
+| Statement of reasons | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b) or (c), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
+| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
+|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
+|  | (b) consult the competent minister or ministers; and |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
+| Amendment of List by Minister | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within nine months after receiving an assessment of the status of a species by COSEWIC, the Minister shall, by order, amend the List in accordance with COSEWIC's assessment. |  |
+| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
+| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
+| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
+| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry. |  |
+| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
+| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
+| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any order that is made under subsection 27(1) on the basis of that recommendation, and the order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+| Review | 30. (1) As soon as possible after an order is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the order, COSEWIC must, in a report in writing to the Minister, |  |
+|  | (a) confirm the classification of the species; |  |
+|  | (b) recommend to the Minister that the species be reclassified; or |  |
+|  | (c) recommend to the Minister that the species be removed from the List. |  |
+| Copy of report | (2) Within 30 days after the report is received by the Minister, a copy of the report must be included in the public registry. |  |
+| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(1)(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
+|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
+|  | General Prohibitions |  |
+| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species. |  |
+| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
+| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
+| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
+| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
+| Order | (2) The Governor in Council may, on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
+| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
+|  | (a) the appropriate provincial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board. |  |
+| Application - certain species in territories | 35. (1) Sections 32 and 33 apply in each of the territories in respect of a listed wildlife species only to the extent that the Governor in Council, on the recommendation of the Minister, makes an order providing that they, or any of them, apply. |  |
+| Exception | (2) Subsection (1) does not apply |  |
+|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
+|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species or the residences of its individuals. |  |
+| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
+|  | (a) consult the appropriate territorial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board. |  |
+| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
+|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
+|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
+|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
+| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
+|  | Recovery of Endangered, Threatened and Extirpated Species |  |
+|  | Recovery Strategy |  |
+| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
+| More than one competent minister | (2) If there is more than one competent minister with respect to the wildlife species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
+| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
+| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
+|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
+|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
+|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
+|  | (e) any other person or organization that the competent minister considers appropriate. |  |
+| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
+| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
+| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
+| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
+|  | (a) a description of the species and its needs that is consistent with information provided by COSEWIC; |  |
+|  | (b) an identification of the threats to the survival of the species and threats to its habitat that is consistent with information provided by COSEWIC and a description of the broad strategy to be taken to address those threats; |  |
+|  | (c) an identification of the species' critical habitat, to the extent possible, based on the best available information, including the information provided by COSEWIC, and examples of activities that are likely to result in its destruction; |  |
+|  | (c.1) a schedule of studies to identify critical habitat, where available information is inadequate; |  |
+|  | (d) a statement of the population and distribution objectives that will assist the recovery and survival of the species, and a general description of the research and management activities needed to meet those objectives; |  |
+|  | (e) any other matters that are prescribed by the regulations; |  |
+|  | (f) a statement about whether additional information is required about the species; and |  |
+|  | (g) a statement of when one or more action plans in relation to the recovery strategy will be completed. |  |
+| Contents if recovery not feasible | (2) If the competent minister determines that the recovery of the listed wildlife species is not feasible, the recovery strategy must include a description of the species and its needs, an identification of the species' critical habitat to the extent possible, and the reasons why its recovery is not feasible. |  |
+| Multi-species or ecosystem approach permissible | (3) The competent minister may adopt a multi-species or an ecosystem approach when preparing the recovery strategy if he or she considers it appropriate to do so. |  |
+| Regulations | (4) The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy. |  |
+| Proposed recovery strategy | 42. (1) Subject to subsection (2), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+| First listed wildlife species | (2) With respect to wildlife species that are set out in Schedule 1 on the day section 27 comes into force, the competent minister must include a proposed recovery strategy in the public registry within three years after that day, in the case of a wildlife species listed as an endangered species, and within four years after that day, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+
+|  | Reviews and Reports |  |
+| --- | --- | --- |
+| Review of classifications | 24. COSEWIC must review the classification of each species at risk at least once every 10 years, or at any time if it has reason to believe that the status of the species has changed significantly. |  |
+| Copies to Minister and Council | 25. (1) When COSEWIC completes an assessment of the status of a wildlife species, it must provide the Minister and the Canadian Endangered Species Conservation Council with a copy of the assessment and the reasons for it. A copy of the assessment and the reasons must also be included in the public registry. |  |
+| COSEWIC list | (2) COSEWIC must annually prepare a complete list of every wildlife species it has assessed since the coming into force of this section and a copy of that list must be included in the public registry. |  |
+| Report on response | (3) On receiving a copy of an assessment of the status of a wildlife species from COSEWIC under subsection (1), the Minister must, within 90 days, include in the public registry a report on how the Minister intends to respond to the assessment and, to the extent possible, provide time lines for action. |  |
+| Annual reports | 26. COSEWIC must annually provide a report on its activities to the Canadian Endangered Species Conservation Council and a copy of that report must be included in the public registry. |  |
+|  | List of Wildlife Species at Risk |  |
+| Power to amend List | 27. (1) The Governor in Council may, on the recommendation of the Minister, by order amend the List in accordance with subsections (1.1) and (1.2) by adding a wildlife species, by reclassifying a listed wildlife species or by removing a listed wildlife species, and the Minister may, by order, amend the List in a similar fashion in accordance with subsection (3). |  |
+| Decision in respect of assessment | (1.1) Subject to subsection (3), the Governor in Council, within nine months after receiving an assessment of the status of a species by COSEWIC, may review that assessment and may, on the recommendation of the Minister, |  |
+|  | (a) accept the assessment and add the species to the List; |  |
+|  | (b) decide not to add the species to the List; or |  |
+|  | (c) refer the matter back to COSEWIC for further information or consideration. |  |
+| Statement of reasons | (1.2) Where the Governor in Council takes a course of action under paragraph (1.1)(b) or (c), the Minister shall, after the approval of the Governor in Council, include a statement in the public registry setting out the reasons. |  |
+| Pre-conditions for recommendati on | (2) Before making a recommendation in respect of a wildlife species or a species at risk, the Minister must |  |
+|  | (a) take into account the assessment of COSEWIC in respect of the species; |  |
+|  | (b) consult the competent minister or ministers; and |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of a wildlife species, consult the wildlife management board. |  |
+| Amendment of List by Minister | (3) Where the Governor in Council has not taken a course of action under subsection (1.1) within nine months after receiving an assessment of the status of a species by COSEWIC, the Minister shall, by order, amend the List in accordance with COSEWIC's assessment. |  |
+| Applications for assessment of imminent threat | 28. (1) Any person who considers that there is an imminent threat to the survival of a wildlife species may apply to COSEWIC for an assessment of the threat for the purpose of having the species listed on an emergency basis under subsection 29(1) as an endangered species. |  |
+| Information to be included in application | (2) The application must include relevant information indicating that there is an imminent threat to the survival of the species. |  |
+| Regulations | (3) The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC. |  |
+| Notice | (4) COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry. |  |
+| Emergency listing | 29. (1) If the Minister is of the opinion that there is an imminent threat to the survival of a wildlife species, the Minister must, on an emergency basis, after consultation with every other competent minister, make a recommendation to the Governor in Council that the List be amended to list the species as an endangered species. |  |
+| Formation of opinion | (2) The Minister may arrive at that opinion on the basis of his or her own information or on the basis of COSEWIC's assessment. |  |
+| Exemption | (3) If a recommendation is made under subsection (1), subsection 27(2) does not apply to any order that is made under subsection 27(1) on the basis of that recommendation, and the order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+| Review | 30. (1) As soon as possible after an order is made on the basis of a recommendation referred to in subsection 29(1), COSEWIC must have a status report on the wildlife species prepared and, within one year after the making of the order, COSEWIC must, in a report in writing to the Minister, |  |
+|  | (a) confirm the classification of the species; |  |
+|  | (b) recommend to the Minister that the species be reclassified; or |  |
+|  | (c) recommend to the Minister that the species be removed from the List. |  |
+| Copy of report | (2) Within 30 days after the report is received by the Minister, a copy of the report must be included in the public registry. |  |
+| Recommendat ion to amend List | 31. If COSEWIC makes a recommendation under paragraph 30(1)(b) or (c), the Minister may make a recommendation to the Governor in Council with respect to amending the List. |  |
+|  | MEASURES TO PROTECT LISTED WILDLIFE SPECIES |  |
+|  | General Prohibitions |  |
+| Killing, harming, etc., listed wildlife species | 32. (1) No person shall kill, harm, harass, capture or take an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species. |  |
+| Possession, collection, etc. | (2) No person shall possess, collect, buy, sell or trade an individual of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species, or any part or derivative of such an individual. |  |
+| Deeming | (3) For the purposes of subsection (2), any animal, plant or thing that is represented to be an individual, or a part or derivative of an individual, of a wildlife species that is listed as an extirpated species, an endangered species or a threatened species is deemed, in the absence of evidence to the contrary, to be such an individual or a part or derivative of such an individual. |  |
+| Damage or destruction of residence | 33. No person shall damage or destroy the residence of one or more individuals of a wildlife species that is listed as an endangered species or a threatened species, or that is listed as an extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada. |  |
+| Application - certain species in provinces | 34. (1) With respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, sections 32 and 33 do not apply in lands in a province that are not federal lands unless an order is made under subsection (2) to provide that they apply. |  |
+| Order | (2) The Governor in Council may, on the recommendation of the Minister, by order, provide that sections 32 and 33, or either of them, apply in lands in a province that are not federal lands with respect to individuals of a listed wildlife species that is not an aquatic species or a species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the province do not effectively protect the species or the residences of its individuals. |  |
+| Consultation | (4) Before recommending that the Governor in Council make an order under subsection (2), the Minister must consult |  |
+|  | (a) the appropriate provincial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board. |  |
+| Application - certain species in territories | 35. (1) Sections 32 and 33 apply in each of the territories in respect of a listed wildlife species only to the extent that the Governor in Council, on the recommendation of the Minister, makes an order providing that they, or any of them, apply. |  |
+| Exception | (2) Subsection (1) does not apply |  |
+|  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994; or |  |
+|  | (b) on land under the authority of the Minister or the Parks Canada Agency. |  |
+| Obligation to make recommendati on | (3) The Minister must recommend that the order be made if the Minister is of the opinion that the laws of the territory do not effectively protect the species or the residences of its individuals. |  |
+| Pre-conditions for recommendati on | (4) Before recommending that an order be made under subsection (1), the Minister must |  |
+|  | (a) consult the appropriate territorial minister; and |  |
+|  | (b) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, consult the wildlife management board. |  |
+| Prohibitions re provincial and territorial classifications | 36. (1) If a wildlife species that is not listed has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall |  |
+|  | (a) kill, harm, harass, capture or take an individual of that species that is on federal lands in the province or territory; |  |
+|  | (b) possess, collect, buy, sell or trade an individual of that species that is on federal lands in the province or territory, or any part or derivative of such an individual; or |  |
+|  | (c) damage or destroy the residence of one or more individuals of that species that is on federal lands in the province or territory. |  |
+| Application | (2) Subsection (1) applies only in respect of the portions of the federal lands that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
+|  | Recovery of Endangered, Threatened and Extirpated Species |  |
+|  | Recovery Strategy |  |
+| Preparation - endangered or threatened species | 37. (1) If a wildlife species is listed as an extirpated species, an endangered species or a threatened species, the competent minister must prepare a strategy for its recovery. |  |
+| More than one competent minister | (2) If there is more than one competent minister with respect to the wildlife species, they must prepare the strategy together and every reference to competent minister in sections 38 to 46 is to be read as a reference to the competent ministers. |  |
+| Commitments to be considered | 38. In preparing a recovery strategy, action plan or management plan, the competent minister must consider the commitment of the Government of Canada to conserving biological diversity and to the principle that, if there are threats of serious or irreversible damage to the listed wildlife species, cost-effective measures to prevent the reduction or loss of the species should not be postponed for a lack of full scientific certainty. |  |
+| Cooperation with others | 39. (1) To the extent possible, the recovery strategy must be prepared in cooperation with |  |
+|  | (a) the appropriate provincial and territorial minister for each province and territory in which the listed wildlife species is found; |  |
+|  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
+|  | (c) if the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the wildlife management board; |  |
+|  | (d) every aboriginal organization that the competent minister considers will be directly affected by the recovery strategy; and |  |
+|  | (e) any other person or organization that the competent minister considers appropriate. |  |
+| Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the recovery strategy must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
+| Consultation | (3) To the extent possible, the recovery strategy must be prepared in consultation with any landowners and other persons whom the competent minister considers to be directly affected by the strategy, including the government of any other country in which the species is found. |  |
+| Determination of feasibility | 40. In preparing the recovery strategy, the competent minister must determine whether the recovery of the listed wildlife species is technically and biologically feasible. The determination must be based on the best available information, including information provided by COSEWIC. |  |
+| Contents if recovery feasible | 41. (1) If the competent minister determines that the recovery of the listed wildlife species is feasible, the recovery strategy must address the threats to the survival of the species identified by COSEWIC, including any loss of habitat, and must include |  |
+|  | (a) a description of the species and its needs that is consistent with information provided by COSEWIC; |  |
+|  | (b) an identification of the threats to the survival of the species and threats to its habitat that is consistent with information provided by COSEWIC and a description of the broad strategy to be taken to address those threats; |  |
+|  | (c) an identification of the species' critical habitat, to the extent possible, based on the best available information, including the information provided by COSEWIC, and examples of activities that are likely to result in its destruction; |  |
+|  | (c.1) a schedule of studies to identify critical habitat, where available information is inadequate; |  |
+|  | (d) a statement of the population and distribution objectives that will assist the recovery and survival of the species, and a general description of the research and management activities needed to meet those objectives; |  |
+|  | (e) any other matters that are prescribed by the regulations; |  |
+|  | (f) a statement about whether additional information is required about the species; and |  |
+|  | (g) a statement of when one or more action plans in relation to the recovery strategy will be completed. |  |
+| Contents if recovery not feasible | (2) If the competent minister determines that the recovery of the listed wildlife species is not feasible, the recovery strategy must include a description of the species and its needs, an identification of the species' critical habitat to the extent possible, and the reasons why its recovery is not feasible. |  |
+| Multi-species or ecosystem approach permissible | (3) The competent minister may adopt a multi-species or an ecosystem approach when preparing the recovery strategy if he or she considers it appropriate to do so. |  |
+| Regulations | (4) The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy. |  |
+| Proposed recovery strategy | 42. (1) Subject to subsection (2), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+| First listed wildlife species | (2) With respect to wildlife species that are set out in Schedule 1 on the day section 27 comes into force, the competent minister must include a proposed recovery strategy in the public registry within three years after that day, in the case of a wildlife species listed as an endangered species, and within four years after that day, in the case of a wildlife species listed as a threatened species or an extirpated species. |  |
+
+| Comments | 43. (1) Within 60 days after the proposed recovery strategy is included in the public registry, any person may file written comments with the competent minister. |  |
+| --- | --- | --- |
 | Finalization of recovery strategy | (2) Within 30 days after the expiry of the period referred to in subsection (1), the competent minister must consider any comments received, make any changes to the proposed recovery strategy that he or she considers appropriate and finalize the recovery strategy by including a copy of it in the public registry. |  |
-| Existing plans | 44. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species meets the requirements of subsection 41(1) or (2), and the plan is adopted by the competent minister as the recovery strategy, he or she shall include it in the public registry as the recovery strategy in relation to the species. |  |
-| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a recovery strategy for the species. |  |
+| Existing plans | 44. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species meets the requirements of subsection 41(1) or (2), and the plan is adopted by the competent minister as the proposed recovery strategy, he or she must include it in the public registry as the proposed recovery strategy in relation to the species. |  |
+| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a proposed recovery strategy for the species. |  |
 | Amendments | 45. (1) The competent minister may at any time amend the recovery strategy. A copy of the amendment must be included in the public registry. |  |
-|  | (2) [Deleted] |  |
+| Amendments relating to time for completing action plan | (2) If the amendment relates to the time for completing an action plan, the competent minister must provide reasons for the amendment and include a copy of the reasons in the public registry. |  |
 | Amendment procedure | (3) Sections 39 and 43 apply to amendments to a recovery strategy, with any modifications that the circumstances require. |  |
-| Exception | (4) Subsection (2) does not apply if the competent minister considers the amendment to be minor. |  |
-| Reporting | 46. The competent minister must report on the implementation of the recovery strategy, and the progress towards meeting its objectives, within five years after it is included in the public registry and, until the strategy has expired or is replaced, the species recovered or recovery is no longer feasible, in every subsequent five-year period. The report must be included in the public registry. |  |
+| Exception | (4) Subsection (3) does not apply if the competent minister considers the amendment to be minor. |  |
+| Reporting | 46. The competent minister must report on the implementation of the recovery strategy, and the progress towards meeting its objectives, within five years after it is included in the public registry and in every subsequent five-year period, until its objectives have been achieved or the species' recovery is no longer feasible. The report must be included in the public registry. |  |
 |  | Action Plan |  |
 | Preparation | 47. The competent minister in respect of a recovery strategy must prepare one or more action plans based on the recovery strategy. If there is more than one competent minister with respect to the recovery strategy, they may prepare the action plan or plans together. |  |
 | Cooperation with other ministers and governments | 48. (1) To the extent possible, an action plan must be prepared in cooperation with |  |
@@ -1130,23 +1159,23 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Consultation | (3) To the extent possible, an action plan must be prepared in consultation with any landowners, lessees and other persons whom the competent minister considers to be directly affected by, or interested in, the action plan, including the government of any other country in which the species is found. |  |
 | Contents | 49. (1) An action plan must include, with respect to the area to which the action plan relates, |  |
 |  | (a) an identification of the species' critical habitat, to the extent possible, based on the best available information and consistent with the recovery strategy, and examples of activities that are likely to result in its destruction; |  |
-|  | (b) the measures that are proposed to be taken to protect the species' critical habitat, including the entering into of agreements under section 11; |  |
-|  | (c) an identification of any portions of the species' critical habitat that have not been protected under legislation or under an agreement ; |  |
+|  | (b) a statement of the measures that are proposed to be taken to protect the species' critical habitat, including the entering into of agreements under section 11; |  |
+|  | (c) an identification of any portions of the species' critical habitat that have not been protected; |  |
 |  | (d) a statement of the measures that are to be taken to implement the recovery strategy, including those that address the threats to the species and those that help to achieve the population and distribution objectives, as well as an indication as to when these measures are to take place; |  |
 |  | (d.1) the methods to be used to monitor the recovery of the species and its long-term viability; |  |
-|  | (e) an evaluation of the socio-economic costs of the action plan and the benefits to be derived from its implementation, and the cost of not proceeding with the action plan; and |  |
+|  | (e) an evaluation of the socio-economic costs of the action plan and the benefits to be derived from its implementation; and |  |
 |  | (f) any other matters that are prescribed by the regulations. |  |
 | Regulations | (2) The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(f) prescribing matters to be included in an action plan. |  |
-| Public registry | 50. (1) An action plan must be completed for an endangered species within one year after the recovery strategy is finalized and within two years from the completion of the recovery strategy for a threatened or extirpated species. |  |
-| Summary if action plan not completed in time | (2) In exceptional circumstances, where an action plan cannot be completed within the time specified in subsection (1), the Minister may grant an extension of no more than six months; and where a multi-species action plan is being prepared for the species, grant an additional extension of up to one year, and the reasons for the extension must be given in the public registry. |  |
-|  | (3) Within 90 days after the inclusion of a proposed action plan in the public registry, the competent minister may consider the comments, if any, received in respect of the plan, make any changes to it that he or she considers appropriate and finalize the action plan by including a copy of the plan in the public registry. |  |
-| Existing plans | 51. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species meets the requirements of section 49, and the plan is adopted by the competent minister as the action plan, he or she shall include it in the public registry as the action plan in relation to the species. |  |
-| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into an action plan for the species. |  |
+| Proposed action plan | 50. (1) The competent minister must include a proposed action plan in the public registry. |  |
+| Comments | (2) Within 60 days after the proposed action plan is included in the public registry, any person may file written comments with the competent minister. |  |
+| Finalization of action plan | (3) Within 30 days after the expiry of the period referred to in subsection (2), the competent minister must consider any comments received, make any changes to the proposed action plan that he or she considers appropriate and finalize the action plan by including a copy of it in the public registry. |  |
+| Summary if action plan not completed in time | (4) If an action plan is not finalized in the time set out in the recovery strategy, the competent minister must include in the public registry a summary of what has been prepared with respect to the plan. |  |
+| Existing plans | 51. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species meets the requirements of section 49, and the plan is adopted by the competent minister as a proposed action plan, he or she must include it in the public registry as a proposed action plan in relation to the species. |  |
+| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a proposed action plan for the species. |  |
 | Amendments | 52. (1) The competent minister may at any time amend an action plan. A copy of the amendment must be included in the public registry. |  |
 | Amendment procedure | (2) Section 48 applies to amendments to an action plan, with any modifications that the circumstances require. |  |
 | Exception | (3) Subsection (2) does not apply if the competent minister considers the amendment to be minor. |  |
-| Regulations | 53. (1) Within 120 days after an action plan is completed, the competent minister shall , with respect to aquatic species, species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, regardless of where they are located, or with respect to any other wildlife species on federal lands, make any regulations that are necessary in the opinion of the competent minister for the purpose of implementing the measures included in an action plan, but, if the measures relate to the protection of critical habitat on federal lands, the regulations must be made under section 59. |  |
-|  | (1.1) The competent minister may make whatever other regulations are necessary for the purpose of implementing measures in an action plan or amended action plan. |  |
+| Regulations | 53. (1) The competent minister must, with respect to aquatic species, species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994, regardless of where they are located, or with respect to any other wildlife species on federal lands, make any regulations that are necessary in the opinion of the competent minister for the purpose of implementing the measures included in an action plan, but, if the measures relate to the protection of critical habitat on federal lands, the regulations must be made under section 59. |  |
 | Consultation | (2) If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, he or she must consult the Minister of Indian and Northern Affairs and the band before making the regulation. |  |
 | Consultation | (3) If the competent minister is of the opinion that a regulation would affect an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, he or she must consult the wildlife management board before making the regulation. |  |
 | Incorporation by reference | (4) The regulations may incorporate by reference any legislation of a province or territory, as amended from time to time, insofar as the regulations apply in that province or territory. |  |
@@ -1154,53 +1183,55 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exception | (6) Subsection (5) does not apply |  |
 |  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994 and their habitat; or |  |
 |  | (b) in respect of land under the authority of the Minister or the Parks Canada Agency. |  |
-|  | 54. [Deleted] |  |
-| Use of powers under other Acts | 55. For the purpose of implementing the measures included in an action plan, the competent minister may use any powers that he or she has under any other Act of Parliament. |  |
-| Monitoring and reporting | 56. The competent minister must monitor the implementation of an action plan and the progress towards meeting its objectives and assess and report on its implementation and its ecological and socio-economic impacts five years after the plan comes into effect. A copy of the report must be included in the public registry. |  |
+| Use of powers under other Acts | 54. For the purpose of implementing the measures included in an action plan, the competent minister may use any powers that he or she has under any other Act of Parliament. |  |
+| Monitoring and reporting | 55. The competent minister must monitor the implementation of an action plan and the progress towards meeting its objectives and assess and report on its implementation and its ecological and socio-economic impacts five years after the plan comes into effect. A copy of the report must be included in the public registry. |  |
 |  | Protection of Critical Habitat |  |
-| Codes of practice, national standards or guidelines | 57. The competent minister may, after consultation with the Canadian Endangered Species Conservation Council and any person whom he or she considers appropriate, establish codes of practice, national standards or guidelines with respect to the protection of critical habitat. |  |
-| Destruction of critical habitat | 58. (1) No person shall destroy any part of the critical habitat of a listed endangered species, a listed threatened species or a listed extirpated species, if a recovery strategy has recommended the reintroduction of the species into the wild in Canada, that is |  |
-|  | (a ) on federal land, in the exclusive economic zone of Canada or on the continental shelf of Canada; |  |
-|  | (b) an aquatic species; or |  |
-|  | (c) a species of migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
-| Application | (2) Subsection (1) applies only to the critical habitat that is identified in an action plan. |  |
-| Obligation to make recommendati on | (3) Subsection (1) does not apply to habitat that is the subject of an agreement or permit under section 11, 74 or 75, including an agreement or permit under another Act of Parliament, to the extent that it authorizes activities which adversely modify any part of the critical habitat of the species referred to in subsection (1). |  |
-| Consultation | (4) If the critical habitat is on land that is not federal land, subsection (1) does not apply until 60 days after the action plan is included in the public registry, during which time the competent minister shall make reasonable efforts to contact the landowner and seek to negotiate an agreement under section 11, 74 or 75. |  |
-| Consultation | (5) If the critical habitat is on a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, subsection (1) does not apply until 60 days after the action plan is included in the public registry, during which time the competent minister shall contact the band and seek to negotiate an agreement under section 11, 74 or 75, in consultation with the Minister of Indian and Northern Affairs. |  |
-| Consultation | (6) If the critical habitat is in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, subsection (1) does not apply until 60 days after the action plan is included in the public registry, during which time the competent minister shall contact the Board and seek to negotiate an agreement under section 11, 74 or 75. |  |
-|  | (6.1) The competent minister may by order extend the 60-day time period mentioned in subsections (4), (5) and (6) by up to an additional 90 days where, in the competent minister's opinion, such an extension is necessary for purposes of negotiating an agreement under section 11, 74 or 75. |  |
-| Regulations re federal lands | 59. (1) After a recovery strategy is completed or after an action plan is completed that revises the critical habitat identified in the strategy, the competent minister may make regulations to protect the habitat of a listed species that is: |  |
-|  | (a ) on federal lands; |  |
-|  | (b) an aquatic species; or |  |
-|  | (c) a species that is a species of migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
-| Obligation to make recommendati on | (2) Regulations made under subsection (1) do not apply to anything that meets the requirements of section 83. |  |
+| Codes of practice, national standards or guidelines | 56. The competent minister may, after consultation with the Canadian Endangered Species Conservation Council and any person whom he or she considers appropriate, establish codes of practice, national standards or guidelines with respect to the protection of critical habitat. |  |
+| Purpose | 57 The purpose of section 58 is to ensure that, within 180 days after the recovery strategy or action plan that identified the critical habitat referred to in subsection 58(1) is included in the public registry, all of the critical habitat is protected by |  |
+|  | (a) provisions in, or measures under, this or any other Act of Parliament, including agreements under section 11; or |  |
+|  | (b) the application of subsection 58(1). |  |
+| Destruction of critical habitat | 58. (1) Subject to this section, no person shall destroy any part of the critical habitat of any listed endangered species or of any listed threatened species - or of any listed extirpated species if a recovery strategy has recommended the reintroduction of the species into the wild in Canada - if |  |
+|  | (a) the critical habitat is on federal land, in the exclusive economic zone of Canada or on the continental shelf of Canada; |  |
+|  | (b) the listed species is an aquatic species; or |  |
+|  | (c) the listed species is a species of migratory birds protected by the Migratory Birds Convention Act, 1994. |  |
+| Protected areas | (2) If the critical habitat or a portion of the critical habitat is in a national park of Canada named and described in Schedule 1 to the Canada National Parks Act, a marine protected area under the Oceans Act, a migratory bird sanctuary under the Migratory Birds Convention Act, 1994 or a national wildlife area under the Canada Wildlife Act, the competent Minister must, within 90 days after the recovery strategy or action plan that identified the critical habitat is included in the public registry, publish in the Canada Gazette a description of the critical habitat or portion that is in that park, area or sanctuary. |  |
+| Application | (3) If subsection (2) applies, subsection (1) applies to the critical habitat or the portion of the critical habitat described in the Canada Gazette under subsection (2) 90 days after the description is published in the Canada Gazette. |  |
+| Application | (4) If all of the critical habitat or any portion of the critical habitat is not in a place referred to in subsection (2), subsection (1) applies in respect of the critical habitat or portion of the critical habitat, as the case may be, specified in an order made by the competent minister. |  |
+| Obligation to make order or statement | (5) Within 180 days after the recovery strategy or action plan that identified the critical habitat is included in the public registry, the competent minister must, after consultation with every other competent minister, with respect to all of the critical habitat or any portion of the critical habitat that is not in a place referred to in subsection (2), |  |
+|  | (a) make the order referred to in subsection (4) if the critical habitat or any portion of the critical habitat is not legally protected by provisions in, or measures under, this or any other Act of Parliament, including agreements under section 11; or |  |
+|  | (b) if the competent minister does not make the order, he or she must include in the public registry a statement setting out how the critical habitat or portions of it, as the case may be, are legally protected. |  |
+| Habitat of migratory birds | (5.1) Despite subsection (4), with respect to the critical habitat of a species of bird that is a migratory bird protected by the Migratory Birds Convention Act, 1994 that is not on federal land, in the exclusive economic zone of Canada, on the continental shelf of Canada or in a migratory bird sanctuary referred to in subsection (2), subsection (1) applies only to those portions of the critical habitat that are habitat to which that Act applies and that the Governor in Council may, by order, specify on the recommendation of the competent minister. |  |
+| Obligation to make recommendati on | (5.2) The competent minister must, within 180 days after the recovery strategy or action plan that identified the critical habitat that includes habitat to which the Migratory Birds Convention Act, 1994 applies is included in the public registry, and after consultation with every other competent minister, |  |
+|  | (a) make the recommendation if he or she is of the opinion there are no provisions in, or other measures under, this or any other Act of Parliament, including agreements under section 11, that legally protect any portion or portions of the habitat to which that Act applies; or |  |
+|  | (b) if the competent minister does not make the recommendation, he or she must include in the public registry a statement setting out how the critical habitat that is habitat to which that Act applies, or portions of it, as the case may be, are legally protected. |  |
+| Consultation | (6) If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect land in a territory that is not under the authority of the Minister or the Parks Canada Agency, he or she must consult the territorial minister before making the order under subsection (4) or the recommendation under subsection (5.2). |  |
+| Consultation | (7) If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, he or she must consult the Minister of Indian and Northern Affairs and the band before the making the order under subsection (4) or the recommendation under subsection (5.2). |  |
+| Consultation | (8) If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, he or she must consult the wildlife management board before making the order under subsection (4) or the recommendation under subsection (5.2). |  |
+| Consultation | (9) If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect land that is under the authority of another federal minister, other than a competent minister, he or she must consult the other federal minister before making the order under subsection (4) or the recommendation under subsection (5.2). |  |
+| Regulations re federal lands | 59. (1) The Governor in Council may, on the recommendation of the competent minister after consultation with every other competent minister, make regulations to protect critical habitat on federal lands. |  |
+| Obligation to make recommendati on | (2) The competent minister must make the recommendation if the recovery strategy or an action plan identifies a portion of the critical habitat as being unprotected and the competent minister is of the opinion that the portion requires protection. |  |
 | Contents | (3) The regulations may include provisions requiring the doing of things that protect the critical habitat and provisions prohibiting activities that may adversely affect the critical habitat. |  |
-| Consultation | (4) If the critical habitat is on land that is not federal land, the competent minister shall make reasonable efforts to contact the landowner and seek to negotiate an agreement under section 11, 74 or 75 before making a regulation under subsection (1). |  |
-| Consultation | (5) If the critical habitat is on a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, the competent minister shall contact the band and seek to negotiate an agreement under section 11, 74 or 75, in consultation with the Minister of Indian and Northern Affairs, before making a regulation under subsection (1). |  |
-| Consultation | (6) If the critical habitat is in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the competent minister shall contact the band and seek to negotiate an agreement under section 11, 74 or 75 before making a regulation under subsection (1). |  |
+| Consultation | (4) If the competent minister is of the opinion that a regulation would affect land in a territory that is not under the authority of the Minister or the Parks Canada Agency, he or she must consult the territorial minister before recommending the making of the regulation. |  |
+| Consultation | (5) If the competent minister is of the opinion that a regulation would affect a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, he or she must consult the Minister of Indian Affairs and Northern Development and the band before recommending the making of the regulation. |  |
+| Consultation | (6) If the competent minister is of the opinion that a regulation would affect an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, he or she must consult the wildlife management board before recommending the making of the regulation. |  |
 | Provincial and territorial classifications | 60. (1) If a wildlife species has been classified as an endangered species or a threatened species by a provincial or territorial minister, no person shall destroy any part of the habitat of that species that the provincial or territorial minister has identified as essential to the survival or recovery of the species and that is on federal lands in the province or territory. |  |
-
 | Application | (2) Subsection (1) applies only to the portions of the habitat that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
-| --- | --- | --- |
 | Destruction of critical habitat | 61. (1) No person shall destroy any part of the critical habitat of a listed endangered species or a listed threatened species that is in a province or territory and that is not part of federal lands. |  |
-|  | (1.1) Subsection (1) does not apply in respect of an aquatic species. |  |
-| Application | (2) Subsection (1) applies only to the portions of the critical habitat that the Minister, by order, specifies. |  |
-| Power to make recommendati on | (3) The Minister must make the order if |  |
-|  | (a) a provincial minister or territorial minister has requested that the order be made; |  |
-|  | (b) the Canadian Endangered Species Conservation Council has recommended that the order be made; or |  |
-|  | (c) he or she is of the opinion that the laws of the province or territory do not effectively protect the critical habitat of the species. |  |
-|  | (3.1) In determining whether a territory's laws provide effective protection, the Minister shall consider |  |
-|  | (a) whether there is a prohibition equivalent to the one in section 32 or 33, as applicable; |  |
-|  | (b) whether criteria at least as stringent as those in subsection 74(3) are used in granting exemptions; |  |
-|  | (c) whether there is effective application and enforcement of the laws of the territory; and |  |
-|  | (d) whether information about the application and enforcement of the territory's laws, including the granting of exemptions, is made public. |  |
-|  | (3.2) The Minister shall provide reasons for his or her determination in the public registry. |  |
+| Exception | (1.1) Subsection (1) does not apply in respect of |  |
+
+|  | (a) an aquatic species; or |  |
+| --- | --- | --- |
+|  | (b) the critical habitat of a species of bird that is a migratory bird protected by the Migratory Birds Convention Act, 1994 that is habitat referred to in subsection 58(5.1). |  |
+| Application | (2) Subsection (1) applies only to the portions of the critical habitat that the Governor in Council may, on the recommendation of the Minister, by order, specify. |  |
+| Power to make recommendati on | (3) The Minister may make a recommendation if |  |
+|  | (a) a provincial minister or territorial minister has requested that the recommendation be made; or |  |
+|  | (b) the Canadian Endangered Species Conservation Council has recommended that the recommendation be made. |  |
 | Obligation to make recommendati on | (4) The Minister must make a recommendation if he or she is of the opinion, after consultation with the appropriate provincial or territorial minister, that |  |
 |  | (a) there are no provisions in, or other measures under, this or any other Act of Parliament that protect the particular portion of the critical habitat, including agreements under section 11; and |  |
-|  | (b) the laws of the province or territory do not protect the particular portion of the critical habitat. |  |
+|  | (b) the laws of the province or territory do not effectively protect the critical habitat. |  |
 | Expiry and renewal of order | (5) An order made under subsection (2) expires five years after the day on which it is made or renewed, unless the Governor in Council, by order, renews it. |  |
-| Recommendat ion to repeal order | (6) If the Minister is of the opinion that an order made under subsection (2) is no longer necessary to protect the portion of the critical habitat to which the order relates or that the province or territory has brought into force laws that protect the portion, the Minister must recommend that the order be repealed . |  |
-| Acquisition of lands | 62. A competent minister may enter into an agreement with any government in Canada, organization or person to acquire any lands or interests in land for the purpose of protecting the critical habitat of any species at risk . |  |
+| Recommendat ion to repeal order | (6) If the Minister is of the opinion that an order made under subsection (2) is no longer necessary to protect the portion of the critical habitat to which the order relates or that the province or territory has brought into force laws that protect the portion, the Minister must recommend that the order be repealed. |  |
+| Acquisition of lands | 62. A competent minister may enter into an agreement with any government in Canada, organization or person to acquire any lands or interests in land for the purpose of protecting the critical habitat of any species at risk. |  |
 | Progress reports on unprotected portions of critical habitat | 63. If in the opinion of the Minister any portion of the critical habitat of a listed wildlife species remains unprotected 180 days after the recovery strategy or action plan that identified the critical habitat was included in the public registry, the Minister must include in that registry a report on the steps taken to protect the critical habitat. The Minister must continue to report with respect to every subsequent period of 180 days until the portion is protected or is no longer identified as critical habitat. |  |
 | Compensation | 64. (1) The Minister may, in accordance with the regulations, provide fair and reasonable compensation to any person for losses suffered as a result of any extraordinary impact of the application of |  |
 |  | (a) section 58, 60 or 61; or |  |
@@ -1210,8 +1241,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (b) the methods to be used in determining the eligibility of a person for compensation, the amount of loss suffered by a person and the amount of compensation in respect of any loss; and |  |
 |  | (c) the terms and conditions for the provision of compensation. |  |
 |  | Management of Species of Special Concern |  |
-| Preparation of management plan | 65. (1) Subject to subsection (2), within three years after a wildlife species is listed as a species of special concern, the competent minister must prepare a management plan for the species and its habitat. The plan must include measures for the conservation of the species that the competent minister considers appropriate and it may apply with respect to more than one wildlife species. |  |
-|  | (2) With respect to wildlife species that are set out in Schedule 1 as a species of special concern on the day section 27 comes into force, the competent minister must include a management plan in the public registry within five years after that day. |  |
+| Preparation of management plan | 65. If a wildlife species is listed as a species of special concern, the competent minister must prepare a management plan for the species and its habitat. The plan must include measures for the conservation of the species that the competent minister considers appropriate and it may apply with respect to more than one wildlife species. |  |
 | Cooperation with other ministers and governments | 66. (1) To the extent possible, the management plan must be prepared in cooperation with |  |
 |  | (a) the appropriate provincial and territorial minister of each province and territory in which the listed wildlife species is found; |  |
 |  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
@@ -1221,10 +1251,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the management plan must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
 | Consultation | (3) To the extent possible, the management plan must be prepared in consultation with any landowners, lessees and other persons whom the competent minister considers to be directly affected by, or interested in, the management plan, including the government of any other country in which the species is found. |  |
 | Multi-species or ecosystem approach permissible | 67. The competent minister may adopt a multi-species or an ecosystem approach when preparing the management plan if he or she considers it appropriate to do so. |  |
-| Public registry | 68. (1) When a management plan is completed, a copy of the management plan must be included in the public registry. |  |
-|  | (2) Within 90 days after the inclusion of a management plan in the public registry, the competent minister must consider the comments, if any, received in respect of the plan, make any changes to it that he or she considers appropriate and finalize the management plan by including a revised copy of the plan in the public registry. |  |
-| Existing plans | 69. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species includes adequate measures for the conservation of the species, the competent minister shall, after consultation with persons listed in section 66 , include a copy of the existing plan in the public registry as the management plan in relation to the species. |  |
-| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a management plan for the species, insofar as that existing plan meets the requirements as outlined in section 66. |  |
+| Proposed management plan | 68. (1) Subject to subsection (2), the competent minister must include a proposed management plan in the public registry within three years after the wildlife species is listed as a species of special concern. |  |
+| First listed species | (2) With respect to a wildlife species that is set out in Schedule 1 as a species of special concern on the day section 27 comes into force, the competent minister must include a proposed management plan in the public registry within five years after that day. |  |
+| Comments | (3) Within 60 days after the proposed management plan is included in the public registry, any person may file written comments with the competent minister. |  |
+| Finalization of management plan | (4) Within 30 days after the expiry of the period referred to in subsection (3), the competent minister must consider any comments received, make any changes to the proposed management plan that he or she considers appropriate and finalize the management plan by including a copy of it in the public registry. |  |
+| Existing plans | 69. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species includes adequate measures for the conservation of the species and the competent minister adopts the existing plan as the proposed management plan, he or she must include a copy of it in the public registry as the proposed management plan in relation to the species. |  |
+| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a proposed management plan for the species. |  |
 | Amendments | 70. (1) The competent minister may at any time amend a management plan. A copy of the amendment must be included in the public registry. |  |
 | Amendment procedure | (2) Section 66 applies to amendments to the management plan, with any modifications that the circumstances require. |  |
 | Exception | (3) Subsection (2) does not apply if the competent minister considers the amendment to be minor. |  |
@@ -1236,24 +1268,18 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exception | (6) Subsection (5) does not apply |  |
 |  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994 and their habitat; or |  |
 |  | (b) in respect of land under the authority of the Minister or the Parks Canada Agency. |  |
-|  | 72. [Deleted] |  |
-| Monitoring | 73. The competent minister must monitor the implementation of the management plan and must assess its implementation five years after the plan is included in the public registry , until the plan has expired, has been replaced or the species status has improved and every five years thereafter, and must include a report of this assessment in that registry. |  |
+| Monitoring | 72. The competent minister must monitor the implementation of the management plan and must assess its implementation five years after the plan is included in the public registry, and in every subsequent five-year period, until its objectives have been achieved. The report must be included in the public registry. |  |
 |  | Agreements and Permits |  |
-| Powers of competent minister | 74. (1) An agreement, permit, licence, order or other form of approval under subsection (1.1) or section 75 is required in order for a person to engage in an activity adversely affecting any part of the critical habitat of a listed endangered, threatened or extirpated wildlife species, as identified in an action plan, if the species is: |  |
-|  | (a) on federal lands; |  |
-|  | (b) an aquatic species; or |  |
-|  | (c) a migratory bird species protected by the Migratory Birds Convention Act, 1994. |  |
-|  | (1.1) The competent minister may enter into an agreement with a person or issue a permit to a person, authorizing the person to engage in an activity adversely affecting a wildlife species, any part of its critical habitat or the residences of its individuals. |  |
+| Powers of competent minister | 73. (1) The competent minister may enter into an agreement with a person, or issue a permit to a person, authorizing the person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals. |  |
 | Purpose | (2) The agreement may be entered into, or the permit issued, only if the competent minister is of the opinion that |  |
 |  | (a) the activity is scientific research relating to the conservation of the species and conducted by qualified persons; |  |
 |  | (b) the activity benefits the species or is required to enhance its chance of survival in the wild; or |  |
 |  | (c) affecting the species is incidental to the carrying out of the activity. |  |
-|  | (2.1) No agreement under subsection (1) that affects fee simple land or the management and use of land or resources subject to resource management or use agreement with any government in Canada may be entered into without the consent of the parties to the agreement. |  |
 | Pre-conditions | (3) The agreement may be entered into, or the permit issued, only if the competent minister is of the opinion that |  |
-|  | (a) all reasonable alternatives to the activity that would reduce the impact on the species have been considered and the best alternative has been adopted, based on ecological, scientific, technical and socio-economic considerations; |  |
+|  | (a) all reasonable alternatives to the activity that would reduce the impact on the species have been considered and the best solution has been adopted; |  |
 |  | (b) all feasible measures will be taken to minimize the impact of the activity on the species or its critical habitat or the residences of its individuals; and |  |
 |  | (c) the activity will not jeopardize the survival or recovery of the species. |  |
-|  | (3.1) If an agreement is entered into or a permit is issued, the competent minister must include in the public registry an explanation of why it was entered into or issued, taking into account the matters referred to in paragraphs (3)(a), (b) and (c). |  |
+| Explanation in public registry | (3.1) If an agreement is entered into or a permit is issued, the competent minister must include in the public registry an explanation of why it was entered into or issued, taking into account the matters referred to in paragraphs (3)(a), (b) and (c). |  |
 | Consultation | (4) If the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the competent minister must consult the wildlife management board before entering into an agreement or issuing a permit concerning that species in that area. |  |
 | Consultation | (5) If the species is found in a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, the competent minister must consult the band before entering into an agreement or issuing a permit concerning that species in that reserve or those other lands. |  |
 | Terms and conditions | (6) The agreement or permit must contain any terms and conditions governing the activity that the competent minister considers necessary for protecting the species, minimizing the impact of the authorized activity on the species or providing for its recovery. |  |
@@ -1261,34 +1287,35 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Amendment of agreements and permits | (8) The competent minister may revoke or amend an agreement or a permit to ensure the survival or recovery of a species. |  |
 | Maximum term | (9) No agreement may be entered into for a term longer than five years and no permit may be issued for a term longer than three years. |  |
 | Regulations | (10) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations respecting the entering into of agreements, the issuance of permits and the renewal, revocation, amendment and suspension of agreements and permits. |  |
-| Agreements and permits under other Acts of Parliament | 75. In entering into, issuing or making an agreement, permit, licence, order or other form of approval under another Act of Parliament authorizing a person or organization to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals, a federal minister shall: |  |
-|  | (a) before it is entered into, issued or made, ensure that the requirements of subsections 74(2) to (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, comply with the requirements of subsections 74(7) and (8), in which case the agreement, permit, licence, order or other form of approval has the same effect as an agreement or permit under subsection 74(1.1). |  |
-| Adding terms and conditions | 76. (1) A competent minister may add terms and conditions to protect a listed wildlife species, any part of its critical habitat or the residences of its individuals to any agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting the species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament. |  |
+| Competent minister acting under other Acts | 74. An agreement, permit, licence, order or other similar document authorizing a person or organization to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament has the same effect as an agreement or permit under subsection 73(1) if |  |
+|  | (a) before it is entered into, issued or made, the competent minister is of the opinion that the requirements of subsections 73(2) to (6) and (9) are met; and |  |
+|  | (b) after it is entered into, issued or made, the competent minister complies with the requirements of subsection 73(7). |  |
+| Adding terms and conditions | 75. (1) A competent minister may add terms and conditions to protect a listed wildlife species, any part of its critical habitat or the residences of its individuals to any agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting the species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament. |  |
 | Amending terms and conditions | (2) A competent minister may also revoke or amend any term or condition in any of those documents to protect a listed wildlife species, any part of its critical habitat or the residences of its individuals. |  |
 | Treaties and land claims agreements | (3) The competent minister must take into account any applicable provisions of treaty and land claims agreements when carrying out his or her powers under this section. |  |
+| Exemption for existing agreements, permits, etc. | 76. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
+| Licences, permits, etc., under other Acts of Parliament | 77 (1) Despite any other Act of Parliament, any person or body, other than a competent minister, authorized under any Act of Parliament, other than this Act, to issue or approve a licence, a permit or any other authorization that authorizes an activity that may result in the destruction of any part of the critical habitat of a listed wildlife species may enter into, issue, approve or make the authorization only if the person or body has consulted with the competent minister, has considered the impact on the species' critical habitat and is of the opinion that |  |
+|  | (a) all reasonable alternatives to the activity that would reduce the impact on the species' critical habitat have been considered and the best solution has been adopted; and |  |
+|  | (b) all feasible measures will be taken to minimize the impact of the activity on the species' critical habitat. |  |
+| Application of section 58 | (2) For greater certainty, section 58 applies even though a licence, a permit or any other authorization has been issued in accordance with subsection (1). |  |
+| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 73(1) if |  |
+|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 73(2), (3), (6) and (9) are met; and |  |
+|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 73(7). |  |
+| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 73(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 
-| Application | (2) Subsection (1) applies only to the portions of the habitat that the Governor in Council may, on the recommendation of the competent minister, by order, specify. |  |
+|  | (a) an aquatic species; or |  |
 | --- | --- | --- |
-| Destruction of critical habitat | 61. (1) No person shall destroy any part of the critical habitat of a listed endangered species or a listed threatened species that is in a province or territory and that is not part of federal lands. |  |
-|  | (1.1) Subsection (1) does not apply in respect of an aquatic species. |  |
-| Application | (2) Subsection (1) applies only to the portions of the critical habitat that the Minister, by order, specifies. |  |
-| Power to make recommendati on | (3) The Minister must make the order if |  |
-|  | (a) a provincial minister or territorial minister has requested that the order be made; |  |
-|  | (b) the Canadian Endangered Species Conservation Council has recommended that the order be made; or |  |
-|  | (c) he or she is of the opinion that the laws of the province or territory do not effectively protect the critical habitat of the species. |  |
-|  | (3.1) In determining whether a territory's laws provide effective protection, the Minister shall consider |  |
-|  | (a) whether there is a prohibition equivalent to the one in section 32 or 33, as applicable; |  |
-|  | (b) whether criteria at least as stringent as those in subsection 74(3) are used in granting exemptions; |  |
-|  | (c) whether there is effective application and enforcement of the laws of the territory; and |  |
-|  | (d) whether information about the application and enforcement of the territory's laws, including the granting of exemptions, is made public. |  |
-|  | (3.2) The Minister shall provide reasons for his or her determination in the public registry. |  |
+|  | (b) the critical habitat of a species of bird that is a migratory bird protected by the Migratory Birds Convention Act, 1994 that is habitat referred to in subsection 58(5.1). |  |
+| Application | (2) Subsection (1) applies only to the portions of the critical habitat that the Governor in Council may, on the recommendation of the Minister, by order, specify. |  |
+| Power to make recommendati on | (3) The Minister may make a recommendation if |  |
+|  | (a) a provincial minister or territorial minister has requested that the recommendation be made; or |  |
+|  | (b) the Canadian Endangered Species Conservation Council has recommended that the recommendation be made. |  |
 | Obligation to make recommendati on | (4) The Minister must make a recommendation if he or she is of the opinion, after consultation with the appropriate provincial or territorial minister, that |  |
 |  | (a) there are no provisions in, or other measures under, this or any other Act of Parliament that protect the particular portion of the critical habitat, including agreements under section 11; and |  |
-|  | (b) the laws of the province or territory do not protect the particular portion of the critical habitat. |  |
+|  | (b) the laws of the province or territory do not effectively protect the critical habitat. |  |
 | Expiry and renewal of order | (5) An order made under subsection (2) expires five years after the day on which it is made or renewed, unless the Governor in Council, by order, renews it. |  |
-| Recommendat ion to repeal order | (6) If the Minister is of the opinion that an order made under subsection (2) is no longer necessary to protect the portion of the critical habitat to which the order relates or that the province or territory has brought into force laws that protect the portion, the Minister must recommend that the order be repealed . |  |
-| Acquisition of lands | 62. A competent minister may enter into an agreement with any government in Canada, organization or person to acquire any lands or interests in land for the purpose of protecting the critical habitat of any species at risk . |  |
+| Recommendat ion to repeal order | (6) If the Minister is of the opinion that an order made under subsection (2) is no longer necessary to protect the portion of the critical habitat to which the order relates or that the province or territory has brought into force laws that protect the portion, the Minister must recommend that the order be repealed. |  |
+| Acquisition of lands | 62. A competent minister may enter into an agreement with any government in Canada, organization or person to acquire any lands or interests in land for the purpose of protecting the critical habitat of any species at risk. |  |
 | Progress reports on unprotected portions of critical habitat | 63. If in the opinion of the Minister any portion of the critical habitat of a listed wildlife species remains unprotected 180 days after the recovery strategy or action plan that identified the critical habitat was included in the public registry, the Minister must include in that registry a report on the steps taken to protect the critical habitat. The Minister must continue to report with respect to every subsequent period of 180 days until the portion is protected or is no longer identified as critical habitat. |  |
 | Compensation | 64. (1) The Minister may, in accordance with the regulations, provide fair and reasonable compensation to any person for losses suffered as a result of any extraordinary impact of the application of |  |
 |  | (a) section 58, 60 or 61; or |  |
@@ -1298,8 +1325,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (b) the methods to be used in determining the eligibility of a person for compensation, the amount of loss suffered by a person and the amount of compensation in respect of any loss; and |  |
 |  | (c) the terms and conditions for the provision of compensation. |  |
 |  | Management of Species of Special Concern |  |
-| Preparation of management plan | 65. (1) Subject to subsection (2), within three years after a wildlife species is listed as a species of special concern, the competent minister must prepare a management plan for the species and its habitat. The plan must include measures for the conservation of the species that the competent minister considers appropriate and it may apply with respect to more than one wildlife species. |  |
-|  | (2) With respect to wildlife species that are set out in Schedule 1 as a species of special concern on the day section 27 comes into force, the competent minister must include a management plan in the public registry within five years after that day. |  |
+| Preparation of management plan | 65. If a wildlife species is listed as a species of special concern, the competent minister must prepare a management plan for the species and its habitat. The plan must include measures for the conservation of the species that the competent minister considers appropriate and it may apply with respect to more than one wildlife species. |  |
 | Cooperation with other ministers and governments | 66. (1) To the extent possible, the management plan must be prepared in cooperation with |  |
 |  | (a) the appropriate provincial and territorial minister of each province and territory in which the listed wildlife species is found; |  |
 |  | (b) every minister of the Government of Canada who has authority over federal land or other areas on which the species is found; |  |
@@ -1309,10 +1335,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Land claims agreement | (2) If the listed wildlife species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the management plan must be prepared, to the extent that it will apply to that area, in accordance with the provisions of the agreement. |  |
 | Consultation | (3) To the extent possible, the management plan must be prepared in consultation with any landowners, lessees and other persons whom the competent minister considers to be directly affected by, or interested in, the management plan, including the government of any other country in which the species is found. |  |
 | Multi-species or ecosystem approach permissible | 67. The competent minister may adopt a multi-species or an ecosystem approach when preparing the management plan if he or she considers it appropriate to do so. |  |
-| Public registry | 68. (1) When a management plan is completed, a copy of the management plan must be included in the public registry. |  |
-|  | (2) Within 90 days after the inclusion of a management plan in the public registry, the competent minister must consider the comments, if any, received in respect of the plan, make any changes to it that he or she considers appropriate and finalize the management plan by including a revised copy of the plan in the public registry. |  |
-| Existing plans | 69. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species includes adequate measures for the conservation of the species, the competent minister shall, after consultation with persons listed in section 66 , include a copy of the existing plan in the public registry as the management plan in relation to the species. |  |
-| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a management plan for the species, insofar as that existing plan meets the requirements as outlined in section 66. |  |
+| Proposed management plan | 68. (1) Subject to subsection (2), the competent minister must include a proposed management plan in the public registry within three years after the wildlife species is listed as a species of special concern. |  |
+| First listed species | (2) With respect to a wildlife species that is set out in Schedule 1 as a species of special concern on the day section 27 comes into force, the competent minister must include a proposed management plan in the public registry within five years after that day. |  |
+| Comments | (3) Within 60 days after the proposed management plan is included in the public registry, any person may file written comments with the competent minister. |  |
+| Finalization of management plan | (4) Within 30 days after the expiry of the period referred to in subsection (3), the competent minister must consider any comments received, make any changes to the proposed management plan that he or she considers appropriate and finalize the management plan by including a copy of it in the public registry. |  |
+| Existing plans | 69. (1) If the competent minister is of the opinion that an existing plan relating to a wildlife species includes adequate measures for the conservation of the species and the competent minister adopts the existing plan as the proposed management plan, he or she must include a copy of it in the public registry as the proposed management plan in relation to the species. |  |
+| Incorporation of existing plans | (2) The competent minister may incorporate any part of an existing plan relating to a wildlife species into a proposed management plan for the species. |  |
 | Amendments | 70. (1) The competent minister may at any time amend a management plan. A copy of the amendment must be included in the public registry. |  |
 | Amendment procedure | (2) Section 66 applies to amendments to the management plan, with any modifications that the circumstances require. |  |
 | Exception | (3) Subsection (2) does not apply if the competent minister considers the amendment to be minor. |  |
@@ -1324,24 +1352,18 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exception | (6) Subsection (5) does not apply |  |
 |  | (a) in respect of individuals of aquatic species and their habitat or species of birds that are migratory birds protected by the Migratory Birds Convention Act, 1994 and their habitat; or |  |
 |  | (b) in respect of land under the authority of the Minister or the Parks Canada Agency. |  |
-|  | 72. [Deleted] |  |
-| Monitoring | 73. The competent minister must monitor the implementation of the management plan and must assess its implementation five years after the plan is included in the public registry , until the plan has expired, has been replaced or the species status has improved and every five years thereafter, and must include a report of this assessment in that registry. |  |
+| Monitoring | 72. The competent minister must monitor the implementation of the management plan and must assess its implementation five years after the plan is included in the public registry, and in every subsequent five-year period, until its objectives have been achieved. The report must be included in the public registry. |  |
 |  | Agreements and Permits |  |
-| Powers of competent minister | 74. (1) An agreement, permit, licence, order or other form of approval under subsection (1.1) or section 75 is required in order for a person to engage in an activity adversely affecting any part of the critical habitat of a listed endangered, threatened or extirpated wildlife species, as identified in an action plan, if the species is: |  |
-|  | (a) on federal lands; |  |
-|  | (b) an aquatic species; or |  |
-|  | (c) a migratory bird species protected by the Migratory Birds Convention Act, 1994. |  |
-|  | (1.1) The competent minister may enter into an agreement with a person or issue a permit to a person, authorizing the person to engage in an activity adversely affecting a wildlife species, any part of its critical habitat or the residences of its individuals. |  |
+| Powers of competent minister | 73. (1) The competent minister may enter into an agreement with a person, or issue a permit to a person, authorizing the person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals. |  |
 | Purpose | (2) The agreement may be entered into, or the permit issued, only if the competent minister is of the opinion that |  |
 |  | (a) the activity is scientific research relating to the conservation of the species and conducted by qualified persons; |  |
 |  | (b) the activity benefits the species or is required to enhance its chance of survival in the wild; or |  |
 |  | (c) affecting the species is incidental to the carrying out of the activity. |  |
-|  | (2.1) No agreement under subsection (1) that affects fee simple land or the management and use of land or resources subject to resource management or use agreement with any government in Canada may be entered into without the consent of the parties to the agreement. |  |
 | Pre-conditions | (3) The agreement may be entered into, or the permit issued, only if the competent minister is of the opinion that |  |
-|  | (a) all reasonable alternatives to the activity that would reduce the impact on the species have been considered and the best alternative has been adopted, based on ecological, scientific, technical and socio-economic considerations; |  |
+|  | (a) all reasonable alternatives to the activity that would reduce the impact on the species have been considered and the best solution has been adopted; |  |
 |  | (b) all feasible measures will be taken to minimize the impact of the activity on the species or its critical habitat or the residences of its individuals; and |  |
 |  | (c) the activity will not jeopardize the survival or recovery of the species. |  |
-|  | (3.1) If an agreement is entered into or a permit is issued, the competent minister must include in the public registry an explanation of why it was entered into or issued, taking into account the matters referred to in paragraphs (3)(a), (b) and (c). |  |
+| Explanation in public registry | (3.1) If an agreement is entered into or a permit is issued, the competent minister must include in the public registry an explanation of why it was entered into or issued, taking into account the matters referred to in paragraphs (3)(a), (b) and (c). |  |
 | Consultation | (4) If the species is found in an area in respect of which a wildlife management board is authorized by a land claims agreement to perform functions in respect of wildlife species, the competent minister must consult the wildlife management board before entering into an agreement or issuing a permit concerning that species in that area. |  |
 | Consultation | (5) If the species is found in a reserve or any other lands that are set apart for the use and benefit of a band under the Indian Act, the competent minister must consult the band before entering into an agreement or issuing a permit concerning that species in that reserve or those other lands. |  |
 | Terms and conditions | (6) The agreement or permit must contain any terms and conditions governing the activity that the competent minister considers necessary for protecting the species, minimizing the impact of the authorized activity on the species or providing for its recovery. |  |
@@ -1349,22 +1371,26 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Amendment of agreements and permits | (8) The competent minister may revoke or amend an agreement or a permit to ensure the survival or recovery of a species. |  |
 | Maximum term | (9) No agreement may be entered into for a term longer than five years and no permit may be issued for a term longer than three years. |  |
 | Regulations | (10) The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations respecting the entering into of agreements, the issuance of permits and the renewal, revocation, amendment and suspension of agreements and permits. |  |
-| Agreements and permits under other Acts of Parliament | 75. In entering into, issuing or making an agreement, permit, licence, order or other form of approval under another Act of Parliament authorizing a person or organization to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals, a federal minister shall: |  |
-|  | (a) before it is entered into, issued or made, ensure that the requirements of subsections 74(2) to (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, comply with the requirements of subsections 74(7) and (8), in which case the agreement, permit, licence, order or other form of approval has the same effect as an agreement or permit under subsection 74(1.1). |  |
-| Adding terms and conditions | 76. (1) A competent minister may add terms and conditions to protect a listed wildlife species, any part of its critical habitat or the residences of its individuals to any agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting the species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament. |  |
+| Competent minister acting under other Acts | 74. An agreement, permit, licence, order or other similar document authorizing a person or organization to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament has the same effect as an agreement or permit under subsection 73(1) if |  |
+|  | (a) before it is entered into, issued or made, the competent minister is of the opinion that the requirements of subsections 73(2) to (6) and (9) are met; and |  |
+|  | (b) after it is entered into, issued or made, the competent minister complies with the requirements of subsection 73(7). |  |
+| Adding terms and conditions | 75. (1) A competent minister may add terms and conditions to protect a listed wildlife species, any part of its critical habitat or the residences of its individuals to any agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting the species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament. |  |
 | Amending terms and conditions | (2) A competent minister may also revoke or amend any term or condition in any of those documents to protect a listed wildlife species, any part of its critical habitat or the residences of its individuals. |  |
 | Treaties and land claims agreements | (3) The competent minister must take into account any applicable provisions of treaty and land claims agreements when carrying out his or her powers under this section. |  |
+| Exemption for existing agreements, permits, etc. | 76. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
+| Licences, permits, etc., under other Acts of Parliament | 77 (1) Despite any other Act of Parliament, any person or body, other than a competent minister, authorized under any Act of Parliament, other than this Act, to issue or approve a licence, a permit or any other authorization that authorizes an activity that may result in the destruction of any part of the critical habitat of a listed wildlife species may enter into, issue, approve or make the authorization only if the person or body has consulted with the competent minister, has considered the impact on the species' critical habitat and is of the opinion that |  |
+|  | (a) all reasonable alternatives to the activity that would reduce the impact on the species' critical habitat have been considered and the best solution has been adopted; and |  |
+|  | (b) all feasible measures will be taken to minimize the impact of the activity on the species' critical habitat. |  |
+| Application of section 58 | (2) For greater certainty, section 58 applies even though a licence, a permit or any other authorization has been issued in accordance with subsection (1). |  |
+| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 73(1) if |  |
+|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 73(2), (3), (6) and (9) are met; and |  |
+|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 73(7). |  |
+| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 73(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 
-| Exemption for existing agreements, permits, etc. | 77. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
-| --- | --- | --- |
-| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 74(1) if |  |
-|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 74(2), (3), (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 74(7). |  |
-| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 74(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 |  | Project Review |  |
+| --- | --- | --- |
 | Notification of Minister | 79. (1) Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat. |  |
-| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and action plans. |  |
+| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and actions plans. |  |
 | Definitions | (3) The definitions in this subsection apply in this section. |  |
 | ``person'' « personne » | ``person'' includes an association or organization, and a responsible authority as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
 | ``project'' « projet » | ``project'' means a project as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
@@ -1396,7 +1422,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Exceptions |  |
 | General exceptions | 83. (1) Subsections 32(1) and (2), section 33, subsections 36(1), 58(1), 60(1) and 61(1), regulations made under section 53, 59 or 71 and emergency orders do not apply to a person who is engaging in |  |
 |  | (a) activities related to public safety, health or national security, that are authorized by or under any other Act of Parliament or activities under the Health of Animals Act and the Plant Protection Act for the health of animals and plants; or |  |
-|  | (b) activities authorized under section 74, 75 or 78 by an agreement, permit, licence, order or similar document. |  |
+|  | (b) activities authorized under section 73, 74 or 78 by an agreement, permit, licence, order or similar document. |  |
 | Authorization of activities under other Acts | (2) A power under an Act described in paragraph (1)(a) may be used to authorize an activity prohibited by subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1), a regulation made under section 53, 59 or 71 or an emergency order only if the person exercising the power |  |
 |  | (a) determines that the activity is necessary for the protection of public safety, health, including animal and plant health, or national security; and |  |
 |  | (b) respects the purposes of this Act to the greatest extent possible. |  |
@@ -1404,7 +1430,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exemptions for permitted activities | (4) Subsections 32(1) and (2), section 33 and subsections 36(1), 58(1), 60(1) and 61(1) do not apply to a person who is engaging in activities that are permitted by a recovery strategy, an action plan or a management plan and who is also authorized under an Act of Parliament to engage in that activity, including a regulation made under section 53, 59 or 71. |  |
 | Additional possession exceptions | (5) Subsection 32(2) and paragraph 36(1)(b) do not apply to a person who possesses an individual of a listed extirpated, endangered or threatened species, or any part or derivative of such an individual, if |  |
 |  | (a) it was in the person's possession when the species was listed; |  |
-|  | (b) it is used for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
+|  | (b) it is used by an aboriginal person for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
 |  | (c) the person acquired it legally in another country and imported it legally into Canada; |  |
 |  | (d) the person acquired it by succession from someone who was entitled to possess it under this Act; |  |
 |  | (e) the person acquired it under circumstances that would afford them a defence under section 100 and the person possesses it only for as long as is necessary to donate it to a museum, a zoo, an educational institution, a scientific society or a government; |  |
@@ -1444,15 +1470,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) use or cause to be used any copying equipment at the place to make copies of the record. |  |
 | Duty of person in possession or control | (9) Every person who is in possession or control of a place being inspected under this section must permit the enforcement officer to do anything referred to in subsection (8). |  |
 
-| Exemption for existing agreements, permits, etc. | 77. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
-| --- | --- | --- |
-| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 74(1) if |  |
-|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 74(2), (3), (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 74(7). |  |
-| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 74(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 |  | Project Review |  |
+| --- | --- | --- |
 | Notification of Minister | 79. (1) Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat. |  |
-| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and action plans. |  |
+| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and actions plans. |  |
 | Definitions | (3) The definitions in this subsection apply in this section. |  |
 | ``person'' « personne » | ``person'' includes an association or organization, and a responsible authority as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
 | ``project'' « projet » | ``project'' means a project as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
@@ -1484,7 +1505,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Exceptions |  |
 | General exceptions | 83. (1) Subsections 32(1) and (2), section 33, subsections 36(1), 58(1), 60(1) and 61(1), regulations made under section 53, 59 or 71 and emergency orders do not apply to a person who is engaging in |  |
 |  | (a) activities related to public safety, health or national security, that are authorized by or under any other Act of Parliament or activities under the Health of Animals Act and the Plant Protection Act for the health of animals and plants; or |  |
-|  | (b) activities authorized under section 74, 75 or 78 by an agreement, permit, licence, order or similar document. |  |
+|  | (b) activities authorized under section 73, 74 or 78 by an agreement, permit, licence, order or similar document. |  |
 | Authorization of activities under other Acts | (2) A power under an Act described in paragraph (1)(a) may be used to authorize an activity prohibited by subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1), a regulation made under section 53, 59 or 71 or an emergency order only if the person exercising the power |  |
 |  | (a) determines that the activity is necessary for the protection of public safety, health, including animal and plant health, or national security; and |  |
 |  | (b) respects the purposes of this Act to the greatest extent possible. |  |
@@ -1492,7 +1513,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exemptions for permitted activities | (4) Subsections 32(1) and (2), section 33 and subsections 36(1), 58(1), 60(1) and 61(1) do not apply to a person who is engaging in activities that are permitted by a recovery strategy, an action plan or a management plan and who is also authorized under an Act of Parliament to engage in that activity, including a regulation made under section 53, 59 or 71. |  |
 | Additional possession exceptions | (5) Subsection 32(2) and paragraph 36(1)(b) do not apply to a person who possesses an individual of a listed extirpated, endangered or threatened species, or any part or derivative of such an individual, if |  |
 |  | (a) it was in the person's possession when the species was listed; |  |
-|  | (b) it is used for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
+|  | (b) it is used by an aboriginal person for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
 |  | (c) the person acquired it legally in another country and imported it legally into Canada; |  |
 |  | (d) the person acquired it by succession from someone who was entitled to possess it under this Act; |  |
 |  | (e) the person acquired it under circumstances that would afford them a defence under section 100 and the person possesses it only for as long as is necessary to donate it to a museum, a zoo, an educational institution, a scientific society or a government; |  |
@@ -1532,15 +1553,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) use or cause to be used any copying equipment at the place to make copies of the record. |  |
 | Duty of person in possession or control | (9) Every person who is in possession or control of a place being inspected under this section must permit the enforcement officer to do anything referred to in subsection (8). |  |
 
-| Exemption for existing agreements, permits, etc. | 77. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
-| --- | --- | --- |
-| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 74(1) if |  |
-|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 74(2), (3), (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 74(7). |  |
-| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 74(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 |  | Project Review |  |
+| --- | --- | --- |
 | Notification of Minister | 79. (1) Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat. |  |
-| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and action plans. |  |
+| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and actions plans. |  |
 | Definitions | (3) The definitions in this subsection apply in this section. |  |
 | ``person'' « personne » | ``person'' includes an association or organization, and a responsible authority as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
 | ``project'' « projet » | ``project'' means a project as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
@@ -1572,7 +1588,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Exceptions |  |
 | General exceptions | 83. (1) Subsections 32(1) and (2), section 33, subsections 36(1), 58(1), 60(1) and 61(1), regulations made under section 53, 59 or 71 and emergency orders do not apply to a person who is engaging in |  |
 |  | (a) activities related to public safety, health or national security, that are authorized by or under any other Act of Parliament or activities under the Health of Animals Act and the Plant Protection Act for the health of animals and plants; or |  |
-|  | (b) activities authorized under section 74, 75 or 78 by an agreement, permit, licence, order or similar document. |  |
+|  | (b) activities authorized under section 73, 74 or 78 by an agreement, permit, licence, order or similar document. |  |
 | Authorization of activities under other Acts | (2) A power under an Act described in paragraph (1)(a) may be used to authorize an activity prohibited by subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1), a regulation made under section 53, 59 or 71 or an emergency order only if the person exercising the power |  |
 |  | (a) determines that the activity is necessary for the protection of public safety, health, including animal and plant health, or national security; and |  |
 |  | (b) respects the purposes of this Act to the greatest extent possible. |  |
@@ -1580,7 +1596,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exemptions for permitted activities | (4) Subsections 32(1) and (2), section 33 and subsections 36(1), 58(1), 60(1) and 61(1) do not apply to a person who is engaging in activities that are permitted by a recovery strategy, an action plan or a management plan and who is also authorized under an Act of Parliament to engage in that activity, including a regulation made under section 53, 59 or 71. |  |
 | Additional possession exceptions | (5) Subsection 32(2) and paragraph 36(1)(b) do not apply to a person who possesses an individual of a listed extirpated, endangered or threatened species, or any part or derivative of such an individual, if |  |
 |  | (a) it was in the person's possession when the species was listed; |  |
-|  | (b) it is used for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
+|  | (b) it is used by an aboriginal person for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
 |  | (c) the person acquired it legally in another country and imported it legally into Canada; |  |
 |  | (d) the person acquired it by succession from someone who was entitled to possess it under this Act; |  |
 |  | (e) the person acquired it under circumstances that would afford them a defence under section 100 and the person possesses it only for as long as is necessary to donate it to a museum, a zoo, an educational institution, a scientific society or a government; |  |
@@ -1620,15 +1636,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) use or cause to be used any copying equipment at the place to make copies of the record. |  |
 | Duty of person in possession or control | (9) Every person who is in possession or control of a place being inspected under this section must permit the enforcement officer to do anything referred to in subsection (8). |  |
 
-| Exemption for existing agreements, permits, etc. | 77. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
-| --- | --- | --- |
-| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 74(1) if |  |
-|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 74(2), (3), (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 74(7). |  |
-| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 74(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 |  | Project Review |  |
+| --- | --- | --- |
 | Notification of Minister | 79. (1) Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat. |  |
-| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and action plans. |  |
+| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and actions plans. |  |
 | Definitions | (3) The definitions in this subsection apply in this section. |  |
 | ``person'' « personne » | ``person'' includes an association or organization, and a responsible authority as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
 | ``project'' « projet » | ``project'' means a project as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
@@ -1660,7 +1671,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Exceptions |  |
 | General exceptions | 83. (1) Subsections 32(1) and (2), section 33, subsections 36(1), 58(1), 60(1) and 61(1), regulations made under section 53, 59 or 71 and emergency orders do not apply to a person who is engaging in |  |
 |  | (a) activities related to public safety, health or national security, that are authorized by or under any other Act of Parliament or activities under the Health of Animals Act and the Plant Protection Act for the health of animals and plants; or |  |
-|  | (b) activities authorized under section 74, 75 or 78 by an agreement, permit, licence, order or similar document. |  |
+|  | (b) activities authorized under section 73, 74 or 78 by an agreement, permit, licence, order or similar document. |  |
 | Authorization of activities under other Acts | (2) A power under an Act described in paragraph (1)(a) may be used to authorize an activity prohibited by subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1), a regulation made under section 53, 59 or 71 or an emergency order only if the person exercising the power |  |
 |  | (a) determines that the activity is necessary for the protection of public safety, health, including animal and plant health, or national security; and |  |
 |  | (b) respects the purposes of this Act to the greatest extent possible. |  |
@@ -1668,7 +1679,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exemptions for permitted activities | (4) Subsections 32(1) and (2), section 33 and subsections 36(1), 58(1), 60(1) and 61(1) do not apply to a person who is engaging in activities that are permitted by a recovery strategy, an action plan or a management plan and who is also authorized under an Act of Parliament to engage in that activity, including a regulation made under section 53, 59 or 71. |  |
 | Additional possession exceptions | (5) Subsection 32(2) and paragraph 36(1)(b) do not apply to a person who possesses an individual of a listed extirpated, endangered or threatened species, or any part or derivative of such an individual, if |  |
 |  | (a) it was in the person's possession when the species was listed; |  |
-|  | (b) it is used for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
+|  | (b) it is used by an aboriginal person for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
 |  | (c) the person acquired it legally in another country and imported it legally into Canada; |  |
 |  | (d) the person acquired it by succession from someone who was entitled to possess it under this Act; |  |
 |  | (e) the person acquired it under circumstances that would afford them a defence under section 100 and the person possesses it only for as long as is necessary to donate it to a museum, a zoo, an educational institution, a scientific society or a government; |  |
@@ -1708,15 +1719,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) use or cause to be used any copying equipment at the place to make copies of the record. |  |
 | Duty of person in possession or control | (9) Every person who is in possession or control of a place being inspected under this section must permit the enforcement officer to do anything referred to in subsection (8). |  |
 
-| Exemption for existing agreements, permits, etc. | 77. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
-| --- | --- | --- |
-| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 74(1) if |  |
-|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 74(2), (3), (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 74(7). |  |
-| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 74(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 |  | Project Review |  |
+| --- | --- | --- |
 | Notification of Minister | 79. (1) Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat. |  |
-| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and action plans. |  |
+| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and actions plans. |  |
 | Definitions | (3) The definitions in this subsection apply in this section. |  |
 | ``person'' « personne » | ``person'' includes an association or organization, and a responsible authority as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
 | ``project'' « projet » | ``project'' means a project as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
@@ -1748,7 +1754,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Exceptions |  |
 | General exceptions | 83. (1) Subsections 32(1) and (2), section 33, subsections 36(1), 58(1), 60(1) and 61(1), regulations made under section 53, 59 or 71 and emergency orders do not apply to a person who is engaging in |  |
 |  | (a) activities related to public safety, health or national security, that are authorized by or under any other Act of Parliament or activities under the Health of Animals Act and the Plant Protection Act for the health of animals and plants; or |  |
-|  | (b) activities authorized under section 74, 75 or 78 by an agreement, permit, licence, order or similar document. |  |
+|  | (b) activities authorized under section 73, 74 or 78 by an agreement, permit, licence, order or similar document. |  |
 | Authorization of activities under other Acts | (2) A power under an Act described in paragraph (1)(a) may be used to authorize an activity prohibited by subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1), a regulation made under section 53, 59 or 71 or an emergency order only if the person exercising the power |  |
 |  | (a) determines that the activity is necessary for the protection of public safety, health, including animal and plant health, or national security; and |  |
 |  | (b) respects the purposes of this Act to the greatest extent possible. |  |
@@ -1756,7 +1762,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exemptions for permitted activities | (4) Subsections 32(1) and (2), section 33 and subsections 36(1), 58(1), 60(1) and 61(1) do not apply to a person who is engaging in activities that are permitted by a recovery strategy, an action plan or a management plan and who is also authorized under an Act of Parliament to engage in that activity, including a regulation made under section 53, 59 or 71. |  |
 | Additional possession exceptions | (5) Subsection 32(2) and paragraph 36(1)(b) do not apply to a person who possesses an individual of a listed extirpated, endangered or threatened species, or any part or derivative of such an individual, if |  |
 |  | (a) it was in the person's possession when the species was listed; |  |
-|  | (b) it is used for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
+|  | (b) it is used by an aboriginal person for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
 |  | (c) the person acquired it legally in another country and imported it legally into Canada; |  |
 |  | (d) the person acquired it by succession from someone who was entitled to possess it under this Act; |  |
 |  | (e) the person acquired it under circumstances that would afford them a defence under section 100 and the person possesses it only for as long as is necessary to donate it to a museum, a zoo, an educational institution, a scientific society or a government; |  |
@@ -1796,15 +1802,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) use or cause to be used any copying equipment at the place to make copies of the record. |  |
 | Duty of person in possession or control | (9) Every person who is in possession or control of a place being inspected under this section must permit the enforcement officer to do anything referred to in subsection (8). |  |
 
-| Exemption for existing agreements, permits, etc. | 77. The Governor in Council may, on the recommendation of a competent minister, by order, provide that section 32, 33, 36, 58, 60 or 61, or any regulation made under section 53, 59 or 71, does not apply, for a period of up to one year from the date of listing of a wildlife species, to agreements, permits, licences, orders or other similar documents authorizing persons to engage in an activity affecting the listed wildlife species, any part of its critical habitat or the residences of its individuals that were entered into, issued or made under another Act of Parliament before the species was listed. |  |
-| --- | --- | --- |
-| Agreements and permits under other provincial and territorial Acts | 78. (1) An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 74(1) if |  |
-|  | (a) before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 74(2), (3), (6) and (9) are met; and |  |
-|  | (b) after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 74(7). |  |
-| Interpretation | (2) For the purpose of subsection (1), the references to ``competent minister'' in subsections 74(2), (3), (6) and (7) are to be read as references to ``provincial minister'' or ``territorial minister'', as the case may be. |  |
 |  | Project Review |  |
+| --- | --- | --- |
 | Notification of Minister | 79. (1) Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat. |  |
-| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and action plans. |  |
+| Required action | (2) The person must identify the adverse effects of the project on the listed wildlife species and its critical habitat and, if the project is carried out, must ensure that measures are taken to avoid or lessen those effects and to monitor them. The measures must be taken in a way that is consistent with any applicable recovery strategy and actions plans. |  |
 | Definitions | (3) The definitions in this subsection apply in this section. |  |
 | ``person'' « personne » | ``person'' includes an association or organization, and a responsible authority as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
 | ``project'' « projet » | ``project'' means a project as defined in subsection 2(1) of the Canadian Environmental Assessment Act. |  |
@@ -1836,7 +1837,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Exceptions |  |
 | General exceptions | 83. (1) Subsections 32(1) and (2), section 33, subsections 36(1), 58(1), 60(1) and 61(1), regulations made under section 53, 59 or 71 and emergency orders do not apply to a person who is engaging in |  |
 |  | (a) activities related to public safety, health or national security, that are authorized by or under any other Act of Parliament or activities under the Health of Animals Act and the Plant Protection Act for the health of animals and plants; or |  |
-|  | (b) activities authorized under section 74, 75 or 78 by an agreement, permit, licence, order or similar document. |  |
+|  | (b) activities authorized under section 73, 74 or 78 by an agreement, permit, licence, order or similar document. |  |
 | Authorization of activities under other Acts | (2) A power under an Act described in paragraph (1)(a) may be used to authorize an activity prohibited by subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1), a regulation made under section 53, 59 or 71 or an emergency order only if the person exercising the power |  |
 |  | (a) determines that the activity is necessary for the protection of public safety, health, including animal and plant health, or national security; and |  |
 |  | (b) respects the purposes of this Act to the greatest extent possible. |  |
@@ -1844,7 +1845,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Exemptions for permitted activities | (4) Subsections 32(1) and (2), section 33 and subsections 36(1), 58(1), 60(1) and 61(1) do not apply to a person who is engaging in activities that are permitted by a recovery strategy, an action plan or a management plan and who is also authorized under an Act of Parliament to engage in that activity, including a regulation made under section 53, 59 or 71. |  |
 | Additional possession exceptions | (5) Subsection 32(2) and paragraph 36(1)(b) do not apply to a person who possesses an individual of a listed extirpated, endangered or threatened species, or any part or derivative of such an individual, if |  |
 |  | (a) it was in the person's possession when the species was listed; |  |
-|  | (b) it is used for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
+|  | (b) it is used by an aboriginal person for ceremonial or medicinal purposes, or it is part of ceremonial dress used for ceremonial or cultural purposes by an aboriginal person; |  |
 |  | (c) the person acquired it legally in another country and imported it legally into Canada; |  |
 |  | (d) the person acquired it by succession from someone who was entitled to possess it under this Act; |  |
 |  | (e) the person acquired it under circumstances that would afford them a defence under section 100 and the person possesses it only for as long as is necessary to donate it to a museum, a zoo, an educational institution, a scientific society or a government; |  |
@@ -1924,7 +1925,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Personal information not to be disclosed | (4) A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about him or her. |  |
 | When report need not be sent | (5) If another investigation in relation to the alleged offence is ongoing apart from the application, the competent minister need not send copies of a report described in subsection (2) or (3) until the other investigation is suspended or concluded. |  |
 |  | OFFENCES AND PUNISHMENT |  |
-| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1), 61(1) or 74(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
+| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
 |  | (a) is guilty of an offence punishable on summary conviction and is liable |  |
 |  | (i) in the case of a corporation, other than a non-profit corporation, to a fine of not more than $300,000, |  |
 |  | (ii) in the case of a non-profit corporation, to a fine of not more than $50,000, and |  |
@@ -1938,7 +1939,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Continuing offence | (4) A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued. |  |
 | Fines cumulative | (5) A fine imposed for an offence involving more than one animal, plant or other organism may be calculated in respect of each one as though it had been the subject of a separate information and the fine then imposed is the total of that calculation. |  |
 | Additional fine | (6) If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court's estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act. |  |
-|  | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
+| Meaning of ``non-profit corporation'' | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
 | Officers, etc., of corporations | 98. If a corporation commits an offence, any officer, director, agent or mandatory of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted. |  |
 | Offences by employees or agents | 99. In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatory of the accused, whether or not the employee, agent or mandatory has been prosecuted for the offence. |  |
 | Due diligence | 100. Due diligence is a defence in a prosecution for an offence. |  |
@@ -2010,7 +2011,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Personal information not to be disclosed | (4) A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about him or her. |  |
 | When report need not be sent | (5) If another investigation in relation to the alleged offence is ongoing apart from the application, the competent minister need not send copies of a report described in subsection (2) or (3) until the other investigation is suspended or concluded. |  |
 |  | OFFENCES AND PUNISHMENT |  |
-| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1), 61(1) or 74(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
+| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
 |  | (a) is guilty of an offence punishable on summary conviction and is liable |  |
 |  | (i) in the case of a corporation, other than a non-profit corporation, to a fine of not more than $300,000, |  |
 |  | (ii) in the case of a non-profit corporation, to a fine of not more than $50,000, and |  |
@@ -2024,7 +2025,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Continuing offence | (4) A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued. |  |
 | Fines cumulative | (5) A fine imposed for an offence involving more than one animal, plant or other organism may be calculated in respect of each one as though it had been the subject of a separate information and the fine then imposed is the total of that calculation. |  |
 | Additional fine | (6) If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court's estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act. |  |
-|  | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
+| Meaning of ``non-profit corporation'' | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
 | Officers, etc., of corporations | 98. If a corporation commits an offence, any officer, director, agent or mandatory of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted. |  |
 | Offences by employees or agents | 99. In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatory of the accused, whether or not the employee, agent or mandatory has been prosecuted for the offence. |  |
 | Due diligence | 100. Due diligence is a defence in a prosecution for an offence. |  |
@@ -2096,7 +2097,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Personal information not to be disclosed | (4) A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about him or her. |  |
 | When report need not be sent | (5) If another investigation in relation to the alleged offence is ongoing apart from the application, the competent minister need not send copies of a report described in subsection (2) or (3) until the other investigation is suspended or concluded. |  |
 |  | OFFENCES AND PUNISHMENT |  |
-| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1), 61(1) or 74(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
+| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
 |  | (a) is guilty of an offence punishable on summary conviction and is liable |  |
 |  | (i) in the case of a corporation, other than a non-profit corporation, to a fine of not more than $300,000, |  |
 |  | (ii) in the case of a non-profit corporation, to a fine of not more than $50,000, and |  |
@@ -2110,7 +2111,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Continuing offence | (4) A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued. |  |
 | Fines cumulative | (5) A fine imposed for an offence involving more than one animal, plant or other organism may be calculated in respect of each one as though it had been the subject of a separate information and the fine then imposed is the total of that calculation. |  |
 | Additional fine | (6) If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court's estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act. |  |
-|  | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
+| Meaning of ``non-profit corporation'' | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
 | Officers, etc., of corporations | 98. If a corporation commits an offence, any officer, director, agent or mandatory of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted. |  |
 | Offences by employees or agents | 99. In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatory of the accused, whether or not the employee, agent or mandatory has been prosecuted for the offence. |  |
 | Due diligence | 100. Due diligence is a defence in a prosecution for an offence. |  |
@@ -2182,7 +2183,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Personal information not to be disclosed | (4) A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about him or her. |  |
 | When report need not be sent | (5) If another investigation in relation to the alleged offence is ongoing apart from the application, the competent minister need not send copies of a report described in subsection (2) or (3) until the other investigation is suspended or concluded. |  |
 |  | OFFENCES AND PUNISHMENT |  |
-| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1), 61(1) or 74(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
+| Contravention s | 97. (1) Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act, |  |
 |  | (a) is guilty of an offence punishable on summary conviction and is liable |  |
 |  | (i) in the case of a corporation, other than a non-profit corporation, to a fine of not more than $300,000, |  |
 |  | (ii) in the case of a non-profit corporation, to a fine of not more than $50,000, and |  |
@@ -2196,7 +2197,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Continuing offence | (4) A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued. |  |
 | Fines cumulative | (5) A fine imposed for an offence involving more than one animal, plant or other organism may be calculated in respect of each one as though it had been the subject of a separate information and the fine then imposed is the total of that calculation. |  |
 | Additional fine | (6) If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court's estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act. |  |
-|  | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
+| Meaning of ``non-profit corporation'' | (7) For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ``non-profit corporation'' means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation. |  |
 | Officers, etc., of corporations | 98. If a corporation commits an offence, any officer, director, agent or mandatory of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted. |  |
 | Offences by employees or agents | 99. In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatory of the accused, whether or not the employee, agent or mandatory has been prosecuted for the offence. |  |
 | Due diligence | 100. Due diligence is a defence in a prosecution for an offence. |  |
@@ -2278,7 +2279,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Filing varied agreement | (2) An agreement that has been varied must be filed in accordance with section 111 with the court in which the original agreement was filed. |  |
 | Application of provisions dealing with records | 114. Sections 115 to 117 apply only in respect of persons who have entered into an alternative measures agreement, regardless of the degree of their compliance with the terms and conditions of the agreement. |  |
 | Disclosure of information by peace officer or enforcement officer | 115. Where it is necessary in the conduct of an investigation of an offence, a peace officer or enforcement officer may disclose to a department or agency of a government in Canada any information in a record relating to an offence alleged to have been committed by a person, including the original or a copy of any fingerprints or photographs of the person. |  |
-|  | (2) [Deleted] |  |
 | Government records | 116. (1) The competent minister, any enforcement officer and any department or agency of a government in Canada with which the competent minister has entered into an agreement under section 10 may keep records and use information obtained as a result of the use of alternative measures to deal with a person |  |
 |  | (a) for the purposes of an inspection under this Act or an investigation of an offence alleged to have been committed by a person; |  |
 |  | (b) in proceedings against a person under this Act; |  |
@@ -2319,13 +2319,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2334,7 +2333,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2342,16 +2341,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2362,7 +2361,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2398,13 +2398,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2413,7 +2412,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2421,16 +2420,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2441,7 +2440,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2477,13 +2477,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2492,7 +2491,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2500,16 +2499,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2520,7 +2519,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2556,13 +2556,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2571,7 +2570,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2579,16 +2578,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2599,7 +2598,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2635,13 +2635,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2650,7 +2649,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2658,16 +2657,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2678,7 +2677,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2714,13 +2714,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2729,7 +2728,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2737,16 +2736,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2757,7 +2756,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2793,13 +2793,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (d) status reports on wildlife species that COSEWIC has had prepared or has received with an application; |  |
 |  | (e) the List of Wildlife Species at Risk; |  |
 |  | (f) codes of practice, national standards or guidelines established under this Act; |  |
-|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; |  |
-|  | (h) every report made under sections 126 and 128; and |  |
-|  | (i) all ministerial reports including listing decisions. |  |
+|  | (g) agreements and reports filed under section 111 or subsection 113(2) or notices that those agreements or reports have been filed in court and are available to the public; and |  |
+|  | (h) every report made under sections 126 and 128. |  |
 | Restriction | 124. The Minister, on the advice of COSEWIC, may restrict the release of any information required to be included in the public registry if that information relates to the location of a wildlife species or its habitat and restricting its release would be in the best interests of the species. |  |
 |  | FEES AND CHARGES |  |
 | Regulations | 125. (1) The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations |  |
-|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 74, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
+|  | (a) prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry; |  |
 |  | (b) exempting any person or class of persons from the requirement to pay any of those fees or charges; and |  |
 |  | (c) generally, in respect of any condition or any other matter in relation to the payment of those fees or charges. |  |
 | Recovery of fees | (2) A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
@@ -2808,7 +2807,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | (a) COSEWIC's assessments and the Minister's response to each of them; |  |
 |  | (b) the preparation and implementation of recovery strategies, action plans and management plans; |  |
 |  | (c) all agreements made under sections 10 to 13; |  |
-|  | (d) all agreements entered into and permits issued under section 74 and all agreements and permits amended under section 76 or exempted under section 77; |  |
+|  | (d) all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76; |  |
 |  | (e) enforcement and compliance actions taken, including the response to any requests for investigation; |  |
 |  | (f) regulations and emergency orders made under this Act; and |  |
 |  | (g) any other matters that the Minister considers relevant. |  |
@@ -2816,16 +2815,16 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | Recommendat ions to be in public registry | (2) Any written recommendations from the round table must be included in the public registry. |  |
 | Response of Minister | (3) The Minister must respond to any written recommendations from the round table within 180 days after receiving them and a copy of the Minister's response must be included in the public registry. |  |
 | Reports on status of wildlife species | 128. Five years after this section comes into force and at the end of each subsequent period of five years, the Minister must prepare a general report on the status of wildlife species. The Minister must have the report tabled in each House of Parliament within the first 15 days that it is sitting after the completion of the report. |  |
-| Parliamentary review of Act | 129. Five years after this section comes into force, and at the end of each subsequent period of five years , a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
+| Parliamentary review of Act | 129. Five years after this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act. |  |
 |  | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES |  |
 | Assessment of status | 130. (1) COSEWIC must assess the status of each wildlife species set out in Schedule 2 or 3, and, as part of the assessment, identify existing and potential threats to the species and |  |
 |  | (a) classify the species as extinct, extirpated, endangered, threatened or of special concern; |  |
 |  | (b) indicate that COSEWIC does not have sufficient information to classify the species; or |  |
 |  | (c) indicate that the species is not currently at risk. |  |
-| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2 , the assessment must be completed within 30 days after section 14 comes into force. |  |
-| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2 . |  |
+| Time for assessment - Schedule 2 | (2) In the case of a species set out in Schedule 2, the assessment must be completed within 30 days after section 14 comes into force. |  |
+| Deemed classification | (3) If an assessment of a wildlife species set out in Schedule 2 is not completed within the required time or, if there has been an extension, within the extended time, COSEWIC is deemed to have classified the species as indicated in Schedule 2. |  |
 | Time for assessment - Schedule 3 | (4) In the case of a species set out in Schedule 3, the assessment must be completed within one year after the competent minister requests the assessment. If there is more than one competent minister with respect to the species, they must make the request jointly. |  |
-| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3 . The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
+| Extension | (5) The Governor in Council may, on the recommendation of the Minister after consultation with the competent minister or ministers, by order, extend the time provided for the assessment of any species set out in Schedule 2 or 3. The Minister must include a statement in the public registry setting out the reasons for the extension. |  |
 | Provisions apply | (6) Subsections 15(2) and (3) and 21(1) and section 25 apply with respect to assessments under subsection (1). |  |
 | Recent reports | (7) In making its assessment of a wildlife species, COSEWIC may take into account and rely on any report on the species that was prepared in the two-year period before this Act receives royal assent. |  |
 | Section 27 applies | 131. Section 27 applies in respect of a wildlife species referred to in section 130 that COSEWIC classifies as extinct, extirpated, endangered, threatened or of special concern or that is deemed to have been so classified. |  |
@@ -2836,7 +2835,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | 134. Section 4 of the Canada Wildlife Act is amended by adding the following after subsection (2): |  |
 | Powers in relation to lands administered by other ministers | (3) If public lands under the administration of a minister of the Crown other than the Minister are, in the opinion of the Minister and the other minister, required for wildlife research, conservation or interpretation, the Governor in Council may, on the recommendation of both ministers, by order, authorize the Minister to exercise, with the concurrence of the other minister, the powers referred to in subsection (2) in relation to those lands or any portion of them specified in the order. |  |
 |  | 135. The Act is amended by adding the following after section 4.1: |  |
-| Delegation by Minister | 4.2 The Minister may delegate to any other minister of the Crown any power conferred on the Minister under this Act. The Minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 4.2 (1) The Minister may delegate to any minister of the Crown in right of Canada any power conferred on the Minister under this Act. The other minister may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Sub-delegatio n | (2) The other minister may delegate any power delegated under subsection (1) to any person employed in any department for which that other minister is responsible. |  |
 | 1991, c. 50, s. 48(1) | 136. (1) Paragraph 12(a) of the Act is replaced by the following: |  |
 |  | (a) prohibiting entry, generally or for any specified period or purpose, of any person on lands under the administration of the Minister, or on public lands referred to in an order made under subsection 4(3), or on any part of those lands; |  |
 | 1994, c. 23, s. 14(3) | (2) Paragraphs 12(i) and (j) of the Act are replaced by the following: |  |
@@ -2863,55 +2863,84 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 | 1994, c. 22 | Migratory Birds Convention Act, 1994 |  |
 | --- | --- | --- |
 |  | 138. The Migratory Birds Convention Act, 1994 is amended by adding the following after section 11: |  |
-| Delegation by Minister | 11.1 The Minister may delegate to any government in Canada any power conferred on the Minister under this Act relating to its enforcement and permits. The government may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 11.1 The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this Act relating to its enforcement or the issuance, renewal, revocation and suspension of permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
 | 1992, c. 52 | Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act |  |
 |  | 139. Section 10 of the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act is amended by adding the following after subsection (3): |  |
-| Delegation by Minister | (4) The Minister may delegate to any government in Canada any power conferred on the Minister under this section relating to its enforcement and permits. The government may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
-|  | 138. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
+| Delegation by Minister | (4) The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this section relating to permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+|  | 140. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
 |  | (v) for the purposes of section 8; |  |
-|  | 139. The Act is amended by adding the following after section 21: |  |
+|  | 141. The Act is amended by adding the following after section 21: |  |
 | Order | 21.1 (1) The Governor in Council may, on the recommendation of the Minister, by order, amend the definition ``animal'' or ``plant'' in section 2 for the purposes of subsection 6(2). |  |
 | Recommendat ion | (2) If the Minister is of the opinion that the import of any specimen, living or dead, would be harmful to Canadian ecosystems or to any species in Canada and that urgent action is needed, the Minister may recommend that an order be made under subsection (1). |  |
 | Duration of amendment | (3) The amendment made by the order applies for the period specified in the order, which period may not be longer than one year from the day the order is made. |  |
 | Exemption | (4) The order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+|  | COORDINATING AMENDMENT |  |
+| Bill C-10 | 141.1 If Bill C-10, introduced in the 1st Session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act, receives royal assent, then, on the later of the coming into force of subsection 34(2) of that Act and the definition ``competent minister'' in subsection 2(1) of this Act, paragraph (a) of the definition ``competent minister'' in subsection 2(1) of this Act is replaced by the following: |  |
+|  | (a) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites, national marine conservation areas or other protected heritage areas as those expressions are defined in subsection 2(1) of the Parks Canada Agency Act. |  |
 |  | COMING INTO FORCE |  |
-| Order of Governor in Council | 140. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
+| Order of Governor in Council | 142. Except for section 141.1, the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
 
 | 1994, c. 22 | Migratory Birds Convention Act, 1994 |  |
 | --- | --- | --- |
 |  | 138. The Migratory Birds Convention Act, 1994 is amended by adding the following after section 11: |  |
-| Delegation by Minister | 11.1 The Minister may delegate to any government in Canada any power conferred on the Minister under this Act relating to its enforcement and permits. The government may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 11.1 The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this Act relating to its enforcement or the issuance, renewal, revocation and suspension of permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
 | 1992, c. 52 | Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act |  |
 |  | 139. Section 10 of the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act is amended by adding the following after subsection (3): |  |
-| Delegation by Minister | (4) The Minister may delegate to any government in Canada any power conferred on the Minister under this section relating to its enforcement and permits. The government may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
-|  | 138. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
+| Delegation by Minister | (4) The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this section relating to permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+|  | 140. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
 |  | (v) for the purposes of section 8; |  |
-|  | 139. The Act is amended by adding the following after section 21: |  |
+|  | 141. The Act is amended by adding the following after section 21: |  |
 | Order | 21.1 (1) The Governor in Council may, on the recommendation of the Minister, by order, amend the definition ``animal'' or ``plant'' in section 2 for the purposes of subsection 6(2). |  |
 | Recommendat ion | (2) If the Minister is of the opinion that the import of any specimen, living or dead, would be harmful to Canadian ecosystems or to any species in Canada and that urgent action is needed, the Minister may recommend that an order be made under subsection (1). |  |
 | Duration of amendment | (3) The amendment made by the order applies for the period specified in the order, which period may not be longer than one year from the day the order is made. |  |
 | Exemption | (4) The order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+|  | COORDINATING AMENDMENT |  |
+| Bill C-10 | 141.1 If Bill C-10, introduced in the 1st Session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act, receives royal assent, then, on the later of the coming into force of subsection 34(2) of that Act and the definition ``competent minister'' in subsection 2(1) of this Act, paragraph (a) of the definition ``competent minister'' in subsection 2(1) of this Act is replaced by the following: |  |
+|  | (a) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites, national marine conservation areas or other protected heritage areas as those expressions are defined in subsection 2(1) of the Parks Canada Agency Act. |  |
 |  | COMING INTO FORCE |  |
-| Order of Governor in Council | 140. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
+| Order of Governor in Council | 142. Except for section 141.1, the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
 
 | 1994, c. 22 | Migratory Birds Convention Act, 1994 |  |
 | --- | --- | --- |
 |  | 138. The Migratory Birds Convention Act, 1994 is amended by adding the following after section 11: |  |
-| Delegation by Minister | 11.1 The Minister may delegate to any government in Canada any power conferred on the Minister under this Act relating to its enforcement and permits. The government may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| Delegation by Minister | 11.1 The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this Act relating to its enforcement or the issuance, renewal, revocation and suspension of permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
 | 1992, c. 52 | Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act |  |
 |  | 139. Section 10 of the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act is amended by adding the following after subsection (3): |  |
-| Delegation by Minister | (4) The Minister may delegate to any government in Canada any power conferred on the Minister under this section relating to its enforcement and permits. The government may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
-|  | 138. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
+| Delegation by Minister | (4) The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this section relating to permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+|  | 140. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
 |  | (v) for the purposes of section 8; |  |
-|  | 139. The Act is amended by adding the following after section 21: |  |
+|  | 141. The Act is amended by adding the following after section 21: |  |
 | Order | 21.1 (1) The Governor in Council may, on the recommendation of the Minister, by order, amend the definition ``animal'' or ``plant'' in section 2 for the purposes of subsection 6(2). |  |
 | Recommendat ion | (2) If the Minister is of the opinion that the import of any specimen, living or dead, would be harmful to Canadian ecosystems or to any species in Canada and that urgent action is needed, the Minister may recommend that an order be made under subsection (1). |  |
 | Duration of amendment | (3) The amendment made by the order applies for the period specified in the order, which period may not be longer than one year from the day the order is made. |  |
 | Exemption | (4) The order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+|  | COORDINATING AMENDMENT |  |
+| Bill C-10 | 141.1 If Bill C-10, introduced in the 1st Session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act, receives royal assent, then, on the later of the coming into force of subsection 34(2) of that Act and the definition ``competent minister'' in subsection 2(1) of this Act, paragraph (a) of the definition ``competent minister'' in subsection 2(1) of this Act is replaced by the following: |  |
+|  | (a) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites, national marine conservation areas or other protected heritage areas as those expressions are defined in subsection 2(1) of the Parks Canada Agency Act. |  |
 |  | COMING INTO FORCE |  |
-| Order of Governor in Council | 140. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
+| Order of Governor in Council | 142. Except for section 141.1, the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
 
-|  | SCHEDULE 1 (Subsection 2(1)) |  |
+| 1994, c. 22 | Migratory Birds Convention Act, 1994 |  |
+| --- | --- | --- |
+|  | 138. The Migratory Birds Convention Act, 1994 is amended by adding the following after section 11: |  |
+| Delegation by Minister | 11.1 The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this Act relating to its enforcement or the issuance, renewal, revocation and suspension of permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+| 1992, c. 52 | Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act |  |
+|  | 139. Section 10 of the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act is amended by adding the following after subsection (3): |  |
+| Delegation by Minister | (4) The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under this section relating to permits. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies. |  |
+|  | 140. Paragraph 21(1)(c) of the Act is amended by striking out the word ``and'' at the end of subparagraph (iii), by adding the word ``and'' at the end of subparagraph (iv) and by adding the following after subparagraph (iv): |  |
+|  | (v) for the purposes of section 8; |  |
+|  | 141. The Act is amended by adding the following after section 21: |  |
+| Order | 21.1 (1) The Governor in Council may, on the recommendation of the Minister, by order, amend the definition ``animal'' or ``plant'' in section 2 for the purposes of subsection 6(2). |  |
+| Recommendat ion | (2) If the Minister is of the opinion that the import of any specimen, living or dead, would be harmful to Canadian ecosystems or to any species in Canada and that urgent action is needed, the Minister may recommend that an order be made under subsection (1). |  |
+| Duration of amendment | (3) The amendment made by the order applies for the period specified in the order, which period may not be longer than one year from the day the order is made. |  |
+| Exemption | (4) The order is exempt from the application of section 3 of the Statutory Instruments Act. |  |
+|  | COORDINATING AMENDMENT |  |
+| Bill C-10 | 141.1 If Bill C-10, introduced in the 1st Session of the 37th Parliament and entitled the Canada National Marine Conservation Areas Act, receives royal assent, then, on the later of the coming into force of subsection 34(2) of that Act and the definition ``competent minister'' in subsection 2(1) of this Act, paragraph (a) of the definition ``competent minister'' in subsection 2(1) of this Act is replaced by the following: |  |
+|  | (a) the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites, national marine conservation areas or other protected heritage areas as those expressions are defined in subsection 2(1) of the Parks Canada Agency Act. |  |
+|  | COMING INTO FORCE |  |
+| Order of Governor in Council | 142. Except for section 141.1, the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  |
+
+|  | SCHEDULE 1 (Subsections 2(1), 42(2) and 68 (2)) |  |
 | --- | --- | --- |
 |  | LIST OF WILDLIFE SPECIES AT RISK |  |
 |  | PART 1 |  |
@@ -2930,9 +2959,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Tétras des armoises population de la Colombie-Britannique |  |
 |  | Prairie-Chicken, Greater (Tympanuchus cupido) |  |
 |  | Tétras des prairies |  |
+|  | AMPHIBIANS |  |
+|  | Salamander, Tiger (Ambystoma tigrinum) Great Lakes population |  |
+|  | Salamandre tigrée population des Grands Lacs |  |
 |  | REPTILES |  |
 |  | Lizard, Pygmy Short-horned (Phrynosoma douglassii douglassii) British Columbia population |  |
-|  | Petit phrynosome de Douglas population de la Colombie-Britannique |  |
+|  | Iguane pygmée à cornes courtes population de la Colombie-Britannique |  |
 |  | Rattlesnake, Timber (Crotalus horridus) |  |
 |  | Crotale des bois |  |
 |  | FISH |  |
@@ -2944,14 +2976,14 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Wedgemussel, Dwarf (Alasmidonta heterodon) |  |
 |  | Alasmidonte naine |  |
 |  | LEPIDOPTERANS |  |
+|  | Blue, Karner (Lycaeides melissa samuelis) |  |
+|  | Mélissa bleu |  |
 |  | Elfin, Frosted (Callophrys irus, Incisalia irus) |  |
 |  | Lutin givré |  |
 |  | Marble, Island (Euchloe ausonides) |  |
 |  | Marbré insulaire |  |
-|  | Blue, Karner (Lycaeides melissa samuelis) |  |
-|  | Mélissa bleu |  |
 |  | PLANTS |  |
-|  | Mary, Blue-eyed (Collinsia verna) |  |
+|  | Mary, Spring Blue-eyed (Collinsia verna) |  |
 |  | Collinsie printanière |  |
 |  | Tick-trefoil, Illinois (Desmodium illinoense) |  |
 |  | Desmodie d'Illinois |  |
@@ -2970,6 +3002,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Marmotte de l'île Vancouver |  |
 |  | Marten, American (Martes americana atrata) Newfoundland population |  |
 |  | Martre d'Amérique population de Terre-Neuve |  |
+|  | Whale, Killer (Orcinus orca) Northeast Pacific southern resident population |  |
+|  | Épaulard population résidente du Sud du Pacifique Nord-Est |  |
 |  | BIRDS |  |
 |  | Chat, Western Yellow-breasted (Icteria virens auricollis) British Columbia population |  |
 |  | Paruline polyglotte de l'Ouest population de la Colombie-Britannique |  |
@@ -3018,6 +3052,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Grenouille maculée de l'Oregon |  |
 |  | Frog, Rocky Mountain Tailed (Ascaphus montanus) |  |
 |  | Grenouille-à-queue des Rocheuses |  |
+|  | Salamander, Tiger (Ambystoma tigrinum) Southern Mountain population |  |
+|  | Salamandre tigrée population des montagnes du Sud |  |
 |  | REPTILES |  |
 |  | Snake, Sharp-tailed (Contia tenuis) |  |
 |  | Couleuvre à queue fine |  |
@@ -3058,14 +3094,14 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Snail, Banff Springs (Physella johnsoni) |  |
 |  | Physe des fontaines de Banff |  |
 |  | Snuffbox (Epioblasma triquetra) |  |
-|  | Epioblasme tricorne |  |
+|  | Epioblasme tricorn |  |
 |  | LEPIDOPTERANS |  |
-|  | Ringlet, Maritime (Coenonympha tullia nipisiquit) |  |
-|  | Satyre fauve des Maritimes |  |
 |  | Blue, Island (Plebejus saepiolus insulanus) |  |
 |  | Bleu insulaire |  |
 |  | Checkerspot, Taylor's (Euphydryas editha taylori) |  |
 |  | Damier de Taylor |  |
+|  | Ringlet, Maritime (Coenonympha tullia nipisiquit) |  |
+|  | Satyre fauve des Maritimes |  |
 |  | PLANTS |  |
 |  | Agalinis, Gattinger's (Agalinis gattingeri) |  |
 |  | Gérardie de Gattinger |  |
@@ -3077,14 +3113,14 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Benoîte de Peck |  |
 |  | Balsamroot, Deltoid (Balsamorhiza deltoidea) |  |
 |  | Balsamorhize à feuilles deltoïdes |  |
-|  | Bulrush, Bashful (Trichophorum planifolium) |  |
-|  | Scirpe timide |  |
 |  | Bluehearts (Buchnera americana) |  |
 |  | Buchnera d'Amérique |  |
 |  | Braya, Long's (Braya longii) |  |
 |  | Braya de Long |  |
 |  | Bugbane, Tall (Cimicifuga elata) |  |
 |  | Cimicaire élevée |  |
+|  | Bulrush, Bashful (Trichophorum planifolium) |  |
+|  | Scirpe timide |  |
 |  | Bush-Clover, Slender (Lespedeza virginica) |  |
 |  | Lespédèze de Virginie |  |
 |  | Buttercup, Water-plantain (Ranunculus alismaefolius var. alismaefolius) |  |
@@ -3101,8 +3137,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Gentiane blanche |  |
 |  | Ginseng, American (Panax quinquefolium) |  |
 |  | Ginseng à cinq folioles |  |
-|  | Goat's-rue, Virginia (Tephrosia virginiana) |  |
-|  | Téphrosie de Virginie |  |
 |  | Goldenrod, Showy (Solidago speciosa var. rigidiuscula) |  |
 |  | Verge d'or voyante |  |
 |  | Lady's-slipper, Small White (Cypripedium candidum) |  |
@@ -3155,21 +3189,25 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Trille à pédoncule incliné |  |
 |  | Twayblade, Purple (Liparis liliifolia) |  |
 |  | Liparis à feuilles de lis |  |
+|  | Virginia Goat's-rue (Tephrosia virginiana) |  |
+|  | Téphrosie de Virginie |  |
 |  | Willow, Barrens (Salix jejuna) |  |
 |  | Saule des landes |  |
 |  | Wintergreen, Spotted (Chimaphila maculata) |  |
 |  | Chimaphile maculé |  |
-|  | Woolly-heads, Tall (Psilocarphus elatior) Pacific population |  |
-|  | Psilocarphe élevé population du Pacifique |  |
 |  | Wood-Poppy (Stylophorum diphyllum) |  |
 |  | Stylophore à deux feuilles |  |
 |  | Woodsia, Blunt-lobed (Woodsia obtusa) |  |
 |  | Woodsie obtuse |  |
+|  | Woolly-heads, Tall (Psilocarphus elatior) Pacific population |  |
+|  | Psilocarphe élevé population du Pacifique |  |
 |  | LICHENS |  |
 |  | Seaside Centipede (Heterodermia sitchensis) |  |
 |  | Hétérodermie maritime |  |
 |  | MOSSES |  |
-|  | Moss, Apple (Bartramia stricta) |  |
+|  | Moss, Poor Pocket (Fissidens pauperculus) |  |
+|  | Fissident appauvri |  |
+|  | Moss, Rigid Apple (Bartramia stricta) |  |
 |  | Bartramie à feuilles dressées |  |
 |  | PART 3 |  |
 |  | THREATENED SPECIES |  |
@@ -3188,11 +3226,19 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Loutre de mer |  |
 |  | Shrew, Pacific Water (Sorex bendirii) |  |
 |  | Musaraigne de Bendire |  |
+|  | Whale, Killer (Orcinus orca) Northeast Pacific northern resident population |  |
+|  | Épaulard population résidente du Nord Pacifique Nord-Est |  |
+|  | Whale, Killer (Orcinus orca) Northeast Pacific transient population |  |
+|  | Épaulard population migratrice du Pacifique Nord-Est |  |
 |  | BIRDS |  |
+|  | Bittern, Least (Ixobrychus exilis) |  |
+|  | Petit Blongios |  |
 |  | Falcon, Anatum Peregrine (Falco peregrinus anatum) |  |
 |  | Faucon pèlerin, anatum |  |
 |  | Goshawk, Queen Charlotte (Accipiter gentilis laingi) |  |
 |  | Autour des palombes des îles de la Reine-Charlotte |  |
+|  | Gull, Ross's (Rhodostethia rosea) |  |
+|  | Mouette rosée |  |
 |  | Murrelet, Marbled (Brachyramphus marmoratus) |  |
 |  | Guillemot marbré |  |
 |  | Pipit, Sprague's (Anthus spragueii) |  |
@@ -3200,6 +3246,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Warbler, Hooded (Wilsonia citrina) |  |
 |  | Paruline à capuchon |  |
 |  | AMPHIBIANS |  |
+|  | Great Basin Spadefoot (Spea intermontana) |  |
+|  | Crapaud du Grand Bassin |  |
+|  | Salamander, Allegheny Mountain Dusky (Desmognathus ochrophaeus) |  |
+|  | Salamandre sombre des montagnes |  |
 |  | Salamander, Jefferson (Ambystoma jeffersonianum) |  |
 |  | Salamandre de Jefferson |  |
 |  | Salamander, Pacific Giant (Dicamptodon tenebrosus) |  |
@@ -3207,23 +3257,33 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Toad, Fowler's (Bufo fowleri) |  |
 |  | Crapaud de Fowler |  |
 |  | REPTILES |  |
+|  | Gartersnake, Butler's (Thamnophis butleri) |  |
+|  | Couleuvre à petite tête |  |
 |  | Snake, Black Rat (Elaphe obsoleta obsoleta) |  |
 |  | Couleuvre obscure |  |
 |  | Snake, Eastern Fox (Elaphe vulpina gloydi) |  |
 |  | Couleuvre fauve de l'Est |  |
+|  | Snake, Eastern Hog-nosed (Heterodon platirhinos) |  |
+|  | Couleuvre à nez plat |  |
 |  | Snake, Queen (Regina septemvittata) |  |
 |  | Couleuvre royale |  |
 |  | FISH |  |
+|  | Chubsucker, Lake (Erimyzon sucetta) |  |
+|  | Sucet de lac |  |
 |  | Darter, Eastern Sand (Ammocrypta pellucida) |  |
 |  | Dard de sable |  |
 |  | Gar, Spotted (Lepisosteus oculatus) |  |
 |  | Lépisosté tacheté |  |
 |  | Lamprey, Cowichan Lake (Lampetra macrostoma) |  |
 |  | Lamproie du lac Cowichan |  |
+|  | Minnow, Western Silvery (Hybognathus argyritis) |  |
+|  | Méné d'argent de l'Ouest |  |
 |  | Sculpin, Cultus Pygmy (Cottus sp.) |  |
 |  | Chabot pygmé |  |
 |  | Sculpin, Shorthead (Cottus confusus) |  |
 |  | Chabot à tête courte |  |
+|  | Shiner, Rosyface (Notropis rubellus) Eastern population |  |
+|  | Tête rose population de l'Est |  |
 |  | Smelt, Lake Utopia Dwarf (Osmerus sp.) |  |
 |  | Éperlan nain du lac Utopia |  |
 |  | Wolffish, Northern (Anarhichas denticulatus) |  |
@@ -3249,6 +3309,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Iris du Missouri |  |
 |  | Braya, Fernald's (Braya fernaldii) |  |
 |  | Braya de Fernald |  |
+|  | Buffalograss (Buchloë dactyloides) |  |
+|  | Buchloé faux-dactyle |  |
 |  | Coffee-tree, Kentucky (Gymnocladus dioicus) |  |
 |  | Chicot févier |  |
 |  | Colicroot (Aletris farinosa) |  |
@@ -3266,7 +3328,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Goldenseal (Hydrastis canadensis) |  |
 |  | Hydraste du Canada |  |
 |  | Greenbrier, Round-leaved (Smilax rotundifolia) Great Lakes Plains population |  |
-|  | Smilax à feuilles rondes (Population des plaines des Grands Lacs) |  |
+|  | Smilax à feuilles rondes population des plaines des Grands Lacs |  |
 |  | Lily, Lyall's Mariposa (Calochortus lyallii) |  |
 |  | Calochorte de Lyall |  |
 |  | Mouse-ear-cress, Slender (Halimolobos virgata) |  |
@@ -3291,27 +3353,50 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Hydrocotyle à ombelle |  |
 |  | Water-willow, American (Justicia americana) |  |
 |  | Carmantine d'Amérique |  |
+|  | MOSSES |  |
+|  | Moss, Haller's Apple (Bartramia halleriana) |  |
+|  | Bartramie de Haller |  |
 |  | PART 4 |  |
 |  | SPECIAL CONCERN |  |
 |  | MAMMALS |  |
-|  | Prairie Dog, Black-tailed (Cynomys ludovicianus) |  |
-|  | Chien de prairie |  |
+|  | Beaver, Mountain (Aplodontia rufa) |  |
+|  | Castor de montagne |  |
 |  | Mole, Eastern (Scalopus aquaticus) |  |
 |  | Taupe à queue glabre |  |
+|  | Prairie Dog, Black-tailed (Cynomys ludovicianus) |  |
+|  | Chien de prairie |  |
+|  | Vole, Woodland (Microtus pinetorum) |  |
+|  | Campagnol sylvestre |  |
+|  | Whale, Killer (Orcinus orca) Northeast Pacific offshore population |  |
+|  | Épaulard population au large du Pacifique Nord-Est |  |
 |  | Wolf, Eastern (Canis lupus lycaon) |  |
 |  | Loup de l'Est |  |
 |  | BIRDS |  |
 |  | Chat, Eastern Yellow-breasted (Icteria virens virens) |  |
 |  | Paruline polyglotte de l'Est |  |
 |  | Duck, Harlequin (Histrionicus histrionicus) Eastern population |  |
-|  | Arlequin plongeur (Population de l'Est) |  |
+|  | Arlequin plongeur population de l'Est |  |
+|  | Falcon, Peale's Peregrine (Falco peregrinus pealei) |  |
+|  | Faucon pèlerin, pealei |  |
 |  | Goldeneye, Barrow's (Bucephala islandica) Eastern population |  |
 |  | Garrot d'Islande population de l'Est |  |
+|  | Gull, Ivory (Pagophila eburnea) |  |
+|  | Mouette blanche |  |
+|  | Owl, Barn (Tyto alba) Western population |  |
+|  | Effraie des clochers population de l'Ouest |  |
+|  | Owl, Flammulated (Otus flammeolus) |  |
+|  | Petit-duc nain |  |
+|  | Rail, Yellow (Coturnicops noveboracensis) |  |
+|  | Râle jaune |  |
 |  | Sparrow, ``Ipswich'' Savannah (Passerculus sandwichensis princeps) |  |
 |  | Bruant des prés, princeps |  |
+|  | Woodpecker, Lewis's (Melanerpes lewis) |  |
+|  | Pic de Lewis |  |
 |  | AMPHIBIANS |  |
 |  | Frog, Coast Tailed (Ascaphus truei) |  |
 |  | Grenouille-à-queue côtière |  |
+|  | Salamander, Coeur d'Alène (Plethodon idahoensis) |  |
+|  | Salamandre Coeur d'Alène |  |
 |  | FISH |  |
 |  | Chub, Silver (Macrhybopsis storeriana) |  |
 |  | Méné à grandes écailles |  |
@@ -3319,8 +3404,14 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Petit-bec |  |
 |  | Sculpin, Columbia Mottled (Cottus bairdi hubbsi) |  |
 |  | Chabot tacheté de Columbia |  |
+|  | Shiner, Bridle (Notropis bifrenatus) |  |
+|  | Méné d'herbe |  |
+|  | Sucker, Spotted (Minytrema melanops) |  |
+|  | Meunier tacheté |  |
 |  | Topminnow, Blackstripe (Fundulus notatus) |  |
 |  | Fondule rayé |  |
+|  | Warmouth (Lepomis gulosus) |  |
+|  | Crapet sac-à-lait |  |
 |  | Wolffish, Atlantic (Anarhichas lupus) |  |
 |  | Loup Atlantique |  |
 |  | MOLLUSCS |  |
@@ -3329,13 +3420,23 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | LEPIDOPTERANS |  |
 |  | Admiral, Weidemeyer's (Limenitis weidemeyerii) |  |
 |  | Amiral de Weidemeyer |  |
+|  | Monarch (Danaux plexippus) |  |
+|  | Monarque |  |
 |  | PLANTS |  |
 |  | Ash, Blue (Fraxinus quadrangulata) |  |
 |  | Frêne bleu |  |
+|  | Beggarticks, Vancouver Island (Bidens amplissima) |  |
+|  | Grand bident |  |
 |  | Fern, American Hart's-tongue (Asplenium scolopendrium var. americanum) |  |
 |  | Scolopendre d'Amérique |  |
+|  | Fern, Coastal Wood (Dryopteris arguta) |  |
+|  | Dryoptèride côtière |  |
 |  | Goldenrod, Riddell's (Solidago riddellii) |  |
 |  | Verge d'or de Riddell |  |
+|  | Hairgrass, Mackenzie (Deschampsia mackenzieana) |  |
+|  | Deschampsie du bassin du Mackenzie |  |
+|  | Milk-vetch, Fernald's (Astragalus robbinsii var. fernaldii) |  |
+|  | Astragale de Fernald |  |
 |  | Pepperbush, Sweet (Clethra alnifolia) |  |
 |  | Clèthre à feuilles d'aulne |  |
 |  | Tansy, Floccose (Tanacetum huronense var. floccosum) |  |
@@ -3347,7 +3448,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Willow, Turnor's (Salix turnorii) |  |
 |  | Saule de Turnor |  |
 |  | Woolly-heads, Tall (Psilocarphus elatior) Prairie population |  |
-|  | Psilocarphe élevé (Population des Prairies) |  |
+|  | Psilocarphe élevé population des Prairies |  |
 |  | Yarrow, Large-headed Woolly (Achillea millefolium var. megacephalum) |  |
 |  | Achillée à gros capitules |  |
 
@@ -3398,8 +3499,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Béluga population de l'est de la baie d'Hudson |  |
 |  | Whale, Humpback (Megaptera novaeangliae) North Pacific population |  |
 |  | Rorqual à bosse population du Pacifique Nord |  |
-|  | Whale, Killer (Orcinus orca) North Pacific ``resident'' populations |  |
-|  | Épaulard populations « résidentes » du Pacifique Nord |  |
 |  | BIRDS |  |
 |  | Shrike, Prairie Loggerhead (Lanius ludovicianus excubitorides) |  |
 |  | Pie-grièche migratrice des Prairies |  |
@@ -3426,7 +3525,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Redhorse, Copper (Moxostoma hubbsi) |  |
 |  | Chevalier cuivré |  |
 |  | Sculpin, Deepwater (Myoxocephalus thompsoni) Great Lakes population |  |
-|  | Chabot de profondeur des Grands Lacs populations des Grands Lacs |  |
+|  | Chabot de profondeur des Grands Lacs population des Grands Lacs |  |
 |  | Sticklebacks, Enos Lake (Gasterosteus spp.) |  |
 |  | Épinoches du lac Enos |  |
 |  | Whitefish, Lake (Coregonus clupeaformis) Lake Simcoe population |  |
@@ -3447,7 +3546,7 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Violet, Bird's-foot (Viola pedata) |  |
 |  | Violette pédalée |  |
 
-|  | SCHEDULE 2.1 (Section 130) |  |
+|  | SCHEDULE 3 (Section 130) |  |
 | --- | --- | --- |
 |  | SPECIAL CONCERN |  |
 |  | MAMMALS |  |
@@ -3461,8 +3560,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Ours grizzli |  |
 |  | Bear, Polar (Ursus maritimus) |  |
 |  | Ours polaire |  |
-|  | Beaver, Mountain (Aplodontia rufa) |  |
-|  | Castor de montagne |  |
 |  | Cottontail, Nuttall's (Sylvilagus nuttallii nuttallii) British Columbia population |  |
 |  | Lapin de Nuttall population de la Colombie-Britannique |  |
 |  | Fox, Grey (Urocyon cinereoargenteus) |  |
@@ -3477,8 +3574,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Musaraigne de Gaspé |  |
 |  | Squirrel, Southern Flying (Glaucomys volans) |  |
 |  | Petit polatouche |  |
-|  | Vole, Woodland (Microtus pinetorum) |  |
-|  | Campagnol sylvestre |  |
 |  | Whale, Beluga (Delphinapterus leucas) Eastern High Arctic/Baffin Bay population |  |
 |  | Béluga population de l'Est du haut Arctique et de la baie de Baffin |  |
 |  | Whale, Blue (Balaenoptera musculus) |  |
@@ -3487,8 +3582,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Rorqual commun |  |
 |  | Whale, Humpback (Megaptera novaeangliae) Western North Atlantic population |  |
 |  | Rorqual à bosse population du Nord-Ouest de l'Atlantique |  |
-|  | Whale, Killer (Orcinus orca) North Pacific ``transient'' population |  |
-|  | Épaulard population « migratrice » du Pacifique Nord |  |
 |  | Whale, Northern Bottlenose (Hyperoodon ampullatus) Gully population |  |
 |  | Baleine à bec commune population du ravin océanique |  |
 |  | Whale, Sowerby's Beaked (Mesoplodon bidens) |  |
@@ -3496,18 +3589,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Wolverine (Gulo gulo) Western population |  |
 |  | Carcajou population de l'Ouest |  |
 |  | BIRDS |  |
-|  | Bittern, Least (Ixobrychus exilis) |  |
-|  | Petit blongios |  |
 |  | Curlew, Long-billed (Numenius americanus) |  |
 |  | Courlis à long bec |  |
-|  | Falcon, Peale's Peregrine (Falco peregrinus pealei) |  |
-|  | Faucon pèlerin, pealei |  |
 |  | Falcon, Tundra Peregrine (Falco peregrinus tundrius) |  |
 |  | Faucon pèlerin, toundra |  |
-|  | Gull, Ivory (Pagophila eburnea) |  |
-|  | Mouette blanche |  |
-|  | Gull, Ross' (Rhodostethia rosea) |  |
-|  | Mouette rosée |  |
 |  | Hawk, Ferruginous (Buteo regalis) |  |
 |  | Buse rouilleuse |  |
 |  | Hawk, Red-shouldered (Buteo lineatus) |  |
@@ -3516,22 +3601,14 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Grand héron population de la côte du Pacifique |  |
 |  | Murrelet, Ancient (Synthliboramphus antiquus) |  |
 |  | Guillemot à cou blanc |  |
-|  | Owl, Barn (Tyto alba) Western population |  |
-|  | Effraie des clochers population de l'Ouest |  |
-|  | Owl, Flammulated (Otus flammeolus) |  |
-|  | Petit-duc nain |  |
 |  | Owl, Short-eared (Asio flammeus) |  |
 |  | Hibou des marais |  |
-|  | Rail, Yellow (Coturnicops noveboracensis) |  |
-|  | Râle jaune |  |
 |  | Thrush, Bicknell's (Catharus bicknelli) |  |
 |  | Grive de Bicknell |  |
 |  | Warbler, Cerulean (Dendroica cerulea) |  |
 |  | Paruline azurée |  |
 |  | Waterthrush, Louisiana (Seiurus motacilla) |  |
 |  | Paruline hochequeue |  |
-|  | Woodpecker, Lewis' (Melanerpes lewis) |  |
-|  | Pic de Lewis |  |
 |  | Woodpecker, Red-headed (Melanerpes erythrocephalus) |  |
 |  | Pic à tête rouge |  |
 |  | AMPHIBIANS |  |
@@ -3539,16 +3616,10 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Grenouille léopard population des Prairies |  |
 |  | Frog, Northern Red-legged (Rana aurora) |  |
 |  | Grenouille du Nord à pattes rouges |  |
-|  | Salamander, Coeur d'Alène (Plethodon idahoensis) |  |
-|  | Salamandre Coeur d'Alène |  |
-|  | Salamander, Mountain Dusky (Desmognathus ochrophaeus) |  |
-|  | Salamandre sombre des montagnes |  |
 |  | Salamander, Smallmouth (Ambystoma texanum) |  |
 |  | Salamandre à nez court |  |
 |  | Salamander, Spring (Gyrinophilus porphyriticus) |  |
 |  | Salamandre pourpre |  |
-|  | Toad, Great Basin Spadefoot (Spea intermontana) |  |
-|  | Crapaud du Grand Bassin |  |
 |  | Toad, Great Plains (Bufo cognatus) |  |
 |  | Crapaud des steppes |  |
 |  | REPTILES |  |
@@ -3560,10 +3631,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Scinque pentaligne |  |
 |  | Skink, Northern Prairie (Eumeces septentrionalis septentrionalis) |  |
 |  | Scinque des Prairies |  |
-|  | Snake, Butler's Garter (Thamnophis butleri) |  |
-|  | Couleuvre à petite tête |  |
-|  | Snake, Eastern Hognose (Heterodon platirhinos) |  |
-|  | Couleuvre à nez plat |  |
 |  | Turtle, Spotted (Clemmys guttata) |  |
 |  | Tortue ponctuée |  |
 |  | Turtle, Wood (Clemmys insculpta) |  |
@@ -3573,8 +3640,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Buffalo à grande bouche |  |
 |  | Buffalo, Black (Ictiobus niger) |  |
 |  | Buffalo noir |  |
-|  | Chubsucker, Lake (Erimyzon sucetta) |  |
-|  | Sucet de lac |  |
 |  | Cisco, Spring (Coregonus sp.) |  |
 |  | Cisco de printemps |  |
 |  | Cod, Atlantic (Gadus morhua) |  |
@@ -3597,8 +3662,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Lamproie du Nord |  |
 |  | Madtom, Northern (Noturus stigmosus) |  |
 |  | Chat-fou du Nord |  |
-|  | Minnow, Western Silvery (Hybognathus argyritis) |  |
-|  | Méné d'argent de l'Ouest |  |
 |  | Prickleback, Pighead (Acantholumpenus mackayi) |  |
 |  | Terrassier à six lignes |  |
 |  | Redhorse, River (Moxostoma carinatum) |  |
@@ -3609,12 +3672,8 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Chaboisseau à quatre cornes forme d'eau douce |  |
 |  | Shiner, Bigmouth (Notropis dorsalis) |  |
 |  | Méné à grande bouche |  |
-|  | Shiner, Bridle (Notropis bifrenatus) |  |
-|  | Méné d'herbe |  |
 |  | Shiner, Pugnose (Notropis anogenus) |  |
 |  | Méné camus |  |
-|  | Shiner, Rosyface (Notropis rubellus) Manitoba population |  |
-|  | Tête rose population du Manitoba |  |
 |  | Shiner, Silver (Notropis photogenis) |  |
 |  | Méné miroir |  |
 |  | Stickleback, Charlotte Unarmoured (Gasterosteus aculeatus) |  |
@@ -3627,21 +3686,14 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Esturgeon à museau court |  |
 |  | Sturgeon, White (Acipenser transmontanus) |  |
 |  | Esturgeon blanc |  |
-|  | Sucker, Spotted (Minytrema melanops) |  |
-|  | Meunier tacheté |  |
 |  | Sunfish, Orangespotted (Lepomis humilis) |  |
 |  | Crapet menu |  |
 |  | Sunfish, Redbreast (Lepomis auritus) |  |
 |  | Crapet rouge |  |
-|  | Warmouth (Lepomis gulosus) |  |
-|  | Crapet sac-à-lait |  |
 |  | Whitefish, Squanga (Coregonus sp.) |  |
 |  | Corégone du Squanga |  |
 |  | Wolffish, Bering (Anarhichas orientalis) |  |
 |  | Loup de Bering |  |
-|  | LEPIDOPTERANS |  |
-|  | Monarch (Danaus plexippus) |  |
-|  | Monarque |  |
 |  | PLANTS |  |
 |  | Aster, Bathurst (Symphyotrichum subulatum) Bathurst population |  |
 |  | Aster subulé population de Bathurst |  |
@@ -3653,16 +3705,12 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Aster très élevé |  |
 |  | Bartonia, Branched (Bartonia paniculata ssp. paniculata) |  |
 |  | Bartonie paniculé |  |
-|  | Buffalograss (Buchloë dactyloides) |  |
-|  | Buchloé faux-dactyle |  |
 |  | Bulrush, Long's (Scirpus longii) |  |
 |  | Scirpe de Long |  |
 |  | Columbo, American (Frasera caroliniensis) |  |
 |  | Frasère de Caroline |  |
 |  | Fern, Broad Beech (Phegopteris hexagonoptera) |  |
 |  | Phégoptéride à hexagones |  |
-|  | Fern, Coastal Wood (Dryopteris arguta) |  |
-|  | Dryoptéride côtière |  |
 |  | Fleabane, Provancher's (Erigeron philadelphicus ssp. provancheri) |  |
 |  | Vergerette de Provancher |  |
 |  | Gentian, Victorin's (Gentianopsis victorinii) |  |
@@ -3673,8 +3721,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Arisème dragon |  |
 |  | Hackberry, Dwarf (Celtis tenuifolia) |  |
 |  | Micocoulier rabougri |  |
-|  | Hairgrass, Mackenzie (Deschampsia mackenzieana) |  |
-|  | Deschampsie du bassin du Mackenzie |  |
 |  | Helleborine, Giant (Epipactis gigantea) |  |
 |  | Épipactis géant |  |
 |  | Hop-tree, Common (Ptelea trifoliata) |  |
@@ -3689,8 +3735,6 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Oxytrope patte-de-lièvre |  |
 |  | Meadowfoam, Macoun's (Limnanthes macounii) |  |
 |  | Limnanthe de Macoun |  |
-|  | Milk-vetch, Fernald's (Astragalus robbinsii var. fernaldii) |  |
-|  | Astragale de Fernald |  |
 |  | Oak, Shumard (Quercus shumardii) |  |
 |  | Chêne de Shumard |  |
 |  | Orchid, Eastern Prairie Fringed (Platanthera leucophaea) |  |
@@ -3719,4 +3763,4 @@ House of Commons of Canada # BILL C-5 An Act respecting the protection of wildli
 |  | Seaside Bone (Hypogymnia heterophylla) |  |
 |  | Hypogymnie maritime |  |
 
-| TABLE OF PROVISIONS | | --- | | AN ACT RESPECTING THE PROTECTION OF WILDLIFE SPECIES AT RISK IN CANADA | | SHORT TITLE | | 1. Short title | | INTERPRETATION | | 2. Definitions | | 3. Aboriginal and treaty rights | | 4. Sedentary living organisms | | HER MAJESTY | | 5. Binding on Her Majesty | | PURPOSES | | 6. Purposes | | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL | | 7. Composition | | ADMINISTRATION OF ACT | | 8. Responsibility of Minister | | 9. Advisory committees to assist Minister | | 10. Administrative agreements | | STEWARDSHIP | | 11. Conservation agreements - species at risk | | 12. Conservation agreements - other species | | 13. Funding agreements | | WILDLIFE SPECIES LISTING PROCESS | | Committee on the Status of Endangered Wildlife in Canada | | 14. Establishment | | 15. Functions | | 16. Composition | | 17. Regulations and guidelines | | 18. Subcommittees | | 19. Rules | | 20. Staff and facilities | | 21. Status reports | | 22. Applications | | 23. Time for assessment | | Reviews and Reports | | 24. Review of classifications | | 25. Copies to Minister and Council | | 26. Annual reports | | List of Wildlife Species at Risk | | 27. Regulations | | 28. Applications for assessment of imminent threat | | 29. Emergency listing | | 30. Review | | 31. Recommendation to amend List | | MEASURES TO PROTECT LISTED WILDLIFE SPECIES | | General Prohibitions | | 32. Killing, harming, etc., listed wildlife species | | 33. Damage or destruction of residence | | 34. Application - certain species in provinces | | 35. Application - certain species in territories | | 36. Prohibitions re provincial and territorial classifications | | Recovery of Endangered, Threatened and Extirpated Species | | Recovery Strategy | | 37. Preparation - endangered or threatened species | | 38. Commitments to be considered | | 39. Cooperation with others | | 40. Determination of feasibility | | 41. Contents if recovery feasible | | 42. Proposed recovery strategy | | 43. Comments | | 44. Existing plans | | 45. Amendments | | 46. Reporting | | Action Plan | | 47. Preparation | | 48. Cooperation with other ministers and governments | | 49. Contents | | 50. Public registry | | 51. Existing plans | | 52. Amendments | | 53. Regulations | | 54. [Deleted] | | 55. Use of powers under other Acts | | 56. Monitoring and reporting | | Protection of Critical Habitat | | 57. Codes of practice, national standards or guidelines | | 58. Destruction of critical habitat | | 59. Regulations re federal lands | | 60. Provincial and territorial classifications | | 61. Destruction of critical habitat | | 62. Acquisition of lands | | 63. Progress reports on unprotected portions of critical habitat | | 64. Compensation | | Management of Species of Special Concern | | 65. Preparation of management plan | | 66. Cooperation with other ministers and governments | | 67. Multi-species or ecosystem approach permissible | | 68. Public registry | | 69. Existing plans | | 70. Amendments | | 71. Regulations | | 72. [Deleted] | | 73. Monitoring | | Agreements and Permits | | 74. Powers of competent minister | | 75. Agreements and permits under other Acts of Parliament | | 76. Adding terms and conditions | | 77. Exemption for existing agreements, permits, etc. | | 78. Agreements and permits under other provincial and territorial Acts | | Project Review | | 79. Notification of Minister | | Emergency Orders | | 80. Emergency order | | 81. Equivalent measures | | 82. Recommendation to repeal | | Exceptions | | 83. General exceptions | | 84. Territories | | ENFORCEMENT MEASURES | | Enforcement Officers | | 85. Enforcement officers | | Inspections | | 86. Inspections | | Disposition of Things Seized | | 87. Custody of things seized | | 88. Disposition by competent minister | | 89. Liability for costs | | Assistance to Enforcement Officers | | 90. Right of passage | | 91. Assistance | | 92. Obstruction | | Investigations | | 93. Application for investigation | | 94. Investigation | | 95. Competent minister may send evidence to Attorney General | | 96. Suspension or conclusion of investigation | | OFFENCES AND PUNISHMENT | | 97. Contraventions | | 98. Officers, etc., of corporations | | 99. Offences by employees or agents | | 100. Due diligence | | 101. Venue | | 102. Sentencing considerations | | 103. Forfeiture | | 104. Retention or sale | | 105. Orders of court | | 106. Suspended sentence | | 107. Limitation period | | ALTERNATIVE MEASURES | | 108. When alternative measures may be used | | 109. Terms and conditions in agreement | | 110. Duration of agreement | | 111. Filing in court for purpose of public access | | 112. Stay of proceedings | | 113. Application to vary agreement | | 114. Application of provisions dealing with records | | 115. Disclosure of information by peace officer or enforcement officer | | 116. Government records | | 117. Disclosure of records | | 118. Information exchange agreements | | 119. Regulations | | PUBLIC REGISTRY | | 120. Public registry | | 121. Regulations | | 122. Protection from proceedings | | 123. Documents to be in public registry | | 124. Restriction | | FEES AND CHARGES | | 125. Regulations | | REPORTS AND REVIEW OF ACT | | 126. Annual report to Parliament | | 127. Convening round table | | 128. Reports on status of wildlife species | | 129. Parliamentary review of Act | | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES | | 130. Assessment of status | | 131. Section 27 applies | | 132. Time for recovery strategy | | 133. Time for management plan | | RELATED AMENDMENTS | | 134-136. Canada Wildlife Act | | 137. Canadian Environmental Assessment Act | | 138. Migratory Birds Convention Act, 1994 | | 139-141. Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act | | COMING INTO FORCE | | 142. Order of Governor in Council | | SCHEDULES 1 TO 2.1 |
+| TABLE OF PROVISIONS | | --- | | AN ACT RESPECTING THE PROTECTION OF WILDLIFE SPECIES AT RISK IN CANADA | | Preamble SHORT TITLE | | 1. Short title | | INTERPRETATION | | 2. Definitions | | 3. Aboriginal and treaty rights | | 4. Sedentary living organisms | | HER MAJESTY | | 5. Binding on Her Majesty | | PURPOSES | | 6. Purposes | | CANADIAN ENDANGERED SPECIES CONSERVATION COUNCIL | | 7. Composition | | ADMINISTRATION OF ACT | | 8. Responsibility of Minister | | 8.1 National Aboriginal Council on Species at Risk | | 9. Advisory committees to assist Minister | | 10. Administrative agreements | | STEWARDSHIP ACTION PLAN | | 10.1 Stewardship action plan | | 10.2 Contents | | STEWARDSHIP | | 11. Conservation agreements - species at risk | | 12. Conservation agreements - other species | | 13. Funding agreements | | WILDLIFE SPECIES LISTING PROCESS | | Committee on the Status of Endangered Wildlife in Canada | | 14. Establishment | | 15. Functions | | 16. Composition | | 17. Regulations and guidelines | | 18. Subcommittees | | 19. Rules | | 20. Staff and facilities | | 21. Status reports | | 22. Applications | | 23. Time for assessment | | Reviews and Reports | | 24. Review of classifications | | 25. Copies to Minister and Council | | 26. Annual reports | | List of Wildlife Species at Risk | | 27. Power to amend List | | 28. Applications for assessment of imminent threat | | 29. Emergency listing | | 30. Review | | 31. Recommendation to amend List | | MEASURES TO PROTECT LISTED WILDLIFE SPECIES | | General Prohibitions | | 32. Killing, harming, etc., listed wildlife species | | 33. Damage or destruction of residence | | 34. Application - certain species in provinces | | 35. Application - certain species in territories | | 36. Prohibitions re provincial and territorial classifications | | Recovery of Endangered, Threatened and Extirpated Species | | Recovery Strategy | | 37. Preparation - endangered or threatened species | | 38. Commitments to be considered | | 39. Cooperation with others | | 40. Determination of feasibility | | 41. Contents if recovery feasible | | 42. Proposed recovery strategy | | 43. Comments | | 44. Existing plans | | 45. Amendments | | 46. Reporting | | Action Plan | | 47. Preparation | | 48. Cooperation with other ministers and governments | | 49. Contents | | 50. Proposed action plan | | 51. Existing plans | | 52. Amendments | | 53. Regulations | | 54. Use of powers under other Acts | | 55. Monitoring and reporting | | Protection of Critical Habitat | | 56. Codes of practice, national standards or guidelines | | 57. Purpose | | 58. Destruction of critical habitat | | 59. Regulations re federal lands | | 60. Provincial and territorial classifications | | 61. Destruction of critical habitat | | 62. Acquisition of lands | | 63. Progress reports on unprotected portions of critical habitat | | 64. Compensation | | Management of Species of Special Concern | | 65. Preparation of management plan | | 66. Cooperation with other ministers and governments | | 67. Multi-species or ecosystem approach permissible | | 68. Proposed management plan | | 69. Existing plans | | 70. Amendments | | 71. Regulations | | 72. Monitoring | | Agreements and Permits | | 73. Powers of competent minister | | 74. Competent minister acting under other Acts | | 75. Adding terms and conditions | | 76. Exemption for existing agreements, permits, etc. | | 77. Licences, permits, etc. under other Acts of Parliament | | 78. Agreements and permits under other provincial and territorial Acts | | Project Review | | 79. Notification of Minister | | Emergency Orders | | 80. Emergency order | | 81. Equivalent measures | | 82. Recommendation to repeal | | Exceptions | | 83. General exceptions | | 84. Regulations | | ENFORCEMENT MEASURES | | Enforcement Officers | | 85. Enforcement officers | | Inspections | | 86. Inspections | | Disposition of Things Seized | | 87. Custody of things seized | | 88. Disposition by competent minister | | 89. Liability for costs | | Assistance to Enforcement Officers | | 90. Right of passage | | 91. Assistance | | 92. Obstruction | | Investigations | | 93. Application for investigation | | 94. Investigation | | 95. Competent minister may send evidence to Attorney General | | 96. Suspension or conclusion of investigation | | OFFENCES AND PUNISHMENT | | 97. Contraventions | | 98. Officers, etc., of corporations | | 99. Offences by employees or agents | | 100. Due diligence | | 101. Venue | | 102. Sentencing considerations | | 103. Forfeiture | | 104. Retention or sale | | 105. Orders of court | | 106. Suspended sentence | | 107. Limitation period | | ALTERNATIVE MEASURES | | 108. When alternative measures may be used | | 109. Terms and conditions in agreement | | 110. Duration of agreement | | 111. Filing in court for purpose of public access | | 112. Stay of proceedings | | 113. Application to vary agreement | | 114. Application of provisions dealing with records | | 115. Disclosure of information by peace officer or enforcement officer | | 116. Government records | | 117. Disclosure of records | | 118. Information exchange agreements | | 119. Regulations | | PUBLIC REGISTRY | | 120. Public registry | | 121. Regulations | | 122. Protection from proceedings | | 123. Documents to be in public registry | | 124. Restriction | | FEES AND CHARGES | | 125. Regulations | | REPORTS AND REVIEW OF ACT | | 126. Annual report to Parliament | | 127. Convening round table | | 128. Reports on status of wildlife species | | 129. Parliamentary review of Act | | ASSESSMENT OF WILDLIFE SPECIES MENTIONED IN THE SCHEDULES | | 130. Assessment of status | | 131. Section 27 applies | | 132. Time for recovery strategy | | 133. Time for management plan | | RELATED AMENDMENTS | | 134-136. Canada Wildlife Act | | 137. Canadian Environmental Assessment Act | | 138. Migratory Birds Convention Act, 1994 | | 139-141. Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act | | COORDINATING AMENDMENT | | 141.1 Bill C-10 | | COMING INTO FORCE | | 142. Order of Governor in Council | | SCHEDULES 1 TO 3 |
