@@ -1,0 +1,15 @@
+Bill C-436 PublicationID : 2331294 Table of ContentsSummaryBILL C-436Adult Travelling with a Child
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to amend the Canada Transportation Act in order to make it more difficult for adults and non-custodial parents to abduct children by means of air transportation. The legislation is also aimed at reducing the incidence of child abduction and kidnapping in Canada, by requiring all adult passengers travelling with young persons to produce written proof of the consent of their parents or of other persons who have lawful custody over them. |  |
+
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-436 An Act to amend the Canada Transportation Act 1996, c. 10 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The *Canada Transportation Act* is amended by adding the following after section 68:** *Adult Travelling with a Child* Written proof to be provided **68.1** (1) The holder of a domestic licence shall not allow an adult passenger to travel with a child under the age of sixteen years unless the adult passenger provides written proof of the consent of the child's parents, or of any other person who has lawful care or charge of the child, to travel with the child. Custodial parent's written proof needed (2) In the case of a non-custodial parent who travels with a child under the age of sixteen years, the holder of a domestic licence shall not allow that parent to travel with the child unless the parent provides written proof of the consent of the custodial parent, or of any other person who has lawful care or charge of the child, for the non-custodial parent to travel with the child.
+
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-436 An Act to amend the Canada Transportation Act 1996, c. 10 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The *Canada Transportation Act* is amended by adding the following after section 68:** *Adult Travelling with a Child* Written proof to be provided **68.1** (1) The holder of a domestic licence shall not allow an adult passenger to travel with a child under the age of sixteen years unless the adult passenger provides written proof of the consent of the child's parents, or of any other person who has lawful care or charge of the child, to travel with the child. Custodial parent's written proof needed (2) In the case of a non-custodial parent who travels with a child under the age of sixteen years, the holder of a domestic licence shall not allow that parent to travel with the child unless the parent provides written proof of the consent of the custodial parent, or of any other person who has lawful care or charge of the child, for the non-custodial parent to travel with the child.
