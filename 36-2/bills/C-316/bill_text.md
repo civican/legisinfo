@@ -1,0 +1,11 @@
+Bill C-316 PublicationID : 2330669 Table of ContentsSummaryBILL C-316
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment provides for the transfer, by court order, on application by the Crown, of a foreign offender serving a sentence of ten years or more, to a country of which the offender is a citizen and that consents to accept the offender. Transfer on Crown application may only be made to countries that provide similar rights of conditional release to those extant in Canada. |  |
+|  | This is in addition to the present provisions that allow a foreign offender to make an application to the Minister for such a transfer. |  |
+
+|  | 2nd Session, 36th Parliament, 48 Elizabeth II, 1999 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-316 An Act to amend the Transfer of Offenders Act (removal of foreign offenders) R.S., c. T-15; R.S., cc. 27, 31 (1st Supp.); 1992, c. 20; 1993, c. 34; 1995, cc. 22, 42 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The *Transfer of Offenders Act* is amended by adding the following after section 20:** Application to transfer foreign offender **20.1** (1) The Crown may apply to the Federal Court of Canada for an order that a foreign offender serving a sentence of a term of imprisonment in Canada of ten years or more be removed from Canada and transferred to the custody of a foreign state. Order (2) The court may grant the order if the offender is a citizen of the foreign state and the state has consented to the transfer. Conduct of hearing (3) The hearing on the application shall be conducted according to the principles provided for inquiries in sections 29 to 31 of the *Immigration Act*. Other provisions of order (4) The order may also include provisions respecting the matters referred to in, and on the same basis as provided in, section 33 of the *Immigration Act*. Restrictions (5) No order shall be made to transfer a foreign offender to a foreign state unless the foreign state agrees to provide, or the law of the foreign state provides for, conditional release of the foreign offender on a similar basis to that provided in Canada.
