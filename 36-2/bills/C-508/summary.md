@@ -1,0 +1,10 @@
+# Bill C-508: An Act respecting the protection of employees in the public service who make allegations in good faith respecting wrongdoing in the public service
+
+- **Current Status**: Outside the Order of Precedence
+- **Sponsor**: Gurmant Grewal
+- **Latest Activity**: 
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
