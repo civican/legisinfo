@@ -1,0 +1,10 @@
+Bill C-454 PublicationID : 2331313 Table of ContentsSummaryBILL C-454
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Patent Act to repeal the power of the Governor in Council to make regulations preventing the infringement of a patent by any person who makes, constructs, uses or sells a patented invention solely for uses reasonably related to the development and submission of information required under any law of Canada, a province or a country other than Canada that regulates the manufacture, construction, use or sale of any product. |  |
+
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-454 An Act to amend the Patent Act (patented medicines) R.S., c. P-4 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 55.2(4) of the *Patent Act* is repealed.** **2. For greater certainty, any obligation imposed on the Minister or a person under the *Patented Medicines (Notice of Compliance) Regulations*, registered as SOR/93-133, ceases to have effect on the coming into force of this Act.** **3. This Act comes into force three months after the day on which it receives royal assent.**
