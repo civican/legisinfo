@@ -1,0 +1,16 @@
+Bill C-294 PublicationID : 2331684 Table of ContentsCoverSummaryBILL C-294
+
+|  | C-294 |  |
+| --- | --- | --- |
+|  | Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002 |
+
+**HOUSE OF COMMONS OF CANADA** # BILL C-294 An Act to amend the Divorce Act (custody of grandchildren) First reading, November 4, 2002
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Divorce Act to allow a grandparent to apply for custody of his or her grandchild without leave of the court. |  |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-294 An Act to amend the Divorce Act (custody of grandchildren) R.S., c. 3 (2nd Supp.) Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 16(3) of the *Divorce Act* is replaced by the following:** Application by other person (3) A person, other than a spouse or a grandparent related to the children by consanguinity or adoption , may not make an application under subsection (1) or (2) without leave of the court.
