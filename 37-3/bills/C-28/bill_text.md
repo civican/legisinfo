@@ -6,8 +6,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-28 |  | PROJET DE LOI C-28 |
 | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |
-| First reading, March 26, 2004 |  | Première lecture le 26 mars 2004 |
-| The Minister of the Environment 90260 |  | Le ministre de l'Environnement |
+| AS PASSED BY THE HOUSE OF COMMONSMAY 3, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 3 MAI 2004 |
+| 90260 |  |  |
 
 INSIDECOVER
 
@@ -34,7 +34,7 @@ MAINTEXT
 
 Table of ContentsCoverBill C-28canada national parks actcoming into force
 
-Bill C-28Click here for the entire document. PublicationID : 2331589 Table of ContentsCoverBill C-28canada national parks actcoming into force
+Bill C-28Click here for the entire document. PublicationID : 2331590 Table of ContentsCoverBill C-28canada national parks actcoming into force
 
 COVER
 
@@ -44,8 +44,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-28 |  | PROJET DE LOI C-28 |
 | An Act to amend the Canada National Parks Act |  | Loi modifiant la Loi sur les parcs nationaux du Canada |
-| First reading, March 26, 2004 |  | Première lecture le 26 mars 2004 |
-| The Minister of the Environment90260 |  | Le ministre de l'Environnement |
+| AS PASSED BY THE HOUSE OF COMMONSMAY 3, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 3 MAI 2004 |
+| 90260 |  |  |
 
 INSIDECOVER
 
