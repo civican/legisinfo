@@ -1,0 +1,10 @@
+Bill C-433 PublicationID : 2331291 Table of ContentsSummaryBILL C-433
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment provides that, for the purpose of sentencing under subsection 182.2(2) or 182.3(3) of the Criminal Code, the ownership of a puppy mill by the convicted person or the participation by that person in the operation of a puppy mill shall be deemed to be aggravating circumstances. |  |
+
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-433 An Act to amend the Criminal Code (puppy mills) R.S., c. C-46 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The *Criminal Code* is amended by adding the following after section 182.3:** Aggravating circumstances for sentencing purposes **182.31** Without limiting the generality of section 718.2, where a court imposes a sentence on a person under subsection 182.2(2) or 182.3(3), the ownership of a puppy mill by that person or the participation by that person in the operation of a puppy mill shall be deemed to be aggravating circumstances relating to the offence that the court shall consider under paragraph 718.2(*a*). **2. This Act comes into force on the day on which section 8 of Bill C-15B, introduced in the 1st session of the 37th Parliament and entitled *An Act to amend the Criminal Code (cruelty to animals and firearms) and the Firearms Act*, comes into force.**
