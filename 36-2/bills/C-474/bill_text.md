@@ -1,0 +1,11 @@
+Bill C-474 PublicationID : 2330831 Table of ContentsSummaryBILL C-474
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to increase the deductibility of charitable gifts up to $1,150 a year to be no less than for political contributions. It applies to gifts, up to that amount, the same formula for calculating the deduction that is used for political contributions to registered parties and candidates. The deduction for gifts above that amount remains unchanged. |  |
+|  | The enactment actually covers Crown gifts and cultural gifts as well because they are added to charitable gifts to calculate the deduction under the Act and the expression ``total gifts'' means total charitable gifts up to 75% of income plus total Crown gifts plus total cultural gifts. |  |
+
+|  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-474 An Act to amend the Income Tax Act (percentage of gifts that may be deducted from tax) R.S., cc. 1, 2 (5th Supp.); 1994, cc. 7, 8, 13, 21, 28, 29, 38, 41; 1995, cc. 1, 3, 11, 18, 21, 38, 46; 1996, cc. 11, 21, 23; 1997, cc. 10, 12, 25, 26; 1998, cc. 19, 21, 34 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. (1) Subsection 118.1(3) of the *Income Tax Act* is replaced by the following:** Deduction by individuals for gifts (3) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted such amount as the individual claims, not exceeding (*a*) 75% of the lesser of $100 and the individual's total gifts for the year if the total does not exceed $100, plus (*b*) 50% of the amount by which the individual's total gifts for the year exceed $100 and do not exceed $550, plus (*c*) 33 1/3% of the amount by which the individual's total gifts for the year exceed $550 and do not exceed $1,150, plus (*d*) the highest percentage referred to in subsection 117(2) that applies in determining tax that might be payable under this Part for the year multiplied by the amount by which the individual's total gifts for the year exceed $1,150. **(2) Subsection (1) applies to the 2000 and subsequent taxation years.**
