@@ -1,4 +1,4 @@
-Bill C-53 PublicationID : 2329984 Table of ContentsSummaryBILL C-53SHORT TITLEINTERPRETATIONAPPLICATIONELIGIBILITYLIABILITY OF MINISTERFEES AND CHARGESPILOT PROJECTSREGULATIONSAUDIT OR EXAMINATIONOFFENCES AND PUNISHMENTGENERALCONSEQUENTIAL AMENDMENTBank ActREPEAL
+Bill C-53 PublicationID : 2329985 Table of ContentsSummaryBILL C-53SHORT TITLEINTERPRETATIONAPPLICATIONELIGIBILITYLIABILITY OF MINISTERFEES AND CHARGESPILOT PROJECTSREGULATIONSAUDIT OR EXAMINATIONOFFENCES AND PUNISHMENTGENERALCONSEQUENTIAL AMENDMENTBank ActREPEAL
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
@@ -134,7 +134,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
@@ -189,7 +189,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
@@ -244,7 +244,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
@@ -299,7 +299,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
@@ -354,7 +354,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
@@ -409,7 +409,7 @@ The House of Commons of Canada # BILL C-53 An Act to increase the availability o
 |  | (v) respecting the meaning of ``related'' for the purposes of subsections 4(3) and 7(2); and |  |
 |  | (w) prescribing anything that by this Act is to be prescribed. |  |
 | Ministerial recommenda- tion | (2) Regulations under paragraph (1)(j) shall be made on the recommendation of the Minister and the Minister of Finance. |  |
-| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and the House shall refer the proposed regulations to the appropriate Committee of each House. |  |
+| Tabling of proposed regulations | (3) The Minister shall cause a copy of each regulation proposed to be made under subsection (1) to be laid before each House of Parliament before it is made and that House shall refer the proposed regulations to the appropriate Committee of each House. |  |
 |  | AUDIT OR EXAMINATION |  |
 | Minister's powers | 15. (1) The Minister may, after giving at least twenty-one days notice in writing to a lender, conduct an audit or examination of the lender's documents, records and books of account to verify that this Act and the regulations are being complied with in respect of a loan, including that the lender has exercised due diligence, as provided in the regulations, in the approval and administration of the loan and that the documentation submitted to the Minister in respect of the borrower is accurate and complete. |  |
 | Records to be made available | (2) The documents, records and books of account shall, for the purposes of the audit or examination, be made available at all reasonable times to any person authorized by the Minister for the purpose. |  |
