@@ -1,0 +1,10 @@
+Bill C-429 PublicationID : 2330783 Table of ContentsSummaryBILL C-429
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to permit mechanics to deduct the cost of providing tools for their employment if they are required to do so by the terms of the employment. The deduction encompasses maintenance, rental and insurance costs, the full cost of tools under $200 or such inflation adjusted limit as is set by regulation, and the capital cost allowance of tools over $200, set by regulation. |  |
+
+|  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-429 An Act to amend the Income Tax Act (deduction of mechanics' tool expenses) R.S., cc. 1, 2 (5th Supp.); 1994, cc. 7, 8, 13, 21, 28, 29, 38, 41; 1995, cc. 1, 3, 11, 18, 21, 38, 46; 1996, cc. 11, 21, 23; 1997, cc. 10, 12, 25, 26; 1998, cc. 19, 21, 34; 1999, cc. 10, 17, 22, 26, 31 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 8(1) of the *Income Tax Act* is amended by deleting the word ``and'' at the end of paragraph (*p*), by adding the word ``and'' at the end of paragraph (*q*) and by adding the following after paragraph (*q*):** Mechanics' tool expenses (*r*) where the taxpayer was employed in the year as a mechanic and, as a term of the employment, was required to provide tools for a period in the year, an amount (not exceeding the taxpayer's income for the year from the employment computed without reference to this paragraph) equal to the total of (i) amounts expended by the taxpayer during the year for the maintenance, rental or insurance of the tools except to the extent that the amounts are otherwise deducted in computing the taxpayer's income for any taxation year, (ii) the capital cost of any tool that had a cost of two hundred dollars or less or such higher limit as may be allowed in the regulations to take into consideration inflation, and (iii) such proportion of the capital cost to the taxpayer of any tool, the cost of which exceeded the limit set pursuant to subparagraph (ii), as is allowed by regulation.
