@@ -1,0 +1,11 @@
+Bill C-354 PublicationID : 2330255 Table of ContentsSummaryBILL C-354
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The Land Titles Act has been repealed with respect to the Northwest Territories and the Yukon Territory, but remains in force with respect to Nunavut. |  |
+|  | This enactment changes the meaning of full age (of majority) in various provisions of the Act to eighteen years. It ensures that ``infant'' and ``infancy'' in relation to land transactions will also mean a person under eighteen. The Act will then be interpreted consistently with the definition of ``child'' proposed by the United Nations Convention on the Rights of the Child as a person who is less than eighteen years old. |  |
+
+|  | 1st Session, 36th Parliament, 46-47 Elizabeth II, 1997-98 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-354 An Act to amend the Land Titles Act (age of majority and definition of ``infant'') Preamble WHEREAS, on November 20, 1989, the Convention on the Rights of the Child was adopted by the United Nations General As sembly; WHEREAS the Convention was ratified by Canada on December 31, 1991; WHEREAS the Convention proposes a def inition of ``child'' that should be applied uni formly throughout federal legislation; AND WHEREAS the age of majority and the definition of ``infant'' should be consistent with the definition of ``child''; R.S., c. L-5; R.S., c. 27 (1st Supp.); 1991, c. 50; 1992, c. 53; 1993, c. 28 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as fol lows: **1. Section 2 of the *Land Titles Act* is amended by adding the following in alpha betical order:** ``infant'' « *mineur* » ``infant'' means a person under eighteen years of age and ``infancy'' has a corresponding meaning; **2. Section 198 of the Act is replaced by the following:** Proof of majority of transferor etc. **198.** The registrar may require evidence that any person making a transfer, mortgage, encumbrance or lease is of the full age of eighteen years. **3. The Act is amended by replacing the expression ``full age of nineteen years'', where it occurs in Forms 7, 25 and 29, with the expression ``full age of eighteen years''.**
