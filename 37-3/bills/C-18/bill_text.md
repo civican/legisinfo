@@ -1,13 +1,10 @@
 COVER
 
-| C-18 |  | C-18 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-18 |  | PROJET DE LOI C-18 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 4 |  | LOIS DU CANADA (2004)CHAPITRE 4 |
 | An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health |  | Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 9, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 9 MARS 2004 |
-| 90256 |  |  |
+| BILL C-18 ASSENTED TO 29TH MARCH, 2004 |  | PROJET DE LOI C-18 SANCTIONNÉ LE 29 MARS 2004 |
 
 INSIDECOVER
 
@@ -17,11 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-18 |  | PROJET DE LOI C-18 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 4 |  | CHAPITRE 4 |  |  |  |  |  |
 |  |  | An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health |  | Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé |  |  |  |  |  |
+|  |  | [Assented to 29th March, 2004] |  | [Sanctionnée le 29 mars 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | R.S., c. F-8; 1995, c. 17, s. 45(1) |  | federal-provincial fiscal arrangements act |  | loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces |  | L.R., ch. F-8; 1995, ch. 17, par. 45(1) |  |  |  |
 | 1999, c. 11, s. 1 |  | 1. Section 3 of the Federal-Provincial Fiscal Arrangements Act is replaced by the following: |  | 1. L'article 3 de la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces est remplacé par ce qui suit : |  | 1999, ch. 11, art. 1 |  |  |  |
@@ -46,30 +44,28 @@ MAINTEXT
 |  |  | "fiscal arrangements period" means the period beginning on April 1, 1999 and ending on March 31, 2005. (période des accords fiscaux) |  | « période des accords fiscaux » Période du 1er avril 1999 au 31 mars 2005. (fiscal arrangements period) |  |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Communications Canada — Canadian Government PublishingOttawa, Canada K1A 0S9 |  | Publié avec l'autorisation du président de la Chambre des communesEn vente :Communication Canada — ÉditionOttawa (Ontario) K1A 0S9 |  |  |  |
 
-Table of ContentsCoverBill C-18federal-provincial fiscal arrangements actfederal-provincial fiscal arrangements regulations, 1999
+Table of ContentsCoverBill federal-provincial fiscal arrangements actfederal-provincial fiscal arrangements regulations, 1999
 
-Bill C-18Click here for the entire document. PublicationID : 2331573 Table of ContentsCoverBill C-18federal-provincial fiscal arrangements actfederal-provincial fiscal arrangements regulations, 1999
+Bill C-18Click here for the entire document. PublicationID : 2331574 Table of ContentsCoverBill federal-provincial fiscal arrangements actfederal-provincial fiscal arrangements regulations, 1999
 
 COVER
 
-| C-18 |  | C-18 |
-| --- | --- | --- |
 | Third Session, Thirty-seventh Parliament,52-53 Elizabeth II, 2004 |  | Troisième session, trente-septième législature,52-53 Elizabeth II, 2004 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-18 |  | PROJET DE LOI C-18 |
+| --- | --- | --- |
+| STATUTES OF CANADA 2004CHAPTER 4 |  | LOIS DU CANADA (2004)CHAPITRE 4 |
 | An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health |  | Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 9, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 9 MARS 2004 |
-| 90256 |  |  |
+| BILL C-18 ASSENTED TO 29TH MARCH, 2004 |  | PROJET DE LOI C-18 SANCTIONNÉ LE 29 MARS 2004 |
 
 INSIDECOVER
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-18 |  | PROJET DE LOI C-18 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 4 |  | CHAPITRE 4 |  |  |  |  |  |
 |  |  | An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health |  | Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé |  |  |  |  |  |
+|  |  | [Assented to 29th March, 2004] |  | [Sanctionnée le 29 mars 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | R.S., c. F-8; 1995, c. 17, s. 45(1) |  | federal-provincial fiscal arrangements act |  | loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces |  | L.R., ch. F-8; 1995, ch. 17, par. 45(1) |  |  |  |
 | 1999, c. 11, s. 1 |  | 1. Section 3 of the Federal-Provincial Fiscal Arrangements Act is replaced by the following: |  | 1. L'article 3 de la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces est remplacé par ce qui suit : |  | 1999, ch. 11, art. 1 |  |  |  |
@@ -96,11 +92,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-18 |  | PROJET DE LOI C-18 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 4 |  | CHAPITRE 4 |  |  |  |  |  |
 |  |  | An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health |  | Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé |  |  |  |  |  |
+|  |  | [Assented to 29th March, 2004] |  | [Sanctionnée le 29 mars 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | R.S., c. F-8; 1995, c. 17, s. 45(1) |  | federal-provincial fiscal arrangements act |  | loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces |  | L.R., ch. F-8; 1995, ch. 17, par. 45(1) |  |  |  |
 | 1999, c. 11, s. 1 |  | 1. Section 3 of the Federal-Provincial Fiscal Arrangements Act is replaced by the following: |  | 1. L'article 3 de la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces est remplacé par ce qui suit : |  | 1999, ch. 11, art. 1 |  |  |  |
@@ -127,11 +124,12 @@ MAINTEXT
 
 MAINTEXT
 
-|  |  | 3rd Session, 37th Parliament,52-53 Elizabeth II, 2004 |  | 3e session, 37e législature,52-53 Elizabeth II, 2004 |  |  |  |  |  |
+|  |  | 52-53 ELIZABETH II |  | 52-53 ELIZABETH II |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | House of Commons of Canada |  | Chambre des communes du Canada |  |  |  |  |  |
-|  |  | BILL C-18 |  | PROJET DE LOI C-18 |  |  |  |  |  |
+|  |  | —————— |  | —————— |  |  |  |  |  |
+|  |  | CHAPTER 4 |  | CHAPITRE 4 |  |  |  |  |  |
 |  |  | An Act respecting equalization and authorizing the Minister of Finance to make certain payments related to health |  | Loi concernant la péréquation et permettant au ministre des Finances de faire certains paiements en matière de santé |  |  |  |  |  |
+|  |  | [Assented to 29th March, 2004] |  | [Sanctionnée le 29 mars 2004] |  |  |  |  |  |
 |  |  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |  |
 | R.S., c. F-8; 1995, c. 17, s. 45(1) |  | federal-provincial fiscal arrangements act |  | loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces |  | L.R., ch. F-8; 1995, ch. 17, par. 45(1) |  |  |  |
 | 1999, c. 11, s. 1 |  | 1. Section 3 of the Federal-Provincial Fiscal Arrangements Act is replaced by the following: |  | 1. L'article 3 de la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces est remplacé par ce qui suit : |  | 1999, ch. 11, art. 1 |  |  |  |
