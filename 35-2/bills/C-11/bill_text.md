@@ -1,14 +1,10 @@
 COVER
 
-| C-11 |  | C-11 |
+| Second Session, Thirty-fifth Parliament, 45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature, 45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-11 |  | PROJET DE LOI C-11 |
+| STATUTES OF CANADA 1996CHAPTER 11 |  | LOIS DU CANADA (1996)CHAPITRE 11 |
 | An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts |  | Loi constituant le ministère du Développement des ressources humaines et modifiant ou abrogeant certaines lois |
-| AS PASSED BY THE HOUSE OF COMMONSAPRIL 23, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 23 AVRIL 1996 |
-| 17958 |  |  |
+| ASSENTED TO 29th MAY, 1996 BILL C-11 |  | SANCTIONNÉE LE 29 MAI 1996 PROJET DE LOI C-11 |
 
 INSIDECOVER
 
@@ -18,29 +14,25 @@ INSIDECOVER
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts |  | Loi constituant le ministère du Développement des ressources humaines et modifiant ou abrogeant certaines lois |  |  |  |  |
+| [Assented to 29th May, 1996] |  | [Sanctionnée le 29 mai 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 Table of ContentsCoverSummaryBill C-11
 
-Bill C-11Click here for the entire document (14Kb)Table of ContentsCoverSummaryBill C-11
+Bill C-11Click here for the entire document (13Kb)Table of ContentsCoverSummaryBill C-11
 
 COVER
 
-| C-11 |  | C-11 |
+| Second Session, Thirty-fifth Parliament,45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature,45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-11 |  | PROJET DE LOI C-11 |
+| STATUTES OF CANADA 1996CHAPTER 11 |  | LOIS DU CANADA (1996)CHAPITRE 11 |
 | An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts |  | Loi constituant le ministère du Développement des ressources humaines et modifiant ou abrogeant certaines lois |
-| AS PASSEDBY THE HOUSE OF COMMONSAPRIL 23, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 23 AVRIL 1996 |
-| 17958 |  |  |
+| ASSENTED TO29th MAY, 1996BILL C-11 |  | SANCTIONNÉELE 29 MAI 1996PROJET DE LOI C-11 |
 
 INSIDECOVER
 
@@ -54,10 +46,10 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-11 |  | PROJET DE LOI C-11 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts |  | Loi constituant le ministère du Développement des ressources humaines et modifiant ou abrogeant certaines lois |  |  |  |  |
+| [Assented to 29th May, 1996] |  | [Sanctionnée le 29 mai 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |

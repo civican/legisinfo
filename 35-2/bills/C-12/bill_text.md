@@ -7,9 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-12 |  | PROJET DE LOI C-12 |
 | An Act respecting employment insurance in Canada |  | Loi concernant l'assurance-emploi au Canada |
-| first reading, March 7, 1996 |  | première lecture le 7 mars 1996 |
-| NOTE Printed, pursuant to Order made March 4, 1996, in the same form as Bill C-111 of the First Session of the Thirty-fifth Parliament. |  | NOTE Imprimé, conformément à un ordre adopté le 4 mars 1996, dans le même état où était le projet de loi C-111 de la première session de la trente-cinquième législature. |
-| THE MINISTER OF HUMAN RESOURCES DEVELOPMENT 17963 |  | LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES |
+| AS PASSED BY THE HOUSE OF COMMONSMAY 14, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 14 MAI 1996 |
+| 17963 |  |  |
 
 INSIDECOVER
 
@@ -29,7 +28,7 @@ MAINTEXT
 
 Table of ContentsCoverSummaryBill C-12
 
-Bill C-12Click here for the entire document (26Kb)Table of ContentsCoverSummaryBill C-12
+Bill C-12Click here for the entire document (25Kb)Table of ContentsCoverSummaryBill C-12
 
 COVER
 
@@ -40,9 +39,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-12 |  | PROJET DE LOI C-12 |
 | An Act respecting employment insurance in Canada |  | Loi concernant l'assurance-emploi au Canada |
-| first reading, March 7, 1996 |  | première lecture le 7 mars 1996 |
-| NOTEPrinted, pursuant to Order made March 4, 1996, in the same form as Bill C-111 of the First Session of the Thirty-fifth Parliament. |  | NOTEImprimé, conformément à un ordre adopté le 4 mars 1996, dans le même état où était le projet de loi C-111 de la première session de la trente-cinquième législature. |
-| THE MINISTER OF HUMAN RESOURCES DEVELOPMENT17963 |  | LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES |
+| AS PASSEDBY THE HOUSE OF COMMONSMAY 14, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 14 MAI 1996 |
+| 17963 |  |  |
 
 INSIDECOVER
 
