@@ -1,0 +1,10 @@
+Bill C-275 PublicationID : 2331532 Table of ContentsSummaryBILL C-275
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Canada Transportation Act to allow persons who ship goods by rail to be granted relief if they suffer grievance in respect of a transportation rate or service and to impose the same obligations on all persons and railway companies that have been granted running rights to transport those goods. |  |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-275 An Act to amend the Canada Transportation Act 1996, c. 10 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 27(2) of the *Canada Transportation Act* is replaced by the following:** Limitation (2) Where an application is made to the Agency by a shipper in respect of a transportation rate or service, the Agency shall grant the relief sought, in whole or in part, unless a person opposing the application proves that it is not in the public interest to grant the relief. **2. The Act is amended by adding the following after section 116:** Application **116.1** For greater certainty, sections 112 to 116 apply to all railway companies that have been granted running rights on any portion of a railway.
