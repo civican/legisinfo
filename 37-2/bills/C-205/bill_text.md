@@ -5,13 +5,13 @@ NAVIGATION END
 | house of Commons OF CANADA |  | chambre des communes DU CANADA |
 | BILL C-205 |  | PROJET DE LOI C-205 |
 | An Act to amend the Statutory Instruments Act (disallowance procedure for regulations) |  | Loi modifiant la Loi sur les textes réglementaires (procédure de désaveu des règlements) |
-| Reprinted as amended pursuant to Order made June 4, 2003 |  | Réimprimé tel que modifié conformément à un ordre adopté le 4 juin 2003 |
+| AS PASSED BY THE HOUSE OF COMMONS JUNE 13, 2003 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 13 JUIN 2003 |
 
 [if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m0,0l0,21600,21600,21600,21600,0xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif] [if gte vml 1]></o:wrapblock><![endif]
 
 | Summary | Sommaire |
 | --- | --- |
-| This enactment would establish a statutory disallowance procedure that would be applicable to all statutory instruments subject to review and scrutiny by the Standing Joint Committee for the Scrutiny of Regulations. In so doing, this enactment would ensure that Parliament will have the opportunity to disallow any statutory instrument made pursuant to authority delegated by Parliament or made by or under the authority of the Cabinet. | Le présent texte établirait une procédure d'annulation de textes réglementaires qui s'appliquerait à tous les textes réglementaires, sous réserve de la révision et du contrôle du comité mixte permanent d'examen de la réglementation. Ainsi, le présent texte accorderait au Parlement la possibilité d'annuler tout texte réglementaire pris en vertu d'un pouvoir délégué par lui ou tout texte réglementaire pris par le cabinet ou sous son autorité. |
+| This enactment amends the Statutory Instruments Act to establish a statutory disallowance procedure that applies to all regulations subject to review and scrutiny by the Standing Joint Committee for the Scrutiny of Regulations. In so doing, this enactment ensures that both Houses of Parliament will have the opportunity to disallow any regulation made pursuant to authority delegated by Parliament. | Le texte modifie la Loi sur les textes réglementaires en vue d'établir une procédure de désaveu qui s'applique à tous les règlements assujettis à l'étude et au contrôle du Comité mixte permanent d'examen de la réglementation. Ainsi, le texte accorde aux deux chambres du Parlement la possibilité de désavouer tout règlement pris en vertu d'un pouvoir délégué par le Parlement. |
 
 |  | 2nd Session, 37th Parliament, 51-52 Elizabeth II, 2002-2003 House of Commons of Canada Bill C-205 |  | 2e session, 37e législature, 51-52 Elizabeth II, 2002-2003 Chambre des communes du Canada Projet de loi C-205 |  |  |
 | --- | --- | --- | --- | --- | --- |
