@@ -1,0 +1,11 @@
+Bill C-315 PublicationID : 2330216 Table of ContentsSummaryBILL C-315
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to allow employees to deduct the cost of providing tools for their employment if they are required to do so by the employer as a condition of employment. The deduction includes an allowance in respect of the capital cost of the tools and rental, maintenance and insurance expenses. |  |
+|  | Regulations would set the appropriate depreciation rates applicable to the capital costs for various types of tools. |  |
+
+|  | 1st Session, 36th Parliament, 46-47 Elizabeth II, 1997-98 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-315 An Act to amend the Income Tax Act (deductibility of expense of tools provided as a requirement of employment) R.S., c. 1 (5th Supp.); 1994, cc. 7, 8, 13, 21, 29, 38, 41; 1995, cc. 1, 3, 11, 18, 21, 38, 46; 1996, cc. 11, 21, 23; 1997, cc. 10, 12, 25, 26 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 8(1) of the *Income Tax Act* is amended by deleting the word ``and'' at the end of paragraph (*p*), by adding the word ``and'' at the end of paragraph (*q*) and by adding the following after paragraph (*q*):** (*r*) where the taxpayer was employed in the year and, as a term of the employment, was required to provide any of the tools needed in the course of the employment for a period in the year, an amount (not exceeding the taxpayer's income for the year from the employment computed without reference to this paragraph) equal to the total of (i) amounts expended by the taxpayer before the end of the year for rental, maintenance and insurance of the tools, except to the extent that the amounts are otherwise deducted in computing the taxpayer's income for any taxation year, and (ii) the allowance in respect of the capital cost to the taxpayer of the tools provided for by regulation.
