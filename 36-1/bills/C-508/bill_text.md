@@ -1,0 +1,20 @@
+Bill C-508 PublicationID : 2330415 Table of ContentsSummaryBILL C-508SHORT TITLEHEPATITIS AWARENESS MONTH
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | Under this enactment, throughout Canada, in each and every year, the month of May shall be known under the name of ``Hepatitis Awareness Month''. |  |
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-508 An Act to provide for a Hepatitis Awareness Month Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Hepatitis Awareness Month Act*. #### HEPATITIS AWARENESS MONTH Hepatitis Awareness Month **2.** Throughout Canada, in each and every year, the month of May shall be known under the name of ``Hepatitis Awareness Month''.
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-508 An Act to provide for a Hepatitis Awareness Month Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Hepatitis Awareness Month Act*. #### HEPATITIS AWARENESS MONTH Hepatitis Awareness Month **2.** Throughout Canada, in each and every year, the month of May shall be known under the name of ``Hepatitis Awareness Month''.
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-508 An Act to provide for a Hepatitis Awareness Month Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Hepatitis Awareness Month Act*. #### HEPATITIS AWARENESS MONTH Hepatitis Awareness Month **2.** Throughout Canada, in each and every year, the month of May shall be known under the name of ``Hepatitis Awareness Month''.
