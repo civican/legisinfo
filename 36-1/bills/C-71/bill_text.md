@@ -1,4 +1,4 @@
-Bill C-71 PublicationID : 2330033 Table of ContentsSummaryBILL C-71SHORT TITLEPART 1CANADA HEALTH AND SOCIAL TRANSFERFederal-Provincial Fiscal Arrangements ActCanada Health ActNunavut ActComing into ForcePART 2PUBLIC SECTOR PENSIONSCanadian Forces Superannuation ActPublic Service Superannuation ActRoyal Canadian Mounted Police Superannuation ActPART 3HUMAN RESOURCES MANAGEMENTCanadian Security Intelligence Service ActParliamentary Employment and Staff Relations ActPublic Service Staff Relations ActPART 4ADMINISTRATION OF PUBLIC MONEYSFinancial Administration ActBorrowing Authority Act, 1996-97Borrowing AuthorityTransitional ProvisionsPART 5CERTAIN FIRST NATIONS' SALES TAXESDIVISION 1SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELSDIVISION 2BUDGET IMPLEMENTATION ACT, 1997WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS  DIVISION 3YUKON FIRST NATIONS SELF-GOVERNMENT ACTPART 6CANADA CHILD TAX BENEFITIncome Tax ActPART 7GOODS AND SERVICES TAX CREDITIncome Tax ActPART 8DISCLOSURE OF CONFIDENTIAL INFORMATIONExcise Tax ActIncome Tax ActPART 9AMENDMENTS TO OTHER ACTSAgricultural Marketing Programs ActEuropean Bank for Reconstruction and Development Agreement ActPatent Act
+Bill C-71 PublicationID : 2330034 Table of ContentsSummaryBILL C-71SHORT TITLEPART 1CANADA HEALTH AND SOCIAL TRANSFERFederal-Provincial Fiscal Arrangements ActCanada Health ActNunavut ActComing into ForcePART 2PUBLIC SECTOR PENSIONSCanadian Forces Superannuation ActPublic Service Superannuation ActRoyal Canadian Mounted Police Superannuation ActPART 3HUMAN RESOURCES MANAGEMENTCanadian Security Intelligence Service ActParliamentary Employment and Staff Relations ActPublic Service Staff Relations ActPART 4ADMINISTRATION OF PUBLIC MONEYSFinancial Administration ActPART 5CERTAIN FIRST NATIONS' SALES TAXESDIVISION 1SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELSDIVISION 2BUDGET IMPLEMENTATION ACT, 1997WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELSDIVISION 3YUKON FIRST NATIONS SELF-GOVERNMENT ACTPART 6CANADA CHILD TAX BENEFITIncome Tax ActPART 7GOODS AND SERVICES TAX CREDITIncome Tax ActPART 8DISCLOSURE OF CONFIDENTIAL INFORMATIONExcise Tax ActIncome Tax ActPART 9AMENDMENTS TO OTHER ACTSAgricultural Marketing Programs ActEuropean Bank for Reconstruction and Development Agreement ActPatent Act
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -25,284 +25,36 @@ Bill C-71 PublicationID : 2330033 Table of ContentsSummaryBILL C-71SHORT TITLEPA
 |  | Part 9 amends the Agricultural Marketing Programs Act for the purpose of providing a guarantee to a lender that is not conditional on the actions of an administrator under that Act for money an administrator has borrowed from the lender to pay advances to eligible producers. |  |
 |  | It amends the European Bank for Reconstruction and Development Agreement Act to authorize the Minister of Finance to purchase Canada's quota in the first supplementary subscription of shares in the capital stock of the European Bank. |  |
 |  | It amends the Patent Act to clarify that agreements referred to in section 103 of that Act may be in respect of amounts received under an undertaking as well as under an order, and that the amounts may be paid out of the Consolidated Revenue Fund. |  |
-|  | EXPLANATORY NOTES |  |
-|  | Federal-Provincial Fiscal Arrangements Act |  |
-|  | Clause 2: Subsections 2(2) and (3) read as follows: |  |
-|  | (2) In Parts I, II and IV, ``province'' does not include the Northwest Territories or the Yukon Territory. |  |
-|  | (3) For the purposes of this Act, the population of a province for a fiscal year is the population of the province for that fiscal year as determined by the Chief Statistician of Canada in prescribed manner. |  |
-|  | Clause 3: (1) The relevant portion of subsection 13(1) reads as follows: |  |
-|  | 13. (1) Subject to this Part, a Canada Health and Social Transfer may be provided to a province for a fiscal year for the purposes of |  |
-|  | (a) establishing interim arrangements to finance social programs in a manner that will increase provincial flexibility; |  |
-|  | (2) Subsection 13(2) reads as follows: |  |
-|  | (2) The Canada Health and Social Transfer shall consist of |  |
-|  | (a) a federal income tax reduction in favour of the provinces that would enable the provinces to impose their own tax measures without a net increase in taxation; and |  |
-|  | (b) a cash contribution not exceeding the amount computed in accordance with section 14. |  |
-|  | (3) New. |  |
-|  | Clause 4: Sections 14 and 15 read as follows: |  |
-|  | 14. The cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province for a fiscal year is an amount equal to the amount, if any, by which the total entitlement in respect of the Canada Health and Social Transfer applicable to the province for that fiscal year exceeds the total equalized tax transfer applicable to the province for that fiscal year. |  |
-|  | 15. (1) The total entitlement in respect of the Canada Health and Social Transfer applicable to the whole of Canada |  |
-|  | (a) for the 1996-97 fiscal year is $26.9 billion; and |  |
-|  | (b) for the 1997-98 fiscal year is $25.1 billion. |  |
-|  | (2) The total entitlement in respect of the Canada Health and Social Transfer applicable to the whole of Canada |  |
-|  | (a) for each of the 1998-99 and the 1999-2000 fiscal years is $25.1 billion; and |  |
-|  | (b) for each of the 2000-01 to 2002-03 fiscal years is the amount determined by the formula |  |
-|  | A x (B - C) |  |
-|  | where |  |
-|  | A is the total entitlement that was determined under this subsection for the immediately preceding fiscal year, |  |
-|  | B is the cube root of the quotient obtained by dividing |  |
-|  | (i) the gross domestic product of Canada for the calendar year ending in the immediately preceding fiscal year |  |
-|  | by |  |
-|  | (ii) the gross domestic product of Canada for the calendar year ending in the fourth preceding fiscal year, and |  |
-|  | C is |  |
-|  | (i) 0.02 for the 2000-01 fiscal year, |  |
-|  | (ii) 0.015 for the 2001-02 fiscal year, and |  |
-|  | (iii) 0.01 for the 2002-03 fiscal year. |  |
-|  | (3) Where in any of the 1997-98 to 2002-03 fiscal years the sum of $12.5 billion and the total of all equalized tax transfers applicable to all provinces calculated under section 16 for that fiscal year exceeds the total entitlement determined under subsection (1) or (2) for that fiscal year, the total entitlement in respect of the Canada Health and Social Transfer applicable to the whole of Canada for that fiscal year shall be increased by the amount of that excess. |  |
-|  | (4) The total entitlement in respect of the Canada Health and Social Transfer applicable to a province for the fiscal year beginning on April 1, 1996 is the amount as determined by the Minister, equal to the product obtained by multiplying |  |
-|  | (a) 26.9 billion dollars |  |
-|  | by |  |
-|  | (b) the quotient obtained by dividing |  |
-|  | (i) the province's total entitlements in respect of the sum of the amounts established under subsections 15(1) and (2) and sections 23 and 23.1, as they read on March 31, 1996, in respect of the fiscal year beginning on April 1, 1995 and the contributions payable under the Canada Assistance Plan in respect of the fiscal year beginning on April 1, 1994 |  |
-|  | by |  |
-|  | (ii) the total of the total entitlements referred to in subparagraph (i) of all the provinces. |  |
-|  | (5) The total entitlement in respect of the Canada Health and Social Transfer applicable to a province for each of the 1997-98 to 2002-03 fiscal years is the amount determined by the formula |  |
-|  | F x [(G x H/J) + (1 - G) x K/L] |  |
-|  | where |  |
-|  | F is the total entitlement in respect of the Canada Health and Social Transfer applicable to the whole of Canada for the fiscal year determined under subsections (1) to (3); |  |
-|  | G is |  |
-|  | (a) 1 for the 1997-98 fiscal year, |  |
-|  | (b) 0.9 for the 1998-99 fiscal year, |  |
-|  | (c) 0.8 for the 1999-2000 fiscal year, |  |
-|  | (d) 0.7 for the 2000-01 fiscal year, |  |
-|  | (e) 0.6 for the 2001-02 fiscal year, and |  |
-|  | (f) 0.5 for the 2002-03 fiscal year; |  |
-|  | H is the product obtained by multiplying |  |
-|  | (a) the total entitlements referred to in subparagraph (4)(b)(i) in respect of the province |  |
-|  | by |  |
-|  | (b) the quotient obtained by dividing |  |
-|  | (i) the population of the province for the fiscal year |  |
-|  | by |  |
-|  | (ii) the population of the province for the 1995-96 fiscal year; |  |
-|  | J is the total of all the values of H for the fiscal year in respect of all provinces; |  |
-|  | K is the population of the province for the fiscal year; and |  |
-|  | L is the total of the population of all provinces for the fiscal year. |  |
-|  | Clause 5: New. |  |
-|  | Clause 6: Subsection 17(2) reads as follows: |  |
-|  | (2) The cash contribution that may be provided to a province under this Part shall be reduced or withheld for the purposes of giving effect to |  |
-|  | (a) any order made by the Governor in Council in respect of the province under section 15 or 16 of the Canada Health Act or section 21 or 22 of this Act; or |  |
-|  | (b) any deduction from the cash contribution pursuant to section 20 of the Canada Health Act. |  |
-|  | Clause 7: The relevant portion of subsection 19(1) reads as follows: |  |
-|  | 19. (1) In order that a province may qualify for a full cash contribution referred to in section 14 for a fiscal year, the laws of the province must not |  |
-|  | Clause 8: Subsection 21(1) reads as follows: |  |
-|  | 21. (1) Where, on the referral of a matter under section 20, the Governor in Council is of the opinion that the province does not or has ceased to comply with section 19, the Governor in Council may, by order, |  |
-|  | (a) direct that any cash contribution to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or |  |
-|  | (b) where the Governor in Council considers it appropriate, direct that the whole of any cash contribution to that province for a fiscal year be withheld. |  |
-|  | Clause 9: Sections 22 and 23 read as follows: |  |
-|  | 22. In the case of a continuing failure to comply with section 19, any reduction or withholding under section 21 of a cash contribution to a province for a fiscal year shall be reimposed for each succeeding fiscal year as long as the Minister is satisfied, after consultation with the minister responsible for social assistance in the province, that the non-compliance is continuing. |  |
-|  | 23. Any reduction or withholding under section 21 or 22 of a cash contribution may be imposed in the fiscal year in which the non-compliance that gave rise to the reduction or withholding occurred or in the following fiscal year. |  |
-|  | Clause 10: Section 25 and the heading before it read as follows: |  |
-|  | Interpretation |  |
-|  | 25. For the purposes of this Part, references to social programs include programs in respect of health, post-secondary education, social assistance and social services. |  |
-|  | Canada Health Act |  |
-|  | Clause 11: The definition ``cash contribution'' in section 2 reads as follows: |  |
-|  | ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer under section 14 of the Federal-Provincial Fiscal Arrangements Act; |  |
-|  | Nunavut Act |  |
-|  | Clause 12: Section 57 of Schedule III and the heading before it read as follows: |  |
-|  | Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act |  |
-|  | 57. Subsection 2(2) is repealed and the following substituted therefor: |  |
-|  | (2) In Parts I, II and IV and in paragraphs 15(1)(a) and (2)(a) and 16(3)(b) and (4)(b) and section 40.1, ``province'' does not include the Northwest Territories, the Yukon Territory or Nunavut. |  |
-|  | Canadian Forces Superannuation Act |  |
-|  | Clause 14: (1) The relevant portion of subsection 15(1) reads as follows: |  |
-|  | 15. (1) The amount of any annuity to which a contributor may become entitled under this Act is an amount equal to the aggregate of |  |
-|  | (a) an amount equal to |  |
-|  | . . . |  |
-|  | multiplied by |  |
-|  | (ii) the average annual pay received by the contributor during any six year period of pensionable service selected by or on behalf the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling six years, or |  |
-|  | (iii) in the case of a contributor who has to the contributor's credit less than six years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
-|  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) reads as follows: |  |
-|  | ``Average Maximum Pensionable Earnings'' means with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he ceased to be a member of the regular force and for each of the two preceding years; |  |
-|  | (3) New. |  |
-|  | Public Service Superannuation Act |  |
-|  | Clause 15: (1) The relevant portion of subsection 11(1) reads as follows: |  |
-|  | 11. (1) The amount of any annuity to which a contributor may become entitled under this Part is an amount equal to the aggregate of |  |
-|  | (a) an amount equal to |  |
-|  | . . . |  |
-|  | multiplied by |  |
-|  | (ii) the average annual salary received by the contributor during any six year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling six years, or |  |
-|  | (iii) in the case of a contributor who has to the contributor's credit less than six years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
-|  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) reads as follows: |  |
-|  | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
-|  | (a) ceased to be employed in the Public Service, or |  |
-|  | (b) becomes entitled to receive a retirement pension under the Canada Pension Plan or a provincial plan similar thereto, |  |
-|  | whichever is the earlier, and for each of the two preceding years; |  |
-|  | (3) New. |  |
-|  | Royal Canadian Mounted Police Superannuation Act |  |
-|  | Clause 16: (1) The relevant portion of subsection 10(1) reads as follows: |  |
-|  | 10. (1) The amount of any annuity to which a contributor may become entitled under this Part is an amount equal to the aggregate of |  |
-|  | (a) an amount equal to |  |
-|  | . . . |  |
-|  | multiplied by |  |
-|  | (ii) the average annual pay received by the contributor during any six year period of pensionable service selected by or on behalf the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling six years, or |  |
-|  | (iii) in the case of a contributor who has to the contributor's credit less than six years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
-|  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) reads as follows: |  |
-|  | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he ceased to be a member of the Force and for each of the two preceding years; |  |
-|  | (3) New. |  |
-|  | Canadian Security Intelligence Service Act |  |
-|  | Clause 17: Subsection 9.1(2) reads as follows: |  |
-|  | (2) During the period referred to in section 62 of the Public Service Staff Relations Act an arbitration board, as defined in subsection 2(1) of that Act, shall, in rendering an arbitral award, limit the aggregate amount of any increase in pay and other benefits in respect of any dispute applicable to employees of the Service to that concluded through collective bargaining or otherwise by a comparable bargaining unit in the Public Service, within the meaning of that Act, after the compensation plan applicable to that bargaining unit ceased to be continued by virtue of the Public Sector Compensation Act. |  |
-|  | Parliamentary Employment and Staff Relations Act |  |
-|  | Clause 18: Section 53.1 reads as follows: |  |
-|  | 53.1 Notwithstanding any other provision of this Act, during the period in which the referral of a dispute to arbitration as the process for the resolution of a dispute under the Public Service Staff Relations Act is suspended under section 62 of that Act, the Board shall, in rendering an arbitral award, limit the aggregate amount of any increase in pay and other benefits in respect of any dispute applicable to employees to that concluded through collective bargaining or otherwise by a comparable bargaining unit in the Public Service, within the meaning of that Act, after the compensation plan applicable to that bargaining unit ceased to be continued by virtue of the Public Sector Compensation Act. |  |
-|  | Public Service Staff Relations Act |  |
-|  | Clause 19: (1) Subsection 62(1) reads as follows: |  |
-|  | 62. (1) The operation of sections 64 to 75.1 is suspended during the period of three years following the coming into force of this section. |  |
-|  | (2) New. |  |
-|  | Financial Administration Act |  |
-|  | Clause 20: Section 18 reads as follows: |  |
-|  | 18. (1) In this section, ``securities'' means securities of or guaranteed by Canada and includes any other securities described in the definition ``securities'' in section 2. |  |
-|  | (2) The Minister may, when he or she deems it advisable for the sound and efficient management of public money or the public debt, purchase or acquire securities, including securities on their issuance, pay for the securities out of the Consolidated Revenue Fund and hold the securities. |  |
-|  | (3) The Minister may sell or lend any securities purchased, acquired or held pursuant to subsection (2), and the proceeds of the sales or lending shall be deposited to the credit of the Receiver General. |  |
-|  | (4) Any net profit resulting in any fiscal year from the purchase, holding, sale or lending of securities pursuant to this section shall be credited to the revenues of that fiscal year, and any net loss resulting in any fiscal year from that purchase, holding, sale or lending shall be charged to an appropriation provided by Parliament for the purpose. |  |
-|  | (5) For the purposes of subsection (4), the net profit or loss in any fiscal year shall be determined by taking into account realized profits and losses on securities sold or loaned, the amortization applicable to the fiscal year of premiums and discounts on securities, and interest applicable to the fiscal year. |  |
-|  | Clause 21: Section 43 reads as follows: |  |
-|  | 43. No money shall be borrowed or security issued by or on behalf of Her Majesty without the authority of Parliament. |  |
-|  | Clause 22: Sections 44 to 46 read as follows: |  |
-|  | 44. Where by this Act or any other Act of Parliament authority is given to raise money, by or on behalf of Her Majesty, by way of loan or by the issue and sale of securities, the Governor in Council may, subject to the Act authorizing the raising of that money, |  |
-|  | (a) authorize the raising of all or part of that money by the issue and sale of treasury bills or treasury notes and authorize the Minister, or such officer of the Department of Finance as may be designated by the Minister, |  |
-|  | (i) to determine the date of the issue and the date of maturity of those bills or notes, the rate of interest thereon, if any, and the dates of payment of interest, if any, |  |
-|  | (ii) to sell any of those bills or notes for such price or prices and on such terms and conditions as the Minister considers necessary, and |  |
-|  | (iii) subject to such terms and conditions as the Governor in Council may specify, to enter into such contracts or agreements relating to the issue and sale of those bills or notes on such terms and conditions as the Minister, or such officer of the Department of Finance designated by the Minister, considers necessary; or |  |
-|  | (b) authorize the Minister, or such officer of the Department of Finance as may be designated by the Minister, |  |
-|  | (i) subject to such terms and conditions as the Governor in Council may specify, to enter into such contracts or agreements relating to the raising of the money on such terms and conditions as the Minister, or such officer of the Department of Finance designated by the Minister, considers necessary, |  |
-|  | (ii) to raise all or part of that money by the issue and sale of securities other than treasury bills or treasury notes, |  |
-|  | (iii) to issue and sell those securities in a principal amount not exceeding an amount authorized by the Governor in Council, |  |
-|  | (iv) to determine the rate or rates of interest, not exceeding the maximum rate or rates of interest authorized by the Governor in Council, payable in respect of those securities, |  |
-|  | (v) to determine the date, not later than the date authorized by the Governor in Council, on which the principal amount specified in those securities is payable, and |  |
-|  | (vi) to sell those securities |  |
-|  | (A) for a price or prices, not less than the minimum price or prices authorized by the Governor in Council, and |  |
-|  | (B) on such other terms and conditions as the Minister, or such officer of the Department of Finance designated by the Minister, considers necessary. |  |
-|  | 45. Where an authority is at any time conferred by Parliament to borrow an amount of money on behalf of Her Majesty, at any time thereafter, only the amount by which money borrowed on behalf of Her Majesty that is not then repaid exceeds the aggregate of |  |
-|  | (a) money borrowed on behalf of Her Majesty that was not repaid on the day the authority became effective or, where no effective date is specified, the day on which the authority was conferred, and |  |
-|  | (b) money borrowed on behalf of Her Majesty after whichever day referred to in paragraph (a) is applicable and charged against any amount authorized to be borrowed by any other authority, |  |
-|  | constitutes a charge against the amount of money so authorized to be borrowed. |  |
-|  | 45.1 The Governor in Council may authorize the Minister, subject to such terms and conditions as the Governor in Council may specify, to enter into interest rate exchange agreements and currency exchange agreements on such terms and conditions as the Minister, or an officer of the Department of Finance designated by the Minister, considers necessary. |  |
-|  | 46. The Governor in Council may authorize the Minister to borrow such sums of money as are required for the payment of any securities that were issued under the authority of Parliament, other than section 47, and are maturing or have been called for redemption. |  |
-|  | Clause 23: Sections 49 to 55 read as follows: |  |
-|  | 49. An annual statement of all borrowing transactions on behalf of Her Majesty shall be included in the Public Accounts. |  |
-|  | 50. (1) Security certificates evidencing securities issued under the authority of this Part shall be signed by the Deputy Minister of Finance or an officer of the Department of Finance designated by the Governor in Council to sign on behalf of the Deputy Minister of Finance, and shall be countersigned by such officer of the Department of Finance or other person as the Governor in Council designates for that purpose. |  |
-|  | (2) The Minister may direct that there be substituted for signatures in the proper handwriting of one or both of the persons authorized to sign or countersign security certificates under subsection (1), facsimiles of those signatures. |  |
-|  | 51. The Governor in Council may |  |
-|  | (a) appoint one or more registrars to perform such services in respect of the registration of loans as the Governor in Council may prescribe; |  |
-|  | (b) appoint one or more fiscal agents to perform such services in respect of loans as the Governor in Council may prescribe; and |  |
-|  | (c) fix the remuneration or compensation of any registrar or fiscal agent appointed under this section. |  |
-|  | 52. (1) The Minister shall cause to be maintained a system of books and records |  |
-|  | (a) showing all money authorized by Parliament to be borrowed by the issue and sale of securities; |  |
-|  | (b) containing a description and record of all money so borrowed and securities issued; and |  |
-|  | (c) showing all amounts paid in respect of the principal of or interest on all money so borrowed. |  |
-|  | (2) Every fiscal agent and registrar shall annually, and as often as required by the Minister, give to the Minister an accounting, in such form and terms and containing such information as the Minister prescribes, of all his transactions as fiscal agent or registrar. |  |
-|  | 53. The Governor in Council may provide for the creation and management of a sinking fund with respect to any issue of securities or with respect to all securities issued. |  |
-|  | 54. The payment of all money borrowed and interest thereon and of the principal of and interest on all securities issued by or on behalf of Her Majesty with the authority of Parliament is a charge on and payable out of the Consolidated Revenue Fund. |  |
-|  | 55. With the authority of the Governor in Council, there may be paid out of the Consolidated Revenue Fund |  |
-|  | (a) all money required under section 53 to provide a sinking fund or other means of securing repayment of securities; |  |
-|  | (b) the remuneration and compensation of registrars and fiscal agents appointed under section 51; and |  |
-|  | (c) all costs, expenses and charges incurred in the negotiation or raising of loans or in the issue, redemption, servicing, payment and management of any loan and any securities issued in respect thereof. |  |
-|  | Clause 24: New. |  |
-|  | Budget Implementation Act, 1997 |  |
-|  | Clause 36: New. |  |
-|  | Clause 37: (1) Subsection 52(1) reads as follows: |  |
-|  | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
-|  | (2) The relevant portion of subsection 52(4) reads as follows: |  |
-|  | (4) For the purposes of this Part, an alcoholic beverage or a tobacco product is sold on a reserve if |  |
-|  | Clause 38: The relevant portion of subsection 53(1) reads as follows: |  |
-|  | 53. (1) A by-law made under subsection 52(1) |  |
-|  | . . . |  |
-|  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
-|  | Yukon First Nations Self-Government Act |  |
-|  | Clause 39: New. |  |
-|  | Income Tax Act |  |
-|  | Clause 40: (1) The amendment would replace ``$25,921'' with ``$29,590''. |  |
-|  | (2) The amendment would replace ``$605'' with ``$955'', ``$605'' with ``$955'', ``$405'' with ``$755'' and ``$330'' with ``$680''. |  |
-|  | (3) The amendment would replace ``12.1%'' with ``11.0%'', ``20.2%'' with ``19.7%'', and ``26.8%'' with ``27.6%''. |  |
-|  | (4) The relevant portion of subsection 122.61(5) reads as follows: |  |
-|  | (5) Each amount (other than the amounts of $6,250 and $20,921) expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
-|  | (5) Subsection 122.61(6) reads as follows: |  |
-|  | (6) The amount of $20,921 referred to in subsection (1) shall be adjusted so that the amount to be used thereunder for a month in relation to a base taxation year that is after 1991 is equal to the amount by which |  |
-|  | (a) the amount of $25,921 referred to in subsection (1), as adjusted and rounded under this section for the year, |  |
-|  | exceeds |  |
-|  | (b) the product obtained by multiplying the amount of $500 referred to in subsection (1), as adjusted and rounded under this section for the year, by 10. |  |
-|  | Clause 41: (1) The relevant portion of subsection 122.5(3) reads as follows: |  |
-|  | (3) Where a return of income (other than a return of income filed under subsection 70(2), paragraph 104(23)(d) or 128(2)(e) or subsection 150(4)) is filed under this Part for a taxation year in respect of an eligible individual and the individual applies therefor in writing, 1/4 of the amount, if any, by which the total of |  |
-|  | . . . |  |
-|  | (e) where the individual has no qualified relation for the year, the lesser of |  |
-|  | (i) $100, and |  |
-|  | (ii) 2% of the amount, if any, by which |  |
-|  | (A) the individual's income for the year |  |
-|  | exceeds |  |
-|  | (B) the amount determined for the year for the purposes of paragraph (c) of the description of B in subsection 118(1), |  |
-|  | exceeds |  |
-|  | . . . |  |
-|  | shall be deemed to be an amount paid by the individual on account of the individual's tax payable under this Part for the year during each of the months specified for that year under subsection (4). |  |
-|  | Excise Tax Act |  |
-|  | Clause 42: The relevant portion of subsection 295(5) reads as follows: |  |
-|  | (5) An official may |  |
-|  | Clause 43: The relevant portion of subsection 328(2) reads as follows: |  |
-|  | (2) Every person |  |
-|  | (a) to whom confidential information has been provided for a particular purpose pursuant to paragraph 295(5)(b), (c) or (g), or |  |
-|  | Income Tax Act |  |
-|  | Clause 44: The relevant portion of subsection 239(2.21) reads as follows: |  |
-|  | (2) Every person |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h) or (k), or |  |
-|  | Clause 45: The relevant portion of subsection 241(4) reads as follows: |  |
-|  | (4) An official may |  |
-|  | Agricultural Marketing Programs Act |  |
-|  | Clause 46: Subsections 5(1.1) and (1.2) are new. Subsection 5(1) reads as follows: |  |
-|  | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator for the purpose of guaranteeing the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances. |  |
-|  | Clause 47: Section 6 reads as follows: |  |
-|  | 6. A guarantee is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | Clause 48: Section 8 reads as follows: |  |
-|  | 8. A guarantee under the advance guarantee agreement may, with the approval of the Minister of Finance, be made to the lender instead of to the administrator if the Minister is satisfied that doing so will reduce the interest payable to the lender. |  |
-|  | Clause 49: Subsection 10(1.1) reads as follows: |  |
-|  | (1.1) For the purposes of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another lender in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | Clause 50: The relevant portion of subsection 23(1) reads as follows: |  |
-|  | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator, the Minister must, subject to any regulations made under paragraph 40(g), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | Clause 51: The relevant portion of subsection 40(1) reads as follows: |  |
-|  | 40. (1) The Governor in Council may make regulations |  |
-|  | European Bank for Reconstruction and Development Agreement Act |  |
-|  | Clause 53: Subsection 6(3) is new. Subsection 6(2) reads as follows: |  |
-|  | (2) The Minister may provide for further payments to the Bank, in the manner and at the times provided for in the Agreement, in respect of supplementary subscriptions of shares, from funds authorized for that purpose in an appropriation by Parliament. |  |
-|  | Patent Act |  |
-|  | Clause 54: Section 103 reads as follows: |  |
-|  | 103. The Minister may enter into agreements with any province respecting the distribution to that province of amounts received or collected by the Receiver General under section 84, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
 |  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
 | --- | --- |
 
-The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2.** Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following: Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut . Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories , for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3.** (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following: Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2)** Subsection 13(2) of the Act is replaced by the following: Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3)** Section 13 of the Act is amended by adding the following after subsection (3): Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4.** Sections 14 and 15 of the Act are replaced by the following: Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999 , (*b*) 0.25 for the fiscal year beginning on April 1, 2000 , and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004 ; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999 , in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995 ; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5.** The Act is amended by adding the following after section 16: Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6.** Subsection 17(2) of the Act is replaced by the following: Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1) , section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7.** The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following: Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8.** Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following: (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9.** Sections 22 and 23 of the French version of the Act are replaced by the following: Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10.** Section 25 of the Act and the heading before it are repealed. R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11.** The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following: ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
+The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2. Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following:** Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut. Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories, for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3. (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following:** Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2) Subsection 13(2) of the Act is replaced by the following:** Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3) Section 13 of the Act is amended by adding the following after subsection (3):** Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4. Sections 14 and 15 of the Act are replaced by the following:** Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999, (*b*) 0.25 for the fiscal year beginning on April 1, 2000, and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5. The Act is amended by adding the following after section 16:** Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6. Subsection 17(2) of the Act is replaced by the following:** Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7. The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following:** Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8. Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following:** (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9. Sections 22 and 23 of the French version of the Act are replaced by the following:** Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10. Section 25 of the Act and the heading before it are repealed.** R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11. The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following:** ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
 
 |  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
 | --- | --- |
 
-The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2.** Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following: Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut . Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories , for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3.** (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following: Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2)** Subsection 13(2) of the Act is replaced by the following: Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3)** Section 13 of the Act is amended by adding the following after subsection (3): Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4.** Sections 14 and 15 of the Act are replaced by the following: Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999 , (*b*) 0.25 for the fiscal year beginning on April 1, 2000 , and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004 ; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999 , in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995 ; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5.** The Act is amended by adding the following after section 16: Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6.** Subsection 17(2) of the Act is replaced by the following: Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1) , section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7.** The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following: Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8.** Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following: (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9.** Sections 22 and 23 of the French version of the Act are replaced by the following: Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10.** Section 25 of the Act and the heading before it are repealed. R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11.** The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following: ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
+The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2. Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following:** Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut. Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories, for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3. (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following:** Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2) Subsection 13(2) of the Act is replaced by the following:** Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3) Section 13 of the Act is amended by adding the following after subsection (3):** Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4. Sections 14 and 15 of the Act are replaced by the following:** Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999, (*b*) 0.25 for the fiscal year beginning on April 1, 2000, and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5. The Act is amended by adding the following after section 16:** Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6. Subsection 17(2) of the Act is replaced by the following:** Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7. The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following:** Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8. Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following:** (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9. Sections 22 and 23 of the French version of the Act are replaced by the following:** Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10. Section 25 of the Act and the heading before it are repealed.** R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11. The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following:** ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
 
 |  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
 | --- | --- |
 
-The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2.** Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following: Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut . Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories , for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3.** (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following: Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2)** Subsection 13(2) of the Act is replaced by the following: Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3)** Section 13 of the Act is amended by adding the following after subsection (3): Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4.** Sections 14 and 15 of the Act are replaced by the following: Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999 , (*b*) 0.25 for the fiscal year beginning on April 1, 2000 , and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004 ; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999 , in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995 ; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5.** The Act is amended by adding the following after section 16: Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6.** Subsection 17(2) of the Act is replaced by the following: Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1) , section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7.** The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following: Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8.** Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following: (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9.** Sections 22 and 23 of the French version of the Act are replaced by the following: Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10.** Section 25 of the Act and the heading before it are repealed. R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11.** The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following: ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
+The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2. Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following:** Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut. Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories, for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3. (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following:** Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2) Subsection 13(2) of the Act is replaced by the following:** Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3) Section 13 of the Act is amended by adding the following after subsection (3):** Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4. Sections 14 and 15 of the Act are replaced by the following:** Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999, (*b*) 0.25 for the fiscal year beginning on April 1, 2000, and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5. The Act is amended by adding the following after section 16:** Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6. Subsection 17(2) of the Act is replaced by the following:** Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7. The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following:** Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8. Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following:** (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9. Sections 22 and 23 of the French version of the Act are replaced by the following:** Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10. Section 25 of the Act and the heading before it are repealed.** R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11. The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following:** ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
 
 |  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
 | --- | --- |
 
-The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2.** Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following: Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut . Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories , for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3.** (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following: Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2)** Subsection 13(2) of the Act is replaced by the following: Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3)** Section 13 of the Act is amended by adding the following after subsection (3): Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4.** Sections 14 and 15 of the Act are replaced by the following: Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999 , (*b*) 0.25 for the fiscal year beginning on April 1, 2000 , and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004 ; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999 , in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995 ; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5.** The Act is amended by adding the following after section 16: Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6.** Subsection 17(2) of the Act is replaced by the following: Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1) , section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7.** The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following: Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8.** Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following: (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9.** Sections 22 and 23 of the French version of the Act are replaced by the following: Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10.** Section 25 of the Act and the heading before it are repealed. R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11.** The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following: ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
+The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2. Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following:** Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut. Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories, for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3. (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following:** Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2) Subsection 13(2) of the Act is replaced by the following:** Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3) Section 13 of the Act is amended by adding the following after subsection (3):** Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4. Sections 14 and 15 of the Act are replaced by the following:** Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999, (*b*) 0.25 for the fiscal year beginning on April 1, 2000, and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5. The Act is amended by adding the following after section 16:** Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6. Subsection 17(2) of the Act is replaced by the following:** Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7. The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following:** Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8. Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following:** (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9. Sections 22 and 23 of the French version of the Act are replaced by the following:** Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10. Section 25 of the Act and the heading before it are repealed.** R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11. The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following:** ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
 
 |  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
 | --- | --- |
 
-The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2.** Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following: Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut . Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories , for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3.** (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following: Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2)** Subsection 13(2) of the Act is replaced by the following: Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3)** Section 13 of the Act is amended by adding the following after subsection (3): Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4.** Sections 14 and 15 of the Act are replaced by the following: Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999 , (*b*) 0.25 for the fiscal year beginning on April 1, 2000 , and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004 ; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999 , in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995 ; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5.** The Act is amended by adding the following after section 16: Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6.** Subsection 17(2) of the Act is replaced by the following: Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1) , section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7.** The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following: Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8.** Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following: (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9.** Sections 22 and 23 of the French version of the Act are replaced by the following: Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10.** Section 25 of the Act and the heading before it are repealed. R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11.** The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following: ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
+The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2. Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following:** Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut. Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories, for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3. (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following:** Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2) Subsection 13(2) of the Act is replaced by the following:** Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3) Section 13 of the Act is amended by adding the following after subsection (3):** Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4. Sections 14 and 15 of the Act are replaced by the following:** Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999, (*b*) 0.25 for the fiscal year beginning on April 1, 2000, and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5. The Act is amended by adding the following after section 16:** Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6. Subsection 17(2) of the Act is replaced by the following:** Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7. The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following:** Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8. Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following:** (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9. Sections 22 and 23 of the French version of the Act are replaced by the following:** Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10. Section 25 of the Act and the heading before it are repealed.** R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11. The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following:** ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
 
 |  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
 | --- | --- |
 
-The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2.** Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following: Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut . Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories , for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3.** (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following: Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2)** Subsection 13(2) of the Act is replaced by the following: Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3)** Section 13 of the Act is amended by adding the following after subsection (3): Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4.** Sections 14 and 15 of the Act are replaced by the following: Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999 , (*b*) 0.25 for the fiscal year beginning on April 1, 2000 , and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004 ; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999 , in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995 ; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5.** The Act is amended by adding the following after section 16: Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6.** Subsection 17(2) of the Act is replaced by the following: Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1) , section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7.** The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following: Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8.** Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following: (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9.** Sections 22 and 23 of the French version of the Act are replaced by the following: Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10.** Section 25 of the Act and the heading before it are repealed. R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11.** The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following: ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
+The House of Commons of Canada # BILL C-71 An Act to implement certain provisions of the budget tabled in Parliament on February 16, 1999 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Budget Implementation Act, 1999*. ## PART 1 ### CANADA HEALTH AND SOCIAL TRANSFER R.S., c. F-8; 1995, c. 17, s. 45(1) *Federal-Provincial Fiscal Arrangements Act* 1995, c. 17, s. 46 **2. Subsections 2(2) and (3) of the *Federal-Provincial Fiscal Arrangements Act* are replaced by the following:** Definition of ``province'' (2) In Parts I, II and IV, ``province'' does not include the Yukon Territory, the Northwest Territories or Nunavut. Determi- nation of population (3) For the purposes of this Act, the population of a province, or, before April 1, 1999, of the part of the Northwest Territories that became Nunavut or the part that remained as the Northwest Territories, for a fiscal year is the population of the province or the part for that fiscal year as determined by the Chief Statistician of Canada in the prescribed manner. 1995, c. 17, s. 48 **3. (1) The portion of subsection 13(1) of the Act before paragraph (*b*) is replaced by the following:** Transfers established under paragraphs 14(*a*) and (*b*) **13.** (1) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*a*) and (*b*) is to be provided to the provinces for the purposes of (*a*) financing social programs in a manner that provides provincial flexibility; 1995, c. 17, s. 48 **(2) Subsection 13(2) of the Act is replaced by the following:** Transfers established under paragraphs 14(*c*) and (*d*) (2) Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(*c*) and (*d*) is to be provided to the provinces for the following purposes: (*a*) the purpose referred to in paragraph (1)(*b*); and (*b*) contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians. **(3) Section 13 of the Act is amended by adding the following after subsection (3):** Definition of ``social programs'' (4) In this section, ``social programs'' includes programs in respect of health, post-secondary education, social assistance and social services. 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1(1) **4. Sections 14 and 15 of the Act are replaced by the following:** Canada Health and Social Transfer **14.** The Canada Health and Social Transfer shall consist of (*a*) the sum of the total equalized tax transfers, as determined in accordance with subsection 16(1); (*b*) a cash contribution of $12.5 billion for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004; (*c*) a cash contribution of $3.5 billion for the fiscal year beginning on April 1, 1998, to be paid to the trust referred to in section 16.1; and (*d*) a cash contribution, to be provided for the purposes referred to in subsection 13(2), of (i) $1.0 billion for the fiscal year beginning on April 1, 2000, (ii) $2.0 billion for the fiscal year beginning on April 1, 2001, and (iii) $2.5 billion for each fiscal year in the period beginning on April 1, 2002 and ending on March 31, 2004. Provincial share of cash contribution established under paragraph 14(*b*) **15.** (1) The cash contribution established under paragraph 14(*b*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2004 is the amount determined by the formula F x [(G x H/J) + (1 - G) x K/L] - M where F is the total of the amounts established under paragraphs 14(*a*) and (*b*) for the fiscal year; G is (*a*) 0.3 for the fiscal year beginning on April 1, 1999, (*b*) 0.25 for the fiscal year beginning on April 1, 2000, and (*c*) 0.0 for each of the fiscal years in the period beginning on April 1, 2001 and ending on March 31, 2004; H is the product obtained by multiplying (*a*) the total entitlements referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the province by (*b*) the quotient obtained by dividing (i) the population of the province for the fiscal year by (ii) the population of the province for the fiscal year beginning on April 1, 1995; J is the total of all the values of H for the fiscal year in respect of all provinces; K is the population of the province for the fiscal year; L is the total of the population of all provinces for the fiscal year; and M is the total equalized tax transfer applicable to the province for the fiscal year, as determined in accordance with subsection 16(1). Northwest Territories and Nunavut (2) The total entitlements of H in the formula in subsection (1) are (*a*) in respect of the Northwest Territories, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.56843; and (*b*) in respect of Nunavut, the total entitlement referred to in subparagraph 15(4)(*b*)(i), as it read on March 31, 1999, in respect of the Northwest Territories multiplied by 0.43157. Provincial share of cash contribution established under paragraph 14(*c*) (3) The cash contribution established under paragraph 14(*c*) that may be provided to a province shall be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.1. Provincial share of cash contribution established under paragraph 14(*d*) (4) The cash contribution established under paragraph 14(*d*) that may be provided to a province for each of the fiscal years in the period beginning on April 1, 2000 and ending on March 31, 2004 is the amount determined by multiplying the amount set out for that fiscal year in that paragraph by the quotient obtained by dividing (*a*) the population of the province for the fiscal year by (*b*) the total of the population of all provinces for the fiscal year. **5. The Act is amended by adding the following after section 16:** Payments to trust **16.1** The Minister may make direct payments, in an aggregate amount not exceeding $3.5 billion, to a trust established to provide funding for the purposes referred to in subsection 13(2). 1995, c. 17, s. 50 **6. Subsection 17(2) of the Act is replaced by the following:** Reduction or withholding (2) The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to (*a*) any order made by the Governor in Council in respect of the province under section 15 or 16 of the *Canada Health Act* or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or (*b*) any deduction from the cash contribution under section 20 of the *Canada Health Act*. 1995, c. 17, s. 50 **7. The portion of subsection 19(1) of the Act before paragraph (*a*) is replaced by the following:** Criteria for eligibility **19.** (1) In order that a province may qualify for a full cash contribution under subsection 15(1) for a fiscal year, the laws of the province must not 1995, c. 17, s. 50 **8. Paragraphs 21(1)(*a*) and (*b*) of the Act are replaced by the following:** (*a*) direct that any cash contribution under subsection 15(1) to that province for a fiscal year be reduced, in respect of each non-compliance, by an amount that the Governor in Council considers to be appropriate, having regard to the gravity of the non-compliance; or (*b*) if the Governor in Council considers it appropriate, direct that the whole of any cash contribution under subsection 15(1) to that province for a fiscal year be withheld. 1995, c. 17, s. 50 **9. Sections 22 and 23 of the French version of the Act are replaced by the following:** Nouvelle application des réductions ou retenues **22.** En cas de manquement continu aux conditions visées à l'article 19, les réductions ou retenues sur la quote-part d'une province déjà appliquées pour un exercice en vertu de l'article 21 lui sont appliquées de nouveau pour chaque exercice ultérieur où le ministre estime, après consultation de son homologue chargé de l'assistance sociale dans la province, que le manquement se continue. Application aux exercices ultérieurs **23.** Toute réduction ou retenue visée aux articles 21 ou 22 peut être appliquée pour l'exercice où le manquement à son origine a eu lieu ou pour l'exercice suivant. 1995, c. 17, s. 53 **10. Section 25 of the Act and the heading before it are repealed.** R.S., c. C-6 *Canada Health Act* 1995, c. 17, s. 34(2) **11. The definition ``cash contribution'' in section 2 of the *Canada Health Act* is replaced by the following:** ``cash contribution'' « *contri- bution pécuniaire* » ``cash contribution'' means the cash contribution in respect of the Canada Health and Social Transfer that may be provided to a province under subsections 15(1) and (4) of the *Federal-Provincial Fiscal Arrangements Act*;
 
 | 1993, c. 28 | Nunavut Act |  |
 | --- | --- | --- |
@@ -314,7 +66,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -323,7 +75,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -335,7 +87,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -364,9 +116,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -374,22 +127,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -403,7 +154,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -412,7 +163,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -424,7 +175,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -453,9 +204,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -463,22 +215,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -492,7 +242,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -501,7 +251,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -513,7 +263,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -542,9 +292,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -552,22 +303,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -581,7 +330,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -590,7 +339,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -602,7 +351,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -631,9 +380,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -641,22 +391,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -670,7 +418,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -679,7 +427,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -691,7 +439,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -720,9 +468,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -730,22 +479,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -759,7 +506,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -768,7 +515,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -780,7 +527,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -809,9 +556,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -819,22 +567,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -848,7 +594,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -857,7 +603,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -869,7 +615,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -898,9 +644,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -908,22 +655,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -937,7 +682,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -946,7 +691,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -958,7 +703,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -987,9 +732,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -997,22 +743,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1026,7 +770,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1035,7 +779,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1047,7 +791,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1076,9 +820,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1086,22 +831,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1115,7 +858,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1124,7 +867,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1136,7 +879,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1165,9 +908,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1175,22 +919,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1204,7 +946,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1213,7 +955,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1225,7 +967,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1254,9 +996,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1264,22 +1007,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1293,7 +1034,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1302,7 +1043,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1314,7 +1055,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1343,9 +1084,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1353,22 +1095,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1382,7 +1122,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1391,7 +1131,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1403,7 +1143,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1432,9 +1172,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1442,22 +1183,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1471,7 +1210,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1480,7 +1219,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1492,7 +1231,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1521,9 +1260,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1531,22 +1271,20 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
@@ -1560,7 +1298,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PUBLIC SECTOR PENSIONS |  |
 | R.S., c. C-17 | Canadian Forces Superannuation Act |  |
 | 1992, c. 46, s. 40(1) | 14. (1) Subparagraphs 15(1)(a)(ii) and (iii) of the Canadian Forces Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 15(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the regular force and for each of the four preceding years; |  |
@@ -1569,7 +1307,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (7) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 14(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. P-36 | Public Service Superannuation Act |  |
 | 1992, c. 46, s. 8(1) | 15. (1) Subparagraphs 11(1)(a)(ii) and (iii) of the Public Service Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual salary received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual salary received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual salary received by the contributor during the period of pensionable service to the contributor's credit; and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 11(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which the contributor |  |
@@ -1581,7 +1319,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 | Application | (10) The definition ``Average Maximum Pensionable Earnings'' in subsection (3), as enacted by subsection 15(2) of the Budget Implementation Act, 1999, applies only with respect to deductions from annuities made under subsection (2) that take effect on or after the day on which this subsection comes into force. |  |
 | R.S., c. R-11 | Royal Canadian Mounted Police Superannuation Act |  |
 | 1992, c. 46, s. 68(1) | 16. (1) Subparagraphs 10(1)(a)(ii) and (iii) of the Royal Canadian Mounted Police Superannuation Act are replaced by the following: |  |
-|  | (ii) the average annual pay received by the contributor during any five -year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
+|  | (ii) the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years, or |  |
 |  | (iii) in the case of a contributor who has to the contributor's credit less than five years of pensionable service, the average annual pay received by the contributor during the period of pensionable service to the contributor's credit, and |  |
 |  | (2) The definition ``Average Maximum Pensionable Earnings'' in subsection 10(3) of the Act is replaced by the following: |  |
 | ``Average Maximum Pensionable Earnings'' « moyenne des maximums des gains ouvrant droit à pensiont » | ``Average Maximum Pensionable Earnings'' means, with respect to any contributor, the average of the Year's Maximum Pensionable Earnings for the year in which he or she ceased to be a member of the Force and for each of the four preceding years; |  |
@@ -1610,9 +1348,10 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | 21. Section 43 of the English version of the Act is replaced by the following: |  |
 | Parliamen- tary authority required | 43. No money shall be borrowed or securities issued by or on behalf of Her Majesty without the authority of Parliament. |  |
 | 1991, c. 24, s. 18 | 22. Sections 44 to 46 of the Act are replaced by the following: |  |
-| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Minister may, subject to the Act authorizing the raising of the money, borrow the money by any means and on any terms and conditions that the Minister considers appropriate. |  |
-| Powers in relation to borrowings | (2) In order to borrow money, the Minister may enter into any contract or agreement, issue securities and do any other thing that the Minister considers appropriate. |  |
-| Registrars and fiscal agents | (3) The Minister may appoint registrars and fiscal agents to perform any services in respect of any borrowing of money that the Minister considers appropriate. |  |
+| Raising of money | 44. (1) When by this Act or any other Act of Parliament authority is given to raise money by Her Majesty, the Governor in Council may, subject to the Act authorizing the raising of the money, authorize the Minister to borrow the money by any means that the Minister considers appropriate. |  |
+| Maximum | (2) The aggregate principle amount of money borrowed by the Minister under this section in any fiscal year may not exceed the amount that is specified by order of the Governor in Council for that fiscal year. |  |
+| Powers of Minister | (3) Subject to any terms and conditions that the Governor in Council may specify , the Minister may enter into any contract or agreement, issue securities and do any other thing relating to the borrowing of money that the Minister considers appropriate. |  |
+| Transitional | (4) Subsection (3) applies with respect to anything done in relation to borrowings under this section, as it read immediately before the coming into force of this subsection, as though the borrowing were done under subsection (1). |  |
 | Auctions | 45. (1) If the Minister borrows money by way of an auction, the Minister may establish rules governing the conduct of the auction, including rules relating to |  |
 |  | (a) the eligibility of persons to participate in the auction; |  |
 |  | (b) the provision to the Minister by participants of any information that the Minister considers relevant, including information respecting holdings of securities and transactions in securities; |  |
@@ -1620,41 +1359,33 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (d) the maximum amount that may be bid for by a participant; and |  |
 |  | (e) the certification and verification of bids. |  |
 | Rules not statutory instruments | (2) Rules governing the conduct of an auction are not statutory instruments as defined in the Statutory Instruments Act. |  |
+| Contracts and agreements | 45.1 The Governor in Council may authorize the Minister, subject to any terms and conditions that the Governor in Council may specify, to enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forwards, on such terms and conditions as the Minister considers necessary. |  |
 | Powers - management of assets and liabilities | 46. The Minister may, on any terms and conditions the Minister considers appropriate, do any of the following if the Minister considers it appropriate for the sound and efficient management of the assets and liabilities of Canada, including contingent liabilities: |  |
-|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; |  |
-|  | (b) enter into any contract or agreement of a financial nature, including options, derivatives, swaps and forward agreements; and |  |
-|  | (c) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
-| Re-financing | 46.1 In any fiscal year, the Minister may borrow money |  |
+|  | (a) purchase or acquire securities of Canada or any other securities, including purchasing or acquiring them on their issuance, and hold, lend or sell securities of Canada or any other securities; and |  |
+|  | (b) create a charge on, or right or interest in, securities of Canada or any other securities held by the Minister. |  |
+| Re-financing | 46.1 In any fiscal year, the Governor in Council may authorize the Minister to borrow money |  |
 |  | (a) to pay any amount that is required to be paid in that fiscal year in respect of any money borrowed under the authority of this Act, other than section 47, or any other Act of Parliament; or |  |
 |  | (b) to extinguish or reduce any liability of Canada that the Minister is of the opinion should be extinguished or reduced. |  |
-| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Sections 49 to 55 of the Act are replaced by the following: |  |
+| 1991, c. 24, s. 50 (Sch. II, item 13(F)); 1995, c. 17, s. 59 | 23. Section 49 of the Act is replaced by the following: |  |
 | Report on debt management | 49. (1) After the Public Accounts are tabled in the House of Commons, the Minister shall cause to be tabled in each House, within the first 45 days on which that House is sitting after the Public Accounts are tabled in the House of Commons, a report on the activities of the Minister in relation to the management of the public debt in the fiscal year to which the Public Accounts relate. |  |
 | Report next fiscal year | (2) In every fiscal year, the Minister shall cause to be tabled in each House of Parliament a report on the Minister's plans in relation to the management of the public debt in the next fiscal year. |  |
-| Authority to pay out of the C.R.F. | 50. The following are charges on and payable out of the Consolidated Revenue Fund: |  |
-|  | (a) money required to repay money borrowed by or on behalf of Her Majesty and to pay the interest on the borrowed money; |  |
-|  | (b) money required to pay the principal of and interest on, and all other amounts, if any, required to be paid under, securities issued by or on behalf of Her Majesty; |  |
-|  | (c) money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this section; |  |
-|  | (d) all costs, expenses and charges incurred by the Minister in relation to contracts and agreements entered into, and securities issued, under this Part, either before or after the coming into force of this section; and |  |
-|  | (e) the remuneration of registrars and fiscal agents appointed under subsection 44(3) and all costs, expenses and charges incurred in relation to their appointment and the exercise of their functions. |  |
+|  | 23.1 Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following: |  |
+| Delegation to Minister | (2) The Governor in Council may authorize the Minister to do anything referred to in paragraphs (1)(a) to (c) for any period that the Governor in Council considers appropriate. |  |
+|  | 23.2 Section 55 of the Act is amended by striking out the word ``and'' at the end of paragraph (b), by adding the word "and" at the end of paragraph (c) and by adding the following after paragraph (c): |  |
+|  | (d) all money required to be paid under contracts and agreements entered into under this Part, either before or after the coming into force of this paragraph. |  |
 |  | 24. The Act is amended by adding the following after section 60: |  |
 | Delegation | 60.1 The Minister may delegate to any officer of the Department of Finance any of the powers, duties and functions of the Minister under this Part, except the power to delegate under this section. |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -1666,7 +1397,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -1681,14 +1412,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -1697,39 +1428,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -1741,7 +1473,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -1756,14 +1488,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -1772,39 +1504,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -1816,7 +1549,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -1831,14 +1564,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -1847,39 +1580,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -1891,7 +1625,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -1906,14 +1640,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -1922,39 +1656,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -1966,7 +1701,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -1981,14 +1716,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -1997,39 +1732,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -2041,7 +1777,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -2056,14 +1792,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -2072,39 +1808,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -2116,7 +1853,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -2131,14 +1868,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -2147,39 +1884,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -2191,7 +1929,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -2206,14 +1944,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -2222,39 +1960,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -2266,7 +2005,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -2281,14 +2020,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -2297,39 +2036,40 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
 
-|  | Borrowing Authority Act, 1996-97 |  |
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
 | --- | --- | --- |
-| Repeal | 25. The Borrowing Authority Act, 1996-97, chapter 3 of the Statutes of Canada, 1996, is repealed. |  |
-|  | Borrowing Authority |  |
-| Borrowing authority | 26. The Minister of Finance may raise money under the Financial Administration Act by way of loan or by the issue and sale of securities of Canada on and after the day this section comes into force in any amount or amounts, not exceeding $4 billion, that is required for public works and general purposes. |  |
-|  | Transitional Provisions |  |
-| Transition- al power of Minister | 27. The Minister of Finance may, with respect to any security issued or any contract or agreement entered into under section 44 of the Financial Administration Act, as that section read immediately before the coming into force of section 22, do anything that the Governor in Council could have done under section 44 of that Act. |  |
-| Transition- al section 50 | 28. Section 50 of the Financial Administration Act, as enacted by section 23, applies in respect of all moneys borrowed by or on behalf of Her Majesty, including moneys borrowed before the coming into force of section 23. |  |
 |  | PART 5 |  |
 |  | CERTAIN FIRST NATIONS' SALES TAXES |  |
 |  | DIVISION 1 |  |
 |  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
-| Definitions | 29. The definitions in this section apply in this Division. |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
 | ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
 | ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
@@ -2341,7 +2081,7 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
 |  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
 |  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
-| Tax | 30. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
 | Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
 | Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
 | Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
@@ -2356,14 +2096,14 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (e) is not subject to the Statutory Instruments Act. |  |
 | Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
 | Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
-| Agreement with Government of Canada | 31. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
 | Rules if agreement | (2) If an administration agreement has been entered into, |  |
 |  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
 |  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
 |  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
 |  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
-| No tax payable | 32. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
-| Confiden- tiality | 33. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
 |  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
 |  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
 |  | (c) for the purposes of any legal proceedings; |  |
@@ -2372,44 +2112,120 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
 |  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
 | Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
-| Offence and penalty | 34. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
 |  | DIVISION 2 |  |
 | 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
-| 1998, c. 21, s. 68 | 35. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
 |  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
-|  | 36. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
-| ``fuel'' « carbur- ant » | ``fuel'' means |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
 |  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
 |  | (b) gasoline type fuels for use in internal combustion engines; and |  |
 |  | (c) propane gas. |  |
-| 1998, c. 21. s. 70(1) | 37. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
 | Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
 | 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
 | Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
-| 1998, c. 21, s. 71(1) | 38. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
 |  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
-
 |  | DIVISION 3 |  |
-| --- | --- | --- |
 | 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
 | Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
 | Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
 |  | PART 6 |  |
 |  | CANADA CHILD TAX BENEFIT |  |
+
+| Coming into force | 24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. |  |
+| --- | --- | --- |
+|  | PART 5 |  |
+|  | CERTAIN FIRST NATIONS' SALES TAXES |  |
+|  | DIVISION 1 |  |
+|  | SLIAMMON FIRST NATION TAX ON TOBACCO AND FUELS |  |
+| Definitions | 25. The definitions in this section apply in this Division. |  |
+| ``council'' « conseil » | ``council'', in relation to the Sliammon First Nation, has the same meaning as the expression ``council of the band'' in subsection 2(1) of the Indian Act. |  |
+| ``direct'' « directe » | ``direct'' has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
+|  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
+|  | (b) gasoline type fuels for use in internal combustion engines; and |  |
+|  | (c) propane gas. |  |
+| ``Minister'' « ministre » | ``Minister'' means the Minister of Finance. |  |
+| ``reserve'' « réserve » | ``reserve'' means the reserves, within the meaning of subsection 2(1) of the Indian Act, set apart by Her Majesty for the use and benefit of the Sliammon First Nation. |  |
+| ``sale'' « vente » | ``sale'' has the meaning assigned by subsection 123(1) of the Excise Tax Act. |  |
+| ``Sliammon First Nation'' « première nation de Sliammon » | ``Sliammon First Nation'' means the Sliammon Band of Indians referred to in Order in Council P.C. 1973-3571. |  |
+| ``tobacco product'' « produit du tabac » | ``tobacco product'' means |  |
+|  | (a) every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the Excise Act, by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff; |  |
+|  | (b) the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and |  |
+|  | (c) cigars, within the meaning assigned by section 6 of the Excise Act. |  |
+| Tax | 26. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of tobacco products or fuel on a reserve to be collected under an administration agreement entered into under subsection 31(1). |  |
+| Application of section 87 of the Indian Act | (2) For greater certainty, except with respect to a tax imposed by a by-law made under subsection (1), nothing in that subsection affects the application of section 87 of the Indian Act. |  |
+| Indian moneys | (3) Moneys raised pursuant to a tax referred to in subsection (1) are not Indian moneys within the meaning of subsection 2(1) of the Indian Act. |  |
+| Sale on reserve | (4) For the purposes of this Division, a tobacco product or fuel is sold on a reserve if |  |
+|  | (a) tax under section 165 of the Excise Tax Act is not payable in respect of the sale because of the connection of the sale with the reserve and the application of section 87 of the Indian Act; or |  |
+|  | (b) tax under section 165 of the Excise Tax Act would not have been payable in respect of the sale because of the reasons set out in paragraph (a) if the purchaser had been a person eligible to benefit from an exemption from taxation under section 87 of the Indian Act and section 32 had not applied to the sale. |  |
+| Expenditures | (5) Expenditures made out of moneys raised under a tax referred to in subsection (1) must be made under the authority of a resolution approved by a majority of the councillors of the Sliammon First Nation present at a meeting of the council duly convened. |  |
+| By-law | (6) A by-law made under subsection (1) |  |
+|  | (a) is valid only if approved by a majority of the councillors of the Sliammon First Nation present at a meeting of the council duly convened; |  |
+|  | (b) may not come into force before it is approved by the Minister and an administration agreement has been entered into under subsection 31(1); |  |
+|  | (c) must provide that the rate of tax on the sale of the tobacco products and fuels that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | (d) may be made with respect to any matter arising out of or ancillary to the exercise of powers under this section; and |  |
+|  | (e) is not subject to the Statutory Instruments Act. |  |
+| Proof of by-law | (7) A copy of a by-law made by the council under this Division, if it is certified to be a true copy by the Minister or a person authorized by the Minister, is evidence that the by-law was duly made by the council and approved by the Minister, without proof of the signature or the authorization of the person, and no such by-law is invalid by reason of any defect in form. |  |
+| Publication of by-law | (8) The council must, on demand, provide a copy of any by-law made under this Division and must publish a copy of every such by-law in the First Nations Gazette and in a newspaper having general circulation in the place where the tax applies. However, if the council fails to so publish it, the by-law is, notwithstanding the failure, valid. |  |
+| Agreement with Government of Canada | 27. (1) If the council has made a by-law imposing a tax under this Division, the council may enter into an administration agreement, within the meaning of subsection 2(1) of the Federal-Provincial Fiscal Arrangements Act, with respect to the by-law. |  |
+| Rules if agreement | (2) If an administration agreement has been entered into, |  |
+|  | (a) Part IX of the Excise Tax Act (except paragraph 240(1)(a) of that Act) applies for the purposes of a by-law made under subsection 30(1) as if the tax were imposed under subsection 165(1) of that Act; |  |
+|  | (b) anything done to satisfy a requirement of the by-law that would satisfy a corresponding requirement of Part IX of the Excise Tax Act if the tax imposed under the by-law were imposed under subsection 165(1) of that Act, satisfies the requirement of the by-law; |  |
+|  | (c) for greater certainty, every person who is a registrant for the purposes of Part IX of the Excise Tax Act is a registrant for the purposes of the by-law; and |  |
+|  | (d) any proceeding that could be taken under any other Act of Parliament in respect of the tax imposed under subsection 165(1) of the Excise Tax Act may be taken in respect of the tax imposed under the by-law. |  |
+| No tax payable | 28. No tax is payable under subsection 165(1) of the Excise Tax Act with respect to a supply in respect of which a tax referred to in subsection 30(1) is payable. |  |
+| Confiden- tiality | 29. (1) No person shall provide access to information obtained in the administration of this Division or any by-law made under this Division that may directly or indirectly identify a person except |  |
+|  | (a) for the purpose of administering or enforcing this Division, Part IX of the Excise Tax Act or a by-law made under this Division; |  |
+|  | (b) for any purpose for which taxpayer information may be provided under Part IX of the Excise Tax Act; |  |
+|  | (c) for the purposes of any legal proceedings; |  |
+|  | (d) to the person to whom the information relates; |  |
+|  | (e) to the council or any officer of the tax administration of the Sliammon First Nation who is authorized by the council, for the purposes of formulating or implementing fiscal policy of the Sliammon First Nation; |  |
+|  | (f) to an official of the Department of Finance for the purposes of formulating or implementing fiscal policy; and |  |
+|  | (g) to any person legally entitled to it under any Act of Parliament or of the legislature of a province, solely for the purposes for which that person is entitled to it. |  |
+| Offence in relation to information | (2) Every person to whom information has been provided for a particular purpose under subsection (1) and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+| Offence and penalty | 30. Every person who contravenes this Division, except subsection 33(1), or a by-law made under this Division is guilty of an offence and liable on summary conviction to a fine of not more than $25,000 or to imprisonment for a term of not more than 12 months, or to both. |  |
+|  | DIVISION 2 |  |
+| 1997, c. 26 | BUDGET IMPLEMENTATION ACT, 1997 |  |
+| 1998, c. 21, s. 68 | 31. The heading ``WESTBANK FIRST NATION TAX ON ALCOHOL AND TOBACCO'' before section 51 of the Budget Implementation Act, 1997 is replaced by the following: |  |
+|  | WESTBANK FIRST NATION TAX ON ALCOHOL, TOBACCO AND FUELS |  |
+|  | 32. Section 51 of the Act is amended by adding the following in alphabetical order: |  |
+| ``fuel'' « carburant » | ``fuel'' means |  |
+|  | (a) diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than such fuel oil that is intended for use and is actually used as heating oil; |  |
+|  | (b) gasoline type fuels for use in internal combustion engines; and |  |
+|  | (c) propane gas. |  |
+| 1998, c. 21. s. 70(1) | 33. (1) Subsection 52(1) of the Act is replaced by the following: |  |
+| Tax | 52. (1) Notwithstanding section 87 of the Indian Act, the council may make a by-law imposing a direct tax in respect of the sale of alcoholic beverages, fuel or tobacco products on a reserve to be collected pursuant to an agreement entered into under subsection 54(1). |  |
+| 1998, c. 21, s. 70(2) | (2) The portion of subsection 52(4) of the Act before paragraph (a) is replaced by the following: |  |
+| Sale on reserve | (4) For the purposes of this Part, an alcoholic beverage, fuel or a tobacco product is sold on a reserve if |  |
+| 1998, c. 21, s. 71(1) | 34. Paragraph 53(1)(c) of the Act is replaced by the following: |  |
+|  | (c) shall provide that the rate of tax on the sale of the alcoholic beverages, fuel and tobacco products that are subject to the tax is the rate at which tax is imposed under subsection 165(1) of the Excise Tax Act; |  |
+|  | DIVISION 3 |  |
+| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
+|  | 35. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
+| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
+| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
+|  | PART 6 |  |
+|  | CANADA CHILD TAX BENEFIT |  |
+
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2421,78 +2237,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2504,78 +2313,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2587,78 +2389,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2670,78 +2465,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2753,78 +2541,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2836,78 +2617,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -2919,78 +2693,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -3002,78 +2769,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -3085,78 +2845,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -3168,78 +2921,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -3251,78 +2997,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -3334,78 +3073,71 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
 
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
+| --- | --- | --- |
+|  | 36. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
+|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590; and |  |
 |  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
+|  | (a) only one qualified dependant, $955, and |  |
 |  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
+|  | (i) $955 for the first qualified depen dant, |  |
 |  | (ii) $755 for the second qualified dependant, and |  |
 |  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
 |  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
+|  | (a) only one qualified dependant, 11.0%, |  |
+|  | (b) two qualified dependants, 19.7%, and |  |
+|  | (c) three or more qualified dependants, 27.6%. |  |
 |  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
 | Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
 |  | (5) Subsection 122.61(6) of the Act is repealed. |  |
@@ -3417,385 +3149,53 @@ The House of Commons of Canada # BILL C-71 An Act to implement certain provision
 |  | PART 7 |  |
 |  | GOODS AND SERVICES TAX CREDIT |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
+|  | 37. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
 |  | (e) where the individual has no qualified relation for the year, |  |
 |  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
 |  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
+|  | (A) $105, and |  |
 |  | (B) 2% of the amount, if any, by which |  |
 |  | (I) the individual's income for the year |  |
 |  | exceeds |  |
-|  | (II) $6,456 , |  |
+|  | (II) $6,456, |  |
 |  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
 |  | PART 8 |  |
 |  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
 | R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
+|  | 38. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
 |  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
+| 1993, c. 27, s. 135 | 39. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
+|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k), or |  |
 | R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
+|  | 40. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
+|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n), or |  |
+|  | 41. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
 |  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
 |  | PART 9 |  |
 |  | AMENDMENTS TO OTHER ACTS |  |
 | 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
+|  | 42. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
 | Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
+|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
 |  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
 | Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
 | Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
+|  | 43. Section 6 of the Act is replaced by the following: |  |
+| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
+|  | 44. Section 8 of the Act is repealed. |  |
+|  | 45. Subsection 10(1.1) of the Act is replaced by the following: |  |
 | Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
+|  | 46. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
+| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made, the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1), pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
+|  | 47. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
 |  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
+|  | 48. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
 | 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
+|  | 49. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
 | Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
 |  | (a) direct payments; or |  |
 |  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
 | Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
 | R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
-
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
-|  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
-|  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
-|  | (ii) $755 for the second qualified dependant, and |  |
-|  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
-|  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
-|  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
-|  | (5) Subsection 122.61(6) of the Act is repealed. |  |
-|  | (6) Subsection (1) applies to the calculation of overpayments deemed to arise during months that are after June 2000. |  |
-|  | (7) Subsections (2) and (3) apply to the calculation of overpayments deemed to arise during months that are after June 1999 except that, in their application to overpayments deemed to arise during months that are after June 1999 and before July 2000, |  |
-|  | (a) the references to ``$955'', ``$755'' and ``$680'' in subparagraphs (b)(i) to (iii) of the description of F in subsection 122.61(1) of the Act, as enacted by subsection (2), shall be read as references to ``$785'', ``$585'' and ``$510'', respectively; and |  |
-|  | (b) the references to ``11.0%'', ``19.7%'' and ``27.6%'' in paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act, as enacted by subsection (3), shall be read as references to ``11.5%'', ``20.1%'' and ``27.5%'', respectively. |  |
-|  | (8) Subsections (4) and (5) apply in respect of months that are after June 1997. |  |
-|  | PART 7 |  |
-|  | GOODS AND SERVICES TAX CREDIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
-|  | (e) where the individual has no qualified relation for the year, |  |
-|  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
-|  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
-|  | (B) 2% of the amount, if any, by which |  |
-|  | (I) the individual's income for the year |  |
-|  | exceeds |  |
-|  | (II) $6,456 , |  |
-|  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
-|  | PART 8 |  |
-|  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
-| R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
-|  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
-|  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-|  | PART 9 |  |
-|  | AMENDMENTS TO OTHER ACTS |  |
-| 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
-| Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
-|  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
-| Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
-| Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
-| Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
-|  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
-| 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
-| Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
-|  | (a) direct payments; or |  |
-|  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
-| Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
-| R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
-
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
-|  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
-|  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
-|  | (ii) $755 for the second qualified dependant, and |  |
-|  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
-|  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
-|  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
-|  | (5) Subsection 122.61(6) of the Act is repealed. |  |
-|  | (6) Subsection (1) applies to the calculation of overpayments deemed to arise during months that are after June 2000. |  |
-|  | (7) Subsections (2) and (3) apply to the calculation of overpayments deemed to arise during months that are after June 1999 except that, in their application to overpayments deemed to arise during months that are after June 1999 and before July 2000, |  |
-|  | (a) the references to ``$955'', ``$755'' and ``$680'' in subparagraphs (b)(i) to (iii) of the description of F in subsection 122.61(1) of the Act, as enacted by subsection (2), shall be read as references to ``$785'', ``$585'' and ``$510'', respectively; and |  |
-|  | (b) the references to ``11.0%'', ``19.7%'' and ``27.6%'' in paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act, as enacted by subsection (3), shall be read as references to ``11.5%'', ``20.1%'' and ``27.5%'', respectively. |  |
-|  | (8) Subsections (4) and (5) apply in respect of months that are after June 1997. |  |
-|  | PART 7 |  |
-|  | GOODS AND SERVICES TAX CREDIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
-|  | (e) where the individual has no qualified relation for the year, |  |
-|  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
-|  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
-|  | (B) 2% of the amount, if any, by which |  |
-|  | (I) the individual's income for the year |  |
-|  | exceeds |  |
-|  | (II) $6,456 , |  |
-|  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
-|  | PART 8 |  |
-|  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
-| R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
-|  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
-|  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-|  | PART 9 |  |
-|  | AMENDMENTS TO OTHER ACTS |  |
-| 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
-| Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
-|  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
-| Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
-| Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
-| Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
-|  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
-| 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
-| Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
-|  | (a) direct payments; or |  |
-|  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
-| Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
-| R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
-
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
-|  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
-|  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
-|  | (ii) $755 for the second qualified dependant, and |  |
-|  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
-|  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
-|  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
-|  | (5) Subsection 122.61(6) of the Act is repealed. |  |
-|  | (6) Subsection (1) applies to the calculation of overpayments deemed to arise during months that are after June 2000. |  |
-|  | (7) Subsections (2) and (3) apply to the calculation of overpayments deemed to arise during months that are after June 1999 except that, in their application to overpayments deemed to arise during months that are after June 1999 and before July 2000, |  |
-|  | (a) the references to ``$955'', ``$755'' and ``$680'' in subparagraphs (b)(i) to (iii) of the description of F in subsection 122.61(1) of the Act, as enacted by subsection (2), shall be read as references to ``$785'', ``$585'' and ``$510'', respectively; and |  |
-|  | (b) the references to ``11.0%'', ``19.7%'' and ``27.6%'' in paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act, as enacted by subsection (3), shall be read as references to ``11.5%'', ``20.1%'' and ``27.5%'', respectively. |  |
-|  | (8) Subsections (4) and (5) apply in respect of months that are after June 1997. |  |
-|  | PART 7 |  |
-|  | GOODS AND SERVICES TAX CREDIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
-|  | (e) where the individual has no qualified relation for the year, |  |
-|  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
-|  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
-|  | (B) 2% of the amount, if any, by which |  |
-|  | (I) the individual's income for the year |  |
-|  | exceeds |  |
-|  | (II) $6,456 , |  |
-|  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
-|  | PART 8 |  |
-|  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
-| R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
-|  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
-|  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-|  | PART 9 |  |
-|  | AMENDMENTS TO OTHER ACTS |  |
-| 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
-| Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
-|  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
-| Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
-| Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
-| Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
-|  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
-| 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
-| Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
-|  | (a) direct payments; or |  |
-|  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
-| Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
-| R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
-
-|  | DIVISION 3 |  |
-| --- | --- | --- |
-| 1994, c. 35 | YUKON FIRST NATIONS SELF-GOVERNMENT ACT |  |
-|  | 39. The Yukon First Nations Self-Government Act is amended by adding the following after section 18: |  |
-| Refund of Goods and Services Tax | 18.1 (1) The Minister of National Revenue shall pay to a person, as defined in subsection 123(1) of the Excise Tax Act, a refund of the tax paid by the person under Part IX of that Act, to the extent and in the manner that the refund is provided for in a self-government agreement with a first nation. |  |
-| Application of Excise Tax Act | (2) The provisions of Part IX of the Excise Tax Act apply, with any modifications that the circumstances may require, in respect of any claim for a refund and any amount refunded under subsection (1) as though the refund were a rebate provided for under Division VI of that Part. |  |
-|  | PART 6 |  |
-|  | CANADA CHILD TAX BENEFIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 40. (1) The description of B in subsection 122.61(1) of the Income Tax Act is replaced by the following: |  |
-|  | B is 5% (or where the person is an eligible individual in respect of only one qualified dependant at the beginning of the month, 2 1/2%) of the amount, if any, by which the person's adjusted income for the year exceeds $29,590 ; and |  |
-|  | (2) Paragraphs (a) and (b) of the description of F in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, $955 , and |  |
-|  | (b) two or more qualified dependants, the total of |  |
-|  | (i) $955 for the first qualified dependant, |  |
-|  | (ii) $755 for the second qualified dependant, and |  |
-|  | (iii) $680 for each of the third and subsequent qualified dependants, |  |
-|  | (3) Paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act are replaced by the following: |  |
-|  | (a) only one qualified dependant, 11.0 %, |  |
-|  | (b) two qualified dependants, 19.7 %, and |  |
-|  | (c) three or more qualified dependants, 27.6 %. |  |
-|  | (4) The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Annual adjustment | (5) Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 1996, the amount to be used under that subsection for the month is equal to the total of |  |
-|  | (5) Subsection 122.61(6) of the Act is repealed. |  |
-|  | (6) Subsection (1) applies to the calculation of overpayments deemed to arise during months that are after June 2000. |  |
-|  | (7) Subsections (2) and (3) apply to the calculation of overpayments deemed to arise during months that are after June 1999 except that, in their application to overpayments deemed to arise during months that are after June 1999 and before July 2000, |  |
-|  | (a) the references to ``$955'', ``$755'' and ``$680'' in subparagraphs (b)(i) to (iii) of the description of F in subsection 122.61(1) of the Act, as enacted by subsection (2), shall be read as references to ``$785'', ``$585'' and ``$510'', respectively; and |  |
-|  | (b) the references to ``11.0%'', ``19.7%'' and ``27.6%'' in paragraphs (a) to (c) of the description of H in subsection 122.61(1) of the Act, as enacted by subsection (3), shall be read as references to ``11.5%'', ``20.1%'' and ``27.5%'', respectively. |  |
-|  | (8) Subsections (4) and (5) apply in respect of months that are after June 1997. |  |
-|  | PART 7 |  |
-|  | GOODS AND SERVICES TAX CREDIT |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 41. (1) Paragraph 122.5(3)(e) of the Income Tax Act is replaced by the following: |  |
-|  | (e) where the individual has no qualified relation for the year, |  |
-|  | (i) if the individual has one or more qualified dependants for the year, $105, and |  |
-|  | (ii) if the individual has no qualified dependant for the year, the lesser of |  |
-|  | (A) $105 , and |  |
-|  | (B) 2% of the amount, if any, by which |  |
-|  | (I) the individual's income for the year |  |
-|  | exceeds |  |
-|  | (II) $6,456 , |  |
-|  | (2) Subsection (1) applies to amounts deemed to be paid in specified months that are after June 1999. |  |
-|  | PART 8 |  |
-|  | DISCLOSURE OF CONFIDENTIAL INFORMATION |  |
-| R.S., c. E-15 | Excise Tax Act |  |
-|  | 42. Subsection 295(5) of the Excise Tax Act is amended by striking out the word ``or'' at the end of paragraph (i), by adding the word ``or'' at the end of paragraph (j) and by adding the following after paragraph (j): |  |
-|  | (k) provide confidential information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-| 1993, c. 27, s. 135 | 43. Paragraph 328(2)(a) of the Act is replaced by the following: |  |
-|  | (a) to whom confidential information has been provided for a particular purpose under paragraph 295(5)(b), (c), (g) or (k) , or |  |
-| R.S., c. 1 (5th Supp.) | Income Tax Act |  |
-|  | 44. Paragraph 239(2.21)(a) of the Income Tax Act is replaced by the following: |  |
-|  | (a) to whom taxpayer information has been provided for a particular purpose under paragraph 241(4)(b), (c), (e), (h), (k) or (n) , or |  |
-|  | 45. Subsection 241(4) of the Act is amended by striking out the word ``or'' at the end of paragraph (l), by adding the word ``or'' at the end of paragraph (m) and by adding the following after paragraph (m): |  |
-|  | (n) provide taxpayer information to any person, solely for the purposes of the administration or enforcement of a law of a province that provides for workers' compensation benefits. |  |
-|  | PART 9 |  |
-|  | AMENDMENTS TO OTHER ACTS |  |
-| 1997, c. 20 | Agricultural Marketing Programs Act |  |
-|  | 46. Subsection 5(1) of the Agricultural Marketing Programs Act is replaced by the following: |  |
-| Agreements to guarantee repayment of advances | 5. (1) Subject to the other provisions of this Act, the Minister may make an agreement with an administrator or with an administrator and a lender for the purposes of |  |
-|  | (a) guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender , the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and |  |
-|  | (b) setting out the obligations of the administrator in relation to the advances and their repayment. |  |
-| Lender guarantee | (1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance. |  |
-| Conditions concerning the guarantee | (1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement. |  |
-|  | 47. Section 6 of the Act is replaced by the following: |  |
-| Obligations of administra- tors | 6. A guarantee, other than a guarantee made to a lender , is not effective unless the administrator complies with this Act and the advance guarantee agreement. |  |
-|  | 48. Section 8 of the Act is repealed. |  |
-|  | 49. Subsection 10(1.1) of the Act is replaced by the following: |  |
-| Sharing security | (1.1) For the purpose of paragraph (1)(h), the producer's eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement. |  |
-|  | 50. The portion of subsection 23(1) of the Act before paragraph (a) is replaced by the following: |  |
-| Payments to be made by Minister | 23. (1) If a producer is in default under a repayment agreement and the Minister receives a request for payment from the administrator or lender to whom the guarantee is made , the Minister must, subject to any regulations made under paragraphs 40(1)(g) and (g.1) , pay to the lender or the administrator, as specified in the advance guarantee agreement, an amount equal to the Minister's percentage of |  |
-|  | 51. Subsection 40(1) of the Act is amended by adding the following after paragraph (g): |  |
-|  | (g.1) respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender; |  |
-|  | 52. Sections 46 to 51 apply to crop years beginning on or after April 1, 1998. |  |
-| 1991, c. 12 | European Bank for Reconstruction and Development Agreement Act |  |
-|  | 53. Subsection 6(2) of the European Bank for Reconstruction and Development Agreement Act is replaced by the following: |  |
-| Supplemen- tary payments | (2) The Minister may provide for further payments to the Bank, in respect of supplementary subscriptions of shares, by way of |  |
-|  | (a) direct payments; or |  |
-|  | (b) the issuance of non-interest-bearing, non-negotiable demand notes. |  |
-| Payment out of C.R.F. | (3) The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding US$85,988,945.20, or any greater amount that is specified in an appropriation Act. |  |
-| R.S., c. P-4 | Patent Act |  |
-| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 54. Section 103 of the Patent Act is replaced by the following: |  |
-| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund , amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83 , less any costs incurred in relation to the collection and distribution of those amounts. |  |
+| 1993, c. 2, s. 7; 1994, c. 26, s. 55(F) | 50. Section 103 of the Patent Act is replaced by the following: |  |
+| Agreements with provinces | 103. The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a patentee or former patentee that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts. |  |
