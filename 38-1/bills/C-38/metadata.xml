@@ -1,0 +1,2298 @@
+<Bills>
+  <Bill>
+    <Id>1585203</Id>
+    <NumberCode>C-38</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>38</Number>
+    <LongTitleEn>An Act respecting certain aspects of legal capacity for marriage for civil purposes</LongTitleEn>
+    <LongTitleFr>Loi concernant certaines conditions de fond du mariage civil</LongTitleFr>
+    <LongTitle>An Act respecting certain aspects of legal capacity for marriage for civil purposes</LongTitle>
+    <ShortTitleEn>Civil Marriage Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le mariage civil</ShortTitleFr>
+    <ShortTitle>Civil Marriage Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2005-07-20T08:57:57</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>38</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1785</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Irwin</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Cotler</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Irwin Cotler</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>579</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Mount Royal</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Mont-Royal</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Mount Royal</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2005-07-20T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>85</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2005-02-01T10:10:54</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2005-05-04T18:10:30</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2005-06-28T20:35:34</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2005-06-29T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2005-07-06T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2005-07-19T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2005-07-20T08:57:57</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2005</StatuteYear>
+    <StatuteChapter>33</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-02-01T10:10:54</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>47</Number>
+          <Date>2005-02-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2005-02-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2005-02-01T10:10:54</EventStartDateTime>
+          <EventEndDateTime>2005-02-01T10:10:54</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-02-01T10:10:54</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-05-04T18:10:30</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+          <StudyActivityId>1156301</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>58</Number>
+          <Date>2005-02-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>60</Number>
+          <Date>2005-02-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>61</Number>
+          <Date>2005-02-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>71</Number>
+          <Date>2005-03-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>74</Number>
+          <Date>2005-03-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>75</Number>
+          <Date>2005-04-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>76</Number>
+          <Date>2005-04-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>77</Number>
+          <Date>2005-04-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>80</Number>
+          <Date>2005-04-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>85</Number>
+          <Date>2005-04-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>87</Number>
+          <Date>2005-04-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>89</Number>
+          <Date>2005-05-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>90</Number>
+          <Date>2005-05-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>91</Number>
+          <Date>2005-05-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1257950</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>1587414</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - LEG</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2nd reading and referral to committee - LEG</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - LEG</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>76</DivisionNumber>
+          <DivisionVotesYeas>164</DivisionVotesYeas>
+          <DivisionVotesNays>137</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2005-05-04T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>91</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2005-05-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2005-05-04T18:10:30</EventStartDateTime>
+          <EventEndDateTime>2005-05-04T18:10:30</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-05-04T18:10:30</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1132348</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>306</PersonId>
+          <PersonOfficialFirstName>Paul</PersonOfficialFirstName>
+          <PersonOfficialLastName>Martin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Paul Martin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>58</MeetingNumber>
+          <SpeechDateTime>2005-02-16T15:23:06</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1132348</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-58/hansard#Int-1132348</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1132348</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1132853</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1733</PersonId>
+          <PersonOfficialFirstName>Stephen</PersonOfficialFirstName>
+          <PersonOfficialLastName>Harper</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Stephen Harper</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>58</MeetingNumber>
+          <SpeechDateTime>2005-02-16T15:49:44</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1132853</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-58/hansard#Int-1132853</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1132853</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1133524</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>313</PersonId>
+          <PersonOfficialFirstName>Gilles</PersonOfficialFirstName>
+          <PersonOfficialLastName>Duceppe</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gilles Duceppe</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>58</MeetingNumber>
+          <SpeechDateTime>2005-02-16T16:44:23</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1133524</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-58/hansard#Int-1133524</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1133524</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1134024</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1592</PersonId>
+          <PersonOfficialFirstName>Bill</PersonOfficialFirstName>
+          <PersonOfficialLastName>Siksay</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bill Siksay</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>58</MeetingNumber>
+          <SpeechDateTime>2005-02-16T17:11:26</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1134024</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-58/hansard#Int-1134024</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-58/hansard#Int-1134024</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2005-06-16T12:22:57</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+          <StudyActivityId>1156301</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>117</Number>
+          <Date>2005-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>1</Number>
+          <Date>2005-05-05T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2005-05-11T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2005-05-12T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2005-05-16T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2005-05-18T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2005-05-31T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2005-06-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2005-06-02T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2005-06-02T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2005-06-06T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2005-06-06T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2005-06-07T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2005-06-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2005-06-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2005-06-09T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2005-06-09T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2005-06-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2005-06-14T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>9494</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-38</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-38</CommitteeNameFr>
+          <CommitteeAcronym>CC38</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2005-06-15T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-38</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2005-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>1943488</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2005-06-16T12:22:57</EventStartDateTime>
+          <EventEndDateTime>2005-06-16T12:22:57</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-06-16T12:22:57</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-06-27T11:59:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Concurrence at report stage with a further amendment</NameEn>
+          <NameFr>Adoption à l'étape du rapport avec un autre amendement</NameFr>
+          <Name>Concurrence at report stage with a further amendment</Name>
+          <Number>123</Number>
+          <Date>2005-06-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage with a further amendment</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport avec un autre amendement</EventNameFr>
+          <EventName>Concurrence at report stage with a further amendment</EventName>
+          <EventDateTime>2005-06-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2005-06-27T11:59:00</EventStartDateTime>
+          <EventEndDateTime>2005-06-27T11:59:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-06-27T23:29:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-06-28T20:35:34</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>124</Number>
+          <Date>2005-06-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1378039</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>1587416</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3rd reading</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>156</DivisionNumber>
+          <DivisionVotesYeas>158</DivisionVotesYeas>
+          <DivisionVotesNays>133</DivisionVotesNays>
+          <DivisionVotePaired>4</DivisionVotePaired>
+          <DecisionSittingDate>2005-06-28T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>124</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2005-06-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2005-06-28T20:35:34</EventStartDateTime>
+          <EventEndDateTime>2005-06-28T20:35:34</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-06-28T20:35:34</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-06-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>78</Number>
+          <Date>2005-06-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2005-06-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2005-06-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-06-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-06-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-07-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>80</Number>
+          <Date>2005-07-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>81</Number>
+          <Date>2005-07-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>82</Number>
+          <Date>2005-07-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2005-07-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2005-07-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2005-07-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-07-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-07-06T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>80</MeetingNumber>
+          <SpeechDateTime>2005-07-04T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/381/debates/080db_2005-07-04-e#12</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/381/debates/080db_2005-07-04-f#12</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/381/debates/080db_2005-07-04-e#12</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>80</MeetingNumber>
+          <SpeechDateTime>2005-07-04T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/381/debates/080db_2005-07-04-e#12</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/381/debates/080db_2005-07-04-f#12</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/381/debates/080db_2005-07-04-e#12</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2005-07-18T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>83</Number>
+          <Date>2005-07-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2005-07-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2005-07-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2005-07-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2005-07-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2005-07-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2005-07-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2005-07-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2005-07-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-07-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-07-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-07-19T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>84</Number>
+          <Date>2005-07-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2005-07-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2005-07-19T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-07-19T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-07-19T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>85</Number>
+          <Date>2005-07-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2005-07-20T08:57:57</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2005-07-20T08:57:57</EventStartDateTime>
+          <EventEndDateTime>2005-07-20T08:57:57</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-07-20T08:57:57</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>2333931</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2333930</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2333928</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>3293341</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>56</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>132</DivisionVotesYeas>
+      <DivisionVotesNays>164</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>298</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-04-12T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>75</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (previous question)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (question préalable)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (previous question)</DivisionSubject>
+      <DivisionVotesYeas>163</DivisionVotesYeas>
+      <DivisionVotesNays>138</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>301</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2005-05-04T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>76</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubject>
+      <DivisionVotesYeas>164</DivisionVotesYeas>
+      <DivisionVotesNays>137</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>301</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2005-05-04T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>147</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubject>
+      <DivisionVotesYeas>163</DivisionVotesYeas>
+      <DivisionVotesNays>106</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>148</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>109</DivisionVotesYeas>
+      <DivisionVotesNays>163</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>149</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>122</DivisionVotesYeas>
+      <DivisionVotesNays>157</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>150</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>103</DivisionVotesYeas>
+      <DivisionVotesNays>175</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>151</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>103</DivisionVotesYeas>
+      <DivisionVotesNays>174</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>281</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>152</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>103</DivisionVotesYeas>
+      <DivisionVotesNays>174</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>281</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>153</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>103</DivisionVotesYeas>
+      <DivisionVotesNays>174</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>281</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>154</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubject>
+      <DivisionVotesYeas>154</DivisionVotesYeas>
+      <DivisionVotesNays>124</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2005-06-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>155</DivisionNumber>
+      <DivisionSubjectEn>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (recommittal to a committee)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil (nouveau renvoi à un comité)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes (recommittal to a committee)</DivisionSubject>
+      <DivisionVotesYeas>127</DivisionVotesYeas>
+      <DivisionVotesNays>158</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>289</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2005-06-28T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>156</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-38, Loi concernant certaines conditions de fond du mariage civil</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-38, An Act respecting certain aspects of legal capacity for marriage for civil purposes</DivisionSubject>
+      <DivisionVotesYeas>158</DivisionVotesYeas>
+      <DivisionVotesNays>133</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>295</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2005-06-28T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Sexual Orientation and Legal Rights, Library of Parliament</TitleEn>
+      <TitleFr>Orientation sexuelle et garanties juridiques, Bibliothèque du Parlement</TitleFr>
+      <Title>Sexual Orientation and Legal Rights, Library of Parliament</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Same-sex marriage, Wikipedia</TitleEn>
+      <TitleFr>Mariage homosexuel, Wikipédia</TitleFr>
+      <Title>Same-sex marriage, Wikipedia</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Proportion of "Traditional" Families Continues to Decline (Census 2001), Statistics Canada</TitleEn>
+      <TitleFr>La proportion des familles « traditionnelles » est toujours à la baisse (Recensement 2001), Statistique Canada</TitleFr>
+      <Title>The Proportion of "Traditional" Families Continues to Decline (Census 2001), Statistics Canada</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Same-Sex Marriage : Quick Guide, Centre for Research and Information on Canada (CRIC)</TitleEn>
+      <TitleFr>Mariage gai : guide-éclair, Centre de recherche et d'information sur le Canada (CRIC)</TitleFr>
+      <Title>Same-Sex Marriage : Quick Guide, Centre for Research and Information on Canada (CRIC)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Mariage gai: Un pas vers la légalisation, Cyberpresse (In French Only)</TitleEn>
+      <TitleFr>Mariage gai: Un pas vers la légalisation, Cyberpresse</TitleFr>
+      <Title>Mariage gai: Un pas vers la légalisation, Cyberpresse (In French Only)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Supreme Court and Same-Sex Marriage, CBC News</TitleEn>
+      <TitleFr>The Supreme Court and Same-Sex Marriage, CBC News (en anglais seulement)</TitleFr>
+      <Title>The Supreme Court and Same-Sex Marriage, CBC News</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Reference re Same-Sex Marriage, Supreme Court of Canada (December 9, 2004)</TitleEn>
+      <TitleFr>Renvoi relatif au mariage entre personnes du même sexe, Cour suprême du Canada (9 décembre 2004)</TitleFr>
+      <Title>Reference re Same-Sex Marriage, Supreme Court of Canada (December 9, 2004)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>448</BibliographicNoticeId>
+      <Title>From equality rights to same-sex marriage - Parliament and the courts in the age of the Charter</Title>
+      <Author>Hiebert, Janet L.</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>24:10-16</VolumePage>
+      <PublicationDate>Oct.  2003</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>449</BibliographicNoticeId>
+      <Title>What the framers of the Charter intended</Title>
+      <Author>Fraser, Graham</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>24:17-20</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>450</BibliographicNoticeId>
+      <Title>Same-sex marriage and the notwithstanding clause</Title>
+      <Author>Manfredi, Christopher P.</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>24:21-4</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1149</BibliographicNoticeId>
+      <Title>Polyamory, social conservatism and the same-sex marriage debate in the US</Title>
+      <Author>Ashbee, Edward</Author>
+      <Publication>Politics</Publication>
+      <VolumePage>27:101-7</VolumePage>
+      <PublicationDate>June 2007</PublicationDate>
+      <Classification>JA8 P66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1171</BibliographicNoticeId>
+      <Title>Same-sex unions: the globalization of an idea</Title>
+      <Author>Kollman, Kelly</Author>
+      <Publication>International studies quarterly</Publication>
+      <VolumePage>51:329-57</VolumePage>
+      <PublicationDate>June 2007</PublicationDate>
+      <Classification>JX1 I586</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1420</BibliographicNoticeId>
+      <Title>Five years after same-sex marriage bill, political effects still rippling</Title>
+      <Author>Korski, Tom</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1050:11</VolumePage>
+      <PublicationDate>Aug. 9, 2010</PublicationDate>
+      <Classification>Radar A037336</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>810</BibliographicNoticeId>
+      <Title>In search of more perfect heteroarchy: Vermont, civil unions and the harm of 'Separate-but-Equal'</Title>
+      <Author>Thomas, Susan L</Author>
+      <Publication>Journal of homosexuality</Publication>
+      <VolumePage>50:27-51</VolumePage>
+      <PublicationDate>no. 1 2005</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>913</BibliographicNoticeId>
+      <Title>La nature des fictions juridiques au sein du nouveau mode de filiation unisexuée au Québec; un retour aux sources?</Title>
+      <Author>Savard, Anne-Marie</Author>
+      <Publication>Les cahiers de droit</Publication>
+      <VolumePage>47:377-405</VolumePage>
+      <PublicationDate>juin 2006</PublicationDate>
+      <Classification>K3 A55</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>941</BibliographicNoticeId>
+      <Title>Le mariage homosexuel à la lumière des dispositifs d'alliance et de sexualité</Title>
+      <Author>Charton, Laurence</Author>
+      <Publication>Bulletin d'histoire politique</Publication>
+      <VolumePage>115:55-62</VolumePage>
+      <PublicationDate>automne 2005</PublicationDate>
+      <Classification>FC2901 B83</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>967</BibliographicNoticeId>
+      <Title>Refusing to officiate at same-sex civil marriages</Title>
+      <Author>MacDougall, Bruce</Author>
+      <Publication>Saskatchewan law review</Publication>
+      <VolumePage>69:351-73</VolumePage>
+      <PublicationDate>no. 2 2006</PublicationDate>
+      <Classification>K23 A82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1134</BibliographicNoticeId>
+      <Title>Bringing international human rights law home: an evaluation of Canada's family law treatment of polygamy</Title>
+      <Author>Kelly, Lisa M</Author>
+      <Publication>University of Toronto Faculty of Law review</Publication>
+      <VolumePage>65:1-38</VolumePage>
+      <PublicationDate>Winter 2007</PublicationDate>
+      <Classification>K25 N54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1148</BibliographicNoticeId>
+      <Title>Marrying citizens!  Raced subjects?  Re-thinking the terrain of equal marriage discourse</Title>
+      <Author>Lenon, Suzanne J</Author>
+      <Publication>Canadian journal of women and the law</Publication>
+      <VolumePage>17:405-21</VolumePage>
+      <PublicationDate>no. 2 2005</PublicationDate>
+      <Classification>HQ1101 C348</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>476</BibliographicNoticeId>
+      <Title>Sexual orientation and the Charter: the achievement of formal legal equality (1985-2005) and its limits</Title>
+      <Author>Wintemute, Robert</Author>
+      <Publication>McGill law journal</Publication>
+      <VolumePage>49:1143-1180</VolumePage>
+      <PublicationDate>Oct. 2004</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>477</BibliographicNoticeId>
+      <Title>The German Federal Constitutional Court on same-sex life partnerships and same-sex marriage: comparing apples with oranges</Title>
+      <Author>Ullrich, Dierk</Author>
+      <Publication>Canadian journal of family law</Publication>
+      <VolumePage>20:179-96</VolumePage>
+      <PublicationDate>no. 1 2003</PublicationDate>
+      <Classification>KE532 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>493</BibliographicNoticeId>
+      <Title>Sexual orientation and gender identity in North America: legal trends, legal contrasts</Title>
+      <Author>Elliott, R. Douglas and Mary Bonauto</Author>
+      <Publication>Journal of homosexuality</Publication>
+      <VolumePage>48:91-106</VolumePage>
+      <PublicationDate>nos. 3/4 2005</PublicationDate>
+      <Classification>HQ75 J68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>495</BibliographicNoticeId>
+      <Title>The politics of same-sex marriage in Canada and the United States</Title>
+      <Author>Smith, Miriam</Author>
+      <Publication>PS</Publication>
+      <VolumePage>38:225-8</VolumePage>
+      <PublicationDate>Apr. 2005</PublicationDate>
+      <Classification>JA1 P645</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>496</BibliographicNoticeId>
+      <Title>Le conflit des modèles sexuels contemporains</Title>
+      <Author>Anatrella, Tony</Author>
+      <Publication>Revue d'éthique et  de  théologie morale</Publication>
+      <VolumePage>no 215:29-74</VolumePage>
+      <PublicationDate>déc. 2000</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>658</BibliographicNoticeId>
+      <Title>The political foundation of support for same-sex marriage in Canada</Title>
+      <Author>Matthews, J. Scott</Author>
+      <Publication>Canadian journal of political science</Publication>
+      <VolumePage>38:841-66</VolumePage>
+      <PublicationDate>Dec. 2005</PublicationDate>
+      <Classification>JA4 C35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>467</BibliographicNoticeId>
+      <Title>Incorporating common law into the Constitution of Canada: EGALE v. Canada and the status of marriage</Title>
+      <Author>Walters, Mark D</Author>
+      <Publication>Osgoode Hall law journal</Publication>
+      <VolumePage>41-75-113</VolumePage>
+      <PublicationDate>Spring 2003</PublicationDate>
+      <Classification>K15 S44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>468</BibliographicNoticeId>
+      <Title>Speak now or forever hold your peace?  Why we need queer critiques of gay marriage.</Title>
+      <Author>Thompson, Susan</Author>
+      <Publication>Canadian dimension</Publication>
+      <VolumePage>38:17-18, 46</VolumePage>
+      <PublicationDate>Nov./Dec. 2003</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>470</BibliographicNoticeId>
+      <Title>The essence of marriage : the very idea; reflection on H. Cyr</Title>
+      <Author>Gray, Christopher B</Author>
+      <Publication>Revue générale de droit</Publication>
+      <VolumePage>34:493-510</VolumePage>
+      <PublicationDate>no 3 2004</PublicationDate>
+      <Classification>K21 G42</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>473</BibliographicNoticeId>
+      <Title>Same-sex sexualities and the globalization of human rights discourse</Title>
+      <Author>Stychin, Carl F</Author>
+      <Publication>McGill law journal</Publication>
+      <VolumePage>49:951-68</VolumePage>
+      <PublicationDate>Oct. 2004</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>474</BibliographicNoticeId>
+      <Title>Coming out to Canada: the immigration of same-sex couples under the Immigration and Refugee Protection Act</Title>
+      <Author>LaViolette, Nicole</Author>
+      <Publication>McGill law journal</Publication>
+      <VolumePage>49:969-1003</VolumePage>
+      <PublicationDate>Oct. 2004</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>475</BibliographicNoticeId>
+      <Title>Same-sex relationships across borders</Title>
+      <Author>Bailey, Martha</Author>
+      <Publication>McGill law journal</Publication>
+      <VolumePage>49:1005-1033</VolumePage>
+      <PublicationDate>Oct. 2004</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>461</BibliographicNoticeId>
+      <Title>Moving toward same-sex marriage</Title>
+      <Author>Casswell, Donald G</Author>
+      <Publication>Canadian bar review</Publication>
+      <VolumePage>80:810-56</VolumePage>
+      <PublicationDate>Oct. 2001</PublicationDate>
+      <Classification>K3 A46</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>462</BibliographicNoticeId>
+      <Title>Judicial analysis frozen in time: EGALE Canada Inc. v. Canada (Attorney General)</Title>
+      <Author>Pickel, Jo-Anne</Author>
+      <Publication>Saskatchewan law review</Publication>
+      <VolumePage>65:243-68</VolumePage>
+      <PublicationDate>no. 1 2002</PublicationDate>
+      <Classification>K23 A82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>463</BibliographicNoticeId>
+      <Title>Defining marriage, step one: EGALE v. Canada</Title>
+      <Author>Lloyd, Julie C.</Author>
+      <Publication>Alberta law review</Publication>
+      <VolumePage>39:963-76</VolumePage>
+      <PublicationDate>Apr. 2002</PublicationDate>
+      <Classification>K1 L26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>464</BibliographicNoticeId>
+      <Title>Recognizing same-sex relationships: the evolution of recent federal and provincial policies</Title>
+      <Author>Smith, Miriam</Author>
+      <Publication>Canadian public administration</Publication>
+      <VolumePage>45:1-23</VolumePage>
+      <PublicationDate>Spring 2002</PublicationDate>
+      <Classification>JA4 C35P</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>465</BibliographicNoticeId>
+      <Title>Waiting in a new line at city hall: registered partnerships as an option for relationship recognition reform in Canada</Title>
+      <Author>LaViolette, Nicole</Author>
+      <Publication>Canadian journal of family law</Publication>
+      <VolumePage>19:115-72</VolumePage>
+      <PublicationDate>no. 1 2002</PublicationDate>
+      <Classification>KE532 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>466</BibliographicNoticeId>
+      <Title>Partenariat civil et couples de même sexe : la réponse du Québec</Title>
+      <Author>Roy, Alain</Author>
+      <Publication>Revue juridique Thémis</Publication>
+      <VolumePage>35:663-96</VolumePage>
+      <PublicationDate>no 3 2001</PublicationDate>
+      <Classification>K21 J86</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>451</BibliographicNoticeId>
+      <Title>Equality rights versus the right to marriage -  toward the path of canadian compromise</Title>
+      <Author>Julius Grey</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>24:30-3</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>452</BibliographicNoticeId>
+      <Title>A country evenly divided on gay marriage</Title>
+      <Author>Parkin, Andrew</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>24:39-41</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>453</BibliographicNoticeId>
+      <Title>Personal ideologies undermine the Charter</Title>
+      <Author>Leishman, Rory</Author>
+      <Publication>Catholic insight</Publication>
+      <VolumePage>12:10</VolumePage>
+      <PublicationDate>Nov. 2004</PublicationDate>
+      <Classification>BX801 C385</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>454</BibliographicNoticeId>
+      <Title>Vers une redéfinition du mariage?</Title>
+      <Author>Laurin, Nicole</Author>
+      <Publication>Relations</Publication>
+      <VolumePage>no 688:5-7</VolumePage>
+      <PublicationDate>nov. 2003</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>455</BibliographicNoticeId>
+      <Title>Sexe, mariage et indifférence : le coup de grâce à la paternité</Title>
+      <Author>Tahon, Maric-Blanche</Author>
+      <Publication>Argument : politique, société et histoire</Publication>
+      <VolumePage>6:3-9</VolumePage>
+      <PublicationDate>automne 2003-hiver 2004</PublicationDate>
+      <Classification>FC2901 A79</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>460</BibliographicNoticeId>
+      <Title>Pluralisme conjugal ou hiérarchie des sexualités : la reconnaissance juridique des couples homosexuels dans L'Union européenne</Title>
+      <Author>Borrillo, Daniel</Author>
+      <Publication>Revue de droit de McGill</Publication>
+      <VolumePage>46:875-922</VolumePage>
+      <PublicationDate>août 2001</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
