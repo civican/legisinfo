@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-282 Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002 |  | C-282 Deuxième session, trente-septième législature, 51 Elizabeth II, 2002 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-282 |  | PROJET DE LOI C-282 |
+| An Act to amend the Immigration and Refugee Protection Act |  | Loi modifiant la Loi sur l'immigration et la protection des réfugiés |
+| First reading, October 31, 2002 |  | Première lecture le 31 octobre 2002 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment allows an officer to require a foreign national who has applied for a visitor's visa to provide security as a condition of the issuance of the visa. It also provides for the immediate removal of the foreign national from Canada if any of the conditions of the visa or requirements of the Immigration and Refugee Protection Act are not complied with. | Le texte permet à l'agent d'exiger de l'étranger qui demande un visa de visiteur le dépôt d'une garantie à titre de condition préalable à la délivrance du visa. Il prévoit également le renvoi immédiat de l'étranger qui ne se conforme pas aux conditions du visa ou à la Loi sur l'immigration et la protection des réfugiés. |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 House of Commons of Canada Bill C-282 |  | 2e session, 37e législature, 51 Elizabeth II, 2002 Chambre des communes du Canada Projet de loi C-282 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Immigration and Refugee Protection Act |  | Loi modifiant la Loi sur l'immigration et la protection des réfugiés |  |  |
+| 2001, c. 27 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | 2001, ch. 27 |
+|  | 1. Section 11 of the Immigration and Refugee Protection Act is amended by adding the following after subsection (2): |  | 1. L'article 11 de la Loi sur l'immigration et la protection des réfugiés est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |
+| Security | (3) An officer may require a foreign national who has applied for a visa to enter Canada as a temporary resident to provide security as a condition of the issuance of the visa, which security shall be forfeited if the foreign national does not leave Canada by the end of the period authorized for their stay or fails to comply with any other condition of the visa or any requirement of this Act. |  | (3) L'agent peut exiger de l'étranger qui demande un visa de résident temporaire le dépôt d'une garantie à titre de condition préalable à la délivrance du visa; cette garantie est confisquée si l'étranger ne quitte pas le Canada à la fin de la période de séjour autorisée ou s'il contrevient à toute autre condition du visa ou à la présente loi. |  | Dépôt de garantie |
+| Regulations | (4) The regulations may provide for any matter relating to the providing or forfeiting of security under subsection (3). |  | (4) Les règlements peuvent régir le dépôt ou la confiscation de la garantie visée au paragraphe (3). |  | Règlements |
+| Removal of foreign national | (5) A foreign national referred to in subsection (3) who has not left Canada by the end of the period authorized for their stay or who has failed to comply with any other condition of the visa or any requirement of this Act shall immediately be removed from Canada to the country from which they applied for the visa without the right to appeal the decision to remove or to apply to remain in Canada on any other basis. |  | (5) L'étranger visé au paragraphe (3) qui ne quitte pas le Canada à la fin de la période de séjour autorisée ou qui contrevient à toute autre condition du visa ou à la présente loi est immédiatement renvoyé dans le pays où il a présenté sa demande de visa; il ne peut faire appel de cette décision ni demander de séjourner au Canada pour quelque autre raison que ce soit. |  | Renvoi de l'étranger |
