@@ -1,0 +1,492 @@
+<Bills>
+  <Bill>
+    <Id>10131</Id>
+    <NumberCode>C-16</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>16</Number>
+    <LongTitleEn>An Act respecting the registration of charities and security information and to amend the Income Tax Act</LongTitleEn>
+    <LongTitleFr>Loi concernant l'enregistrement des organismes de bienfaisance et les renseignements de sécurité et modifiant la Loi de l'impôt sur le revenu</LongTitleFr>
+    <LongTitle>An Act respecting the registration of charities and security information and to amend the Income Tax Act</LongTitle>
+    <ShortTitleEn>Charities Registration (Security Information) Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur l'enregistrement des organismes de bienfaisance (renseignements de sécurité)</ShortTitleFr>
+    <ShortTitle>Charities Registration (Security Information) Act</ShortTitle>
+    <StatusId>358</StatusId>
+    <StatusNameEn>Bill not proceeded with</StatusNameEn>
+    <StatusNameFr>Projet de loi abandonné</StatusNameFr>
+    <StatusName>Bill not proceeded with</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60055</OngoingStageId>
+    <OngoingStageNameEn>Additional information</OngoingStageNameEn>
+    <OngoingStageNameFr>Informations supplémentaires</OngoingStageNameFr>
+    <OngoingStageName>Additional information</OngoingStageName>
+    <LatestCompletedBillStageId>60047</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Referral to committee before second reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Renvoi à un comité avant la deuxième lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Referral to committee before second reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2001-05-01T11:00:31</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>37</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>33</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Lawrence</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>MacAulay</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Lawrence MacAulay</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Solicitor General of Canada</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>solliciteur général du Canada</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Solicitor General of Canada</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>24</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Solicitor General of Canada</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>solliciteur général du Canada</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Solicitor General of Canada</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>107</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Cardigan</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Cardigan</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Cardigan</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60174</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Bill not proceeded with</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Abandon du projet de loi</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60055</LatestBillEventStageId>
+    <LatestBillEventTypeName>Bill not proceeded with</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2001-10-15T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>94</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2001-03-15T16:44:39</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-03-15T16:44:39</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>29</Number>
+          <Date>2001-03-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2001-03-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2001-03-15T16:44:39</EventStartDateTime>
+          <EventEndDateTime>2001-03-15T16:44:39</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-03-15T16:44:39</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60047</BillStageId>
+        <BillStageNameEn>Referral to committee before second reading</BillStageNameEn>
+        <BillStageNameFr>Renvoi à un comité avant la deuxième lecture</BillStageNameFr>
+        <BillStageName>Referral to committee before second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2001-05-01T11:00:31</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>215</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate on the motion to refer the bill to committee before second reading</NameEn>
+          <NameFr>Débat sur la motion de renvoi du projet de loi en comité avant la deuxième lecture</NameFr>
+          <Name>Debate on the motion to refer the bill to committee before second reading</Name>
+          <Number>51</Number>
+          <Date>2001-04-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Referral to committee before second reading</NameEn>
+          <NameFr>Renvoi en comité avant la deuxième lecture</NameFr>
+          <Name>Referral to committee before second reading</Name>
+          <Number>52</Number>
+          <Date>2001-05-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60122</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee before second reading</EventNameEn>
+          <EventNameFr>Renvoi en comité avant la deuxième lecture</EventNameFr>
+          <EventName>Referral to committee before second reading</EventName>
+          <EventDateTime>2001-05-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60122</EventTypeId>
+          <EventTypeNameEn>Referral to committee before second reading</EventTypeNameEn>
+          <EventTypeNameFr>Renvoi en comité avant la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Referral to committee before second reading</EventTypeName>
+          <EventStartDateTime>2001-05-01T11:00:31</EventStartDateTime>
+          <EventEndDateTime>2001-05-01T11:00:31</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-05-01T11:00:31</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>215</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60048</BillStageId>
+        <BillStageNameEn>Report stage and second reading</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport et deuxième lecture</BillStageNameFr>
+        <BillStageName>Report stage and second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <HouseAdditionalInformation>
+        <BillStageId>60055</BillStageId>
+        <BillStageNameEn>Additional information</BillStageNameEn>
+        <BillStageNameFr>Informations supplémentaires</BillStageNameFr>
+        <BillStageName>Additional information</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Bill not proceeded with</NameEn>
+          <NameFr>Abandon du projet de loi</NameFr>
+          <Name>Bill not proceeded with</Name>
+          <Number>94</Number>
+          <Date>2001-10-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60174</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Bill not proceeded with</EventNameEn>
+          <EventNameFr>Abandon du projet de loi</EventNameFr>
+          <EventName>Bill not proceeded with</EventName>
+          <EventDateTime>2001-10-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-10-15T11:01:26</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseAdditionalInformation>
+    </BillStages>
+    <Publications>
+      <PublicationId>2330892</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
