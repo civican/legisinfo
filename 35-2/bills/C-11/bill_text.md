@@ -7,9 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-11 |  | PROJET DE LOI C-11 |
 | An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts |  | Loi constituant le ministère du Développement des ressources humaines et modifiant ou abrogeant certaines lois |
-| first reading, March 7, 1996 |  | première lecture le 7 mars 1996 |
-| NOTE Printed, pursuant to Order made March 4, 1996, in the same form as Bill C-96 of the First Session of the Thirty-fifth Parliament. |  | NOTE Imprimé, conformément à un ordre adopté le 4 mars 1996, dans le même état où était le projet de loi C-96 de la première session de la trente-cinquième législature. |
-| THE MINISTER OF HUMAN RESOURCES DEVELOPMENT 17958 |  | LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES |
+| AS PASSED BY THE HOUSE OF COMMONSAPRIL 23, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 23 AVRIL 1996 |
+| 17958 |  |  |
 
 INSIDECOVER
 
@@ -29,7 +28,7 @@ MAINTEXT
 
 Table of ContentsCoverSummaryBill C-11
 
-Bill C-11Click here for the entire document (15Kb)Table of ContentsCoverSummaryBill C-11
+Bill C-11Click here for the entire document (14Kb)Table of ContentsCoverSummaryBill C-11
 
 COVER
 
@@ -40,9 +39,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-11 |  | PROJET DE LOI C-11 |
 | An Act to establish the Department of Human Resources Development and to amend and repeal certain related Acts |  | Loi constituant le ministère du Développement des ressources humaines et modifiant ou abrogeant certaines lois |
-| first reading, March 7, 1996 |  | première lecture le 7 mars 1996 |
-| NOTEPrinted, pursuant to Order made March 4, 1996, in the same form as Bill C-96 of the First Session of the Thirty-fifth Parliament. |  | NOTEImprimé, conformément à un ordre adopté le 4 mars 1996, dans le même état où était le projet de loi C-96 de la première session de la trente-cinquième législature. |
-| THE MINISTER OF HUMAN RESOURCES DEVELOPMENT17958 |  | LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES |
+| AS PASSEDBY THE HOUSE OF COMMONSAPRIL 23, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 23 AVRIL 1996 |
+| 17958 |  |  |
 
 INSIDECOVER
 
