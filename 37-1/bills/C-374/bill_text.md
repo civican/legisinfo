@@ -1,0 +1,20 @@
+Bill C-374 PublicationID : 2331232 Table of ContentsSummaryBILL C-374SHORT TITLEMERCHANT NAVY VETERANS DAY
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment proclaims September 3 of each year as ``Merchant Navy Veterans Day''. |  |
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-374 An Act to establish Merchant Navy Veterans Day Preamble Whereas the veterans of the Merchant Navy have served honourably and courageously in the defence of Canada throughout the years; And Whereas the House of Commons wishes to set aside a day to acknowledge the contribution of the veterans of the Merchant Navy to ensuring the freedom and democracy enjoyed by Canadians; Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Merchant Navy Veterans Day Act*. #### MERCHANT NAVY VETERANS DAY Merchant Navy Veterans Day **2.** Throughout Canada, in each and every year, the third day of September shall be known as ``Merchant Navy Veterans Day''.
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-374 An Act to establish Merchant Navy Veterans Day Preamble Whereas the veterans of the Merchant Navy have served honourably and courageously in the defence of Canada throughout the years; And Whereas the House of Commons wishes to set aside a day to acknowledge the contribution of the veterans of the Merchant Navy to ensuring the freedom and democracy enjoyed by Canadians; Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Merchant Navy Veterans Day Act*. #### MERCHANT NAVY VETERANS DAY Merchant Navy Veterans Day **2.** Throughout Canada, in each and every year, the third day of September shall be known as ``Merchant Navy Veterans Day''.
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-374 An Act to establish Merchant Navy Veterans Day Preamble Whereas the veterans of the Merchant Navy have served honourably and courageously in the defence of Canada throughout the years; And Whereas the House of Commons wishes to set aside a day to acknowledge the contribution of the veterans of the Merchant Navy to ensuring the freedom and democracy enjoyed by Canadians; Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Merchant Navy Veterans Day Act*. #### MERCHANT NAVY VETERANS DAY Merchant Navy Veterans Day **2.** Throughout Canada, in each and every year, the third day of September shall be known as ``Merchant Navy Veterans Day''.
