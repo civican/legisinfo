@@ -1,0 +1,10 @@
+Bill C-361 PublicationID : 2331219 Table of ContentsSummaryBILL C-361
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Income Tax Act to permit a tax deduction of up to $10,000 for a taxpayer who has paid the funeral expenses of a person buried in Canada. Taxpayers eligible for the tax deduction include the taxpayer who has died, the legal representative of the taxpayer who has died and any other taxpayer who has paid the funeral expenses of the person who has died. |  |
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-361 An Act to amend the Income Tax Act (to provide for the deduction of funeral expenses) R.S., c. 1 (5th Supp.) Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The *Income Tax Act* is amended by adding the following after paragraph 110(1)(*d*.3):** Funeral expenses (*d*.4) an amount equal to the funeral expenses of a person who is buried in Canada, but not greater than $10,000, paid by the taxpayer, if (i) the deduction is made within any period of 24 months of the death of the person, including the day of death, (ii) payment of the expenses is proven by filing receipts with the Minister, and (iii) payment of the expenses was made to a funeral practitioner qualified to practise and licensed to operate a funeral establishment under the laws of the place where the expenses were incurred. For the purposes of this paragraph, ``taxpayer'' includes not only a taxpayer who has died or the legal representative of that taxpayer, but also any other taxpayer who has paid for the funeral expenses of the person who is buried in Canada;
