@@ -5,7 +5,7 @@ NAVIGATION END
 | house of Commons OF CANADA |  | chambre des communes DU CANADA |
 | BILL C-260 |  | PROJET DE LOI C-260 |
 | An Act to amend the Hazardous Products Act (fire-safe cigarettes) |  | Loi modifiant la Loi sur les produits dangereux (cigarettes à inflammabilité réduite) |
-| Reprinted as amended by the Standing Committee on Health as a working copy for the use of the House of Commons at Report Stage and as reported to the House on October 8, 2003 |  | Réimprimé tel que modifié par le Comité permanent de la Santé comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 8 octobre 2003 |
+| AS PASSED BY THE HOUSE OF COMMONS OCTOBER 31, 2003 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 31 OCTOBRE 2003 |
 
 | Summary | Sommaire |
 | --- | --- |
