@@ -1,0 +1,12 @@
+Bill C-412 PublicationID : 2330765 Table of ContentsSummaryBILL C-412
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to reduce the inclusion rate on United States social security payments received by Canadian taxpayers from 85% to 50%. |  |
+|  | The ``inclusion rate'' is the percentage of United States social security payments that is to be included as income by a Canadian taxpayer. The Canada-United States Tax Convention Act, 1984 provides for 15% of such payments to be non-taxable in the hands of Canadian residents, which would result in an 85% inclusion rate. |  |
+|  | This enactment provides that a further 35% of United States Social Security payments are not included in taxable income. This 35% is in addition to the 15% that is to be exempt from Canadian tax under the Convention and the enactment therefore increases the exemption to 50% and decreases the inclusion rate to 50%. |  |
+
+|  | 2nd Session, 36th Parliament, 48 Elizabeth II, 1999 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-412 An Act to amend the Income Tax Act (exemption from taxation of 50% of U.S. social security payments to Canadian residents) R.S., cc. 1, 2 (5th Supp.); 1994, cc. 7, 8, 13, 21, 28, 29, 38, 41; 1995, cc. 1, 3, 11, 18, 21, 38, 46; 1996, cc. 11, 21, 23; 1997, cc. 10, 12, 25, 26; 1998, cc. 19, 21, 34; 1999, cc. 10, 17, 22, 26, 31 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 81(1) of the *Income Tax Act* is amended by adding the following after paragraph (*f*):** (*f*.1) 35% of the aggregate of all amounts paid to the taxpayer in the taxation year by or on behalf of the government of the United States as a benefit under United States social security legislation, which percentage is in addition to and not inclusive of the 15% of such aggregate that is exempt from Canadian tax pursuant to paragraph 5(*a*) of Article XVIII of the *Convention between Canada and the United States of America with respect to taxes on income and on capital*, as amended by Schedule V of the *Canada-United States Tax Convention Act, 1984*.
