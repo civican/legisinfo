@@ -1,0 +1,22 @@
+NAVIGATION END
+
+| C-348 Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002-2003 |  | C-348 Deuxième session, trente-septième législature, 51 Elizabeth II, 2002-2003 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-348 |  | PROJET DE LOI C-348 |
+| An Act to establish Samuel de Champlain Day |  | Loi instituant la Journée Samuel de Champlain |
+| First reading, February 3, 2003 |  | Première lecture le 3 février 2003 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment designates the twenty-sixth day of June in each and every year, beginning in the year 2004, as "Samuel de Champlain Day". | Le texte désigne le 26 juin, à partir de l'an 2004, comme « Journée Samuel de Champlain ». |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002-2003 House of Commons of Canada Bill C-348 |  | 2e session, 37e législature, 51 Elizabeth II, 2002-2003 Chambre des communes du Canada Projet de loi C-348 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to establish Samuel de Champlain Day |  | Loi instituant la Journée Samuel de Champlain |  |  |
+| Preamble | Whereas Samuel de Champlain established the first French settlement on St. Croix Island in Acadia on the twenty-sixth day of June in the year 1604; Whereas, at that time, Acadia was all that was known of Canada; Whereas the twenty-sixth day of June in the year 2004 is the 400th anniversary of that event; Whereas Samuel de Champlain recognized the importance of this country Canada and was influential in the development of two further settlements –– one at Port Royal on the Bay of Fundy and one at Quebec –– which earned him the title of "father of New France"; Whereas Samuel de Champlain was an expert geographer and cartographer who, through his exploration and mapping of the East Coast of Canada, the St. Lawrence River and the interior of Quebec and Ontario, paved the way for the European settlement of Canada; Whereas Samuel de Champlain possessed a unique understanding of the various native peoples that allowed him to establish, in alliance with the native peoples, a fur-trading network throughout Quebec and Ontario; Whereas Samuel de Champlain, through extraordinary determination in the face of great hardship, was instrumental in the founding of Canada; And Whereas the people of Canada wish to honour and recognize the valuable contribution of Samuel de Champlain to Canada and its citizens; |  | Attendu : que Samuel de Champlain a fondé la première colonie française sur l'île Sainte-Croix, en Acadie, le 26 juin 1604; que l'Acadie était à l'époque la seule partie connue du Canada; que le 26 juin 2004 marque le quatre centième anniversaire de cet événement; que Samuel de Champlain, pour avoir reconnu l'importance du Canada et contribué à l'établissement de deux autres colonies, l'une à Port-Royal sur la rive de la baie de Fundy et l'autre à Québec, a acquis le titre de « père de la Nouvelle-France »; qu'en tant que géographe et cartographe émérite, il a poursuivi ses activités d'exploration et de cartographie de la côte est du Canada, du fleuve Saint-Laurent et de l'intérieur des provinces de Québec et d'Ontario et a ainsi ouvert la voie à l'établissement de colons européens au Canada; que sa compréhension remarquable des divers peuples indigènes lui a permis de s'allier avec eux pour établir un réseau de traite des fourrures dans l'ensemble du Québec et de l'Ontario; que, par sa détermination exceptionnelle malgré de dures épreuves, il a été l'un des grands fondateurs du Canada; que le peuple canadien souhaite reconnaître et honorer la précieuse contribution que Samuel de Champlain a apportée au Canada et à ses citoyens, |  | Préambule |
+|  | Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |
+|  | short title |  | titre abrégé |  |  |
+| Short title | 1. This Act may be cited as the Samuel de Champlain Day Act. |  | 1. Loi sur la Journée Samuel de Champlain. |  | Titre abrégé |
+|  | samuel de champlain day |  | journée samuel de champlain |  |  |
+| Samuel de Champlain Day | 2. Throughout Canada, in each and every year, beginning in the year 2004, the twenty-sixth day of June shall be known as "Samuel de Champlain Day". |  | 2. À partir de l'an 2004, le 26 juin est, dans tout le Canada, désigné comme « Journée Samuel de Champlain ». |  | Journée Samuel de Champlain |
