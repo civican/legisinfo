@@ -1,0 +1,10 @@
+Bill C-463 PublicationID : 2331322 Table of ContentsSummaryBILL C-463
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Employment Insurance Act to remove, from the list of excluded employment, employment in which the employer and employee are not dealing with each other at arm's length. |  |
+
+|  | 1st Session, 37th Parliament, 49-50-51 Elizabeth II, 2001-2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-463 An Act to amend the Employment Insurance Act (arm's length dealing) 1996, c. 23 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. (1) Paragraphs 5(2)(*g*) to (*i*) of the *Employment Insurance Act* are replaced by the following:** (*g*) employment that constitutes an exchange of work or services; and (*h*) employment excluded by regulations made under subsection (6). **(2) Subsection 5(3) of the Act is repealed.**
