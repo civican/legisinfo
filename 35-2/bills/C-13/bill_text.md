@@ -1,14 +1,10 @@
 COVER
 
-| C-13 |  | C-13 |
+| Second Session, Thirty-fifth Parliament, 45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature, 45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-13 |  | PROJET DE LOI C-13 |
+| STATUTES OF CANADA 1996CHAPTER 15 |  | LOIS DU CANADA (1996)CHAPITRE 15 |
 | An Act to provide for the establishment and operation of a program to enable certain persons to receive protection in relation to certain inquiries, investigations or prosecutions |  | Loi instaurant un programme de protection pour certaines personnes dans le cadre de certaines enquêtes ou poursuites |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 29, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 29 MARS 1996 |
-| 17954 |  |  |
+| ASSENTED TO 20th JUNE, 1996 BILL C-13 |  | SANCTIONNÉE LE 20 JUIN 1996 PROJET DE LOI C-13 |
 
 INSIDECOVER
 
@@ -18,29 +14,25 @@ INSIDECOVER
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-13 |  | PROJET DE LOI C-13 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 15 |  | CHAPITRE 15 |  |  |  |  |
 | An Act to provide for the establishment and operation of a program to enable certain persons to receive protection in relation to certain inquiries, investigations or prosecutions |  | Loi instaurant un programme de protection pour certaines personnes dans le cadre de certaines enquêtes ou poursuites |  |  |  |  |
+| [Assented to 20th June, 1996] |  | [Sanctionnée le 20 juin 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 Table of ContentsCoverSummaryBill C-13
 
-Bill C-13Click here for the entire document (15Kb)Table of ContentsCoverSummaryBill C-13
+Bill C-13Click here for the entire document (14Kb)Table of ContentsCoverSummaryBill C-13
 
 COVER
 
-| C-13 |  | C-13 |
+| Second Session, Thirty-fifth Parliament,45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature,45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-13 |  | PROJET DE LOI C-13 |
+| STATUTES OF CANADA 1996CHAPTER 15 |  | LOIS DU CANADA (1996)CHAPITRE 15 |
 | An Act to provide for the establishment and operation of a program to enable certain persons to receive protection in relation to certain inquiries, investigations or prosecutions |  | Loi instaurant un programme de protection pour certaines personnes dans le cadre de certaines enquêtes ou poursuites |
-| AS PASSEDBY THE HOUSE OF COMMONSMARCH 29, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 29 MARS 1996 |
-| 17954 |  |  |
+| ASSENTED TO20th JUNE, 1996BILL C-13 |  | SANCTIONNÉELE 20 JUIN 1996PROJET DE LOI C-13 |
 
 INSIDECOVER
 
@@ -54,10 +46,10 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-13 |  | PROJET DE LOI C-13 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 15 |  | CHAPITRE 15 |  |  |  |  |
 | An Act to provide for the establishment and operation of a program to enable certain persons to receive protection in relation to certain inquiries, investigations or prosecutions |  | Loi instaurant un programme de protection pour certaines personnes dans le cadre de certaines enquêtes ou poursuites |  |  |  |  |
+| [Assented to 20th June, 1996] |  | [Sanctionnée le 20 juin 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |

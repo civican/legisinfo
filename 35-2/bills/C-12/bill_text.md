@@ -1,14 +1,10 @@
 COVER
 
-| C-12 |  | C-12 |
+| Second Session, Thirty-fifth Parliament, 45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature, 45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-12 |  | PROJET DE LOI C-12 |
+| STATUTES OF CANADA 1996CHAPTER 23 |  | LOIS DU CANADA (1996)CHAPITRE 23 |
 | An Act respecting employment insurance in Canada |  | Loi concernant l'assurance-emploi au Canada |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 14, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 14 MAI 1996 |
-| 17963 |  |  |
+| ASSENTED TO 20th JUNE, 1996 BILL C-12 |  | SANCTIONNÉE LE 20 JUIN 1996 PROJET DE LOI C-12 |
 
 INSIDECOVER
 
@@ -18,29 +14,25 @@ INSIDECOVER
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-12 |  | PROJET DE LOI C-12 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 23 |  | CHAPITRE 23 |  |  |  |  |
 | An Act respecting employment insurance in Canada |  | Loi concernant l'assurance-emploi au Canada |  |  |  |  |
+| [Assented to 20th June, 1996] |  | [Sanctionnée le 20 juin 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 Table of ContentsCoverSummaryBill C-12
 
-Bill C-12Click here for the entire document (25Kb)Table of ContentsCoverSummaryBill C-12
+Bill C-12Click here for the entire document (24Kb)Table of ContentsCoverSummaryBill C-12
 
 COVER
 
-| C-12 |  | C-12 |
+| Second Session, Thirty-fifth Parliament,45 Elizabeth II, 1996 |  | Deuxième session, trente-cinqième législature,45 Elizabeth II, 1996 |
 | --- | --- | --- |
-| Second Session, Thirty-fifth Parliament, |  | Deuxième session, trente-cinqième législature, |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-12 |  | PROJET DE LOI C-12 |
+| STATUTES OF CANADA 1996CHAPTER 23 |  | LOIS DU CANADA (1996)CHAPITRE 23 |
 | An Act respecting employment insurance in Canada |  | Loi concernant l'assurance-emploi au Canada |
-| AS PASSEDBY THE HOUSE OF COMMONSMAY 14, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 14 MAI 1996 |
-| 17963 |  |  |
+| ASSENTED TO20th JUNE, 1996BILL C-12 |  | SANCTIONNÉELE 20 JUIN 1996PROJET DE LOI C-12 |
 
 INSIDECOVER
 
@@ -54,10 +46,10 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 35th Parliament, |  | 2e session, 35e législature, |  |  |  |  |
+| 45 ELIZABETH II |  | 45 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 Elizabeth II, 1996 |  | 45 Elizabeth II, 1996 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-12 |  | PROJET DE LOI C-12 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 23 |  | CHAPITRE 23 |  |  |  |  |
 | An Act respecting employment insurance in Canada |  | Loi concernant l'assurance-emploi au Canada |  |  |  |  |
+| [Assented to 20th June, 1996] |  | [Sanctionnée le 20 juin 1996] |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
