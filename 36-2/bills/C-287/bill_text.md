@@ -1,0 +1,11 @@
+Bill C-287 PublicationID : 2330640 Table of ContentsSummaryBILL C-287
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to remove the twenty per cent foreign investment limit for registered retirement savings plans and registered retirement income funds. |  |
+|  | Section 206 of the Act deals with tax in respect of certain foreign property acquired by several different types of deferred income plans. The amendment makes the foreign investment limit inapplicable to RRSPs and RRIFs. |  |
+
+|  | 2nd Session, 36th Parliament, 48 Elizabeth II, 1999 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-287 An Act to amend the Income Tax Act (removal of foreign investment limit for registered retirement savings plans and registered retirement income funds) R.S., cc. 1, 2 (5th Supp.); 1994, cc. 7, 8, 13, 21, 28, 29, 38, 41; 1995, cc. 1, 3, 11, 18, 21, 38, 46; 1996, cc. 11, 21, 23; 1997, cc. 10, 12, 25, 26; 1998, cc. 19, 21, 34; 1999, cc. 10, 17, 22, 26, 31 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Section 206 of the *Income Tax Act* is amended by adding the following after subsection (2.1):** Exemption re RRSPs and RRIFs (2.2) Notwithstanding section 205, subsection (2) does not apply to (*a*) a trust governed by a registered retirement savings plan; or (*b*) a trust governed by a registered retirement income fund.
