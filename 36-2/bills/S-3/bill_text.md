@@ -1,4 +1,4 @@
-Bill S-3 PublicationID : 2330544 Table of ContentsSummaryBILL S-3SHORT TITLEPART 1CANADA-KYRGYZSTAN INCOME TAX AGREEMENTPART 2CANADA-LEBANON INCOME TAX CONVENTIONPART 3CANADA-ALGERIA INCOME TAX CONVENTIONPART 4CANADA-BULGARIA INCOME TAX CONVENTIONPART 5CANADA-PORTUGAL INCOME TAX CONVENTIONPART 6CANADA-UZBEKISTAN INCOME TAX CONVENTIONPART 7CANADA-JORDAN INCOME TAX CONVENTIONPART 8CANADA-JAPAN INCOME TAX CONVENTIONCanada-Japan Income Tax Convention Act, 1986An Act to implement conventions between with respect to income taxPART 9CANADA-LUXEMBOURG INCOME TAX CONVENTIONSCHEDULE 1SCHEDULE 2SCHEDULE 3SCHEDULE 4SCHEDULE 5SCHEDULE 6SCHEDULE 7SCHEDULE 8SCHEDULE 9TABLE OF PROVISIONS
+Bill S-3 PublicationID : 2330545 Table of ContentsSummaryBILL S-3SHORT TITLEPART 1CANADA-KYRGYZSTAN INCOME TAX AGREEMENTPART 2CANADA-LEBANON INCOME TAX CONVENTIONPART 3CANADA-ALGERIA INCOME TAX CONVENTIONPART 4CANADA-BULGARIA INCOME TAX CONVENTIONPART 5CANADA-PORTUGAL INCOME TAX CONVENTIONPART 6CANADA-UZBEKISTAN INCOME TAX CONVENTIONPART 7CANADA-JORDAN INCOME TAX CONVENTIONPART 8CANADA-JAPAN INCOME TAX CONVENTIONCanada-Japan Income Tax Convention Act, 1986An Act to implement conventions between with respect to income taxPART 9CANADA-LUXEMBOURG INCOME TAX CONVENTIONSCHEDULE 1SCHEDULE 2SCHEDULE 3SCHEDULE 4SCHEDULE 5SCHEDULE 6SCHEDULE 7SCHEDULE 8SCHEDULE 9TABLE OF PROVISIONS
 
 |  | SUMMARY |  |
 | --- | --- | --- |
@@ -8,10 +8,6 @@ Bill S-3 PublicationID : 2330544 Table of ContentsSummaryBILL S-3SHORT TITLEPART
 |  | Parts 1 to 7 of this enactment implement tax treaties with Kyrgyzstan, Lebanon, Algeria, Bulgaria, Portugal, Uzbekistan and Jordan. This is the first time that Canada has concluded a tax treaty with any of these States. |  |
 |  | Part 8 of this enactment amends the Canada-Japan Income Tax Convention Act, 1986 and implements a protocol amending the existing tax convention with Japan. The protocol specifically addresses an issue relating to Japanese local enterprise taxes by providing for an exemption for Canadian enterprises operating ships or aircraft in international traffic, provided that Canadian provinces do not subject similar Japanese enterprises to similar taxes. The protocol also provides for a further reduction in the withholding tax on inter-company dividends to five per cent, in accordance with the government's intention to move to that rate with all parties with whom Canada negotiates tax treaties. As well, the protocol clarifies and modernizes the language of a number of provisions of the convention. |  |
 |  | Part 9 of this enactment implements a tax convention which replaces the existing tax convention between the Government of Canada and the Government of the Grand Duchy of Luxembourg, signed on January 17, 1989. The wording in the new convention clarifies and modernizes the language, better reflecting Canada's tax treaty policies. |  |
-|  | EXPLANATORY NOTES |  |
-|  | Canada-Japan Income Tax Convention Act, 1986 |  |
-|  | Clause 44: Section 8 reads as follows: |  |
-|  | 8. In this Part, ``Convention'' means the Convention entered into between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the Protocol set out in Schedule IV. |  |
 
 |  | 2nd Session, 36th Parliament, 48 Elizabeth II, 1999 |
 | --- | --- |
@@ -98,7 +94,7 @@ The Senate of Canada # BILL S-3 An Act to implement an agreement, conventions an
 |  | CANADA-JAPAN INCOME TAX CONVENTION |  |
 | 1986, c. 48, Part II | Canada-Japan Income Tax Convention Act, 1986 |  |
 |  | 44. Section 8 of the Canada-Japan Income Tax Convention Act, 1986 is replaced by the following: |  |
-| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1 . |  |
+| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1. |  |
 | 1986, c. 48 | An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax |  |
 |  | 45. An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax is amended by adding, after Schedule IV, Schedule IV.1 as set out in Schedule 8 to this Act. |  |
 | Protocol approved | 46. The protocol set out in Schedule 8 is approved and has the force of law in Canada during the period that the protocol, by its terms, is in force. |  |
@@ -118,7 +114,7 @@ The Senate of Canada # BILL S-3 An Act to implement an agreement, conventions an
 |  | CANADA-JAPAN INCOME TAX CONVENTION |  |
 | 1986, c. 48, Part II | Canada-Japan Income Tax Convention Act, 1986 |  |
 |  | 44. Section 8 of the Canada-Japan Income Tax Convention Act, 1986 is replaced by the following: |  |
-| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1 . |  |
+| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1. |  |
 | 1986, c. 48 | An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax |  |
 |  | 45. An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax is amended by adding, after Schedule IV, Schedule IV.1 as set out in Schedule 8 to this Act. |  |
 | Protocol approved | 46. The protocol set out in Schedule 8 is approved and has the force of law in Canada during the period that the protocol, by its terms, is in force. |  |
@@ -138,7 +134,7 @@ The Senate of Canada # BILL S-3 An Act to implement an agreement, conventions an
 |  | CANADA-JAPAN INCOME TAX CONVENTION |  |
 | 1986, c. 48, Part II | Canada-Japan Income Tax Convention Act, 1986 |  |
 |  | 44. Section 8 of the Canada-Japan Income Tax Convention Act, 1986 is replaced by the following: |  |
-| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1 . |  |
+| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1. |  |
 | 1986, c. 48 | An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax |  |
 |  | 45. An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax is amended by adding, after Schedule IV, Schedule IV.1 as set out in Schedule 8 to this Act. |  |
 | Protocol approved | 46. The protocol set out in Schedule 8 is approved and has the force of law in Canada during the period that the protocol, by its terms, is in force. |  |
@@ -158,7 +154,7 @@ The Senate of Canada # BILL S-3 An Act to implement an agreement, conventions an
 |  | CANADA-JAPAN INCOME TAX CONVENTION |  |
 | 1986, c. 48, Part II | Canada-Japan Income Tax Convention Act, 1986 |  |
 |  | 44. Section 8 of the Canada-Japan Income Tax Convention Act, 1986 is replaced by the following: |  |
-| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1 . |  |
+| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1. |  |
 | 1986, c. 48 | An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax |  |
 |  | 45. An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax is amended by adding, after Schedule IV, Schedule IV.1 as set out in Schedule 8 to this Act. |  |
 | Protocol approved | 46. The protocol set out in Schedule 8 is approved and has the force of law in Canada during the period that the protocol, by its terms, is in force. |  |
@@ -178,7 +174,7 @@ The Senate of Canada # BILL S-3 An Act to implement an agreement, conventions an
 |  | CANADA-JAPAN INCOME TAX CONVENTION |  |
 | 1986, c. 48, Part II | Canada-Japan Income Tax Convention Act, 1986 |  |
 |  | 44. Section 8 of the Canada-Japan Income Tax Convention Act, 1986 is replaced by the following: |  |
-| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1 . |  |
+| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1. |  |
 | 1986, c. 48 | An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax |  |
 |  | 45. An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax is amended by adding, after Schedule IV, Schedule IV.1 as set out in Schedule 8 to this Act. |  |
 | Protocol approved | 46. The protocol set out in Schedule 8 is approved and has the force of law in Canada during the period that the protocol, by its terms, is in force. |  |
@@ -198,7 +194,7 @@ The Senate of Canada # BILL S-3 An Act to implement an agreement, conventions an
 |  | CANADA-JAPAN INCOME TAX CONVENTION |  |
 | 1986, c. 48, Part II | Canada-Japan Income Tax Convention Act, 1986 |  |
 |  | 44. Section 8 of the Canada-Japan Income Tax Convention Act, 1986 is replaced by the following: |  |
-| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1 . |  |
+| Definition of ``Convention' ' | 8. In this Part, ``Convention'' means the Convention between the Government of Canada and the Government of Japan set out in Schedule III, as amended by the protocols set out in Schedules IV and IV.1. |  |
 | 1986, c. 48 | An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax |  |
 |  | 45. An Act to implement conventions between Canada and the Kingdom of the Netherlands and Canada and Japan and agreements between Canada and the People's Republic of China and Canada and the Republic of Malta for the avoidance of double taxation with respect to income tax is amended by adding, after Schedule IV, Schedule IV.1 as set out in Schedule 8 to this Act. |  |
 | Protocol approved | 46. The protocol set out in Schedule 8 is approved and has the force of law in Canada during the period that the protocol, by its terms, is in force. |  |
