@@ -1,4 +1,4 @@
-Bill C-44 PublicationID : 2331418 Table of ContentsSummaryBILL C-44SHORT TITLEINTERPRETATIONDESIGNATIONCOMPENSATIONGENERAL PROVISIONSCOORDINATING AMENDMENTSSCHEDULE 1TABLE OF PROVISIONS
+Bill C-44 PublicationID : 2331419 Table of ContentsSummaryBILL C-44SHORT TITLEINTERPRETATIONDESIGNATIONCOMPENSATIONGENERAL PROVISIONSCOORDINATING AMENDMENTSSCHEDULE 1TABLE OF PROVISIONS
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ House of Commons of Canada # BILL C-44 An Act to compensate military members inj
 | 2002, c. 8 | 21. On the later of the coming into force of section 14 of the Courts Administration Service Act, chapter 8 of the Statutes of Canada, 2002, and subsection 11(4) of this Act, subsection 11(4) of this Act is replaced by the following: |  |
 | Decision is final | (4) A decision of the Minister respecting a review is final and binding and, except for judicial review under the Federal Courts Act, is not subject to appeal or to review by any court. The decision shall not be the subject of a grievance under section 29 of the National Defence Act. |  |
 | Bill C-25 | 22. If Bill C-25, introduced in the 2nd session of the 37th Parliament and entitled the Public Service Modernization Act (the ``other Act''), receives royal assent, then, on the later of the coming into force of section 11 of the other Act and paragraph 10(3)(a) of this Act, paragraph 10(3)(a) of this Act is replaced by the following: |  |
-|  | (a) a department in, or other portion of, the federal public administration specified in Schedule I, IV or V to the Financial Administration Act, or |  |
+|  | ****(a) a department in, or other portion of, the federal public administration specified in Schedule I, IV or V to the Financial Administration Act, or |  |
 | Bill C-36 | 23. If Bill C-36, introduced in the 2nd session of the 37th Parliament and entitled the Library and Archives of Canada Act (the ``other Act''), receives royal assent, then, on the later of the coming into force of section 4 of the other Act and paragraph 13(c) of this Act, paragraph 13(c) of this Act is replaced by the following: |  |
 |  | (c) personal information collected or obtained by the Library and Archives of Canada in the administration of the Library and Archives of Canada Act, or any predecessor enactment relating to the same subject-matter. |  |
 
