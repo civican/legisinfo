@@ -1,17 +1,19 @@
 NAVIGATION END
 
-| C-249 Second Session, Thirty-seventh Parliament, 51-52 Elizabeth II, 2002-2003 |  | C-249 Deuxième session, trente-septième législature, 51-52 Elizabeth II, 2002-2003 |
+| C-249 Third Session, Thirty-seventh Parliament, 52 Elizabeth II, 2004 |  | C-249 Troisième session, trente-septième législature, 52 Elizabeth II, 2004 |
 | --- | --- | --- |
 | house of Commons OF CANADA |  | chambre des communes DU CANADA |
 | BILL C-249 |  | PROJET DE LOI C-249 |
 | An Act to amend the Competition Act |  | Loi modifiant la Loi sur la concurrence |
-| Reprinted as amended by the Standing Committee on Industry, Science and Technology as a working copy for the use of the House of Commons at Report Stage and as reported to the House on April 30, 2003 |  | Réimprimé tel que modifié par le Comité permanent de l'industrie, des sciences et de la technologie comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 30 avril 2003 |
+| AS PASSED BY THE HOUSE OF COMMONS FEBRUARY 2, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 2 FÉVRIER 2004 |
+
+[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m0,0l0,21600,21600,21600,21600,0xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif] [if gte vml 1]></o:wrapblock><![endif]
 
 | Summary | Sommaire |
 | --- | --- |
-| The enactment amends the Competition Act to clarify the Competition Tribunal's powers to make or not an order in the case of a merger when gains in efficiency are expected or when the merger would create or strenghten a dominant market position. | Le texte modifie la Loi sur la concurrence afin de préciser les pouvoirs du Tribunal de la concurrence de rendre ou non une ordonnance dans le cas d'un fusionnement si des gains en efficience sont prévus ou si une position dominante dans un marché serait créée ou renforcée. |
+| The enactment amends the Competition Act to clarify the Competition Tribunal's powers to make or not an order in the case of a merger when gains in efficiency are expected or when the merger would create or strengthen a dominant market position. | Le texte modifie la Loi sur la concurrence afin de préciser les pouvoirs du Tribunal de la concurrence de rendre ou non une ordonnance dans le cas d'un fusionnement si des gains en efficience sont prévus ou si une position dominante dans un marché serait créée ou renforcée. |
 
-|  | 2nd Session, 37th Parliament, 51-52 Elizabeth II, 2002-2003 House of Commons of Canada Bill C-249 |  | 2e session, 37e législature, 51-52 Elizabeth II, 2002-2003 Chambre des communes du Canada Projet de loi C-249 |  |  |
+|  | 3rd Session, 37th Parliament, 52 Elizabeth II, 2004 House of Commons of Canada Bill C-249 |  | 3e session, 37e législature, 52 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-249 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | An Act to amend the Competition Act |  | Loi modifiant la Loi sur la concurrence |  |  |
 | R.S., 1985, c. C-34 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., (1985), ch. C-34 |
