@@ -1,0 +1,10 @@
+# Bill C-241: An Act to amend the Immigration Act (right-of-landing fee)
+
+- **Current Status**: Outside the Order of Precedence
+- **Sponsor**: Deepak Obhrai
+- **Latest Activity**: 
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
