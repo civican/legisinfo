@@ -1,0 +1,1728 @@
+<Bills>
+  <Bill>
+    <Id>1395901</Id>
+    <NumberCode>C-11</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>11</Number>
+    <LongTitleEn>An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings</LongTitleEn>
+    <LongTitleFr>Loi prévoyant un mécanisme de divulgation des actes répréhensibles et de protection des divulgateurs dans le
+secteur public</LongTitleFr>
+    <LongTitle>An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings</LongTitle>
+    <ShortTitleEn>Public Servants Disclosure Protection Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la protection des fonctionnaires divulgateurs d'actes répréhensibles</ShortTitleFr>
+    <ShortTitle>Public Servants Disclosure Protection Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2005-11-25T15:15:11</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>38</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1180</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Reg</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Alcock</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Reg Alcock</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>President of the Treasury Board</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>président du Conseil du Trésor</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>President of the Treasury Board</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>503</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Winnipeg South</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Winnipeg-Sud</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Winnipeg South</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2005-11-25T09:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>100</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2004-10-08T13:04:54</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2005-10-04T11:54:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2005-10-04T15:25:38</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2005-10-18T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2005-10-27T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2005-11-25T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2005-11-25T15:15:11</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2005</StatuteYear>
+    <StatuteChapter>46</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2004-10-08T13:04:54</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>5</Number>
+          <Date>2004-10-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2004-10-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2004-10-08T13:04:54</EventStartDateTime>
+          <EventEndDateTime>2004-10-08T13:04:54</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2004-10-08T13:04:54</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60047</BillStageId>
+        <BillStageNameEn>Referral to committee before second reading</BillStageNameEn>
+        <BillStageNameFr>Renvoi à un comité avant la deuxième lecture</BillStageNameFr>
+        <BillStageName>Referral to committee before second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2004-10-18T15:30:42</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+          <StudyActivityId>967342</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate on the motion to refer the bill to committee before second reading</NameEn>
+          <NameFr>Débat sur la motion de renvoi du projet de loi en comité avant la deuxième lecture</NameFr>
+          <Name>Debate on the motion to refer the bill to committee before second reading</Name>
+          <Number>8</Number>
+          <Date>2004-10-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Referral to committee before second reading</NameEn>
+          <NameFr>Renvoi en comité avant la deuxième lecture</NameFr>
+          <Name>Referral to committee before second reading</Name>
+          <Number>10</Number>
+          <Date>2004-10-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60122</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee before second reading</EventNameEn>
+          <EventNameFr>Renvoi en comité avant la deuxième lecture</EventNameFr>
+          <EventName>Referral to committee before second reading</EventName>
+          <EventDateTime>2004-10-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60122</EventTypeId>
+          <EventTypeNameEn>Referral to committee before second reading</EventTypeNameEn>
+          <EventTypeNameFr>Renvoi en comité avant la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Referral to committee before second reading</EventTypeName>
+          <EventStartDateTime>2004-10-18T15:30:42</EventStartDateTime>
+          <EventEndDateTime>2004-10-18T15:30:42</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2004-10-18T15:30:42</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2005-09-27T17:09:43</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+          <StudyActivityId>967342</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>126</Number>
+          <Date>2005-09-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2004-10-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2004-11-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2004-11-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2004-11-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2004-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2004-12-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2004-12-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2005-02-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2005-02-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2005-02-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2005-02-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2005-02-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2005-03-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2005-03-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2005-03-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2005-04-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2005-04-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2005-04-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2005-05-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2005-06-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2005-06-16T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2005-06-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2005-06-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2005-06-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2005-06-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2005-06-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8980</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Government Operations and Estimates</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des opérations gouvernementales et des prévisions budgétaires</CommitteeNameFr>
+          <CommitteeAcronym>OGGO</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2005-06-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Government Operations and Estimates</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2005-09-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>1985073</CommitteeReportId>
+          <CommitteeReportNumber>9</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2005-09-27T17:09:43</EventStartDateTime>
+          <EventEndDateTime>2005-09-27T17:09:43</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-09-27T17:09:43</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60048</BillStageId>
+        <BillStageNameEn>Report stage and second reading</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport et deuxième lecture</BillStageNameFr>
+        <BillStageName>Report stage and second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-10-04T11:54:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage and second reading</NameEn>
+          <NameFr>Débat à l'étape du rapport et de la deuxième lecture</NameFr>
+          <Name>Debate at report stage and second reading</Name>
+          <Number>130</Number>
+          <Date>2005-10-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage and second reading</NameEn>
+          <NameFr>Débat à l'étape du rapport et de la deuxième lecture</NameFr>
+          <Name>Debate at report stage and second reading</Name>
+          <Number>131</Number>
+          <Date>2005-10-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60128</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage and second reading</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport et de la deuxième lecture</EventNameFr>
+          <EventName>Concurrence at report stage and second reading</EventName>
+          <EventDateTime>2005-10-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60128</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage and second reading</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport et de la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage and second reading</EventTypeName>
+          <EventStartDateTime>2005-10-04T11:54:00</EventStartDateTime>
+          <EventEndDateTime>2005-10-04T11:54:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-10-04T11:54:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-10-04T15:25:38</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>131</Number>
+          <Date>2005-10-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1399642</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>1398926</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3rd reading</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2005-10-04T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>131</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2005-10-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2005-10-04T15:25:38</EventStartDateTime>
+          <EventEndDateTime>2005-10-04T15:25:38</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-10-04T15:25:38</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-10-18T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>88</Number>
+          <Date>2005-10-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2005-10-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2005-10-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-10-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-10-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-10-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>91</Number>
+          <Date>2005-10-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>92</Number>
+          <Date>2005-10-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>93</Number>
+          <Date>2005-10-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2005-10-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2005-10-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2005-10-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-10-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-10-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>91</MeetingNumber>
+          <SpeechDateTime>2005-10-25T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/381/debates/091db_2005-10-25-e#44</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/381/debates/091db_2005-10-25-f#46</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/381/debates/091db_2005-10-25-e#44</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>91</MeetingNumber>
+          <SpeechDateTime>2005-10-25T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/381/debates/093db_2005-10-27-e#35</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/381/debates/093db_2005-10-27-f#35</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/381/debates/093db_2005-10-27-e#35</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2005-11-24T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>99</Number>
+          <Date>2005-11-24T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2005-11-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2005-11-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2005-11-24T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-11-24T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-11-24T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-11-25T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>100</Number>
+          <Date>2005-11-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2005-11-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2005-11-25T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2005-11-25T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-11-25T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>100</Number>
+          <Date>2005-11-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2005-11-25T15:15:11</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2005-11-25T15:15:11</EventStartDateTime>
+          <EventEndDateTime>2005-11-25T15:15:11</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-11-25T15:15:11</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>2331696</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2331697</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2331698</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2331699</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>2</DivisionNumber>
+      <DivisionSubjectEn>Bill C-11, An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings (referral to a committee before second reading)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-11, Loi prévoyant un mécanisme de divulgation des actes répréhensibles et de protection des divulgateurs dans le
+secteur public (renvoi à un comité avant la deuxième lecture)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-11, An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings (referral to a committee before second reading)</DivisionSubject>
+      <DivisionVotesYeas>207</DivisionVotesYeas>
+      <DivisionVotesNays>93</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>300</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2004-10-18T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Three Whistleblower Protection Models: A Comparative Analysis of Whistleblower Legislation in Australia, the United States and the United Kingdom (Public Service Commission of Canada)</TitleEn>
+      <TitleFr>Trois régimes de protection des dénonciateurs: Analyse comparative des lois relatives à la dénonciation en Australie, aux États-Unis et au Royaume-Uni, (Commission de la fonction publique du Canada)</TitleFr>
+      <Title>Three Whistleblower Protection Models: A Comparative Analysis of Whistleblower Legislation in Australia, the United States and the United Kingdom (Public Service Commission of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Proposed Public Servants Disclosure Protection Act (Public Service Human Resources Management Agency of Canada)</TitleEn>
+      <TitleFr>Fiche d'information: Projet de loi sur la protection des fonctionnaires dénonciateurs d'actes répréhensibles (Agence de gestion des ressources humaines de la fonction publique du Canada)</TitleFr>
+      <Title>Backgrounder: Proposed Public Servants Disclosure Protection Act (Public Service Human Resources Management Agency of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Frequently Asked Questions - Proposed Public Servants Disclosure Protection Act (Public Service Human Resources Management Agency of Canada)</TitleEn>
+      <TitleFr>Questions fréquemment posées - Projet de Loi sur la protection des fonctionnaires dénonciateurs d'actes répréhensibles (Agence de gestion des ressources humaines de la fonction publique du Canada)</TitleFr>
+      <Title>Frequently Asked Questions - Proposed Public Servants Disclosure Protection Act (Public Service Human Resources Management Agency of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Glossary - Proposed Public Servants Disclosure Protection Act (Public Service Human Resources Management Agency of Canada)</TitleEn>
+      <TitleFr>Fiche d'information: Glossaire - Projet de loi sur la protection des fonctionnaires dénonciateurs d'actes répréhensibles (Agence de gestion des ressources humaines de la fonction publique du Canada)</TitleFr>
+      <Title>Backgrounder: Glossary - Proposed Public Servants Disclosure Protection Act (Public Service Human Resources Management Agency of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed whistleblower bill forecasts new role for Public Service Commission President (Public Service Commission of Canada)</TitleEn>
+      <TitleFr>Le projet de loi proposé sur la dénonciation prévoit un nouveau rôle pour la présidente de la Commission de la fonction publique (Commission de la fonction publique du Canada)</TitleFr>
+      <Title>Proposed whistleblower bill forecasts new role for Public Service Commission President (Public Service Commission of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public Service Integrity Office</TitleEn>
+      <TitleFr>Bureau de l'intégrité de la fonction publique</TitleFr>
+      <Title>Public Service Integrity Office</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Proposed Public Servants Disclosure Protection Act: A Chronology (Public Service Human Resources Management Agency of Canada)</TitleEn>
+      <TitleFr>Fiche d'information: Projet de loi sur la protection des fonctionnaires dénonciateurs d'actes répréhensibles: Exposé chronologique (Agence de gestion des ressources humaines de la fonction publique du Canada)</TitleFr>
+      <Title>Backgrounder: Proposed Public Servants Disclosure Protection Act: A Chronology (Public Service Human Resources Management Agency of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>"Canada needs a law and an independent commissioner to protect whistleblowers" (Policy Options, October 2004)</TitleEn>
+      <TitleFr>"Canada needs a law and an independent commissioner to protect whistleblowers" (Options politiques, octobre 2004, en anglais seulement)</TitleFr>
+      <Title>"Canada needs a law and an independent commissioner to protect whistleblowers" (Policy Options, October 2004)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>A Comparative International Analysis of Regimes for the Disclosure of Wrongdoing ("Whistleblowing"), (Public Service Integrity Office)</TitleEn>
+      <TitleFr>Analyse comparative au niveau international des régimes de divulgation (dénonciation) d'actes fautifs, (Bureau de l'intégrité de la fonction publique)</TitleFr>
+      <Title>A Comparative International Analysis of Regimes for the Disclosure of Wrongdoing ("Whistleblowing"), (Public Service Integrity Office)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>403</BibliographicNoticeId>
+      <Title>Les arguments en faveur d'une loi sur la dénonciation dans la fonction publique</Title>
+      <Author>Kinsella, Nöel A</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>24:10-12</VolumePage>
+      <PublicationDate>été 2001</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>402</BibliographicNoticeId>
+      <Title>The case of whistle-blowing legislation in Canada</Title>
+      <Author>Kinsella, Nöel A</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>24:8-10</VolumePage>
+      <PublicationDate>Summer 2001</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>404</BibliographicNoticeId>
+      <Title>The Public Service Integrity Officer</Title>
+      <Author>Keyserlingk, Edward W</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>25:32-4</VolumePage>
+      <PublicationDate>Winter 2002/2003</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>405</BibliographicNoticeId>
+      <Title>Le Bureau de l'intégrité de la fonction publique</Title>
+      <Author>Keyserlingk, Edward W</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>25:37-9</VolumePage>
+      <PublicationDate>hiver 2002/2003</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>406</BibliographicNoticeId>
+      <Title>Parliamentary privilege and members' sources of information</Title>
+      <Author>Attwood, Julie</Author>
+      <Publication>Australasian parliamentary review</Publication>
+      <VolumePage>17:87-96</VolumePage>
+      <PublicationDate>Spring 2002</PublicationDate>
+      <Classification>KVC593 A155</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>408</BibliographicNoticeId>
+      <Title>Whistling in the wind</Title>
+      <Author>Cohen, Lynne</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>27:35-41</VolumePage>
+      <PublicationDate>Nov./Dec. 2003</PublicationDate>
+      <Classification>K3 A494</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>608</BibliographicNoticeId>
+      <Title>La voix de la dénonciation</Title>
+      <Author>Gualtieri, Joanna</Author>
+      <Publication>CA magazine</Publication>
+      <VolumePage>137:43-5</VolumePage>
+      <PublicationDate>août 2004</PublicationDate>
+      <Classification>HF5601 C331</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>631</BibliographicNoticeId>
+      <Title>Build an ethical organizational culture before the whistle blows</Title>
+      <Author>Dempsey, Alison L</Author>
+      <Publication>Law now</Publication>
+      <VolumePage>29:9-10</VolumePage>
+      <PublicationDate>Feb./Mar. 2005</PublicationDate>
+      <Classification>K12 A985</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>632</BibliographicNoticeId>
+      <Title>Blowing the whistle</Title>
+      <Author>Gordon, Sheldon</Author>
+      <Publication>National</Publication>
+      <VolumePage>13:22-9</VolumePage>
+      <PublicationDate>Nov. 2004</PublicationDate>
+      <Classification>K14 A85</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>409</BibliographicNoticeId>
+      <Title>Whistleblowers : all truth is good, but not all truth is good to say</Title>
+      <Author>Bowal, Peter</Author>
+      <Publication>Law now</Publication>
+      <VolumePage>27:32-4</VolumePage>
+      <PublicationDate>June/July 2003</PublicationDate>
+      <Classification>K12 A985</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>479</BibliographicNoticeId>
+      <Title>Whistleblower protection needed in Canada: advocates</Title>
+      <Author>Lenzner, Jeanne</Author>
+      <Publication>CMAJ: Canadian Medical Association journal</Publication>
+      <VolumePage>171:439</VolumePage>
+      <PublicationDate>Aug. 31, 2004</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>480</BibliographicNoticeId>
+      <Title>Independent inquiry needed into firing of whistleblowers</Title>
+      <Author>Eggertson, Laura</Author>
+      <Publication>CMAJ: Canadian Medical Association journal</Publication>
+      <VolumePage>171:438</VolumePage>
+      <PublicationDate>Aug. 31, 2004</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>528</BibliographicNoticeId>
+      <Title>Public service waits for new whistleblower protection office</Title>
+      <Author>O'Malley, Kady</Author>
+      <Publication>The Hill Times</Publication>
+      <VolumePage>no. 798:13</VolumePage>
+      <PublicationDate>Aug. 1, 2005</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>600</BibliographicNoticeId>
+      <Title>Watching out for whistle-blowers</Title>
+      <Author>Marron, Kevin</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>29:42-5</VolumePage>
+      <PublicationDate>Nov./Dec. 2005</PublicationDate>
+      <Classification>K3 A494</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>310</BibliographicNoticeId>
+      <Title>Safe disclosure</Title>
+      <Author>Dionisi, Sandra</Author>
+      <Publication>CA magazine</Publication>
+      <VolumePage>136:20, 22-5 ff</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>HF5601 C33</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>1241690</Id>
+      <NumberCode>C-25</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>25</Number>
+      <LongTitleEn>An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings</LongTitleEn>
+      <LongTitleFr>Loi prévoyant un mécanisme de dénonciation des actes répréhensibles dans le secteur public et de protection des dénonciateurs</LongTitleFr>
+      <LongTitle>An Act to establish a procedure for the disclosure of wrongdoings in the public sector, including the protection of persons who disclose the wrongdoings</LongTitle>
+      <ShortTitleEn>Public Servants Disclosure Protection Act</ShortTitleEn>
+      <ShortTitleFr>Loi sur la protection des fonctionnaires dénonciateurs d'actes répréhensibles</ShortTitleFr>
+      <ShortTitle>Public Servants Disclosure Protection Act</ShortTitle>
+      <StatusId>352</StatusId>
+      <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+      <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+      <StatusName>At consideration in committee in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60047</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>Referral to committee before second reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Renvoi à un comité avant la deuxième lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>Referral to committee before second reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2004-04-20T15:10:40</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>37</ParliamentNumber>
+      <SessionNumber>3</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2004-03-22T10:55:04</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
