@@ -1,0 +1,11 @@
+Bill C-519 PublicationID : 2330426 Table of ContentsSummaryBILL C-519
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to prevent tolls being imposed on highways, bridges and tunnels that have been financed by the federal government to an extent of more than five percent. The enactment requires an agreement by the government that will administer the highway, bridge or tunnel not to charge tolls before funds are advanced or guarantees made. |  |
+|  | Payments made or guarantees provided before 1990 are not counted for the purpose of the calculation of the level of financing. |  |
+
+|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-519 An Act to limit the imposition of tolls on publicly financed highways, bridges and tunnels Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: Short title **1.** This Act may be cited as the *Highway Tolls Act*. No tolls on publicly funded highways **2.** (1) Notwithstanding any other Act of Parliament, no payment for any part of any public highway, bridge or tunnel may be paid from or guaranteed as a charge against the Consolidated Revenue Fund, either for initial construction or in subsequent improvement, addition, re-routing, maintenance or repair, if such payment or guarantee would have the result that more than five percent of the aggregate of all payments made from, or guarantees charged against, the public funds of Canada or a province on or after January 1, 1990 for the highway, bridge or tunnel are or were a charge or liability on the Consolidated Revenue Fund, unless the government or person that will administer the highway, bridge or tunnel enters into an undertaking that it will not impose any toll or other charge for use of the highway, bridge or tunnel by the public at any time during the twenty years following the payment or guarantee. Determi- nation by Auditor General (2) Where any question arises as to whether a payment or guarantee will require an undertaking under subsection (1), the matter shall be determined by the Auditor General for Canada, and the determination shall be con clusive and not subject to appeal.
