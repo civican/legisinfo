@@ -1,0 +1,167 @@
+<Bills>
+  <Bill>
+    <Id>9327</Id>
+    <NumberCode>S-25</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>25</Number>
+    <LongTitleEn>An Act respecting the Certified General Accountants Association of Canada</LongTitleEn>
+    <LongTitleFr>Loi concernant l'Association des comptables généraux accrédités du Canada</LongTitleFr>
+    <LongTitle>An Act respecting the Certified General Accountants Association of Canada</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>sans titre abrégé</ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>1999-04-29T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>36</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>80761</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Private Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi d'intérêt privé (Sénat)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Private Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>53</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>35197</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Michael</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Kirby</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>J. L.</SponsorPersonMiddleName>
+    <SponsorPersonName>Michael Kirby</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Senator</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>Sénateur</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Senator</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>3</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Senator</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>sénateur</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Senator</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>0</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn />
+    <LatestBillEventTypeNameFr />
+    <LatestBillEventStageId>0</LatestBillEventStageId>
+    <LatestBillEventTypeName />
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn />
+    <LatestBillEventChamberNameFr />
+    <LatestBillEventChamberName />
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber />
+    <LatestBillEventAdditionalInformationEn />
+    <LatestBillEventAdditionalInformationFr />
+    <LatestBillEventAdditionalInformation />
+    <PassedHouseFirstReadingDateTime>1999-04-23T00:00:00</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>1999-04-28T00:00:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>1999-04-28T00:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>1999-03-04T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>1999-03-23T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>1999-04-22T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>1999-04-29T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>1999</StatuteYear>
+    <StatuteChapter>38</StatuteChapter>
+    <BillStages />
+    <Publications>
+      <PublicationId>5076241</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5076242</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the Senate</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par le Sénat</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the Senate</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6833500</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
