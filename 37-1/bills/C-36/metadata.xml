@@ -1,0 +1,2547 @@
+<Bills>
+  <Bill>
+    <Id>73328</Id>
+    <NumberCode>C-36</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>36</Number>
+    <LongTitleEn>An Act to amend the Criminal Code, the Official Secrets Act, the Canada Evidence Act, the Proceeds of Crime (Money Laundering) Act and other Acts, and to enact measures respecting the registration of charities in order to combat terrorism</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code criminel, la Loi sur les secrets officiels, la Loi sur la preuve au Canada, la Loi sur le recyclage des produits de la criminalité et d'autres lois, et édictant des mesures à l'égard de l'enregistrement des organismes de bienfaisance, en vue de combattre le terrorisme</LongTitleFr>
+    <LongTitle>An Act to amend the Criminal Code, the Official Secrets Act, the Canada Evidence Act, the Proceeds of Crime (Money Laundering) Act and other Acts, and to enact measures respecting the registration of charities in order to combat terrorism</LongTitle>
+    <ShortTitleEn>Anti-terrorism Act</ShortTitleEn>
+    <ShortTitleFr>Loi antiterroriste</ShortTitleFr>
+    <ShortTitle>Anti-terrorism Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2001-12-18T16:42:03</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>37</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1355</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Anne</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>McLellan</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>Anne</SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Anne McLellan</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>51</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Edmonton West</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Edmonton-Ouest</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Edmonton West</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2001-12-18T09:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>85</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2001-10-15T12:17:35</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2001-10-18T00:00:45</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2001-11-28T14:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2001-11-29T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2001-11-29T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2001-12-18T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2001-12-18T16:42:03</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2001</StatuteYear>
+    <StatuteChapter>41</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-10-15T12:17:35</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>94</Number>
+          <Date>2001-10-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2001-10-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2001-10-15T12:17:35</EventStartDateTime>
+          <EventEndDateTime>2001-10-15T12:17:35</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-10-15T12:17:35</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-10-18T00:00:45</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>625903</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>95</Number>
+          <Date>2001-10-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>96</Number>
+          <Date>2001-10-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>97</Number>
+          <Date>2001-10-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2001-10-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2001-10-18T00:00:45</EventStartDateTime>
+          <EventEndDateTime>2001-10-18T00:00:45</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-10-18T00:00:45</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>56581</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1355</PersonId>
+          <PersonOfficialFirstName>Anne</PersonOfficialFirstName>
+          <PersonOfficialLastName>McLellan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Anne McLellan</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2001-10-16T10:12:10</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56581</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/37-1/house/sitting-95/hansard#Int-56581</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56581</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>56593</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1836</PersonId>
+          <PersonOfficialFirstName>Vic</PersonOfficialFirstName>
+          <PersonOfficialLastName>Toews</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Vic Toews</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Canadian Alliance</CaucusShortNameEn>
+          <CaucusShortNameFr>Alliance canadienne</CaucusShortNameFr>
+          <CaucusShortName>Canadian Alliance</CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2001-10-16T10:36:57</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56593</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/37-1/house/sitting-95/hansard#Int-56593</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56593</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>56598</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>444</PersonId>
+          <PersonOfficialFirstName>Pierrette</PersonOfficialFirstName>
+          <PersonOfficialLastName>Venne</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierrette Venne</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2001-10-16T11:07:26</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56598</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/37-1/house/sitting-95/hansard#Int-56598</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56598</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>56602</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1200</PersonId>
+          <PersonOfficialFirstName>Bill</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blaikie</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bill Blaikie</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2001-10-16T11:25:40</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56602</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/37-1/house/sitting-95/hansard#Int-56602</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56602</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>56616</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>82</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>MacKay</PersonOfficialLastName>
+          <PersonMiddleName>Gordon</PersonMiddleName>
+          <PersonName>Peter Gordon MacKay</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>PC/DR</CaucusShortNameEn>
+          <CaucusShortNameFr>PC/RD</CaucusShortNameFr>
+          <CaucusShortName>PC/DR</CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2001-10-16T11:52:11</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56616</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/37-1/house/sitting-95/hansard#Int-56616</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/37-1/house/sitting-95/hansard#Int-56616</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2001-11-22T14:46:31</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>625903</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>117</Number>
+          <Date>2001-11-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2001-10-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2001-10-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2001-10-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2001-10-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2001-10-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2001-10-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2001-10-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2001-10-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2001-10-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2001-11-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2001-11-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2001-11-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2001-11-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2001-11-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2001-11-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2001-11-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2001-11-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2001-11-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>222</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2001-11-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2001-11-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2001-11-22T14:46:31</EventStartDateTime>
+          <EventEndDateTime>2001-11-22T14:46:31</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-11-22T14:46:31</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-11-27T20:25:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>118</Number>
+          <Date>2001-11-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>119</Number>
+          <Date>2001-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage with a further amendment</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport avec un autre amendement</EventNameFr>
+          <EventName>Concurrence at report stage with a further amendment</EventName>
+          <EventDateTime>2001-11-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2001-11-27T20:25:00</EventStartDateTime>
+          <EventEndDateTime>2001-11-27T20:25:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-11-27T20:25:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-11-28T14:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>120</Number>
+          <Date>2001-11-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2001-11-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2001-11-28T14:00:00</EventStartDateTime>
+          <EventEndDateTime>2001-11-28T14:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-11-28T15:23:39</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-11-01T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>59</Number>
+          <Date>2001-10-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report on subject matter of bill tabled</NameEn>
+          <NameFr>Dépôt du rapport de comité sur l'objet du projet de loi</NameFr>
+          <Name>Committee report on subject matter of bill tabled</Name>
+          <Number>66</Number>
+          <Date>2001-11-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>68</Number>
+          <Date>2001-11-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>71</Number>
+          <Date>2001-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>72</Number>
+          <Date>2001-11-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2001-10-22T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2001-10-22T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2001-10-22T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>5</Number>
+          <Date>2001-10-23T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2001-10-23T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2001-10-23T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2001-10-24T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2001-10-24T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2001-10-29T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2001-10-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60305</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report on subject matter of bill tabled</EventNameEn>
+          <EventNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventNameFr>
+          <EventName>Committee report on subject matter of bill tabled</EventName>
+          <EventDateTime>2001-11-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2001-11-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60305</EventTypeId>
+          <EventTypeNameEn>Committee report on subject matter of bill tabled</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventTypeNameFr>
+          <EventTypeName>Committee report on subject matter of bill tabled</EventTypeName>
+          <EventStartDateTime>2001-11-01T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2001-11-01T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-11-22T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-11-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>75</Number>
+          <Date>2001-11-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2001-11-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2001-11-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2001-11-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-11-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-11-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>75</Number>
+          <Date>2001-11-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2001-11-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2001-11-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2001-11-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2001-11-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-11-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>75</MeetingNumber>
+          <SpeechDateTime>2001-11-29T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/371/debates/075db_2001-11-29-e#0.2.W54BJ2.NGN3PP.HYMJNG.M1</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/371/debates/075db_2001-11-29-f#0.2.X57BJ2.4F6EXH.QZKKNG.M1</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/371/debates/075db_2001-11-29-e#0.2.W54BJ2.NGN3PP.HYMJNG.M1</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>37</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>75</MeetingNumber>
+          <SpeechDateTime>2001-11-29T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/371/debates/075db_2001-11-29-e#0.2.W54BJ2.NGN3PP.HYMJNG.M1</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/371/debates/075db_2001-11-29-f#0.2.X57BJ2.4F6EXH.QZKKNG.M1</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/371/debates/075db_2001-11-29-e#0.2.W54BJ2.NGN3PP.HYMJNG.M1</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2001-12-10T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>79</Number>
+          <Date>2001-12-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2001-12-03T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2001-12-04T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2001-12-04T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2001-12-05T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2001-12-05T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2001-12-06T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2001-12-06T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+          <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+          <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+          <CommitteeAcronym>
+          </CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2001-12-10T00:00:00</Date>
+          <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2001-12-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2001-12-10T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2001-12-10T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-12-10T10:14:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2001-12-18T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>80</Number>
+          <Date>2001-12-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>81</Number>
+          <Date>2001-12-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>82</Number>
+          <Date>2001-12-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>83</Number>
+          <Date>2001-12-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>84</Number>
+          <Date>2001-12-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>85</Number>
+          <Date>2001-12-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2001-12-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2001-12-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2001-12-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-12-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>85</Number>
+          <Date>2001-12-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2001-12-18T16:42:03</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2001-12-18T16:42:03</EventStartDateTime>
+          <EventEndDateTime>2001-12-18T16:42:03</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2001-12-18T16:42:03</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>2330948</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2330949</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2330950</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2330951</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>35</BibliographicNoticeId>
+      <Title>Struggling with the challenges of right-wing extremism and terrorism within democratic boundaries : a comparative analysis</Title>
+      <Author>Pedahzur, Ami</Author>
+      <Publication>Studies in conflict and terrorism</Publication>
+      <VolumePage>24:339-59</VolumePage>
+      <PublicationDate>Sept./Oct. 2001</PublicationDate>
+      <Classification>JX1 S88</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>36</BibliographicNoticeId>
+      <Title>Manufacturing terrorists : refugees, national security, and Canadian law (part 1)</Title>
+      <Author>Aiken, Sharryn</Author>
+      <Publication>Refuge</Publication>
+      <VolumePage>19:54-73</VolumePage>
+      <PublicationDate>Jan. 2001</PublicationDate>
+      <Classification>HV640.4 C2 R44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>37</BibliographicNoticeId>
+      <Title>Manufacturing terrorists : refugees, national security, and Canadian law (part 2)</Title>
+      <Author>Aiken, Sharryn</Author>
+      <Publication>Refuge</Publication>
+      <VolumePage>19:116-33</VolumePage>
+      <PublicationDate>Feb. 2001</PublicationDate>
+      <Classification>HV640.4 C2 R44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>38</BibliographicNoticeId>
+      <Title>Terrorism and the issue of international cooperation</Title>
+      <Author>Criss, Bilge and Yavuz Turan Çetiner</Author>
+      <Publication>Studies in conflict and terrorism</Publication>
+      <VolumePage>20:127-39</VolumePage>
+      <PublicationDate>Spring 2000</PublicationDate>
+      <Classification>D25.5 C65</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>39</BibliographicNoticeId>
+      <Title>Analytic models and policy prescription : understanding recent innovation in U.S. counterterrorism</Title>
+      <Author>Falkenrath, Richard A</Author>
+      <Publication>Studies in conflict and terrorism</Publication>
+      <VolumePage>24:159-81</VolumePage>
+      <PublicationDate>May/June 2001</PublicationDate>
+      <Classification>JX1 S88</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>40</BibliographicNoticeId>
+      <Title>Problems of preparedness : U.S. readiness for a domestic terrorist attack</Title>
+      <Author>Falkenrath, Richard A</Author>
+      <Publication>International security</Publication>
+      <VolumePage>25:147-86</VolumePage>
+      <PublicationDate>Spring 2001</PublicationDate>
+      <Classification>JX1952 I57</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1090</BibliographicNoticeId>
+      <Title>The bomb in the backyard</Title>
+      <Author>Zimmerman, Peter D. and Jeffrey G. Lewis</Author>
+      <Publication>Foreign policy</Publication>
+      <VolumePage>no. 157:32-9</VolumePage>
+      <PublicationDate>Nov./Dec. 2006</PublicationDate>
+      <Classification>JX1 F67</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1096</BibliographicNoticeId>
+      <Title>Hear no evil, write no lies</Title>
+      <Author>Mitrovica, Andrew</Author>
+      <Publication>Walrus</Publication>
+      <VolumePage>3:37-42</VolumePage>
+      <PublicationDate>Dec. 2006</PublicationDate>
+      <Classification>AP5 W35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1120</BibliographicNoticeId>
+      <Title>The fight against terrorist financing</Title>
+      <Author>Clunan, Anne L</Author>
+      <Publication>Political science quarterly</Publication>
+      <VolumePage>121:569-96</VolumePage>
+      <PublicationDate>Winter 2006</PublicationDate>
+      <Classification>JA1 P643</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1155</BibliographicNoticeId>
+      <Title>The parliamentary review of the Anti-Terrorism Act</Title>
+      <Author>Roach, Kent</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>52:281-4</VolumePage>
+      <PublicationDate>May 2007</PublicationDate>
+      <Classification>K3 R4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1168</BibliographicNoticeId>
+      <Title>The treatment of foreign terror suspects</Title>
+      <Author>Walker, Clive</Author>
+      <Publication>The modern law review</Publication>
+      <VolumePage>70:427-57</VolumePage>
+      <PublicationDate>May 2007</PublicationDate>
+      <Classification>K13 O24</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1170</BibliographicNoticeId>
+      <Title>The global terrorist threat: is Al-Qaeda on the run or on the march?</Title>
+      <Author>Hoffman, Bruce</Author>
+      <Publication>Middle East policy</Publication>
+      <VolumePage>14:44-58</VolumePage>
+      <PublicationDate>June 2007</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1007</BibliographicNoticeId>
+      <Title>Social acceptance of RFID (Radio Frequency Identification) as a biometric security method</Title>
+      <Author>Perakslis, Christine and Robert Wolk</Author>
+      <Publication>IEEE technology and society magazine</Publication>
+      <VolumePage>25:34-42</VolumePage>
+      <PublicationDate>Fall 2006</PublicationDate>
+      <Classification>T14.5 I44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1008</BibliographicNoticeId>
+      <Title>Section 273.65 of the National Defence Act: inappropriate and unconstitutional</Title>
+      <Author>Carabash, Michael P.A</Author>
+      <Publication>Constitutional forum</Publication>
+      <VolumePage>15:99-105</VolumePage>
+      <PublicationDate>no. 2 2006</PublicationDate>
+      <Classification>JL64 C649</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1021</BibliographicNoticeId>
+      <Title>Faut-il craindre le cyberterrorisme?</Title>
+      <Author>Dumais, Michel</Author>
+      <Publication>Forces</Publication>
+      <VolumePage>no 147:24-8</VolumePage>
+      <PublicationDate>oct. 2006</PublicationDate>
+      <Classification>HD9685 C23 Q4 A25</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1022</BibliographicNoticeId>
+      <Title>Preventing catastrophic chemical attacks</Title>
+      <Author>Wein, Lawrence M</Author>
+      <Publication>Issues in science and technology</Publication>
+      <VolumePage>23:31-3</VolumePage>
+      <PublicationDate>Fall 2006</PublicationDate>
+      <Classification>Q1 I88</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1023</BibliographicNoticeId>
+      <Title>Terrorism, immigration, and multiculturalism</Title>
+      <Author>Jupp, James</Author>
+      <Publication>International journal</Publication>
+      <VolumePage>61:699-710</VolumePage>
+      <PublicationDate>Summer 2006</PublicationDate>
+      <Classification>D839 I58</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1043</BibliographicNoticeId>
+      <Title>La coopération civilo-militaire dans la lutte antiterroriste</Title>
+      <Author>Mutz, Pierre et Xavier de Suchowicz</Author>
+      <Publication>Défense nationale et sécurité collective</Publication>
+      <VolumePage>pp. 5-13</VolumePage>
+      <PublicationDate>déc. 2006</PublicationDate>
+      <Classification>U2 R483</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>942</BibliographicNoticeId>
+      <Title>Tragic choices in the war on terrorism: should we try to regulate and control torture?</Title>
+      <Author>Slater, Jerome</Author>
+      <Publication>Political science quarterly</Publication>
+      <VolumePage>121:191-215</VolumePage>
+      <PublicationDate>Summer 2006</PublicationDate>
+      <Classification>JA1 P643</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>943</BibliographicNoticeId>
+      <Title>Intelligence estimates of nuclear terrorism</Title>
+      <Author>Zenko, Micah</Author>
+      <Publication>The Annals of the American Academy of Political and Social Science</Publication>
+      <VolumePage>607:87-102</VolumePage>
+      <PublicationDate>no. 1 2006</PublicationDate>
+      <Classification>H1 A54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>944</BibliographicNoticeId>
+      <Title>Unequal protection under the law: Re Charkaoui and the security certificate process under the Immigration and Refugee Protection Act</Title>
+      <Author>Davies, Marianne</Author>
+      <Publication>Saskatchewan law review</Publication>
+      <VolumePage>69:375-400</VolumePage>
+      <PublicationDate>no. 2 2006</PublicationDate>
+      <Classification>K23 A82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>960</BibliographicNoticeId>
+      <Title>L'Union européenne et la lutte contre le financement du terrorisme</Title>
+      <Author>Jakob, Fabien</Author>
+      <Publication>Études internationales</Publication>
+      <VolumePage>37:423-37</VolumePage>
+      <PublicationDate>sept. 2006</PublicationDate>
+      <Classification>JX2 E88</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>966</BibliographicNoticeId>
+      <Title>9/11: the day the world changed</Title>
+      <Author>Sears, Robin V</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:13-17</VolumePage>
+      <PublicationDate>Sept. 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1004</BibliographicNoticeId>
+      <Title>Anti-terrorism, the Charter, and international law</Title>
+      <Author>Conte, Alex</Author>
+      <Publication>Review of constitutional studies</Publication>
+      <VolumePage>11:281-315</VolumePage>
+      <PublicationDate>no. 2 2006</PublicationDate>
+      <Classification>JL1 R49</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>917</BibliographicNoticeId>
+      <Title>Intervention : face au terrorisme global</Title>
+      <Author>Wieviorka, Michel</Author>
+      <Publication>Canadian journal of criminology and criminal justice</Publication>
+      <VolumePage>48:471-80</VolumePage>
+      <PublicationDate>juin 2006</PublicationDate>
+      <Classification>HV7231 C35</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>918</BibliographicNoticeId>
+      <Title>Gestion des risques, lutte contre le terrorisme</Title>
+      <Author>Galland, Jean-Pierre</Author>
+      <Publication>Canadian journal of criminology and criminal justice</Publication>
+      <VolumePage>48:359-81</VolumePage>
+      <PublicationDate>juin 2006</PublicationDate>
+      <Classification>HV7231 C35</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>919</BibliographicNoticeId>
+      <Title>UK terrorism legislation in an international context</Title>
+      <Author>Goldsmith, Peter</Author>
+      <Publication>The RUSI journal</Publication>
+      <VolumePage>151:18-23</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>929</BibliographicNoticeId>
+      <Title>Surveillance strategies and populations at risk: biopolitical governance in Canada's national security policy</Title>
+      <Author>Bell, Colleen</Author>
+      <Publication>Security dialogue</Publication>
+      <VolumePage>37:147-65</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>JX1903 B84</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>930</BibliographicNoticeId>
+      <Title>Le Rapport final du Groupe de planification binational : enjeux et perspectives d'avenir</Title>
+      <Author>Bergeron, Richard</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:35-9</VolumePage>
+      <PublicationDate>juil./août 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>931</BibliographicNoticeId>
+      <Title>The atomic emporium</Title>
+      <Author>Coll, Steve</Author>
+      <Publication>New Yorker</Publication>
+      <VolumePage>82:50-63</VolumePage>
+      <PublicationDate>Aug. 7, 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>839</BibliographicNoticeId>
+      <Title>Terrorism old and new: counterterrorism in Canada</Title>
+      <Author>Leman-Langlois, Stéphane and Jean-Paul Brodeur</Author>
+      <Publication>Police practice and research</Publication>
+      <VolumePage>6:121-40</VolumePage>
+      <PublicationDate>May 2005</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>853</BibliographicNoticeId>
+      <Title>Intelligence review and oversight on post-9/11 Canada</Title>
+      <Author>Shore, Jacques J.M</Author>
+      <Publication>International journal of intelligence and counterintelligence</Publication>
+      <VolumePage>19:456-79</VolumePage>
+      <PublicationDate>Fall 2006</PublicationDate>
+      <Classification>UB250 I57</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>860</BibliographicNoticeId>
+      <Title>Suspenders and a belt: perimeter and border security in Canada-U.S. relations</Title>
+      <Author>Sololsky, Joel J. and Philippe Lagassé</Author>
+      <Publication>Canadian foreign policy</Publication>
+      <VolumePage>12:15-29</VolumePage>
+      <PublicationDate>Winter 2005/2006</PublicationDate>
+      <Classification>FC242 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>861</BibliographicNoticeId>
+      <Title>Human rights, derogation and anti-terrorist detention</Title>
+      <Author>Powell, Rhonda</Author>
+      <Publication>Saskatchewan law review</Publication>
+      <VolumePage>69:79-100</VolumePage>
+      <PublicationDate>no. 1 2006</PublicationDate>
+      <Classification>K23 A82</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>862</BibliographicNoticeId>
+      <Title>Through a glass darkly: the role and review of 'national security' concepts in Canadian law</Title>
+      <Author>Forcese, Craig</Author>
+      <Publication>Alberta law review</Publication>
+      <VolumePage>43:963-1000</VolumePage>
+      <PublicationDate>May 2006</PublicationDate>
+      <Classification>K1 L26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>916</BibliographicNoticeId>
+      <Title>Les opérations terroristes réseaucentriques</Title>
+      <Author>Gagnon, Benoît</Author>
+      <Publication>Criminologie</Publication>
+      <VolumePage>39:23-42</VolumePage>
+      <PublicationDate>no. 1 2006</PublicationDate>
+      <Classification>HV6002 A28</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>801</BibliographicNoticeId>
+      <Title>Lessons learned from terrorist investigation in the United Kingdom</Title>
+      <Author>Clarke, Peter</Author>
+      <Publication>The RUSI journal</Publication>
+      <VolumePage>151:22-6</VolumePage>
+      <PublicationDate>Apr. 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>802</BibliographicNoticeId>
+      <Title>Port security: are new anti-terrorism measures adequate?</Title>
+      <Author>Prah, Pamela M</Author>
+      <Publication>CQ researcher</Publication>
+      <VolumePage>16:337-59</VolumePage>
+      <PublicationDate>Apr. 21, 2006</PublicationDate>
+      <Classification>H35 E352</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>813</BibliographicNoticeId>
+      <Title>Is indefinite detention of terrorist suspects really constitutional?</Title>
+      <Author>Stewart, Hamish</Author>
+      <Publication>UNB law journal</Publication>
+      <VolumePage>54:235-50</VolumePage>
+      <PublicationDate>2005</PublicationDate>
+      <Classification>K25 N66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>814</BibliographicNoticeId>
+      <Title>National security, state secrecy and public accountability</Title>
+      <Author>Gratl, Jason and Andrew Irvine</Author>
+      <Publication>UNB law journal</Publication>
+      <VolumePage>54:251-71</VolumePage>
+      <PublicationDate>2005</PublicationDate>
+      <Classification>K25 N66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>837</BibliographicNoticeId>
+      <Title>Notes on emergency powers in Canada</Title>
+      <Author>Martin, Robert</Author>
+      <Publication>UNB law journal</Publication>
+      <VolumePage>54:161-77</VolumePage>
+      <PublicationDate>2005</PublicationDate>
+      <Classification>K25 N66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>838</BibliographicNoticeId>
+      <Title>Information rights and national security</Title>
+      <Author>Caidi, Nadi and Anthony Ross</Author>
+      <Publication>Government information quarterly</Publication>
+      <VolumePage>22:663-84</VolumePage>
+      <PublicationDate>no. 4 2005</PublicationDate>
+      <Classification>Z688 G6 G683</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>638</BibliographicNoticeId>
+      <Title>Avoiding myths and challenging Minister of Justice Cotler to undo the injustices of our anti-terrorism laws</Title>
+      <Author>Stuart, Don</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>51:11-26</VolumePage>
+      <PublicationDate>Dec. 2005</PublicationDate>
+      <Classification>K3 R4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>639</BibliographicNoticeId>
+      <Title>State secrecy and democratic accountability</Title>
+      <Author>Cohen, Stanley A</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>51:27-52</VolumePage>
+      <PublicationDate>Dec. 2005</PublicationDate>
+      <Classification>K3 R4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>640</BibliographicNoticeId>
+      <Title>Essential liberty or a little temporary safety? The review of the Canadian Anti-Terrorism Act</Title>
+      <Author>Webb, Maureen</Author>
+      <Publication>Criminal law review</Publication>
+      <VolumePage>51:3-101</VolumePage>
+      <PublicationDate>Dec. 2005</PublicationDate>
+      <Classification>K3 R4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>641</BibliographicNoticeId>
+      <Title>Ten ways to improve Canadian anti-terrorism law</Title>
+      <Author>Roach, Kent</Author>
+      <Publication>Criminal law review</Publication>
+      <VolumePage>51:102-25</VolumePage>
+      <PublicationDate>Dec. 2005</PublicationDate>
+      <Classification>K3 R4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>768</BibliographicNoticeId>
+      <Title>Three year review of Canada's anti-terrorism act: the need for greater restraint and fairness, non-discrimination and special advocates</Title>
+      <Author>Roach, Kent</Author>
+      <Publication>UNB law journal</Publication>
+      <VolumePage>54:308-35</VolumePage>
+      <PublicationDate>2005</PublicationDate>
+      <Classification>K25 N66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>800</BibliographicNoticeId>
+      <Title>The chill sets in: national security and the decline of equality rights in Canada</Title>
+      <Author>Bhabha, Faisal</Author>
+      <Publication>UNB law journal</Publication>
+      <VolumePage>54:191-217</VolumePage>
+      <PublicationDate>2005</PublicationDate>
+      <Classification>K25 N66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>173</BibliographicNoticeId>
+      <Title>The Anti-terrorism Bill C-36 : an unnecessary law and order quick fix that permanently stains the Canadian criminal justice system</Title>
+      <Author>Stuart, Don</Author>
+      <Publication>National journal of constitutional law</Publication>
+      <VolumePage>14:153-68</VolumePage>
+      <PublicationDate>Dec. 2002</PublicationDate>
+      <Classification>JL67 H386</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>174</BibliographicNoticeId>
+      <Title>Terrorizing the rule of law : implications of  the Anti-terrorism Act</Title>
+      <Author>Mia, Ziyaad E.</Author>
+      <Publication>National journal of constitutional law</Publication>
+      <VolumePage>14:125-52</VolumePage>
+      <PublicationDate>Dec. 2002</PublicationDate>
+      <Classification>JL67 H386</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>205</BibliographicNoticeId>
+      <Title>Safeguards in and justifications for Canada's new Anti-terrorism Act</Title>
+      <Author>Cohen, Stanley A.</Author>
+      <Publication>National journal of constitutional law</Publication>
+      <VolumePage>14:99-124</VolumePage>
+      <PublicationDate>Dec. 2002</PublicationDate>
+      <Classification>JL67 N386</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>312</BibliographicNoticeId>
+      <Title>In support of Canada's Anti-Terrorism Act: a comparison of Canadian, British, and American anti-terrorism law</Title>
+      <Author>Jenkins, David</Author>
+      <Publication>Saskatchewan law review</Publication>
+      <VolumePage>66:419-54</VolumePage>
+      <PublicationDate>no. 2 2003</PublicationDate>
+      <Classification>K23 A82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>471</BibliographicNoticeId>
+      <Title>Should Canadians be concerned with Canada's anti-terrorism efforts?</Title>
+      <Author>Roach, Kent</Author>
+      <Publication>Opinion Canada</Publication>
+      <VolumePage>7:1-3</VolumePage>
+      <PublicationDate>Mar. 10, 2005</PublicationDate>
+      <Classification>FC98 065</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>472</BibliographicNoticeId>
+      <Title>L'effort antiterroriste du Canada est-il au-dessus de tout reproche?</Title>
+      <Author>Roach, Kent</Author>
+      <Publication>Opinion Canada</Publication>
+      <VolumePage>7:1-3</VolumePage>
+      <PublicationDate>10 mars 2005</PublicationDate>
+      <Classification>FC98 0651</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>128</BibliographicNoticeId>
+      <Title>Investigative hearings under the Anti-Terrorism Act</Title>
+      <Author>Millard, Jeremy</Author>
+      <Publication>University of Toronto Faculty of Law Review</Publication>
+      <VolumePage>60:79-87</VolumePage>
+      <PublicationDate>Winter 2002</PublicationDate>
+      <Classification>K25 N54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>129</BibliographicNoticeId>
+      <Title>A note on the terrorism financing offences in Bill C-36</Title>
+      <Author>Machado, Eunice</Author>
+      <Publication>University of Toronto Faculty of Law Review</Publication>
+      <VolumePage>60:103-114</VolumePage>
+      <PublicationDate>Winter 2002</PublicationDate>
+      <Classification>K25 N54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>130</BibliographicNoticeId>
+      <Title>Amending the Access to Information Act : does national security require proposed amendments of Bill C-36?</Title>
+      <Author>McMahon, Patricia</Author>
+      <Publication>University of Toronto Faculty of Law Review</Publication>
+      <VolumePage>60:89-101</VolumePage>
+      <PublicationDate>Winter 2002</PublicationDate>
+      <Classification>K25 N54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>140</BibliographicNoticeId>
+      <Title>Société sous haute surveillance : la loi canadienne mise en place pour lutter contre le terrorisme introduit des mesures permanentes qui devraient cependant rester exceptionnelles.  Nous risquons de nous habituer à vivre avec des libertés réduites.</Title>
+      <Author>Paradis, André</Author>
+      <Publication>Relations</Publication>
+      <VolumePage>no. 679:19-23</VolumePage>
+      <PublicationDate>sept. 2002</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>171</BibliographicNoticeId>
+      <Title>Finding the right balance</Title>
+      <Author>Morden, Reid</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>23:45-8</VolumePage>
+      <PublicationDate>Sept. 2002</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>172</BibliographicNoticeId>
+      <Title>The recriminalization of dissent</Title>
+      <Author>Clarke, Tony</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>23:49-50</VolumePage>
+      <PublicationDate>Sept. 2002</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>47</BibliographicNoticeId>
+      <Title>G-men east of Suez: a serious anti-terrorism policy would unleash the military, not deploy the Justice Department</Title>
+      <Author>Gerecht, Reuel Marc</Author>
+      <Publication>Weekly standard</Publication>
+      <VolumePage>6:26-8</VolumePage>
+      <PublicationDate>Oct. 30, 2000</PublicationDate>
+      <Classification>E839.5 W44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>48</BibliographicNoticeId>
+      <Title>Understanding the new terrorism</Title>
+      <Author>Juergensmeyer, Mark</Author>
+      <Publication>Current history</Publication>
+      <VolumePage>99:158-63</VolumePage>
+      <PublicationDate>Apr. 2000</PublicationDate>
+      <Classification>D410 C87</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>49</BibliographicNoticeId>
+      <Title>Border crackdown: the arrest of suspected terrorists crossing from Canada increases pressure for tighter controls at U.S. entry points</Title>
+      <Author>Philips, Andrew</Author>
+      <Publication>Maclean</Publication>
+      <VolumePage>113:22-4</VolumePage>
+      <PublicationDate>Jan. 10, 2000</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>51</BibliographicNoticeId>
+      <Title>Backlash : terrorism and civil liberties</Title>
+      <Author>Small, Doug</Author>
+      <Publication>National</Publication>
+      <VolumePage>10:15-18, 24</VolumePage>
+      <PublicationDate>Dec. 2001</PublicationDate>
+      <Classification>K14 A85</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>69</BibliographicNoticeId>
+      <Title>Federalism and the battle over counterterrorist law : state sovereignty, criminal law enfrorcement and national security</Title>
+      <Author>Donohue, Laura K. and Juliette N. Kayyem</Author>
+      <Publication>Studies in conflict and terrorism</Publication>
+      <VolumePage>25:1-18</VolumePage>
+      <PublicationDate>Jan./Feb. 2002</PublicationDate>
+      <Classification>JX1 S88</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>81</BibliographicNoticeId>
+      <Title>Bill C-36, hate, the Internet and Internet service providers.</Title>
+      <Author>Symons, Elisabeth</Author>
+      <Publication>Information and technology: recent developments for professionals.</Publication>
+      <VolumePage>6: 10-11</VolumePage>
+      <PublicationDate>May 2002</PublicationDate>
+      <Classification>HC 79 I55 I535</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>41</BibliographicNoticeId>
+      <Title>America and the new terrorism</Title>
+      <Author>Simon, Steven and Daniel Benjamin</Author>
+      <Publication>Survival</Publication>
+      <VolumePage>42:59-75</VolumePage>
+      <PublicationDate>Spring 2000</PublicationDate>
+      <Classification>D410 S87</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>42</BibliographicNoticeId>
+      <Title>Securing Internet society : toward an international regime for information assurance</Title>
+      <Author>Valeri, Lorenzo</Author>
+      <Publication>Studies in conflict and terrorism</Publication>
+      <VolumePage>23:129-46</VolumePage>
+      <PublicationDate>Apr./June 2000</PublicationDate>
+      <Classification>JX1 S88</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>43</BibliographicNoticeId>
+      <Title>Terrorizing democracies</Title>
+      <Author>Waxman, Dov</Author>
+      <Publication>Washington quarterly</Publication>
+      <VolumePage>23:15-19</VolumePage>
+      <PublicationDate>Winter 2000</PublicationDate>
+      <Classification>JX1 W37</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>44</BibliographicNoticeId>
+      <Title>Information age terrorism</Title>
+      <Author>Arquilla, John, David Ronfeldt and Michele Zanini</Author>
+      <Publication>Current history</Publication>
+      <VolumePage>99:179-85</VolumePage>
+      <PublicationDate>Apr. 2000</PublicationDate>
+      <Classification>D410 C87</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>45</BibliographicNoticeId>
+      <Title>Counterterrorism and the Constitution</Title>
+      <Author>Dempsey, James X</Author>
+      <Publication>Current history</Publication>
+      <VolumePage>99:164-8</VolumePage>
+      <PublicationDate>Apr. 2000</PublicationDate>
+      <Classification>D410 C87</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>46</BibliographicNoticeId>
+      <Title>The nightmare of bioterrorism</Title>
+      <Author>Garrett, Laurie</Author>
+      <Publication>Foreign affairs</Publication>
+      <VolumePage>80:76-89</VolumePage>
+      <PublicationDate>Jan./Feb. 2001</PublicationDate>
+      <Classification>D410 F67</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3427</BibliographicNoticeId>
+      <Title>Paradigm shift : a commentary on the 'Quebec Secession Reference'.</Title>
+      <Author>Benoit, Paul</Author>
+      <Publication>Journal of parliamentary and political law</Publication>
+      <VolumePage>18 (3): p.617-638,</VolumePage>
+      <PublicationDate>November 2024</PublicationDate>
+      <Classification>Radar 20241105</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16092</CommitteeOrganizationId>
+      <CommitteeNameEn>The Special Senate Committee on Bill C-36</CommitteeNameEn>
+      <CommitteeNameFr>Comité spécial sénatorial sur le projet de loi C-36</CommitteeNameFr>
+      <CommitteeAcronym>
+      </CommitteeAcronym>
+      <CommitteeName>The Special Senate Committee on Bill C-36</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
