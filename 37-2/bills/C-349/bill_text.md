@@ -1,0 +1,23 @@
+NAVIGATION END
+
+| C-349 Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002-2003 |  | C-349 Deuxième session, trente-septième législature, 51 Elizabeth II, 2002-2003 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-349 |  | PROJET DE LOI C-349 |
+| An Act to amend the Supreme Court Act |  | Loi modifiant la Loi sur la Cour suprême |
+| First reading, February 3, 2003 |  | Première lecture le 3 février 2003 |
+
+[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m0,0l0,21600,21600,21600,21600,0xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif] [if gte vml 1]></o:wrapblock><![endif]
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Supreme Court Act in two ways: (a) it requires the Supreme Court of Canada, in hearing constitutional cases, to consider evidence from parliamentary and other sources to assist the Court in understanding what the legislation was intended to do; and (b) it restricts the effect of any decision of the Court on a constitutional issue that is not unanimous to the particular case being decided. | Le texte apporte les deux modifications suivantes à la Loi sur la Cour suprême : a) il oblige la Cour suprême du Canada à tenir compte, dans les affaires constitutionnelles, des éléments de preuve provenant de sources parlementaires et autres pour l'aider à comprendre l'intention visée du texte législatif en cause; b) il limite l'effet d'un jugement non unanime de la Cour sur une question constitutionnelle au cas d'espèce. |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002-2003 House of Commons of Canada Bill C-349 |  | 2e session, 37e législature, 51 Elizabeth II, 2002-2003 Chambre des communes du Canada Projet de loi C-349 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Supreme Court Act |  | Loi modifiant la Loi sur la Cour suprême |  |  |
+| R.S., c. S-26 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. S-26 |
+|  | 1. The Supreme Court Act is amended by adding the following after section 52: |  | 1. La Loi sur Cour suprême est modifiée par adjonction, après l'article 52, de ce qui suit : |  |  |
+|  | judgment on constitutional validity of any act |  | jugement sur la validité constitutionnelle d'une loi |  |  |
+| Consideration of extrinsic materials | 52.1 Where the question heard and considered by the Court concerns the constitutional validity of any Act or any provision of an Act, the Court shall consider any parliamentary or other extrinsic materials that deal with the purpose or intended effect of the Act or the particular provision being considered, such as commission of inquiry or law commission reports, debates of the House of Commons or of the Senate, or debates of the legislature of any province. |  | 52.1 Si la question dont elle est saisie touche à la validité constitutionnelle d'une loi ou de l'une de ses dispositions, la Cour tient compte des documents parlementaires et autres documents externes qui ont trait à l'objet ou à l'effet visé de la loi ou de la disposition, notamment les rapports de commissions d'enquête ou de commissions du droit et les comptes rendus des débats de l'une ou l'autre chambre du Parlement ou des législatures des provinces. |  | Examen de documents externes |
+| Effect of non-unanimous judgment | 52.2 Where the question heard and considered by the Court concerns the constitutional validity of any Act or any provision of an Act and the judgment of the Court is not unanimous, the decision of the Court shall be deemed to be applicable only to the particular case being heard and not considered a precedent in relation to other circumstances in which the same constitutional issue arises. |  | 52.2 Si la question dont la Cour est saisie touche à la validité constitutionnelle d'une loi ou de l'une de ses dispositions et que le jugement rendu n'est pas unanime, la décision de la Cour est réputée n'être applicable qu'en l'espèce et ne fait pas jurisprudence pour les autres cas mettant en cause la même question constitutionnelle. |  | Effet d'un jugement non unanime |
