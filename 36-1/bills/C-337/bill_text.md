@@ -1,0 +1,10 @@
+Bill C-337 PublicationID : 2330238 Table of ContentsSummaryBILL C-337
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment provides a definition of the term ``child'' to ensure that it is interpreted consistently with the definition proposed by the United Nations Convention on the Rights of the Child as a person who is less than eighteen years of age. |  |
+
+|  | 1st Session, 36th Parliament, 46-47 Elizabeth II, 1997-98 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-337 An Act to amend the Corrections and Conditional Release Act (definition of ``child'') Preamble WHEREAS, on November 20, 1989, the Convention on the Rights of the Child was adopted by the United Nations General Assembly; WHEREAS the Convention was ratified by Canada on December 31, 1991; AND WHEREAS the Convention proposes a definition of ``child'' that should be applied uniformly throughout federal legislation; 1992, c. 20; 1993, c. 34; 1995, cc. 22, 39, 42; 1996, c. 19; 1997, c. 17 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 99(1) of the *Corrections and Conditional Release Act* is amended by adding the following in alphabetical order:** ``child'' « *enfant* » ``child'' means a person who is less than eighteen years of age;
