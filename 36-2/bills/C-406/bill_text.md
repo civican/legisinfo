@@ -1,0 +1,11 @@
+Bill C-406 PublicationID : 2330759 Table of ContentsSummaryBILL C-406
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Criminal Code and designates several offences under the Immigration Act as proceeds of crime offences. The offences so designated concern persons who induce, encourage, aid or organize the unlawful entry of persons into Canada. |  |
+|  | Under the Criminal Code, where an offender has been convicted of an enterprise crime offence and the court imposing sentence on the offender, on application of the Attorney General, is satisfied that any property is proceeds of crime and that the enterprise crime offence was committed in relation to that property, the court shall order that the property be forfeited to Her Majesty. |  |
+
+|  | 2nd Session, 36th Parliament, 48 Elizabeth II, 1999 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-406 An Act to amend the Criminal Code (proceeds of crime) R.S., c. C-46; R.S., cc. 2, 11, 27, 31, 47, 51, 52 (1st Supp.), cc. 1, 24, 27, 35 (2nd Supp.), cc. 10, 19, 30, 34 (3rd Supp.), cc. 1, 23, 29, 30, 31, 32, 40, 42, 50 (4th Supp.); 1989, c. 2; 1990, cc. 15, 16, 17, 44; 1991, cc. 1, 4, 28, 40, 43; 1992, cc. 1, 11, 20, 21, 22, 27, 38, 41, 47, 51; 1993, cc. 7, 25, 28, 34, 37, 40, 45, 46; 1994, cc. 12, 13, 38, 44; 1995, cc. 5, 19, 22, 27, 29, 32, 39, 42; 1996, cc. 7, 8, 16, 19, 31, 34; 1997, cc. 9, 16, 17, 18, 23, 30, 39; 1998, cc. 7, 9, 15, 30, 34, 35, 37; 1999, c. 5 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. (1) The definition ``enterprise crime offence'' in section 462.3 of the *Criminal Code* is amended by adding the following after paragraph (*b*.1):** (*b*.2) an offence against paragraphs 94(1)(*j*), (*m*) or (*n*) or sections 94.1, 94.2, 94.4, 94.5, 96 and 97 of the *Immigration Act*; **(2) Paragraph (c) of the definition ``enterprise crime offence'' in section 462.3 of the Act is replaced by the following:** (*c*) a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (*a*), (*a*.1), (*b*), (*b*.1) or (*b*.2) ;
