@@ -1,4 +1,4 @@
-Bill C-34 PublicationID : 2330942 Table of ContentsSummaryBILL C-34SHORT TITLETRANSPORTATION APPEAL TRIBUNAL OF CANADATRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAeronautics ActCanada Shipping ActTribunal Hearings Related to  the Competency and Conduct of OfficersCanada Transportation ActFinancial Administration ActMarine Transportation Security ActADMINISTRATIVE PENALTIESInterpretationAssurances of Compliance and Notices of ViolationChoice of ProceedingsRecovery of DebtsRules of Law about ViolationsGeneral ProvisionsRegulationsPublic Sector Compensation ActPublic Service Staff Relations ActRailway Safety ActCOORDINATING AMENDMENTSAmendment to This ActBill C-14COMING INTO FORCETABLE OF PROVISIONS
+Bill C-34 PublicationID : 2330943 Table of ContentsSummaryBILL C-34SHORT TITLETRANSPORTATION APPEAL TRIBUNAL OF CANADATRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAeronautics ActCanada Shipping ActTribunal Hearings Related to the Competency and Conduct of OfficersCanada Transportation ActFinancial Administration ActMarine Transportation Security ActADMINISTRATIVE PENALTIESInterpretationAssurances of Compliance and Notices of ViolationChoice of ProceedingsRecovery of DebtsRules of Law about ViolationsGeneral ProvisionsRegulationsPublic Sector Compensation ActPublic Service Staff Relations ActRailway Safety ActCOORDINATING AMENDMENTSAmendment to This ActBill C-14COMING INTO FORCETABLE OF PROVISIONS
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -7,193 +7,6 @@ Bill C-34 PublicationID : 2330942 Table of ContentsSummaryBILL C-34SHORT TITLETR
 |  | This enactment establishes the Transportation Appeal Tribunal of Canada, which replaces the Civil Aviation Tribunal established under Part IV of the Aeronautics Act, and extends the new Tribunal's jurisdiction to the marine and railway sectors. |  |
 |  | The enactment provides for the appointment of members to the Tribunal, and sets out the general powers and authorities of the Tribunal to conduct its affairs. It also provides for an independent process of review by the Tribunal of administrative enforcement actions - including the suspension and cancellation of licences, certificates and other documents of entitlement, and the imposition of monetary penalties - taken under various federal transportation Acts. The Tribunal will also hear appeals from determinations made on review. |  |
 |  | The enactment amends the Aeronautics Act, the Canada Shipping Act, the Canada Transportation Act, the Marine Transportation Security Act and the Railway Safety Act to establish the jurisdiction and decision-making authorities of the Tribunal under those Acts. |  |
-|  | EXPLANATORY NOTES |  |
-|  | Aeronautics Act |  |
-|  | Clause 33: The definition ``Tribunal'' in subsection 3(1) reads as follows: |  |
-|  | ``Tribunal'' means the Civil Aviation Tribunal established by subsection 29(1). |  |
-|  | Clause 34: Section 6.72 is new. Sections 6.6 to 6.8 read as follows: |  |
-|  | 6.6 In sections 6.7 to 7.2, ``Canadian aviation document'' includes any privilege accorded by a Canadian aviation document. |  |
-|  | 6.7 Sections 6.8 to 7.2 do not apply to a member of the Canadian Armed Forces acting in that capacity or to any other person in relation to a Canadian aviation document issued in respect of a military aircraft, military aerodrome or military facility. |  |
-|  | 6.71 (1) The Minister may refuse to issue a Canadian aviation document, where the Minister is of the opinion that the public interest and, in particular, the record in relation to aviation of the applicant or of any principal of the applicant warrant it. |  |
-|  | (2) The Governor in Council may make regulations defining the word ``principal'' for the purposes of subsection (1). |  |
-|  | 6.8 In addition to any ground of suspension, cancellation or refusal of renewal referred to in sections 6.9 to 7.1, the Minister may suspend, cancel or refuse to renew a Canadian aviation document in such circumstances and on such grounds as the Governor in Council may by regulation prescribe. |  |
-|  | Clause 35: Subsection 6.9(7.1) is new. Subsection 6.9(8) reads as follows: |  |
-|  | (8) On a review under this section of a decision of the Minister to suspend or cancel a Canadian aviation document, the member of the Tribunal conducting the review may determine the matter by confirming the suspension or cancellation or substituting the member's decision for the decision of the Minister. |  |
-|  | Clause 36: (1) New. |  |
-|  | (2) Subsections 7(7) and (8) read as follows: |  |
-|  | (7) On a review under this section of a decision of the Minister to suspend a Canadian aviation document, the member of the Tribunal conducting the review may determine the matter by confirming the suspension or substituting the member's decision for the decision of the Minister. |  |
-|  | (8) Where |  |
-|  | (a) no appeal from a determination confirming a suspension under subsection (7) is taken under section 7.2 within the time limited for doing so under that section, or |  |
-|  | (b) the Tribunal has, on an appeal under section 7.2, confirmed the suspension of a Canadian aviation document under this section, |  |
-|  | the holder of the document or the owner or operator of any aircraft, airport or other facility in respect of which the document was issued may, in writing, request the Minister to reconsider whether the immediate threat to aviation safety referred to in subsection (1) that occasioned the suspension continues to exist or is likely to occur as described in that subsection. |  |
-|  | Clause 37: (1) Subsection 7.1(1) reads as follows: |  |
-|  | 7.1 (1) Where the Minister decides |  |
-|  | (a) to suspend, cancel or refuse to renew a Canadian aviation document on medical grounds, |  |
-|  | (b) to suspend or cancel a Canadian aviation document on the grounds that the holder of the document is incompetent or the holder or any aircraft, airport or other facility in respect of which the document was issued ceases to have the qualifications necessary for the issuance of the document or to meet or comply with the conditions subject to which the document was issued, or |  |
-|  | (c) to suspend or cancel a Canadian aviation document because the Minister is of the opinion that the public interest and, in particular, the record in relation to aviation of the holder of the Canadian aviation document or of any principal of the holder, as defined in regulations made under subsection 6.71(2), warrant it, |  |
-|  | the Minister shall, by personal service or by registered mail sent to the holder or to the owner or operator of the aircraft, airport or facility, as the case may be, at the latest known address of the holder, owner or operator, notify the holder, owner or operator of the Minister's decision. |  |
-|  | (2) The relevant portion of subsection 7.1(2) reads as follows: |  |
-|  | (2) A notice under subsection (1) shall be in such form as the Governor in Council may by regulation prescribe and shall, in addition to any other information that may be so prescribed, |  |
-|  | (a) indicate, as the case requires, |  |
-|  | (i) the medical grounds on which the decision of the Minister is based, |  |
-|  | (3) New. |  |
-|  | (4) Subsections 7.1(7) to (9) read as follows: |  |
-|  | (7) On a review under this section of a decision of the Minister to refuse to renew a Canadian aviation document on medical grounds, the burden of establishing that the Minister's decision in the matter is unjustified is on the person requesting the review. |  |
-|  | (8) On a review under this section of a decision of the Minister to suspend, cancel or refuse to renew a Canadian aviation document, the member of the Tribunal conducting the review may determine the matter by confirming the suspension, cancellation or refusal to renew or by referring the matter back to the Minister for reconsideration. |  |
-|  | (9) Where a matter of suspension or cancellation of or refusal to renew a Canadian aviation document is referred back to the Minister for reconsideration under subsection (8), |  |
-|  | (a) the suspension or cancellation shall cease to be of any force or effect until the Minister decides otherwise as a consequence of the reconsideration; or |  |
-|  | (b) the Minister shall, as soon as practicable after the referral of the matter back to the Minister if the document concerned has expired, renew the document that he had refused to renew unless the Minister decides not to renew the document as a consequence of the reconsideration. |  |
-|  | Clause 38: Section 7.21 is new. Section 7.2 reads as follows: |  |
-|  | 7.2 (1) The Minister or any person affected by the determination of a member of the Tribunal under subsection 6.9(8) or 7(7) or any person, other than the Minister, affected by the determination of a member of the Tribunal under subsection 7.1(8) may, within ten days after the determination, appeal the determination to the Tribunal. |  |
-|  | (2) The member of the Tribunal from whose determination an appeal is taken shall not be a member of the panel of members appointed to hear the appeal. |  |
-|  | (3) An appeal to the Tribunal shall be on the merits based on the record of the proceedings of the member of the Tribunal from whose determination the appeal is taken but the Tribunal shall allow oral argument and, if it deems it necessary for the purposes of the appeal, shall hear evidence not previously available. |  |
-|  | (4) On an appeal from the determination of a member of the Tribunal under subsection 7.1(8) in respect of a refusal to renew a Canadian aviation document on medical grounds, the burden of establishing that the Minister's decision in the matter is unjustified is on the appellant. |  |
-|  | (5) The Tribunal may dispose of an appeal from the determination of a member of the Tribunal under |  |
-|  | (a) subsection 6.9(8) or 7(7), by dismissing it or allowing it and in allowing the appeal the Tribunal may substitute its decision for the determination appealed against; or |  |
-|  | (b) subsection 7.1(8), by dismissing it or referring the matter back to the Minister for reconsideration. |  |
-|  | Clause 39: Sections 7.91 and 7.92 are new. Sections 7.7 to 7.9 read as follows: |  |
-|  | 7.7 (1) Where the Minister believes on reasonable grounds that a person has contravened a designated provision, the Minister shall notify the person of the allegations against the person in such form as the Governor in Council may by regulation prescribe, specifying in the notice, in addition to any other information that may be so prescribed, |  |
-|  | (a) subject to any regulations made under paragraph 7.6(1)(b), the amount that is determined by the Minister, in accordance with such guidelines as the Minister may make for the purpose, to be the amount that must be paid to the Minister by the person as the penalty for the contravention in the event that the person does not wish to appear before a member of the Tribunal to make representations in respect of the allegations; and |  |
-|  | (b) the time, being not less than thirty days after the date the notice is served or sent, at or before which and the place at which the amount is required to be paid in the event referred to in paragraph (a). |  |
-|  | (2) A notice under subsection (1) shall be served personally or by ordinary mail sent to the latest known address of the person to whom the notice relates. |  |
-|  | 7.8 (1) Where a person served with a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out therein, the Minister shall accept the amount as and in complete satisfaction of the amount of penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention. |  |
-|  | (2) Where a person served with a notice under subsection 7.7(1) fails to pay the amount specified in the notice in accordance with the requirements set out therein, the Minister shall, within fifteen days after the time referred to in paragraph 7.7(1)(b), forward a copy of the notice to the Tribunal. |  |
-|  | 7.9 (1) On receipt of the copy of the notice forwarded by the Minister under subsection 7.8(2), the Tribunal shall |  |
-|  | (a) in writing, served personally or by registered or certified mail, request the person to whom the notice was sent to appear before a member of the Tribunal at the time and place set out in the request to hear the allegations referred to in subsection 7.7(1); and |  |
-|  | (b) in writing, advise the Minister of the time and place set out in the request referred to in paragraph (a). |  |
-|  | (2) Where a person served with a request under subsection (1) fails to appear before the member of the Tribunal at the time and place set out in the request, the member of the Tribunal shall consider all the information that is presented to him by the Minister in relation to the contravention referred to in the request. |  |
-|  | (3) Where, at the conclusion of the proceedings in respect of allegations against a person referred to in subsection (2), the member of the Tribunal determines that |  |
-|  | (a) the person has not contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall forthwith inform the person and the Minister of the determination and, subject to section 8.1, no further proceeding under this Part shall be taken against the person in respect of the alleged contravention; or |  |
-|  | (b) the person has contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall forthwith |  |
-|  | (i) issue to the Minister a certificate in such form as the Governor in Council may by regulation prescribe, setting out the determination of the member and setting out therein the amount that was specified in the notice that was sent to the person under subsection 7.7(1) in respect of the contravention, and |  |
-|  | (ii) by registered or certified mail, send to the person at the person's latest known address a copy of the certificate issued under subparagraph (i). |  |
-|  | (4) Where a person served with a request under subsection (1) appears before the member of the Tribunal at the time and place set out in the request, the member of the Tribunal shall provide the Minister and the person with a full opportunity consistent with procedural fairness and natural justice to present evidence before the member of the Tribunal and make representations in relation to the alleged contravention. |  |
-|  | (5) On a proceeding before a member of the Tribunal under subsection (4), |  |
-|  | (a) the burden of proving that the person appearing before the member has contravened the designated provision that the person is alleged to have contravened is on the Minister; and |  |
-|  | (b) the person is not required and shall not be compelled to give any evidence or testimony in the matter. |  |
-|  | Clause 40: The relevant portion of section 8 reads as follows: |  |
-|  | 8. Where, at the conclusion of the proceedings in respect of allegations against a person referred to in subsection 7.9(4), the member of the Tribunal determines that |  |
-|  | Clause 41: Section 8.1 reads as follows: |  |
-|  | 8.1 (1) The Minister or any person affected by the determination of a member of the Tribunal under subsection 7.9(3) or section 8 may, within ten days after the determination, appeal the determination to the Tribunal. |  |
-|  | (2) The member of the Tribunal from whose determination an appeal is taken shall not be a member of the panel of members of the Tribunal appointed to hear the appeal. |  |
-|  | (3) An appeal to the Tribunal shall be on the merits based on the record of the proceedings of the member of the Tribunal from whose determination the appeal is taken but the Tribunal shall allow oral argument and, if it deems it necessary for the purposes of the appeal, shall hear evidence not previously available. |  |
-|  | (4) The Tribunal may dispose of the appeal by dismissing it or allowing it and in allowing the appeal, the Tribunal may substitute its decision for the determination appealed against. |  |
-|  | (5) Where the Tribunal finds on an appeal that a person has contravened the designated provision that the person is alleged to have contravened, the Tribunal shall forthwith inform the person of the finding and, subject to any regulations made under paragraph 7.6(1)(b), of the amount determined by the Tribunal to be payable by the person in respect of the contravention and, where the amount is not paid to the Tribunal by or on behalf of the person within such time as the Tribunal may allow, the Tribunal shall issue to the Minister a certificate in such form as the Governor in Council may by regulation prescribe, setting out the amount required to be paid by the person. |  |
-|  | Clause 42: Subsection 8.2(1) reads as follows: |  |
-|  | 8.2 (1) Where the time limit for an appeal under subsection 8.1(1) has expired or an appeal taken under section 8.1 has been dismissed, on production in the superior court of any province, a certificate issued under subsection 7.9(3), section 8 or subsection 8.1(5) shall be registered in the court and when registered has the same force and effect, and all proceedings may be taken thereon, as if the certificate were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
-|  | Clause 43: Subsection 8.3(3) reads as follows: |  |
-|  | (3) Subsections 7.1(3) to (9) and section 7.2 apply, with such modifications as the circumstances require, in respect of a decision of the Minister referred to in subsection (2) of this section. |  |
-|  | Clause 44: Part IV reads as follows: |  |
-|  | PART IV |  |
-|  | CIVIL AVIATION TRIBUNAL |  |
-|  | 29. (1) There is hereby established a tribunal to be known as the Civil Aviation Tribunal consisting of a Chairman, a Vice-Chairman and such other members as are from time to time appointed by the Governor in Council. |  |
-|  | (2) The Governor in Council shall appoint as members of the Tribunal persons who have knowledge and experience in aeronautics. |  |
-|  | (3) The Chairman and the Vice-Chairman are each full-time members of the Tribunal and the other members may be appointed as full-time or part-time members. |  |
-|  | (4) A member of the Tribunal shall be appointed to hold office during good behaviour for a term not exceeding seven years and may be removed for cause by the Governor in Council. |  |
-|  | (5) A member of the Tribunal is eligible to be re-appointed on the expiration of a first or subsequent term of office. |  |
-|  | 30. (1) The Chairman is the chief executive officer of the Tribunal and has supervision over and direction of the work and staff of the Tribunal including |  |
-|  | (a) the apportionment of work among the members thereof and the assignment of members to hear matters brought before the Tribunal and, where the Tribunal sits in panels, the assignment of members to panels and to preside over panels; and |  |
-|  | (b) generally, the conduct of the work of the Tribunal and the management of its internal affairs. |  |
-|  | (2) In the event of the absence or incapacity of the Chairman of the Tribunal or if the office of Chairman is vacant, the Vice-Chairman has and may exercise and perform all the powers, duties and functions of the Chairman. |  |
-|  | 31. (1) Each full-time member of the Tribunal shall be paid such salary as is fixed by the Governor in Council and each part-time member is entitled to be paid such fees or other remuneration for that member's services as may be fixed by the Governor in Council. |  |
-|  | (2) Each member of the Tribunal is entitled to be paid reasonable travel and living expenses incurred by the member in the course of the member's duties under this Act while absent from his ordinary place of residence. |  |
-|  | 32. (1) A full-time member of the Tribunal shall not accept or hold any office, membership, employment or interest or engage in any business that the Governor in Council may declare to be inconsistent with the proper performance of the duties and functions of a full-time member of the Tribunal. |  |
-|  | (2) Where any interest prohibited under subsection (1) vests in a full-time member of the Tribunal by gift, will, succession, settlement or otherwise, the member shall forthwith disclose the interest to the Governor in Council and, within three months after the disclosure, dispose of the interest to the satisfaction of the Governor in Council unless he ceases to be a full-time member within that time. |  |
-|  | (3) Where a part-time member of the Tribunal who is assigned to hear or is hearing any matter before the Tribunal, either alone or as a member of a panel, holds any pecuniary or other interest that could be inconsistent with the proper performance of his duties and functions in relation to the matter, the member shall forthwith disclose that interest to the Chairman of the Tribunal and is ineligible to hear, or to continue to hear, the matter. |  |
-|  | (4) For the purposes of subsection (3), the Governor in Council may issue guidelines to part-time members of the Tribunal concerning the nature of the interests that could be inconsistent with the proper performance of their duties and functions in relation to matters before the Tribunal. |  |
-|  | 33. (1) The principal office of the Tribunal shall be in the National Capital Region described in the schedule to the National Capital Act. |  |
-|  | (2) The Tribunal or any member thereof shall sit at such times and at such places in Canada as the Chairman of the Tribunal considers necessary for the proper performance of its functions. |  |
-|  | (3) The Tribunal may, with the approval of the Governor in Council, make rules not inconsistent with this Act governing the carrying out of the affairs of the Tribunal and the practice and procedure in connection with matters dealt with by it. |  |
-|  | 34. (1) Such employees as are necessary for the proper conduct of the work of the Tribunal shall be appointed in accordance with the Public Service Employment Act. |  |
-|  | (2) Employees appointed under subsection (1) shall be deemed to be employed in the Public Service for the purposes of the Public Service Superannuation Act. |  |
-|  | (3) The Tribunal may appoint and, subject to the approval of the Treasury Board, fix the remuneration of experts or persons having technical or special knowledge to assist the Tribunal in any matter in an advisory capacity. |  |
-|  | 35. The Tribunal shall, not later than June 30 in each fiscal year, submit to Parliament, through such member of the Queen's Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this section, a report of its activities during the preceding fiscal year and that Minister shall cause each such report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister receives it. |  |
-|  | 36. (1) Subject to subsection (2), every appeal to the Tribunal under this Act from a determination of a member of the Tribunal shall be heard, determined and disposed of by a panel of three members. |  |
-|  | (2) The Chairman of the Tribunal may, if the Chairman considers it appropriate, direct that an appeal to the Tribunal be heard by a panel of more than three members or, with the consent of the parties, by one member alone. |  |
-|  | (3) A decision of a majority of the members of a panel is a decision of the panel. |  |
-|  | 37. (1) Subject to subsection (5), the Tribunal or a member thereof is not bound by any legal or technical rules of evidence in conducting any matter that comes before it or the member and all such matters shall be dealt with by the Tribunal or member as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit. |  |
-|  | (2) Any person appearing before the Tribunal or any member thereof may appear in person or by agent. |  |
-|  | (3) Matters before the Tribunal or a member thereof shall be heard in public unless the Tribunal or member is satisfied that a public hearing would not be in the public interest, in which case the hearing or any part thereof may be held in private. |  |
-|  | (4) For the purposes of this Act, the Tribunal and each member thereof has and may exercise the powers of a person appointed as a commissioner under Part I of the Inquiries Act. |  |
-|  | (5) The Tribunal or a member thereof may not receive or accept as evidence anything that would be inadmissible in a court by reason of any privilege under the law of evidence. |  |
-|  | (6) The Tribunal or a member thereof shall, on request by a party to a proceeding before the Tribunal or member, furnish the party with the reasons in writing for the determination or decision of the Tribunal or member. |  |
-|  | (7) No costs may be awarded by the Tribunal or a member thereof on the disposition of any matter under this Act. |  |
-|  | (8) Proceedings before the Tribunal or a member thereof shall be recorded and the record shall show all evidence taken and all determinations and findings made in respect of the proceedings. |  |
-|  | (9) A decision of the Tribunal on an appeal under this Act is final and binding on the parties to the appeal. |  |
-|  | Canada Shipping Act |  |
-|  | Clause 46: New. |  |
-|  | Clause 47: Section 120 reads as follows: |  |
-|  | 120. (1) Where the Minister believes on reasonable grounds that the holder of a certificate granted under this Part is incapacitated in respect of the performance of his duties as a certificated master or seaman by reason of his not meeting the medical fitness standards prescribed under paragraph 110(1)(c), the Minister may cause an inquiry to be held. |  |
-|  | (2) Subsections 504(2) to (4) apply, with such modifications as the circumstances require, in respect of an inquiry under this section. |  |
-|  | (3) Where, after an inquiry under this section, the Minister is satisfied that the certificated master or seaman is incapacitated in respect of the performance of his duties as such by reason of his not meeting the medical fitness standards prescribed under paragraph 110(1)(c), the Minister may suspend the certificate until such time as the Minister is satisfied that the holder thereof is no longer so incapacitated. |  |
-|  | (4) The Minister shall forthwith notify in writing the holder of a certificate of his decision under subsection (3) and the reasons therefor. |  |
-|  | Clause 48: New. |  |
-|  | Clause 49: New. |  |
-|  | Clause 50: New. |  |
-|  | Clause 51: Sections 504.1 to 504.3 and 505.1 to 505.3 are new. The heading before section 504 and sections 504 and 505 read as follows: |  |
-|  | Inquiries as to the Competency and Conduct of Officers |  |
-|  | 504. (1) The Minister may cause an inquiry to be held if the Minister believes on reasonable grounds that any master, mate or engineer |  |
-|  | (a) is unfit to discharge their duties because of incompetency or misconduct; |  |
-|  | (b) has failed to render any assistance or give any information that is required under sections 568 and 569; or |  |
-|  | (c) while on board a vessel that has contravened any of sections 5.3 to 5.5 of the Coastal Fisheries Protection Act, had knowledge of the contravention at the time it occurred. |  |
-|  | (2) The Minister may either himself appoint a person to hold the inquiry or may direct the inquiry to be held before a judge of the Admiralty Court. |  |
-|  | (3) Where the inquiry is held by a person appointed by the Minister, that person |  |
-|  | (a) shall hold the inquiry with the assistance of a competent legal assistant appointed by the Minister; |  |
-|  | (b) has all the powers of a steamship inspector under this Act; |  |
-|  | (c) shall give any master, mate or engineer against whom a charge is made an opportunity of making his defence either in person or otherwise, and may summon him to appear; |  |
-|  | (d) may make such order with regard to the costs of the inquiry as he thinks just; and |  |
-|  | (e) shall send a report on the case to the Minister. |  |
-|  | (4) Where the inquiry is held by a judge of the Admiralty Court, the inquiry shall be conducted and the results reported in the same manner, and the court has the like powers, as in the case of a formal investigation into a shipping casualty under this Part. |  |
-|  | 505. Where on any inquiry held pursuant to section 504 the Minister is satisfied |  |
-|  | (a) that any master, mate or engineer is incompetent or has been guilty of any act of misconduct, drunkenness or tyranny, |  |
-|  | (a.1) that any master, mate or engineer on board a vessel that has contravened any of sections 5.3 to 5.5 of the Coastal Fisheries Protection Act knew, at the time that the contravention occurred, that the vessel was committing the contravention, |  |
-|  | (b) that the loss or abandonment of or serious damage to any ship or any loss of life was caused by the wrongful act or default of any master, mate or engineer, |  |
-|  | (c) that any master, mate or engineer has been guilty of a criminal offence or has been blamed by any coroner's inquest in respect of the death of any person, or |  |
-|  | (d) that the master or mate, in cases of collision between his vessel and another vessel, has failed without reasonable cause to comply with the requirements of section 568 with regard to rendering assistance or to giving information, |  |
-|  | he may, with respect to either a certificate granted in Canada or a certificate granted in any other Commonwealth country in so far only as concerns its validity in Canada, suspend or cancel the certificate of competency or service of the master or mate or the certificate of the engineer. |  |
-|  | Canada Transportation Act |  |
-|  | Clause 52: (1) and (2) The relevant portion of subsection 180(2) reads as follows: |  |
-|  | (2) Sections 7.8 to 8.2, 36 and 37 of the Aeronautics Act apply to the contravention of a provision, requirement or condition designated under section 177, with such modifications as are necessary, and a reference in any of those provisions or in any document issued under any of those provisions to |  |
-|  | . . . |  |
-|  | (c) ``Minister'' shall be read as a reference to the Agency or, in any provision other than subsection 7.8(1) of the Aeronautics Act, to a person designated by the Agency; |  |
-|  | Marine Transportation Security Act |  |
-|  | Clause 55: (1) The definition ``screening officer'' in subsection 2(1) reads as follows: |  |
-|  | ``screening officer'' means a person designated by the Minister under section 19 as a screening officer for the purposes of this Act; |  |
-|  | (2) New. |  |
-|  | Clause 56: Sections 5 and 6 read as follows: |  |
-|  | 5. The Governor in Council may make regulations respecting the security of marine transportation, including regulations |  |
-|  | (a) for preventing unlawful interference with marine transportation and ensuring that appropriate action is taken where that interference occurs or could occur; |  |
-|  | (b) requiring or authorizing screening for the purpose of protecting persons, goods, vessels and marine facilities; |  |
-|  | (c) respecting the establishment of restricted areas; |  |
-|  | (d) respecting the keeping and preservation of records and documents relating to the security of marine operations, including copies of the regulations, security measures and security rules; |  |
-|  | (e) for requiring the records and documents to be filed with the Minister or provided on request; and |  |
-|  | (f) respecting the protection, preservation and return of any evidence that has been seized under this Act without a warrant or any vessel that has been detained under this Act. |  |
-|  | 6. Every person who contravenes the regulations is guilty of an offence punishable on summary conviction and liable |  |
-|  | (a) in the case of an individual, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding six months or to both; or |  |
-|  | (b) in the case of a corporation, to a fine not exceeding $100,000. |  |
-|  | Clause 57: Sections 19.1 to 19.8 are new. Section 19 reads as follows: |  |
-|  | 19. The Minister may designate persons or classes of persons to act as screening officers for the purposes of this Act or any of its provisions. |  |
-|  | Clause 58: Subsection 28(2) reads as follows: |  |
-|  | (2) The operator of a vessel is liable to be convicted of an offence committed in relation to the vessel by another person, whether or not the other person has been identified, prosecuted or convicted, but no person shall be convicted under this subsection if it is established that, without the operator's consent, the vessel was in the possession of another person at the time of the offence. |  |
-|  | Clause 59: New. |  |
-|  | Railway Safety Act |  |
-|  | Clause 64: (1) New. |  |
-|  | (2) The relevant portion of subsection 4(5) reads as follows: |  |
-|  | (5) For the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
-|  | Clause 65: New. |  |
-|  | Clause 66: (1) New. |  |
-|  | (2) Subsection 31(9) reads as follows: |  |
-|  | (9) Where a railway safety inspector gives an order under this section to a person or railway company, the Minister |  |
-|  | (a) shall, if so requested in writing by the person or railway company, forthwith review the order; and |  |
-|  | (b) may, by order, after completion of the review referred to in paragraph (a), or on the Minister's own initiative, alter or revoke the order. |  |
-|  | Clause 67: New. |  |
-|  | Clause 68: Subsection 32(4) reads as follows: |  |
-|  | (4) An order contained in a notice to a person or railway company under subsection (1), (3) or (3.1) has effect when the person or railway company receives the notice. |  |
-|  | Clause 69: New. |  |
-|  | Clause 70: The relevant portion of section 46 reads as follows: |  |
-|  | 46. The following are not statutory instruments for the purposes of the Statutory Instruments Act: |  |
-|  | . . . |  |
-|  | (d) orders and notices sent under section 31 or 32; |  |
 
 |  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
 | --- | --- |
@@ -221,12 +34,12 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | R.S., c. 33 (1st Supp.), s. 1 | 33. The definition ``Tribunal'' in subsection 3(1) of the Aeronautics Act is replaced by the following: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act. |  |
 | R.S., c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 14 | 34. Sections 6.6 to 6.8 of the Act are replaced by the following: |  |
-| Definition of ``Canadian aviation document'' | 6.6 In sections 6.7 to 7.21 , ``Canadian aviation document'' includes any privilege accorded by a Canadian aviation document. |  |
+| Definition of ``Canadian aviation document'' | 6.6 In sections 6.7 to 7.21, ``Canadian aviation document'' includes any privilege accorded by a Canadian aviation document. |  |
 | Non-applica- tion of certain provisions | 6.7 Sections 6.71 to 7.21 do not apply to a member of the Canadian Armed Forces acting in that capacity or to any other person in relation to a Canadian aviation document issued in respect of a military aircraft, military aerodrome or military facility. |  |
 | Minister may refuse to issue or amend Canadian aviation document | 6.71 (1) The Minister may refuse to issue or amend a Canadian aviation document on the grounds that |  |
 |  | (a) the applicant is incompetent; |  |
 |  | (b) the applicant or any aircraft, aerodrome, airport or other facility in respect of which the application is made does not meet the qualifications or fulfil the conditions necessary for the issuance or amendment of the document; or |  |
-|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the applicant or of any principal of the applicant, as defined in regulations made under paragraph (3)(a) , warrant the refusal . |  |
+|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the applicant or of any principal of the applicant, as defined in regulations made under paragraph (3)(a), warrant the refusal. |  |
 | Notice | (2) The Minister shall, by personal service or by registered or certified mail sent to their latest known address, notify the applicant or the owner or operator of the aircraft, aerodrome, airport or other facility, as the case may be, of a decision made under subsection (1). The notice shall be in a form prescribed by regulation of the Governor in Council and, in addition to any other information that may be prescribed, shall indicate, as the case requires, |  |
 |  | (a) the nature of the incompetence of the applicant; |  |
 |  | (b) the qualifications or conditions referred to in paragraph (1)(b) that are not met or fulfilled, as the case may be; |  |
@@ -239,14 +52,14 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Determina- tion | (4) The member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or by referring the matter back to the Minister for reconsideration. |  |
-| Suspensions, etc., generally | 6.8 In addition to any ground referred to in any of sections 6.71 , 6.9 to 7.1 and 7.21 , the Minister may suspend, cancel or refuse to issue, amend or renew a Canadian aviation document in the circumstances and on the grounds prescribed by regulation of the Governor in Council. |  |
+| Suspensions, etc., generally | 6.8 In addition to any ground referred to in any of sections 6.71, 6.9 to 7.1 and 7.21, the Minister may suspend, cancel or refuse to issue, amend or renew a Canadian aviation document in the circumstances and on the grounds prescribed by regulation of the Governor in Council. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 35. Subsection 6.9(8) of the Act is replaced by the following: |  |
-| Holder, etc. not compelled to testify | (7.1) In a review under this section, a holder, owner or operator referred to in subsection (1) is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determina- tion of Tribunal member | (8) On a review under this section of a decision of the Minister to suspend or cancel a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination . |  |
+| Holder, etc. not compeled to testify | (7.1) In a review under this section, a holder, owner or operator referred to in subsection (1) is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
+| Determina- tion of Tribunal member | (8) On a review under this section of a decision of the Minister to suspend or cancel a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination. |  |
 |  | 36. (1) Section 7 of the Act is amended by adding the following after subsection (2): |  |
 | Effective date of Minister's decision | (2.1) The Minister's decision takes effect on the date of receipt of the notice under subsection (1) by the person on whom it is served or to whom it is sent, unless the notice indicates that the decision is to take effect on a later date. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | (2) Subsections 7(7) and (8) of the Act are replaced by the following: |  |
-| Determina- tion of Tribunal member | (7) On a review under this section of a decision of the Minister to suspend a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination . |  |
+| Determina- tion of Tribunal member | (7) On a review under this section of a decision of the Minister to suspend a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination. |  |
 | Request for reconsideratio n of immediate threat | (8) Where |  |
 |  | (a) no appeal from a determination under subsection (7) confirming the Minister's decision is taken under section 7.2 within the time limited for doing so under that section, or |  |
 |  | (b) an appeal panel has, on an appeal under section 7.2, confirmed the Minister's decision under this section, |  |
@@ -255,7 +68,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Suspension, etc., on other grounds | 7.1 (1) If the Minister decides to suspend, cancel or refuse to renew a Canadian aviation document on the grounds that |  |
 |  | (a) the holder of the document is incompetent, |  |
 |  | (b) the holder or any aircraft, airport or other facility in respect of which the document was issued ceases to meet the qualifications necessary for the issuance of the document or to fulfil the conditions subject to which the document was issued, or |  |
-|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the holder of the document or of any principal of the holder, as defined in regulations made under paragraph 6.71(3)(a) , warrant it, |  |
+|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the holder of the document or of any principal of the holder, as defined in regulations made under paragraph 6.71(3)(a), warrant it, |  |
 |  | the Minister shall, by personal service or by registered or certified mail sent to the holder or the owner or operator of the aircraft, airport or facility, as the case may be, at their latest known address, notify that person of the Minister's decision. |  |
 | 1992, c. 4, s. 15(2) | (2) Subparagraph 7.1(2)(a)(i) of the Act is repealed. |  |
 |  | (3) Section 7.1 of the Act is amended by adding the following after subsection (2): |  |
@@ -269,7 +82,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | (b) a person affected by the determination or the Minister may appeal a determination made under subsection 6.9(8) or 7(7) to the Tribunal. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
-|  | (a) in the case of a determination made under subsection 6.72(4) or 7.1(7) , dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
+|  | (a) in the case of a determination made under subsection 6.72(4) or 7.1(7), dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a determination made under subsection 6.9(8) or 7(7), dismiss the appeal, or allow the appeal and substitute its own decision. |  |
 | Effect of decision pending reconsideratio n | (4) If a decision to suspend or cancel a Canadian aviation document is referred back to the Minister for reconsideration under paragraph (3)(a), the decision of the Minister remains in effect until the reconsideration is concluded. However, the appeal panel, after considering any representations made by the parties, may grant a stay of the decision until the reconsideration is concluded, if it is satisfied that granting a stay would not constitute a threat to aviation safety. |  |
 | Default in payment | 7.21 (1) The Minister may suspend, or refuse to issue, amend or renew, a Canadian aviation document if a certificate under section 7.92, paragraph 8(b) or subsection 8.1(4) has been issued to the Minister in respect of the applicant for, or the holder of, the document or in respect of the owner or operator of an aircraft, aerodrome, airport or other facility to which the document relates. |  |
@@ -278,10 +91,10 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Notice of assessment of monetary penalty | 7.7 (1) If the Minister believes on reasonable grounds that a person has contravened a designated provision, the Minister may decide to assess a monetary penalty in respect of the alleged contravention, in which case the Minister shall, by personal service or by registered or certified mail sent to the person at their latest known address, notify the person of his or her decision. |  |
 | Contents of notice | (2) A notice under subsection (1) shall be in a form prescribed by regulation of the Governor in Council and shall, in addition to any other information that may be prescribed, indicate |  |
 |  | (a) the designated provision that the Minister believes has been contravened; |  |
-|  | (b) subject to any regulations made under paragraph 7.6(1)(b), the amount that is determined by the Minister, in accordance with any guidelines that the Minister may make for the purpose, to be the amount that must be paid to the Minister as the penalty in the event that the person does not wish to appear before a member of the Tribunal assigned to conduct a review to make representations in respect of the alleged contravention ; and |  |
-|  | (c) the address at which, and the date , being thirty days after the notice is served or sent, on or before which, the penalty must be paid or a request for a review must be filed. |  |
+|  | (b) subject to any regulations made under paragraph 7.6(1)(b), the amount that is determined by the Minister, in accordance with any guidelines that the Minister may make for the purpose, to be the amount that must be paid to the Minister as the penalty in the event that the person does not wish to appear before a member of the Tribunal assigned to conduct a review to make representations in respect of the alleged contravention; and |  |
+|  | (c) the address at which, and the date, being thirty days after the notice is served or sent, on or before which, the penalty must be paid or a request for a review must be filed. |  |
 | Option | 7.8 A person who has been served with or sent a notice under subsection 7.7(1) must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty. |  |
-| Payment of specified amount precludes further proceedings | 7.9 If a person who is served with or sent a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out in the notice , the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention. |  |
+| Payment of specified amount precludes further proceedings | 7.9 If a person who is served with or sent a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out in the notice, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention. |  |
 | Request for review of determina- tion | 7.91 (1) A person who is served with or sent a notice under subsection 7.7(1) and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice. |  |
 | Time and place for review | (2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
@@ -289,7 +102,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Person not compelled to testify | (5) A person who is alleged to have contravened a designated provision is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | Certificate | 7.92 If a person fails to pay the amount of the penalty specified in a notice under subsection 7.7(1) within the time specified in the notice and does not file a request for a review under subsection 7.91(1), the person is deemed to have committed the contravention alleged in the notice, and the Minister may obtain from the Tribunal a certificate in a form prescribed by the Governor in Council that indicates the amount of the penalty specified in the notice. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 40. The portion of section 8 of the English version of the Act before paragraph (a) is replaced by the following: |  |
-| Determina- tion by Tribunal member | 8. If , at the conclusion of a review under section 7.91 , the member of the Tribunal who conducts the review determines that |  |
+| Determina- tion by Tribunal member | 8. If, at the conclusion of a review under section 7.91, the member of the Tribunal who conducts the review determines that |  |
 | R.S., c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 22 | 41. Section 8.1 of the Act is replaced by the following: |  |
 | Right of appeal | 8.1 (1) A person affected by the determination or the Minister may, within thirty days after the determination, appeal a determination made under section 8 to the Tribunal. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
@@ -302,12 +115,12 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | R.S., c. 33 (1st Supp.), s. 1 | 33. The definition ``Tribunal'' in subsection 3(1) of the Aeronautics Act is replaced by the following: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act. |  |
 | R.S., c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 14 | 34. Sections 6.6 to 6.8 of the Act are replaced by the following: |  |
-| Definition of ``Canadian aviation document'' | 6.6 In sections 6.7 to 7.21 , ``Canadian aviation document'' includes any privilege accorded by a Canadian aviation document. |  |
+| Definition of ``Canadian aviation document'' | 6.6 In sections 6.7 to 7.21, ``Canadian aviation document'' includes any privilege accorded by a Canadian aviation document. |  |
 | Non-applica- tion of certain provisions | 6.7 Sections 6.71 to 7.21 do not apply to a member of the Canadian Armed Forces acting in that capacity or to any other person in relation to a Canadian aviation document issued in respect of a military aircraft, military aerodrome or military facility. |  |
 | Minister may refuse to issue or amend Canadian aviation document | 6.71 (1) The Minister may refuse to issue or amend a Canadian aviation document on the grounds that |  |
 |  | (a) the applicant is incompetent; |  |
 |  | (b) the applicant or any aircraft, aerodrome, airport or other facility in respect of which the application is made does not meet the qualifications or fulfil the conditions necessary for the issuance or amendment of the document; or |  |
-|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the applicant or of any principal of the applicant, as defined in regulations made under paragraph (3)(a) , warrant the refusal . |  |
+|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the applicant or of any principal of the applicant, as defined in regulations made under paragraph (3)(a), warrant the refusal. |  |
 | Notice | (2) The Minister shall, by personal service or by registered or certified mail sent to their latest known address, notify the applicant or the owner or operator of the aircraft, aerodrome, airport or other facility, as the case may be, of a decision made under subsection (1). The notice shall be in a form prescribed by regulation of the Governor in Council and, in addition to any other information that may be prescribed, shall indicate, as the case requires, |  |
 |  | (a) the nature of the incompetence of the applicant; |  |
 |  | (b) the qualifications or conditions referred to in paragraph (1)(b) that are not met or fulfilled, as the case may be; |  |
@@ -320,14 +133,14 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Determina- tion | (4) The member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or by referring the matter back to the Minister for reconsideration. |  |
-| Suspensions, etc., generally | 6.8 In addition to any ground referred to in any of sections 6.71 , 6.9 to 7.1 and 7.21 , the Minister may suspend, cancel or refuse to issue, amend or renew a Canadian aviation document in the circumstances and on the grounds prescribed by regulation of the Governor in Council. |  |
+| Suspensions, etc., generally | 6.8 In addition to any ground referred to in any of sections 6.71, 6.9 to 7.1 and 7.21, the Minister may suspend, cancel or refuse to issue, amend or renew a Canadian aviation document in the circumstances and on the grounds prescribed by regulation of the Governor in Council. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 35. Subsection 6.9(8) of the Act is replaced by the following: |  |
-| Holder, etc. not compelled to testify | (7.1) In a review under this section, a holder, owner or operator referred to in subsection (1) is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determina- tion of Tribunal member | (8) On a review under this section of a decision of the Minister to suspend or cancel a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination . |  |
+| Holder, etc. not compeled to testify | (7.1) In a review under this section, a holder, owner or operator referred to in subsection (1) is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
+| Determina- tion of Tribunal member | (8) On a review under this section of a decision of the Minister to suspend or cancel a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination. |  |
 |  | 36. (1) Section 7 of the Act is amended by adding the following after subsection (2): |  |
 | Effective date of Minister's decision | (2.1) The Minister's decision takes effect on the date of receipt of the notice under subsection (1) by the person on whom it is served or to whom it is sent, unless the notice indicates that the decision is to take effect on a later date. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | (2) Subsections 7(7) and (8) of the Act are replaced by the following: |  |
-| Determina- tion of Tribunal member | (7) On a review under this section of a decision of the Minister to suspend a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination . |  |
+| Determina- tion of Tribunal member | (7) On a review under this section of a decision of the Minister to suspend a Canadian aviation document, the member of the Tribunal who conducts the review may determine the matter by confirming the Minister's decision or substituting his or her own determination. |  |
 | Request for reconsideratio n of immediate threat | (8) Where |  |
 |  | (a) no appeal from a determination under subsection (7) confirming the Minister's decision is taken under section 7.2 within the time limited for doing so under that section, or |  |
 |  | (b) an appeal panel has, on an appeal under section 7.2, confirmed the Minister's decision under this section, |  |
@@ -336,7 +149,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Suspension, etc., on other grounds | 7.1 (1) If the Minister decides to suspend, cancel or refuse to renew a Canadian aviation document on the grounds that |  |
 |  | (a) the holder of the document is incompetent, |  |
 |  | (b) the holder or any aircraft, airport or other facility in respect of which the document was issued ceases to meet the qualifications necessary for the issuance of the document or to fulfil the conditions subject to which the document was issued, or |  |
-|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the holder of the document or of any principal of the holder, as defined in regulations made under paragraph 6.71(3)(a) , warrant it, |  |
+|  | (c) the Minister is of the opinion that the public interest and, in particular, the aviation record of the holder of the document or of any principal of the holder, as defined in regulations made under paragraph 6.71(3)(a), warrant it, |  |
 |  | the Minister shall, by personal service or by registered or certified mail sent to the holder or the owner or operator of the aircraft, airport or facility, as the case may be, at their latest known address, notify that person of the Minister's decision. |  |
 | 1992, c. 4, s. 15(2) | (2) Subparagraph 7.1(2)(a)(i) of the Act is repealed. |  |
 |  | (3) Section 7.1 of the Act is amended by adding the following after subsection (2): |  |
@@ -350,7 +163,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | (b) a person affected by the determination or the Minister may appeal a determination made under subsection 6.9(8) or 7(7) to the Tribunal. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
-|  | (a) in the case of a determination made under subsection 6.72(4) or 7.1(7) , dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
+|  | (a) in the case of a determination made under subsection 6.72(4) or 7.1(7), dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a determination made under subsection 6.9(8) or 7(7), dismiss the appeal, or allow the appeal and substitute its own decision. |  |
 | Effect of decision pending reconsideratio n | (4) If a decision to suspend or cancel a Canadian aviation document is referred back to the Minister for reconsideration under paragraph (3)(a), the decision of the Minister remains in effect until the reconsideration is concluded. However, the appeal panel, after considering any representations made by the parties, may grant a stay of the decision until the reconsideration is concluded, if it is satisfied that granting a stay would not constitute a threat to aviation safety. |  |
 | Default in payment | 7.21 (1) The Minister may suspend, or refuse to issue, amend or renew, a Canadian aviation document if a certificate under section 7.92, paragraph 8(b) or subsection 8.1(4) has been issued to the Minister in respect of the applicant for, or the holder of, the document or in respect of the owner or operator of an aircraft, aerodrome, airport or other facility to which the document relates. |  |
@@ -359,10 +172,10 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Notice of assessment of monetary penalty | 7.7 (1) If the Minister believes on reasonable grounds that a person has contravened a designated provision, the Minister may decide to assess a monetary penalty in respect of the alleged contravention, in which case the Minister shall, by personal service or by registered or certified mail sent to the person at their latest known address, notify the person of his or her decision. |  |
 | Contents of notice | (2) A notice under subsection (1) shall be in a form prescribed by regulation of the Governor in Council and shall, in addition to any other information that may be prescribed, indicate |  |
 |  | (a) the designated provision that the Minister believes has been contravened; |  |
-|  | (b) subject to any regulations made under paragraph 7.6(1)(b), the amount that is determined by the Minister, in accordance with any guidelines that the Minister may make for the purpose, to be the amount that must be paid to the Minister as the penalty in the event that the person does not wish to appear before a member of the Tribunal assigned to conduct a review to make representations in respect of the alleged contravention ; and |  |
-|  | (c) the address at which, and the date , being thirty days after the notice is served or sent, on or before which, the penalty must be paid or a request for a review must be filed. |  |
+|  | (b) subject to any regulations made under paragraph 7.6(1)(b), the amount that is determined by the Minister, in accordance with any guidelines that the Minister may make for the purpose, to be the amount that must be paid to the Minister as the penalty in the event that the person does not wish to appear before a member of the Tribunal assigned to conduct a review to make representations in respect of the alleged contravention; and |  |
+|  | (c) the address at which, and the date, being thirty days after the notice is served or sent, on or before which, the penalty must be paid or a request for a review must be filed. |  |
 | Option | 7.8 A person who has been served with or sent a notice under subsection 7.7(1) must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty. |  |
-| Payment of specified amount precludes further proceedings | 7.9 If a person who is served with or sent a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out in the notice , the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention. |  |
+| Payment of specified amount precludes further proceedings | 7.9 If a person who is served with or sent a notice under subsection 7.7(1) pays the amount specified in the notice in accordance with the requirements set out in the notice, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention. |  |
 | Request for review of determina- tion | 7.91 (1) A person who is served with or sent a notice under subsection 7.7(1) and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice. |  |
 | Time and place for review | (2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
@@ -370,7 +183,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Person not compelled to testify | (5) A person who is alleged to have contravened a designated provision is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | Certificate | 7.92 If a person fails to pay the amount of the penalty specified in a notice under subsection 7.7(1) within the time specified in the notice and does not file a request for a review under subsection 7.91(1), the person is deemed to have committed the contravention alleged in the notice, and the Minister may obtain from the Tribunal a certificate in a form prescribed by the Governor in Council that indicates the amount of the penalty specified in the notice. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 40. The portion of section 8 of the English version of the Act before paragraph (a) is replaced by the following: |  |
-| Determina- tion by Tribunal member | 8. If , at the conclusion of a review under section 7.91 , the member of the Tribunal who conducts the review determines that |  |
+| Determina- tion by Tribunal member | 8. If, at the conclusion of a review under section 7.91, the member of the Tribunal who conducts the review determines that |  |
 | R.S., c. 33 (1st Supp.), s. 1; 1992, c. 4, s. 22 | 41. Section 8.1 of the Act is replaced by the following: |  |
 | Right of appeal | 8.1 (1) A person affected by the determination or the Minister may, within thirty days after the determination, appeal a determination made under section 8 to the Tribunal. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
@@ -379,9 +192,9 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | R.S., c. 33 (1st Supp.), s. 1 | 42. Subsection 8.2(1) of the Act is replaced by the following: |  |
 | --- | --- | --- |
-| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired , the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of , on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4 ) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it , as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
+| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired, the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of, on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 43. Subsection 8.3(3) of the Act is replaced by the following: |  |
-| Application of certain provisions | (3) Subsections 7.1(3) to (8 ) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
+| Application of certain provisions | (3) Subsections 7.1(3) to (8) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
 | R.S., c. 33 (1st Supp.), s. 5; 1992, c. 1, s. 4 | 44. Part IV of the Act is repealed. |  |
 | Replacement of ``full opportunity'' with ``opportunity' ' | 45. (1) The Act is amended by replacing the words ``full opportunity'' with the word ``opportunity'' in the following provisions: |  |
 |  | (a) subsection 6.9(7); |  |
@@ -405,7 +218,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Provisions applicable to suspensions | (4) Sections 504.1 to 505.2 apply in respect of a suspension under subsection (3) with any modifications that the circumstances require. However, subsections 505.1(4) and 505.2(3) apply as if the suspension were a suspension of a certificate under paragraph 504(b) or (d). |  |
 | R.S., c. 6 (3rd Supp.), s. 87(F); 1999, c. 19, ss. 15, 16 | 51. The heading before section 504 and sections 504 and 505 of the Act are replaced by the following: |  |
 |  | Tribunal Hearings Related to the Competency and Conduct of Officers |  |
-| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister , or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
+| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister, or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
 |  | (a) the master, mate or engineer is incompetent or is guilty of any act of misconduct, drunkenness or tyranny; |  |
 |  | (b) the master, mate or engineer on board a vessel that has contravened any of sections 5.3 to 5.5 of the Coastal Fisheries Protection Act knew, when the contravention occurred, that the vessel was committing the contravention; |  |
 |  | (c) the loss or abandonment of, or serious damage to, any ship or any loss of life was caused by the wrongful act or default of the master, mate or engineer; |  |
@@ -452,9 +265,9 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | R.S., c. 33 (1st Supp.), s. 1 | 42. Subsection 8.2(1) of the Act is replaced by the following: |  |
 | --- | --- | --- |
-| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired , the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of , on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4 ) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it , as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
+| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired, the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of, on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 43. Subsection 8.3(3) of the Act is replaced by the following: |  |
-| Application of certain provisions | (3) Subsections 7.1(3) to (8 ) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
+| Application of certain provisions | (3) Subsections 7.1(3) to (8) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
 | R.S., c. 33 (1st Supp.), s. 5; 1992, c. 1, s. 4 | 44. Part IV of the Act is repealed. |  |
 | Replacement of ``full opportunity'' with ``opportunity' ' | 45. (1) The Act is amended by replacing the words ``full opportunity'' with the word ``opportunity'' in the following provisions: |  |
 |  | (a) subsection 6.9(7); |  |
@@ -478,7 +291,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Provisions applicable to suspensions | (4) Sections 504.1 to 505.2 apply in respect of a suspension under subsection (3) with any modifications that the circumstances require. However, subsections 505.1(4) and 505.2(3) apply as if the suspension were a suspension of a certificate under paragraph 504(b) or (d). |  |
 | R.S., c. 6 (3rd Supp.), s. 87(F); 1999, c. 19, ss. 15, 16 | 51. The heading before section 504 and sections 504 and 505 of the Act are replaced by the following: |  |
 |  | Tribunal Hearings Related to the Competency and Conduct of Officers |  |
-| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister , or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
+| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister, or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
 |  | (a) the master, mate or engineer is incompetent or is guilty of any act of misconduct, drunkenness or tyranny; |  |
 |  | (b) the master, mate or engineer on board a vessel that has contravened any of sections 5.3 to 5.5 of the Coastal Fisheries Protection Act knew, when the contravention occurred, that the vessel was committing the contravention; |  |
 |  | (c) the loss or abandonment of, or serious damage to, any ship or any loss of life was caused by the wrongful act or default of the master, mate or engineer; |  |
@@ -525,9 +338,9 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | R.S., c. 33 (1st Supp.), s. 1 | 42. Subsection 8.2(1) of the Act is replaced by the following: |  |
 | --- | --- | --- |
-| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired , the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of , on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4 ) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it , as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
+| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired, the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of, on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 43. Subsection 8.3(3) of the Act is replaced by the following: |  |
-| Application of certain provisions | (3) Subsections 7.1(3) to (8 ) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
+| Application of certain provisions | (3) Subsections 7.1(3) to (8) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
 | R.S., c. 33 (1st Supp.), s. 5; 1992, c. 1, s. 4 | 44. Part IV of the Act is repealed. |  |
 | Replacement of ``full opportunity'' with ``opportunity' ' | 45. (1) The Act is amended by replacing the words ``full opportunity'' with the word ``opportunity'' in the following provisions: |  |
 |  | (a) subsection 6.9(7); |  |
@@ -551,7 +364,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Provisions applicable to suspensions | (4) Sections 504.1 to 505.2 apply in respect of a suspension under subsection (3) with any modifications that the circumstances require. However, subsections 505.1(4) and 505.2(3) apply as if the suspension were a suspension of a certificate under paragraph 504(b) or (d). |  |
 | R.S., c. 6 (3rd Supp.), s. 87(F); 1999, c. 19, ss. 15, 16 | 51. The heading before section 504 and sections 504 and 505 of the Act are replaced by the following: |  |
 |  | Tribunal Hearings Related to the Competency and Conduct of Officers |  |
-| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister , or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
+| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister, or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
 |  | (a) the master, mate or engineer is incompetent or is guilty of any act of misconduct, drunkenness or tyranny; |  |
 |  | (b) the master, mate or engineer on board a vessel that has contravened any of sections 5.3 to 5.5 of the Coastal Fisheries Protection Act knew, when the contravention occurred, that the vessel was committing the contravention; |  |
 |  | (c) the loss or abandonment of, or serious damage to, any ship or any loss of life was caused by the wrongful act or default of the master, mate or engineer; |  |
@@ -598,9 +411,9 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | R.S., c. 33 (1st Supp.), s. 1 | 42. Subsection 8.2(1) of the Act is replaced by the following: |  |
 | --- | --- | --- |
-| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired , the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of , on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4 ) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it , as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
+| Registration of certificate | 8.2 (1) If the time limit for the payment of an amount determined by the Minister in a notice under subsection 7.7(1) has expired, the time limit for the request for a review under subsection 7.91(1) has expired, the time limit for an appeal under subsection 8.1(1) has expired, or an appeal taken under section 8.1 has been disposed of, on production in any superior court, a certificate issued under section 7.92, paragraph 8(b) or subsection 8.1(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate. |  |
 | R.S., c. 33 (1st Supp.), s. 1 | 43. Subsection 8.3(3) of the Act is replaced by the following: |  |
-| Application of certain provisions | (3) Subsections 7.1(3) to (8 ) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
+| Application of certain provisions | (3) Subsections 7.1(3) to (8) and section 7.2 apply, with any modifications that the circumstances require, in respect of a decision of the Minister referred to in subsection (2). |  |
 | R.S., c. 33 (1st Supp.), s. 5; 1992, c. 1, s. 4 | 44. Part IV of the Act is repealed. |  |
 | Replacement of ``full opportunity'' with ``opportunity' ' | 45. (1) The Act is amended by replacing the words ``full opportunity'' with the word ``opportunity'' in the following provisions: |  |
 |  | (a) subsection 6.9(7); |  |
@@ -624,7 +437,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Provisions applicable to suspensions | (4) Sections 504.1 to 505.2 apply in respect of a suspension under subsection (3) with any modifications that the circumstances require. However, subsections 505.1(4) and 505.2(3) apply as if the suspension were a suspension of a certificate under paragraph 504(b) or (d). |  |
 | R.S., c. 6 (3rd Supp.), s. 87(F); 1999, c. 19, ss. 15, 16 | 51. The heading before section 504 and sections 504 and 505 of the Act are replaced by the following: |  |
 |  | Tribunal Hearings Related to the Competency and Conduct of Officers |  |
-| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister , or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
+| Suspension or cancellation of certificate | 504. With respect to a certificate granted by the Minister, or a certificate granted in any other country in so far only as concerns its validity in Canada, the Minister may suspend or cancel the certificate of competency or service of a master, mate or engineer if the Minister is satisfied that |  |
 |  | (a) the master, mate or engineer is incompetent or is guilty of any act of misconduct, drunkenness or tyranny; |  |
 |  | (b) the master, mate or engineer on board a vessel that has contravened any of sections 5.3 to 5.5 of the Coastal Fisheries Protection Act knew, when the contravention occurred, that the vessel was committing the contravention; |  |
 |  | (c) the loss or abandonment of, or serious damage to, any ship or any loss of life was caused by the wrongful act or default of the master, mate or engineer; |  |
@@ -693,7 +506,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Definition of ``designation'' | 19. For the purposes of sections 19.1 to 19.8, ``designation'' includes any privilege accorded by a designation. |  |
 | Designation of screening officers | 19.1 The Minister may designate persons or classes of persons to act as screening officers for the purposes of this Act or any of its provisions. |  |
 | Refusal to designate, etc. | 19.2 (1) The Minister may refuse to designate a person as a screening officer under section 19.1, or may suspend, cancel or refuse to renew the designation of a person as a screening officer, if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
-| Suspension or cancellation of designation for contravention s | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
+| Suspension or cancellation of designation for contraven- tions | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
 | Suspension for immediate threat | (3) The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer constitutes, or is likely to constitute, an immediate threat to marine transportation security. |  |
 | Notice | 19.3 (1) If the Minister decides to refuse to designate a person as a screening officer or decides to suspend, cancel or refuse to renew a person's designation as a screening officer, the Minister shall notify the person of that decision. |  |
 | Contents of notice | (2) A notice under subsection (1) shall include |  |
@@ -708,7 +521,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | 19.5 (1) On receipt of a request filed under subsection 19.4(1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (2) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Person not compelled to testify | (3) In a review of a decision made under subsection 19.2(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 19.2(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 19.2(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 19.6 (1) Within thirty days after the determination, |  |
@@ -719,7 +532,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | (a) in the case of a determination made under paragraph 19.5(4)(a), dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a determination made under paragraph 19.5(4)(b), dismiss the appeal, or allow the appeal and substitute its own decision. |  |
 | Decision to remain in effect pending reconsideratio n | 19.7 If a matter is referred back to the Minister for reconsideration under paragraph 19.5(4)(a) or 19.6(3)(a), the decision of the Minister under subsection 19.2(1) or (3) to suspend or cancel a designation remains in effect until the reconsideration is concluded. However, the member who made the determination or the appeal panel, after considering any representations made by the parties, may grant a stay of a decision under subsection 19.2(1) to suspend or cancel a designation until the reconsideration is concluded, if the member or panel is satisfied that granting a stay would not constitute a threat to marine transportation security. |  |
-| Reconsiderati on | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
+| Reconsidera- tion | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
 | Procedure applicable | (2) On the receipt of a request by a person under subsection (1), the Minister shall without delay conduct the reconsideration and inform the person of his or her decision regarding the request. Sections 19.3 to 19.7 apply in respect of that decision with any modifications that are necessary. |  |
 |  | 58. Subsection 28(2) of the French version of the Act is replaced by the following: |  |
 | Exploitant du bâtiment | (2) L'exploitant d'un bâtiment peut être déclaré coupable d'une infraction à la présente loi, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée, poursuivie ou déclarée coupable, à moins que, lors de l'infraction, le bâtiment n'ait été en la possession d'une autre personne sans son consentement. |  |
@@ -740,7 +553,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Extension of period | (2) The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person is unable to comply with the assurance of compliance for reasons beyond the person's control. |  |
 | Short-form descriptions in notices of violation | (3) The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation. |  |
 | Deemed violation | 34. (1) A person who enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into. |  |
-| Request for review | (2) A person who enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
+| Request for review | (2) A person who enters into an assurance of compliance may, within forty eight hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
 | When assurance of compliance complied with | 35. If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister shall cause a notice to that effect to be served on the person and, on the service of the notice, |  |
 |  | (a) no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and |  |
 |  | (b) any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person. |  |
@@ -754,7 +567,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (4) The burden is on the Minister to establish that the person did not comply with the assurance of compliance referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | Certain defences not available | (5) A person does not have a defence by reason that the person exercised all due diligence to comply with the assurance of compliance. |  |
-| Determination | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
 
 | 1994, c. 40 | Marine Transportation Security Act |  |
 | --- | --- | --- |
@@ -780,7 +593,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Definition of ``designation'' | 19. For the purposes of sections 19.1 to 19.8, ``designation'' includes any privilege accorded by a designation. |  |
 | Designation of screening officers | 19.1 The Minister may designate persons or classes of persons to act as screening officers for the purposes of this Act or any of its provisions. |  |
 | Refusal to designate, etc. | 19.2 (1) The Minister may refuse to designate a person as a screening officer under section 19.1, or may suspend, cancel or refuse to renew the designation of a person as a screening officer, if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
-| Suspension or cancellation of designation for contravention s | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
+| Suspension or cancellation of designation for contraven- tions | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
 | Suspension for immediate threat | (3) The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer constitutes, or is likely to constitute, an immediate threat to marine transportation security. |  |
 | Notice | 19.3 (1) If the Minister decides to refuse to designate a person as a screening officer or decides to suspend, cancel or refuse to renew a person's designation as a screening officer, the Minister shall notify the person of that decision. |  |
 | Contents of notice | (2) A notice under subsection (1) shall include |  |
@@ -795,7 +608,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | 19.5 (1) On receipt of a request filed under subsection 19.4(1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (2) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Person not compelled to testify | (3) In a review of a decision made under subsection 19.2(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 19.2(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 19.2(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 19.6 (1) Within thirty days after the determination, |  |
@@ -806,7 +619,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | (a) in the case of a determination made under paragraph 19.5(4)(a), dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a determination made under paragraph 19.5(4)(b), dismiss the appeal, or allow the appeal and substitute its own decision. |  |
 | Decision to remain in effect pending reconsideratio n | 19.7 If a matter is referred back to the Minister for reconsideration under paragraph 19.5(4)(a) or 19.6(3)(a), the decision of the Minister under subsection 19.2(1) or (3) to suspend or cancel a designation remains in effect until the reconsideration is concluded. However, the member who made the determination or the appeal panel, after considering any representations made by the parties, may grant a stay of a decision under subsection 19.2(1) to suspend or cancel a designation until the reconsideration is concluded, if the member or panel is satisfied that granting a stay would not constitute a threat to marine transportation security. |  |
-| Reconsiderati on | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
+| Reconsidera- tion | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
 | Procedure applicable | (2) On the receipt of a request by a person under subsection (1), the Minister shall without delay conduct the reconsideration and inform the person of his or her decision regarding the request. Sections 19.3 to 19.7 apply in respect of that decision with any modifications that are necessary. |  |
 |  | 58. Subsection 28(2) of the French version of the Act is replaced by the following: |  |
 | Exploitant du bâtiment | (2) L'exploitant d'un bâtiment peut être déclaré coupable d'une infraction à la présente loi, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée, poursuivie ou déclarée coupable, à moins que, lors de l'infraction, le bâtiment n'ait été en la possession d'une autre personne sans son consentement. |  |
@@ -827,7 +640,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Extension of period | (2) The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person is unable to comply with the assurance of compliance for reasons beyond the person's control. |  |
 | Short-form descriptions in notices of violation | (3) The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation. |  |
 | Deemed violation | 34. (1) A person who enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into. |  |
-| Request for review | (2) A person who enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
+| Request for review | (2) A person who enters into an assurance of compliance may, within forty eight hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
 | When assurance of compliance complied with | 35. If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister shall cause a notice to that effect to be served on the person and, on the service of the notice, |  |
 |  | (a) no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and |  |
 |  | (b) any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person. |  |
@@ -841,7 +654,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (4) The burden is on the Minister to establish that the person did not comply with the assurance of compliance referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | Certain defences not available | (5) A person does not have a defence by reason that the person exercised all due diligence to comply with the assurance of compliance. |  |
-| Determination | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
 
 | 1994, c. 40 | Marine Transportation Security Act |  |
 | --- | --- | --- |
@@ -867,7 +680,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Definition of ``designation'' | 19. For the purposes of sections 19.1 to 19.8, ``designation'' includes any privilege accorded by a designation. |  |
 | Designation of screening officers | 19.1 The Minister may designate persons or classes of persons to act as screening officers for the purposes of this Act or any of its provisions. |  |
 | Refusal to designate, etc. | 19.2 (1) The Minister may refuse to designate a person as a screening officer under section 19.1, or may suspend, cancel or refuse to renew the designation of a person as a screening officer, if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
-| Suspension or cancellation of designation for contravention s | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
+| Suspension or cancellation of designation for contraven- tions | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
 | Suspension for immediate threat | (3) The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer constitutes, or is likely to constitute, an immediate threat to marine transportation security. |  |
 | Notice | 19.3 (1) If the Minister decides to refuse to designate a person as a screening officer or decides to suspend, cancel or refuse to renew a person's designation as a screening officer, the Minister shall notify the person of that decision. |  |
 | Contents of notice | (2) A notice under subsection (1) shall include |  |
@@ -882,7 +695,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | 19.5 (1) On receipt of a request filed under subsection 19.4(1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (2) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Person not compelled to testify | (3) In a review of a decision made under subsection 19.2(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 19.2(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 19.2(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 19.6 (1) Within thirty days after the determination, |  |
@@ -893,7 +706,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | (a) in the case of a determination made under paragraph 19.5(4)(a), dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a determination made under paragraph 19.5(4)(b), dismiss the appeal, or allow the appeal and substitute its own decision. |  |
 | Decision to remain in effect pending reconsideratio n | 19.7 If a matter is referred back to the Minister for reconsideration under paragraph 19.5(4)(a) or 19.6(3)(a), the decision of the Minister under subsection 19.2(1) or (3) to suspend or cancel a designation remains in effect until the reconsideration is concluded. However, the member who made the determination or the appeal panel, after considering any representations made by the parties, may grant a stay of a decision under subsection 19.2(1) to suspend or cancel a designation until the reconsideration is concluded, if the member or panel is satisfied that granting a stay would not constitute a threat to marine transportation security. |  |
-| Reconsiderati on | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
+| Reconsidera- tion | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
 | Procedure applicable | (2) On the receipt of a request by a person under subsection (1), the Minister shall without delay conduct the reconsideration and inform the person of his or her decision regarding the request. Sections 19.3 to 19.7 apply in respect of that decision with any modifications that are necessary. |  |
 |  | 58. Subsection 28(2) of the French version of the Act is replaced by the following: |  |
 | Exploitant du bâtiment | (2) L'exploitant d'un bâtiment peut être déclaré coupable d'une infraction à la présente loi, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée, poursuivie ou déclarée coupable, à moins que, lors de l'infraction, le bâtiment n'ait été en la possession d'une autre personne sans son consentement. |  |
@@ -914,7 +727,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Extension of period | (2) The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person is unable to comply with the assurance of compliance for reasons beyond the person's control. |  |
 | Short-form descriptions in notices of violation | (3) The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation. |  |
 | Deemed violation | 34. (1) A person who enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into. |  |
-| Request for review | (2) A person who enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
+| Request for review | (2) A person who enters into an assurance of compliance may, within forty eight hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
 | When assurance of compliance complied with | 35. If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister shall cause a notice to that effect to be served on the person and, on the service of the notice, |  |
 |  | (a) no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and |  |
 |  | (b) any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person. |  |
@@ -928,7 +741,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (4) The burden is on the Minister to establish that the person did not comply with the assurance of compliance referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | Certain defences not available | (5) A person does not have a defence by reason that the person exercised all due diligence to comply with the assurance of compliance. |  |
-| Determination | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
 
 | 1994, c. 40 | Marine Transportation Security Act |  |
 | --- | --- | --- |
@@ -954,7 +767,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Definition of ``designation'' | 19. For the purposes of sections 19.1 to 19.8, ``designation'' includes any privilege accorded by a designation. |  |
 | Designation of screening officers | 19.1 The Minister may designate persons or classes of persons to act as screening officers for the purposes of this Act or any of its provisions. |  |
 | Refusal to designate, etc. | 19.2 (1) The Minister may refuse to designate a person as a screening officer under section 19.1, or may suspend, cancel or refuse to renew the designation of a person as a screening officer, if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
-| Suspension or cancellation of designation for contravention s | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
+| Suspension or cancellation of designation for contraven- tions | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6). |  |
 | Suspension for immediate threat | (3) The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer constitutes, or is likely to constitute, an immediate threat to marine transportation security. |  |
 | Notice | 19.3 (1) If the Minister decides to refuse to designate a person as a screening officer or decides to suspend, cancel or refuse to renew a person's designation as a screening officer, the Minister shall notify the person of that decision. |  |
 | Contents of notice | (2) A notice under subsection (1) shall include |  |
@@ -969,7 +782,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | 19.5 (1) On receipt of a request filed under subsection 19.4(1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (2) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Person not compelled to testify | (3) In a review of a decision made under subsection 19.2(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 19.2(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 19.2(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 19.6 (1) Within thirty days after the determination, |  |
@@ -980,7 +793,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | (a) in the case of a determination made under paragraph 19.5(4)(a), dismiss the appeal or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a determination made under paragraph 19.5(4)(b), dismiss the appeal, or allow the appeal and substitute its own decision. |  |
 | Decision to remain in effect pending reconsideratio n | 19.7 If a matter is referred back to the Minister for reconsideration under paragraph 19.5(4)(a) or 19.6(3)(a), the decision of the Minister under subsection 19.2(1) or (3) to suspend or cancel a designation remains in effect until the reconsideration is concluded. However, the member who made the determination or the appeal panel, after considering any representations made by the parties, may grant a stay of a decision under subsection 19.2(1) to suspend or cancel a designation until the reconsideration is concluded, if the member or panel is satisfied that granting a stay would not constitute a threat to marine transportation security. |  |
-| Reconsiderati on | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
+| Reconsidera- tion | 19.8 (1) In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security. |  |
 | Procedure applicable | (2) On the receipt of a request by a person under subsection (1), the Minister shall without delay conduct the reconsideration and inform the person of his or her decision regarding the request. Sections 19.3 to 19.7 apply in respect of that decision with any modifications that are necessary. |  |
 |  | 58. Subsection 28(2) of the French version of the Act is replaced by the following: |  |
 | Exploitant du bâtiment | (2) L'exploitant d'un bâtiment peut être déclaré coupable d'une infraction à la présente loi, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée, poursuivie ou déclarée coupable, à moins que, lors de l'infraction, le bâtiment n'ait été en la possession d'une autre personne sans son consentement. |  |
@@ -1001,7 +814,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Extension of period | (2) The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person is unable to comply with the assurance of compliance for reasons beyond the person's control. |  |
 | Short-form descriptions in notices of violation | (3) The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation. |  |
 | Deemed violation | 34. (1) A person who enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into. |  |
-| Request for review | (2) A person who enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
+| Request for review | (2) A person who enters into an assurance of compliance may, within forty eight hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested. |  |
 | When assurance of compliance complied with | 35. If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister shall cause a notice to that effect to be served on the person and, on the service of the notice, |  |
 |  | (a) no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and |  |
 |  | (b) any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person. |  |
@@ -1015,7 +828,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Review procedure | (3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (4) The burden is on the Minister to establish that the person did not comply with the assurance of compliance referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | Certain defences not available | (5) A person does not have a defence by reason that the person exercised all due diligence to comply with the assurance of compliance. |  |
-| Determination | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or determine that the person has complied with the assurance of compliance. |  |
 
 | Return of security | 38. Any security deposited under subparagraph 33(1)(a)(ii) shall be returned to the person if |  |
 | --- | --- | --- |
@@ -1028,7 +841,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1058,7 +871,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1089,7 +902,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1118,7 +931,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1148,7 +961,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1179,7 +992,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1208,7 +1021,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1238,7 +1051,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1269,7 +1082,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1298,7 +1111,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1328,7 +1141,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1359,7 +1172,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1388,7 +1201,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1418,7 +1231,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1449,7 +1262,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1478,7 +1291,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1508,7 +1321,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1539,7 +1352,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1568,7 +1381,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1598,7 +1411,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1629,7 +1442,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1658,7 +1471,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Time and place for review | (3) On receipt of a request filed under paragraph (1)(b), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. |  |
 | Review procedure | (4) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations. |  |
 | Burden of proof | (5) The burden is on the Minister to establish that the person committed the violation referred to in the notice. The person is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
-| Determination | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
+| Determina- tion | (6) The member may confirm the Minister's decision or, subject to any regulations made under paragraph 51(c), substitute his or her own determination. |  |
 | Right of appeal | 40. (1) The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination. |  |
 | Loss of right of appeal | (2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (3) The appeal panel of the Tribunal assigned to hear the appeal may |  |
@@ -1688,7 +1501,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Duty to notify | (2) When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister shall give notice of that fact to the person. |  |
 | Contents of notice | (3) A notice under subsection (2) shall provide all relevant information concerning the grounds on which the Minister has refused to remove the notation and shall include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed. |  |
 | Review | (4) Subsections 37(1) to (3) apply in respect of a refusal to remove a notation, with any modifications that the circumstances require. |  |
-| Determination | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
+| Determina- tion | (5) The member of the Tribunal assigned to conduct the review may confirm the Minister's decision or refer the matter back to the Minister for reconsideration. |  |
 | Right of appeal | (6) The person may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal. |  |
 | Loss of right of appeal | (7) If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence. |  |
 | Disposition of appeal | (8) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration. |  |
@@ -1719,7 +1532,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 |  | 64. (1) Subsection 4(1) of the Railway Safety Act is amended by adding the following in alphabetical order: |  |
 | ``Tribunal'' « Tribunal » | ``Tribunal'' means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act; |  |
 |  | (2) The portion of subsection 4(5) of the Act before paragraph (a) is replaced by the following: |  |
-| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal , for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
+| Manner of filing or sending notices and documents | (5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, a notice or document must be filed with, or sent to, a person |  |
 |  | 65. The Act is amended by adding the following after section 27: |  |
 | Refusal to designate etc. | 27.1 (1) The Minister may refuse to designate a person as a screening officer under section 27 or may suspend, cancel or refuse to renew the designation of a person as a screening officer if the Minister is of the opinion that the person is incompetent, does not meet the qualifications or fulfil the conditions required for the designation or ceases to meet the qualifications or fulfil the conditions of the designation. |  |
 | Suspension or cancellation of designation for offences | (2) The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has committed an offence within the meaning of section 41. |  |
@@ -1739,7 +1552,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | Person not compelled to testify | (3) In a review of a decision made under subsection 27.1(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | --- | --- | --- |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 27.1(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 27.1(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 27.5 (1) Within thirty days after the determination, |  |
@@ -1783,7 +1596,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Reconsiderati on by Minister | 32.4 If a matter is referred back to the Minister under subsection 32.1(5) or 32.2(3), the Minister may confirm the order, or may, by order, alter or revoke the order. For greater certainty, the Minister's order may be made an order of the Federal Court or of any superior court under section 34. |  |
 | When alteration or revocation effective | 32.5 An alteration or revocation under section 32.4 has effect when the railway company or other person to whom notice of the order under section 32 was sent receives notice of the alteration or revocation. |  |
 | 1999, c. 9, s. 33 | 70. Paragraph 46(d) of the Act is replaced by the following: |  |
-|  | (d) orders and notices sent under sections 31 to 32.5 ; |  |
+|  | (d) orders and notices sent under sections 31 to 32.5; |  |
 |  | COORDINATING AMENDMENTS |  |
 |  | Amendment to This Act |  |
 | Amendment to this Act | 71. If Bill C-14, introduced in the first session of the 37th Parliament and entitled the Canada Shipping Act, 2001, receives royal assent, then, on the coming into force of section 1 of that Act, subsection 2(2) of this Act is replaced by the following: |  |
@@ -1826,7 +1639,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | Person not compelled to testify | (3) In a review of a decision made under subsection 27.1(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | --- | --- | --- |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 27.1(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 27.1(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 27.5 (1) Within thirty days after the determination, |  |
@@ -1870,7 +1683,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Reconsiderati on by Minister | 32.4 If a matter is referred back to the Minister under subsection 32.1(5) or 32.2(3), the Minister may confirm the order, or may, by order, alter or revoke the order. For greater certainty, the Minister's order may be made an order of the Federal Court or of any superior court under section 34. |  |
 | When alteration or revocation effective | 32.5 An alteration or revocation under section 32.4 has effect when the railway company or other person to whom notice of the order under section 32 was sent receives notice of the alteration or revocation. |  |
 | 1999, c. 9, s. 33 | 70. Paragraph 46(d) of the Act is replaced by the following: |  |
-|  | (d) orders and notices sent under sections 31 to 32.5 ; |  |
+|  | (d) orders and notices sent under sections 31 to 32.5; |  |
 |  | COORDINATING AMENDMENTS |  |
 |  | Amendment to This Act |  |
 | Amendment to this Act | 71. If Bill C-14, introduced in the first session of the 37th Parliament and entitled the Canada Shipping Act, 2001, receives royal assent, then, on the coming into force of section 1 of that Act, subsection 2(2) of this Act is replaced by the following: |  |
@@ -1913,7 +1726,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 
 | Person not compelled to testify | (3) In a review of a decision made under subsection 27.1(2), the person who filed the request for the review is not required, and shall not be compelled, to give any evidence or testimony in the matter. |  |
 | --- | --- | --- |
-| Determination | (4) The member may |  |
+| Determina- tion | (4) The member may |  |
 |  | (a) in the case of a decision made under subsection 27.1(1) or (3), confirm the decision or refer the matter back to the Minister for reconsideration; or |  |
 |  | (b) in the case of a decision made under subsection 27.1(2), confirm the decision or substitute his or her own determination. |  |
 | Right of appeal | 27.5 (1) Within thirty days after the determination, |  |
@@ -1957,7 +1770,7 @@ House of Commons of Canada # BILL C-34 An Act to establish the Transportation Ap
 | Reconsiderati on by Minister | 32.4 If a matter is referred back to the Minister under subsection 32.1(5) or 32.2(3), the Minister may confirm the order, or may, by order, alter or revoke the order. For greater certainty, the Minister's order may be made an order of the Federal Court or of any superior court under section 34. |  |
 | When alteration or revocation effective | 32.5 An alteration or revocation under section 32.4 has effect when the railway company or other person to whom notice of the order under section 32 was sent receives notice of the alteration or revocation. |  |
 | 1999, c. 9, s. 33 | 70. Paragraph 46(d) of the Act is replaced by the following: |  |
-|  | (d) orders and notices sent under sections 31 to 32.5 ; |  |
+|  | (d) orders and notices sent under sections 31 to 32.5; |  |
 |  | COORDINATING AMENDMENTS |  |
 |  | Amendment to This Act |  |
 | Amendment to this Act | 71. If Bill C-14, introduced in the first session of the 37th Parliament and entitled the Canada Shipping Act, 2001, receives royal assent, then, on the coming into force of section 1 of that Act, subsection 2(2) of this Act is replaced by the following: |  |
