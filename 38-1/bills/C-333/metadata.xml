@@ -1,0 +1,657 @@
+<Bills>
+  <Bill>
+    <Id>1463571</Id>
+    <NumberCode>C-333</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>333</Number>
+    <LongTitleEn>An Act to recognize the injustices done to Chinese immigrants by head taxes and exclusion legislation, to provide for recognition of the extraordinary contribution they made to Canada, to provide for redress and to promote education on Chinese Canadian history and racial harmony</LongTitleEn>
+    <LongTitleFr>Loi visant à reconnaître les injustices commises à l'égard des immigrants chinois par suite de l'imposition d'une taxe d'entrée et de l'adoption de lois d'exclusion, à souligner la contribution remarquable de ces immigrants au Canada, à prévoir des mesures réparatoires et à promouvoir l'enseignement de l'histoire des Canadiens d'origine chinoise et l'harmonie raciale</LongTitleFr>
+    <LongTitle>An Act to recognize the injustices done to Chinese immigrants by head taxes and exclusion legislation, to provide for recognition of the extraordinary contribution they made to Canada, to provide for redress and to promote education on Chinese Canadian history and racial harmony</LongTitle>
+    <ShortTitleEn>Chinese Canadian Recognition and Redress Act</ShortTitleEn>
+    <ShortTitleFr>Loi de reconnaissance et de réparation à l'égard des Canadiens d'origine chinoise</ShortTitleFr>
+    <ShortTitle>Chinese Canadian Recognition and Redress Act</ShortTitle>
+    <StatusId>360</StatusId>
+    <StatusNameEn>Outside the Order of Precedence</StatusNameEn>
+    <StatusNameFr>Ne fait pas partie de l'Ordre de priorité</StatusNameFr>
+    <StatusName>Outside the Order of Precedence</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2005-11-04T13:12:52</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>38</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>4</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Private Member's Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant d'un député</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Private Member's Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>19994</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bev</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Oda</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bev Oda</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Member of Parliament</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>députée</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Member of Parliament</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>2</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Member of Parliament</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>député(e)</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Member of Parliament</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>409</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Durham</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Durham</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Durham</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60124</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Committee report presented</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Présentation du rapport de comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60049</LatestBillEventStageId>
+    <LatestBillEventTypeName>Committee report presented</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+      <CommitteeAcronym>CHPC</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2005-11-04T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>122</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>148</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2004-11-15T15:15:24</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2005-04-18T12:05:43</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;Pursuant to Standing Order 97.1, the committee presented a report to the House of Commons recommending an extension of the time allotted to study the Bill — October 3, 2005&lt;br&gt;&lt;br&gt;Concurred in — October 4, 2005&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Conformément à l'article 97.1 du Règlement, le comité a présenté un rapport à la Chambre des communes avec recommandation de la prolongation du délai pour l'étude du projet de loi — 3 octobre 2005&lt;br&gt;&lt;br&gt;Adoption — 4 octobre 2005&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;Pursuant to Standing Order 97.1, the committee presented a report to the House of Commons recommending an extension of the time allotted to study the Bill — October 3, 2005&lt;br&gt;&lt;br&gt;Concurred in — October 4, 2005&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2004-11-15T15:15:24</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>24</Number>
+          <Date>2004-11-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2004-11-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2004-11-15T15:15:24</EventStartDateTime>
+          <EventEndDateTime>2004-11-15T15:15:24</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2004-11-15T15:15:24</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2005-04-18T12:05:43</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+          <StudyActivityId>1379645</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>61</Number>
+          <Date>2005-02-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>84</Number>
+          <Date>2005-04-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1232236</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>1465675</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - CHPC</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - CHPC</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - CHPC</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2005-04-18T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>84</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2005-04-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2005-04-18T12:05:43</EventStartDateTime>
+          <EventEndDateTime>2005-04-18T12:05:43</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-04-18T12:05:43</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1141937</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>19994</PersonId>
+          <PersonOfficialFirstName>Bev</PersonOfficialFirstName>
+          <PersonOfficialLastName>Oda</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bev Oda</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>61</MeetingNumber>
+          <SpeechDateTime>2005-02-21T11:07:27</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141937</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-61/hansard#Int-1141937</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141937</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1141950</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25464</PersonId>
+          <PersonOfficialFirstName>Roger</PersonOfficialFirstName>
+          <PersonOfficialLastName>Valley</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Roger Valley</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>61</MeetingNumber>
+          <SpeechDateTime>2005-02-21T11:17:44</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141950</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-61/hansard#Int-1141950</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141950</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1141978</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1598</PersonId>
+          <PersonOfficialFirstName>Libby</PersonOfficialFirstName>
+          <PersonOfficialLastName>Davies</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Libby Davies</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>61</MeetingNumber>
+          <SpeechDateTime>2005-02-21T11:28:32</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141978</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-61/hansard#Int-1141978</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141978</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1141991</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25500</PersonId>
+          <PersonOfficialFirstName>Meili</PersonOfficialFirstName>
+          <PersonOfficialLastName>Faille</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Meili Faille</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>38</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>61</MeetingNumber>
+          <SpeechDateTime>2005-02-21T11:38:12</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141991</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/38-1/house/sitting-61/hansard#Int-1141991</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/38-1/house/sitting-61/hansard#Int-1141991</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>38</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2005-11-04T13:12:52</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+          <StudyActivityId>1379645</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>148</Number>
+          <Date>2005-11-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>57</Number>
+          <Date>2005-10-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>58</Number>
+          <Date>2005-10-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>60</Number>
+          <Date>2005-11-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>8974</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>61</Number>
+          <Date>2005-11-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2005-11-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>2087995</CommitteeReportId>
+          <CommitteeReportNumber>15</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2005-11-04T13:12:52</EventStartDateTime>
+          <EventEndDateTime>2005-11-04T13:12:52</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2005-11-04T13:12:52</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>5076787</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5076788</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
