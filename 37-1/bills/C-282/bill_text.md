@@ -1,0 +1,15 @@
+Bill C-282 PublicationID : 2331140 Table of ContentsSummaryBILL C-282SHORT TITLE
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to allow a homeowner to deduct from his or her taxable income the property taxes paid on his or her principal residence. |  |
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-282 An Act to amend the Income Tax Act (deduction of property taxes paid in respect of a principal residence) R.S., 1985, c. 1 (5th Supp.) Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE **1. This Act may be cited as the *Homeowners' Freedom from Double Taxation Act*.** **2. Section 60 of the *Income Tax Act* is amended by adding the following after paragraph (*m*.1):** Property taxes paid in respect of a principal residence (*m*.2) where the taxpayer is an individual, the property taxes paid to a province or a Canadian municipality by the taxpayer in respect of property that is the taxpayer's principal residence and is owned by the taxpayer;
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-282 An Act to amend the Income Tax Act (deduction of property taxes paid in respect of a principal residence) R.S., 1985, c. 1 (5th Supp.) Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE **1. This Act may be cited as the *Homeowners' Freedom from Double Taxation Act*.** **2. Section 60 of the *Income Tax Act* is amended by adding the following after paragraph (*m*.1):** Property taxes paid in respect of a principal residence (*m*.2) where the taxpayer is an individual, the property taxes paid to a province or a Canadian municipality by the taxpayer in respect of property that is the taxpayer's principal residence and is owned by the taxpayer;
