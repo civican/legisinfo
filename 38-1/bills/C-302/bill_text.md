@@ -5,7 +5,7 @@ NAVIGATION END
 | house of Commons OF CANADA |  | chambre des communes DU CANADA |
 | BILL C-302 |  | PROJET DE LOI C-302 |
 | An Act to change the name of the electoral district of Kitchener — Wilmot — Wellesley — Woolwich |  | Loi visant à modifier le nom de la circonscription électorale de Kitchener — Wilmot — Wellesley — Woolwich |
-| First reading, November 29, 2004 |  | Première lecture le 29 novembre 2004 |
+| AS PASSED BY THE HOUSE OF COMMONS DECEMBER 2, 2004 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 2 DÉCEMBRE 2004 |
 
 [if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif]if !vml endif[if gte vml 1]></o:wrapblock><![endif]
 
