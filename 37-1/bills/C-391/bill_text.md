@@ -1,0 +1,25 @@
+Bill C-391 PublicationID : 2331249 Table of ContentsSummaryBILL C-391SCHEDULE(Section 24)OATH OF CITIZENSHIPAFFIRMATION OF CITIZENSHIP
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this enactment is to amend the Oath or Affirmation of Citizenship that is contained in the schedule to the Citizenship Act. |  |
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-391 An Act to amend the Citizenship Act (Oath or Affirmation of Citizenship) R.S., c. C-29 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The schedule to the *Citizenship Act* is replaced by the following:** ## SCHEDULE (Section 24) ### OATH OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by God whose sacred trust is to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights, and the rule of law. ### AFFIRMATION OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by their solemn trust to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights and the rule of law.
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-391 An Act to amend the Citizenship Act (Oath or Affirmation of Citizenship) R.S., c. C-29 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The schedule to the *Citizenship Act* is replaced by the following:** ## SCHEDULE (Section 24) ### OATH OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by God whose sacred trust is to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights, and the rule of law. ### AFFIRMATION OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by their solemn trust to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights and the rule of law.
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-391 An Act to amend the Citizenship Act (Oath or Affirmation of Citizenship) R.S., c. C-29 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The schedule to the *Citizenship Act* is replaced by the following:** ## SCHEDULE (Section 24) ### OATH OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by God whose sacred trust is to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights, and the rule of law. ### AFFIRMATION OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by their solemn trust to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights and the rule of law.
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-391 An Act to amend the Citizenship Act (Oath or Affirmation of Citizenship) R.S., c. C-29 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The schedule to the *Citizenship Act* is replaced by the following:** ## SCHEDULE (Section 24) ### OATH OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by God whose sacred trust is to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights, and the rule of law. ### AFFIRMATION OF CITIZENSHIP In pledging allegiance to Canada, I take my place among Canadians, a people united by their solemn trust to uphold these five principles: equality of opportunity, freedom of speech, democracy, basic human rights and the rule of law.
