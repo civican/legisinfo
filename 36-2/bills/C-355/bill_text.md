@@ -1,0 +1,10 @@
+Bill C-355 PublicationID : 2330708 Table of ContentsSummaryBILL C-355
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment ensures that the term ``infant'', in the context of dealings regarding insurance, will be interpreted consistently with the definition of ``child'' proposed by the United Nations Convention on the Rights of the Child as a person who is less than eighteen years old. |  |
+
+|  | 2nd Session, 36th Parliament, 48 Elizabeth II, 1999 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-355 An Act to amend the Insurance Companies Act (definition of ``infant'') Preamble Whereas, on November 20, 1989, the Convention on the Rights of the Child was adopted by the United Nations General Assembly; Whereas the Convention was ratified by Canada on December 31, 1991; Whereas the Convention proposes a definition of ``child'' that should be applied uniformly throughout federal legislation; And Whereas the definition of ``infant'' should be consistent with that of ``child''; 1991, cc. 47, 48; 1992, c. 51; 1993, cc. 34, 44; 1994, cc. 24, 26, 47; 1996, c. 6; 1997, c. 15; 1998, c. 30; 1999, cc. 1, 3, 28, 31 Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. Subsection 2(1) of the *Insurance Companies Act* is amended by adding the following in alphabetical order:** ``infant'' « *mineur* » ``infant'' means a person under eighteen years of age;
