@@ -1,0 +1,13 @@
+Bill C-46 PublicationID : 2330977 Table of ContentsSummaryBILL C-46
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Criminal Code to allow the court to authorize repeat offenders subject to driving prohibition orders to drive, if they register in a provincial alcohol ignition interlock device program. The enactment provides that no authorization has effect until a minimum period of prohibition has been completed of 3, 6 or 12 months for a first, second or subsequent offence, respectively. |  |
+|  | EXPLANATORY NOTE |  |
+|  | Clause 1: Subsections 259(1.2) to (1.4) are new. Subsection 259(1.1) reads as follows: |  |
+|  | (1.1) Notwithstanding paragraph (1)(a), where the lieutenant gover nor in council of the province in which the prohibition order under paragraph (1)(a) is to be made has established a program governing the use of an alcohol ignition interlock device by an offender convicted of an offence for which the order is to be made, the minimum period of not less than one year is reduced to a period of not less than three months, if the offender participates in the program during the remainder of the one year period. |  |
+
+|  | 1st Session, 37th Parliament, 49-50 Elizabeth II, 2001 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-46 An Act to amend the Criminal Code (alcohol ignition interlock device programs) R.S., c. C-46 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: 1999, c. 32, s. 5(1) **1.** Subsection 259(1.1) of the *Criminal Code* is replaced by the following: Alcohol ignition interlock device program (1.1) In making the order, the court may authorize the offender to operate a motor vehicle equipped with an alcohol ignition interlock device during the prohibition period if the offender registers in an alcohol ignition interlock device program established under the law of the province in which the offender resides. Minimum absolute prohibition period (1.2) The authorization has no effect until the expiry of a period fixed by the court (*a*) of at least 3 months, for a first offence; (*b*) of at least 6 months, for a second offence; and (*c*) of at least 12 months, for each subsequent offence. Change of province of residence (1.3) The authorization applies to an offender who becomes resident in another province and registers in a program referred to in subsection (1.1) in that province. Authoriza- tion suspended (1.4) The authorization has no effect during any period that the offender is not registered in a program referred to in subsection (1.1).
