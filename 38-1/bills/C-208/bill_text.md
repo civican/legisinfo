@@ -1,0 +1,31 @@
+NAVIGATION END
+
+| C-208 First Session, Thirty-eighth Parliament, 53 Elizabeth II, 2004 |  | C-208 Première session, trente-huitième législature, 53 Elizabeth II, 2004 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-208 |  | PROJET DE LOI C-208 |
+| An Act to amend the Divorce Act (marriage counselling required before divorce granted) |  | Loi modifiant la Loi sur le divorce (consultation matrimoniale obligatoire avant le divorce) |
+| First reading, October 13, 2004 |  | Première lecture le 13 octobre 2004 |
+
+[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe"> <v:stroke joinstyle="miter"/> <v:path gradientshapeok="t" o:connecttype="rect"/> </v:shapetype><v:shape id="_x0000_s1060" type="#_x0000_t202" style='position:absolute; margin-left:1.5pt;margin-top:7in;width:515.45pt;height:36pt;z-index:1; mso-position-horizontal-relative:margin;mso-position-vertical-relative:margin' stroked="f"> <v:textbox style='mso-next-textbox:#_x0000_s1060' inset="0,0,0,0"/> <w:wrap anchorx="margin" anchory="margin"/> </v:shape><![endif]if !vml endif[if gte vml 1]></o:wrapblock><![endif]
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Divorce Act to require spouses to attend marriage counselling before a divorce is granted. | Le texte modifie la Loi sur le divorce afin d'obliger les époux à consulter un conseiller matrimonial avant le prononcé du divorce. |
+| This requirement does not apply where the grounds are physical or mental cruelty, where the court agrees that counselling is inappropriate or would serve no purpose, or where one party cannot be brought to counselling. | Cette condition ne s'applique pas si le motif du divorce est la cruauté physique ou mentale, si le tribunal est d'avis que la consultation n'est pas indiquée ou ne servirait à rien ou si l'une des parties ne peut être amenée à participer à la consultation. |
+
+|  | 1st Session, 38th Parliament, 53 Elizabeth II, 2004 House of Commons of Canada Bill C-208 |  | 1re session, 38e législature, 53 Elizabeth II, 2004 Chambre des communes du Canada Projet de loi C-208 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Divorce Act (marriage counselling required before divorce granted) |  | Loi modifiant la Loi sur le divorce (consultation matrimoniale obligatoire avant le divorce) |  |  |
+| R.S., c. 3 (2nd Supp.) | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. 3 (2e suppl.) |
+|  | 1. Subsection 9(1) of the Divorce Act is replaced by the following: |  | 1. Le paragraphe 9(1) de la Loi sur le divorce est remplacé par ce qui suit : |  |  |
+| Marriage counselling required | 9. (1) Prior to granting a divorce, the court shall satisfy itself that the spouses in the divorce proceeding have been advised by a marriage counsellor prescribed under paragraph (1.4)(a) with a view to assisting them to achieve a reconciliation. |  | 9. (1) Avant de prononcer le divorce, il incombe au tribunal de s'assurer que les époux ont été conseillés par un conseiller matrimonial désigné par le règlement pris en vertu de l'alinéa (1.4)a) pour les aider à se réconcilier. |  | Consultation matrimoniale |
+| Duty of legal adviser | (1.1) Every barrister, solicitor, lawyer or advocate who undertakes to act on behalf of a spouse in a divorce proceeding shall draw to the attention of the spouse the requirements of subsection (1) and assist the spouse in finding a marriage counsellor. |  | (1.1) Tout avocat qui accepte de représenter un époux dans une action en divorce doit attirer l'attention de ce dernier sur les exigences du paragraphe (1) et l'aider à trouver un conseiller matrimonial. |  | Obligation de l'avocat |
+| Certificate of counsellor | (1.2) The marriage counsellor shall certify, in the form prescribed under paragraph (1.4)(b), that the spouses have received counselling on their marriage and considered the possibility of reconciliation. |  | (1.2) Le conseiller matrimonial doit attester, en la forme réglementaire visée à l'alinéa (1.4)b), que les époux ont obtenu des services de consultation matrimoniale et qu'ils ont examiné la possibilité d'une réconciliation. |  | Attestation de consultation |
+| Exception | (1.3) Subsection (1) does not apply to a case where the grounds for the divorce are physical or mental cruelty as described in subparagraph 8(2)(b)(ii), or to a case where the court is satisfied that (a) the circumstances of the case are such that marriage counselling would be inappropriate or serve no purpose; or (b) the party seeking the divorce has taken reasonable steps to secure the attendance of the other party at the marriage counselling, but has been unable to do so. |  | (1.3) Le paragraphe (1) ne s'applique pas aux actions où le motif du divorce est la cruauté physique ou mentale visée au sous-alinéa 8(2)b)(ii) ni aux actions où le tribunal est convaincu : a) que les circonstances en l'espèce sont telles que la consultation matrimoniale ne serait pas indiquée ou ne servirait à rien; b) que la partie qui demande le divorce a pris des mesures raisonnables pour assurer la présence de l'autre partie à la consultation matrimoniale, mais n'y est pas parvenue. |  | Exception |
+| Regulations | (1.4) The Minister of Justice may make regulations (a) prescribing persons or classes of persons who are marriage counsellors for the purpose of subsection (1); and (b) prescribing the form of the certification mentioned in subsection (1.2). |  | (1.4) Le ministre de la Justice peut, par règlement : a) désigner des personnes ou des groupes de personnes comme conseillers matrimoniaux pour l'application du paragraphe (1); b) prescrire la forme de l'attestation mentionnée au paragraphe (1.2). |  | Règlement |
+| Coming into force | 2. This Act comes into force on June 30, 2004. |  | 2. La présente loi entre en vigueur le 30 juin 2004. |  | Entrée en vigueur |
+
+if !supportAnnotations
+
+endif
