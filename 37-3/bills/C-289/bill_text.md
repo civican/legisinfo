@@ -1,0 +1,16 @@
+Bill C-289 PublicationID : 2331680 Table of ContentsCoverSummaryBILL C-289
+
+|  | C-289 |  |
+| --- | --- | --- |
+|  | Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002 |
+
+**HOUSE OF COMMONS OF CANADA** # BILL C-289 An Act to amend the Criminal Code (impaired driving causing death or injury) First reading, November 4, 2002
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment amends the Criminal Code to give additional powers to peace officers to demand breath or blood samples when an accident occurs causing death or serious injury. |  |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 |
+| --- | --- |
+
+House of Commons of Canada # BILL C-289 An Act to amend the Criminal Code (impaired driving causing death or injury) R.S., c. C-46 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: **1. The portion of subsection 254(3) of the *Criminal Code* before paragraph (*a*) is replaced by the following:** Samples of breath or blood (3) Where a peace officer believes on reasonable and probable grounds that a person is committing, or at any time within the preceding three hours has committed, as a result of the consumption of alcohol, an offence under section 253, or that the person was involved in an accident resulting in the death of another person or in bodily harm to himself or herself or to any other person, the peace officer may, by demand made to that person forthwith or as soon as practicable, require that person to provide then or as soon thereafter as is practicable
