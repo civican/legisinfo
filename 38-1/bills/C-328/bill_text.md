@@ -1,0 +1,20 @@
+NAVIGATION END
+
+| C-328 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-328 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-328 |  | PROJET DE LOI C-328 |
+| An Act to amend the Corrections and Conditional Release Act (dependence on alcohol or drugs) |  | Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (dépendance à l'alcool ou aux drogues) |
+| First reading, February 11, 2005 |  | Première lecture le 11 février 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Corrections and Conditional Release Act to add the condition that an offender not have an alcohol, drug or other dependency to be eligible for parole. | Le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition de façon à ce qu'un délinquant soit admissible à la libération conditionnelle à la condition supplémentaire de ne pas être sous la dépendance de l'alcool, d'une drogue ou d'une autre substance. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-328 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-328 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Corrections and Conditional Release Act (dependence on alcohol or drugs) |  | Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (dépendance à l'alcool ou aux drogues) |  |  |
+| 1992, c. 20 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | 1992, ch. 20 |
+|  | 1. Section 102 of the Corrections and Conditional Release Act is amended by striking out the word "and" at the end of paragraph (a), by adding the word "and" at the end of paragraph (b) and by adding the following after paragraph (b): (c) the offender is not dependent on alcohol, a drug or any other substance, as stated in a medical certificate provided to the Board by a qualified medical practitioner in the prescribed form. |  | 1. L'article 102 de la Loi sur le système correctionnel et la mise en liberté sous condition est remplacé par ce qui suit : 102. La Commission et les commissions provinciales peuvent autoriser la libération conditionnelle si elles sont d'avis qu'une récidive du délinquant avant l'expiration légale de la peine qu'il purge ne présentera pas un risque inacceptable pour la société, que cette libération contribuera à la protection de celle-ci en favorisant sa réinsertion sociale en tant que citoyen respectueux des lois et que le délinquant n'est pas sous la dépendance de l'alcool, d'une drogue ou de toute autre substance, tel que l'atteste un certificat médical en la forme réglementaire fourni à la Commission par un médecin qualifié. |  | Critères |
+|  | 2. Subsection 126(2) of the Act is replaced by the following: |  | 2. Le paragraphe 126(2) de la même loi est remplacé par ce qui suit : |  |  |
+| Release on full parole | (2) Notwithstanding paragraphs 102(a) and (b), if the Board is satisfied that there are no reasonable grounds to believe that the offender, if released, is likely to commit an offence involving violence before the expiration of the offender's sentence according to law, it shall direct that the offender be released on full parole. |  | (2) Par dérogation aux alinéas 102a) et b), quand elle est convaincue qu'il n'existe aucun motif raisonnable de croire que le délinquant commettra une infraction accompagnée de violence s'il est remis en liberté avant l'expiration légale de sa peine, la Commission ordonne sa libération conditionnelle totale. |  | Libération conditionnelle totale |
