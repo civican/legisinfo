@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-343 Second Session, Thirty-seventh Parliament, 51 Elizabeth II, 2002 |  | C-343 Deuxième session, trente-septième législature, 51 Elizabeth II, 2002 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-343 |  | PROJET DE LOI C-343 |
+| An Act to amend the Citizenship Act |  | Loi modifiant la Loi sur la citoyenneté |
+| First reading, December 12, 2002 |  | Première lecture le 12 décembre 2002 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment is designed to remedy the situation where a person has, as a child, been deprived of their Canadian citizenship as a result of the operation of section 18 of the Canadian Citizenship Act, chapter 15 of the Statutes of Canada, 1946. That provision, which was in force until February 14, 1977, provided that a minor child ceased to be a Canadian citizen upon their responsible parent becoming the citizen of another country. This enactment makes it easier for such a person to regain their Canadian citizenship as they will no longer have to be established as a permanent resident in order to do so. | Le texte vise à remédier à la situation d'une personne qui, dans son enfance, a perdu la citoyenneté canadienne par application de l'article 18 de la Loi sur la citoyenneté canadienne, chapitre 15 des Statuts du Canada de 1946. Selon cette disposition, en vigueur jusqu'au 14 février 1977, un enfant mineur perdait la citoyenneté canadienne lorsque le parent responsable devenait citoyen d'un autre pays. Le texte facilite la réintégration d'une telle personne dans la citoyenneté canadienne puisqu'elle n'a plus à être un résident permanent avant d'en faire la demande. |
+
+|  | 2nd Session, 37th Parliament, 51 Elizabeth II, 2002 House of Commons of Canada Bill C-343 |  | 2e session, 37e législature, 51 Elizabeth II, 2002 Chambre des communes du Canada Projet de loi C-343 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Citizenship Act |  | Loi modifiant la Loi sur la citoyenneté |  |  |
+| R.S., c. C-29 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-29 |
+|  | 1. Section 11 of the Citizenship Act is amended by adding the following after subsection (1): |  | 1. L'article 11 de la Loi sur la citoyenneté est modifié par adjonction, après le paragraphe (1), de ce qui suit : |  |  |
+| Exception | (1.1) The requirement set out in paragraph (1)(d) does not apply to a person who ceased to be a Canadian citizen as a result of a parent of that person acquiring the citizenship or nationality of another country before February 15, 1977. |  | (1.1) La personne qui a cessé d'être un citoyen canadien parce qu'un de ses parents a acquis la citoyenneté ou la nationalité d'un autre pays avant le 15 février 1977 n'est pas soumise aux exigences énoncées à l'alinéa (1)d). |  | Exception |
+| Bill C-18 | 2. If Bill C-18, introduced in the 2nd session of the 37th Parliament and entitled the Citizenship of Canada Act, receives royal assent, then section 19 of that Act is amended by adding the following after subsection (2): |  | 2. En cas de sanction du projet de loi C-18, déposé au cours de la 2e session de la 37e législature et intitulé Loi sur la citoyen-neté canadienne, l'article 19 de cette loi est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  | Projet de loi C-18 |
+| Exception | (3) The requirements set out in paragraphs (1)(a) and (b) do not apply to a person who ceased to be a Canadian citizen as a result of a parent of that person acquiring the citizenship or nationality of another country before February 15, 1977. |  | (3) La personne qui a cessé d'être un citoyen canadien parce qu'un de ses parents a acquis la citoyenneté ou la nationalité d'un autre pays avant le 15 février 1977 n'est pas soumise aux exigences énoncées aux alinéas (1)a) et b). |  | Exception |
