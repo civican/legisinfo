@@ -1,0 +1,1487 @@
+<Bills>
+  <Bill>
+    <Id>514757</Id>
+    <NumberCode>C-7</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>7</Number>
+    <LongTitleEn>An Act respecting leadership selection, administration and accountability of Indian bands, and to make related amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi concernant le choix des dirigeants, le gouvernement et l'obligation de rendre compte des bandes indiennes et modifiant certaines lois</LongTitleFr>
+    <LongTitle>An Act respecting leadership selection, administration and accountability of Indian bands, and to make related amendments to other Acts</LongTitle>
+    <ShortTitleEn>First Nations Governance Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la gouvernance des premières nations</ShortTitleFr>
+    <ShortTitle>First Nations Governance Act</ShortTitle>
+    <StatusId>351</StatusId>
+    <StatusNameEn>At report stage and second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'étape du rapport et de la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At report stage and second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60048</OngoingStageId>
+    <OngoingStageNameEn>Report stage and second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Étape du rapport et deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Report stage and second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2003-05-28T15:21:44</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>37</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>709</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Robert</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Nault</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>Robert</SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>D.</SponsorPersonMiddleName>
+    <SponsorPersonName>Robert D. Nault</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Indian Affairs and Northern Development</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Affaires indiennes et du Nord canadien</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Indian Affairs and Northern Development</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>240</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Kenora—Rainy River</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Kenora—Rainy River</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Kenora—Rainy River</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60145</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at report stage and second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape du rapport et de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60048</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at report stage and second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2003-06-03T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>110</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2002-10-09T15:05:53</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;Pursuant to Order made by the House of Commons on October 7, 2002, the Bill was deemed approved at all stages completed in the previous session (previously Bill C-61 in the 1st Session of the 37th Parliament).&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Conformément à l'ordre adopté par la Chambre des communes le 7 octobre 2002, le projet de loi est réputé approuvé à toutes les étapes franchies lors de la session précédente (ancien projet de loi C-61 de la 1&lt;sup&gt;re&lt;/sup&gt; session de la 37&lt;sup&gt;e&lt;/sup&gt; législature).&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;Pursuant to Order made by the House of Commons on October 7, 2002, the Bill was deemed approved at all stages completed in the previous session (previously Bill C-61 in the 1st Session of the 37th Parliament).&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2002-10-09T15:05:53</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>8</Number>
+          <Date>2002-10-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2002-10-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2002-10-09T15:05:53</EventStartDateTime>
+          <EventEndDateTime>2002-10-09T15:05:53</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2002-10-09T15:05:53</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60047</BillStageId>
+        <BillStageNameEn>Referral to committee before second reading</BillStageNameEn>
+        <BillStageNameFr>Renvoi à un comité avant la deuxième lecture</BillStageNameFr>
+        <BillStageName>Referral to committee before second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2002-10-09T15:10:24</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+          <StudyActivityId>626203</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Referral to committee before second reading</NameEn>
+          <NameFr>Renvoi en comité avant la deuxième lecture</NameFr>
+          <Name>Referral to committee before second reading</Name>
+          <Number>8</Number>
+          <Date>2002-10-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60122</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee before second reading</EventNameEn>
+          <EventNameFr>Renvoi en comité avant la deuxième lecture</EventNameFr>
+          <EventName>Referral to committee before second reading</EventName>
+          <EventDateTime>2002-10-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60122</EventTypeId>
+          <EventTypeNameEn>Referral to committee before second reading</EventTypeNameEn>
+          <EventTypeNameFr>Renvoi en comité avant la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Referral to committee before second reading</EventTypeName>
+          <EventStartDateTime>2002-10-09T15:10:24</EventStartDateTime>
+          <EventEndDateTime>2002-10-09T15:10:24</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2002-10-09T15:10:24</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2003-05-28T15:21:44</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+          <StudyActivityId>626203</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>107</Number>
+          <Date>2003-05-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2003-01-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2003-01-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2003-01-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2003-01-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2003-01-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2003-02-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2003-02-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2003-02-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2003-02-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2003-02-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2003-02-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2003-02-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2003-02-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2003-02-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2003-02-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2003-02-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2003-02-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2003-02-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2003-02-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2003-02-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2003-02-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2003-02-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2003-02-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2003-02-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2003-02-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>39</Number>
+          <Date>2003-02-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2003-02-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2003-03-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2003-03-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2003-03-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2003-03-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2003-03-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2003-03-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2003-03-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2003-03-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2003-03-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2003-03-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2003-03-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>52</Number>
+          <Date>2003-03-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>53</Number>
+          <Date>2003-03-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>54</Number>
+          <Date>2003-03-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>55</Number>
+          <Date>2003-03-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>56</Number>
+          <Date>2003-03-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>57</Number>
+          <Date>2003-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>60</Number>
+          <Date>2003-04-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>61</Number>
+          <Date>2003-04-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>62</Number>
+          <Date>2003-04-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>63</Number>
+          <Date>2003-04-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>64</Number>
+          <Date>2003-04-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>65</Number>
+          <Date>2003-04-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>66</Number>
+          <Date>2003-04-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>67</Number>
+          <Date>2003-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>68</Number>
+          <Date>2003-05-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>69</Number>
+          <Date>2003-05-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>70</Number>
+          <Date>2003-05-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>71</Number>
+          <Date>2003-05-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>72</Number>
+          <Date>2003-05-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>73</Number>
+          <Date>2003-05-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>74</Number>
+          <Date>2003-05-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>75</Number>
+          <Date>2003-05-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>76</Number>
+          <Date>2003-05-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>77</Number>
+          <Date>2003-05-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>3273</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones, du développement du Grand Nord et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>AANR</CommitteeAcronym>
+          <Number>78</Number>
+          <Date>2003-05-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs, Northern Development and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2003-05-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>1032245</CommitteeReportId>
+          <CommitteeReportNumber>4</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2003-05-28T15:21:44</EventStartDateTime>
+          <EventEndDateTime>2003-05-28T15:21:44</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2003-05-28T15:21:44</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60048</BillStageId>
+        <BillStageNameEn>Report stage and second reading</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport et deuxième lecture</BillStageNameFr>
+        <BillStageName>Report stage and second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>37</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage and second reading</NameEn>
+          <NameFr>Débat à l'étape du rapport et de la deuxième lecture</NameFr>
+          <Name>Debate at report stage and second reading</Name>
+          <Number>110</Number>
+          <Date>2003-06-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2003-06-03T17:20:01</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>2331449</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2331450</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>91</BibliographicNoticeId>
+      <Title>Tough guy: Robert Nault is picking a fight with First Nations over the issue of band governance</Title>
+      <Author>Geddes, John</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>115: 40, 42, 44-5</VolumePage>
+      <PublicationDate>July 1, 2002</PublicationDate>
+      <Classification>FC 1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>143</BibliographicNoticeId>
+      <Title>Unfinished business : Chrétien promises one last time to help Aboriginals</Title>
+      <Author>Beltrame, Julian</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>115:17-18</VolumePage>
+      <PublicationDate>Oct. 14, 2002</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>145</BibliographicNoticeId>
+      <Title>Governance Act protest draws sizable crowds in NW Ontario</Title>
+      <Author>
+      </Author>
+      <Publication>First perspective</Publication>
+      <VolumePage>11:3</VolumePage>
+      <PublicationDate>Sept. 2002</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>158</BibliographicNoticeId>
+      <Title>Taking and enforcing security under the Indian Act and self-government legislation</Title>
+      <Author>Reynolds, James I.</Author>
+      <Publication>Banking &amp; finance law review</Publication>
+      <VolumePage>18:37-65</VolumePage>
+      <PublicationDate>Dec. 2002</PublicationDate>
+      <Classification>HG2702 B36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>188</BibliographicNoticeId>
+      <Title>Why First Nations people cannot accept Robert Nault's initiative</Title>
+      <Author>Boisard, Stéphanie</Author>
+      <Publication>Canadian dimension</Publication>
+      <VolumePage>36:33-5</VolumePage>
+      <PublicationDate>July/Aug. 2002</PublicationDate>
+      <Classification>F5001 C33</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>189</BibliographicNoticeId>
+      <Title>First peoples and the struggle for democratic sovereignties</Title>
+      <Author>Kulchyski, Peter</Author>
+      <Publication>Canadian dimension</Publication>
+      <VolumePage>37:32-5</VolumePage>
+      <PublicationDate>Jan./Feb. 2003</PublicationDate>
+      <Classification>F5001 C33</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1207</BibliographicNoticeId>
+      <Title>Good (Native) governance</Title>
+      <Author>Riley, Angela R</Author>
+      <Publication>Columbia law review</Publication>
+      <VolumePage>107:1049-1125</VolumePage>
+      <PublicationDate>June 2007</PublicationDate>
+      <Classification>K3 O355</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>345</BibliographicNoticeId>
+      <Title>Governance act dead, for now - Nault</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>21:11-12</VolumePage>
+      <PublicationDate>Nov. 2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>346</BibliographicNoticeId>
+      <Title>As the FNGA expires, where to from here?</Title>
+      <Author>Wastasecoot, James</Author>
+      <Publication>The First perspective</Publication>
+      <VolumePage>12:4</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>347</BibliographicNoticeId>
+      <Title>New minister says FNGA may be reintroduced</Title>
+      <Author>Kruzenga, Len</Author>
+      <Publication>The First perspective</Publication>
+      <VolumePage>12:1,9</VolumePage>
+      <PublicationDate>Jan. 2004</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>348</BibliographicNoticeId>
+      <Title>Stewardship and the First Nations Governance Act</Title>
+      <Author>Borrows, John</Author>
+      <Publication>Queen's law journal</Publication>
+      <VolumePage>29:103-32</VolumePage>
+      <PublicationDate>Fall 2003</PublicationDate>
+      <Classification>K17 U44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>396</BibliographicNoticeId>
+      <Title>C-19, C-6 live on despite chiefs' objections</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>21:10</VolumePage>
+      <PublicationDate>Feb. 2004</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>397</BibliographicNoticeId>
+      <Title>Mitchell announces new strategy for working with first nations</Title>
+      <Author>
+      </Author>
+      <Publication>First perspectives</Publication>
+      <VolumePage>13:3, 6</VolumePage>
+      <PublicationDate>Feb. 2004</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>235</BibliographicNoticeId>
+      <Title>Harvard study group finds fault with FNGA [First Nations Governance Act]</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>20:1-2</VolumePage>
+      <PublicationDate>Feb. 2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>237</BibliographicNoticeId>
+      <Title>Cabinet memo reveals plan</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>20:1, 8</VolumePage>
+      <PublicationDate>Jan.  2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>245</BibliographicNoticeId>
+      <Title>By hook or by crook</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>21:9, 11</VolumePage>
+      <PublicationDate>May 2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>246</BibliographicNoticeId>
+      <Title>FSIN [Federation of Saskatchewan Indian Nation] lawsuit given green light</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>21:9</VolumePage>
+      <PublicationDate>May 2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>253</BibliographicNoticeId>
+      <Title>Anti-FNGA rhetoric reaches fevered pitch</Title>
+      <Author>Kruzenga, Len</Author>
+      <Publication>First perspective</Publication>
+      <VolumePage>12:1, 4</VolumePage>
+      <PublicationDate>May 2003</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>279</BibliographicNoticeId>
+      <Title>Martin &amp; Nault : at odds over the FNGA</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>21:9</VolumePage>
+      <PublicationDate>June 2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>190</BibliographicNoticeId>
+      <Title>Minister [Robert Nault] accused of abuse of power</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>20:3, 9</VolumePage>
+      <PublicationDate>Jan. 2003</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>192</BibliographicNoticeId>
+      <Title>Chiefs reject governance process</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>19:1, 3</VolumePage>
+      <PublicationDate>June 2001</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>193</BibliographicNoticeId>
+      <Title>Minister pledges $110 million</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>20:1, 3</VolumePage>
+      <PublicationDate>July 2002</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>194</BibliographicNoticeId>
+      <Title>Police powers worry critics</Title>
+      <Author>Barnsley, Paul</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>20:1, 3</VolumePage>
+      <PublicationDate>July 2002</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>197</BibliographicNoticeId>
+      <Title>AFN assembly tackles governance act</Title>
+      <Author>Montour, Ross</Author>
+      <Publication>The First perspective</Publication>
+      <VolumePage>11:1, 4</VolumePage>
+      <PublicationDate>Aug. 2002</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>198</BibliographicNoticeId>
+      <Title>New governance act enrages leaders</Title>
+      <Author>Kruzenga, Len</Author>
+      <Publication>The First perspective</Publication>
+      <VolumePage>11:1, 4</VolumePage>
+      <PublicationDate>July 2002</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>470796</Id>
+      <NumberCode>C-61</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>61</Number>
+      <LongTitleEn>An Act respecting leadership selection, administration and accountability of Indian bands, and to make related amendments to other Acts</LongTitleEn>
+      <LongTitleFr>Loi concernant le choix des dirigeants, le gouvernement et l'obligation de rendre compte des bandes indiennes et modifiant certaines lois</LongTitleFr>
+      <LongTitle>An Act respecting leadership selection, administration and accountability of Indian bands, and to make related amendments to other Acts</LongTitle>
+      <ShortTitleEn>First Nations Governance Act</ShortTitleEn>
+      <ShortTitleFr>Loi sur la gouvernance des premières nations</ShortTitleFr>
+      <ShortTitle>First Nations Governance Act</ShortTitle>
+      <StatusId>352</StatusId>
+      <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+      <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+      <StatusName>At consideration in committee in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60047</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>Referral to committee before second reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Renvoi à un comité avant la deuxième lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>Referral to committee before second reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2002-06-17T16:35:07</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>37</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2002-06-14T12:28:29</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
