@@ -1,0 +1,170 @@
+<Bills>
+  <Bill>
+    <Id>9062</Id>
+    <NumberCode>C-9</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>9</Number>
+    <LongTitleEn>An Act for making the system of Canadian ports competitive, efficient and commercially oriented, providing for the establishing of port authorities and the divesting of certain harbours and ports, for the commercialization of the St. Lawrence Seaway and ferry services and other matters related to maritime trade and transport and amending the Pilotage Act and amending and repealing other Acts as a consequence</LongTitleEn>
+    <LongTitleFr>Loi favorisant la compétitivité du réseau portuaire canadien par une rationalisation de sa gestion, prévoyant la création des administrations portuaires et l'aliénation de certains ports, régissant la commercialisation de la Voie maritime du Saint-Laurent et des traversiers et des questions connexes liées au commerce et au transport maritimes, modifiant la Loi sur le pilotage et abrogeant et modifiant certaines lois en conséquence</LongTitleFr>
+    <LongTitle>An Act for making the system of Canadian ports competitive, efficient and commercially oriented, providing for the establishing of port authorities and the divesting of certain harbours and ports, for the commercialization of the St. Lawrence Seaway and ferry services and other matters related to maritime trade and transport and amending the Pilotage Act and amending and repealing other Acts as a consequence</LongTitle>
+    <ShortTitleEn>Canada Marine Act</ShortTitleEn>
+    <ShortTitleFr>Loi maritime du Canada</ShortTitleFr>
+    <ShortTitle>Canada Marine Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>1998-06-11T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>36</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>583</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>David</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Collenette</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>David Collenette</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Transport</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Transports</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Transport</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>219</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Don Valley East</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Don Valley-Est</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Don Valley East</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn />
+    <LatestBillEventTypeNameFr />
+    <LatestBillEventStageId>0</LatestBillEventStageId>
+    <LatestBillEventTypeName />
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn />
+    <LatestBillEventChamberNameFr />
+    <LatestBillEventChamberName />
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber />
+    <LatestBillEventAdditionalInformationEn />
+    <LatestBillEventAdditionalInformationFr />
+    <LatestBillEventAdditionalInformation />
+    <PassedHouseFirstReadingDateTime>1997-10-02T00:00:00</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>1997-12-04T00:00:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>1997-12-09T00:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>1997-12-09T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>1998-03-26T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>1998-05-28T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>1998-06-11T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>1998</StatuteYear>
+    <StatuteChapter>10</StatuteChapter>
+    <BillStages />
+    <Publications>
+      <PublicationId>2330067</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2330068</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2330069</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2330070</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
