@@ -1,0 +1,15 @@
+Bill C-504 PublicationID : 2330861 Table of ContentsSummaryBILL C-504Income Tax Act
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | This enactment will permit a tax deduction of up to $10,000 for a taxpayer who has paid the funeral expenses of a person who has been buried in Canada. Taxpayers eligible for the tax deduction include the taxpayer who has died, the legal representative of the taxpayer who has died and any other taxpayer who has paid the funeral expenses of the person who has died. |  |
+
+|  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-504 An Act to amend the Income Tax Act (to provide for the deduction of funeral expenses) Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: *Income Tax Act* **1. The *Income Tax Act* is amended by adding the following after paragraph 110(1)(*d*.3):** Funeral Expenses (*d*.4) Funeral Expenses An amount equal to the funeral expenses of a person who is buried in Canada, but not greater than $ 10,000, paid by the taxpayer, if (i) the deduction is made within any period of 24 months of the death of the person, including the day of death; (ii) payment of the expenses is proven by filing receipts with the Minister; and (iii) payment of the expenses was made to a funeral practitioner qualified to practise and licensed to operate a funeral establishment under the laws of the place where the expenses were incurred. For the purposes of this paragraph, ``taxpayer'' includes not only a taxpayer who has died or the legal representative of that taxpayer but also any other taxpayer who has paid for the funeral expenses of the person who is buried in Canada.
+
+|  | 2nd Session, 36th Parliament, 48-49 Elizabeth II, 1999-2000 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-504 An Act to amend the Income Tax Act (to provide for the deduction of funeral expenses) Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: *Income Tax Act* **1. The *Income Tax Act* is amended by adding the following after paragraph 110(1)(*d*.3):** Funeral Expenses (*d*.4) Funeral Expenses An amount equal to the funeral expenses of a person who is buried in Canada, but not greater than $ 10,000, paid by the taxpayer, if (i) the deduction is made within any period of 24 months of the death of the person, including the day of death; (ii) payment of the expenses is proven by filing receipts with the Minister; and (iii) payment of the expenses was made to a funeral practitioner qualified to practise and licensed to operate a funeral establishment under the laws of the place where the expenses were incurred. For the purposes of this paragraph, ``taxpayer'' includes not only a taxpayer who has died or the legal representative of that taxpayer but also any other taxpayer who has paid for the funeral expenses of the person who is buried in Canada.
