@@ -1,4 +1,4 @@
-Bill C-32 PublicationID : 2329928 Table of ContentsSummaryBILL C-32SHORT TITLEADMINISTRATIVE DUTIESINTERPRETATIONHER MAJESTYPART 1ADMINISTRATIONAdvisory CommitteesAgreements Respecting AdministrationAgreements Respecting Equivalent ProvisionsPART 2PUBLIC PARTICIPATIONInterpretationEnvironmental RegistryRights under Other PartsVoluntary ReportsInvestigation of OffencesEnvironmental Protection ActionAction to Prevent or Compensate LossOther MattersPART 3INFORMATION GATHERING, CODES OF PRACTICEInterpretationEnvironmental Data and ResearchInformation GatheringObjectives, Guidelines and Codes of PracticePART 4POLLUTION PREVENTIONPollution Prevention PlansModel Plans and GuidelinesOther InitiativesPART 5CONTROLLING TOXIC SUBSTANCESInterpretationGeneralInformation GatheringPriority Substances and Other SubstancesSubstances and Activities New to CanadaRegulation of Toxic SubstancesRelease of Toxic SubstancesExport of SubstancesPART 6ANIMATE PRODUCTS OF BIOTECHNOLOGYPART 7CONTROLLING POLLUTION AND MANAGING WASTESDIVISION 1NUTRIENTSDIVISION 2PROTECTION OF THE MARINE ENVIRONMENT FROM LAND-BASED SOURCES OF POLLUTIONDIVISION 3DISPOSAL AT SEADIVISION 4FUELSDIVISION 5VEHICLE, ENGINE AND EQUIPMENT EMISSIONSDIVISION 6INTERNATIONAL AIR POLLUTIONDIVISION 7INTERNATIONAL WATER POLLUTIONDIVISION 8CONTROL OF MOVEMENT OF HAZARDOUS NON-HAZARDOUS WASTE FOR FINAL DISPOSALPART 8ENVIRONMENTAL MATTERS RELATED TO EMERGENCIESPART 9GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LANDInterpretationApplication Objectives, Guidelines and Codes of PracticeRegulationsInformation about Works and ActivitiesRelease of SubstancesPART 10ENFORCEMENTInterpretationDesignation of Enforcement Officers and AnalystsInspectionSearchDetentionDetention of ShipsAssistance to Enforcement Officers and AnalystsForfeitureEnvironmental Protection Compliance OrdersReview OfficersReviewsFederal CourtOffences and PunishmentSentencing CriteriaDischargeEnvironmental Protection Alternative MeasuresContraventionsOther RemediesDefencePART 11MISCELLANEOUS MATTERSDisclosure of InformationEconomic InstrumentsRegulations Respecting Fees and ChargesGeneral Regulation-making Powers and ExemptionsPrepublication RequirementsBoard of Review ProceedingsReport to ParliamentPART 12CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCEConsequential AmendmentsProvisions of the Canadian Environmental Protection Act, 1999RepealTransitionalComing into ForceSCHEDULE 1SCHEDULE 2SCHEDULE 3SCHEDULE 4SCHEDULE 5SCHEDULE 6TABLE OF PROVISIONS
+Bill C-32 PublicationID : 2329929 Table of ContentsSummaryBILL C-32SHORT TITLEADMINISTRATIVE DUTIESINTERPRETATIONHER MAJESTYPART 1ADMINISTRATIONAdvisory CommitteesAgreements Respecting AdministrationAgreements Respecting Equivalent ProvisionsPART 2PUBLIC PARTICIPATIONInterpretationEnvironmental RegistryRights under Other PartsVoluntary ReportsInvestigation of OffencesEnvironmental Protection ActionAction to Prevent or Compensate LossOther MattersPART 3INFORMATION GATHERING, CODES OF PRACTICEInterpretationEnvironmental Data and ResearchInformation GatheringObjectives, Guidelines and Codes of PracticePART 4POLLUTION PREVENTIONPollution Prevention PlansModel Plans and GuidelinesOther InitiativesPART 5CONTROLLING TOXIC SUBSTANCESInterpretationGeneralInformation GatheringPriority Substances and Other SubstancesSubstances and Activities New to CanadaRegulation of Toxic SubstancesRelease of Toxic SubstancesExport of SubstancesPART 6ANIMATE PRODUCTS OF BIOTECHNOLOGYPART 7CONTROLLING POLLUTION AND MANAGING WASTESDIVISION 1NUTRIENTSDIVISION 2PROTECTION OF THE MARINE ENVIRONMENT FROM LAND-BASED SOURCES OF POLLUTIONDIVISION 3DISPOSAL AT SEADIVISION 4FUELSDIVISION 5VEHICLE, ENGINE AND EQUIPMENT EMISSIONSDIVISION 6INTERNATIONAL AIR POLLUTIONDIVISION 7INTERNATIONAL WATER POLLUTIONDIVISION 8CONTROL OF MOVEMENT OF HAZARDOUS NON-HAZARDOUS WASTE FOR FINAL DISPOSALPART 8ENVIRONMENTAL MATTERS RELATED TO EMERGENCIESPART 9GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LANDInterpretationApplication Objectives, Guidelines and Codes of PracticeRegulationsInformation about Works and ActivitiesRelease of SubstancesPART 10ENFORCEMENTInterpretationDesignation of Enforcement Officers and AnalystsInspectionSearchDetentionDetention of ShipsAssistance to Enforcement Officers and AnalystsForfeitureEnvironmental Protection Compliance OrdersReview OfficersReviewsFederal CourtOffences and PunishmentSentencing CriteriaDischargeEnvironmental Protection Alternative MeasuresContraventionsOther RemediesDefencePART 11MISCELLANEOUS MATTERSDisclosure of InformationEconomic InstrumentsRegulations Respecting Fees and ChargesGeneral Regulation-making Powers and ExemptionsPrepublication RequirementsBoard of Review ProceedingsReport to ParliamentPART 12CONSEQUENTIAL AMENDMENTS, AND COMING INTO FORCEConsequential AmendmentsProvisions of the Canadian Environmental Protection Act, 1999RepealTransitionalComing into ForceSCHEDULE 1SCHEDULE 2SCHEDULE 3SCHEDULE 4SCHEDULE 5SCHEDULE 6TABLE OF PROVISIONS
 
 |  | RECOMMENDATION |  |
 | --- | --- | --- |
@@ -8,25 +8,13 @@ Bill C-32 PublicationID : 2329928 Table of ContentsSummaryBILL C-32SHORT TITLEAD
 |  | The enactment provides for the gathering of information for research and the creation of inventories of data, which are designed for publication, and for the development and publishing of objectives, guidelines and codes of practice. The enactment also provides new powers for enforcement officers and analysts appointed by the Minister of the Environment to enforce the law. Environmental protection alternative measures and environmental protection compliance orders provide new mechanisms for the resolution of a contravention. The enactment also specifies criteria for courts to consider on imposing a sentence on an offender. |  |
 |  | In addition, the enactment contains new rights for Canadians who, through written comments or notices of objection to the Minister of the Environment, may participate in decisions on environmental matters, may compel the Minister to investigate an alleged contravention of the Act, and may bring a civil action when the federal government is not enforcing the law. Aboriginal governments are provided the right of representation on the National Advisory Committee to be established under the enactment and, like the provinces and territories, may seek to have their laws declared equivalent to regulations under the Canadian Environmental Protection Act, 1999. |  |
 
-|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
-| --- | --- |
+| | 48 ELIZABETH II | | | --- | --- | --- | | | CHAPTER 33 | | | | An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development | | | --- | --- | --- | | | [Assented to 14th September, 1999] | | | Declaration | It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. | | | Preamble | Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; | | | | Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; | | | | Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; | | | | Whereas the Government of Canada recognizes the importance of an ecosystem approach; | | | | Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; | | | | Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; | | | | Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; | | | | Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; | | | | Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; | | | | Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; | | | | Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; | | | | Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; | | | | Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; | | | | Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; | | | | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: | | | | SHORT TITLE | | | Short title | 1. This Act may be cited as the Canadian Environmental Protection Act, 1999. | | | | ADMINISTRATIVE DUTIES | | | Duties of the Government of Canada | 2. (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), | | | | (a) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; | | | | (a.1) take preventive and remedial measures to protect, enhance and restore the environment; | | | | (b) take the necessity of protecting the environment into account in making social and economic decisions; | | | | (c) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; | | | | (d) endeavour to act in cooperation with governments to protect the environment; | | | | (e) encourage the participation of the people of Canada in the making of decisions that affect the environment; | | | | (f) facilitate the protection of the environment by the people of Canada; | | | | (g) establish nationally consistent standards of environmental quality; | | | | (h) provide information to the people of Canada on the state of the Canadian environment; | | | | (i) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; | | | | (j) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; | | | | (j.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | (k) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; | | | | (l) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; | | | | (m) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; | | | | (n) endeavour to exercise its powers to require the provision of information in a coordinated manner; and | | | | (o) apply and enforce this Act in a fair, predictable and consistent manner. | | | Considera- tions | (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(a.1): | | | | (a) the short- and long-term human and ecological benefits arising from the environmental protection measure; | | | | (b) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and | | | | (c) any other benefits accruing from the measure. | | | Action not limited | (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. | | | | INTERPRETATION | | | Definitions | 3. (1) The definitions in this subsection apply in this Act. | | | ``aboriginal government'' « gouverne- ment autochtone » | ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting | | | | (a) the protection of the environment; or | | | | (b) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. | | | ``aboriginal land'' « terres autochtones » | ``aboriginal land'' means | | | | (a) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the Indian Act; | | | | (b) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and | | | | (c) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (a) or (b). | | | ``air pollution'' « pollution atmosphériqu e » | ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly | | | | (a) endangers the health, safety or welfare of humans; | | | | (b) interferes with the normal enjoyment of life or property; | | | | (c) endangers the health of animal life; | | | | (d) causes damage to plant life or to property; or | | | | (e) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. | | | ``analyst'' « analyste » | ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). | | | ``biological diversity'' « diversité biologique » | ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. | | | ``biotechnolo gy'' « biotechnolo gie » | ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. | | | ``class of substances'' « catégorie de substances » | ``class of substances'' means any two or more substances that | | | | (a) contain the same portion of chemical structure; | | | | (b) have similar physico-chemical or toxicological properties; or | | | | (c) for the purposes of sections 68, 70 and 71, have similar types of use. | | | ``Committee'' « comité » | ``Committee'' means the National Advisory Committee established under section 6. | | | ``ecosystem'' « écosystème » | ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. | | | ``enforcement officer'' « agent de l'autorité » | ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. | | | ``environment '' « environnem ent » | ``environment'' means the components of the Earth and includes | | | | (a) air, land and water; | | | | (b) all layers of the atmosphere; | | | | (c) all organic and inorganic matter and living organisms; and | | | | (d) the interacting natural systems that include components referred to in paragraphs (a) to (c). | | | ``environment al emergency'' « urgence environnemen tale » | ``environmental emergency'' has the meaning given that expression in Part 8. | | | ``environment al quality'' « qualité de l'environneme nt » | ``environmental quality'' includes the health of ecosystems. | | | ``Environmen tal Registry'' « Registre » | ``Environmental Registry'' means the registry established under section 12. | | | ``federal land'' « territoire domanial » | ``federal land'' means | | | | (a) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and | | | | (b) the following land and areas, namely, | | | | (i) the internal waters of Canada as determined under the Oceans Act, including the seabed and subsoil below and the airspace above those waters, and | | | | (ii) the territorial sea of Canada as determined under the Oceans Act, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. | | | ``federal source'' « source d'origine fédérale » | ``federal source'' means | | | | (a) a department of the Government of Canada; | | | | (b) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; | | | | (c) a Crown corporation as defined in subsection 83(1) of the Financial Administration Act; or | | | | (d) a federal work or undertaking. | | | ``federal work or undertaking'' « entreprises fédérales » | ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to, | |
 
-The House of Commons of Canada # BILL C-32 An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development Declaration It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. Preamble Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; Whereas the Government of Canada recognizes the importance of an ecosystem approach; Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Canadian Environmental Protection Act, 1999*. #### ADMINISTRATIVE DUTIES Duties of the Government of Canada **2.** (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), (*a*) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; (*a*.1) take preventive and remedial measures to protect, enhance and restore the environment; (*b*) take the necessity of protecting the environment into account in making social and economic decisions; (*c*) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; (*d*) endeavour to act in cooperation with governments to protect the environment; (*e*) encourage the participation of the people of Canada in the making of decisions that affect the environment; (*f*) facilitate the protection of the environment by the people of Canada; (*g*) establish nationally consistent standards of environmental quality; (*h*) provide information to the people of Canada on the state of the Canadian environment; (*i*) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; (*j*) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; (*j*.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; (*k*) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; (*l*) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; (*m*) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; (*n*) endeavour to exercise its powers to require the provision of information in a coordinated manner; and (*o*) apply and enforce this Act in a fair, predictable and consistent manner. Considera- tions (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(*a*.1), (*a*) the short- and long-term human and ecological benefits arising from the environmental protection measure; (*b*) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and (*c*) any other benefits accruing from the measure. Action not limited (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. #### INTERPRETATION Definitions **3.** (1) The definitions in this subsection apply in this Act. ``aboriginal government'' « *gouverne- ment autochtone* » ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting (*a*) the protection of the environment; or (*b*) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. ``aboriginal land'' « *terres autochto- nes* » ``aboriginal land'' means (*a*) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the *Indian Act*; (*b*) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and (*c*) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (*a*) or (*b*). ``air pollution'' « *pollution atmosphé- rique* » ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly (*a*) endangers the health, safety or welfare of humans; (*b*) interferes with the normal enjoyment of life or property; (*c*) endangers the health of animal life; (*d*) causes damage to plant life or to property; or (*e*) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. ``analyst'' « *analyste* » ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). ``biological diversity'' « *diversité biologique* » ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. ``biotechno- logy'' « *biotechno- logie* » ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. ``class of substances'' « *catégorie de substances* » ``class of substances'' means any two or more substances that (*a*) contain the same portion of chemical structure; (*b*) have similar physico-chemical or toxicological properties; or (*c*) for the purposes of sections 68, 70 and 71, have similar types of use. ``Committee'' « *comité* » ``Committee'' means the National Advisory Committee established under section 6. ``ecosystem'' « *écosystème* » ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. ``enforce- ment officer'' « *agent de l'autorité* » ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. ``environ- ment'' « *environne- ment* » ``environment'' means the components of the Earth and includes (*a*) air, land and water; (*b*) all layers of the atmosphere; (*c*) all organic and inorganic matter and living organisms; and (*d*) the interacting natural systems that include components referred to in paragraphs (*a*) to (*c*). ``environ- mental emergency'' « *urgence environne- mentale* » ``environmental emergency'' has the meaning given that expression in Part 8. ``environ- mental quality'' « *qualité de l'environ- nement* » ``environmental quality'' includes the health of ecosystems. ``Environ- mental Registry'' « *Registre* » ``Environmental Registry'' means the registry established under section 12. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and (*b*) the following land and areas, namely, (i) the internal waters of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the airspace above those waters, and (ii) the territorial sea of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. ``federal source'' « *source d'origine fédérale* » ``federal source'' means (*a*) a department of the Government of Canada; (*b*) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; (*c*) a Crown corporation as defined in subsection 83(1) of the *Financial Administration Act*; or (*d*) a federal work or undertaking. ``federal work or undertaking'' « *entreprises fédérales* » ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to,
+| | 48 ELIZABETH II | | | --- | --- | --- | | | CHAPTER 33 | | | | An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development | | | --- | --- | --- | | | [Assented to 14th September, 1999] | | | Declaration | It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. | | | Preamble | Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; | | | | Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; | | | | Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; | | | | Whereas the Government of Canada recognizes the importance of an ecosystem approach; | | | | Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; | | | | Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; | | | | Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; | | | | Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; | | | | Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; | | | | Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; | | | | Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; | | | | Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; | | | | Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; | | | | Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; | | | | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: | | | | SHORT TITLE | | | Short title | 1. This Act may be cited as the Canadian Environmental Protection Act, 1999. | | | | ADMINISTRATIVE DUTIES | | | Duties of the Government of Canada | 2. (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), | | | | (a) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; | | | | (a.1) take preventive and remedial measures to protect, enhance and restore the environment; | | | | (b) take the necessity of protecting the environment into account in making social and economic decisions; | | | | (c) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; | | | | (d) endeavour to act in cooperation with governments to protect the environment; | | | | (e) encourage the participation of the people of Canada in the making of decisions that affect the environment; | | | | (f) facilitate the protection of the environment by the people of Canada; | | | | (g) establish nationally consistent standards of environmental quality; | | | | (h) provide information to the people of Canada on the state of the Canadian environment; | | | | (i) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; | | | | (j) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; | | | | (j.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | (k) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; | | | | (l) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; | | | | (m) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; | | | | (n) endeavour to exercise its powers to require the provision of information in a coordinated manner; and | | | | (o) apply and enforce this Act in a fair, predictable and consistent manner. | | | Considera- tions | (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(a.1): | | | | (a) the short- and long-term human and ecological benefits arising from the environmental protection measure; | | | | (b) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and | | | | (c) any other benefits accruing from the measure. | | | Action not limited | (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. | | | | INTERPRETATION | | | Definitions | 3. (1) The definitions in this subsection apply in this Act. | | | ``aboriginal government'' « gouverne- ment autochtone » | ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting | | | | (a) the protection of the environment; or | | | | (b) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. | | | ``aboriginal land'' « terres autochtones » | ``aboriginal land'' means | | | | (a) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the Indian Act; | | | | (b) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and | | | | (c) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (a) or (b). | | | ``air pollution'' « pollution atmosphériqu e » | ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly | | | | (a) endangers the health, safety or welfare of humans; | | | | (b) interferes with the normal enjoyment of life or property; | | | | (c) endangers the health of animal life; | | | | (d) causes damage to plant life or to property; or | | | | (e) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. | | | ``analyst'' « analyste » | ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). | | | ``biological diversity'' « diversité biologique » | ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. | | | ``biotechnolo gy'' « biotechnolo gie » | ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. | | | ``class of substances'' « catégorie de substances » | ``class of substances'' means any two or more substances that | | | | (a) contain the same portion of chemical structure; | | | | (b) have similar physico-chemical or toxicological properties; or | | | | (c) for the purposes of sections 68, 70 and 71, have similar types of use. | | | ``Committee'' « comité » | ``Committee'' means the National Advisory Committee established under section 6. | | | ``ecosystem'' « écosystème » | ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. | | | ``enforcement officer'' « agent de l'autorité » | ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. | | | ``environment '' « environnem ent » | ``environment'' means the components of the Earth and includes | | | | (a) air, land and water; | | | | (b) all layers of the atmosphere; | | | | (c) all organic and inorganic matter and living organisms; and | | | | (d) the interacting natural systems that include components referred to in paragraphs (a) to (c). | | | ``environment al emergency'' « urgence environnemen tale » | ``environmental emergency'' has the meaning given that expression in Part 8. | | | ``environment al quality'' « qualité de l'environneme nt » | ``environmental quality'' includes the health of ecosystems. | | | ``Environmen tal Registry'' « Registre » | ``Environmental Registry'' means the registry established under section 12. | | | ``federal land'' « territoire domanial » | ``federal land'' means | | | | (a) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and | | | | (b) the following land and areas, namely, | | | | (i) the internal waters of Canada as determined under the Oceans Act, including the seabed and subsoil below and the airspace above those waters, and | | | | (ii) the territorial sea of Canada as determined under the Oceans Act, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. | | | ``federal source'' « source d'origine fédérale » | ``federal source'' means | | | | (a) a department of the Government of Canada; | | | | (b) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; | | | | (c) a Crown corporation as defined in subsection 83(1) of the Financial Administration Act; or | | | | (d) a federal work or undertaking. | | | ``federal work or undertaking'' « entreprises fédérales » | ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to, | |
 
-|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
-| --- | --- |
+| | 48 ELIZABETH II | | | --- | --- | --- | | | CHAPTER 33 | | | | An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development | | | --- | --- | --- | | | [Assented to 14th September, 1999] | | | Declaration | It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. | | | Preamble | Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; | | | | Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; | | | | Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; | | | | Whereas the Government of Canada recognizes the importance of an ecosystem approach; | | | | Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; | | | | Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; | | | | Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; | | | | Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; | | | | Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; | | | | Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; | | | | Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; | | | | Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; | | | | Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; | | | | Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; | | | | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: | | | | SHORT TITLE | | | Short title | 1. This Act may be cited as the Canadian Environmental Protection Act, 1999. | | | | ADMINISTRATIVE DUTIES | | | Duties of the Government of Canada | 2. (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), | | | | (a) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; | | | | (a.1) take preventive and remedial measures to protect, enhance and restore the environment; | | | | (b) take the necessity of protecting the environment into account in making social and economic decisions; | | | | (c) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; | | | | (d) endeavour to act in cooperation with governments to protect the environment; | | | | (e) encourage the participation of the people of Canada in the making of decisions that affect the environment; | | | | (f) facilitate the protection of the environment by the people of Canada; | | | | (g) establish nationally consistent standards of environmental quality; | | | | (h) provide information to the people of Canada on the state of the Canadian environment; | | | | (i) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; | | | | (j) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; | | | | (j.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | (k) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; | | | | (l) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; | | | | (m) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; | | | | (n) endeavour to exercise its powers to require the provision of information in a coordinated manner; and | | | | (o) apply and enforce this Act in a fair, predictable and consistent manner. | | | Considera- tions | (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(a.1): | | | | (a) the short- and long-term human and ecological benefits arising from the environmental protection measure; | | | | (b) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and | | | | (c) any other benefits accruing from the measure. | | | Action not limited | (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. | | | | INTERPRETATION | | | Definitions | 3. (1) The definitions in this subsection apply in this Act. | | | ``aboriginal government'' « gouverne- ment autochtone » | ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting | | | | (a) the protection of the environment; or | | | | (b) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. | | | ``aboriginal land'' « terres autochtones » | ``aboriginal land'' means | | | | (a) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the Indian Act; | | | | (b) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and | | | | (c) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (a) or (b). | | | ``air pollution'' « pollution atmosphériqu e » | ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly | | | | (a) endangers the health, safety or welfare of humans; | | | | (b) interferes with the normal enjoyment of life or property; | | | | (c) endangers the health of animal life; | | | | (d) causes damage to plant life or to property; or | | | | (e) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. | | | ``analyst'' « analyste » | ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). | | | ``biological diversity'' « diversité biologique » | ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. | | | ``biotechnolo gy'' « biotechnolo gie » | ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. | | | ``class of substances'' « catégorie de substances » | ``class of substances'' means any two or more substances that | | | | (a) contain the same portion of chemical structure; | | | | (b) have similar physico-chemical or toxicological properties; or | | | | (c) for the purposes of sections 68, 70 and 71, have similar types of use. | | | ``Committee'' « comité » | ``Committee'' means the National Advisory Committee established under section 6. | | | ``ecosystem'' « écosystème » | ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. | | | ``enforcement officer'' « agent de l'autorité » | ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. | | | ``environment '' « environnem ent » | ``environment'' means the components of the Earth and includes | | | | (a) air, land and water; | | | | (b) all layers of the atmosphere; | | | | (c) all organic and inorganic matter and living organisms; and | | | | (d) the interacting natural systems that include components referred to in paragraphs (a) to (c). | | | ``environment al emergency'' « urgence environnemen tale » | ``environmental emergency'' has the meaning given that expression in Part 8. | | | ``environment al quality'' « qualité de l'environneme nt » | ``environmental quality'' includes the health of ecosystems. | | | ``Environmen tal Registry'' « Registre » | ``Environmental Registry'' means the registry established under section 12. | | | ``federal land'' « territoire domanial » | ``federal land'' means | | | | (a) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and | | | | (b) the following land and areas, namely, | | | | (i) the internal waters of Canada as determined under the Oceans Act, including the seabed and subsoil below and the airspace above those waters, and | | | | (ii) the territorial sea of Canada as determined under the Oceans Act, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. | | | ``federal source'' « source d'origine fédérale » | ``federal source'' means | | | | (a) a department of the Government of Canada; | | | | (b) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; | | | | (c) a Crown corporation as defined in subsection 83(1) of the Financial Administration Act; or | | | | (d) a federal work or undertaking. | | | ``federal work or undertaking'' « entreprises fédérales » | ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to, | |
 
-The House of Commons of Canada # BILL C-32 An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development Declaration It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. Preamble Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; Whereas the Government of Canada recognizes the importance of an ecosystem approach; Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Canadian Environmental Protection Act, 1999*. #### ADMINISTRATIVE DUTIES Duties of the Government of Canada **2.** (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), (*a*) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; (*a*.1) take preventive and remedial measures to protect, enhance and restore the environment; (*b*) take the necessity of protecting the environment into account in making social and economic decisions; (*c*) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; (*d*) endeavour to act in cooperation with governments to protect the environment; (*e*) encourage the participation of the people of Canada in the making of decisions that affect the environment; (*f*) facilitate the protection of the environment by the people of Canada; (*g*) establish nationally consistent standards of environmental quality; (*h*) provide information to the people of Canada on the state of the Canadian environment; (*i*) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; (*j*) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; (*j*.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; (*k*) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; (*l*) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; (*m*) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; (*n*) endeavour to exercise its powers to require the provision of information in a coordinated manner; and (*o*) apply and enforce this Act in a fair, predictable and consistent manner. Considera- tions (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(*a*.1), (*a*) the short- and long-term human and ecological benefits arising from the environmental protection measure; (*b*) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and (*c*) any other benefits accruing from the measure. Action not limited (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. #### INTERPRETATION Definitions **3.** (1) The definitions in this subsection apply in this Act. ``aboriginal government'' « *gouverne- ment autochtone* » ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting (*a*) the protection of the environment; or (*b*) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. ``aboriginal land'' « *terres autochto- nes* » ``aboriginal land'' means (*a*) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the *Indian Act*; (*b*) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and (*c*) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (*a*) or (*b*). ``air pollution'' « *pollution atmosphé- rique* » ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly (*a*) endangers the health, safety or welfare of humans; (*b*) interferes with the normal enjoyment of life or property; (*c*) endangers the health of animal life; (*d*) causes damage to plant life or to property; or (*e*) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. ``analyst'' « *analyste* » ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). ``biological diversity'' « *diversité biologique* » ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. ``biotechno- logy'' « *biotechno- logie* » ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. ``class of substances'' « *catégorie de substances* » ``class of substances'' means any two or more substances that (*a*) contain the same portion of chemical structure; (*b*) have similar physico-chemical or toxicological properties; or (*c*) for the purposes of sections 68, 70 and 71, have similar types of use. ``Committee'' « *comité* » ``Committee'' means the National Advisory Committee established under section 6. ``ecosystem'' « *écosystème* » ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. ``enforce- ment officer'' « *agent de l'autorité* » ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. ``environ- ment'' « *environne- ment* » ``environment'' means the components of the Earth and includes (*a*) air, land and water; (*b*) all layers of the atmosphere; (*c*) all organic and inorganic matter and living organisms; and (*d*) the interacting natural systems that include components referred to in paragraphs (*a*) to (*c*). ``environ- mental emergency'' « *urgence environne- mentale* » ``environmental emergency'' has the meaning given that expression in Part 8. ``environ- mental quality'' « *qualité de l'environ- nement* » ``environmental quality'' includes the health of ecosystems. ``Environ- mental Registry'' « *Registre* » ``Environmental Registry'' means the registry established under section 12. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and (*b*) the following land and areas, namely, (i) the internal waters of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the airspace above those waters, and (ii) the territorial sea of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. ``federal source'' « *source d'origine fédérale* » ``federal source'' means (*a*) a department of the Government of Canada; (*b*) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; (*c*) a Crown corporation as defined in subsection 83(1) of the *Financial Administration Act*; or (*d*) a federal work or undertaking. ``federal work or undertaking'' « *entreprises fédérales* » ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to,
-
-|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
-| --- | --- |
-
-The House of Commons of Canada # BILL C-32 An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development Declaration It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. Preamble Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; Whereas the Government of Canada recognizes the importance of an ecosystem approach; Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Canadian Environmental Protection Act, 1999*. #### ADMINISTRATIVE DUTIES Duties of the Government of Canada **2.** (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), (*a*) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; (*a*.1) take preventive and remedial measures to protect, enhance and restore the environment; (*b*) take the necessity of protecting the environment into account in making social and economic decisions; (*c*) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; (*d*) endeavour to act in cooperation with governments to protect the environment; (*e*) encourage the participation of the people of Canada in the making of decisions that affect the environment; (*f*) facilitate the protection of the environment by the people of Canada; (*g*) establish nationally consistent standards of environmental quality; (*h*) provide information to the people of Canada on the state of the Canadian environment; (*i*) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; (*j*) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; (*j*.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; (*k*) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; (*l*) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; (*m*) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; (*n*) endeavour to exercise its powers to require the provision of information in a coordinated manner; and (*o*) apply and enforce this Act in a fair, predictable and consistent manner. Considera- tions (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(*a*.1), (*a*) the short- and long-term human and ecological benefits arising from the environmental protection measure; (*b*) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and (*c*) any other benefits accruing from the measure. Action not limited (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. #### INTERPRETATION Definitions **3.** (1) The definitions in this subsection apply in this Act. ``aboriginal government'' « *gouverne- ment autochtone* » ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting (*a*) the protection of the environment; or (*b*) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. ``aboriginal land'' « *terres autochto- nes* » ``aboriginal land'' means (*a*) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the *Indian Act*; (*b*) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and (*c*) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (*a*) or (*b*). ``air pollution'' « *pollution atmosphé- rique* » ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly (*a*) endangers the health, safety or welfare of humans; (*b*) interferes with the normal enjoyment of life or property; (*c*) endangers the health of animal life; (*d*) causes damage to plant life or to property; or (*e*) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. ``analyst'' « *analyste* » ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). ``biological diversity'' « *diversité biologique* » ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. ``biotechno- logy'' « *biotechno- logie* » ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. ``class of substances'' « *catégorie de substances* » ``class of substances'' means any two or more substances that (*a*) contain the same portion of chemical structure; (*b*) have similar physico-chemical or toxicological properties; or (*c*) for the purposes of sections 68, 70 and 71, have similar types of use. ``Committee'' « *comité* » ``Committee'' means the National Advisory Committee established under section 6. ``ecosystem'' « *écosystème* » ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. ``enforce- ment officer'' « *agent de l'autorité* » ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. ``environ- ment'' « *environne- ment* » ``environment'' means the components of the Earth and includes (*a*) air, land and water; (*b*) all layers of the atmosphere; (*c*) all organic and inorganic matter and living organisms; and (*d*) the interacting natural systems that include components referred to in paragraphs (*a*) to (*c*). ``environ- mental emergency'' « *urgence environne- mentale* » ``environmental emergency'' has the meaning given that expression in Part 8. ``environ- mental quality'' « *qualité de l'environ- nement* » ``environmental quality'' includes the health of ecosystems. ``Environ- mental Registry'' « *Registre* » ``Environmental Registry'' means the registry established under section 12. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and (*b*) the following land and areas, namely, (i) the internal waters of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the airspace above those waters, and (ii) the territorial sea of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. ``federal source'' « *source d'origine fédérale* » ``federal source'' means (*a*) a department of the Government of Canada; (*b*) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; (*c*) a Crown corporation as defined in subsection 83(1) of the *Financial Administration Act*; or (*d*) a federal work or undertaking. ``federal work or undertaking'' « *entreprises fédérales* » ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to,
-
-|  | 1st Session, 36th Parliament, 46-47-48 Elizabeth II, 1997-98-99 |
-| --- | --- |
-
-The House of Commons of Canada # BILL C-32 An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development Declaration It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. Preamble Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; Whereas the Government of Canada recognizes the importance of an ecosystem approach; Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Canadian Environmental Protection Act, 1999*. #### ADMINISTRATIVE DUTIES Duties of the Government of Canada **2.** (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), (*a*) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; (*a*.1) take preventive and remedial measures to protect, enhance and restore the environment; (*b*) take the necessity of protecting the environment into account in making social and economic decisions; (*c*) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; (*d*) endeavour to act in cooperation with governments to protect the environment; (*e*) encourage the participation of the people of Canada in the making of decisions that affect the environment; (*f*) facilitate the protection of the environment by the people of Canada; (*g*) establish nationally consistent standards of environmental quality; (*h*) provide information to the people of Canada on the state of the Canadian environment; (*i*) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; (*j*) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; (*j*.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; (*k*) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; (*l*) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; (*m*) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; (*n*) endeavour to exercise its powers to require the provision of information in a coordinated manner; and (*o*) apply and enforce this Act in a fair, predictable and consistent manner. Considera- tions (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(*a*.1), (*a*) the short- and long-term human and ecological benefits arising from the environmental protection measure; (*b*) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and (*c*) any other benefits accruing from the measure. Action not limited (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. #### INTERPRETATION Definitions **3.** (1) The definitions in this subsection apply in this Act. ``aboriginal government'' « *gouverne- ment autochtone* » ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting (*a*) the protection of the environment; or (*b*) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. ``aboriginal land'' « *terres autochto- nes* » ``aboriginal land'' means (*a*) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the *Indian Act*; (*b*) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and (*c*) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (*a*) or (*b*). ``air pollution'' « *pollution atmosphé- rique* » ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly (*a*) endangers the health, safety or welfare of humans; (*b*) interferes with the normal enjoyment of life or property; (*c*) endangers the health of animal life; (*d*) causes damage to plant life or to property; or (*e*) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. ``analyst'' « *analyste* » ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). ``biological diversity'' « *diversité biologique* » ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. ``biotechno- logy'' « *biotechno- logie* » ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. ``class of substances'' « *catégorie de substances* » ``class of substances'' means any two or more substances that (*a*) contain the same portion of chemical structure; (*b*) have similar physico-chemical or toxicological properties; or (*c*) for the purposes of sections 68, 70 and 71, have similar types of use. ``Committee'' « *comité* » ``Committee'' means the National Advisory Committee established under section 6. ``ecosystem'' « *écosystème* » ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. ``enforce- ment officer'' « *agent de l'autorité* » ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. ``environ- ment'' « *environne- ment* » ``environment'' means the components of the Earth and includes (*a*) air, land and water; (*b*) all layers of the atmosphere; (*c*) all organic and inorganic matter and living organisms; and (*d*) the interacting natural systems that include components referred to in paragraphs (*a*) to (*c*). ``environ- mental emergency'' « *urgence environne- mentale* » ``environmental emergency'' has the meaning given that expression in Part 8. ``environ- mental quality'' « *qualité de l'environ- nement* » ``environmental quality'' includes the health of ecosystems. ``Environ- mental Registry'' « *Registre* » ``Environmental Registry'' means the registry established under section 12. ``federal land'' « *territoire domanial* » ``federal land'' means (*a*) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and (*b*) the following land and areas, namely, (i) the internal waters of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the airspace above those waters, and (ii) the territorial sea of Canada as determined under the *Oceans Act*, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. ``federal source'' « *source d'origine fédérale* » ``federal source'' means (*a*) a department of the Government of Canada; (*b*) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; (*c*) a Crown corporation as defined in subsection 83(1) of the *Financial Administration Act*; or (*d*) a federal work or undertaking. ``federal work or undertaking'' « *entreprises fédérales* » ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to,
+| | 48 ELIZABETH II | | | --- | --- | --- | | | CHAPTER 33 | | | | An Act respecting pollution prevention and the protection of the environment and human health in order to contribute to sustainable development | | | --- | --- | --- | | | [Assented to 14th September, 1999] | | | Declaration | It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention. | | | Preamble | Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities; | | | | Whereas the Government of Canada is committed to implementing pollution prevention as a national goal and as the priority approach to environmental protection; | | | | Whereas the Government of Canada acknowledges the need to virtually eliminate the most persistent and bioaccumulative toxic substances and the need to control and manage pollutants and wastes if their release into the environment cannot be prevented; | | | | Whereas the Government of Canada recognizes the importance of an ecosystem approach; | | | | Whereas the Government of Canada will continue to demonstrate national leadership in establishing environmental standards, ecosystem objectives and environmental quality guidelines and codes of practice; | | | | Whereas the Government of Canada is committed to implementing the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation; | | | | Whereas the Government of Canada recognizes that all governments in Canada have authority that enables them to protect the environment and recognizes that all governments face environmental problems that can benefit from cooperative resolution; | | | | Whereas the Government of Canada recognizes the importance of endeavouring, in cooperation with provinces, territories and aboriginal peoples, to achieve the highest level of environmental quality for all Canadians and ultimately contribute to sustainable development; | | | | Whereas the Government of Canada recognizes that the risk of toxic substances in the environment is a matter of national concern and that toxic substances, once introduced into the environment, cannot always be contained within geographic boundaries; | | | | Whereas the Government of Canada recognizes the integral role of science, as well as the role of traditional aboriginal knowledge, in the process of making decisions relating to the protection of the environment and human health and that environmental or health risks and social, economic and technical matters are to be considered in that process; | | | | Whereas the Government of Canada recognizes the responsibility of users and producers in relation to toxic substances and pollutants and wastes, and has adopted the ``polluter pays'' principle; | | | | Whereas the Government of Canada is committed to ensuring that its operations and activities on federal and aboriginal lands are carried out in a manner that is consistent with the principles of pollution prevention and the protection of the environment and human health; | | | | Whereas the Government of Canada will endeavour to remove threats to biological diversity through pollution prevention, the control and management of the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes, and the virtual elimination of persistent and bioaccumulative toxic substances; | | | | Whereas the Government of Canada recognizes the need to protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | And whereas the Government of Canada must be able to fulfil its international obligations in respect of the environment; | | | | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: | | | | SHORT TITLE | | | Short title | 1. This Act may be cited as the Canadian Environmental Protection Act, 1999. | | | | ADMINISTRATIVE DUTIES | | | Duties of the Government of Canada | 2. (1) In the administration of this Act, the Government of Canada shall, having regard to the Constitution and laws of Canada and subject to subsection (1.1), | | | | (a) exercise its powers in a manner that protects the environment and human health, applies the precautionary principle that, where there are threats of serious or irreversible damage, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation, and promotes and reinforces enforceable pollution prevention approaches; | | | | (a.1) take preventive and remedial measures to protect, enhance and restore the environment; | | | | (b) take the necessity of protecting the environment into account in making social and economic decisions; | | | | (c) implement an ecosystem approach that considers the unique and fundamental characteristics of ecosystems; | | | | (d) endeavour to act in cooperation with governments to protect the environment; | | | | (e) encourage the participation of the people of Canada in the making of decisions that affect the environment; | | | | (f) facilitate the protection of the environment by the people of Canada; | | | | (g) establish nationally consistent standards of environmental quality; | | | | (h) provide information to the people of Canada on the state of the Canadian environment; | | | | (i) apply knowledge, including traditional aboriginal knowledge, science and technology, to identify and resolve environmental problems; | | | | (j) protect the environment, including its biological diversity, and human health, from the risk of any adverse effects of the use and release of toxic substances, pollutants and wastes; | | | | (j.1) protect the environment, including its biological diversity, and human health, by ensuring the safe and effective use of biotechnology; | | | | (k) endeavour to act expeditiously and diligently to assess whether existing substances or those new to Canada are toxic or capable of becoming toxic and assess the risk that such substances pose to the environment and human life and health; | | | | (l) endeavour to act with regard to the intent of intergovernmental agreements and arrangements entered into for the purpose of achieving the highest level of environmental quality throughout Canada; | | | | (m) ensure, to the extent that is reasonably possible, that all areas of federal regulation for the protection of the environment and human health are addressed in a complementary manner in order to avoid duplication and to provide effective and comprehensive protection; | | | | (n) endeavour to exercise its powers to require the provision of information in a coordinated manner; and | | | | (o) apply and enforce this Act in a fair, predictable and consistent manner. | | | Considera- tions | (1.1) The Government of Canada shall consider the following before taking any measure under paragraph (1)(a.1): | | | | (a) the short- and long-term human and ecological benefits arising from the environmental protection measure; | | | | (b) the positive economic impacts arising from the measure, including those cost-savings arising from health, environmental and technological advances and innovation, among others; and | | | | (c) any other benefits accruing from the measure. | | | Action not limited | (2) Nothing in this section shall be construed so as to prevent the taking of any action to protect the environment or human health for the purposes of this Act. | | | | INTERPRETATION | | | Definitions | 3. (1) The definitions in this subsection apply in this Act. | | | ``aboriginal government'' « gouverne- ment autochtone » | ``aboriginal government'' means a governing body that is established by or under or operating under an agreement between Her Majesty in right of Canada and aboriginal people and that is empowered to enact laws respecting | | | | (a) the protection of the environment; or | | | | (b) for the purposes of Division 5 of Part 7, the registration of vehicles or engines. | | | ``aboriginal land'' « terres autochtones » | ``aboriginal land'' means | | | | (a) reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the Indian Act; | | | | (b) land, including any water, that is subject to a comprehensive or specific claim agreement, or a self-government agreement, between the Government of Canada and aboriginal people where title remains with Her Majesty in right of Canada; and | | | | (c) air and all layers of the atmosphere above and the subsurface below land mentioned in paragraph (a) or (b). | | | ``air pollution'' « pollution atmosphériqu e » | ``air pollution'' means a condition of the air, arising wholly or partly from the presence in the air of any substance, that directly or indirectly | | | | (a) endangers the health, safety or welfare of humans; | | | | (b) interferes with the normal enjoyment of life or property; | | | | (c) endangers the health of animal life; | | | | (d) causes damage to plant life or to property; or | | | | (e) degrades or alters, or forms part of a process of degradation or alteration of, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. | | | ``analyst'' « analyste » | ``analyst'' means a person or a member of a class of persons designated as an analyst under subsection 217(1). | | | ``biological diversity'' « diversité biologique » | ``biological diversity'' means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. | | | ``biotechnolo gy'' « biotechnolo gie » | ``biotechnology'' means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. | | | ``class of substances'' « catégorie de substances » | ``class of substances'' means any two or more substances that | | | | (a) contain the same portion of chemical structure; | | | | (b) have similar physico-chemical or toxicological properties; or | | | | (c) for the purposes of sections 68, 70 and 71, have similar types of use. | | | ``Committee'' « comité » | ``Committee'' means the National Advisory Committee established under section 6. | | | ``ecosystem'' « écosystème » | ``ecosystem'' means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. | | | ``enforcement officer'' « agent de l'autorité » | ``enforcement officer'' means a person or a member of a class of persons designated as an enforcement officer under section 217. | | | ``environment '' « environnem ent » | ``environment'' means the components of the Earth and includes | | | | (a) air, land and water; | | | | (b) all layers of the atmosphere; | | | | (c) all organic and inorganic matter and living organisms; and | | | | (d) the interacting natural systems that include components referred to in paragraphs (a) to (c). | | | ``environment al emergency'' « urgence environnemen tale » | ``environmental emergency'' has the meaning given that expression in Part 8. | | | ``environment al quality'' « qualité de l'environneme nt » | ``environmental quality'' includes the health of ecosystems. | | | ``Environmen tal Registry'' « Registre » | ``Environmental Registry'' means the registry established under section 12. | | | ``federal land'' « territoire domanial » | ``federal land'' means | | | | (a) land, including any water, that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the right to dispose of, and the air and all layers of the atmosphere above and the subsurface below that land; and | | | | (b) the following land and areas, namely, | | | | (i) the internal waters of Canada as determined under the Oceans Act, including the seabed and subsoil below and the airspace above those waters, and | | | | (ii) the territorial sea of Canada as determined under the Oceans Act, including the seabed and subsoil below and the air and all layers of the atmosphere above that sea. | | | ``federal source'' « source d'origine fédérale » | ``federal source'' means | | | | (a) a department of the Government of Canada; | | | | (b) an agency of the Government of Canada or other body established by or under an Act of Parliament that is ultimately accountable through a minister of the Crown in right of Canada to Parliament for the conduct of its affairs; | | | | (c) a Crown corporation as defined in subsection 83(1) of the Financial Administration Act; or | | | | (d) a federal work or undertaking. | | | ``federal work or undertaking'' « entreprises fédérales » | ``federal work or undertaking'' means any work or undertaking that is within the legislative authority of Parliament, including, but not limited to, | |
 
 |  | (a) a work or undertaking operated for or in connection with navigation and shipping, whether inland or maritime, including the operation of ships and transportation by ship; |  |
 | --- | --- | --- |
@@ -38,8 +26,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (g) a bank; |  |
 |  | (h) a work or undertaking that, although wholly situated within a province, is before or after its completion declared by Parliament to be for the general advantage of Canada or for the advantage of two or more provinces; and |  |
 |  | (i) a work or undertaking outside the exclusive legislative authority of the legislatures of the provinces. |  |
-| ``fuel'' « combusti- ble » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
-| ``government' ' « gouverne- ment » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
+| ``fuel'' « combustible » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
+| ``government' ' « gouverneme nt » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of the Environment. |  |
 | ``movement within Canada'' or ``transport within Canada'' « mouvement au Canada » ou « transport au Canada » | ``movement within Canada'' or ``transport within Canada'' means movement or transport between provinces. |  |
 | ``pollution prevention'' « prévention de la pollution » | ``pollution prevention'' means the use of processes, practices, materials, products, substances or energy that avoid or minimize the creation of pollutants and waste and reduce the overall risk to the environment or human health. |  |
@@ -56,10 +44,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (e) any mixture that is a combination of substances and does not itself produce a substance that is different from the substances that were combined, |  |
 |  | (f) any manufactured item that is formed into a specific physical shape or design during manufacture and has, for its final use, a function or functions dependent in whole or in part on its shape or design, and |  |
 |  | (g) any animate matter that is, or any complex mixtures of different molecules that are, contained in effluents, emissions or wastes that result from any work, undertaking or activity. |  |
-| ``sustainable develop- ment'' « développe- ment durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
-| ``transient reaction interme- diate'' « intermé- diaire de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
+| ``sustainable development'' « développem ent durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
+| ``transient reaction intermediate'' « intermédiair e de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
 | ``transit'' « transit » | ``transit'' means, except for the purposes of sections 139 and 155, the portion of an international transboundary movement through the territory of a country that is neither the country of origin nor the country of destination of the movement. |  |
-| ``underta- king'' Version anglaise seulement | ``undertaking'' includes a business. |  |
+| ``undertaking' ' Version anglaise seulement | ``undertaking'' includes a business. |  |
 | Meaning of ``Ministers'' and ``either Minister'' | (2) Where the word ``Ministers'' is used in this Act, it refers to both the Minister and the Minister of Health, and where the expression ``either Minister'' is used in this Act, it refers to either the Minister or the Minister of Health. |  |
 | Class of substances | (3) For the purposes of this Act, other than subsection (1), ``substance'' includes a class of substances. |  |
 | Aboriginal rights | 4. For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982. |  |
@@ -83,9 +71,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (iv) one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut, |  |
 |  | (v) one representative for all aboriginal governments, except Inuit, in British Columbia and the Yukon Territory, and |  |
 |  | (vi) one representative for all Inuit aboriginal governments. |  |
-| Provincial representa- tives | (2.1) The representative of a provincial government shall be selected by that government. |  |
-| Aboriginal representa- tives | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
-| Inuit aboriginal representa- tives | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
+| Provincial representative s | (2.1) The representative of a provincial government shall be selected by that government. |  |
+| Aboriginal representative s | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
+| Inuit aboriginal representative s | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
 | Absence of aboriginal government | (3) Where there is no Inuit aboriginal government or aboriginal government for a region referred to in any of subparagraphs (2)(c)(i) to (v), the representative of the Inuit or of aboriginal people for the region, as the case may be, may be selected in accordance with regulations made under subsection (4). |  |
 | Regulations | (4) The Minister may make regulations respecting the manner of selecting a representative under subsection (3). |  |
 | Ministerial advisory committees | 7. (1) For the purpose of carrying out their duties under this Act, the Ministers or either Minister may |  |
@@ -116,8 +104,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (g) a bank; |  |
 |  | (h) a work or undertaking that, although wholly situated within a province, is before or after its completion declared by Parliament to be for the general advantage of Canada or for the advantage of two or more provinces; and |  |
 |  | (i) a work or undertaking outside the exclusive legislative authority of the legislatures of the provinces. |  |
-| ``fuel'' « combusti- ble » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
-| ``government' ' « gouverne- ment » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
+| ``fuel'' « combustible » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
+| ``government' ' « gouverneme nt » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of the Environment. |  |
 | ``movement within Canada'' or ``transport within Canada'' « mouvement au Canada » ou « transport au Canada » | ``movement within Canada'' or ``transport within Canada'' means movement or transport between provinces. |  |
 | ``pollution prevention'' « prévention de la pollution » | ``pollution prevention'' means the use of processes, practices, materials, products, substances or energy that avoid or minimize the creation of pollutants and waste and reduce the overall risk to the environment or human health. |  |
@@ -134,10 +122,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (e) any mixture that is a combination of substances and does not itself produce a substance that is different from the substances that were combined, |  |
 |  | (f) any manufactured item that is formed into a specific physical shape or design during manufacture and has, for its final use, a function or functions dependent in whole or in part on its shape or design, and |  |
 |  | (g) any animate matter that is, or any complex mixtures of different molecules that are, contained in effluents, emissions or wastes that result from any work, undertaking or activity. |  |
-| ``sustainable develop- ment'' « développe- ment durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
-| ``transient reaction interme- diate'' « intermé- diaire de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
+| ``sustainable development'' « développem ent durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
+| ``transient reaction intermediate'' « intermédiair e de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
 | ``transit'' « transit » | ``transit'' means, except for the purposes of sections 139 and 155, the portion of an international transboundary movement through the territory of a country that is neither the country of origin nor the country of destination of the movement. |  |
-| ``underta- king'' Version anglaise seulement | ``undertaking'' includes a business. |  |
+| ``undertaking' ' Version anglaise seulement | ``undertaking'' includes a business. |  |
 | Meaning of ``Ministers'' and ``either Minister'' | (2) Where the word ``Ministers'' is used in this Act, it refers to both the Minister and the Minister of Health, and where the expression ``either Minister'' is used in this Act, it refers to either the Minister or the Minister of Health. |  |
 | Class of substances | (3) For the purposes of this Act, other than subsection (1), ``substance'' includes a class of substances. |  |
 | Aboriginal rights | 4. For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982. |  |
@@ -161,9 +149,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (iv) one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut, |  |
 |  | (v) one representative for all aboriginal governments, except Inuit, in British Columbia and the Yukon Territory, and |  |
 |  | (vi) one representative for all Inuit aboriginal governments. |  |
-| Provincial representa- tives | (2.1) The representative of a provincial government shall be selected by that government. |  |
-| Aboriginal representa- tives | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
-| Inuit aboriginal representa- tives | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
+| Provincial representative s | (2.1) The representative of a provincial government shall be selected by that government. |  |
+| Aboriginal representative s | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
+| Inuit aboriginal representative s | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
 | Absence of aboriginal government | (3) Where there is no Inuit aboriginal government or aboriginal government for a region referred to in any of subparagraphs (2)(c)(i) to (v), the representative of the Inuit or of aboriginal people for the region, as the case may be, may be selected in accordance with regulations made under subsection (4). |  |
 | Regulations | (4) The Minister may make regulations respecting the manner of selecting a representative under subsection (3). |  |
 | Ministerial advisory committees | 7. (1) For the purpose of carrying out their duties under this Act, the Ministers or either Minister may |  |
@@ -194,8 +182,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (g) a bank; |  |
 |  | (h) a work or undertaking that, although wholly situated within a province, is before or after its completion declared by Parliament to be for the general advantage of Canada or for the advantage of two or more provinces; and |  |
 |  | (i) a work or undertaking outside the exclusive legislative authority of the legislatures of the provinces. |  |
-| ``fuel'' « combusti- ble » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
-| ``government' ' « gouverne- ment » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
+| ``fuel'' « combustible » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
+| ``government' ' « gouverneme nt » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of the Environment. |  |
 | ``movement within Canada'' or ``transport within Canada'' « mouvement au Canada » ou « transport au Canada » | ``movement within Canada'' or ``transport within Canada'' means movement or transport between provinces. |  |
 | ``pollution prevention'' « prévention de la pollution » | ``pollution prevention'' means the use of processes, practices, materials, products, substances or energy that avoid or minimize the creation of pollutants and waste and reduce the overall risk to the environment or human health. |  |
@@ -212,10 +200,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (e) any mixture that is a combination of substances and does not itself produce a substance that is different from the substances that were combined, |  |
 |  | (f) any manufactured item that is formed into a specific physical shape or design during manufacture and has, for its final use, a function or functions dependent in whole or in part on its shape or design, and |  |
 |  | (g) any animate matter that is, or any complex mixtures of different molecules that are, contained in effluents, emissions or wastes that result from any work, undertaking or activity. |  |
-| ``sustainable develop- ment'' « développe- ment durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
-| ``transient reaction interme- diate'' « intermé- diaire de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
+| ``sustainable development'' « développem ent durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
+| ``transient reaction intermediate'' « intermédiair e de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
 | ``transit'' « transit » | ``transit'' means, except for the purposes of sections 139 and 155, the portion of an international transboundary movement through the territory of a country that is neither the country of origin nor the country of destination of the movement. |  |
-| ``underta- king'' Version anglaise seulement | ``undertaking'' includes a business. |  |
+| ``undertaking' ' Version anglaise seulement | ``undertaking'' includes a business. |  |
 | Meaning of ``Ministers'' and ``either Minister'' | (2) Where the word ``Ministers'' is used in this Act, it refers to both the Minister and the Minister of Health, and where the expression ``either Minister'' is used in this Act, it refers to either the Minister or the Minister of Health. |  |
 | Class of substances | (3) For the purposes of this Act, other than subsection (1), ``substance'' includes a class of substances. |  |
 | Aboriginal rights | 4. For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982. |  |
@@ -239,9 +227,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (iv) one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut, |  |
 |  | (v) one representative for all aboriginal governments, except Inuit, in British Columbia and the Yukon Territory, and |  |
 |  | (vi) one representative for all Inuit aboriginal governments. |  |
-| Provincial representa- tives | (2.1) The representative of a provincial government shall be selected by that government. |  |
-| Aboriginal representa- tives | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
-| Inuit aboriginal representa- tives | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
+| Provincial representative s | (2.1) The representative of a provincial government shall be selected by that government. |  |
+| Aboriginal representative s | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
+| Inuit aboriginal representative s | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
 | Absence of aboriginal government | (3) Where there is no Inuit aboriginal government or aboriginal government for a region referred to in any of subparagraphs (2)(c)(i) to (v), the representative of the Inuit or of aboriginal people for the region, as the case may be, may be selected in accordance with regulations made under subsection (4). |  |
 | Regulations | (4) The Minister may make regulations respecting the manner of selecting a representative under subsection (3). |  |
 | Ministerial advisory committees | 7. (1) For the purpose of carrying out their duties under this Act, the Ministers or either Minister may |  |
@@ -272,8 +260,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (g) a bank; |  |
 |  | (h) a work or undertaking that, although wholly situated within a province, is before or after its completion declared by Parliament to be for the general advantage of Canada or for the advantage of two or more provinces; and |  |
 |  | (i) a work or undertaking outside the exclusive legislative authority of the legislatures of the provinces. |  |
-| ``fuel'' « combusti- ble » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
-| ``government' ' « gouverne- ment » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
+| ``fuel'' « combustible » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
+| ``government' ' « gouverneme nt » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of the Environment. |  |
 | ``movement within Canada'' or ``transport within Canada'' « mouvement au Canada » ou « transport au Canada » | ``movement within Canada'' or ``transport within Canada'' means movement or transport between provinces. |  |
 | ``pollution prevention'' « prévention de la pollution » | ``pollution prevention'' means the use of processes, practices, materials, products, substances or energy that avoid or minimize the creation of pollutants and waste and reduce the overall risk to the environment or human health. |  |
@@ -290,10 +278,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (e) any mixture that is a combination of substances and does not itself produce a substance that is different from the substances that were combined, |  |
 |  | (f) any manufactured item that is formed into a specific physical shape or design during manufacture and has, for its final use, a function or functions dependent in whole or in part on its shape or design, and |  |
 |  | (g) any animate matter that is, or any complex mixtures of different molecules that are, contained in effluents, emissions or wastes that result from any work, undertaking or activity. |  |
-| ``sustainable develop- ment'' « développe- ment durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
-| ``transient reaction interme- diate'' « intermé- diaire de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
+| ``sustainable development'' « développem ent durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
+| ``transient reaction intermediate'' « intermédiair e de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
 | ``transit'' « transit » | ``transit'' means, except for the purposes of sections 139 and 155, the portion of an international transboundary movement through the territory of a country that is neither the country of origin nor the country of destination of the movement. |  |
-| ``underta- king'' Version anglaise seulement | ``undertaking'' includes a business. |  |
+| ``undertaking' ' Version anglaise seulement | ``undertaking'' includes a business. |  |
 | Meaning of ``Ministers'' and ``either Minister'' | (2) Where the word ``Ministers'' is used in this Act, it refers to both the Minister and the Minister of Health, and where the expression ``either Minister'' is used in this Act, it refers to either the Minister or the Minister of Health. |  |
 | Class of substances | (3) For the purposes of this Act, other than subsection (1), ``substance'' includes a class of substances. |  |
 | Aboriginal rights | 4. For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982. |  |
@@ -317,9 +305,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (iv) one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut, |  |
 |  | (v) one representative for all aboriginal governments, except Inuit, in British Columbia and the Yukon Territory, and |  |
 |  | (vi) one representative for all Inuit aboriginal governments. |  |
-| Provincial representa- tives | (2.1) The representative of a provincial government shall be selected by that government. |  |
-| Aboriginal representa- tives | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
-| Inuit aboriginal representa- tives | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
+| Provincial representative s | (2.1) The representative of a provincial government shall be selected by that government. |  |
+| Aboriginal representative s | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
+| Inuit aboriginal representative s | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
 | Absence of aboriginal government | (3) Where there is no Inuit aboriginal government or aboriginal government for a region referred to in any of subparagraphs (2)(c)(i) to (v), the representative of the Inuit or of aboriginal people for the region, as the case may be, may be selected in accordance with regulations made under subsection (4). |  |
 | Regulations | (4) The Minister may make regulations respecting the manner of selecting a representative under subsection (3). |  |
 | Ministerial advisory committees | 7. (1) For the purpose of carrying out their duties under this Act, the Ministers or either Minister may |  |
@@ -350,8 +338,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (g) a bank; |  |
 |  | (h) a work or undertaking that, although wholly situated within a province, is before or after its completion declared by Parliament to be for the general advantage of Canada or for the advantage of two or more provinces; and |  |
 |  | (i) a work or undertaking outside the exclusive legislative authority of the legislatures of the provinces. |  |
-| ``fuel'' « combusti- ble » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
-| ``government' ' « gouverne- ment » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
+| ``fuel'' « combustible » | ``fuel'' means any form of matter that is combusted or oxidized for the generation of energy. |  |
+| ``government' ' « gouverneme nt » | ``government'' means the government of a province or of a territory or an aboriginal government. |  |
 | ``Minister'' « ministre » | ``Minister'' means the Minister of the Environment. |  |
 | ``movement within Canada'' or ``transport within Canada'' « mouvement au Canada » ou « transport au Canada » | ``movement within Canada'' or ``transport within Canada'' means movement or transport between provinces. |  |
 | ``pollution prevention'' « prévention de la pollution » | ``pollution prevention'' means the use of processes, practices, materials, products, substances or energy that avoid or minimize the creation of pollutants and waste and reduce the overall risk to the environment or human health. |  |
@@ -368,10 +356,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (e) any mixture that is a combination of substances and does not itself produce a substance that is different from the substances that were combined, |  |
 |  | (f) any manufactured item that is formed into a specific physical shape or design during manufacture and has, for its final use, a function or functions dependent in whole or in part on its shape or design, and |  |
 |  | (g) any animate matter that is, or any complex mixtures of different molecules that are, contained in effluents, emissions or wastes that result from any work, undertaking or activity. |  |
-| ``sustainable develop- ment'' « développe- ment durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
-| ``transient reaction interme- diate'' « intermé- diaire de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
+| ``sustainable development'' « développem ent durable » | ``sustainable development'' means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. |  |
+| ``transient reaction intermediate'' « intermédiair e de réaction » | ``transient reaction intermediate'' means a substance that is formed and consumed in the course of a chemical reaction. |  |
 | ``transit'' « transit » | ``transit'' means, except for the purposes of sections 139 and 155, the portion of an international transboundary movement through the territory of a country that is neither the country of origin nor the country of destination of the movement. |  |
-| ``underta- king'' Version anglaise seulement | ``undertaking'' includes a business. |  |
+| ``undertaking' ' Version anglaise seulement | ``undertaking'' includes a business. |  |
 | Meaning of ``Ministers'' and ``either Minister'' | (2) Where the word ``Ministers'' is used in this Act, it refers to both the Minister and the Minister of Health, and where the expression ``either Minister'' is used in this Act, it refers to either the Minister or the Minister of Health. |  |
 | Class of substances | (3) For the purposes of this Act, other than subsection (1), ``substance'' includes a class of substances. |  |
 | Aboriginal rights | 4. For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982. |  |
@@ -395,9 +383,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (iv) one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut, |  |
 |  | (v) one representative for all aboriginal governments, except Inuit, in British Columbia and the Yukon Territory, and |  |
 |  | (vi) one representative for all Inuit aboriginal governments. |  |
-| Provincial representa- tives | (2.1) The representative of a provincial government shall be selected by that government. |  |
-| Aboriginal representa- tives | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
-| Inuit aboriginal representa- tives | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
+| Provincial representative s | (2.1) The representative of a provincial government shall be selected by that government. |  |
+| Aboriginal representative s | (2.2) Subject to subsection (3), the representative of aboriginal governments shall be selected by the aboriginal governments he or she represents. |  |
+| Inuit aboriginal representative s | (2.3) Subject to subsection (3), the representative of Inuit aboriginal governments shall be selected by those governments. |  |
 | Absence of aboriginal government | (3) Where there is no Inuit aboriginal government or aboriginal government for a region referred to in any of subparagraphs (2)(c)(i) to (v), the representative of the Inuit or of aboriginal people for the region, as the case may be, may be selected in accordance with regulations made under subsection (4). |  |
 | Regulations | (4) The Minister may make regulations respecting the manner of selecting a representative under subsection (3). |  |
 | Ministerial advisory committees | 7. (1) For the purpose of carrying out their duties under this Act, the Ministers or either Minister may |  |
@@ -420,8 +408,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -436,22 +424,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -467,7 +455,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -475,7 +463,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -510,8 +498,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -526,22 +514,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -557,7 +545,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -565,7 +553,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -600,8 +588,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -616,22 +604,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -647,7 +635,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -655,7 +643,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -690,8 +678,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -706,22 +694,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -737,7 +725,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -745,7 +733,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -780,8 +768,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -796,22 +784,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -827,7 +815,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -835,7 +823,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -870,8 +858,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -886,22 +874,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -917,7 +905,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -925,7 +913,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -960,8 +948,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -976,22 +964,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -1007,7 +995,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -1015,7 +1003,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -1050,8 +1038,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -1066,22 +1054,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -1097,7 +1085,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -1105,7 +1093,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -1140,8 +1128,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Agreements Respecting Equivalent Provisions |  |
 | --- | --- | --- |
-| Non- application of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
-| Non- application of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | 10. (1) Except with respect to Her Majesty in right of Canada, the provisions of a regulation made under subsection 93(1), 200(1) or 209(1) or (2) do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
+| Non-applicati on of regulations | (2) Except with respect to a federal source, the provisions of a regulation made under section 167 or 177 do not apply within the jurisdiction of a government for which there is in force an order, made under subsection (3), declaring that the provisions do not apply within that jurisdiction. |  |
 | Declaration of equivalent provisions | (3) Subject to subsections (4), (5) and (6), where the Minister and a government agree in writing that there are in force by or under the laws applicable to the jurisdiction of the government |  |
 |  | (a) provisions that are equivalent to a regulation made under a provision referred to in subsection (1) or (2), and |  |
 |  | (b) provisions that are similar to sections 17 to 20 for the investigation of alleged offences under environmental legislation of that jurisdiction, |  |
@@ -1156,22 +1144,22 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 2 |  |
 |  | PUBLIC PARTICIPATION |  |
 |  | Interpretation |  |
-| Definition of ``environ- mental protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
+| Definition of ``environment al protection action'' | 11. In this Part, ``environmental protection action'' means an action under section 22. |  |
 |  | Environmental Registry |  |
-| Establish- ment of Environ- mental Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
-| Contents of Environ- mental Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
+| Establishment of Environmenta l Registry | 12. The Minister shall establish a registry, to be called the Environmental Registry, for the purpose of facilitating access to documents relating to matters under this Act. |  |
+| Contents of Environmenta l Registry | 13. (1) The Environmental Registry shall contain notices and other documents published or made publicly available by the Minister, and shall also include, subject to the Access to Information Act and the Privacy Act, |  |
 |  | (a) notices of objection and of any approval granted under this Act; |  |
 |  | (b) a copy of every policy and of every proposed regulation or order made under this Act; and |  |
 |  | (c) copies of documents submitted to a court by the Minister relating to any environmental protection action. |  |
-| Form and manner of Environ- mental Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
+| Form and manner of Environmenta l Registry | (2) The Minister may determine the form of the Environmental Registry, how it is to be kept and how access to it is to be provided. |  |
 | Protection from civil proceeding or prosecution | 14. (1) Despite any other Act of Parliament, no civil or criminal proceedings may be brought against any person mentioned in subsection (2) for the full or partial disclosure in good faith of any notice or other document through the Environmental Registry or any consequences of its disclosure. |  |
 | Persons protected | (2) The persons against whom the proceedings may not be brought are Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister. |  |
 |  | Rights under Other Parts |  |
 | Additional rights | 15. The rights conferred by this Part are in addition to the right to request the addition of a substance to the Priority Substance List, the right to file a notice of objection under Parts 1, 5, 7 and 11 and the right to request under Parts 5, 7 and 11 that a board of review be established under section 333. |  |
 |  | Voluntary Reports |  |
 | Voluntary reports | 16. (1) Where a person has knowledge of the commission or reasonable likelihood of the commission of an offence under this Act, but is not required to report the matter under this Act, the person may report any information relating to the offence or likely offence to an enforcement officer or any person to whom a report may be made under this Act. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
-| Requirement for confidenti- ality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity, and any information that could reasonably be expected to reveal their identity, not be disclosed. |  |
+| Requirement for confidentiality | (3) No person shall disclose or cause to be disclosed the identity of a person who makes a request under subsection (2) or any information that could reasonably be expected to reveal their identity unless the person authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -1187,7 +1175,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Investigation by Minister | 18. The Minister shall acknowledge receipt of the application within 20 days of the receipt and shall investigate all matters that the Minister considers necessary to determine the facts relating to the alleged offence. |  |
 | Progress reports | 19. After acknowledging receipt of the application, the Minister shall report to the applicant every 90 days on the progress of the investigation and the action, if any, that the Minister has taken or proposes to take, and the Minister shall include in the report an estimate of the time required to complete the investigation or to implement the action, but a report is not required if the investigation is discontinued before the end of the 90 days. |  |
 | Minister may send evidence to Attorney General of Canada | 20. At any stage of an investigation, the Minister may send any documents or other evidence to the Attorney General of Canada for consideration of whether an offence has been or is about to be committed under this Act and for any action that the Attorney General may wish to take. |  |
-| Disconti- nuation of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
+| Discontinuati on of investigation | 21. (1) The Minister may discontinue the investigation if the Minister is of the opinion that |  |
 |  | (a) the alleged offence does not require further investigation; or |  |
 |  | (b) the investigation does not substantiate the alleged offence. |  |
 | Report | (2) If the investigation is discontinued, the Minister shall |  |
@@ -1195,7 +1183,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) send a copy of the report to the applicant and to any person whose conduct was investigated. |  |
 |  | A copy of the report sent to a person whose conduct was investigated must not disclose the name or address of the applicant or any other personal information about them. |  |
 |  | Environmental Protection Action |  |
-| Circumstan- ces when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
+| Circumstances when an individual may bring an action | 22. (1) An individual who has applied for an investigation may bring an environmental protection action if |  |
 |  | (a) the Minister failed to conduct an investigation and report within a reasonable time; or |  |
 |  | (b) the Minister's response to the investigation was unreasonable. |  |
 | Nature of the action | (2) The action may be brought in any court of competent jurisdiction against a person who committed an offence under this Act that |  |
@@ -1258,7 +1246,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Restriction on orders to negotiate plans | 35. A court may not order the negotiation of a plan to correct or mitigate the harm to the environment or human, animal or plant life or health if it determines that |  |
 |  | (a) the harm has already been corrected or mitigated; or |  |
 |  | (b) adequate measures to correct or mitigate the harm have already been ordered under this Act or any other law in force in Canada. |  |
-| Settlement or discontinu- ance | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
+| Settlement or discontinuanc e | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
 | Settlements and orders | 37. If an environmental protection action results in an order of a court or a settlement approved by a court, |  |
 |  | (a) the resolution of any question of fact by the order or settlement is binding on a court in any other environmental protection action in which that question arises; and |  |
 |  | (b) no other environmental protection action may be brought with respect to the offence or alleged offence dealt with by the order or settlement. |  |
@@ -1285,7 +1273,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Interpretation |  |
 | Definitions | 43. The definitions in this section apply in this Part. |  |
 | ``fish'' « poissons » | ``fish'' has the meaning assigned by section 2 of the Fisheries Act. |  |
-| ``hormone disrupting substance'' « substance hormonoper- turbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
+| ``hormone disrupting substance'' « substance hormonopertu rbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
 |  | Environmental Data and Research |  |
 | Monitoring, research and publication | 44. (1) The Minister shall |  |
 |  | (a) establish, operate and maintain a system for monitoring environmental quality; |  |
@@ -1340,7 +1328,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Restriction on orders to negotiate plans | 35. A court may not order the negotiation of a plan to correct or mitigate the harm to the environment or human, animal or plant life or health if it determines that |  |
 |  | (a) the harm has already been corrected or mitigated; or |  |
 |  | (b) adequate measures to correct or mitigate the harm have already been ordered under this Act or any other law in force in Canada. |  |
-| Settlement or discontinu- ance | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
+| Settlement or discontinuanc e | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
 | Settlements and orders | 37. If an environmental protection action results in an order of a court or a settlement approved by a court, |  |
 |  | (a) the resolution of any question of fact by the order or settlement is binding on a court in any other environmental protection action in which that question arises; and |  |
 |  | (b) no other environmental protection action may be brought with respect to the offence or alleged offence dealt with by the order or settlement. |  |
@@ -1367,7 +1355,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Interpretation |  |
 | Definitions | 43. The definitions in this section apply in this Part. |  |
 | ``fish'' « poissons » | ``fish'' has the meaning assigned by section 2 of the Fisheries Act. |  |
-| ``hormone disrupting substance'' « substance hormonoper- turbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
+| ``hormone disrupting substance'' « substance hormonopertu rbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
 |  | Environmental Data and Research |  |
 | Monitoring, research and publication | 44. (1) The Minister shall |  |
 |  | (a) establish, operate and maintain a system for monitoring environmental quality; |  |
@@ -1422,7 +1410,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Restriction on orders to negotiate plans | 35. A court may not order the negotiation of a plan to correct or mitigate the harm to the environment or human, animal or plant life or health if it determines that |  |
 |  | (a) the harm has already been corrected or mitigated; or |  |
 |  | (b) adequate measures to correct or mitigate the harm have already been ordered under this Act or any other law in force in Canada. |  |
-| Settlement or discontinu- ance | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
+| Settlement or discontinuanc e | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
 | Settlements and orders | 37. If an environmental protection action results in an order of a court or a settlement approved by a court, |  |
 |  | (a) the resolution of any question of fact by the order or settlement is binding on a court in any other environmental protection action in which that question arises; and |  |
 |  | (b) no other environmental protection action may be brought with respect to the offence or alleged offence dealt with by the order or settlement. |  |
@@ -1449,7 +1437,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Interpretation |  |
 | Definitions | 43. The definitions in this section apply in this Part. |  |
 | ``fish'' « poissons » | ``fish'' has the meaning assigned by section 2 of the Fisheries Act. |  |
-| ``hormone disrupting substance'' « substance hormonoper- turbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
+| ``hormone disrupting substance'' « substance hormonopertu rbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
 |  | Environmental Data and Research |  |
 | Monitoring, research and publication | 44. (1) The Minister shall |  |
 |  | (a) establish, operate and maintain a system for monitoring environmental quality; |  |
@@ -1504,7 +1492,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Restriction on orders to negotiate plans | 35. A court may not order the negotiation of a plan to correct or mitigate the harm to the environment or human, animal or plant life or health if it determines that |  |
 |  | (a) the harm has already been corrected or mitigated; or |  |
 |  | (b) adequate measures to correct or mitigate the harm have already been ordered under this Act or any other law in force in Canada. |  |
-| Settlement or discontinu- ance | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
+| Settlement or discontinuanc e | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
 | Settlements and orders | 37. If an environmental protection action results in an order of a court or a settlement approved by a court, |  |
 |  | (a) the resolution of any question of fact by the order or settlement is binding on a court in any other environmental protection action in which that question arises; and |  |
 |  | (b) no other environmental protection action may be brought with respect to the offence or alleged offence dealt with by the order or settlement. |  |
@@ -1531,7 +1519,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Interpretation |  |
 | Definitions | 43. The definitions in this section apply in this Part. |  |
 | ``fish'' « poissons » | ``fish'' has the meaning assigned by section 2 of the Fisheries Act. |  |
-| ``hormone disrupting substance'' « substance hormonoper- turbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
+| ``hormone disrupting substance'' « substance hormonopertu rbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
 |  | Environmental Data and Research |  |
 | Monitoring, research and publication | 44. (1) The Minister shall |  |
 |  | (a) establish, operate and maintain a system for monitoring environmental quality; |  |
@@ -1586,7 +1574,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Restriction on orders to negotiate plans | 35. A court may not order the negotiation of a plan to correct or mitigate the harm to the environment or human, animal or plant life or health if it determines that |  |
 |  | (a) the harm has already been corrected or mitigated; or |  |
 |  | (b) adequate measures to correct or mitigate the harm have already been ordered under this Act or any other law in force in Canada. |  |
-| Settlement or discontinu- ance | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
+| Settlement or discontinuanc e | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
 | Settlements and orders | 37. If an environmental protection action results in an order of a court or a settlement approved by a court, |  |
 |  | (a) the resolution of any question of fact by the order or settlement is binding on a court in any other environmental protection action in which that question arises; and |  |
 |  | (b) no other environmental protection action may be brought with respect to the offence or alleged offence dealt with by the order or settlement. |  |
@@ -1613,7 +1601,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Interpretation |  |
 | Definitions | 43. The definitions in this section apply in this Part. |  |
 | ``fish'' « poissons » | ``fish'' has the meaning assigned by section 2 of the Fisheries Act. |  |
-| ``hormone disrupting substance'' « substance hormonoper- turbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
+| ``hormone disrupting substance'' « substance hormonopertu rbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
 |  | Environmental Data and Research |  |
 | Monitoring, research and publication | 44. (1) The Minister shall |  |
 |  | (a) establish, operate and maintain a system for monitoring environmental quality; |  |
@@ -1668,7 +1656,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Restriction on orders to negotiate plans | 35. A court may not order the negotiation of a plan to correct or mitigate the harm to the environment or human, animal or plant life or health if it determines that |  |
 |  | (a) the harm has already been corrected or mitigated; or |  |
 |  | (b) adequate measures to correct or mitigate the harm have already been ordered under this Act or any other law in force in Canada. |  |
-| Settlement or discontinu- ance | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
+| Settlement or discontinuanc e | 36. An environmental protection action may be settled or discontinued only with the approval of the court and on terms that it considers appropriate. |  |
 | Settlements and orders | 37. If an environmental protection action results in an order of a court or a settlement approved by a court, |  |
 |  | (a) the resolution of any question of fact by the order or settlement is binding on a court in any other environmental protection action in which that question arises; and |  |
 |  | (b) no other environmental protection action may be brought with respect to the offence or alleged offence dealt with by the order or settlement. |  |
@@ -1695,7 +1683,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Interpretation |  |
 | Definitions | 43. The definitions in this section apply in this Part. |  |
 | ``fish'' « poissons » | ``fish'' has the meaning assigned by section 2 of the Fisheries Act. |  |
-| ``hormone disrupting substance'' « substance hormonoper- turbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
+| ``hormone disrupting substance'' « substance hormonopertu rbante » | ``hormone disrupting substance'' means a substance having the ability to disrupt the synthesis, secretion, transport, binding, action or elimination of natural hormones in an organism, or its progeny, that are responsible for the maintenance of homeostasis, reproduction, development or behaviour of the organism. |  |
 |  | Environmental Data and Research |  |
 | Monitoring, research and publication | 44. (1) The Minister shall |  |
 |  | (a) establish, operate and maintain a system for monitoring environmental quality; |  |
@@ -1736,7 +1724,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (k) the release of substances into the environment at any stage of their life-cycle; |  |
 |  | (l) pollution prevention; and |  |
 |  | (m) use of federal land and of aboriginal land. |  |
-| Other recipients | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
+| Other recipient | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
 | Conditions respecting access to information | (3) An agreement referred to in subsection (2) shall set out conditions respecting access by the Minister or other government to all or part of the information that the person is required to submit and may set out any other conditions respecting the information. |  |
 | Period of notice and date for compliance | (4) A notice referred to in subsection (1) must indicate the period during which it is in force, which may not exceed three years, and the date or dates within which the person to whom the notice is directed shall comply with the notice. |  |
 | Compliance with notice | (5) Every person to whom a notice is directed shall comply with the notice. |  |
@@ -1752,7 +1740,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National inventory | 48. The Minister shall establish a national inventory of releases of pollutants using the information collected under section 46 and any other information to which the Minister has access, and may use any information to which the Minister has access to establish any other inventory of information. |  |
 | Publication in whole or in part | 49. The notice published under subsection 46(1) must indicate whether or not the Minister intends to publish the information and, if so, whether in whole or in part. |  |
 | Publication of inventory | 50. Subject to subsection 53(4), the Minister shall publish the national inventory of releases of pollutants in any manner that the Minister considers appropriate and may publish or give notice of the availability of any other inventory of information established under section 48, in any manner that the Minister considers appropriate. |  |
-| Request for confidenti- ality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
+| Request for confidentiality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
 | Reasons | 52. Despite Part 11, a request under section 51 may only be based on any of the following reasons: |  |
 |  | (a) the information constitutes a trade secret; |  |
 |  | (b) the disclosure of the information would likely cause material financial loss to, or prejudice to the competitive position of, the person providing the information or on whose behalf it is provided; and |  |
@@ -1805,7 +1793,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) amend the plan so that it meets all of those requirements; or |  |
 |  | (b) prepare an additional pollution prevention plan that meets the remainder of those requirements. |  |
 | Declaration of preparation | 58. (1) Every person who is required to prepare a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the end of the period for the preparation of the plan specified in the notice referred to in subsection 56(1) or extended under subsection 56(3), or specified by the court under section 291 or in the agreement, as the case may be, a written declaration to the Minister that the plan has been prepared and is being implemented. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
 | Filing of amended declaration | (3) Where a person has filed a declaration under subsection (1) or (2) and the declaration contains information that, at any time after the filing, has become false or misleading, that person shall file an amended declaration to the Minister within 30 days after that time. |  |
 
 |  | Information Gathering |  |
@@ -1824,7 +1812,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (k) the release of substances into the environment at any stage of their life-cycle; |  |
 |  | (l) pollution prevention; and |  |
 |  | (m) use of federal land and of aboriginal land. |  |
-| Other recipients | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
+| Other recipient | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
 | Conditions respecting access to information | (3) An agreement referred to in subsection (2) shall set out conditions respecting access by the Minister or other government to all or part of the information that the person is required to submit and may set out any other conditions respecting the information. |  |
 | Period of notice and date for compliance | (4) A notice referred to in subsection (1) must indicate the period during which it is in force, which may not exceed three years, and the date or dates within which the person to whom the notice is directed shall comply with the notice. |  |
 | Compliance with notice | (5) Every person to whom a notice is directed shall comply with the notice. |  |
@@ -1840,7 +1828,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National inventory | 48. The Minister shall establish a national inventory of releases of pollutants using the information collected under section 46 and any other information to which the Minister has access, and may use any information to which the Minister has access to establish any other inventory of information. |  |
 | Publication in whole or in part | 49. The notice published under subsection 46(1) must indicate whether or not the Minister intends to publish the information and, if so, whether in whole or in part. |  |
 | Publication of inventory | 50. Subject to subsection 53(4), the Minister shall publish the national inventory of releases of pollutants in any manner that the Minister considers appropriate and may publish or give notice of the availability of any other inventory of information established under section 48, in any manner that the Minister considers appropriate. |  |
-| Request for confidenti- ality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
+| Request for confidentiality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
 | Reasons | 52. Despite Part 11, a request under section 51 may only be based on any of the following reasons: |  |
 |  | (a) the information constitutes a trade secret; |  |
 |  | (b) the disclosure of the information would likely cause material financial loss to, or prejudice to the competitive position of, the person providing the information or on whose behalf it is provided; and |  |
@@ -1893,7 +1881,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) amend the plan so that it meets all of those requirements; or |  |
 |  | (b) prepare an additional pollution prevention plan that meets the remainder of those requirements. |  |
 | Declaration of preparation | 58. (1) Every person who is required to prepare a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the end of the period for the preparation of the plan specified in the notice referred to in subsection 56(1) or extended under subsection 56(3), or specified by the court under section 291 or in the agreement, as the case may be, a written declaration to the Minister that the plan has been prepared and is being implemented. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
 | Filing of amended declaration | (3) Where a person has filed a declaration under subsection (1) or (2) and the declaration contains information that, at any time after the filing, has become false or misleading, that person shall file an amended declaration to the Minister within 30 days after that time. |  |
 
 |  | Information Gathering |  |
@@ -1912,7 +1900,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (k) the release of substances into the environment at any stage of their life-cycle; |  |
 |  | (l) pollution prevention; and |  |
 |  | (m) use of federal land and of aboriginal land. |  |
-| Other recipients | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
+| Other recipient | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
 | Conditions respecting access to information | (3) An agreement referred to in subsection (2) shall set out conditions respecting access by the Minister or other government to all or part of the information that the person is required to submit and may set out any other conditions respecting the information. |  |
 | Period of notice and date for compliance | (4) A notice referred to in subsection (1) must indicate the period during which it is in force, which may not exceed three years, and the date or dates within which the person to whom the notice is directed shall comply with the notice. |  |
 | Compliance with notice | (5) Every person to whom a notice is directed shall comply with the notice. |  |
@@ -1928,7 +1916,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National inventory | 48. The Minister shall establish a national inventory of releases of pollutants using the information collected under section 46 and any other information to which the Minister has access, and may use any information to which the Minister has access to establish any other inventory of information. |  |
 | Publication in whole or in part | 49. The notice published under subsection 46(1) must indicate whether or not the Minister intends to publish the information and, if so, whether in whole or in part. |  |
 | Publication of inventory | 50. Subject to subsection 53(4), the Minister shall publish the national inventory of releases of pollutants in any manner that the Minister considers appropriate and may publish or give notice of the availability of any other inventory of information established under section 48, in any manner that the Minister considers appropriate. |  |
-| Request for confidenti- ality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
+| Request for confidentiality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
 | Reasons | 52. Despite Part 11, a request under section 51 may only be based on any of the following reasons: |  |
 |  | (a) the information constitutes a trade secret; |  |
 |  | (b) the disclosure of the information would likely cause material financial loss to, or prejudice to the competitive position of, the person providing the information or on whose behalf it is provided; and |  |
@@ -1981,7 +1969,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) amend the plan so that it meets all of those requirements; or |  |
 |  | (b) prepare an additional pollution prevention plan that meets the remainder of those requirements. |  |
 | Declaration of preparation | 58. (1) Every person who is required to prepare a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the end of the period for the preparation of the plan specified in the notice referred to in subsection 56(1) or extended under subsection 56(3), or specified by the court under section 291 or in the agreement, as the case may be, a written declaration to the Minister that the plan has been prepared and is being implemented. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
 | Filing of amended declaration | (3) Where a person has filed a declaration under subsection (1) or (2) and the declaration contains information that, at any time after the filing, has become false or misleading, that person shall file an amended declaration to the Minister within 30 days after that time. |  |
 
 |  | Information Gathering |  |
@@ -2000,7 +1988,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (k) the release of substances into the environment at any stage of their life-cycle; |  |
 |  | (l) pollution prevention; and |  |
 |  | (m) use of federal land and of aboriginal land. |  |
-| Other recipients | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
+| Other recipient | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
 | Conditions respecting access to information | (3) An agreement referred to in subsection (2) shall set out conditions respecting access by the Minister or other government to all or part of the information that the person is required to submit and may set out any other conditions respecting the information. |  |
 | Period of notice and date for compliance | (4) A notice referred to in subsection (1) must indicate the period during which it is in force, which may not exceed three years, and the date or dates within which the person to whom the notice is directed shall comply with the notice. |  |
 | Compliance with notice | (5) Every person to whom a notice is directed shall comply with the notice. |  |
@@ -2016,7 +2004,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National inventory | 48. The Minister shall establish a national inventory of releases of pollutants using the information collected under section 46 and any other information to which the Minister has access, and may use any information to which the Minister has access to establish any other inventory of information. |  |
 | Publication in whole or in part | 49. The notice published under subsection 46(1) must indicate whether or not the Minister intends to publish the information and, if so, whether in whole or in part. |  |
 | Publication of inventory | 50. Subject to subsection 53(4), the Minister shall publish the national inventory of releases of pollutants in any manner that the Minister considers appropriate and may publish or give notice of the availability of any other inventory of information established under section 48, in any manner that the Minister considers appropriate. |  |
-| Request for confidenti- ality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
+| Request for confidentiality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
 | Reasons | 52. Despite Part 11, a request under section 51 may only be based on any of the following reasons: |  |
 |  | (a) the information constitutes a trade secret; |  |
 |  | (b) the disclosure of the information would likely cause material financial loss to, or prejudice to the competitive position of, the person providing the information or on whose behalf it is provided; and |  |
@@ -2069,7 +2057,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) amend the plan so that it meets all of those requirements; or |  |
 |  | (b) prepare an additional pollution prevention plan that meets the remainder of those requirements. |  |
 | Declaration of preparation | 58. (1) Every person who is required to prepare a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the end of the period for the preparation of the plan specified in the notice referred to in subsection 56(1) or extended under subsection 56(3), or specified by the court under section 291 or in the agreement, as the case may be, a written declaration to the Minister that the plan has been prepared and is being implemented. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
 | Filing of amended declaration | (3) Where a person has filed a declaration under subsection (1) or (2) and the declaration contains information that, at any time after the filing, has become false or misleading, that person shall file an amended declaration to the Minister within 30 days after that time. |  |
 
 |  | Information Gathering |  |
@@ -2088,7 +2076,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (k) the release of substances into the environment at any stage of their life-cycle; |  |
 |  | (l) pollution prevention; and |  |
 |  | (m) use of federal land and of aboriginal land. |  |
-| Other recipients | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
+| Other recipient | (2) The Minister may, in accordance with an agreement signed with a government, require that a person to whom a notice is directed submit the information to the Minister or to that government. |  |
 | Conditions respecting access to information | (3) An agreement referred to in subsection (2) shall set out conditions respecting access by the Minister or other government to all or part of the information that the person is required to submit and may set out any other conditions respecting the information. |  |
 | Period of notice and date for compliance | (4) A notice referred to in subsection (1) must indicate the period during which it is in force, which may not exceed three years, and the date or dates within which the person to whom the notice is directed shall comply with the notice. |  |
 | Compliance with notice | (5) Every person to whom a notice is directed shall comply with the notice. |  |
@@ -2104,7 +2092,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National inventory | 48. The Minister shall establish a national inventory of releases of pollutants using the information collected under section 46 and any other information to which the Minister has access, and may use any information to which the Minister has access to establish any other inventory of information. |  |
 | Publication in whole or in part | 49. The notice published under subsection 46(1) must indicate whether or not the Minister intends to publish the information and, if so, whether in whole or in part. |  |
 | Publication of inventory | 50. Subject to subsection 53(4), the Minister shall publish the national inventory of releases of pollutants in any manner that the Minister considers appropriate and may publish or give notice of the availability of any other inventory of information established under section 48, in any manner that the Minister considers appropriate. |  |
-| Request for confidenti- ality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
+| Request for confidentiality | 51. A person who provides information to the Minister under subsection 46(1) may, if the Minister's intention to publish the information has been indicated under section 49, submit with the information a written request, setting out a reason referred to in section 52, that the information be treated as confidential. |  |
 | Reasons | 52. Despite Part 11, a request under section 51 may only be based on any of the following reasons: |  |
 |  | (a) the information constitutes a trade secret; |  |
 |  | (b) the disclosure of the information would likely cause material financial loss to, or prejudice to the competitive position of, the person providing the information or on whose behalf it is provided; and |  |
@@ -2157,7 +2145,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) amend the plan so that it meets all of those requirements; or |  |
 |  | (b) prepare an additional pollution prevention plan that meets the remainder of those requirements. |  |
 | Declaration of preparation | 58. (1) Every person who is required to prepare a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the end of the period for the preparation of the plan specified in the notice referred to in subsection 56(1) or extended under subsection 56(3), or specified by the court under section 291 or in the agreement, as the case may be, a written declaration to the Minister that the plan has been prepared and is being implemented. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a pollution prevention plan under section 56 or 291 or under an agreement in respect of environmental protection alternative measures shall file, within 30 days after the completion of the implementation of the plan, a written declaration to the Minister that the implementation of the plan has been completed. |  |
 | Filing of amended declaration | (3) Where a person has filed a declaration under subsection (1) or (2) and the declaration contains information that, at any time after the filing, has become false or misleading, that person shall file an amended declaration to the Minister within 30 days after that time. |  |
 
 | Form of declaration | (4) A declaration referred to in subsection (1), (2) or (3) shall be filed in the form and manner and contain the information specified by the Minister. |  |
@@ -2183,8 +2171,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2263,8 +2251,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2343,8 +2331,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2423,8 +2411,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2503,8 +2491,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2583,8 +2571,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2663,8 +2651,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) constitute or may constitute a danger in Canada to human life or health. |  |
 | Definition of ``virtual elimination'' | 65. (1) In this Part, ``virtual elimination'' means, in respect of a toxic substance released into the environment as a result of human activity, the ultimate reduction of the quantity or concentration of the substance in the release below the level of quantification specified by the Ministers in the List referred to in subsection (2). |  |
 | Virtual Elimination List | (2) The Ministers shall compile a list to be known as the Virtual Elimination List, and the List shall specify the level of quantification for each substance on the List. |  |
-| Achieving virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
-| Definition of ``level of quantifica- tion'' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
+| Implementing virtual elimination | (3) When the level of quantification for a substance has been specified on the List referred to in subsection (2), the Ministers shall prescribe the quantity or concentration of the substance that may be released into the environment either alone or in combination with any other substance from any source or type of source, and, in doing so, shall take into account any factor or information provided for in section 91, including, but not limited to, environmental or health risks and any other relevant social, economic or technical matters. |  |
+| Definition of ``level of quantification '' | 65.1 In section 65, ``level of quantification'' means, in respect of a substance, the lowest concentration that can be accurately measured using sensitive but routine sampling and analytical methods. |  |
 |  | General |  |
 | Domestic Substances List | 66. (1) The Minister shall, for the purposes of sections 73, 74 and 81, maintain a list to be known as the Domestic Substances List, and the List shall specify all substances that the Minister is satisfied were, between January 1, 1984 and December 31, 1986, |  |
 |  | (a) manufactured in or imported into Canada by any person in a quantity of not less than 100 kg in any one calendar year; or |  |
@@ -2722,7 +2710,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | Priority Substances and Other Substances |  |
 | --- | --- | --- |
-| Categoriza- tion of substances on Domestic Substances List | 73. (1) The Ministers shall, within seven years from the giving of Royal Assent to this Act, categorize the substances that are on the Domestic Substances List by virtue of section 66, for the purpose of identifying the substances on the List that, in their opinion and on the basis of available information, |  |
+| Categorizatio n of substances on Domestic Substances List | 73. (1) The Ministers shall, within seven years from the giving of Royal Assent to this Act, categorize the substances that are on the Domestic Substances List by virtue of section 66, for the purpose of identifying the substances on the List that, in their opinion and on the basis of available information, |  |
 |  | (a) may present, to individuals in Canada, the greatest potential for exposure; or |  |
 |  | (b) are persistent or bioaccumulative in accordance with the regulations, and inherently toxic to human beings or to non-human organisms, as determined by laboratory or other studies. |  |
 | Information | (2) Where available information is insufficient to identify substances as referred to in that subsection, the Ministers may, to the extent possible, cooperate with other governments in Canada, governments of foreign states or any interested persons to acquire the information required for the identification. |  |
@@ -2739,7 +2727,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Consultation | (2) For the purposes of subsection (1), the Minister shall offer to consult with the government of a province and the members of the Committee who are representatives of aboriginal governments and may consult with a government department or agency, aboriginal people, representatives of industry and labour and municipal authorities or with persons interested in the quality of the environment or the preservation and improvement of public health. |  |
 | Minister may act | (2.1) At any time after the 60th day following the day on which the Minister offers to consult in accordance with subsection (2), the Minister may act under subsection (1) if the offer to consult is not accepted by the government of a province or members of the Committee who are representatives of aboriginal governments. |  |
 | Request for addition to Priority Substances List | (3) Any person may file in writing with the Minister a request that a substance be added to the Priority Substances List and the request shall state the reasons for adding the substance to the List. |  |
-| Considera- tion of request | (4) The Ministers shall consider a request filed under subsection (3) and, within 90 days after the request is filed, the Minister shall inform the person who filed the request of how the Minister intends to deal with it and the reasons for dealing with it in that manner. |  |
+| Consideration of request | (4) The Ministers shall consider a request filed under subsection (3) and, within 90 days after the request is filed, the Minister shall inform the person who filed the request of how the Minister intends to deal with it and the reasons for dealing with it in that manner. |  |
 | Amendments to Priority Substances List | (5) The Ministers may amend the Priority Substances List |  |
 |  | (a) by adding a substance to the List where the Ministers are satisfied on the basis of a determination made as a result of a screening assessment conducted under section 74, the review of a decision of another jurisdiction under subsection 75(3), consultation under subsection (2) or a request made under subsection (3) or for any other reason that priority should be given in assessing whether the substance is toxic or capable of becoming toxic; and |  |
 |  | (b) by deleting a substance from the List where the Ministers have determined whether the substance is toxic or capable of becoming toxic. |  |
@@ -2776,7 +2764,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) where the measure is that referred to in paragraph (2)(c), a statement indicating the manner in which the Ministers intend to develop a proposed regulation or instrument respecting preventive or control actions in relation to the substance. |  |
 | Report of assessment | (7) Where the Ministers publish a statement under subsection (6) in respect of a substance specified on the Priority Substances List, the Ministers shall make a report of the assessment of the substance available to the public. |  |
 | Notice of objection | (8) Where the Ministers make an assessment whether a substance specified on the Priority Substances List is toxic or is capable of becoming toxic and decide not to recommend that the substance be added to the List of Toxic Substances in Schedule 1, any person may, within 60 days after publication of the decision in the Canada Gazette, file a notice of objection with the Minister requesting that a board of review be established under section 333 and stating the reason for the objection. |  |
-| Recommen- dation to Governor in Council | (9) The Ministers shall make a recommendation for an order under subsection 90(1) when publishing a statement under paragraph (6)(b) indicating that the measure that they propose to take is a recommendation that the substance be added to the List of Toxic Substances in Schedule 1. |  |
+| Recommendat ion to Governor in Council | (9) The Ministers shall make a recommendation for an order under subsection 90(1) when publishing a statement under paragraph (6)(b) indicating that the measure that they propose to take is a recommendation that the substance be added to the List of Toxic Substances in Schedule 1. |  |
 | Notice of objection | 78. (1) Subject to subsections (2) to (4), where a substance has been specified on the Priority Substances List for a period of five years and the Ministers have not yet determined whether the substance is toxic or capable of becoming toxic, any person may file a notice of objection with the Minister requesting that a board of review be established under section 333. |  |
 | Notice of suspension of five year period | (2) Where a substance is specified on the Priority Substances List and the Ministers are satisfied that new or additional information is required to assess whether the substance is toxic or capable of becoming toxic, the Minister shall publish a notice in the Canada Gazette indicating |  |
 |  | (a) that the period of five years referred to in subsection (1) is suspended and the duration of the suspension; and |  |
@@ -2905,7 +2893,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Timeframes in relation to virtual elimination | (2) A proposed regulation or instrument in respect of preventive or control actions in relation to a substance for which a statement has been published under subsection 77(6) indicating that the measure proposed by the Ministers is the implementation of virtual elimination under subsection 65(3) shall specify the dates on which the preventive or control actions are to take effect. |  |
 | Measurable quantity or concentration | (3) In establishing the quantity or concentration that is measurable in relation to a substance for the purposes of a proposed regulation or instrument referred to in subsection (2), the Ministers shall take into consideration information concerning sensitive and readily available analytical methods and any relevant information contained in plans referred to in subsection 79(2). |  |
 | Additional measures in relation to virtual elimination | (4) The Minister shall, where applicable, publish in the Canada Gazette a statement accompanying the proposed regulation or instrument for a substance referred to in subsection (2) describing any additional measures that the Ministers intend to recommend with respect to the implementation of virtual elimination under subsection 65(3) and summarizing their reasons for so intending. |  |
-| Considera- tions in relation to virtual elimination | (5) In determining the preventive or control actions in relation to a substance and the dates on which those actions are to take effect that are to be set out in a proposed regulation or instrument referred to in subsection (2), and in determining any additional measures described in a statement published under subsection (4), the Ministers shall take into consideration any factor or information that, in the opinion of the Ministers, is relevant, including, but not limited to, |  |
+| Consideration s in relation to virtual elimination | (5) In determining the preventive or control actions in relation to a substance and the dates on which those actions are to take effect that are to be set out in a proposed regulation or instrument referred to in subsection (2), and in determining any additional measures described in a statement published under subsection (4), the Ministers shall take into consideration any factor or information that, in the opinion of the Ministers, is relevant, including, but not limited to, |  |
 |  | (a) information contained in plans referred to in section 79; and |  |
 |  | (b) environmental or health risks identified in the summary published under subsection 77(6) and any other relevant social, economic or technical matters. |  |
 | Publication of subsequent proposals | (6) Any proposed regulation or instrument respecting preventive or control actions in relation to a substance that is made after the publication of a proposed regulation or instrument published within the period of two years referred to in subsection (1) shall be published in the Canada Gazette. |  |
@@ -2958,10 +2946,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Consultation | (4) The Governor in Council shall not approve an interim order unless the Minister has |  |
 |  | (a) within 24 hours after making the order, offered to consult with all affected governments to determine whether they are prepared to take sufficient action to deal with the significant danger; and |  |
 |  | (b) consulted with other ministers of the Crown in right of Canada to determine whether any action can be taken under any other Act of Parliament to deal with the significant danger. |  |
-| Recommen- dation of regulations | (5) Where the Governor in Council approves an interim order, the Ministers shall, within 90 days after the approval, publish in the Canada Gazette a statement indicating whether the Ministers intend to recommend to the Governor in Council |  |
+| Recommendat ion of regulations | (5) Where the Governor in Council approves an interim order, the Ministers shall, within 90 days after the approval, publish in the Canada Gazette a statement indicating whether the Ministers intend to recommend to the Governor in Council |  |
 |  | (a) that a regulation having the same effect as the order be made under section 93; and |  |
 |  | (b) if the order was made in respect of a substance that was not specified on the List of Toxic Substances in Schedule 1, that the substance be added to that List under section 90. |  |
-| Contraven- tion of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the date of the alleged contravention, that person had been notified of the interim order. |  |
+| Contravention of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the date of the alleged contravention, that person had been notified of the interim order. |  |
 
 | Cessation of effect | (7) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
 | --- | --- | --- |
@@ -2983,8 +2971,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (7) Any enforcement officer or other person authorized or required to take any measures under subsection (1) or (5) may enter and have access to any place or property and may do any reasonable things that may be necessary in the circumstances. |  |
 | Personal liability | (8) Any person, other than a person described in subsection (2), who provides assistance or advice in taking the measures required by subsection (1) or who takes any measures authorized under subsection (5) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under those subsections unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 96. (1) Where a person has knowledge of the occurrence or likelihood of a release into the environment of a substance specified on the List of Toxic Substances in Schedule 1, but the person is not required to report the matter under this Act, the person may report any information relating to the release or likely release to an enforcement officer or to any person to whom a report may be made under section 95. |  |
-| Request for confidenti- ality | (2) A person making a report under subsection (1) may request that the person's identity and any information that could reasonably reveal the identity not be released. |  |
-| Requirement for confidenti- ality | (3) Where a person makes a request under subsection (2), no person shall release or cause to be released the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the release in writing. |  |
+| Request for confidentiality | (2) A person making a report under subsection (1) may request that the person's identity and any information that could reasonably reveal the identity not be released. |  |
+| Requirement for confidentiality | (3) Where a person makes a request under subsection (2), no person shall release or cause to be released the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the release in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -3054,8 +3042,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (7) Any enforcement officer or other person authorized or required to take any measures under subsection (1) or (5) may enter and have access to any place or property and may do any reasonable things that may be necessary in the circumstances. |  |
 | Personal liability | (8) Any person, other than a person described in subsection (2), who provides assistance or advice in taking the measures required by subsection (1) or who takes any measures authorized under subsection (5) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under those subsections unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 96. (1) Where a person has knowledge of the occurrence or likelihood of a release into the environment of a substance specified on the List of Toxic Substances in Schedule 1, but the person is not required to report the matter under this Act, the person may report any information relating to the release or likely release to an enforcement officer or to any person to whom a report may be made under section 95. |  |
-| Request for confidenti- ality | (2) A person making a report under subsection (1) may request that the person's identity and any information that could reasonably reveal the identity not be released. |  |
-| Requirement for confidenti- ality | (3) Where a person makes a request under subsection (2), no person shall release or cause to be released the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the release in writing. |  |
+| Request for confidentiality | (2) A person making a report under subsection (1) may request that the person's identity and any information that could reasonably reveal the identity not be released. |  |
+| Requirement for confidentiality | (3) Where a person makes a request under subsection (2), no person shall release or cause to be released the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the release in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -3125,8 +3113,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (7) Any enforcement officer or other person authorized or required to take any measures under subsection (1) or (5) may enter and have access to any place or property and may do any reasonable things that may be necessary in the circumstances. |  |
 | Personal liability | (8) Any person, other than a person described in subsection (2), who provides assistance or advice in taking the measures required by subsection (1) or who takes any measures authorized under subsection (5) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under those subsections unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 96. (1) Where a person has knowledge of the occurrence or likelihood of a release into the environment of a substance specified on the List of Toxic Substances in Schedule 1, but the person is not required to report the matter under this Act, the person may report any information relating to the release or likely release to an enforcement officer or to any person to whom a report may be made under section 95. |  |
-| Request for confidenti- ality | (2) A person making a report under subsection (1) may request that the person's identity and any information that could reasonably reveal the identity not be released. |  |
-| Requirement for confidenti- ality | (3) Where a person makes a request under subsection (2), no person shall release or cause to be released the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the release in writing. |  |
+| Request for confidentiality | (2) A person making a report under subsection (1) may request that the person's identity and any information that could reasonably reveal the identity not be released. |  |
+| Requirement for confidentiality | (3) Where a person makes a request under subsection (2), no person shall release or cause to be released the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the release in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -3204,7 +3192,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) a living organism that is manufactured or imported for a use that is regulated under any other Act of Parliament that provides for notice to be given before the manufacture, import or sale of the living organism and for an assessment of whether it is toxic or capable of becoming toxic; |  |
 |  | (b) a living organism that is manufactured, used or imported under the conditions and in the circumstances prescribed as exempt from this section; or |  |
 |  | (c) impurities and contaminants related to the preparation of a living organism. |  |
-| Ministers may amend Schedule 4 | (7) For the purposes of the administration of this section, the Governor in Council has the exclusive responsibility for determining whether or not the requirements referred to in paragraph (6)(a) are met by or under an Act of Parliament referred to in that paragraph, or regulations made under that Act, and |  |
+| Governor in Council may amend Schedule 4 | (7) For the purposes of the administration of this section, the Governor in Council has the exclusive responsibility for determining whether or not the requirements referred to in paragraph (6)(a) are met by or under an Act of Parliament referred to in that paragraph, or regulations made under that Act, and |  |
 |  | (a) if the Governor in Council determines that the requirements referred to in paragraph (6)(a) are met by or under an Act of Parliament referred to in that paragraph, or regulations made under that Act, the Governor in Council may by order add to Schedule 4 the name of that Act or those regulations, as the case may be, and the fact that an Act or regulations are listed in Schedule 4 is conclusive proof that the requirements referred to in paragraph (6)(a) are met; and |  |
 |  | (b) if the Governor in Council determines that the requirements referred to in paragraph (6)(a) are no longer met by or under an Act of Parliament, or regulations, listed in Schedule 4, the Governor in Council may by order delete from Schedule 4 the name of that Act or those regulations, as the case may be. |  |
 | Waiver of information requirements | (8) On the request of any person to whom subsection (1), (2), (3) or (4) applies, the Minister may waive any of the requirements to provide information under that subsection if |  |
@@ -3286,7 +3274,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3331,8 +3319,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3345,9 +3333,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3380,7 +3368,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3425,8 +3413,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3439,9 +3427,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3474,7 +3462,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3519,8 +3507,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3533,9 +3521,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3568,7 +3556,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3613,8 +3601,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3627,9 +3615,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3662,7 +3650,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3707,8 +3695,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3721,9 +3709,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3756,7 +3744,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3801,8 +3789,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3815,9 +3803,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3850,7 +3838,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3895,8 +3883,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -3909,9 +3897,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | (c) respecting the information that shall be provided to the Minister under subsection 106(1), (2), (3) or (4) or section 107 and the form and manner in which it is to be provided; |  |
 | --- | --- | --- |
@@ -3944,7 +3932,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 116. The definitions in this section apply in this Division and in Part 10. |  |
 | ``cleaning product'' « produit de nettoyage » | ``cleaning product'' means a phosphate compound or other substance that is intended to be used for cleaning purposes, and includes laundry detergents, dish-washing compounds, metal cleaners, de-greasing compounds and household, commercial and industrial cleaners. |  |
 | ``nutrient'' « substance nutritive » | ``nutrient'' means a substance or combination of substances that, if released in any waters, provides nourishment that promotes the growth of aquatic vegetation. |  |
-| ``water conditioner'' « condition- neur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
+| ``water conditioner'' « conditionne ur d'eau » | ``water conditioner'' means a substance that is intended to be used to treat water, and includes water-softening chemicals, anti-scale chemicals and corrosion inhibiters. |  |
 | Prohibition | 117. No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product. |  |
 | Regulations | 118. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of preventing or reducing the growth of aquatic vegetation that is caused by the release of nutrients in waters and that can interfere with the functioning of an ecosystem or degrade or alter, or form part of a process of degrading or altering, an ecosystem to an extent that is detrimental to its use by humans, animals or plants, including regulations |  |
 |  | (a) prescribing nutrients; |  |
@@ -3989,8 +3977,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | ``Canadian permit'' « permis canadien » | ``Canadian permit'' means a permit that is issued under subsection 127(1) or 128(2). |  |
 | ``Canadian ship'' « navire canadien » | ``Canadian ship'' means a ship that is registered under an Act of Parliament. |  |
 | ``condition'' Version anglaise seulement | ``condition'' means, in respect of a permit, any term or condition of the permit. |  |
-| ``contracting party'' « partie contractan- te » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
-| ``Convention' ' « Conven- tion » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
+| ``contracting party'' « partie contractante » | ``contracting party'' means a state that is a contracting party to the Convention or the Protocol. |  |
+| ``Convention' ' « Convention » | ``Convention'' means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. |  |
 | ``disposal'' « immersion » | ``disposal'' means |  |
 |  | (a) the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure, |  |
 |  | (b) the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a), |  |
@@ -4003,9 +3991,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol, |  |
 |  | (i) the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or |  |
 |  | (j) a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. |  |
-| ``incinera- tion'' « inciné- ration » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
+| ``incineration' ' « incinération » | ``incineration'' means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. |  |
 | ``master'' « capitaine » | ``master'' includes every person who has command or charge of a ship but does not include a pilot. |  |
-| ``owner'' « proprié- taire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
+| ``owner'' « propriétaire » | ``owner'', in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. |  |
 
 |  | Site Monitoring |  |
 | --- | --- | --- |
@@ -4084,12 +4072,12 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Property rights | (2) The exclusive property in and, except as otherwise provided in this Division, the right to the use of the national fuels marks are hereby vested in Her Majesty in right of Canada. |  |
 | Prohibition | 142. (1) No person shall use a national fuels mark except in accordance with this Division and the regulations. |  |
 | Confusing marks | (2) No person shall use any other mark in such a manner that it is likely to be mistaken for a national fuels mark. |  |
-| Require- ments for use | 143. A person may use a national fuels mark in respect of a prescribed fuel if |  |
+| Requirements for use | 143. A person may use a national fuels mark in respect of a prescribed fuel if |  |
 |  | (a) the use is authorized by the Minister; |  |
 |  | (b) the fuel conforms to the requirements for that fuel provided for by regulations made under section 145 and any requirements that are applicable to that fuel and that may be provided for by regulations made under subsection 93(1) or 140(1); |  |
 |  | (c) evidence of such conformity has been obtained and produced in accordance with the regulations; and |  |
 |  | (d) prescribed information relating to the fuel has been submitted to the Minister in the prescribed manner. |  |
-| Cross- boundary shipments | 144. (1) No person shall import, or transport within Canada, a prescribed fuel if the requirements set out in paragraphs 143(b) to (d) are not met. |  |
+| Cross-bounda ry shipments | 144. (1) No person shall import, or transport within Canada, a prescribed fuel if the requirements set out in paragraphs 143(b) to (d) are not met. |  |
 | Exceptions | (2) Except as otherwise provided by the regulations, subsection (1) does not apply if |  |
 |  | (a) the requirements are met before the fuel is used or sold; or |  |
 |  | (b) the fuel is being used in a fuel tank that supplies the engine of a conveyance that is used for transportation by water, land or air. |  |
@@ -4181,12 +4169,12 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Property rights | (2) The exclusive property in and, except as otherwise provided in this Division, the right to the use of the national fuels marks are hereby vested in Her Majesty in right of Canada. |  |
 | Prohibition | 142. (1) No person shall use a national fuels mark except in accordance with this Division and the regulations. |  |
 | Confusing marks | (2) No person shall use any other mark in such a manner that it is likely to be mistaken for a national fuels mark. |  |
-| Require- ments for use | 143. A person may use a national fuels mark in respect of a prescribed fuel if |  |
+| Requirements for use | 143. A person may use a national fuels mark in respect of a prescribed fuel if |  |
 |  | (a) the use is authorized by the Minister; |  |
 |  | (b) the fuel conforms to the requirements for that fuel provided for by regulations made under section 145 and any requirements that are applicable to that fuel and that may be provided for by regulations made under subsection 93(1) or 140(1); |  |
 |  | (c) evidence of such conformity has been obtained and produced in accordance with the regulations; and |  |
 |  | (d) prescribed information relating to the fuel has been submitted to the Minister in the prescribed manner. |  |
-| Cross- boundary shipments | 144. (1) No person shall import, or transport within Canada, a prescribed fuel if the requirements set out in paragraphs 143(b) to (d) are not met. |  |
+| Cross-bounda ry shipments | 144. (1) No person shall import, or transport within Canada, a prescribed fuel if the requirements set out in paragraphs 143(b) to (d) are not met. |  |
 | Exceptions | (2) Except as otherwise provided by the regulations, subsection (1) does not apply if |  |
 |  | (a) the requirements are met before the fuel is used or sold; or |  |
 |  | (b) the fuel is being used in a fuel tank that supplies the engine of a conveyance that is used for transportation by water, land or air. |  |
@@ -4219,7 +4207,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | VEHICLE, ENGINE AND EQUIPMENT EMISSIONS |  |
 |  | Interpretation |  |
 | Definitions | 149. The definitions in this section apply in this Division and in Part 10 as it relates to the enforcement of this Division. |  |
-| ``company'' « entrepri- se » | ``company'' means a person who |  |
+| ``company'' « entreprise » | ``company'' means a person who |  |
 |  | (a) is engaged in the business of manufacturing vehicles, engines or equipment in Canada; |  |
 |  | (b) is engaged in the business of selling to other persons, for the purpose of resale by those persons, vehicles, engines or equipment obtained directly from a person described in paragraph (a) or the agent of such a person; or |  |
 |  | (c) imports any vehicle, engine or equipment into Canada for the purpose of sale. |  |
@@ -4228,7 +4216,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) rolling stock as defined in section 6 of the Canada Transportation Act; or |  |
 |  | (c) a steamer, steamship or tug as defined in section 2 of the Canada Shipping Act. |  |
 | ``equipment'' « équipement » | ``equipment'' means any prescribed equipment that is designed for use in or on a vehicle or engine. |  |
-| ``manufacture '' « fabrica- tion » ou « construc- tion » | ``manufacture'' includes any process of assembling or altering any vehicle, engine or equipment before its sale to the first retail purchaser. |  |
+| ``manufacture '' « fabrication » ou « construction » | ``manufacture'' includes any process of assembling or altering any vehicle, engine or equipment before its sale to the first retail purchaser. |  |
 | ``national emissions mark'' « marque nationale » | ``national emissions mark'' means a mark established by regulation for use in respect of emissions from vehicles, engines or equipment. |  |
 | ``standard'' « norme » | ``standard'' means a standard that governs the design, construction, functioning or marking of vehicles, engines or equipment for the purpose of controlling or monitoring their emissions. |  |
 | ``vehicle'' « véhicule » | ``vehicle'' means any prescribed self-propelled vehicle, but does not include |  |
@@ -4241,7 +4229,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Prohibition | (3) No person shall use a national emissions mark except in accordance with this Division and the regulations. |  |
 | Confusing marks | (4) No person shall use any other mark in such a manner that it is likely to be mistaken for a national emissions mark. |  |
 | Use of marks | 151. A company authorized by the Minister may, subject to this Division and the regulations, apply a national emissions mark to vehicles, engines or equipment. |  |
-| Transporta- tion within Canada | 152. No company shall transport within Canada a prescribed vehicle, engine or equipment that does not have a national emissions mark applied to it. |  |
+| Transportatio n within Canada | 152. No company shall transport within Canada a prescribed vehicle, engine or equipment that does not have a national emissions mark applied to it. |  |
 |  | Vehicle, Engine and Equipment Standards |  |
 | Compliance by companies | 153. (1) No company shall apply a national emissions mark to any vehicle, engine or equipment, sell any vehicle, engine or equipment to which a national emissions mark has been applied or import any vehicle, engine or equipment unless |  |
 |  | (a) the vehicle, engine or equipment conforms to the standards prescribed for vehicles, engines or equipment of its class at the time its main assembly or manufacture was completed; |  |
@@ -4293,6 +4281,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Determining owners | (2) Current owners are to be determined for the purpose of subsection (1) |  |
 |  | (a) from a warranty issued by the company with respect to the functioning of the vehicle, engine or equipment that has, to its knowledge, been given, sold or transferred to the current owner; |  |
 |  | (b) in the case of a vehicle, from registration records of a government; or |  |
+|  | (c) in the case of an engine or equipment, from a registration system referred to in paragraph 153(1)(h). |  |
 
 |  | Temporary Waivers |  |
 | --- | --- | --- |
@@ -4312,7 +4301,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | VEHICLE, ENGINE AND EQUIPMENT EMISSIONS |  |
 |  | Interpretation |  |
 | Definitions | 149. The definitions in this section apply in this Division and in Part 10 as it relates to the enforcement of this Division. |  |
-| ``company'' « entrepri- se » | ``company'' means a person who |  |
+| ``company'' « entreprise » | ``company'' means a person who |  |
 |  | (a) is engaged in the business of manufacturing vehicles, engines or equipment in Canada; |  |
 |  | (b) is engaged in the business of selling to other persons, for the purpose of resale by those persons, vehicles, engines or equipment obtained directly from a person described in paragraph (a) or the agent of such a person; or |  |
 |  | (c) imports any vehicle, engine or equipment into Canada for the purpose of sale. |  |
@@ -4321,7 +4310,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) rolling stock as defined in section 6 of the Canada Transportation Act; or |  |
 |  | (c) a steamer, steamship or tug as defined in section 2 of the Canada Shipping Act. |  |
 | ``equipment'' « équipement » | ``equipment'' means any prescribed equipment that is designed for use in or on a vehicle or engine. |  |
-| ``manufacture '' « fabrica- tion » ou « construc- tion » | ``manufacture'' includes any process of assembling or altering any vehicle, engine or equipment before its sale to the first retail purchaser. |  |
+| ``manufacture '' « fabrication » ou « construction » | ``manufacture'' includes any process of assembling or altering any vehicle, engine or equipment before its sale to the first retail purchaser. |  |
 | ``national emissions mark'' « marque nationale » | ``national emissions mark'' means a mark established by regulation for use in respect of emissions from vehicles, engines or equipment. |  |
 | ``standard'' « norme » | ``standard'' means a standard that governs the design, construction, functioning or marking of vehicles, engines or equipment for the purpose of controlling or monitoring their emissions. |  |
 | ``vehicle'' « véhicule » | ``vehicle'' means any prescribed self-propelled vehicle, but does not include |  |
@@ -4334,7 +4323,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Prohibition | (3) No person shall use a national emissions mark except in accordance with this Division and the regulations. |  |
 | Confusing marks | (4) No person shall use any other mark in such a manner that it is likely to be mistaken for a national emissions mark. |  |
 | Use of marks | 151. A company authorized by the Minister may, subject to this Division and the regulations, apply a national emissions mark to vehicles, engines or equipment. |  |
-| Transporta- tion within Canada | 152. No company shall transport within Canada a prescribed vehicle, engine or equipment that does not have a national emissions mark applied to it. |  |
+| Transportatio n within Canada | 152. No company shall transport within Canada a prescribed vehicle, engine or equipment that does not have a national emissions mark applied to it. |  |
 |  | Vehicle, Engine and Equipment Standards |  |
 | Compliance by companies | 153. (1) No company shall apply a national emissions mark to any vehicle, engine or equipment, sell any vehicle, engine or equipment to which a national emissions mark has been applied or import any vehicle, engine or equipment unless |  |
 |  | (a) the vehicle, engine or equipment conforms to the standards prescribed for vehicles, engines or equipment of its class at the time its main assembly or manufacture was completed; |  |
@@ -4386,10 +4375,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Determining owners | (2) Current owners are to be determined for the purpose of subsection (1) |  |
 |  | (a) from a warranty issued by the company with respect to the functioning of the vehicle, engine or equipment that has, to its knowledge, been given, sold or transferred to the current owner; |  |
 |  | (b) in the case of a vehicle, from registration records of a government; or |  |
-
 |  | (c) in the case of an engine or equipment, from a registration system referred to in paragraph 153(1)(h). |  |
-| --- | --- | --- |
+
 | If notice previously given | (3) A company is not required to cause notice to be given of a defect of which notice has already been given under this section or under section 10 of the Motor Vehicle Safety Act. |  |
+| --- | --- | --- |
 | Publication of notice | (4) If the Minister is satisfied that the name of the current owner of the vehicle, engine or equipment cannot reasonably be determined by a company in accordance with subsection (2), the Minister may |  |
 |  | (a) order the company to give notice of the defect by publication in the prescribed form for a period of five consecutive days in two major daily newspapers in each of the following six regions, namely, the Atlantic provinces, Quebec, Ontario, the Prairie provinces, British Columbia and the Territories, or by dissemination in an alternative medium for any period that the Minister determines; or |  |
 |  | (b) order that the current owner need not be notified. |  |
@@ -4439,7 +4428,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Interim order | 163. (1) If an enactment of a foreign government corresponds to the regulations made under this Division and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an interim order suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect. |  |
 | Effective date of order | (2) An interim order has effect from the time it is made. |  |
 | Approval of Governor in Council | (3) An interim order ceases to have effect 14 days after it is made unless it is approved by the Governor in Council within that period. |  |
-| Contraven- tion of regulation modified by an unpublished order | (4) No person shall be convicted of an offence consisting of a contravention of a regulation to the extent that it is modified or suspended by an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
+| Contravention of regulation modified by an unpublished order | (4) No person shall be convicted of an offence consisting of a contravention of a regulation to the extent that it is modified or suspended by an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
 | Cessation of effect | (5) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
 |  | (a) the day it is repealed, |  |
 |  | (b) the day the regulation is amended or repealed to give effect to the order, and |  |
@@ -4449,7 +4438,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Evidence | 165. In a prosecution under this Act, evidence that any vehicle, engine or equipment bearing a national emissions mark was manufactured by a company is, in the absence of evidence to the contrary, proof that the national emissions mark was applied by the company. |  |
 |  | DIVISION 6 |  |
 |  | INTERNATIONAL AIR POLLUTION |  |
-| Determi- nation of international air pollution | 166. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into the air creates, or may reasonably be anticipated to contribute to |  |
+| Determination of international air pollution | 166. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into the air creates, or may reasonably be anticipated to contribute to |  |
 |  | (a) air pollution in a country other than Canada; or |  |
 |  | (b) air pollution that violates, or is likely to violate, an international agreement binding on Canada in relation to the prevention, control or correction of pollution. |  |
 | Consultation with other governments | (2) If the source referred to in subsection (1) is not a federal source, the Minister shall |  |
@@ -4475,99 +4464,99 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) subject to subsection (4) and the regulations, notify an enforcement officer or any other person designated pursuant to the regulations and provide a written report on the matter to the enforcement officer or other person; |  |
 |  | (b) take all reasonable measures consistent with the protection of the environment and public safety to prevent the release or, if it cannot be prevented, to remedy any dangerous condition or reduce or mitigate any danger to the environment or to human life or health that results from the release of the substance or may reasonably be expected to result if the substance is released; and |  |
 |  | (c) make a reasonable effort to notify any member of the public who may be adversely affected by the release or likely release. |  |
-
-|  | (c) in the case of an engine or equipment, from a registration system referred to in paragraph 153(1)(h). |  |
-| --- | --- | --- |
-| If notice previously given | (3) A company is not required to cause notice to be given of a defect of which notice has already been given under this section or under section 10 of the Motor Vehicle Safety Act. |  |
-| Publication of notice | (4) If the Minister is satisfied that the name of the current owner of the vehicle, engine or equipment cannot reasonably be determined by a company in accordance with subsection (2), the Minister may |  |
-|  | (a) order the company to give notice of the defect by publication in the prescribed form for a period of five consecutive days in two major daily newspapers in each of the following six regions, namely, the Atlantic provinces, Quebec, Ontario, the Prairie provinces, British Columbia and the Territories, or by dissemination in an alternative medium for any period that the Minister determines; or |  |
-|  | (b) order that the current owner need not be notified. |  |
-| Contents of notice | (5) A notice required to be given under subsections (1) and (4) shall contain, in the form and to the extent prescribed, a description of the defect, an evaluation of the pollution risk arising from it and directions for correcting it. |  |
-| Particulars to responsible authorities | (6) On receiving a notice under subsection (1), the Minister shall forward full particulars of the notice to the person responsible for vehicle or engine administration in each government. |  |
-| Follow-up reports | (7) Every company that causes notice to be given under subsection (1) shall submit an initial report and subsequent regular reports respecting the defect and its correction in accordance with the regulations. |  |
-| Frequency of reports | (8) Unless the Minister directs otherwise, the reports referred to in subsection (7) shall be submitted for a period of two years after the day on which notice was given under subsection (1). |  |
-|  | Research and Testing |  |
-| Powers of Minister | 158. The Minister may |  |
-|  | (a) conduct any research, studies and evaluations that the Minister considers necessary for the administration and enforcement of this Division; |  |
-|  | (b) undertake research and development programs for the study of the effect of vehicles, engines or equipment or emissions on air pollution, energy conservation and the environment and for the promotion of measures to control that effect; |  |
-|  | (c) establish and operate facilities for the testing of vehicles, engines or equipment and components, and acquire test equipment for that purpose; |  |
-|  | (d) make the facilities referred to in paragraph (c) and all related material, parts and services available to any person; and |  |
-|  | (e) publish or otherwise disseminate information relating to the activities of the Minister under this section. |  |
-| Emission control tests | 159. (1) At the request of the Minister and subject to payment by the Minister of the cost of transportation and of rental at a prescribed rate based on capital value, a company shall make available for testing any vehicle, engine, equipment or component that |  |
-|  | (a) was used in tests conducted by or for the company in order to establish information submitted to the Minister under paragraph 153(1)(c); or |  |
-|  | (b) for the purpose of that testing, is equivalent to a vehicle, an engine, equipment or a component referred to in paragraph (a). |  |
-| Testing by Minister | (2) The Minister may examine and dismantle any vehicle, engine, equipment or component made available under subsection (1) and conduct all necessary tests to verify the accuracy of tests referred to in paragraph (1)(a). |  |
-| Detention of vehicles or engines | (3) The Minister may not detain any vehicle, engine, equipment or component for more than 30 days after completion of the tests conducted under subsection (2) unless, before that time, proceedings have been instituted in respect of an offence related to the vehicle, engine, equipment or component, in which case it may be detained until the proceedings are concluded. |  |
-|  | Regulations |  |
-| Regulations | 160. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Division, including regulations |  |
-|  | (a) respecting emissions and prescribing standards in relation to emissions; |  |
-|  | (b) establishing the national emissions marks; |  |
-|  | (c) respecting the conditions that must be met for a national emissions mark to be used in relation to vehicles, engines or equipment or a class of vehicles, engines or equipment; |  |
-|  | (d) respecting the manner of applying national emissions marks; |  |
-|  | (e) prescribing the period for which records referred to in paragraph 153(1)(g) or a registration system referred to in paragraph 153(1)(h) shall be retained; |  |
-|  | (f) respecting exemptions from sections 153 and 154; |  |
-|  | (g) respecting the information to be submitted under section 153; and |  |
-|  | (h) prescribing or providing for anything that by this Division is to be prescribed or provided for by the regulations. |  |
-| Progressive application | (2) Regulations prescribing a standard may be made applicable in respect of a specified proportion of vehicles, engines or equipment of a class before they are made applicable in respect of all vehicles, engines or equipment of that class. |  |
-| Definition of ``technical standards document'' | 161. (1) In this section, ``technical standards document'' means a document, published in the prescribed manner by authority of the Minister, that reproduces in the official languages of Canada an enactment of a foreign government with any adaptations of form and reference that will facilitate the incorporation of the enactment under this section. |  |
-| Incorporation of document | (2) For greater certainty, regulations made under this Division may incorporate by reference a technical standards document as it reads on a prescribed day or as it is amended from time to time following the incorporation by reference, and may extend, qualify or exclude the application of any provision of the document so incorporated. |  |
-| Publication | (3) No person is required to comply with a provision of a technical standards document incorporated by the regulations until six months after the publication of the provision in the prescribed manner, if the person continues to comply with the provision for which that provision is substituted. |  |
-| Document not a regulation | (4) A technical standards document is not a regulation for the purposes of the Statutory Instruments Act. |  |
-| Emission credits | 162. (1) Regulations that prescribe standards in relation to emissions may provide for a system of credits based on the following principles: |  |
-|  | (a) a company may establish that vehicles, engines or equipment conform to those standards by applying credits against emissions of the vehicles, engines or equipment in the prescribed manner and within prescribed limits; |  |
-|  | (b) credits may be obtained by a company in the prescribed manner |  |
-|  | (i) by reference to emissions of the vehicles, engines or equipment that more than meet the requirements of those standards, or |  |
-|  | (ii) by the payment of an amount to the Receiver General determined at a prescribed rate in relation to emissions of the vehicle, engine or equipment; and |  |
-|  | (c) credits obtained by reference to emissions may be transferred to or from a company in the prescribed manner. |  |
-| Deemed conformity to standard | (2) Regulations referred to in subsection (1) may provide that any vehicle, engine or equipment is deemed to conform to a standard if the application of those regulations to all vehicles, engines or equipment of its class sold in Canada and the United States would result in that vehicle, engine or equipment so conforming. |  |
-| Emission report | (3) Every company shall submit to the Minister, in the prescribed form and manner and at the prescribed time, a report setting out, with respect to a prescribed period, an account of any emission credits obtained or applied by the company and a description of each of the following vehicles, engines or pieces of equipment for which credits were obtained or applied: |  |
-|  | (a) vehicles, engines and equipment to which the company applied a national emissions mark during that period, other than those that were exported; |  |
-|  | (b) vehicles, engines and equipment bearing a national emissions mark that were sold by the company in Canada during that period; and |  |
-|  | (c) vehicles, engines and equipment that were imported by the company during that period for the purpose of sale in Canada. |  |
-| Contents of report | (4) If credits applied under this section were obtained on the basis of emissions from vehicles, engines or equipment not referred to in paragraph (3)(a), (b) or (c), the report submitted in respect of the application of those credits shall include a description of those vehicles, engines or equipment. |  |
-| Interim order | 163. (1) If an enactment of a foreign government corresponds to the regulations made under this Division and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an interim order suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect. |  |
-| Effective date of order | (2) An interim order has effect from the time it is made. |  |
-| Approval of Governor in Council | (3) An interim order ceases to have effect 14 days after it is made unless it is approved by the Governor in Council within that period. |  |
-| Contraven- tion of regulation modified by an unpublished order | (4) No person shall be convicted of an offence consisting of a contravention of a regulation to the extent that it is modified or suspended by an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
-| Cessation of effect | (5) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
-|  | (a) the day it is repealed, |  |
-|  | (b) the day the regulation is amended or repealed to give effect to the order, and |  |
-|  | (c) one year after the order is made. |  |
-|  | Evidence |  |
-| Evidence | 164. In a prosecution under this Act, evidence that any vehicle, engine or equipment bore a name or mark purporting to be the name or mark of a company engaged in the business of manufacturing, importing or selling vehicles, engines or equipment is, in the absence of evidence to the contrary, proof that the vehicle, engine or equipment was manufactured, imported or sold, as the case may be, by the company. |  |
-| Evidence | 165. In a prosecution under this Act, evidence that any vehicle, engine or equipment bearing a national emissions mark was manufactured by a company is, in the absence of evidence to the contrary, proof that the national emissions mark was applied by the company. |  |
-|  | DIVISION 6 |  |
-|  | INTERNATIONAL AIR POLLUTION |  |
-| Determi- nation of international air pollution | 166. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into the air creates, or may reasonably be anticipated to contribute to |  |
-|  | (a) air pollution in a country other than Canada; or |  |
-|  | (b) air pollution that violates, or is likely to violate, an international agreement binding on Canada in relation to the prevention, control or correction of pollution. |  |
-| Consultation with other governments | (2) If the source referred to in subsection (1) is not a federal source, the Minister shall |  |
-|  | (a) consult with the government responsible for the area in which the source is situated to determine whether that government can prevent, control or correct the air pollution under its laws; and |  |
-|  | (b) if the government referred to in paragraph (a) can prevent, control or correct the air pollution, offer it an opportunity to do so. |  |
-| Ministerial action | (3) If the source referred to in subsection (1) is a federal source or if the government referred to in paragraph (2)(a) cannot prevent, control or correct the air pollution under its laws or does not do so, the Minister shall take at least one of the following courses of action: |  |
-|  | (a) on approval by the Governor in Council, publish a notice under subsection 56(1); or |  |
-|  | (b) recommend regulations to the Governor in Council for the purpose of preventing, controlling or correcting the air pollution. |  |
-| Reciprocity with other country | (4) If the air pollution referred to in paragraph (1)(a) is in a country where Canada does not have substantially the same rights with respect to the prevention, control or correction of air pollution as that country has under this Division, the Minister shall decide whether to act under subsections (2) and (3) or to take no action at all. |  |
-| Other factors | (5) When recommending regulations under paragraph (3)(b), the Minister shall take into account comments made under subsection 168(2), notices of objection filed under subjection 332(2) and any report of a board of review submitted under subsection 340(1). |  |
-| Regulations | 167. The Governor in Council may, on the recommendation of the Minister, make regulations with respect to a substance released from a source in Canada into the air that creates, or may reasonably be anticipated to contribute to air pollution referred to in subsection 166(1) for the purpose of preventing, controlling or correcting the air pollution, including regulations respecting |  |
-|  | (a) the quantity or concentration of the substance that may be released into the air; |  |
-|  | (b) the manner in which and conditions under which the substance may be released into the air, either alone or in combination with any other substance; |  |
-|  | (c) the maintenance of books and records for the administration of any regulation made under this section; |  |
-|  | (d) the conduct of sampling, analyses, tests, measurements or monitoring of the substance and the submission of the results to the Minister; and |  |
-|  | (e) the conditions, test procedures and laboratory practices to be followed for conducting sampling, analyses, tests, measurements or monitoring of the substance. |  |
-| Notice to other country | 168. (1) The Minister shall advise the government of any country that would be affected by or benefit from the regulation before it is published under subsection 332(1). |  |
-| Comments | (2) Within 60 days after the publication of a proposed regulation under subsection 332(1), any person, including a representative of the government of any country that would be affected by or benefit from it, may file with the Minister written comments on the proposed regulation. |  |
-| Notice to other governments | (3) At the end of the period of 60 days referred to in subsection (2), the Minister |  |
-|  | (a) shall advise each government referred to in paragraph 166(2)(a) of any notice of objection filed under subsection 332(2); and |  |
-|  | (b) shall publish in the Canada Gazette, and may publish in any other manner that the Minister considers appropriate, a report or a notice of the availability of a report that summarizes how any written comments filed under subsection (2) or a notice of objection filed under subsection 332(2) were dealt with. |  |
-| Report and remedial measures | 169. (1) Where there occurs or there is a likelihood of a release into the air of a substance in contravention of a regulation made under section 167, any person described in subsection (2) shall, as soon as possible in the circumstances, |  |
-|  | (a) subject to subsection (4) and the regulations, notify an enforcement officer or any other person designated pursuant to the regulations and provide a written report on the matter to the enforcement officer or other person; |  |
-|  | (b) take all reasonable measures consistent with the protection of the environment and public safety to prevent the release or, if it cannot be prevented, to remedy any dangerous condition or reduce or mitigate any danger to the environment or to human life or health that results from the release of the substance or may reasonably be expected to result if the substance is released; and |  |
-|  | (c) make a reasonable effort to notify any member of the public who may be adversely affected by the release or likely release. |  |
-
 | Application | (2) Subsection (1) applies to any person who |  |
+
+| If notice previously given | (3) A company is not required to cause notice to be given of a defect of which notice has already been given under this section or under section 10 of the Motor Vehicle Safety Act. |  |
 | --- | --- | --- |
+| Publication of notice | (4) If the Minister is satisfied that the name of the current owner of the vehicle, engine or equipment cannot reasonably be determined by a company in accordance with subsection (2), the Minister may |  |
+|  | (a) order the company to give notice of the defect by publication in the prescribed form for a period of five consecutive days in two major daily newspapers in each of the following six regions, namely, the Atlantic provinces, Quebec, Ontario, the Prairie provinces, British Columbia and the Territories, or by dissemination in an alternative medium for any period that the Minister determines; or |  |
+|  | (b) order that the current owner need not be notified. |  |
+| Contents of notice | (5) A notice required to be given under subsections (1) and (4) shall contain, in the form and to the extent prescribed, a description of the defect, an evaluation of the pollution risk arising from it and directions for correcting it. |  |
+| Particulars to responsible authorities | (6) On receiving a notice under subsection (1), the Minister shall forward full particulars of the notice to the person responsible for vehicle or engine administration in each government. |  |
+| Follow-up reports | (7) Every company that causes notice to be given under subsection (1) shall submit an initial report and subsequent regular reports respecting the defect and its correction in accordance with the regulations. |  |
+| Frequency of reports | (8) Unless the Minister directs otherwise, the reports referred to in subsection (7) shall be submitted for a period of two years after the day on which notice was given under subsection (1). |  |
+|  | Research and Testing |  |
+| Powers of Minister | 158. The Minister may |  |
+|  | (a) conduct any research, studies and evaluations that the Minister considers necessary for the administration and enforcement of this Division; |  |
+|  | (b) undertake research and development programs for the study of the effect of vehicles, engines or equipment or emissions on air pollution, energy conservation and the environment and for the promotion of measures to control that effect; |  |
+|  | (c) establish and operate facilities for the testing of vehicles, engines or equipment and components, and acquire test equipment for that purpose; |  |
+|  | (d) make the facilities referred to in paragraph (c) and all related material, parts and services available to any person; and |  |
+|  | (e) publish or otherwise disseminate information relating to the activities of the Minister under this section. |  |
+| Emission control tests | 159. (1) At the request of the Minister and subject to payment by the Minister of the cost of transportation and of rental at a prescribed rate based on capital value, a company shall make available for testing any vehicle, engine, equipment or component that |  |
+|  | (a) was used in tests conducted by or for the company in order to establish information submitted to the Minister under paragraph 153(1)(c); or |  |
+|  | (b) for the purpose of that testing, is equivalent to a vehicle, an engine, equipment or a component referred to in paragraph (a). |  |
+| Testing by Minister | (2) The Minister may examine and dismantle any vehicle, engine, equipment or component made available under subsection (1) and conduct all necessary tests to verify the accuracy of tests referred to in paragraph (1)(a). |  |
+| Detention of vehicles or engines | (3) The Minister may not detain any vehicle, engine, equipment or component for more than 30 days after completion of the tests conducted under subsection (2) unless, before that time, proceedings have been instituted in respect of an offence related to the vehicle, engine, equipment or component, in which case it may be detained until the proceedings are concluded. |  |
+|  | Regulations |  |
+| Regulations | 160. (1) The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Division, including regulations |  |
+|  | (a) respecting emissions and prescribing standards in relation to emissions; |  |
+|  | (b) establishing the national emissions marks; |  |
+|  | (c) respecting the conditions that must be met for a national emissions mark to be used in relation to vehicles, engines or equipment or a class of vehicles, engines or equipment; |  |
+|  | (d) respecting the manner of applying national emissions marks; |  |
+|  | (e) prescribing the period for which records referred to in paragraph 153(1)(g) or a registration system referred to in paragraph 153(1)(h) shall be retained; |  |
+|  | (f) respecting exemptions from sections 153 and 154; |  |
+|  | (g) respecting the information to be submitted under section 153; and |  |
+|  | (h) prescribing or providing for anything that by this Division is to be prescribed or provided for by the regulations. |  |
+| Progressive application | (2) Regulations prescribing a standard may be made applicable in respect of a specified proportion of vehicles, engines or equipment of a class before they are made applicable in respect of all vehicles, engines or equipment of that class. |  |
+| Definition of ``technical standards document'' | 161. (1) In this section, ``technical standards document'' means a document, published in the prescribed manner by authority of the Minister, that reproduces in the official languages of Canada an enactment of a foreign government with any adaptations of form and reference that will facilitate the incorporation of the enactment under this section. |  |
+| Incorporation of document | (2) For greater certainty, regulations made under this Division may incorporate by reference a technical standards document as it reads on a prescribed day or as it is amended from time to time following the incorporation by reference, and may extend, qualify or exclude the application of any provision of the document so incorporated. |  |
+| Publication | (3) No person is required to comply with a provision of a technical standards document incorporated by the regulations until six months after the publication of the provision in the prescribed manner, if the person continues to comply with the provision for which that provision is substituted. |  |
+| Document not a regulation | (4) A technical standards document is not a regulation for the purposes of the Statutory Instruments Act. |  |
+| Emission credits | 162. (1) Regulations that prescribe standards in relation to emissions may provide for a system of credits based on the following principles: |  |
+|  | (a) a company may establish that vehicles, engines or equipment conform to those standards by applying credits against emissions of the vehicles, engines or equipment in the prescribed manner and within prescribed limits; |  |
+|  | (b) credits may be obtained by a company in the prescribed manner |  |
+|  | (i) by reference to emissions of the vehicles, engines or equipment that more than meet the requirements of those standards, or |  |
+|  | (ii) by the payment of an amount to the Receiver General determined at a prescribed rate in relation to emissions of the vehicle, engine or equipment; and |  |
+|  | (c) credits obtained by reference to emissions may be transferred to or from a company in the prescribed manner. |  |
+| Deemed conformity to standard | (2) Regulations referred to in subsection (1) may provide that any vehicle, engine or equipment is deemed to conform to a standard if the application of those regulations to all vehicles, engines or equipment of its class sold in Canada and the United States would result in that vehicle, engine or equipment so conforming. |  |
+| Emission report | (3) Every company shall submit to the Minister, in the prescribed form and manner and at the prescribed time, a report setting out, with respect to a prescribed period, an account of any emission credits obtained or applied by the company and a description of each of the following vehicles, engines or pieces of equipment for which credits were obtained or applied: |  |
+|  | (a) vehicles, engines and equipment to which the company applied a national emissions mark during that period, other than those that were exported; |  |
+|  | (b) vehicles, engines and equipment bearing a national emissions mark that were sold by the company in Canada during that period; and |  |
+|  | (c) vehicles, engines and equipment that were imported by the company during that period for the purpose of sale in Canada. |  |
+| Contents of report | (4) If credits applied under this section were obtained on the basis of emissions from vehicles, engines or equipment not referred to in paragraph (3)(a), (b) or (c), the report submitted in respect of the application of those credits shall include a description of those vehicles, engines or equipment. |  |
+| Interim order | 163. (1) If an enactment of a foreign government corresponds to the regulations made under this Division and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an interim order suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect. |  |
+| Effective date of order | (2) An interim order has effect from the time it is made. |  |
+| Approval of Governor in Council | (3) An interim order ceases to have effect 14 days after it is made unless it is approved by the Governor in Council within that period. |  |
+| Contravention of regulation modified by an unpublished order | (4) No person shall be convicted of an offence consisting of a contravention of a regulation to the extent that it is modified or suspended by an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
+| Cessation of effect | (5) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
+|  | (a) the day it is repealed, |  |
+|  | (b) the day the regulation is amended or repealed to give effect to the order, and |  |
+|  | (c) one year after the order is made. |  |
+|  | Evidence |  |
+| Evidence | 164. In a prosecution under this Act, evidence that any vehicle, engine or equipment bore a name or mark purporting to be the name or mark of a company engaged in the business of manufacturing, importing or selling vehicles, engines or equipment is, in the absence of evidence to the contrary, proof that the vehicle, engine or equipment was manufactured, imported or sold, as the case may be, by the company. |  |
+| Evidence | 165. In a prosecution under this Act, evidence that any vehicle, engine or equipment bearing a national emissions mark was manufactured by a company is, in the absence of evidence to the contrary, proof that the national emissions mark was applied by the company. |  |
+|  | DIVISION 6 |  |
+|  | INTERNATIONAL AIR POLLUTION |  |
+| Determination of international air pollution | 166. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into the air creates, or may reasonably be anticipated to contribute to |  |
+|  | (a) air pollution in a country other than Canada; or |  |
+|  | (b) air pollution that violates, or is likely to violate, an international agreement binding on Canada in relation to the prevention, control or correction of pollution. |  |
+| Consultation with other governments | (2) If the source referred to in subsection (1) is not a federal source, the Minister shall |  |
+|  | (a) consult with the government responsible for the area in which the source is situated to determine whether that government can prevent, control or correct the air pollution under its laws; and |  |
+|  | (b) if the government referred to in paragraph (a) can prevent, control or correct the air pollution, offer it an opportunity to do so. |  |
+| Ministerial action | (3) If the source referred to in subsection (1) is a federal source or if the government referred to in paragraph (2)(a) cannot prevent, control or correct the air pollution under its laws or does not do so, the Minister shall take at least one of the following courses of action: |  |
+|  | (a) on approval by the Governor in Council, publish a notice under subsection 56(1); or |  |
+|  | (b) recommend regulations to the Governor in Council for the purpose of preventing, controlling or correcting the air pollution. |  |
+| Reciprocity with other country | (4) If the air pollution referred to in paragraph (1)(a) is in a country where Canada does not have substantially the same rights with respect to the prevention, control or correction of air pollution as that country has under this Division, the Minister shall decide whether to act under subsections (2) and (3) or to take no action at all. |  |
+| Other factors | (5) When recommending regulations under paragraph (3)(b), the Minister shall take into account comments made under subsection 168(2), notices of objection filed under subjection 332(2) and any report of a board of review submitted under subsection 340(1). |  |
+| Regulations | 167. The Governor in Council may, on the recommendation of the Minister, make regulations with respect to a substance released from a source in Canada into the air that creates, or may reasonably be anticipated to contribute to air pollution referred to in subsection 166(1) for the purpose of preventing, controlling or correcting the air pollution, including regulations respecting |  |
+|  | (a) the quantity or concentration of the substance that may be released into the air; |  |
+|  | (b) the manner in which and conditions under which the substance may be released into the air, either alone or in combination with any other substance; |  |
+|  | (c) the maintenance of books and records for the administration of any regulation made under this section; |  |
+|  | (d) the conduct of sampling, analyses, tests, measurements or monitoring of the substance and the submission of the results to the Minister; and |  |
+|  | (e) the conditions, test procedures and laboratory practices to be followed for conducting sampling, analyses, tests, measurements or monitoring of the substance. |  |
+| Notice to other country | 168. (1) The Minister shall advise the government of any country that would be affected by or benefit from the regulation before it is published under subsection 332(1). |  |
+| Comments | (2) Within 60 days after the publication of a proposed regulation under subsection 332(1), any person, including a representative of the government of any country that would be affected by or benefit from it, may file with the Minister written comments on the proposed regulation. |  |
+| Notice to other governments | (3) At the end of the period of 60 days referred to in subsection (2), the Minister |  |
+|  | (a) shall advise each government referred to in paragraph 166(2)(a) of any notice of objection filed under subsection 332(2); and |  |
+|  | (b) shall publish in the Canada Gazette, and may publish in any other manner that the Minister considers appropriate, a report or a notice of the availability of a report that summarizes how any written comments filed under subsection (2) or a notice of objection filed under subsection 332(2) were dealt with. |  |
+| Report and remedial measures | 169. (1) Where there occurs or there is a likelihood of a release into the air of a substance in contravention of a regulation made under section 167, any person described in subsection (2) shall, as soon as possible in the circumstances, |  |
+|  | (a) subject to subsection (4) and the regulations, notify an enforcement officer or any other person designated pursuant to the regulations and provide a written report on the matter to the enforcement officer or other person; |  |
+|  | (b) take all reasonable measures consistent with the protection of the environment and public safety to prevent the release or, if it cannot be prevented, to remedy any dangerous condition or reduce or mitigate any danger to the environment or to human life or health that results from the release of the substance or may reasonably be expected to result if the substance is released; and |  |
+|  | (c) make a reasonable effort to notify any member of the public who may be adversely affected by the release or likely release. |  |
+| Application | (2) Subsection (1) applies to any person who |  |
+
 |  | (a) owns or has charge of a substance immediately before its release or its likely release into the air; or |  |
+| --- | --- | --- |
 |  | (b) causes or contributes to the release or increases the likelihood of the release. |  |
 | Report by property owner | (3) Where there occurs a release of a substance as described in subsection (1), any person, other than a person described in subsection (2), whose property is affected by the release shall, as soon as possible in the circumstances and subject to subsection (4), report the matter to an enforcement officer or to any person that is designated by regulation. |  |
 | Report to official | (4) Where there are in force, by or under the laws of a province or an aboriginal government, provisions that the Governor in Council, by regulation, declares to be adequate for dealing with a release described in subsection (1), a report required by paragraph (1)(a) or subsection (3) shall be made to a person designated by those provisions. |  |
@@ -4597,7 +4586,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) within 24 hours after making the order, offered to consult with all affected governments to determine whether they are prepared to take sufficient action to deal with the significant danger; and |  |
 |  | (b) consulted with other ministers of the Crown in right of Canada to determine whether any action can be taken under any other Act of Parliament to deal with the significant danger. |  |
 | Ministerial action | (5) Where the Governor in Council approves an interim order, the Minister shall, within 90 days after the approval, take measures to comply with section 166 in order to address the significant danger that gave rise to the interim order. |  |
-| Contraven- tion of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
+| Contravention of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
 | Cessation of effect | (7) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
 |  | (a) the day it is repealed, |  |
 |  | (b) the day a regulation is made in accordance with subsection (5), and |  |
@@ -4612,7 +4601,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) endangers the health of animal life; |  |
 |  | (d) causes damage to plant life or to property; or |  |
 |  | (e) degrades or alters, or forms part of a process of degrading or alterating, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. |  |
-| Determi- nation of international water pollution | 176. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into water creates, or may reasonably be anticipated to create, |  |
+| Determination of international water pollution | 176. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into water creates, or may reasonably be anticipated to create, |  |
 |  | (a) water pollution in a country other than Canada; or |  |
 |  | (b) water pollution that violates, or is likely to violate, an international agreement binding on Canada in relation to the prevention, control or correction of pollution. |  |
 | Consultation with other governments | (2) If the source referred to in subsection (1) is a not a federal source, the Minister shall |  |
@@ -4652,9 +4641,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) any person referred to in paragraph 179(2)(b) to the extent of the person's negligence in causing or contributing to the release. |  |
 | Only if reasonably incurred | (2) The costs and expenses referred to in subsection (1) shall only be recovered to the extent that they can be established to have been reasonably incurred in the circumstances. |  |
 
-| Application | (2) Subsection (1) applies to any person who |  |
-| --- | --- | --- |
 |  | (a) owns or has charge of a substance immediately before its release or its likely release into the air; or |  |
+| --- | --- | --- |
 |  | (b) causes or contributes to the release or increases the likelihood of the release. |  |
 | Report by property owner | (3) Where there occurs a release of a substance as described in subsection (1), any person, other than a person described in subsection (2), whose property is affected by the release shall, as soon as possible in the circumstances and subject to subsection (4), report the matter to an enforcement officer or to any person that is designated by regulation. |  |
 | Report to official | (4) Where there are in force, by or under the laws of a province or an aboriginal government, provisions that the Governor in Council, by regulation, declares to be adequate for dealing with a release described in subsection (1), a report required by paragraph (1)(a) or subsection (3) shall be made to a person designated by those provisions. |  |
@@ -4684,7 +4672,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) within 24 hours after making the order, offered to consult with all affected governments to determine whether they are prepared to take sufficient action to deal with the significant danger; and |  |
 |  | (b) consulted with other ministers of the Crown in right of Canada to determine whether any action can be taken under any other Act of Parliament to deal with the significant danger. |  |
 | Ministerial action | (5) Where the Governor in Council approves an interim order, the Minister shall, within 90 days after the approval, take measures to comply with section 166 in order to address the significant danger that gave rise to the interim order. |  |
-| Contraven- tion of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
+| Contravention of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
 | Cessation of effect | (7) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
 |  | (a) the day it is repealed, |  |
 |  | (b) the day a regulation is made in accordance with subsection (5), and |  |
@@ -4699,7 +4687,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (c) endangers the health of animal life; |  |
 |  | (d) causes damage to plant life or to property; or |  |
 |  | (e) degrades or alters, or forms part of a process of degrading or alterating, an ecosystem to an extent that is detrimental to its use by humans, animals or plants. |  |
-| Determi- nation of international water pollution | 176. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into water creates, or may reasonably be anticipated to create, |  |
+| Determination of international water pollution | 176. (1) Subject to subsection (4), the Minister shall act under subsections (2) and (3) only if the Ministers have reason to believe that a substance released from a source in Canada into water creates, or may reasonably be anticipated to create, |  |
 |  | (a) water pollution in a country other than Canada; or |  |
 |  | (b) water pollution that violates, or is likely to violate, an international agreement binding on Canada in relation to the prevention, control or correction of pollution. |  |
 | Consultation with other governments | (2) If the source referred to in subsection (1) is a not a federal source, the Minister shall |  |
@@ -4758,7 +4746,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) within 24 hours after making the order, offered to consult with all affected governments to determine whether they are prepared to take sufficient action to deal with the significant danger; and |  |
 |  | (b) consulted with other ministers of the Crown in right of Canada to determine whether any action can be taken under any other Act of Parliament to deal with the significant danger. |  |
 | Ministerial action | (5) Where the Governor in Council approves an interim order, the Minister shall, within 90 days after the approval, take measures to comply with section 176 in order to address the significant danger that gave rise to the interim order. |  |
-| Contraven- tion of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
+| Contravention of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
 | Cessation of effect | (7) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
 |  | (a) the day it is repealed, |  |
 |  | (b) the day a regulation is made in accordance with subsection (5), and |  |
@@ -4776,7 +4764,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Refusal to issue permit | (2) If the Minister is of the opinion that the waste or material will not be managed in a manner that will protect the environment and human health against the adverse effects that may result from that waste or material, the Minister may refuse, in accordance with the criteria set out in the regulations, to issue a permit even if the relevant authorities have given their authorization. |  |
 | Consultation with governments | (3) Before refusing under subsection (2) to issue a permit to import, the Minister shall consult with the government of the jurisdiction of destination. |  |
 | Special circumstances to issue permits | (4) Where the Minister is of the opinion that the waste or material will be managed in a manner that will protect the environment and human health against the adverse effects that may result from that waste or material, the Minister may issue a permit if the relevant authorities inform the Minister that they lack the legal authority to authorize the movement, final disposal or recycling but are not opposed to it. |  |
-| Prohibi- tions - import, export and transit | 186. (1) For the purpose of implementing international agreements respecting the environment, the Minister may, with the approval of the Governor in Council and taking into account Canada's international obligations, prohibit, completely or partially and under any conditions that may be prescribed, the import, export or transit of waste or material referred to in subsection 185(1). |  |
+| Prohibitions - import, export and transit | 186. (1) For the purpose of implementing international agreements respecting the environment, the Minister may, with the approval of the Governor in Council and taking into account Canada's international obligations, prohibit, completely or partially and under any conditions that may be prescribed, the import, export or transit of waste or material referred to in subsection 185(1). |  |
 | Prohibition of abandonment | (2) No person shall abandon any waste or material referred to in subsection 185(1) in the course of import, export or transit. |  |
 | Publication | 187. After the Minister receives a notification of the proposed import, export or transit of a waste or material referred to in paragraph 185(1)(a), the Minister shall publish in the Canada Gazette, or in any other manner that the Minister considers appropriate, the name or specifications of the waste or material and |  |
 |  | (a) in the case of a proposed import, the name of the jurisdiction of origin and the name of the importer; |  |
@@ -4785,11 +4773,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Reduction of export for final disposal | 188. (1) For the purpose of reducing or phasing out the export of hazardous waste or prescribed non-hazardous waste for final disposal, the Minister may require an exporter, or a class of exporters, of hazardous waste to |  |
 |  | (a) submit to the Minister, at the same time as the notification referred to in paragraph 185(1)(a) and at any other prescribed time, a plan in accordance with the regulations; and |  |
 |  | (b) implement that plan. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a plan under paragraph (1)(b) shall file with the Minister, within 30 days after the completion of each stage of the plan, a written declaration that the implementation has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a plan under paragraph (1)(b) shall file with the Minister, within 30 days after the completion of each stage of the plan, a written declaration that the implementation has been completed. |  |
 | Sanction | (3) The Minister may refuse to issue a permit to an exporter who does not comply with subsection (1) or (2). |  |
 | Movement within Canada | 189. (1) No person shall undertake movement within Canada of hazardous waste or hazardous recyclable material otherwise than in accordance with this Division and the regulations and unless the person pays the prescribed fee. |  |
 | Publication | (2) The Minister shall publish in the Canada Gazette, or in any other manner that the Minister considers appropriate, information derived from documents received under regulations made for the purpose of this section. |  |
-| Permits based on equivalent environ- mental safety level | 190. (1) The Minister may issue a permit authorizing, subject to conditions fixed by the Minister, any activity to be conducted in a manner that does not comply with this Division if the Minister is satisfied that |  |
+| Permits based on equivalent environmental safety level | 190. (1) The Minister may issue a permit authorizing, subject to conditions fixed by the Minister, any activity to be conducted in a manner that does not comply with this Division if the Minister is satisfied that |  |
 |  | (a) the manner in which the activity will be conducted provides a level of environmental safety at least equivalent to that provided by compliance with this Division; and |  |
 |  | (b) in the case of the importation, exportation or transit of a waste or material referred to in subsection 185(1), the activity is consistent with international environmental agreements binding on Canada. |  |
 | Scope of permit | (2) The permit may authorize the activity in terms of the persons who may conduct the activity and in terms of the waste and material that it may involve. |  |
@@ -4830,7 +4818,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) within 24 hours after making the order, offered to consult with all affected governments to determine whether they are prepared to take sufficient action to deal with the significant danger; and |  |
 |  | (b) consulted with other ministers of the Crown in right of Canada to determine whether any action can be taken under any other Act of Parliament to deal with the significant danger. |  |
 | Ministerial action | (5) Where the Governor in Council approves an interim order, the Minister shall, within 90 days after the approval, take measures to comply with section 176 in order to address the significant danger that gave rise to the interim order. |  |
-| Contraven- tion of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
+| Contravention of unpublished order | (6) No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order. |  |
 | Cessation of effect | (7) Subject to subsection (3), an interim order ceases to have effect on the earliest of |  |
 |  | (a) the day it is repealed, |  |
 |  | (b) the day a regulation is made in accordance with subsection (5), and |  |
@@ -4848,7 +4836,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Refusal to issue permit | (2) If the Minister is of the opinion that the waste or material will not be managed in a manner that will protect the environment and human health against the adverse effects that may result from that waste or material, the Minister may refuse, in accordance with the criteria set out in the regulations, to issue a permit even if the relevant authorities have given their authorization. |  |
 | Consultation with governments | (3) Before refusing under subsection (2) to issue a permit to import, the Minister shall consult with the government of the jurisdiction of destination. |  |
 | Special circumstances to issue permits | (4) Where the Minister is of the opinion that the waste or material will be managed in a manner that will protect the environment and human health against the adverse effects that may result from that waste or material, the Minister may issue a permit if the relevant authorities inform the Minister that they lack the legal authority to authorize the movement, final disposal or recycling but are not opposed to it. |  |
-| Prohibi- tions - import, export and transit | 186. (1) For the purpose of implementing international agreements respecting the environment, the Minister may, with the approval of the Governor in Council and taking into account Canada's international obligations, prohibit, completely or partially and under any conditions that may be prescribed, the import, export or transit of waste or material referred to in subsection 185(1). |  |
+| Prohibitions - import, export and transit | 186. (1) For the purpose of implementing international agreements respecting the environment, the Minister may, with the approval of the Governor in Council and taking into account Canada's international obligations, prohibit, completely or partially and under any conditions that may be prescribed, the import, export or transit of waste or material referred to in subsection 185(1). |  |
 | Prohibition of abandonment | (2) No person shall abandon any waste or material referred to in subsection 185(1) in the course of import, export or transit. |  |
 | Publication | 187. After the Minister receives a notification of the proposed import, export or transit of a waste or material referred to in paragraph 185(1)(a), the Minister shall publish in the Canada Gazette, or in any other manner that the Minister considers appropriate, the name or specifications of the waste or material and |  |
 |  | (a) in the case of a proposed import, the name of the jurisdiction of origin and the name of the importer; |  |
@@ -4857,11 +4845,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Reduction of export for final disposal | 188. (1) For the purpose of reducing or phasing out the export of hazardous waste or prescribed non-hazardous waste for final disposal, the Minister may require an exporter, or a class of exporters, of hazardous waste to |  |
 |  | (a) submit to the Minister, at the same time as the notification referred to in paragraph 185(1)(a) and at any other prescribed time, a plan in accordance with the regulations; and |  |
 |  | (b) implement that plan. |  |
-| Declaration of implementa- tion | (2) Every person who is required to implement a plan under paragraph (1)(b) shall file with the Minister, within 30 days after the completion of each stage of the plan, a written declaration that the implementation has been completed. |  |
+| Declaration of implementatio n | (2) Every person who is required to implement a plan under paragraph (1)(b) shall file with the Minister, within 30 days after the completion of each stage of the plan, a written declaration that the implementation has been completed. |  |
 | Sanction | (3) The Minister may refuse to issue a permit to an exporter who does not comply with subsection (1) or (2). |  |
 | Movement within Canada | 189. (1) No person shall undertake movement within Canada of hazardous waste or hazardous recyclable material otherwise than in accordance with this Division and the regulations and unless the person pays the prescribed fee. |  |
 | Publication | (2) The Minister shall publish in the Canada Gazette, or in any other manner that the Minister considers appropriate, information derived from documents received under regulations made for the purpose of this section. |  |
-| Permits based on equivalent environ- mental safety level | 190. (1) The Minister may issue a permit authorizing, subject to conditions fixed by the Minister, any activity to be conducted in a manner that does not comply with this Division if the Minister is satisfied that |  |
+| Permits based on equivalent environmental safety level | 190. (1) The Minister may issue a permit authorizing, subject to conditions fixed by the Minister, any activity to be conducted in a manner that does not comply with this Division if the Minister is satisfied that |  |
 |  | (a) the manner in which the activity will be conducted provides a level of environmental safety at least equivalent to that provided by compliance with this Division; and |  |
 |  | (b) in the case of the importation, exportation or transit of a waste or material referred to in subsection 185(1), the activity is consistent with international environmental agreements binding on Canada. |  |
 | Scope of permit | (2) The permit may authorize the activity in terms of the persons who may conduct the activity and in terms of the waste and material that it may involve. |  |
@@ -4887,7 +4875,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 |  | ENVIRONMENTAL MATTERS RELATED TO EMERGENCIES |  |
 | Definitions | 193. The definitions in this section apply in this Part. |  |
-| ``environ- mental emergency'' « urgence environne- mentale » | ``environmental emergency'' means |  |
+| ``environment al emergency'' « urgence environnemen tale » | ``environmental emergency'' means |  |
 |  | (a) an uncontrolled, unplanned or accidental release, or release in contravention of regulations made under this Part, of a substance into the environment; or |  |
 |  | (b) the reasonable likelihood of such a release into the environment. |  |
 | ``substance'' « substance » | ``substance'' means, except in section 199, a substance on the list of substances established under regulations made under this Part. |  |
@@ -4902,7 +4890,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Consultation | 197. (1) In carrying out the responsibilities conferred by section 196, the Minister shall offer to consult with the government of a province and the members of the Committee who are representatives of aboriginal governments and may consult with a government department or agency, aboriginal people, representatives of industry and labour and municipal authorities or with persons interested in the quality of the environment or environmental emergencies. |  |
 | Minister may act | (2) At any time after the 60th day following the day on which the Minister offers to consult in accordance with subsection (1), the Minister may act under section 196 if the offer to consult is not accepted by the government of a province or members of the Committee who are representatives of aboriginal governments. |  |
 | Publication of guidelines and codes of practice | 198. The Minister shall publish in the Canada Gazette, or in any other manner that the Minister considers appropriate, guidelines and codes of practice issued under section 196 or a notice stating where copies of those documents may be obtained. |  |
-| Require- ments for environ- mental emergency plans | 199. (1) The Minister may at any time publish in the Canada Gazette, and in any other manner that the Minister considers appropriate, a notice requiring any person or class of persons described in the notice to prepare and implement an environmental emergency plan respecting the prevention of, preparedness for, response to or recovery from an environmental emergency in respect of |  |
+| Requirements for environmental emergency plans | 199. (1) The Minister may at any time publish in the Canada Gazette, and in any other manner that the Minister considers appropriate, a notice requiring any person or class of persons described in the notice to prepare and implement an environmental emergency plan respecting the prevention of, preparedness for, response to or recovery from an environmental emergency in respect of |  |
 |  | (a) a substance or group of substances on the List of Toxic Substances in Schedule 1; or |  |
 |  | (b) a substance or group of substances in relation to which there has been published in the Canada Gazette |  |
 |  | (i) a statement of the Ministers under paragraph 77(6)(b) indicating that the measure that they propose to take, as confirmed or amended, is a recommendation that the substance be added to the List of Toxic Substances in Schedule 1, or |  |
@@ -4933,7 +4921,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (ii) to repair, reduce or mitigate any negative effects on the environment or human life or health that result from the environmental emergency or that may reasonably be expected to result from it; |  |
 |  | (g) respecting the implementation of international agreements entered into by Canada in relation to environmental emergencies; and |  |
 |  | (h) respecting any other matter necessary for the purposes of this Part. |  |
-| Environ- mental emergencies regulated under other Acts of Parliament | (2) The Governor in Council shall not make a regulation under subsection (1) in respect of a matter if, by order, the Governor in Council states that it is of the opinion that |  |
+| Environmenta l emergencies regulated under other Acts of Parliament | (2) The Governor in Council shall not make a regulation under subsection (1) in respect of a matter if, by order, the Governor in Council states that it is of the opinion that |  |
 |  | (a) the matter is regulated by or under any other Act of Parliament that contains provisions that are similar in effect to sections 194 to 205; and |  |
 |  | (b) that Act or any regulation made under that Act provides sufficient protection to human health and the environment or its biological diversity. |  |
 | Remedial measures | 201. (1) Subject to any regulations made under subsection 200(1), where there occurs an environmental emergency in respect of a substance on the list established under the regulations, any person described in subsection (2) shall, as soon as possible in the circumstances, |  |
@@ -4951,8 +4939,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) Any enforcement officer or other person authorized or required to take any measures under subsection (1) or (4) may enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) Any person, other than a person described in subsection (2), who provides assistance or advice in taking the measures required by subsection (1) or who takes any measures authorized under subsection (4) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under those subsections unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 202. (1) If a person knows about an environmental emergency but the person is not required to report the matter under this Act, the person may report any information about the environmental emergency to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -4970,12 +4958,13 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National notification and reporting system | 204. (1) The Minister may establish, in cooperation with the governments of the provinces and aboriginal governments and government departments or agencies, a national system for the notification and reporting of environmental emergencies. |  |
 | Copies | (2) Subject to section 314, any person may have access to and a copy of any information contained in the national system established under subsection (1). |  |
 | Liability of owner of substance | 205. (1) Subject to this Part, the person who owns or has the charge, management or control of a substance immediately before an environmental emergency is liable |  |
+|  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
 
 |  | PART 8 |  |
 | --- | --- | --- |
 |  | ENVIRONMENTAL MATTERS RELATED TO EMERGENCIES |  |
 | Definitions | 193. The definitions in this section apply in this Part. |  |
-| ``environ- mental emergency'' « urgence environne- mentale » | ``environmental emergency'' means |  |
+| ``environment al emergency'' « urgence environnemen tale » | ``environmental emergency'' means |  |
 |  | (a) an uncontrolled, unplanned or accidental release, or release in contravention of regulations made under this Part, of a substance into the environment; or |  |
 |  | (b) the reasonable likelihood of such a release into the environment. |  |
 | ``substance'' « substance » | ``substance'' means, except in section 199, a substance on the list of substances established under regulations made under this Part. |  |
@@ -4990,7 +4979,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Consultation | 197. (1) In carrying out the responsibilities conferred by section 196, the Minister shall offer to consult with the government of a province and the members of the Committee who are representatives of aboriginal governments and may consult with a government department or agency, aboriginal people, representatives of industry and labour and municipal authorities or with persons interested in the quality of the environment or environmental emergencies. |  |
 | Minister may act | (2) At any time after the 60th day following the day on which the Minister offers to consult in accordance with subsection (1), the Minister may act under section 196 if the offer to consult is not accepted by the government of a province or members of the Committee who are representatives of aboriginal governments. |  |
 | Publication of guidelines and codes of practice | 198. The Minister shall publish in the Canada Gazette, or in any other manner that the Minister considers appropriate, guidelines and codes of practice issued under section 196 or a notice stating where copies of those documents may be obtained. |  |
-| Require- ments for environ- mental emergency plans | 199. (1) The Minister may at any time publish in the Canada Gazette, and in any other manner that the Minister considers appropriate, a notice requiring any person or class of persons described in the notice to prepare and implement an environmental emergency plan respecting the prevention of, preparedness for, response to or recovery from an environmental emergency in respect of |  |
+| Requirements for environmental emergency plans | 199. (1) The Minister may at any time publish in the Canada Gazette, and in any other manner that the Minister considers appropriate, a notice requiring any person or class of persons described in the notice to prepare and implement an environmental emergency plan respecting the prevention of, preparedness for, response to or recovery from an environmental emergency in respect of |  |
 |  | (a) a substance or group of substances on the List of Toxic Substances in Schedule 1; or |  |
 |  | (b) a substance or group of substances in relation to which there has been published in the Canada Gazette |  |
 |  | (i) a statement of the Ministers under paragraph 77(6)(b) indicating that the measure that they propose to take, as confirmed or amended, is a recommendation that the substance be added to the List of Toxic Substances in Schedule 1, or |  |
@@ -5021,7 +5010,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (ii) to repair, reduce or mitigate any negative effects on the environment or human life or health that result from the environmental emergency or that may reasonably be expected to result from it; |  |
 |  | (g) respecting the implementation of international agreements entered into by Canada in relation to environmental emergencies; and |  |
 |  | (h) respecting any other matter necessary for the purposes of this Part. |  |
-| Environ- mental emergencies regulated under other Acts of Parliament | (2) The Governor in Council shall not make a regulation under subsection (1) in respect of a matter if, by order, the Governor in Council states that it is of the opinion that |  |
+| Environmenta l emergencies regulated under other Acts of Parliament | (2) The Governor in Council shall not make a regulation under subsection (1) in respect of a matter if, by order, the Governor in Council states that it is of the opinion that |  |
 |  | (a) the matter is regulated by or under any other Act of Parliament that contains provisions that are similar in effect to sections 194 to 205; and |  |
 |  | (b) that Act or any regulation made under that Act provides sufficient protection to human health and the environment or its biological diversity. |  |
 | Remedial measures | 201. (1) Subject to any regulations made under subsection 200(1), where there occurs an environmental emergency in respect of a substance on the list established under the regulations, any person described in subsection (2) shall, as soon as possible in the circumstances, |  |
@@ -5039,8 +5028,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) Any enforcement officer or other person authorized or required to take any measures under subsection (1) or (4) may enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) Any person, other than a person described in subsection (2), who provides assistance or advice in taking the measures required by subsection (1) or who takes any measures authorized under subsection (4) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under those subsections unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 202. (1) If a person knows about an environmental emergency but the person is not required to report the matter under this Act, the person may report any information about the environmental emergency to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -5058,10 +5047,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | National notification and reporting system | 204. (1) The Minister may establish, in cooperation with the governments of the provinces and aboriginal governments and government departments or agencies, a national system for the notification and reporting of environmental emergencies. |  |
 | Copies | (2) Subject to section 314, any person may have access to and a copy of any information contained in the national system established under subsection (1). |  |
 | Liability of owner of substance | 205. (1) Subject to this Part, the person who owns or has the charge, management or control of a substance immediately before an environmental emergency is liable |  |
-
 |  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
-| --- | --- | --- |
+
 |  | (b) for costs and expenses incurred by a public department within the meaning of the Criminal Code or other public authority in Canada in respect of measures taken to prevent, repair, remedy or minimize the damage to the environment resulting from the emergency, including measures taken in anticipation of the environmental emergency, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures; and |  |
+| --- | --- | --- |
 |  | (c) for costs and expenses incurred by the Minister in respect of measures taken to prevent, repair, remedy or minimize the environmental emergency to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures. |  |
 | Definition of ``public authority in Canada'' | (2) In subsection (1), ``public authority in Canada'' means Her Majesty in right of a province, an aboriginal government or any other body designated by the Governor in Council for the purposes of that subsection as a public authority in Canada. |  |
 | Strict liability subject to certain defences | (3) The person's liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the environmental emergency |  |
@@ -5077,7 +5066,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 9 |  |
 |  | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |  |
 |  | Interpretation |  |
-| Definition of ``regula- tions'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
+| Definition of ``regulations'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
 |  | Application |  |
 | Application to Government, etc. | 207. (1) This Part applies to |  |
 |  | (a) departments, boards and agencies of the Government of Canada; |  |
@@ -5133,15 +5122,14 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) shall offer to consult with the government of a territory if the regulation applies to that territory, and with the members of the Committee who are representatives of aboriginal governments if it applies to aboriginal land over which an aboriginal government has jurisdiction; and |  |
 |  | (b) may consult with a department, board or agency of the Government of Canada, or a Crown corporation as defined in subsection 83(1) of the Financial Administration Act. |  |
 | Minister may act | (4) At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments. |  |
-| Non- application of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
+| Non-applicati on of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
 |  | (a) are in force in respect of an aspect of the protection of the environment, |  |
 |  | (b) apply to a federal work or undertaking, federal land or aboriginal land, and |  |
 |  | (c) provide sufficient protection to the environment and human health, |  |
 |  | the Governor in Council may make an order stating that opinion and, if such an order is made, regulations made under this Part relating to the same aspect do not apply to the federal work or undertaking, the federal land or the aboriginal land. |  |
 
-|  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
-| --- | --- | --- |
 |  | (b) for costs and expenses incurred by a public department within the meaning of the Criminal Code or other public authority in Canada in respect of measures taken to prevent, repair, remedy or minimize the damage to the environment resulting from the emergency, including measures taken in anticipation of the environmental emergency, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures; and |  |
+| --- | --- | --- |
 |  | (c) for costs and expenses incurred by the Minister in respect of measures taken to prevent, repair, remedy or minimize the environmental emergency to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures. |  |
 | Definition of ``public authority in Canada'' | (2) In subsection (1), ``public authority in Canada'' means Her Majesty in right of a province, an aboriginal government or any other body designated by the Governor in Council for the purposes of that subsection as a public authority in Canada. |  |
 | Strict liability subject to certain defences | (3) The person's liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the environmental emergency |  |
@@ -5157,7 +5145,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 9 |  |
 |  | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |  |
 |  | Interpretation |  |
-| Definition of ``regula- tions'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
+| Definition of ``regulations'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
 |  | Application |  |
 | Application to Government, etc. | 207. (1) This Part applies to |  |
 |  | (a) departments, boards and agencies of the Government of Canada; |  |
@@ -5213,15 +5201,14 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) shall offer to consult with the government of a territory if the regulation applies to that territory, and with the members of the Committee who are representatives of aboriginal governments if it applies to aboriginal land over which an aboriginal government has jurisdiction; and |  |
 |  | (b) may consult with a department, board or agency of the Government of Canada, or a Crown corporation as defined in subsection 83(1) of the Financial Administration Act. |  |
 | Minister may act | (4) At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments. |  |
-| Non- application of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
+| Non-applicati on of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
 |  | (a) are in force in respect of an aspect of the protection of the environment, |  |
 |  | (b) apply to a federal work or undertaking, federal land or aboriginal land, and |  |
 |  | (c) provide sufficient protection to the environment and human health, |  |
 |  | the Governor in Council may make an order stating that opinion and, if such an order is made, regulations made under this Part relating to the same aspect do not apply to the federal work or undertaking, the federal land or the aboriginal land. |  |
 
-|  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
-| --- | --- | --- |
 |  | (b) for costs and expenses incurred by a public department within the meaning of the Criminal Code or other public authority in Canada in respect of measures taken to prevent, repair, remedy or minimize the damage to the environment resulting from the emergency, including measures taken in anticipation of the environmental emergency, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures; and |  |
+| --- | --- | --- |
 |  | (c) for costs and expenses incurred by the Minister in respect of measures taken to prevent, repair, remedy or minimize the environmental emergency to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures. |  |
 | Definition of ``public authority in Canada'' | (2) In subsection (1), ``public authority in Canada'' means Her Majesty in right of a province, an aboriginal government or any other body designated by the Governor in Council for the purposes of that subsection as a public authority in Canada. |  |
 | Strict liability subject to certain defences | (3) The person's liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the environmental emergency |  |
@@ -5237,7 +5224,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 9 |  |
 |  | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |  |
 |  | Interpretation |  |
-| Definition of ``regula- tions'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
+| Definition of ``regulations'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
 |  | Application |  |
 | Application to Government, etc. | 207. (1) This Part applies to |  |
 |  | (a) departments, boards and agencies of the Government of Canada; |  |
@@ -5293,15 +5280,14 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) shall offer to consult with the government of a territory if the regulation applies to that territory, and with the members of the Committee who are representatives of aboriginal governments if it applies to aboriginal land over which an aboriginal government has jurisdiction; and |  |
 |  | (b) may consult with a department, board or agency of the Government of Canada, or a Crown corporation as defined in subsection 83(1) of the Financial Administration Act. |  |
 | Minister may act | (4) At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments. |  |
-| Non- application of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
+| Non-applicati on of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
 |  | (a) are in force in respect of an aspect of the protection of the environment, |  |
 |  | (b) apply to a federal work or undertaking, federal land or aboriginal land, and |  |
 |  | (c) provide sufficient protection to the environment and human health, |  |
 |  | the Governor in Council may make an order stating that opinion and, if such an order is made, regulations made under this Part relating to the same aspect do not apply to the federal work or undertaking, the federal land or the aboriginal land. |  |
 
-|  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
-| --- | --- | --- |
 |  | (b) for costs and expenses incurred by a public department within the meaning of the Criminal Code or other public authority in Canada in respect of measures taken to prevent, repair, remedy or minimize the damage to the environment resulting from the emergency, including measures taken in anticipation of the environmental emergency, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures; and |  |
+| --- | --- | --- |
 |  | (c) for costs and expenses incurred by the Minister in respect of measures taken to prevent, repair, remedy or minimize the environmental emergency to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures. |  |
 | Definition of ``public authority in Canada'' | (2) In subsection (1), ``public authority in Canada'' means Her Majesty in right of a province, an aboriginal government or any other body designated by the Governor in Council for the purposes of that subsection as a public authority in Canada. |  |
 | Strict liability subject to certain defences | (3) The person's liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the environmental emergency |  |
@@ -5317,7 +5303,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 9 |  |
 |  | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |  |
 |  | Interpretation |  |
-| Definition of ``regula- tions'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
+| Definition of ``regulations'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
 |  | Application |  |
 | Application to Government, etc. | 207. (1) This Part applies to |  |
 |  | (a) departments, boards and agencies of the Government of Canada; |  |
@@ -5373,15 +5359,14 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) shall offer to consult with the government of a territory if the regulation applies to that territory, and with the members of the Committee who are representatives of aboriginal governments if it applies to aboriginal land over which an aboriginal government has jurisdiction; and |  |
 |  | (b) may consult with a department, board or agency of the Government of Canada, or a Crown corporation as defined in subsection 83(1) of the Financial Administration Act. |  |
 | Minister may act | (4) At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments. |  |
-| Non- application of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
+| Non-applicati on of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
 |  | (a) are in force in respect of an aspect of the protection of the environment, |  |
 |  | (b) apply to a federal work or undertaking, federal land or aboriginal land, and |  |
 |  | (c) provide sufficient protection to the environment and human health, |  |
 |  | the Governor in Council may make an order stating that opinion and, if such an order is made, regulations made under this Part relating to the same aspect do not apply to the federal work or undertaking, the federal land or the aboriginal land. |  |
 
-|  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
-| --- | --- | --- |
 |  | (b) for costs and expenses incurred by a public department within the meaning of the Criminal Code or other public authority in Canada in respect of measures taken to prevent, repair, remedy or minimize the damage to the environment resulting from the emergency, including measures taken in anticipation of the environmental emergency, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures; and |  |
+| --- | --- | --- |
 |  | (c) for costs and expenses incurred by the Minister in respect of measures taken to prevent, repair, remedy or minimize the environmental emergency to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures. |  |
 | Definition of ``public authority in Canada'' | (2) In subsection (1), ``public authority in Canada'' means Her Majesty in right of a province, an aboriginal government or any other body designated by the Governor in Council for the purposes of that subsection as a public authority in Canada. |  |
 | Strict liability subject to certain defences | (3) The person's liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the environmental emergency |  |
@@ -5397,7 +5382,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 9 |  |
 |  | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |  |
 |  | Interpretation |  |
-| Definition of ``regula- tions'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
+| Definition of ``regulations'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
 |  | Application |  |
 | Application to Government, etc. | 207. (1) This Part applies to |  |
 |  | (a) departments, boards and agencies of the Government of Canada; |  |
@@ -5453,15 +5438,14 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) shall offer to consult with the government of a territory if the regulation applies to that territory, and with the members of the Committee who are representatives of aboriginal governments if it applies to aboriginal land over which an aboriginal government has jurisdiction; and |  |
 |  | (b) may consult with a department, board or agency of the Government of Canada, or a Crown corporation as defined in subsection 83(1) of the Financial Administration Act. |  |
 | Minister may act | (4) At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments. |  |
-| Non- application of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
+| Non-applicati on of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
 |  | (a) are in force in respect of an aspect of the protection of the environment, |  |
 |  | (b) apply to a federal work or undertaking, federal land or aboriginal land, and |  |
 |  | (c) provide sufficient protection to the environment and human health, |  |
 |  | the Governor in Council may make an order stating that opinion and, if such an order is made, regulations made under this Part relating to the same aspect do not apply to the federal work or undertaking, the federal land or the aboriginal land. |  |
 
-|  | (a) for restoring any part of the environment damaged by or during the emergency; |  |
-| --- | --- | --- |
 |  | (b) for costs and expenses incurred by a public department within the meaning of the Criminal Code or other public authority in Canada in respect of measures taken to prevent, repair, remedy or minimize the damage to the environment resulting from the emergency, including measures taken in anticipation of the environmental emergency, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures; and |  |
+| --- | --- | --- |
 |  | (c) for costs and expenses incurred by the Minister in respect of measures taken to prevent, repair, remedy or minimize the environmental emergency to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by such measures. |  |
 | Definition of ``public authority in Canada'' | (2) In subsection (1), ``public authority in Canada'' means Her Majesty in right of a province, an aboriginal government or any other body designated by the Governor in Council for the purposes of that subsection as a public authority in Canada. |  |
 | Strict liability subject to certain defences | (3) The person's liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the environmental emergency |  |
@@ -5477,7 +5461,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 9 |  |
 |  | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |  |
 |  | Interpretation |  |
-| Definition of ``regula- tions'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
+| Definition of ``regulations'' | 206. In this Part, ``regulations'' means regulations made under this Part. |  |
 |  | Application |  |
 | Application to Government, etc. | 207. (1) This Part applies to |  |
 |  | (a) departments, boards and agencies of the Government of Canada; |  |
@@ -5533,7 +5517,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (a) shall offer to consult with the government of a territory if the regulation applies to that territory, and with the members of the Committee who are representatives of aboriginal governments if it applies to aboriginal land over which an aboriginal government has jurisdiction; and |  |
 |  | (b) may consult with a department, board or agency of the Government of Canada, or a Crown corporation as defined in subsection 83(1) of the Financial Administration Act. |  |
 | Minister may act | (4) At any time after the 60th day following the day on which the Minister offers to consult in accordance with paragraph (3)(a), the Minister may recommend a regulation to the Governor in Council under this section if the offer to consult is not accepted by the government of a territory or members of the Committee who are representatives of aboriginal governments. |  |
-| Non- application of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
+| Non-applicati on of regulations | 210. Where the Governor in Council is of the opinion that provisions of any other Part of this Act or any other Act of Parliament, or regulations made under them, |  |
 |  | (a) are in force in respect of an aspect of the protection of the environment, |  |
 |  | (b) apply to a federal work or undertaking, federal land or aboriginal land, and |  |
 |  | (c) provide sufficient protection to the environment and human health, |  |
@@ -5559,8 +5543,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -5619,7 +5603,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -5648,8 +5632,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -5708,7 +5692,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -5737,8 +5721,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -5797,7 +5781,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -5826,8 +5810,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -5886,7 +5870,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -5915,8 +5899,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -5975,7 +5959,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -6004,8 +5988,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -6064,7 +6048,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -6093,8 +6077,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Access to property | (6) An enforcement officer or other person authorized or required to take measures under subsection (1) or (4) may, for the purpose of taking those measures, enter and have access to any place or property and may do anything reasonable that may be necessary in the circumstances. |  |
 | Personal liability | (7) A person who provides assistance or advice in taking the measures required by subsection (1), or who takes any measures authorized under subsection (4), is not personally liable either civilly or criminally for any act or omission in the course of providing assistance or advice or taking any measures under those subsections, unless it is established that the person acted in bad faith. |  |
 | Voluntary report | 213. (1) If a person knows about a release or likely release of a substance into the environment in contravention of a regulation but the person is not required to report the matter under this Act, the person may report any information about the release or likely release to an enforcement officer or to a person designated by the regulations. |  |
-| Request for confidenti- ality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
-| Requirement of confidenti- ality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
+| Request for confidentiality | (2) The person making the report may request that their identity and any information that could reasonably reveal their identity not be released. |  |
+| Requirement of confidentiality | (3) No person shall disclose, or have disclosed, the identity of the person making the request or any information that could reasonably be expected to reveal their identity unless the person making the request authorizes the disclosure in writing. |  |
 | Employee protection | (4) Despite any other Act of Parliament, no employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that |  |
 |  | (a) the employee has made a report under subsection (1); |  |
 |  | (b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or |  |
@@ -6153,7 +6137,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Powers in relation to ships, etc. | (8) Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, |  |
 |  | (a) board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and |  |
 |  | (b) travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea. |  |
-| Enforcement officer to receive accommoda- tion | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
+| Enforcement officer to receive accommodati on | (9) An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food. |  |
 | Powers of enforcement officer | (10) In carrying out an inspection of a place under this section, an enforcement officer may, for the purposes of this Act, |  |
 |  | (a) examine any substance, product, fuel, cleaning product or water conditioner referred to in subsection (1) or any other thing relevant to the administration of this Act that is found in the place; |  |
 |  | (b) open and examine any receptacle or package found that the enforcement officer believes on reasonable grounds contains any substance, product, air contaminant, fuel, cleaning product or water conditioner, engine, equipment or component; |  |
@@ -6348,7 +6332,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Environmental Protection Compliance Orders |  |
 | Definition of ``order'' | 234. For the purposes of sections 235 to 271, ``order'' means an environmental protection compliance order issued under section 235. |  |
 | Order | 235. (1) Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened in the circumstances described in subsection (2) by a person who is continuing the commission of the offence, or that any of those provisions will be contravened in the circumstances described in that subsection, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (3) to take any of the measures referred to in subsection (4) and, where applicable, subsection (5) that are reasonable in the circumstances and consistent with the protection of the environment and public safety, in order to cease or refrain from committing the alleged contravention. |  |
-| Circumstan- ces | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
+| Circumstances | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
 |  | (a) the exportation, importation, manufacture, transportation, processing or distribution of a substance or product containing a substance; |  |
 |  | (b) the possession, storage, use, sale, offering for sale, advertisement or disposal of a substance or product containing a substance; |  |
 |  | (c) the use of a substance or product containing a substance in a commercial manufacturing or processing activity; or |  |
@@ -6380,7 +6364,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the period within which a request for a review may be made. |  |
 | Duration of order | (7) An order may not be issued for a period of more than 180 days. |  |
 | Exigent circumstances | 236. (1) In the case of exigent circumstances, an order may be given orally, but within the period of seven days immediately after it is so given, a written order must be issued in accordance with section 235. |  |
-| Definition of ``exigent circumstan- ces'' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
+| Definition of ``exigent circumstances '' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
 | Notice of intent | 237. (1) Except in exigent circumstances, the enforcement officer shall, wherever practicable, before issuing an order, |  |
 |  | (a) provide an oral or a written notice of the intent of the enforcement officer to issue the order to every person who will be subject to the order; and |  |
 |  | (b) allow a reasonable opportunity in the circumstances for the person to make oral representations. |  |
@@ -6436,7 +6420,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Environmental Protection Compliance Orders |  |
 | Definition of ``order'' | 234. For the purposes of sections 235 to 271, ``order'' means an environmental protection compliance order issued under section 235. |  |
 | Order | 235. (1) Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened in the circumstances described in subsection (2) by a person who is continuing the commission of the offence, or that any of those provisions will be contravened in the circumstances described in that subsection, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (3) to take any of the measures referred to in subsection (4) and, where applicable, subsection (5) that are reasonable in the circumstances and consistent with the protection of the environment and public safety, in order to cease or refrain from committing the alleged contravention. |  |
-| Circumstan- ces | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
+| Circumstances | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
 |  | (a) the exportation, importation, manufacture, transportation, processing or distribution of a substance or product containing a substance; |  |
 |  | (b) the possession, storage, use, sale, offering for sale, advertisement or disposal of a substance or product containing a substance; |  |
 |  | (c) the use of a substance or product containing a substance in a commercial manufacturing or processing activity; or |  |
@@ -6468,7 +6452,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the period within which a request for a review may be made. |  |
 | Duration of order | (7) An order may not be issued for a period of more than 180 days. |  |
 | Exigent circumstances | 236. (1) In the case of exigent circumstances, an order may be given orally, but within the period of seven days immediately after it is so given, a written order must be issued in accordance with section 235. |  |
-| Definition of ``exigent circumstan- ces'' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
+| Definition of ``exigent circumstances '' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
 | Notice of intent | 237. (1) Except in exigent circumstances, the enforcement officer shall, wherever practicable, before issuing an order, |  |
 |  | (a) provide an oral or a written notice of the intent of the enforcement officer to issue the order to every person who will be subject to the order; and |  |
 |  | (b) allow a reasonable opportunity in the circumstances for the person to make oral representations. |  |
@@ -6524,7 +6508,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Environmental Protection Compliance Orders |  |
 | Definition of ``order'' | 234. For the purposes of sections 235 to 271, ``order'' means an environmental protection compliance order issued under section 235. |  |
 | Order | 235. (1) Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened in the circumstances described in subsection (2) by a person who is continuing the commission of the offence, or that any of those provisions will be contravened in the circumstances described in that subsection, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (3) to take any of the measures referred to in subsection (4) and, where applicable, subsection (5) that are reasonable in the circumstances and consistent with the protection of the environment and public safety, in order to cease or refrain from committing the alleged contravention. |  |
-| Circumstan- ces | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
+| Circumstances | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
 |  | (a) the exportation, importation, manufacture, transportation, processing or distribution of a substance or product containing a substance; |  |
 |  | (b) the possession, storage, use, sale, offering for sale, advertisement or disposal of a substance or product containing a substance; |  |
 |  | (c) the use of a substance or product containing a substance in a commercial manufacturing or processing activity; or |  |
@@ -6556,7 +6540,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the period within which a request for a review may be made. |  |
 | Duration of order | (7) An order may not be issued for a period of more than 180 days. |  |
 | Exigent circumstances | 236. (1) In the case of exigent circumstances, an order may be given orally, but within the period of seven days immediately after it is so given, a written order must be issued in accordance with section 235. |  |
-| Definition of ``exigent circumstan- ces'' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
+| Definition of ``exigent circumstances '' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
 | Notice of intent | 237. (1) Except in exigent circumstances, the enforcement officer shall, wherever practicable, before issuing an order, |  |
 |  | (a) provide an oral or a written notice of the intent of the enforcement officer to issue the order to every person who will be subject to the order; and |  |
 |  | (b) allow a reasonable opportunity in the circumstances for the person to make oral representations. |  |
@@ -6612,7 +6596,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Environmental Protection Compliance Orders |  |
 | Definition of ``order'' | 234. For the purposes of sections 235 to 271, ``order'' means an environmental protection compliance order issued under section 235. |  |
 | Order | 235. (1) Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened in the circumstances described in subsection (2) by a person who is continuing the commission of the offence, or that any of those provisions will be contravened in the circumstances described in that subsection, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (3) to take any of the measures referred to in subsection (4) and, where applicable, subsection (5) that are reasonable in the circumstances and consistent with the protection of the environment and public safety, in order to cease or refrain from committing the alleged contravention. |  |
-| Circumstan- ces | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
+| Circumstances | (2) For the purposes of subsection (1), the circumstances in which the alleged contravention has been or will be committed are as follows, namely, |  |
 |  | (a) the exportation, importation, manufacture, transportation, processing or distribution of a substance or product containing a substance; |  |
 |  | (b) the possession, storage, use, sale, offering for sale, advertisement or disposal of a substance or product containing a substance; |  |
 |  | (c) the use of a substance or product containing a substance in a commercial manufacturing or processing activity; or |  |
@@ -6644,7 +6628,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (h) the period within which a request for a review may be made. |  |
 | Duration of order | (7) An order may not be issued for a period of more than 180 days. |  |
 | Exigent circumstances | 236. (1) In the case of exigent circumstances, an order may be given orally, but within the period of seven days immediately after it is so given, a written order must be issued in accordance with section 235. |  |
-| Definition of ``exigent circumstan- ces'' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
+| Definition of ``exigent circumstances '' | (2) For greater certainty, ``exigent circumstances'' includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment. |  |
 | Notice of intent | 237. (1) Except in exigent circumstances, the enforcement officer shall, wherever practicable, before issuing an order, |  |
 |  | (a) provide an oral or a written notice of the intent of the enforcement officer to issue the order to every person who will be subject to the order; and |  |
 |  | (b) allow a reasonable opportunity in the circumstances for the person to make oral representations. |  |
@@ -6696,11 +6680,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) in certain cases, conduct review hearings. |  |
 | Absence, etc., of Chief Review Officer | (3) If the Chief Review Officer is absent or unable to act or if the office is vacant, any other review officer that is designated by the Minister shall perform the functions of the Chief Review Officer. |  |
 | Term of members | 245. (1) Review officers shall be appointed to hold office during good behaviour for a term of not more than three years, but may be removed by the Minister at any time for cause. |  |
-| Re-appoint- ment | (2) A review officer may be re-appointed. |  |
+| Re-appointme nt | (2) A review officer may be re-appointed. |  |
 | Publication in Canada Gazette | 246. The Minister shall publish the roster of review officers in the Canada Gazette. |  |
 | Knowledge | 247. A person is not eligible to be appointed as a review officer unless the person is knowledgeable about the Canadian environment, environmental and human health, administrative law or traditional aboriginal ecological knowledge. |  |
 | Other employment | 248. Review officers shall not accept or hold any office or employment inconsistent with their functions under this Act. |  |
-| Remunera- tion and fees | 249. (1) The Chief Review Officer shall be paid such remuneration as is fixed by the Governor in Council, and each other review officer is entitled to be paid such fees for that other review officer's services as are fixed by the Governor in Council. |  |
+| Remuneration and fees | 249. (1) The Chief Review Officer shall be paid such remuneration as is fixed by the Governor in Council, and each other review officer is entitled to be paid such fees for that other review officer's services as are fixed by the Governor in Council. |  |
 | Expenses | (2) Review officers are entitled to be paid |  |
 |  | (a) reasonable travel and other expenses incurred by them in the course of their duties under this Act while absent from their ordinary place of work; and |  |
 |  | (b) any other reasonable expenses incurred by them in the course of their duties under this Act. |  |
@@ -6782,11 +6766,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) in certain cases, conduct review hearings. |  |
 | Absence, etc., of Chief Review Officer | (3) If the Chief Review Officer is absent or unable to act or if the office is vacant, any other review officer that is designated by the Minister shall perform the functions of the Chief Review Officer. |  |
 | Term of members | 245. (1) Review officers shall be appointed to hold office during good behaviour for a term of not more than three years, but may be removed by the Minister at any time for cause. |  |
-| Re-appoint- ment | (2) A review officer may be re-appointed. |  |
+| Re-appointme nt | (2) A review officer may be re-appointed. |  |
 | Publication in Canada Gazette | 246. The Minister shall publish the roster of review officers in the Canada Gazette. |  |
 | Knowledge | 247. A person is not eligible to be appointed as a review officer unless the person is knowledgeable about the Canadian environment, environmental and human health, administrative law or traditional aboriginal ecological knowledge. |  |
 | Other employment | 248. Review officers shall not accept or hold any office or employment inconsistent with their functions under this Act. |  |
-| Remunera- tion and fees | 249. (1) The Chief Review Officer shall be paid such remuneration as is fixed by the Governor in Council, and each other review officer is entitled to be paid such fees for that other review officer's services as are fixed by the Governor in Council. |  |
+| Remuneration and fees | 249. (1) The Chief Review Officer shall be paid such remuneration as is fixed by the Governor in Council, and each other review officer is entitled to be paid such fees for that other review officer's services as are fixed by the Governor in Council. |  |
 | Expenses | (2) Review officers are entitled to be paid |  |
 |  | (a) reasonable travel and other expenses incurred by them in the course of their duties under this Act while absent from their ordinary place of work; and |  |
 |  | (b) any other reasonable expenses incurred by them in the course of their duties under this Act. |  |
@@ -6832,7 +6816,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Standing on appeal to Federal Court | 270. The Minister or the person to whom the order is directed, as the case may be, has the right, on an appeal to the Federal Court made under section 269, to be heard on all questions of fact and law. |  |
 | Order not suspended | 271. The filing of a notice of appeal under section 269 does not suspend the operation of an order, as confirmed or varied by a review officer. |  |
 |  | Offences and Punishment |  |
-| Contraven- tion of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
+| Contravention of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
 |  | (a) a provision of this Act or the regulations; |  |
 |  | (b) an obligation or a prohibition arising from this Act or the regulations; |  |
 |  | (c) an order or a direction made under this Act; |  |
@@ -6879,7 +6863,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice | (3) No certificate of an analyst shall be received in evidence unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the certificate. |  |
 | Safety marks and prescribed documents | 286. In any prosecution for an offence under this Act, evidence that a means of containment or transport bore a safety mark or was accompanied by a prescribed document is, in the absence of evidence to the contrary, proof of the information shown or indicated by the safety mark or contained in the prescribed document. |  |
 |  | Sentencing Criteria |  |
-| Sentencing considera- tions | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
+| Sentencing considerations | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
 |  | (a) the harm or risk of harm caused by the commission of the offence; |  |
 |  | (b) an estimate of the total costs to remedy or reduce any damages caused by the commission of the offence; |  |
 |  | (c) whether any remedial or preventive action has been taken or proposed by or on behalf of the offender, including having in place an environmental management system that meets a recognized Canadian or international standard or a pollution prevention plan; |  |
@@ -6917,7 +6901,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Standing on appeal to Federal Court | 270. The Minister or the person to whom the order is directed, as the case may be, has the right, on an appeal to the Federal Court made under section 269, to be heard on all questions of fact and law. |  |
 | Order not suspended | 271. The filing of a notice of appeal under section 269 does not suspend the operation of an order, as confirmed or varied by a review officer. |  |
 |  | Offences and Punishment |  |
-| Contraven- tion of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
+| Contravention of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
 |  | (a) a provision of this Act or the regulations; |  |
 |  | (b) an obligation or a prohibition arising from this Act or the regulations; |  |
 |  | (c) an order or a direction made under this Act; |  |
@@ -6964,7 +6948,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice | (3) No certificate of an analyst shall be received in evidence unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the certificate. |  |
 | Safety marks and prescribed documents | 286. In any prosecution for an offence under this Act, evidence that a means of containment or transport bore a safety mark or was accompanied by a prescribed document is, in the absence of evidence to the contrary, proof of the information shown or indicated by the safety mark or contained in the prescribed document. |  |
 |  | Sentencing Criteria |  |
-| Sentencing considera- tions | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
+| Sentencing considerations | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
 |  | (a) the harm or risk of harm caused by the commission of the offence; |  |
 |  | (b) an estimate of the total costs to remedy or reduce any damages caused by the commission of the offence; |  |
 |  | (c) whether any remedial or preventive action has been taken or proposed by or on behalf of the offender, including having in place an environmental management system that meets a recognized Canadian or international standard or a pollution prevention plan; |  |
@@ -7002,7 +6986,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Standing on appeal to Federal Court | 270. The Minister or the person to whom the order is directed, as the case may be, has the right, on an appeal to the Federal Court made under section 269, to be heard on all questions of fact and law. |  |
 | Order not suspended | 271. The filing of a notice of appeal under section 269 does not suspend the operation of an order, as confirmed or varied by a review officer. |  |
 |  | Offences and Punishment |  |
-| Contraven- tion of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
+| Contravention of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
 |  | (a) a provision of this Act or the regulations; |  |
 |  | (b) an obligation or a prohibition arising from this Act or the regulations; |  |
 |  | (c) an order or a direction made under this Act; |  |
@@ -7049,7 +7033,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice | (3) No certificate of an analyst shall be received in evidence unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the certificate. |  |
 | Safety marks and prescribed documents | 286. In any prosecution for an offence under this Act, evidence that a means of containment or transport bore a safety mark or was accompanied by a prescribed document is, in the absence of evidence to the contrary, proof of the information shown or indicated by the safety mark or contained in the prescribed document. |  |
 |  | Sentencing Criteria |  |
-| Sentencing considera- tions | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
+| Sentencing considerations | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
 |  | (a) the harm or risk of harm caused by the commission of the offence; |  |
 |  | (b) an estimate of the total costs to remedy or reduce any damages caused by the commission of the offence; |  |
 |  | (c) whether any remedial or preventive action has been taken or proposed by or on behalf of the offender, including having in place an environmental management system that meets a recognized Canadian or international standard or a pollution prevention plan; |  |
@@ -7087,7 +7071,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Standing on appeal to Federal Court | 270. The Minister or the person to whom the order is directed, as the case may be, has the right, on an appeal to the Federal Court made under section 269, to be heard on all questions of fact and law. |  |
 | Order not suspended | 271. The filing of a notice of appeal under section 269 does not suspend the operation of an order, as confirmed or varied by a review officer. |  |
 |  | Offences and Punishment |  |
-| Contraven- tion of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
+| Contravention of the Act, the regulations or agreements | 272. (1) Every person commits an offence who contravenes |  |
 |  | (a) a provision of this Act or the regulations; |  |
 |  | (b) an obligation or a prohibition arising from this Act or the regulations; |  |
 |  | (c) an order or a direction made under this Act; |  |
@@ -7134,7 +7118,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice | (3) No certificate of an analyst shall be received in evidence unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the certificate. |  |
 | Safety marks and prescribed documents | 286. In any prosecution for an offence under this Act, evidence that a means of containment or transport bore a safety mark or was accompanied by a prescribed document is, in the absence of evidence to the contrary, proof of the information shown or indicated by the safety mark or contained in the prescribed document. |  |
 |  | Sentencing Criteria |  |
-| Sentencing considera- tions | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
+| Sentencing considerations | 287. A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors: |  |
 |  | (a) the harm or risk of harm caused by the commission of the offence; |  |
 |  | (b) an estimate of the total costs to remedy or reduce any damages caused by the commission of the offence; |  |
 |  | (c) whether any remedial or preventive action has been taken or proposed by or on behalf of the offender, including having in place an environmental management system that meets a recognized Canadian or international standard or a pollution prevention plan; |  |
@@ -7173,7 +7157,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Publication | (2) Where an offender fails to comply with an order made under paragraph (1)(g) directing the publication of the facts relating to the offence, the Minister may publish the facts in compliance with the order and recover the costs of publication from the offender. |  |
 | Debt due to Her Majesty | (3) Where the court makes an order under paragraph (1)(k) directing an offender to pay costs or the Minister incurs publication costs under subsection (2), the costs constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction. |  |
 | Coming into force and duration of order | (4) An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day. |  |
-| Compensa- tion for loss of property | 292. (1) Where an offender has been convicted of an offence under this Act, the court may, at the time sentence is imposed and on the application of the person aggrieved, order the offender to pay to that person an amount by way of satisfaction or compensation for loss of or damage to property suffered by that person as a result of the commission of the offence. |  |
+| Compensation for loss of property | 292. (1) Where an offender has been convicted of an offence under this Act, the court may, at the time sentence is imposed and on the application of the person aggrieved, order the offender to pay to that person an amount by way of satisfaction or compensation for loss of or damage to property suffered by that person as a result of the commission of the offence. |  |
 | Enforcement | (2) Where an amount that is ordered to be paid under subsection (1) is not paid forthwith, the applicant may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings. |  |
 | Variation of sanctions | 293. (1) Subject to subsection (2), where a court has made, in relation to an offender, an order or direction under section 288, 289 or 291, the court may, on application by the offender or the Attorney General, require the offender to appear before it and, after hearing the offender and the Attorney General, vary the order in one or any combination of the following ways that is applicable and, in the opinion of the court, is rendered desirable by a change in the circumstances of the offender since the order was made: |  |
 |  | (a) make changes in the order or the conditions specified in it or extend the period for which the order is to remain in force for any period, not exceeding one year, that the court considers desirable; or |  |
@@ -7184,7 +7168,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Definitions | 295. The definitions in this section apply in sections 296 to 309. |  |
 | ``agreement'' « accord » | ``agreement'' means an agreement respecting environmental protection alternative measures. |  |
 | ``Attorney General'' « procureur général » | ``Attorney General'' means the Attorney General of Canada or an agent of the Attorney General of Canada. |  |
-| ``environ- mental protection alternative measures'' « mesures de rechange » | ``environmental protection alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence under this Act. |  |
+| ``environment al protection alternative measures'' « mesures de rechange » | ``environmental protection alternative measures'' means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence under this Act. |  |
 | ``person'' « personne » | ``person'' includes individuals, Her Majesty in right of Canada or of a province and public bodies, bodies corporate, societies and companies. |  |
 | When measures may be used | 296. (1) Environmental protection alternative measures may be used to deal with a person who is alleged to have committed an offence under this Act only if it is not inconsistent with the purposes of this Act and the following conditions are met: |  |
 |  | (a) the measures are part of a program of environmental protection alternative measures authorized by the Attorney General, after consultation with the Minister; |  |
@@ -7213,7 +7197,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Dismissal of charge | (4) Where environmental protection alternative measures have been used to deal with a person alleged to have committed an offence, the court shall dismiss the charge laid against the person in respect of that offence where the court is satisfied on a balance of probabilities that the person has complied with the agreement. |  |
 | No bar to proceedings | (5) The use of environmental protection alternative measures in respect of a person who is alleged to have committed an offence is not a bar to any proceedings against the person under this Act. |  |
 | Laying of information, etc. | (6) This section does not prevent any person from laying an information, obtaining the issue or confirmation of any process, or proceeding with the prosecution of any offence, in accordance with the law. |  |
-| Sentencing considera- tions | 297. Where an information in respect of an offence of contravening an agreement under section 272 has been laid and proceedings in respect of the alleged offence for which the agreement was entered into have been recommenced, the court imposing a sentence for either offence shall take into account, in addition to the factors referred to in section 287, any sentence that has previously been imposed for the other offence. |  |
+| Sentencing considerations | 297. Where an information in respect of an offence of contravening an agreement under section 272 has been laid and proceedings in respect of the alleged offence for which the agreement was entered into have been recommenced, the court imposing a sentence for either offence shall take into account, in addition to the factors referred to in section 287, any sentence that has previously been imposed for the other offence. |  |
 | Nature of measures contained in agreement | 298. (1) An agreement may contain any terms and conditions, including, but not limited to, |  |
 |  | (a) terms and conditions having any or all of the effects set out in section 291 or any other terms and conditions having any of the effects prescribed by the regulations that the Attorney General, after consulting with the Minister, considers appropriate; and |  |
 |  | (b) terms and conditions relating to the costs of laboratory tests and of field tests, travel and living expenses, costs of scientific analyses and other reasonable costs associated with supervising and verifying compliance with the agreement. |  |
@@ -7229,8 +7213,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Agreement on information to be in schedule | (4) The parties to an agreement must agree on which information that is to be part of an agreement or a report is information that meets the requirements of paragraphs (3)(a) to (d). |  |
 | Manner in which schedules to be kept secret | (5) A schedule to an agreement or to the report referred to in subsection (2) is confidential and shall not be filed with the court. |  |
 | Prohibition of disclosure | (6) The Minister shall not disclose any information set out in a schedule to the agreement or to the report referred to in subsection (2), except under section 307 or under the Access to Information Act. |  |
-| Filing in Environ- mental Registry | 301. A copy of every agreement and report referred to in subsection 300(2) and every agreement that has been varied under subsection 303(1), or a notice that the agreement or report has been filed in court and is available to the public, shall be included in the Environmental Registry. |  |
-| Stay and recommen- cement of proceedings | 302. Despite section 579 of the Criminal Code, |  |
+| Filing in Environmenta l Registry | 301. A copy of every agreement and report referred to in subsection 300(2) and every agreement that has been varied under subsection 303(1), or a notice that the agreement or report has been filed in court and is available to the public, shall be included in the Environmental Registry. |  |
+| Stay and recommence ment of proceedings | 302. Despite section 579 of the Criminal Code, |  |
 |  | (a) the Attorney General shall, on filing the agreement, stay the proceedings or apply to the court for an adjournment of the proceedings in respect of the offence alleged to have been committed for a period of not more than one year after the expiry of the agreement; and |  |
 |  | (b) proceedings stayed in accordance with paragraph (a) may be recommenced, without laying a new information or preferring a new indictment, as the case may be, by the Attorney General giving notice of the recommencement to the clerk of the court in which the stay of the proceedings was entered, but where no such notice is given within one year after the expiry of the agreement, the proceedings are deemed never to have been commenced. |  |
 | Application to vary agreement | 303. (1) Subject to subsection 300(5), the Attorney General may, on application by the person bound by an agreement and after consulting with the Minister, vary the agreement in one or both of the following ways that, in the opinion of the Attorney General, is rendered desirable by a material change in the circumstances since the agreement was entered into or last varied: |  |
@@ -7250,10 +7234,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Disclosure of records | 307. (1) Any record or information referred to in section 305 or 306 may be made available to |  |
 |  | (a) any judge or court for any purpose that relates to proceedings relating to offences that are committed or alleged to have been committed by the person to whom the record relates; |  |
 |  | (b) any prosecutor, enforcement officer or other peace officer |  |
-
 |  | (i) for the purpose of investigating an offence that the person is suspected on reasonable grounds of having committed, or in respect of which the person has been arrested or charged, or |  |
-| --- | --- | --- |
+
 |  | (ii) for any purpose that relates to the administration of the case to which the record relates; |  |
+| --- | --- | --- |
 |  | (c) any member of a department or agency of a government in Canada, or any agent of such a department or agency, that is |  |
 |  | (i) engaged in the administration of environmental protection alternative measures in respect of the person, or |  |
 |  | (ii) preparing a report in respect of the person under this Act; or |  |
@@ -7291,7 +7275,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 11 |  |
 |  | MISCELLANEOUS MATTERS |  |
 |  | Disclosure of Information |  |
-| Request for confidenti- ality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
+| Request for confidentiality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
 | Contents of request | (2) A request under subsection (1) shall be submitted in writing and contain any supplementary information that may be prescribed. |  |
 | Prohibition of disclosure | 314. The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with section 315, 316 or 317. |  |
 | Disclosure by Minister for public interest | 315. (1) The Minister may disclose information, other than information in respect of which section 318 applies, where |  |
@@ -7325,12 +7309,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Regulations | 319. The Governor in Council may make regulations prescribing |  |
 |  | (a) information that shall accompany a request made under section 313; and |  |
 |  | (b) medical professionals for the purposes of paragraph 316(1)(e). |  |
-| Non-disclo- sure by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
+| Non-disclosur e by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
 | Security requirements for disclosure | 321. Any person, except an enforcement officer or analyst, who receives, obtains or has access to information under this Act shall comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of the information. |  |
 
-|  | (i) for the purpose of investigating an offence that the person is suspected on reasonable grounds of having committed, or in respect of which the person has been arrested or charged, or |  |
-| --- | --- | --- |
 |  | (ii) for any purpose that relates to the administration of the case to which the record relates; |  |
+| --- | --- | --- |
 |  | (c) any member of a department or agency of a government in Canada, or any agent of such a department or agency, that is |  |
 |  | (i) engaged in the administration of environmental protection alternative measures in respect of the person, or |  |
 |  | (ii) preparing a report in respect of the person under this Act; or |  |
@@ -7368,7 +7351,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 11 |  |
 |  | MISCELLANEOUS MATTERS |  |
 |  | Disclosure of Information |  |
-| Request for confidenti- ality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
+| Request for confidentiality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
 | Contents of request | (2) A request under subsection (1) shall be submitted in writing and contain any supplementary information that may be prescribed. |  |
 | Prohibition of disclosure | 314. The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with section 315, 316 or 317. |  |
 | Disclosure by Minister for public interest | 315. (1) The Minister may disclose information, other than information in respect of which section 318 applies, where |  |
@@ -7402,12 +7385,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Regulations | 319. The Governor in Council may make regulations prescribing |  |
 |  | (a) information that shall accompany a request made under section 313; and |  |
 |  | (b) medical professionals for the purposes of paragraph 316(1)(e). |  |
-| Non-disclo- sure by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
+| Non-disclosur e by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
 | Security requirements for disclosure | 321. Any person, except an enforcement officer or analyst, who receives, obtains or has access to information under this Act shall comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of the information. |  |
 
-|  | (i) for the purpose of investigating an offence that the person is suspected on reasonable grounds of having committed, or in respect of which the person has been arrested or charged, or |  |
-| --- | --- | --- |
 |  | (ii) for any purpose that relates to the administration of the case to which the record relates; |  |
+| --- | --- | --- |
 |  | (c) any member of a department or agency of a government in Canada, or any agent of such a department or agency, that is |  |
 |  | (i) engaged in the administration of environmental protection alternative measures in respect of the person, or |  |
 |  | (ii) preparing a report in respect of the person under this Act; or |  |
@@ -7445,7 +7427,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 11 |  |
 |  | MISCELLANEOUS MATTERS |  |
 |  | Disclosure of Information |  |
-| Request for confidenti- ality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
+| Request for confidentiality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
 | Contents of request | (2) A request under subsection (1) shall be submitted in writing and contain any supplementary information that may be prescribed. |  |
 | Prohibition of disclosure | 314. The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with section 315, 316 or 317. |  |
 | Disclosure by Minister for public interest | 315. (1) The Minister may disclose information, other than information in respect of which section 318 applies, where |  |
@@ -7479,12 +7461,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Regulations | 319. The Governor in Council may make regulations prescribing |  |
 |  | (a) information that shall accompany a request made under section 313; and |  |
 |  | (b) medical professionals for the purposes of paragraph 316(1)(e). |  |
-| Non-disclo- sure by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
+| Non-disclosur e by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
 | Security requirements for disclosure | 321. Any person, except an enforcement officer or analyst, who receives, obtains or has access to information under this Act shall comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of the information. |  |
 
-|  | (i) for the purpose of investigating an offence that the person is suspected on reasonable grounds of having committed, or in respect of which the person has been arrested or charged, or |  |
-| --- | --- | --- |
 |  | (ii) for any purpose that relates to the administration of the case to which the record relates; |  |
+| --- | --- | --- |
 |  | (c) any member of a department or agency of a government in Canada, or any agent of such a department or agency, that is |  |
 |  | (i) engaged in the administration of environmental protection alternative measures in respect of the person, or |  |
 |  | (ii) preparing a report in respect of the person under this Act; or |  |
@@ -7522,7 +7503,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 11 |  |
 |  | MISCELLANEOUS MATTERS |  |
 |  | Disclosure of Information |  |
-| Request for confidenti- ality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
+| Request for confidentiality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
 | Contents of request | (2) A request under subsection (1) shall be submitted in writing and contain any supplementary information that may be prescribed. |  |
 | Prohibition of disclosure | 314. The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with section 315, 316 or 317. |  |
 | Disclosure by Minister for public interest | 315. (1) The Minister may disclose information, other than information in respect of which section 318 applies, where |  |
@@ -7556,12 +7537,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Regulations | 319. The Governor in Council may make regulations prescribing |  |
 |  | (a) information that shall accompany a request made under section 313; and |  |
 |  | (b) medical professionals for the purposes of paragraph 316(1)(e). |  |
-| Non-disclo- sure by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
+| Non-disclosur e by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
 | Security requirements for disclosure | 321. Any person, except an enforcement officer or analyst, who receives, obtains or has access to information under this Act shall comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of the information. |  |
 
-|  | (i) for the purpose of investigating an offence that the person is suspected on reasonable grounds of having committed, or in respect of which the person has been arrested or charged, or |  |
-| --- | --- | --- |
 |  | (ii) for any purpose that relates to the administration of the case to which the record relates; |  |
+| --- | --- | --- |
 |  | (c) any member of a department or agency of a government in Canada, or any agent of such a department or agency, that is |  |
 |  | (i) engaged in the administration of environmental protection alternative measures in respect of the person, or |  |
 |  | (ii) preparing a report in respect of the person under this Act; or |  |
@@ -7599,7 +7579,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 11 |  |
 |  | MISCELLANEOUS MATTERS |  |
 |  | Disclosure of Information |  |
-| Request for confidenti- ality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
+| Request for confidentiality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
 | Contents of request | (2) A request under subsection (1) shall be submitted in writing and contain any supplementary information that may be prescribed. |  |
 | Prohibition of disclosure | 314. The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with section 315, 316 or 317. |  |
 | Disclosure by Minister for public interest | 315. (1) The Minister may disclose information, other than information in respect of which section 318 applies, where |  |
@@ -7633,12 +7613,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Regulations | 319. The Governor in Council may make regulations prescribing |  |
 |  | (a) information that shall accompany a request made under section 313; and |  |
 |  | (b) medical professionals for the purposes of paragraph 316(1)(e). |  |
-| Non-disclo- sure by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
+| Non-disclosur e by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
 | Security requirements for disclosure | 321. Any person, except an enforcement officer or analyst, who receives, obtains or has access to information under this Act shall comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of the information. |  |
 
-|  | (i) for the purpose of investigating an offence that the person is suspected on reasonable grounds of having committed, or in respect of which the person has been arrested or charged, or |  |
-| --- | --- | --- |
 |  | (ii) for any purpose that relates to the administration of the case to which the record relates; |  |
+| --- | --- | --- |
 |  | (c) any member of a department or agency of a government in Canada, or any agent of such a department or agency, that is |  |
 |  | (i) engaged in the administration of environmental protection alternative measures in respect of the person, or |  |
 |  | (ii) preparing a report in respect of the person under this Act; or |  |
@@ -7676,7 +7655,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | PART 11 |  |
 |  | MISCELLANEOUS MATTERS |  |
 |  | Disclosure of Information |  |
-| Request for confidenti- ality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
+| Request for confidentiality | 313. (1) A person who provides information to the Minister under this Act, or to a board of review in respect of a notice of objection filed under this Act, may submit with the information a request that it be treated as confidential. |  |
 | Contents of request | (2) A request under subsection (1) shall be submitted in writing and contain any supplementary information that may be prescribed. |  |
 | Prohibition of disclosure | 314. The Minister shall not disclose any information in respect of which a request for confidentiality has been made under section 313, except in accordance with section 315, 316 or 317. |  |
 | Disclosure by Minister for public interest | 315. (1) The Minister may disclose information, other than information in respect of which section 318 applies, where |  |
@@ -7710,7 +7689,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Regulations | 319. The Governor in Council may make regulations prescribing |  |
 |  | (a) information that shall accompany a request made under section 313; and |  |
 |  | (b) medical professionals for the purposes of paragraph 316(1)(e). |  |
-| Non-disclo- sure by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
+| Non-disclosur e by Minister of National Defence | 320. Despite any other provision of this Act, the Minister of National Defence may refuse to disclose under this Part any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. |  |
 | Security requirements for disclosure | 321. Any person, except an enforcement officer or analyst, who receives, obtains or has access to information under this Act shall comply with any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of the information. |  |
 
 |  | Economic Instruments |  |
@@ -7755,7 +7734,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Amount | (4) Fees for processes or approvals that are prescribed by or under regulations made under subsection (1) shall in the aggregate not exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable costs incurred by Her Majesty for the purpose of providing the processes or approvals. |  |
 | Consultation | 329. The Minister making a regulation under section 328 shall do so after consulting with any persons or organizations that the Minister considers to be interested in the matter. |  |
 |  | General Regulation-making Powers and Exemptions |  |
-| Exercise of regulation- making power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
+| Exercise of regulation-ma king power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
 |  | (a) the minimum, average or maximum quantity or concentration of the substance; and |  |
 |  | (b) the method of determining such a quantity or concentration. |  |
 | Incorporation by reference | (2) For greater certainty, a regulation made under this Act incorporating by reference a standard, specification, guideline, method, procedure or practice may incorporate the standard, specification, guideline, method, procedure or practice as amended from time to time. |  |
@@ -7770,11 +7749,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice of objection | (2) Within 60 days after the publication of a proposed order or regulation in the Canada Gazette under subsection (1) or a proposed instrument respecting preventive or control actions in relation to a substance that is required by section 91 to be published in the Canada Gazette, any person may file with the Minister comments with respect to the order, regulation or instrument or a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection. |  |
 | Single publication required | (3) No order, regulation or instrument need be published more than once under subsection (1), whether or not it is altered after publication. |  |
 |  | Board of Review Proceedings |  |
-| Establish- ment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
+| Establishment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
 |  | (a) a decision or a proposed order, regulation or instrument made by the Governor in Council, or |  |
 |  | (b) a decision or a proposed order or instrument made by either or both Ministers, |  |
 |  | the Minister or the Ministers may establish a board of review to inquire into the nature and extent of the danger posed by the substance in respect of which the decision is made or the order, regulation or instrument is proposed. |  |
-| Establish- ment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
+| Establishment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
 | Mandatory review for international air and water | (3) Where a person or government files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under section 167 or 177 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the nature and extent of the danger posed by the release into the air or water of the substance in respect of which the regulations are proposed. |  |
 | Mandatory reviews for certain regulations | (4) Where a person files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under Part 9 or section 118 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the matter raised by the notice. |  |
 | Review for permits | (5) Where a person files with the Minister a notice of objection under section 134 within the time specified in that section, the Minister may establish a board of review to inquire into the matter raised by the notice. |  |
@@ -7838,7 +7817,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Amount | (4) Fees for processes or approvals that are prescribed by or under regulations made under subsection (1) shall in the aggregate not exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable costs incurred by Her Majesty for the purpose of providing the processes or approvals. |  |
 | Consultation | 329. The Minister making a regulation under section 328 shall do so after consulting with any persons or organizations that the Minister considers to be interested in the matter. |  |
 |  | General Regulation-making Powers and Exemptions |  |
-| Exercise of regulation- making power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
+| Exercise of regulation-ma king power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
 |  | (a) the minimum, average or maximum quantity or concentration of the substance; and |  |
 |  | (b) the method of determining such a quantity or concentration. |  |
 | Incorporation by reference | (2) For greater certainty, a regulation made under this Act incorporating by reference a standard, specification, guideline, method, procedure or practice may incorporate the standard, specification, guideline, method, procedure or practice as amended from time to time. |  |
@@ -7853,11 +7832,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice of objection | (2) Within 60 days after the publication of a proposed order or regulation in the Canada Gazette under subsection (1) or a proposed instrument respecting preventive or control actions in relation to a substance that is required by section 91 to be published in the Canada Gazette, any person may file with the Minister comments with respect to the order, regulation or instrument or a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection. |  |
 | Single publication required | (3) No order, regulation or instrument need be published more than once under subsection (1), whether or not it is altered after publication. |  |
 |  | Board of Review Proceedings |  |
-| Establish- ment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
+| Establishment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
 |  | (a) a decision or a proposed order, regulation or instrument made by the Governor in Council, or |  |
 |  | (b) a decision or a proposed order or instrument made by either or both Ministers, |  |
 |  | the Minister or the Ministers may establish a board of review to inquire into the nature and extent of the danger posed by the substance in respect of which the decision is made or the order, regulation or instrument is proposed. |  |
-| Establish- ment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
+| Establishment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
 | Mandatory review for international air and water | (3) Where a person or government files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under section 167 or 177 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the nature and extent of the danger posed by the release into the air or water of the substance in respect of which the regulations are proposed. |  |
 | Mandatory reviews for certain regulations | (4) Where a person files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under Part 9 or section 118 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the matter raised by the notice. |  |
 | Review for permits | (5) Where a person files with the Minister a notice of objection under section 134 within the time specified in that section, the Minister may establish a board of review to inquire into the matter raised by the notice. |  |
@@ -7921,7 +7900,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Amount | (4) Fees for processes or approvals that are prescribed by or under regulations made under subsection (1) shall in the aggregate not exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable costs incurred by Her Majesty for the purpose of providing the processes or approvals. |  |
 | Consultation | 329. The Minister making a regulation under section 328 shall do so after consulting with any persons or organizations that the Minister considers to be interested in the matter. |  |
 |  | General Regulation-making Powers and Exemptions |  |
-| Exercise of regulation- making power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
+| Exercise of regulation-ma king power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
 |  | (a) the minimum, average or maximum quantity or concentration of the substance; and |  |
 |  | (b) the method of determining such a quantity or concentration. |  |
 | Incorporation by reference | (2) For greater certainty, a regulation made under this Act incorporating by reference a standard, specification, guideline, method, procedure or practice may incorporate the standard, specification, guideline, method, procedure or practice as amended from time to time. |  |
@@ -7936,11 +7915,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice of objection | (2) Within 60 days after the publication of a proposed order or regulation in the Canada Gazette under subsection (1) or a proposed instrument respecting preventive or control actions in relation to a substance that is required by section 91 to be published in the Canada Gazette, any person may file with the Minister comments with respect to the order, regulation or instrument or a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection. |  |
 | Single publication required | (3) No order, regulation or instrument need be published more than once under subsection (1), whether or not it is altered after publication. |  |
 |  | Board of Review Proceedings |  |
-| Establish- ment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
+| Establishment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
 |  | (a) a decision or a proposed order, regulation or instrument made by the Governor in Council, or |  |
 |  | (b) a decision or a proposed order or instrument made by either or both Ministers, |  |
 |  | the Minister or the Ministers may establish a board of review to inquire into the nature and extent of the danger posed by the substance in respect of which the decision is made or the order, regulation or instrument is proposed. |  |
-| Establish- ment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
+| Establishment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
 | Mandatory review for international air and water | (3) Where a person or government files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under section 167 or 177 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the nature and extent of the danger posed by the release into the air or water of the substance in respect of which the regulations are proposed. |  |
 | Mandatory reviews for certain regulations | (4) Where a person files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under Part 9 or section 118 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the matter raised by the notice. |  |
 | Review for permits | (5) Where a person files with the Minister a notice of objection under section 134 within the time specified in that section, the Minister may establish a board of review to inquire into the matter raised by the notice. |  |
@@ -8004,7 +7983,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Amount | (4) Fees for processes or approvals that are prescribed by or under regulations made under subsection (1) shall in the aggregate not exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable costs incurred by Her Majesty for the purpose of providing the processes or approvals. |  |
 | Consultation | 329. The Minister making a regulation under section 328 shall do so after consulting with any persons or organizations that the Minister considers to be interested in the matter. |  |
 |  | General Regulation-making Powers and Exemptions |  |
-| Exercise of regulation- making power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
+| Exercise of regulation-ma king power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
 |  | (a) the minimum, average or maximum quantity or concentration of the substance; and |  |
 |  | (b) the method of determining such a quantity or concentration. |  |
 | Incorporation by reference | (2) For greater certainty, a regulation made under this Act incorporating by reference a standard, specification, guideline, method, procedure or practice may incorporate the standard, specification, guideline, method, procedure or practice as amended from time to time. |  |
@@ -8019,11 +7998,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice of objection | (2) Within 60 days after the publication of a proposed order or regulation in the Canada Gazette under subsection (1) or a proposed instrument respecting preventive or control actions in relation to a substance that is required by section 91 to be published in the Canada Gazette, any person may file with the Minister comments with respect to the order, regulation or instrument or a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection. |  |
 | Single publication required | (3) No order, regulation or instrument need be published more than once under subsection (1), whether or not it is altered after publication. |  |
 |  | Board of Review Proceedings |  |
-| Establish- ment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
+| Establishment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
 |  | (a) a decision or a proposed order, regulation or instrument made by the Governor in Council, or |  |
 |  | (b) a decision or a proposed order or instrument made by either or both Ministers, |  |
 |  | the Minister or the Ministers may establish a board of review to inquire into the nature and extent of the danger posed by the substance in respect of which the decision is made or the order, regulation or instrument is proposed. |  |
-| Establish- ment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
+| Establishment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
 | Mandatory review for international air and water | (3) Where a person or government files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under section 167 or 177 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the nature and extent of the danger posed by the release into the air or water of the substance in respect of which the regulations are proposed. |  |
 | Mandatory reviews for certain regulations | (4) Where a person files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under Part 9 or section 118 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the matter raised by the notice. |  |
 | Review for permits | (5) Where a person files with the Minister a notice of objection under section 134 within the time specified in that section, the Minister may establish a board of review to inquire into the matter raised by the notice. |  |
@@ -8087,7 +8066,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Amount | (4) Fees for processes or approvals that are prescribed by or under regulations made under subsection (1) shall in the aggregate not exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable costs incurred by Her Majesty for the purpose of providing the processes or approvals. |  |
 | Consultation | 329. The Minister making a regulation under section 328 shall do so after consulting with any persons or organizations that the Minister considers to be interested in the matter. |  |
 |  | General Regulation-making Powers and Exemptions |  |
-| Exercise of regulation- making power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
+| Exercise of regulation-ma king power | 330. (1) The Governor in Council may, in the exercise of any regulation-making power under this Act in respect of a substance, prescribe |  |
 |  | (a) the minimum, average or maximum quantity or concentration of the substance; and |  |
 |  | (b) the method of determining such a quantity or concentration. |  |
 | Incorporation by reference | (2) For greater certainty, a regulation made under this Act incorporating by reference a standard, specification, guideline, method, procedure or practice may incorporate the standard, specification, guideline, method, procedure or practice as amended from time to time. |  |
@@ -8102,11 +8081,11 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | Notice of objection | (2) Within 60 days after the publication of a proposed order or regulation in the Canada Gazette under subsection (1) or a proposed instrument respecting preventive or control actions in relation to a substance that is required by section 91 to be published in the Canada Gazette, any person may file with the Minister comments with respect to the order, regulation or instrument or a notice of objection requesting that a board of review be established under section 333 and stating the reasons for the objection. |  |
 | Single publication required | (3) No order, regulation or instrument need be published more than once under subsection (1), whether or not it is altered after publication. |  |
 |  | Board of Review Proceedings |  |
-| Establish- ment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
+| Establishment of board of review | 333. (1) Where a person files a notice of objection under subsection 77(8) or 332(2) in respect of |  |
 |  | (a) a decision or a proposed order, regulation or instrument made by the Governor in Council, or |  |
 |  | (b) a decision or a proposed order or instrument made by either or both Ministers, |  |
 |  | the Minister or the Ministers may establish a board of review to inquire into the nature and extent of the danger posed by the substance in respect of which the decision is made or the order, regulation or instrument is proposed. |  |
-| Establish- ment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
+| Establishment of board of review | (2) Where a person files a notice of objection under subsection 9(3) or 10(5) in respect of an agreement or a term or condition of the agreement, the Minister may establish a board of review to inquire into the matter. |  |
 | Mandatory review for international air and water | (3) Where a person or government files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under section 167 or 177 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the nature and extent of the danger posed by the release into the air or water of the substance in respect of which the regulations are proposed. |  |
 | Mandatory reviews for certain regulations | (4) Where a person files with the Minister a notice of objection under subsection 332(2) with respect to regulations proposed to be made under Part 9 or section 118 within the time specified in that subsection, the Minister shall establish a board of review to inquire into the matter raised by the notice. |  |
 | Review for permits | (5) Where a person files with the Minister a notice of objection under section 134 within the time specified in that section, the Minister may establish a board of review to inquire into the matter raised by the notice. |  |
@@ -8132,10 +8111,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8144,7 +8123,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8154,9 +8133,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8175,7 +8154,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8184,10 +8164,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8196,7 +8176,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8206,9 +8186,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8227,7 +8207,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8236,10 +8217,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8248,7 +8229,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8258,9 +8239,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8279,7 +8260,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8288,10 +8270,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8300,7 +8282,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8310,9 +8292,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8331,7 +8313,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8340,10 +8323,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8352,7 +8335,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8362,9 +8345,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8383,7 +8366,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8392,10 +8376,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8404,7 +8388,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8414,9 +8398,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8435,7 +8419,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8444,10 +8429,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8456,7 +8441,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8466,9 +8451,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8487,7 +8472,8 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
@@ -8496,10 +8482,10 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | --- | --- | --- |
 | Annual report | 342. (1) The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year. |  |
 | Research | (2) The Minister shall include in the annual report a report on the research conducted under the authority of this Act during the fiscal year being reported. |  |
-| Permanent review of Act by parliamen- tary committee | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
+| Permanent review of Act | 343. (1) The administration of this Act shall, every five years after the coming into force of this Act, stand referred to such committee of the House of Commons, of the Senate or of both Houses of Parliament as may be designated or established for that purpose. |  |
 | Review and report | (2) The committee designated or established for the purpose of subsection (1) shall, as soon as practicable, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within such further time as the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament thereon, including a statement of any changes to this Act or its administration that the committee would recommend. |  |
 |  | PART 12 |  |
-|  | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE |  |
+|  | CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITIONAL PROVISION AND COMING INTO FORCE |  |
 |  | Consequential Amendments |  |
 | R.S., c. A-1 | Access to Information Act |  |
 | R.S., c. 16 (4th Supp.), s. 140 | 344. Schedule II to the Access to Information Act is amended by striking out the reference to |  |
@@ -8508,7 +8494,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | and the corresponding reference to ``sections 20 and 21''. |  |
 | R.S., c. S-9 | Canada Shipping Act |  |
 | 1993, c. 36, s. 4 | 345. Subsection 656(2) of the Canada Shipping Act is replaced by the following: |  |
-| Discharges permitted under Canadian Environ- mental Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
+| Discharges permitted under Canadian Environmenta l Protection Act, 1999 | (2) Notwithstanding any regulation made under subsection (1), a discharge of a pollutant from a ship is permitted if done in accordance with a permit granted under Division 3 of Part 7 of the Canadian Environmental Protection Act, 1999. |  |
 | R.S., c. C-46 | Criminal Code |  |
 |  | 346. Item 72 of the schedule to Part XX.1 of the Criminal Code, as enacted by section 4 of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, being chapter 43 of the Statutes of Canada, 1991, is replaced by the following: |  |
 |  | 72. Section 274 - damage to environment and death or harm to persons |  |
@@ -8518,9 +8504,9 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 | 1997, c. 11 | Manganese-based Fuel Additives Act |  |
 |  | 348. Section 13 of the Manganese-based Fuel Additives Act and the heading before it are replaced by the following: |  |
 |  | Provisions of the Canadian Environmental Protection Act, 1999 |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 13. Paragraphs 218(1)(a) and (j), subsections 218(2) to (6) and (10) to (14) and sections 219, 220, 223, 224, 226 to 230 and 272 of the Canadian Environmental Protection Act, 1999 apply, with any modifications that the circumstances require, in respect of this Act. |  |
 |  | 349. Section 19 of the Act is replaced by the following: |  |
-| Application of provisions of the Canadian Environ- mental Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
+| Application of provisions of the Canadian Environmenta l Protection Act, 1999 | 19. Sections 39 to 42, 275, 276, 280, 285, 288 to 290, 292 to 294 and 311 of the Canadian Environmental Protection Act, 1999 apply in respect of this Act |  |
 |  | (a) as if each reference in any of those sections to section 291 of that Act were a reference to section 18 of this Act; and |  |
 |  | (b) with any other modifications that the circumstances require. |  |
 | 1993, c. 16 | Motor Vehicle Safety Act |  |
@@ -8539,20 +8525,21 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | Transitional |  |
 | Regulations | 355.1 (1) Subject to subsection (2), any regulation that was |  |
 |  | (a) made under the Act mentioned in section 355, and |  |
-|  | (b) in force immediately before the day on which this Act is assented to is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
+|  | (b) in force immediately before the day on which this Act is assented to |  |
+|  | is deemed to have been made under this Act, and continues in force, subject to being amended or repealed under this Act. |  |
 | Where inconsistent with this Act | (2) If a regulation continued in force by subsection (1) is not consistent with this Act at the end of the two-year period that starts on the day on which this Act is assented to, that regulation ceases to be in force at the end of that period. |  |
 |  | Coming into Force |  |
 | Coming into force | 356. This Act or any of its provisions comes into force on a day or days to be fixed by order of the Governor in Council. |  |
 
 |  | SCHEDULE 1 (Sections 56, 68, 71, 77, 79, 90, 91, 93 to 96 and 199) |  |
 | --- | --- | --- |
-|  | For molecular formulae in this Schedule, ``n'' = number of atoms |  |
+|  | For molecular formulae in this schedule, ``n'' = number of atoms. |  |
 |  | LIST OF TOXIC SUBSTANCES |  |
 |  | 1. Chlorobiphenyls that have the molecular formula C12H(10-n)Cln in which ``n'' is greater than 2 |  |
 |  | 2. Dodecachloropentacyclo [5.3.0.02,6.03,9.04,8] decane |  |
-|  | 3. Polybrominated Biphenyls that have the molecular formula C12H(10-n)Brn in which ``n'' is greater than 2 |  |
-|  | 4. Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula CnClxF(2n+2-x) |  |
-|  | 5. Polychlorinated Terphenyls that have a molecular formula C18H(14-n)Cln in which ``n'' is greater than 2 |  |
+|  | 3. Polybrominated Biphenyls that have the molecular for mula C12H(10-n)Brn in which ``n'' is greater than 2 |  |
+|  | 4. Chlorofluorocarbon: totally halogenated chlorofluoro carbons that have the molecular formula CnClxF(2n+2-x) |  |
+|  | 5. Polychlorinated Terphenyls that have a molecular formu la C18H(14-n)Cln in which ``n'' is greater than 2 |  |
 |  | 6. Asbestos |  |
 |  | 7. Lead |  |
 |  | 8. Mercury |  |
@@ -8565,16 +8552,16 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) are normal components of the fuel or additives designed to improve the characteristics or performance of the fuel, but are present in quantities or concentrations greater than those generally accepted by industry standards. |  |
 |  | 14. Dibenzo-para-dioxin that has the molecular formula C12H8O2 |  |
 |  | 15. Dibenzofuran that has the molecular formula C12H8O |  |
-|  | 16. Polychlorinated dibenzo-para-dioxins that have the molecular formula C12H(8-n)O2Cln in which ``n'' is greater than 2 |  |
-|  | 17. Polychlorinated dibenzofurans that have the molecular formula C12H(8-n)OCln in which ``n'' is greater than 2 |  |
+|  | 16. Polychlorinated dibenzo-para-dioxins that have the mo lecular formula C12H(8-n)ClnO2 in which ``n'' is greater than 2 |  |
+|  | 17. Polychlorinated dibenzofurans that have the molecular formula C12H(8-n)ClnO in which ``n'' is greater than 2 |  |
 |  | 18. Tetrachloromethane (carbon tetrachloride, CCl4) |  |
 |  | 19. 1,1,1-trichloroethane (methyl chloroform, CCl3-CH3) |  |
 |  | 20. Bromofluorocarbons other than those set out in items 10 to 12 |  |
-|  | 21. Hydrobromofluorocarbons that have the molecular formula CnHxFyBr(2n+2-x-y) in which 0ZZnZZ 3 |  |
+|  | 21. Hydrobromofluorocarbons that have the molecular for mula CnHxFyBr(2n+2-x-y) in which 0n3 |  |
 |  | 22. Methyl Bromide |  |
 |  | 23. Bis(chloromethyl) ether that has the molecular formula C2H4Cl2O |  |
 |  | 24. Chloromethyl methyl ether that has the molecular formula C2H5ClO |  |
-|  | 25. Hydrochlorofluorocarbons that have the molecular formula CnHxFyCl(2n+2-x-y) in which 0ZZnZZ 3 |  |
+|  | 25. Hydrochlorofluorocarbons that have the molecular for mula CnHxFyCl(2n+2-x-y) in which 0n 3 |  |
 |  | 26. Benzene that has the molecular formula C6H6 |  |
 
 |  | SCHEDULE 2 (Subsection 81(7)) |  |
@@ -8583,19 +8570,19 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 
 |  | SCHEDULE 3 (Sections 100 to 103) |  |
 | --- | --- | --- |
-|  | For molecular formulae in this Schedule, ``n'' = number of atoms |  |
+|  | For molecular formulae in this schedule, ``n'' = number of atoms. |  |
 |  | EXPORT CONTROL LIST |  |
 |  | PART 1 |  |
 |  | PROHIBITED SUBSTANCES |  |
 |  | 1. Mirex (Dodecachloropentacyclo [5.3.0.02,6.03,9.04,8] decane) |  |
-|  | 2. Polybrominated Biphenyls that have the molecular formula C12H10-nBrn in which ``n'' is greater than 2 |  |
-|  | 3. Polychlorinated Terphenyls that have the molecular formula C18H14-nCln in which ``n'' is greater than 2 |  |
-|  | 4. Alachlor (2-chloro-2', 6'-diethyl-N-me thoxymethyl acetanilide) |  |
-|  | 5. Leptophos (O-(4-bromo-2,5-dichlorophe nyl) O-methyl-phenylphosphonothioate) |  |
+|  | 2. Polybrominated Biphenyls that have the molecu lar formula C12H10-nBrn in which ``n'' is greater than 2 |  |
+|  | 3. Polychlorinated Terphenyls that have the molecu lar formula C18H14-nCln in which ``n'' is greater than 2 |  |
+|  | 4. Alachlor (2-chloro-2', 6'-diethyl-N-methoxyme thyl acetanilide) |  |
+|  | 5. Leptophos (O-(4-bromo-2,5-dichlorophenyl) O-methyl-phenylphosphonothioate) |  |
 |  | 6. Phosphamidon (2-chloro-2-diethylcarba moyl-1-methylvinyl dimethyl phosphate) |  |
 |  | 7. Cyhexatin (tricyclohexyltin hydroxide) |  |
-|  | 8. 2,3,4,5-bis(2-butylene)tetrahydro-2-fur fural |  |
-|  | 9. Bis(chloromethyl) ether that has the mo lecular formula C2H4Cl2O |  |
+|  | 8. 2,3,4,5-bis(2-butylene)tetrahydro-2-furfural |  |
+|  | 9. Bis(chloromethyl) ether that has the molecular formula C2H4Cl2O |  |
 |  | 10. Chloromethyl methyl ether that has the molecular formula C2H5ClO |  |
 |  | PART 2 |  |
 |  | SUBSTANCES SUBJECT TO NOTIFICATION OR CON SENT |  |
@@ -8615,29 +8602,29 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | 13. Heptachlor (CAS 76-44-8) |  |
 |  | 14. Hexachlorobenzene (CAS 118-74-1) |  |
 |  | 15. Lindane (CAS 58-89-9) |  |
-|  | 16. Mercury compounds, including inorganic mercury compounds, alkyl mercury compounds and al kyloxyalkyl and aryl mercury compounds |  |
+|  | 16. Mercury compounds, including inorganic mercu ry compounds, alkyl mercury compounds and alkyloxy alkyl and aryl mercury compounds |  |
 |  | 17. Pentachlorophenol (CAS 87-86-5) |  |
-|  | 18. Monocrotophos (Soluble liquid formula tions of the substance that exceed 600 g active ingredi ent / L) (CAS 6923-22-4) |  |
-|  | 19. Methamidophos (Soluble liquid formula tions of the substance that exceed 600 g active ingredi ent / L) (CAS 10265-92-6) |  |
-|  | 20. Methyl-parathion (emulsifiable concen trates (EC) with 19.5%, 40%, 50%, 60% active ingredi ent and dusts containing 1.5%, 2% and 3% active ingre dient) (CAS 298-00-0) |  |
+|  | 18. Monocrotophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient / L) (CAS 6923-22-4) |  |
+|  | 19. Methamidophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient / L) (CAS 10265-92-6) |  |
+|  | 20. Methyl-parathion (emulsifiable concentrates (EC) with 19.5%, 40%, 50%, 60% active ingredient and dusts containing 1.5%, 2% and 3% active ingredient) (CAS 298-00-0) |  |
 |  | 21. Parathion (all formulations - aerosols, dustable powder (DP), emulsifiable concentrate (EC), granules (GR) and wettable powders (WP) - of this substance are included, except capsule suspensions (CS)) (CAS 56-38-2) |  |
 |  | 22. Crocidolite (CAS 12001-28-4) |  |
 |  | 23. Polychlorinated biphenyls (PCB) (CAS 1336-36-3) |  |
 |  | 24. Tris (2,3-dibromopropyl) phosphate (CAS 126-72-7) |  |
 |  | PART 3 |  |
 |  | RESTRICTED SUBSTANCES |  |
-|  | 1. Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula CnClxF(2n+2-x) |  |
+|  | 1. Chlorofluorocarbon: totally halogenated chloro fluorocarbons that have the molecular formula CnClxF(2n+2-x) |  |
 |  | 2. Allyl alcohol (2-propen-1-ol) |  |
-|  | 3. Carbon tetrachloride (tetrachlorome thane) |  |
+|  | 3. Carbon tetrachloride (tetrachloromethane) |  |
 |  | 4. DBCP (1,2-dibromo-3-chloropropane) |  |
 |  | 5. Ethylene dibromide (1,2-dibromoethane) |  |
 |  | 6. Ethylene dichloride (1,2-dichloroethane) |  |
 |  | 7. Endrin (1,2,3,4,10,10-hexachlo ro-6,7-epoxy-1,4,4a,5,6,7,8, 8a-octahydro-exo-5,8-di methanonaphthalene) |  |
-|  | 8. Lead arsenate that has the molecular for mula PbHAs04, and its basic form that has the molecular for mula Pb4(PbOH)(As04)3 |  |
-|  | 9. Strychnine (2,4a,5,5a,7,8,15,15a,15b,15c,decahydro-4, 6-metha no-6H,14H-indolo[3,2,1-ii]oxepino[2,3,4-de] pyrro lo[2,3-h]quinolin-14-one) |  |
-|  | 10. Bromochlorodifluoromethane that has the molecular formula CF2BrCl |  |
-|  | 11. Bromotrifluoromethane that has the mo lecular formula CF3Br |  |
-|  | 12. Dibromotetrafluoroethane that has the mo lecular formula C2F4Br2 |  |
+|  | 8. Lead arsenate that has the molecular formula PbHAs04, and its basic form that has the molecular formula Pb4(PbOH)(As04)3 |  |
+|  | 9. Strychnine (2,4a,5,5a,7,8,15,15a,15b,15c,deca hydro-4, 6-methano-6H,14H-indolo[3,2,1-ii]oxepi no[2,3,4-de] pyrrolo[2,3-h]quinolin-14-one) |  |
+|  | 10. Bromochlorodifluoromethane that has the molec ular formula CF2BrCl |  |
+|  | 11. Bromotrifluoromethane that has the molecular formula CF3Br |  |
+|  | 12. Dibromotetrafluoroethane that has the molecular formula C2F4Br2 |  |
 |  | 13. Tetraethyl lead |  |
 |  | 14. Tetramethyl lead |  |
 
@@ -8650,7 +8637,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | WASTE OR OTHER MATTER |  |
 |  | 1. Dredged material. |  |
 |  | 2. Fish waste and other organic matter resulting from industrial fish processing operations. |  |
-|  | 3. Ships, aircraft, platforms or other structures from which all material that can create floating debris or other marine pollution has been removed to the maximum extent possible if, in the case of disposal, those substances would not pose a serious obstacle to fishing or navigation after being disposed of. |  |
+|  | 3. Ships, aircraft, platforms or other structures from which all material that can create floating debris or other marine pollu tion has been removed to the maximum extent possible if, in the case of disposal, those substances would not pose a serious obstacle to fishing or navigation after being disposed of. |  |
 |  | 4. Inert, inorganic geological matter. |  |
 |  | 5. Uncontaminated organic matter of natural origin. |  |
 |  | 6. Bulky substances that are primarily composed of iron, steel, concrete or other similar matter that does not have a significant adverse effect, other than a physical effect, on the sea or the seabed, if those substances |  |
@@ -8660,7 +8647,7 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | SCHEDULE 6 (Subsections 127(2) and (3), 128(3) and 129(3) and section 135) |  |
 | --- | --- | --- |
 |  | ASSESSMENT OF WASTE OR OTHER MATTER |  |
-|  | 1. This Schedule shall be applied with a view that acceptance of disposal at sea under certain circumstances does not remove the obligation to make further attempts to reduce the necessity for disposal. |  |
+|  | 1. This schedule shall be applied with a view that acceptance of disposal at sea under certain circumstances does not remove the obligation to make further attempts to reduce the necessity for disposal. |  |
 |  | 2. The initial stages in assessing alternatives to disposal at sea shall, as appropriate, include an evaluation of |  |
 |  | (a) the types, amounts and relative hazard of waste or other matter generated; |  |
 |  | (b) the details of the production process and sources of waste or other matter within that process; and |  |
@@ -8670,24 +8657,24 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (iii) process modification, |  |
 |  | (iv) input substitution, and |  |
 |  | (v) on-site, closed-loop recycling. |  |
-|  | 3. In general terms, if the required audit reveals that opportunities exist for waste prevention at source, an applicant shall formulate and implement a waste prevention strategy, where it has jurisdiction to do so, (in collaboration with relevant local and national agencies) which includes specific waste reduction targets and provision for further waste prevention audits to ensure that these targets are being met. Permit issuance or renewal shall be subject to compliance with this requirement. |  |
-|  | 4. For dredged material, the goal of waste management shall be to identify and control the sources of contamination. This should be achieved through implementation of waste prevention strategies and requires collaboration between the relevant local and national agencies involved with the control of point and non-point sources of pollution. Until this objective is met, the problems of contaminated dredged material may be addressed by using disposal management techniques at sea or on land. |  |
-|  | 5. Applications to dispose of waste or other matter shall demonstrate that appropriate consideration has been given to the following hierarchy of waste management options, which implies an order of increasing environmental impact: |  |
+|  | 3. In general terms, if the required audit reveals that opportuni ties exist for waste prevention at source, an applicant shall for mulate and implement a waste prevention strategy, where it has jurisdiction to do so, (in collaboration with relevant local and national agencies) which includes specific waste reduc tion targets and provision for further waste prevention audits to ensure that these targets are being met. Permit issuance or renewal shall be subject to compliance with this requirement. |  |
+|  | 4. For dredged material, the goal of waste management shall be to identify and control the sources of contamination. This should be achieved through implementation of waste preven tion strategies and requires collaboration between the relevant local and national agencies involved with the control of point and non-point sources of pollution. Until this objective is met, the problems of contaminated dredged material may be ad dressed by using disposal management techniques at sea or on land. |  |
+|  | 5. Applications to dispose of waste or other matter shall demon strate that appropriate consideration has been given to the fol lowing hierarchy of waste management options, which im plies an order of increasing environmental impact: |  |
 |  | (a) re-use; |  |
 |  | (b) off-site recycling; |  |
 |  | (c) destruction of hazardous constituents; |  |
 |  | (d) treatment to reduce or remove the hazardous constituents; and |  |
 |  | (e) disposal on land, into the air and in water. |  |
-|  | 6. A permit to dispose of waste or other matter shall be refused if opportunities exist to re-use, recycle or treat the waste or other matter without undue risks to human health or the environment or disproportionate costs. The practical availability of other means of disposal shall be considered in the light of a comparative risk assessment involving both disposal and the alternatives. |  |
-|  | 7. A detailed description and characterization of the waste or other matter is an essential precondition for the consideration of alternatives and the basis for a decision as to whether the waste or other matter may be disposed of at sea. If the waste or other matter is so poorly characterized that proper assessment cannot be made of its potential impacts on human health and the environment, the waste or other matter shall not be disposed of at sea. |  |
-|  | 8. Characterization of the waste or other matter and their constituents shall take into account |  |
+|  | 6. A permit to dispose of waste or other matter shall be refused if opportunities exist to re-use, recycle or treat the waste or oth er matter without undue risks to human health or the environ ment or disproportionate costs. The practical availability of other means of disposal shall be considered in the light of a comparative risk assessment involving both disposal and the alternatives. |  |
+|  | 7. A detailed description and characterization of the waste or oth er matter is an essential precondition for the consideration of alternatives and the basis for a decision as to whether the waste or other matter may be disposed of at sea. If the waste or other matter is so poorly characterized that proper assessment can not be made of its potential impacts on human health and the environment, the waste or other matter shall not be disposed of at sea. |  |
+|  | 8. Characterization of the waste or other matter and their constit uents shall take into account |  |
 |  | (a) origin, total amount, form and average composition; |  |
 |  | (b) properties: physical, chemical, biochemical and biological; |  |
 |  | (c) toxicity; |  |
 |  | (d) persistence: physical, chemical and biological; and |  |
 |  | (e) accumulation and biotransformation in biological materi als or sediments. |  |
-|  | 9. A national Action List shall be developed to provide a mechanism for screening candidate waste or other matter and their constituents on the basis of their potential effects on human health and the marine environment. In selecting substances for consideration in the Action List, priority shall be given to toxic, persistent and bio-accumulative substances from human sources (e.g. cadmium, mercury, organohalogens, petroleum hydrocarbons and, whenever relevant, arsenic, lead, copper, zinc, beryllium, chromium, nickel and vanadium, organosilicon compounds, cyanides, fluorides and pesticides or their by-products other than organohalogens). An Action List can also be used as a trigger mechanism for further waste prevention consideration. |  |
-|  | 10. The Action List shall specify an upper level and may also specify a lower level. The upper level shall be set so as to avoid, as much as reasonably possible, acute or chronic effects on human health or on sensitive marine organisms representative of the marine ecosystem. Application of the Action List will result in three possible categories of waste or other matter: |  |
+|  | 9. A national Action List shall be developed to provide a mecha nism for screening candidate waste or other matter and their constituents on the basis of their potential effects on human health and the marine environment. In selecting substances for consideration in the Action List, priority shall be given to tox ic, persistent and bio-accumulative substances from human sources (e.g. cadmium, mercury, organohalogens, petroleum hydrocarbons and, whenever relevant, arsenic, lead, copper, zinc, beryllium, chromium, nickel and vanadium, organosili con compounds, cyanides, fluorides and pesticides or their by-products other than organohalogens). An Action List can also be used as a trigger mechanism for further waste preven tion consideration. |  |
+|  | 10. The Action List shall specify an upper level and may also specify a lower level. The upper level shall be set so as to avoid, as much as reasonably possible, acute or chronic effects on human health or on sensitive marine organ isms representative of the marine ecosystem. Application of the Action List will result in three possible categories of waste or other matter: |  |
 |  | (a) waste or other matter that contain specified substances, or which cause biological responses, exceeding the relevant upper levels shall not be disposed of at sea, unless made acceptable for disposal through the use of management techniques or processes; |  |
 |  | (b) waste or other matter that contain specified substances, or which cause biological responses, below the relevant lower levels should be considered to be of little environmental concern in relation to disposal at sea; and |  |
 |  | (c) waste or other matter that contain specified substances, or which cause biological responses, below the upper levels but above the lower levels require more detailed assessment before their suitability for disposal can be determined. |  |
@@ -8696,16 +8683,503 @@ The House of Commons of Canada # BILL C-32 An Act respecting pollution preventio
 |  | (b) location of amenities, values and other uses of the sea in the area under consideration; |  |
 |  | (c) assessment of the constituent fluxes associated with dispos al in relation to existing fluxes of substances in the marine environment; and |  |
 |  | (d) economic and operational feasibility. |  |
-|  | 12. Assessment of potential effects shall lead to a concise statement of the expected consequences of the sea or land disposal options (i.e., the Impact Hypothesis). It provides a basis for deciding whether to approve or reject the proposed disposal option and for defining environmental monitoring requirements. |  |
-|  | 13. The assessment for disposal shall, as appropriate, integrate information on waste characteristics, conditions at the proposed disposal site(s), fluxes and proposed disposal techniques and specify the potential effects on human health, living resources, amenities and other legitimate uses of the sea. It shall, where it is reasonably possible to do so, define the nature, temporal and spatial scales and duration of expected impacts based on reasonably conservative assumptions. |  |
-|  | 14. An analysis of each disposal option shall be considered in light of a comparative assessment of the following concerns: human health risks, environmental costs, hazards (including accidents), economics and exclusion of future uses. If this assessment reveals that adequate information is not available to determine the likely effects of the proposed disposal option, then this option shall not be considered further. In addition, if the interpretation of the comparative assessment shows the disposal option to be less preferable, a permit for disposal at sea shall not be given. |  |
+|  | 12. Assessment of potential effects shall lead to a concise statement of the expected consequences of the sea or land disposal options (i.e., the Impact Hypothesis). It pro vides a basis for deciding whether to approve or reject the pro posed disposal option and for defining environmental moni toring requirements. |  |
+|  | 13. The assessment for disposal shall, as ap propriate, integrate information on waste characteristics, conditions at the proposed disposal site(s), fluxes and pro posed disposal techniques and specify the potential effects on human health, living resources, amenities and other legitimate uses of the sea. It shall, where it is reasonably possible to do so, define the nature, temporal and spatial scales and duration of expected impacts based on reasonably conservative as sumptions. |  |
+|  | 14. An analysis of each disposal option shall be considered in light of a comparative assessment of the fol lowing concerns: human health risks, environmental costs, hazards (including accidents), economics and exclusion of fu ture uses. If this assessment reveals that adequate information is not available to determine the likely effects of the proposed disposal option, then this option shall not be considered fur ther. In addition, if the interpretation of the comparative as sessment shows the disposal option to be less preferable, a per mit for disposal at sea shall not be given. |  |
 |  | 15. Each assessment shall conclude with a statement supporting a decision to issue or refuse a permit for disposal at sea. |  |
-|  | 16. Monitoring is used to verify that permit conditions are met (compliance monitoring) and that the assumptions made during the permit review and site selection process were correct and sufficient to protect human health and the environment (field monitoring). It is essential that such monitoring programs have clearly defined objectives. |  |
-|  | 17. A decision to issue a permit shall only be made if all impact evaluations are completed, and where reasonably possible, the monitoring requirements are determined. The provisions of the permit shall ensure, as far as practicable, that environmental disturbance and detriment are minimized and the benefits maximized. Any permit issued shall contain data and information specifying |  |
+|  | 16. Monitoring is used to verify that permit conditions are met (compliance monitoring) and that the as sumptions made during the permit review and site selection process were correct and sufficient to protect human health and the environment (field monitoring). It is essential that such monitoring programs have clearly defined objectives. |  |
+|  | 17. A decision to issue a permit shall only be made if all impact evaluations are completed, and where rea sonably possible, the monitoring requirements are deter mined. The provisions of the permit shall ensure, as far as practicable, that environmental disturbance and detriment are minimized and the benefits maximized. Any permit issued shall contain data and information specifying |  |
 |  | (a) the types and sources of materials to be disposed of; |  |
 |  | (b) the location of the disposal site; |  |
 |  | (c) the method of disposal; and |  |
 |  | (d) monitoring and reporting require ments. |  |
-|  | 18. Disposal sites shall be reviewed at regular intervals, taking into account the results of monitoring and the objectives of monitoring programs. Review of monitoring results will indicate whether field programs need to be continued, revised or terminated, and will contribute to informed decisions regarding the continuance, modification or closure of disposal sites. This provides an important feedback mechanism for the protection of human health and the marine environment. |  |
+|  | 18. Disposal sites shall be reviewed at regular intervals, taking into account the results of monitoring and the objectives of monitoring programs. Review of monitoring re sults will indicate whether field programs need to be contin ued, revised or terminated, and will contribute to informed de cisions regarding the continuance, modification or closure of disposal sites. This provides an important feedback mecha nism for the protection of human health and the marine envi ronment. |  |
 
-| TABLE OF PROVISIONS | | --- | | AN ACT RESPECTING POLLUTION PREVENTION AND THE PROTECTION OF THE ENVIRONMENT AND HUMAN HEALTH IN ORDER TO CONTRIBUTE TO SUSTAINABLE DEVELOPMENT | | SHORT TITLE | | --- | | 1. Short title | | ADMINISTRATIVE DUTIES | | 2. Duties of the Government of Canada | | INTERPRETATION | | 3. Definitions | | 4. Aboriginal rights | | HER MAJESTY | | 5. Binding on Her Majesty | | PART 1 | | ADMINISTRATION | | Advisory Committees | | 6. National Advisory Committee | | 7. Ministerial advisory committees | | 8. Report of various committees | | Agreements Respecting Administration | | 9. Negotiation of agreement | | Agreements Respecting Equivalent Provisions | | 10. Non-application of regulations | | PART 2 | | PUBLIC PARTICIPATION | | Interpretation | | 11. Definition of ``environmental protection action'' | | Environmental Registry | | 12. Establishment of Environmental Registry | | 13. Contents of Environmental Registry | | 14. Protection from civil proceeding or prosecution | | Rights under Other Parts | | 15. Additional rights | | Voluntary Reports | | 16. Voluntary reports | | Investigation of Offences | | 17. Application for investigation by Minister | | 18. Investigation by Minister | | 19. Progress reports | | 20. Minister may send evidence to Attorney General of Canada | | 21. Discontinuation of investigation | | Environmental Protection Action | | 22. Circumstances when an individual may bring an action | | 23. Limitation period of two years | | 24. No action for remedial conduct | | 25. Exception | | 26. Notice of the action | | 27. Attorney General to be served | | 28. Other participants | | 29. Burden of proof | | 30. Defences | | 31. Undertakings to pay damages | | 32. Stay or dismissal | | 33. Remedies | | 34. Orders to negotiate plans | | 35. Restriction on orders to negotiate plans | | 36. Settlement or discontinuance | | 37. Settlements and orders | | 38. Costs | | Action to Prevent or Compensate Loss | | 39. Injunction | | 40. Civil cause of action | | Other Matters | | 41. Evidence of offence | | 42. Civil remedies not affected | | PART 3 | | INFORMATION GATHERING, OBJECTIVES, GUIDELINES AND CODES OF PRACTICE | | Interpretation | | 43. Definitions | | Environmental Data and Research | | 44. Monitoring, research and publication | | 45. Role of Minister of Health | | Information Gathering | | 46. Notice requiring information | | 47. Guidelines | | 48. National inventory | | 49. Publication in whole or in part | | 50. Publication of inventory | | 51. Request for confidentiality | | 52. Reasons | | 53. Additional justification | | Objectives, Guidelines and Codes of Practice | | 54. Formulation by the Minister | | 55. Formulation by the Minister of Health | | PART 4 | | POLLUTION PREVENTION | | Pollution Prevention Plans | | 56. Requirement for pollution prevention plans | | 57. Plan prepared or implemented for another purpose | | 58. Declaration of preparation | | 59. Requirement to keep plan | | 60. Requirement to submit certain plans | | Model Plans and Guidelines | | 61. Model plans | | 62. Guidelines | | Other Initiatives | | 63. Information clearing-house | | PART 5 | | CONTROLLING TOXIC SUBSTANCES | | Interpretation | | 64. Toxic substances | | 65. Definition of ``virtual elimination'' | | 65.1 Definition of ``level of quantification'' | | General | | 66. Domestic Substances List | | 67. Regulation of criteria | | 68. Research, investigation and evaluation | | 69. Formulation of guidelines by the Ministers | | Information Gathering | | 70. Notice to the Minister | | 71. Notice requiring information, samples or testing | | 72. Exercise of power under paragraph 71(1)(c) | | Priority Substances and Other Substances | | 73. Categorization of substances on Domestic Substances List | | 74. Screening level risk assessment | | 75. Definition of ``jurisdiction'' | | 76. Priority Substances List | | 76.1 Weight of evidence and precautionary principle | | 77. Publication after assessment | | 78. Notice of objection | | 79. Plans required for virtual elimination | | Substances and Activities New to Canada | | 80. Definitions | | 81. Manufacture or import of substances | | 82. Prohibition of activity | | 83. Assessment of information | | 84. Action to be taken after assessment | | 85. Significant new activity | | 86. Notification of persons required to comply | | 87. Amendment of Lists | | 88. Publication of masked name | | 89. Regulations | | Regulation of Toxic Substances | | 90. Addition to List of Toxic Substances | | 91. Publication of proposed regulation or instrument | | 92. Publication of preventive or control actions | | 92.1 Regulations | | 93. Regulations | | 94. Interim orders | | Release of Toxic Substances | | 95. Report and remedial measures | | 96. Voluntary report | | 97. Regulations | | 98. Recovery of reasonable costs and expenses by Her Majesty | | 99. Remedial measures | | Export of Substances | | 100. Export Control List | | 101. Notice to Minister | | 102. Regulations respecting exports | | 103. Publication of exports | | PART 6 | | ANIMATE PRODUCTS OF BIOTECHNOLOGY | | 104. Definitions | | 105. Adding living organisms to Domestic Substances List | | 106. Manufacture or import of living organisms | | 107. Prohibition of activity | | 108. Assessment of information | | 109. Action to be taken after assessment | | 110. Significant new activity | | 111. Notification of persons required to comply | | 112. Amendment of List | | 113. Publication of masked name | | 114. Regulations | | 115. Other regulations | | PART 7 | | CONTROLLING POLLUTION AND MANAGING WASTES | | DIVISION 1 | | NUTRIENTS | | 116. Definitions | | 117. Prohibition | | 118. Regulations | | 119. Remedial measures | | DIVISION 2 | | PROTECTION OF THE MARINE ENVIRONMENT FROM LAND-BASED SOURCES OF POLLUTION | | 120. Definitions | | 121. Objectives, guidelines and codes of practice | | DIVISION 3 | | DISPOSAL AT SEA | | Interpretation | | 122. Definitions | | Prohibitions | | 123. Imports for disposal in waters under Canadian jurisdiction | | 124. Loading in Canada for disposal at sea | | 125. Disposal in waters under Canadian jurisdiction | | 126. Incineration | | Permits | | 127. Minister may issue permit | | 128. Exception | | 129. Conditions of permit | | Exception for Safety Reasons | | 130. Exception | | 131. Fisheries Act not applicable | | Site Monitoring | | 132. Monitoring of sites | | Publication | | 133. Publication in the Canada Gazette | | Notice of Objection | | 134. Notice of objection | | Regulations | | 135. Regulations | | Costs and Expenses of the Crown | | 136. Costs and expenses recoverable | | Service of Documents | | 137. Manner of service | | DIVISION 4 | | FUELS | | Interpretation | | 138. Definitions | | General Requirements for Fuels | | 139. Prohibition | | 140. Regulations | | National Fuels Marks | | 141. Nature of mark | | 142. Prohibition | | 143. Requirements for use | | 144. Cross-boundary shipments | | 145. Regulations | | 146. Variations in fuels | | Temporary Waivers | | 147. Temporary waiver | | Remedial Measures | | 148. Remedial measures | | DIVISION 5 | | VEHICLE, ENGINE AND EQUIPMENT EMISSIONS | | Interpretation | | 149. Definitions | | National Emissions Marks | | 150. Nature of marks | | 151. Use of marks | | 152. Transportation within Canada | | Vehicle, Engine and Equipment Standards | | 153. Compliance by companies | | 154. Compliance on importation | | 155. Exceptions for certain importations | | Vehicle or Engine Exemptions | | 156. Exemption from standards | | Notice of Defects | | 157. Obligation to give notice | | Research and Testing | | 158. Powers of Minister | | 159. Emission control tests | | Regulations | | 160. Regulations | | 161. Definition of ``technical standards document'' | | 162. Emission credits | | 163. Interim order | | Evidence | | 164. Evidence | | 165. Evidence | | DIVISION 6 | | INTERNATIONAL AIR POLLUTION | | 166. Determination of international air pollution | | 167. Regulations | | 168. Notice to other country | | 169. Report and remedial measures | | 170. Recovery of reasonable costs and expenses by Her Majesty | | 171. Prohibition | | 172. Plans and specifications | | 173. Interim order | | 174. Report to Parliament | | DIVISION 7 | | INTERNATIONAL WATER POLLUTION | | 175. Definition of ``water pollution'' | | 176. Determination of international water pollution | | 177. Regulations | | 178. Notice to other country | | 179. Report and remedial measures | | 180. Recovery of reasonable costs and expenses by Her Majesty | | 181. Prohibition | | 182. Plans and specifications | | 183. Interim order | | 184. Report to Parliament | | DIVISION 8 | | CONTROL OF MOVEMENT OF HAZARDOUS WASTE AND HAZARDOUS RECYCLABLE MATERIAL AND OF PRESCRIBED NON-HAZARDOUS WASTE FOR FINAL DISPOSAL | | 185. Import, export and transit | | 186. Prohibitions - import, export and transit | | 187. Publication | | 188. Reduction of export for final disposal | | 189. Movement within Canada | | 190. Permits based on equivalent environmental safety level | | 191. Regulations | | 192. Forms | | PART 8 | | ENVIRONMENTAL MATTERS RELATED TO EMERGENCIES | | 193. Definitions | | 194. Application | | 195. Research | | 196. Guidelines and codes of practice | | 197. Consultation | | 198. Publication of guidelines and codes of practice | | 199. Requirements for environmental emergency plans | | 200. Regulations | | 201. Remedial measures | | 202. Voluntary report | | 203. Recovery of costs and expenses | | 204. National notification and reporting system | | 205. Liability of owner of substance | | PART 9 | | GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND | | Interpretation | | 206. Definition of ``regulations'' | | Application | | 207. Application to Government, etc. | | Objectives, Guidelines and Codes of Practice | | 208. Minister shall establish | | Regulations | | 209. Regulations for the protection of the environment | | 210. Non-application of regulations | | Information about Works and Activities | | 211. Minister may require information | | Release of Substances | | 212. Report and remedial measures | | 213. Voluntary report | | 214. Recovery of costs and expenses | | 215. Court and costs | | PART 10 | | ENFORCEMENT | | Interpretation | | 216. Definitions | | Designation of Enforcement Officers and Analysts | | 217. Designation | | Inspection | | 218. Inspection | | 219. Production of documents and samples | | Search | | 220. Authority to issue warrant for search and seizure | | 221. Custody | | 222. Redelivery on deposit of security | | Detention | | 223. Seizure | | 224. Application to extend period of detention | | Detention of Ships | | 225. Detention of ships | | Assistance to Enforcement Officers and Analysts | | 226. Right of passage | | 227. Assistance | | 228. Obstruction | | Forfeiture | | 229. Forfeiture on consent | | 230. Forfeiture by order of court | | 231. Court may order forfeiture | | 232. Disposal of forfeited ship, aircraft, etc. | | 233. Application by person claiming interest | | Environmental Protection Compliance Orders | | 234. Definition of ``order'' | | 235. Order | | 236. Exigent circumstances | | 237. Notice of intent | | 238. Compliance with the order | | 239. Intervention by enforcement officer | | 240. Recovery of reasonable costs and expenses by Her Majesty | | 241. Variation or cancellation of order | | 242. Regulations | | Review Officers | | 243. Roster of review officers | | 244. Chief Review Officer | | 245. Term of members | | 246. Publication in Canada Gazette | | 247. Knowledge | | 248. Other employment | | 249. Remuneration and fees | | 250. Acting after expiry of term | | 251. Secretary and other staff | | 252. Government services and facilities | | 253. Immunity | | 254. Crown not relieved | | 255. Liability | | Reviews | | 256. Request for review | | 257. Review | | 258. No automatic stay on appeal | | 259. Right to appear | | 260. Powers | | 261. Enforcement of summonses and orders | | 262. Procedure | | 263. Powers of review officer | | 264. Variation or cancellation of review officer's decision | | 265. Limitations on exercise of review officer's powers | | 266. Decision of review officer | | 267. Rules | | 268. Orders and notices | | Federal Court | | 269. Appeal to Federal Court | | 270. Standing on appeal to Federal Court | | 271. Order not suspended | | Offences and Punishment | | 272. Contravention of the Act, the regulations or agreements | | 273. False or misleading information, etc. | | 274. Damage to environment and risk of death or harm to persons | | 275. Limitation period | | 276. Continuing offence | | 277. Construction of subsection 389(5) of Canada Shipping Act | | 278. Regulations | | 279. Nearest court has jurisdiction for Division 3 of Part 7 offences | | 280. Liability of directors | | 281. Identifying owner, master, etc. | | 282. Proof of offence | | 283. Defence | | 284. Importing substances by analysts | | 285. Certificate of analyst | | 286. Safety marks and prescribed documents | | Sentencing Criteria | | 287. Sentencing considerations | | Discharge | | 288. Absolute or conditional discharge | | 289. Suspended sentence | | 290. Additional fine | | 291. Orders of court | | 292. Compensation for loss of property | | 293. Variation of sanctions | | 294. Subsequent applications with leave | | Environmental Protection Alternative Measures | | 295. Definitions | | 296. When measures may be used | | 297. Sentencing considerations | | 298. Nature of measures contained in agreement | | 299. Duration of agreement | | 300. Filing in court for the purpose of public access | | 301. Filing in Environmental Registry | | 302. Stay and recommencement of proceedings | | 303. Application to vary agreement | | 304. Records of persons | | 305. Records of police forces and investigative bodies | | 306. Government records | | 307. Disclosure of records | | 308. Agreements respecting exchange of information | | 309. Regulations | | Contraventions | | 310. Ticketing | | Other Remedies | | 311. Injunction | | Defence | | 312. Defence | | PART 11 | | MISCELLANEOUS MATTERS | | Disclosure of Information | | 313. Request for confidentiality | | 314. Prohibition of disclosure | | 315. Disclosure by Minister for public interest | | 316. Certain purposes for which information may be disclosed | | 317. Disclosure by Minister | | 318. Hazardous Materials Information Review Act | | 319. Regulations | | 320. Non-disclosure by Minister of National Defence | | 321. Security requirements for disclosure | | Economic Instruments | | 322. Guidelines, programs and other measures | | 323. Consultation | | 324. Publication of guidelines and programs | | 325. Regulations for systems relating to deposits and refunds | | 326. Regulations for tradeable units systems | | 327. Ministerial orders | | Regulations Respecting Fees and Charges | | 328. Services and facilities | | 329. Consultation | | General Regulation-making Powers and Exemptions | | 330. Exercise of regulation-making power | | 331. Exemption from Statutory Instruments Act | | Prepublication Requirements | | 332. Publication of proposed orders and regulations | | Board of Review Proceedings | | 333. Establishment of board of review | | 334. Number of members of board | | 335. Appearance before board | | 336. Withdrawal of notice of objection | | 337. Powers of board | | 338. Costs | | 339. Absent member of board | | 340. Report | | 341. Rules for boards of review | | Report to Parliament | | 342. Annual report | | 343. Permanent review of Act by parliamentary committee | | PART 12 | | CONSEQUENTIAL AMENDMENTS, REPEAL AND COMING INTO FORCE | | Consequential Amendments | | 344. Access to Information Act | | 345. Canada Shipping Act | | 346. Criminal Code | | 347. Food and Drugs Act | | 348-349. Manganese-based Fuel Additives Act | | 350-354. Motor Vehicle Safety Act | | Repeal | | 355. Repeal | | Transitional | | 355.1. Regulations | | Coming into Force | | 356. Coming into force | | SCHEDULES 1 TO 6 |
+| TABLE OF PROVISIONS |
+| --- |
+| AN ACT RESPECTING POLLUTION PREVENTION AND THE PROTECTION OF THE ENVIRONMENT AND HUMAN HEALTH IN ORDER TO CONTRIBUTE TO SUSTAINABLE DEVELOPMENT |
+| SHORT TITLE |
+| 1. Short title |
+| ADMINISTRATIVE DUTIES |
+| 2. Duties of the Government of Canada |
+| INTERPRETATION |
+| 3. Definitions |
+| 4. Aboriginal rights |
+| HER MAJESTY |
+| 5. Binding on Her Majesty |
+| PART 1 |
+| ADMINISTRATION |
+| Advisory Committees |
+| 6. National Advisory Committee |
+| 7. Ministerial advisory committees |
+| 8. Report of various committees |
+| Agreements Respecting Administration |
+| 9. Negotiation of agreement |
+| Agreements Respecting Equivalent Provisions |
+| 10. Non-application of regulations |
+| PART 2 |
+| PUBLIC PARTICIPATION |
+| Interpretation |
+| 11. Definition of ``environmental protection action'' |
+| Environmental Registry |
+| 12. Establishment of Environmental Registry |
+| 13. Contents of Environmental Registry |
+| 14. Protection from civil proceeding or prosecution |
+| Rights under Other Parts |
+| 15. Additional rights |
+| Voluntary Reports |
+| 16. Voluntary reports |
+| Investigation of Offences |
+| 17. Application for investigation by Minister |
+| 18. Investigation by Minister |
+| 19. Progress reports |
+| 20. Minister may send evidence to Attorney General of Canada |
+| 21. Discontinuation of investigation |
+| Environmental Protection Action |
+| 22. Circumstances when an individual may bring an action |
+| 23. Limitation period of two years |
+| 24. No action for remedial conduct |
+| 25. Exception |
+| 26. Notice of the action |
+| 27. Attorney General to be served |
+| 28. Other participants |
+| 29. Burden of proof |
+| 30. Defences |
+| 31. Undertakings to pay damages |
+| 32. Stay or dismissal |
+| 33. Remedies |
+| 34. Orders to negotiate plans |
+| 35. Restriction on orders to negotiate plans |
+| 36. Settlement or discontinuance |
+| 37. Settlements and orders |
+| 38. Costs |
+| Action to Prevent or Compensate Loss |
+| 39. Injunction |
+| 40. Civil cause of action |
+| Other Matters |
+| 41. Evidence of offence |
+| 42. Civil remedies not affected |
+| PART 3 |
+| INFORMATION GATHERING, OBJECTIVES, GUIDELINES AND CODES OF PRACTICE |
+| Interpretation |
+| 43. Definitions |
+| Environmental Data and Research |
+| 44. Monitoring, research and publication |
+| 45. Role of Minister of Health |
+| Information Gathering |
+| 46. Notice requiring information |
+| 47. Guidelines |
+| 48. National inventory |
+| 49. Publication in whole or in part |
+| 50. Publication of inventory |
+| 51. Request for confidentiality |
+| 52. Reasons |
+| 53. Additional justification |
+| Objectives, Guidelines and Codes of Practice |
+| 54. Formulation by the Minister |
+| 55. Formulation by the Minister of Health |
+| PART 4 |
+| POLLUTION PREVENTION |
+| Pollution Prevention Plans |
+| 56. Requirement for pollution prevention plans |
+| 57. Plan prepared or implemented for another purpose |
+| 58. Declaration of preparation |
+| 59. Requirement to keep plan |
+| 60. Requirement to submit certain plans |
+| Model Plans and Guidelines |
+| 61. Model plans |
+| 62. Guidelines |
+| Other Initiatives |
+| 63. Information clearing-house |
+| PART 5 |
+| CONTROLLING TOXIC SUBSTANCES |
+| Interpretation |
+| 64. Toxic substances |
+| 65. Definition of ``virtual elimination'' |
+| 65.1 Definition of ``level of quantification'' |
+| General |
+| 66. Domestic Substances List |
+| 67. Regulation of criteria |
+| 68. Research, investigation and evaluation |
+| 69. Formulation of guidelines by the Ministers |
+| Information Gathering |
+| 70. Notice to the Minister |
+| 71. Notice requiring information, samples or testing |
+| 72. Exercise of power under paragraph 71(1)(c) |
+| Priority Substances and Other Substances |
+| 73. Categorization of substances on Domestic Substances List |
+| 74. Screening level risk assessment |
+| 75. Definition of ``jurisdiction'' |
+| 76. Priority Substances List |
+| 76.1 Weight of evidence and precautionary principle |
+| 77. Publication after assessment |
+| 78. Notice of objection |
+| 79. Plans required for virtual elimination |
+| Substances and Activities New to Canada |
+| 80. Definitions |
+| 81. Manufacture or import of substances |
+| 82. Prohibition of activity |
+| 83. Assessment of information |
+| 84. Action to be taken after assessment |
+| 85. Significant new activity |
+| 86. Notification of persons required to comply |
+| 87. Amendment of Lists |
+| 88. Publication of masked name |
+| 89. Regulations |
+| Regulation of Toxic Substances |
+| 90. Addition to List of Toxic Substances |
+| 91. Publication of proposed regulation or instrument |
+| 92. Publication of preventive or control actions |
+| 92.1 Regulations |
+| 93. Regulations |
+| 94. Interim orders |
+| Release of Toxic Substances |
+| 95. Report and remedial measures |
+| 96. Voluntary report |
+| 97. Regulations |
+| 98. Recovery of reasonable costs and expenses by Her Majesty |
+| 99. Remedial measures |
+| Export of Substances |
+| 100. Export Control List |
+| 101. Notice to Minister |
+| 102. Regulations respecting exports |
+| 103. Publication of exports |
+| PART 6 |
+| ANIMATE PRODUCTS OF BIOTECHNOLOGY |
+| 104. Definitions |
+| 105. Adding living organisms to Domestic Substances List |
+| 106. Manufacture or import of living organisms |
+| 107. Prohibition of activity |
+| 108. Assessment of information |
+| 109. Action to be taken after assessment |
+| 110. Significant new activity |
+| 111. Notification of persons required to comply |
+| 112. Amendment of List |
+| 113. Publication of masked name |
+| 114. Regulations |
+| 115. Other regulations |
+| PART 7 |
+| CONTROLLING POLLUTION AND MANAGING WASTES |
+| DIVISION 1 |
+| NUTRIENTS |
+| 116. Definitions |
+| 117. Prohibition |
+| 118. Regulations |
+| 119. Remedial measures |
+| DIVISION 2 |
+| PROTECTION OF THE MARINE ENVIRONMENT FROM LAND-BASED SOURCES OF POLLUTION |
+| 120. Definitions |
+| 121. Objectives, guidelines and codes of practice |
+| DIVISION 3 |
+| DISPOSAL AT SEA |
+| Interpretation |
+| 122. Definitions |
+| Prohibitions |
+| 123. Imports for disposal in waters under Canadian jurisdiction |
+| 124. Loading in Canada for disposal at sea |
+| 125. Disposal in waters under Canadian jurisdiction |
+| 126. Incineration |
+| Permits |
+| 127. Minister may issue permit |
+| 128. Exception |
+| 129. Conditions of permit |
+| Exception for Safety Reasons |
+| 130. Exception |
+| 131. Fisheries Act not applicable |
+| Site Monitoring |
+| 132. Monitoring of sites |
+| Publication |
+| 133. Publication in the Canada Gazette |
+| Notice of Objection |
+| 134. Notice of objection |
+| Regulations |
+| 135. Regulations |
+| Costs and Expenses of the Crown |
+| 136. Costs and expenses recoverable |
+| Service of Documents |
+| 137. Manner of service |
+| DIVISION 4 |
+| FUELS |
+| Interpretation |
+| 138. Definitions |
+| General Requirements for Fuels |
+| 139. Prohibition |
+| 140. Regulations |
+| National Fuels Marks |
+| 141. Nature of mark |
+| 142. Prohibition |
+| 143. Requirements for use |
+| 144. Cross-boundary shipments |
+| 145. Regulations |
+| 146. Variations in fuels |
+| Temporary Waivers |
+| 147. Temporary waiver |
+| Remedial Measures |
+| 148. Remedial measures |
+| DIVISION 5 |
+| VEHICLE, ENGINE AND EQUIPMENT EMISSIONS |
+| Interpretation |
+| 149. Definitions |
+| National Emissions Marks |
+| 150. Nature of marks |
+| 151. Use of marks |
+| 152. Transportation within Canada |
+| Vehicle, Engine and Equipment Standards |
+| 153. Compliance by companies |
+| 154. Compliance on importation |
+| 155. Exceptions for certain importations |
+| Vehicle or Engine Exemptions |
+| 156. Exemption from standards |
+| Notice of Defects |
+| 157. Obligation to give notice |
+| Research and Testing |
+| 158. Powers of Minister |
+| 159. Emission control tests |
+| Regulations |
+| 160. Regulations |
+| 161. Definition of ``technical standards document'' |
+| 162. Emission credits |
+| 163. Interim order |
+| Evidence |
+| 164. Evidence |
+| 165. Evidence |
+| DIVISION 6 |
+| INTERNATIONAL AIR POLLUTION |
+| 166. Determination of international air pollution |
+| 167. Regulations |
+| 168. Notice to other country |
+| 169. Report and remedial measures |
+| 170. Recovery of reasonable costs and expenses by Her Majesty |
+| 171. Prohibition |
+| 172. Plans and specifications |
+| 173. Interim order |
+| 174. Report to Parliament |
+| DIVISION 7 |
+| INTERNATIONAL WATER POLLUTION |
+| 175. Definition of ``water pollution'' |
+| 176. Determination of international water pollution |
+| 177. Regulations |
+| 178. Notice to other country |
+| 179. Report and remedial measures |
+| 180. Recovery of reasonable costs and expenses by Her Majesty |
+| 181. Prohibition |
+| 182. Plans and specifications |
+| 183. Interim order |
+| 184. Report to Parliament |
+| DIVISION 8 |
+| CONTROL OF MOVEMENT OF HAZARDOUS WASTE AND HAZARDOUS RECYCLABLE MATERIAL AND OF PRESCRIBED NON-HAZARDOUS WASTE FOR FINAL DISPOSAL |
+| 185. Import, export and transit |
+| 186. Prohibitions - import, export and transit |
+| 187. Publication |
+| 188. Reduction of export for final disposal |
+| 189. Movement within Canada |
+| 190. Permits based on equivalent environmental safety level |
+| 191. Regulations |
+| 192. Forms |
+| PART 8 |
+| ENVIRONMENTAL MATTERS RELATED TO EMERGENCIES |
+| 193. Definitions |
+| 194. Application |
+| 195. Research |
+| 196. Guidelines and codes of practice |
+| 197. Consultation |
+| 198. Publication of guidelines and codes of practice |
+| 199. Requirements for environmental emergency plans |
+| 200. Regulations |
+| 201. Remedial measures |
+| 202. Voluntary report |
+| 203. Recovery of costs and expenses |
+| 204. National notification and reporting system |
+| 205. Liability of owner of substance |
+| PART 9 |
+| GOVERNMENT OPERATIONS AND FEDERAL AND ABORIGINAL LAND |
+| Interpretation |
+| 206. Definition of ``regulations'' |
+| Application |
+| 207. Application to Government, etc. |
+| Objectives, Guidelines and Codes of Practice |
+| 208. Minister shall establish |
+| Regulations |
+| 209. Regulations for the protection of the environment |
+| 210. Non-application of regulations |
+| Information about Works and Activities |
+| 211. Minister may require information |
+| Release of Substances |
+| 212. Report and remedial measures |
+| 213. Voluntary report |
+| 214. Recovery of costs and expenses |
+| 215. Court and costs |
+| PART 10 |
+| ENFORCEMENT |
+| Interpretation |
+| 216. Definitions |
+| Designation of Enforcement Officers and Analysts |
+| 217. Designation |
+| Inspection |
+| 218. Inspection |
+| 219. Production of documents and samples |
+| Search |
+| 220. Authority to issue warrant for search and seizure |
+| 221. Custody |
+| 222. Redelivery on deposit of security |
+| Detention |
+| 223. Seizure |
+| 224. Application to extend period of detention |
+| Detention of Ships |
+| 225. Detention of ships |
+| Assistance to Enforcement Officers and Analysts |
+| 226. Right of passage |
+| 227. Assistance |
+| 228. Obstruction |
+| Forfeiture |
+| 229. Forfeiture on consent |
+| 230. Forfeiture by order of court |
+| 231. Court may order forfeiture |
+| 232. Disposal of forfeited ship, aircraft, etc. |
+| 233. Application by person claiming interest |
+| Environmental Protection Compliance Orders |
+| 234. Definition of ``order'' |
+| 235. Order |
+| 236. Exigent circumstances |
+| 237. Notice of intent |
+| 238. Compliance with the order |
+| 239. Intervention by enforcement officer |
+| 240. Recovery of reasonable costs and expenses by Her Majesty |
+| 241. Variation or cancellation of order |
+| 242. Regulations |
+| Review Officers |
+| 243. Roster of review officers |
+| 244. Chief Review Officer |
+| 245. Term of members |
+| 246. Publication in Canada Gazette |
+| 247. Knowledge |
+| 248. Other employment |
+| 249. Remuneration and fees |
+| 250. Acting after expiry of term |
+| 251. Secretary and other staff |
+| 252. Government services and facilities |
+| 253. Immunity |
+| 254. Crown not relieved |
+| 255. Liability |
+| Reviews |
+| 256. Request for review |
+| 257. Review |
+| 258. No automatic stay on appeal |
+| 259. Right to appear |
+| 260. Powers |
+| 261. Enforcement of summonses and orders |
+| 262. Procedure |
+| 263. Powers of review officer |
+| 264. Variation or cancellation of review officer's decision |
+| 265. Limitations on exercise of review officer's powers |
+| 266. Decision of review officer |
+| 267. Rules |
+| 268. Orders and notices |
+| Federal Court |
+| 269. Appeal to Federal Court |
+| 270. Standing on appeal to Federal Court |
+| 271. Order not suspended |
+| Offences and Punishment |
+| 272. Contravention of the Act, the regulations or agreements |
+| 273. False or misleading information, etc. |
+| 274. Damage to environment and risk of death or harm to persons |
+| 275. Limitation period |
+| 276. Continuing offence |
+| 277. Construction of subsection 389(5) of Canada Shipping Act |
+| 278. Regulations |
+| 279. Nearest court has jurisdiction for Division 3 of Part 7 offences |
+| 280. Liability of directors |
+| 281. Identifying owner, master, etc. |
+| 282. Proof of offence |
+| 283. Defence |
+| 284. Importing substances by analysts |
+| 285. Certificate of analyst |
+| 286. Safety marks and prescribed documents |
+| Sentencing Criteria |
+| 287. Sentencing considerations |
+| Discharge |
+| 288. Absolute or conditional discharge |
+| 289. Suspended sentence |
+| 290. Additional fine |
+| 291. Orders of court |
+| 292. Compensation for loss of property |
+| 293. Variation of sanctions |
+| 294. Subsequent applications with leave |
+| Environmental Protection Alternative Measures |
+| 295. Definitions |
+| 296. When measures may be used |
+| 297. Sentencing considerations |
+| 298. Nature of measures contained in agreement |
+| 299. Duration of agreement |
+| 300. Filing in court for the purpose of public access |
+| 301. Filing in Environmental Registry |
+| 302. Stay and recommencement of proceedings |
+| 303. Application to vary agreement |
+| 304. Records of persons |
+| 305. Records of police forces and investigative bodies |
+| 306. Government records |
+| 307. Disclosure of records |
+| 308. Agreements respecting exchange of information |
+| 309. Regulations |
+| Contraventions |
+| 310. Ticketing |
+| Other Remedies |
+| 311. Injunction |
+| Defence |
+| 312. Defence |
+| PART 11 |
+| MISCELLANEOUS MATTERS |
+| Disclosure of Information |
+| 313. Request for confidentiality |
+| 314. Prohibition of disclosure |
+| 315. Disclosure by Minister for public interest |
+| 316. Certain purposes for which information may be disclosed |
+| 317. Disclosure by Minister |
+| 318. Hazardous Materials Information Review Act |
+| 319. Regulations |
+| 320. Non-disclosure by Minister of National Defence |
+| 321. Security requirements for disclosure |
+| Economic Instruments |
+| 322. Guidelines, programs and other measures |
+| 323. Consultation |
+| 324. Publication of guidelines and programs |
+| 325. Regulations for systems relating to deposits and refunds |
+| 326. Regulations for tradeable units systems |
+| 327. Ministerial orders |
+| Regulations Respecting Fees and Charges |
+| 328. Services and facilities |
+| 329. Consultation |
+| General Regulation-making Powers and Exemptions |
+| 330. Exercise of regulation-making power |
+| 331. Exemption from Statutory Instruments Act |
+| Prepublication Requirements |
+| 332. Publication of proposed orders and regulations |
+| Board of Review Proceedings |
+| 333. Establishment of board of review |
+| 334. Number of members of board |
+| 335. Appearance before board |
+| 336. Withdrawal of notice of objection |
+| 337. Powers of board |
+| 338. Costs |
+| 339. Absent member of board |
+| 340. Report |
+| 341. Rules for boards of review |
+| Report to Parliament |
+| 342. Annual report |
+| 343. Permanent review of Act |
+| PART 12 |
+| CONSEQUENTIAL AMENDMENTS, REPEAL, TRANSITONAL PROVISION AND COMING INTO FORCE |
+| Consequential Amendments |
+| 344. Access to Information Act |
+| 345. Canada Shipping Act |
+| 346. Criminal Code |
+| 347. Food and Drugs Act |
+| 348-349. Manganese-based Fuel Additives Act |
+| 350-354. Motor Vehicle Safety Act |
+| Repeal |
+| 355. Repeal |
+| Transitional |
+| 355.1 Regulations |
+| Coming into Force |
+| 356. Coming into force |
+| SCHEDULES 1 TO 6 |
