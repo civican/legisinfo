@@ -1,0 +1,34 @@
+NAVIGATION END
+
+| C-356 Second Session, Thirty-seventh Parliament, 51-52 Elizabeth II, 2002-2003 |  | C-356 Deuxième session, trente-septième législature, 51-52 Elizabeth II, 2002-2003 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-356 |  | PROJET DE LOI C-356 |
+| An Act to amend the Employment Insurance Act (waiting period) |  | Loi modifiant la Loi sur l'assurance-emploi (délai de carence) |
+| First reading, February 12, 2003 |  | Première lecture le 12 février 2003 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Employment Insurance Act and eliminates the two-week waiting period during which a claimant is disentitled from receiving employment insurance benefits. | Le texte modifie la Loi sur l'assurance-emploi afin d'éliminer le délai de carence de deux semaines pendant lequel un prestataire n'est pas admissible au bénéfice des prestations d'assurance-emploi. |
+
+|  | 2nd Session, 37th Parliament, 51-52 Elizabeth II, 2002-2003 House of Commons of Canada Bill C-356 |  | 2e session, 37e législature, 51-52 Elizabeth II, 2002-2003 Chambre des communes du Canada Projet de loi C-356 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Employment Insurance Act (waiting period) |  | Loi modifiant la Loi sur l'assurance-emploi (délai de carence) |  |  |
+| 1996, c. 23 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | 1996, ch. 23 |
+|  | 1. (1) The definition "waiting period" in subsection 6(1) of the Employment Insur-ance Act is repealed. |  | 1. (1) La définition de « délai de caren-ce », au paragraphe 6(1) de la Loi sur l'assu-rance-emploi, est abrogée. |  |  |
+| "disentitled" « inadmis-sible » | (2) The definition "disentitled" in subsection 6(1) of the Act is replaced by the following: "disentitled" means not entitled under section 18, 21, 31, 32, 33, 36, 37, 49 or 50 or under the regulations; |  | (2) La définition de « inadmissible », au paragraphe 6(1) de la même loi, est remplacée par ce qui suit : « inadmissible » Qui n'est pas admissible au titre des articles 18, 21, 31, 32, 33, 36, 37, 49 ou 50, ou au titre d'un règlement. |  | « inadmissible » "disentitled" |
+|  | 2. Section 13 of the Act is repealed. |  | 2. L'article 13 de la même loi est abrogé. |  |  |
+|  | 3. (1) Subsection 19(1) of the Act is repealed. |  | 3. (1) Le paragraphe 19(1) de la même loi est abrogé. |  |  |
+|  | (2) Subsection 19(2) of the Act is replaced by the following: |  | (2) Le paragraphe 19(2) de la même loi est remplacé par ce qui suit : |  |  |
+| Earnings in periods of unemployment | (2) Subject to subsections (3) and (4), if the claimant has earnings during one week of unemployment, there shall be deducted from benefits payable in that week the amount, if any, of the earnings that exceeds (a) $50, if the claimant's rate of weekly benefits is less than $200; or (b) 25% of the claimant's rate of weekly benefits, if that rate is $200 or more. |  | (2) Sous réserve des paragraphes (3) et (4), si le prestataire reçoit une rémunération durant une semaine de chômage, il est déduit des prestations qui lui sont payables un montant correspondant à la fraction de la rémunération reçue au cours de cette semaine qui dépasse 50 $, ou vingt-cinq pour cent de son taux de prestations hebdomadaires si celui-ci est de 200 $ ou plus. |  | Rémunération au cours de périodes de chômage |
+|  | 4. (1) Subsection 20(1) of the Act is repealed. |  | 4. (1) Le paragraphe 20(1) de la même loi est abrogé. |  |  |
+|  | (2) Subsection 20(2) of the Act is replaced by the following: |  | (2) Le paragraphe 20(2) de la même loi est remplacé par ce qui suit : |  |  |
+| Deduction for excluded days | (2) If a claimant is disentitled from receiving benefits for a working day in a week of unemployment, an amount equal to 1/5 of their weekly rate of benefits for each such working day shall be deducted from the benefits payable for that week. |  | (2) Si le prestataire est inadmissible au bénéfice des prestations pour un ou plusieurs jours ouvrables d'une semaine de chômage, il est déduit des prestations afférentes à cette semaine un cinquième de son taux de prestations hebdomadaires pour chacun de ces jours ouvrables. |  | Déduction pour les jours exclus |
+|  | 5. Subsection 22(4) of the Act is repealed. |  | 5. Le paragraphe 22(4) de la même loi est abrogé. |  |  |
+|  | 6. Subsection 23(5) of the Act is repealed. |  | 6. Le paragraphe 23(5) de la même loi est abrogé. |  |  |
+|  | 7. Paragraph 24(1)(h) of the Act is repealed. |  | 7. L'alinéa 24(1)h) de la même loi est abrogé. |  |  |
+|  | 8. Subsection 28(2) of the Act is replaced by the following: |  | 8. Le paragraphe 28(2) de la même loi est remplacé par ce qui suit : |  |  |
+| When disqualification is to be served | (2) Subject to subsections (3) to (5), the weeks of disqualification are to be served during the weeks for which benefits would otherwise be payable if the disqualification had not been imposed and, for greater certainty, the length of the disqualification is not affected by any subsequent loss of employment by the claimant during the benefit period. |  | (2) Sous réserve des paragraphes (3) à (5), l'exclusion doit être purgée au cours des semaines de la période de prestations du prestataire pour lesquelles il aurait sans cela droit à des prestations. Il demeure par ailleurs entendu que la durée de cette exclusion n'est pas touchée par la perte subséquente d'un emploi au cours de la période de prestations. |  | Période au cours de laquelle l'exclusion doit être purgée |
+|  | 9. Subsection 30(2) of the Act is replaced by the following: |  | 9. Le paragraphe 30(2) de la même loi est remplacé par ce qui suit : |  |  |
+| Length of disqualification | (2) The disqualification is for each week of the claimant's benefit period for which benefits would otherwise be payable if the disqual-ification had not been imposed and, for greater certainty, the length of the disqualification is not affected by any subsequent loss of employment by the claimant during the benefit period. |  | (2) L'exclusion vaut pour toutes les semai-nes de la période de prestations du prestataire pour lesquelles il aurait sans cela droit à des prestations. Il demeure par ailleurs entendu que la durée de cette exclusion n'est pas affectée par la perte subséquente d'un emploi au cours de la période de prestations. |  | Exclusion non touchée par une perte d'emploi subséquente |
+|  | 10. Paragraph 54(a) of the Act is repealed. |  | 10. L'alinéa 54a) de la même loi est abrogé. |  |  |
