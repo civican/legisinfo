@@ -1,0 +1,20 @@
+Bill C-291 PublicationID : 2328463 Table of ContentsSummaryBILL C-291SHORT TITLEGRANDPARENT YEAR
+
+|  | SUMMARY |  |
+| --- | --- | --- |
+|  | The purpose of this bill is to declare 1995 the ``Year of the Grandparent''. |  |
+
+|  | 1nd Session, 35th Parliament, 42-43 Elizabeth II, 1994 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-291 An Act respecting a national year of the grandparent Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Grandparent Year Act*. #### GRANDPARENT YEAR Grandparent Year **2.** Throughout Canada, the year 1995 shall be known as the ``Year of the Grandparent''.
+
+|  | 1nd Session, 35th Parliament, 42-43 Elizabeth II, 1994 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-291 An Act respecting a national year of the grandparent Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Grandparent Year Act*. #### GRANDPARENT YEAR Grandparent Year **2.** Throughout Canada, the year 1995 shall be known as the ``Year of the Grandparent''.
+
+|  | 1nd Session, 35th Parliament, 42-43 Elizabeth II, 1994 |
+| --- | --- |
+
+The House of Commons of Canada # BILL C-291 An Act respecting a national year of the grandparent Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: #### SHORT TITLE Short title **1.** This Act may be cited as the *Grandparent Year Act*. #### GRANDPARENT YEAR Grandparent Year **2.** Throughout Canada, the year 1995 shall be known as the ``Year of the Grandparent''.
