@@ -7,8 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-10 |  | PROJET DE LOI C-10 |
 | An Act to provide borrowing authority for the fiscal year beginning on April 1, 1996 |  | Loi portant pouvoir d'emprunt pour l'exercice 1996-1997 |
-| first reading, March 6, 1996 |  | première lecture le 6 mars 1996 |
-| THE MINISTER OF FINANCE 17968 |  | LE MINISTRE DES FINANCES |
+| AS PASSED BY THE HOUSE OF COMMONSMARCH 21, 1996 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 21 MARS 1996 |
+| 17968 |  |  |
 
 INSIDECOVER
 
@@ -39,8 +39,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-10 |  | PROJET DE LOI C-10 |
 | An Act to provide borrowing authority for the fiscal year beginning on April 1, 1996 |  | Loi portant pouvoir d'emprunt pour l'exercice 1996-1997 |
-| first reading, March 6, 1996 |  | première lecture le 6 mars 1996 |
-| THE MINISTER OF FINANCE17968 |  | LE MINISTRE DES FINANCES |
+| AS PASSEDBY THE HOUSE OF COMMONSMARCH 21, 1996 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 21 MARS 1996 |
+| 17968 |  |  |
 
 INSIDECOVER
 
