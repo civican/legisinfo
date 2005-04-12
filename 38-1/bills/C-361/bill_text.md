@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-361 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-361 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-361 |  | PROJET DE LOI C-361 |
+| An Act to amend the Criminal Code (criminal interest rate) |  | Loi modifiant le Code criminel (taux d'intérêt criminel) |
+| First reading, April 12, 2005 |  | Première lecture le 12 avril 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Criminal Code to change the criminal interest rate set out in section 347 and to include, in the calculation of that interest rate, the charges paid by a person to obtain insurance coverage. | Le texte modifie le Code criminel de façon à changer le taux d'intérêt criminel prévu à l'article 347. Il vise également à inclure, dans le calcul du taux d'intérêt, les frais assumés par l'emprunteur pour souscrire à une police d'assurance. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-361 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-361 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Criminal Code (criminal interest rate) |  | Loi modifiant le Code criminel (taux d'intérêt criminel) |  |  |
+| R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
+|  | 1. The definitions "criminal rate" and "interest" in subsection 347(2) of the Criminal Code are replaced by the following: |  | 1. Les définitions de « intérêt » et « taux criminel », au paragraphe 347(2) du Code criminel, sont respectivement remplacées par ce qui suit : |  |  |
+| "criminal rate" « taux crimi- nel » | "criminal rate" means an effective annual rate of interest on the credit advanced under an agreement or arrangement, calculated in accordance with generally accepted actuarial practices and principles, that exceeds by thirty-five percentage points or more the Target for the Overnight Rate, determined and published by the Bank of Canada, on the day on which the agreement or arrangement is entered into or renewed; |  | « intérêt » L'ensemble des frais de tous genres, y compris les agios, commissions, pénalités et indemnités, qui sont payés ou payables à qui que ce soit par l'emprunteur ou pour son compte, en contrepartie du capital prêté ou à prêter. La présente définition exclut un remboursement de capital prêté, les taxes officielles, les frais pour découvert de compte, le dépôt de garantie et, dans le cas d'un prêt hypothécaire, les sommes destinées à l'acquittement de l'impôt foncier. |  | « intérêt » "interest" |
+| "interest" « intérêt » | "interest" means the aggregate of all charges and expenses, whether in the form of a fee, fine, penalty, commission or other similar charge or expense or in any other form, paid or payable for the advancing of credit under an agreement or arrangement, by or on behalf of the person to whom the credit is or is to be advanced, irrespective of the person to whom any such charges and expenses are or are to be paid or payable, but does not include any repayment of credit advanced or any official fee, overdraft charge, required deposit balance or, in the case of a mortgage transaction, any amount required to be paid on account of property taxes; |  | « taux criminel » Tout taux d'intérêt annuel effectif, appliqué au capital prêté et calculé conformément aux règles et pratiques actuarielles généralement admises, qui, le jour de la conclusion ou du renouvellement de la convention ou de l'entente de prêt, dépasse de trente-cinq points de pourcentage ou plus le taux cible du financement à un jour que la Banque du Canada fixe et publie. |  | « taux crimi- nel » "criminal rate" |
+| Coming into force | 2. This Act comes into force sixty days after the day on which it receives royal assent. |  | 2. La présente loi entre en vigueur soixante jours après la date de sa sanction. |  | Entrée en vigueur |
