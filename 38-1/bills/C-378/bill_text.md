@@ -1,0 +1,23 @@
+NAVIGATION END
+
+| C-378 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-378 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-378 |  | PROJET DE LOI C-378 |
+| An Act to amend the Criminal Code (violent crimes) |  | Loi modifiant le Code criminel (crimes violents) |
+| First reading, May 6, 2005 |  | Première lecture le 6 mai 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Criminal Code and provides that every one who is convicted for the second time of a violent offence shall be sentenced to imprisonment for life. | Le texte modifie le Code criminel et fait en sorte que quiconque est reconnu coupable pour la deuxième fois d'une infraction avec violence doit être condamné à l'emprisonnement à perpétuité. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-378 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-378 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Criminal Code (violent crimes) |  | Loi modifiant le Code criminel (crimes violents) |  |  |
+| R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
+|  | 1. The Criminal Code is amended by adding the following after section 761: |  | 1. Le Code criminel est modifié par adjonction, après l'article 761, de ce qui suit : |  |  |
+| Punishment on second conviction | 761.1 (1) Notwithstanding anything in this Act, every one who is convicted for the second time of one or more offences mentioned in the schedule to this Part shall be sentenced to imprisonment for life. |  | 761.1 (1) Par dérogation à toute autre disposition de la présente loi, quiconque est déclaré coupable pour la deuxième fois de l'une ou l'autre des infractions mentionnées à l'annexe de la présente partie doit être condamné à l'emprisonnement à perpétuité. |  | Peine en deuxième condamnation |
+| Exception | (2) Where more than one offence mentioned in the schedule to this Part is committed in relation to the same set of facts, only one such offence shall be taken into account for the purpose of this section. |  | (2) Pour l'application du présent article, il ne peut être compté plus d'une infraction pour un même ensemble de faits. |  | Exception |
+|  | SCHEDULE TO PART XXIV (Section 761.1) |  | ANNEXE DE LA PARTIE XXIV (article 761.1) |  |  |
+|  | 1. An offence under any of the following provisions of the Criminal Code: (a) section 74 (piracy by law of nations); (b) section 76 (hijacking); (c) section 77 (endangering safety of aircraft or airport); (d) paragraph 81(1)(a) or (b) (using explosives); (e) section 236 (manslaughter); (f) section 238 (killing unborn child in act of birth); (g) section 239 (attempt to commit murder); (h) section 246 (overcoming resistance to commission of offence); (i) section 248 (interfering with transpor­tation facilities); (j) section 273 (aggravated sexual assault); (k) section 279 (kidnapping and forcible confinement); (l) section 279.1 (hostage taking); (m) section 344 (robbery); (n) section 433 (arson — disregard for human life); and (o) paragraph 465(1)(a) (conspiracy to commit murder). |  | 1. Une infraction prévue par l'une des dispositions suivantes du Code criminel : a) article 74 (piraterie d'après le droit des gens); b) article 76 (détournement); c) article 77 (atteinte à la sécurité des aéronefs ou des aéroports); d) alinéa 81(1)a) ou b) (usage d'explosifs); e) article 236 (homicide involontaire coupable); f) article 238 (fait de tuer, au cours de la mise au monde, un enfant non encore né); g) article 239 (tentative de meurtre); h) article 246 (fait de vaincre la résistance à la perpétration d'une infraction); i) article 248 (fait de nuire aux moyens de transport); j) article 273 (agression sexuelle grave); k) article 279 (enlèvement et séquestration); l) article 279.1 (prise d'otage); m) article 344 (vol qualifié); n) article 433 (incendie criminel : danger pour la vie humaine); o) alinéa 465(1)a) (complot en vue de commettre un meurtre). |  |  |
+|  | 2. An offence under section 144 (rape) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 4, 1983. |  | 2. Une infraction prévue à l'article 144 (viol) du Code criminel, chapitre C-34 des Statuts révisés du Canada de 1970, dans sa version antérieure au 4 janvier 1983. |  |  |
