@@ -1,14 +1,10 @@
 COVER
 
-| C-45 |  | C-45 |
+| First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-45 |  | PROJET DE LOI C-45 |
+| STATUTES OF CANADA 2005CHAPTER 21 |  | LOIS DU CANADA (2005)CHAPITRE 21 |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 10, 2005 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 10 MAI 2005 |
-| 90319 |  |  |
+| ASSENTED TO 13th MAY, 2005 BILL C-45 |  | SANCTIONNÉE LE 13 MAI 2005 PROJET DE LOI C-45 |
 
 INSIDECOVER
 
@@ -172,12 +168,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title 1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes. Titre abrégé |  |  |  |  |
@@ -483,21 +479,17 @@ SCHEDULE
 | DISABILITY AWARD |  | INDEMNITÉ D'INVALIDITÉ |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-45SHORT TITLEINTERPRETATIONJOB PLACEMENTREHABILITATION SERVICES, VOCATIONAL ASSISTANCE AND FINANCIAL BENEFITSGeneralRehabilitation Services and Vocational AssistanceEarnings Loss BenefitSupplementary Retirement BenefitCanadian Forces Income Support BenefitPermanent Impairment AllowanceRegulationsDISABILITY, DEATH AND DETENTIONGeneralDisability AwardsDeath BenefitClothing AllowanceRegulationsDetention BenefitGENERALHealth BenefitsDesignationsPowers of MinisterProcedureInspectionSharing of InformationReviewOverpaymentsMiscellaneousRegulationsTRANSITIONAL PROVISIONS, RELATED AND COORDINATING AMENDMENTS AND COMING INTO FORCETransitional ProvisionsRelated AmendmentsChildren of Deceased Veterans Education Assistance ActDepartment of Veterans Affairs ActIncome Tax ActInjured Military Members Compensation ActPension ActCANADIAN FORCES MEMBERS AND VETERANS RE-ESTABLISHMENT AND COMPENSATION ACTRoyal Canadian Mounted Police Superannuation ActVeterans Review and Appeal Board ActPublic Service Employment ActCoordinating AmendmentComing into ForceSchedule 1Schedule 2Schedule 3
+Table of ContentsCoverSummaryTable of ProvisionsBill C-45SHORT TITLEINTERPRETATIONJOB PLACEMENTREHABILITATION SERVICES, VOCATIONAL ASSISTANCE AND FINANCIAL BENEFITSGeneralRehabilitation Services and Vocational AssistanceEarnings Loss BenefitSupplementary Retirement BenefitCanadian Forces Income Support BenefitPermanent Impairment AllowanceRegulationsDISABILITY, DEATH AND DETENTIONGeneralDisability AwardsDeath BenefitClothing AllowanceRegulationsDetention BenefitGENERALHealth BenefitsDesignationsPowers of MinisterProcedureInspectionSharing of InformationReviewOverpaymentsMiscellaneousRegulationsTRANSITIONAL PROVISIONS, RELATED AND COORDINATING AMENDMENTS AND COMING INTO FORCETransitional ProvisionsRelated AmendmentsChildren of Deceased Veterans Education Assistance ActDepartment of Veterans Affairs ActIncome Tax ActInjured Military Members Compensation ActPension ActCANADIAN FORCES MEMBERS AND VETERANS RE-ESTABLISHMENT AND COMPENSATION ACTRoyal Canadian Mounted Police Superannuation ActVeterans Review and Appeal Board ActPublic Service Employment ActCoordinating AmendmentComing into ForceSchedule 1Schedule 2Schedule 3
 
-Bill  C-45Click here for the entire document (677Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-45SHORT TITLEINTERPRETATIONJOB PLACEMENTREHABILITATION SERVICES, VOCATIONAL ASSISTANCE AND FINANCIAL BENEFITSGeneralRehabilitation Services and Vocational AssistanceEarnings Loss BenefitSupplementary Retirement BenefitCanadian Forces Income Support BenefitPermanent Impairment AllowanceRegulationsDISABILITY, DEATH AND DETENTIONGeneralDisability AwardsDeath BenefitClothing AllowanceRegulationsDetention BenefitGENERALHealth BenefitsDesignationsPowers of MinisterProcedureInspectionSharing of InformationReviewOverpaymentsMiscellaneousRegulationsTRANSITIONAL PROVISIONS, RELATED AND COORDINATING AMENDMENTS AND COMING INTO FORCETransitional ProvisionsRelated AmendmentsChildren of Deceased Veterans Education Assistance ActDepartment of Veterans Affairs ActIncome Tax ActInjured Military Members Compensation ActPension ActCANADIAN FORCES MEMBERS AND VETERANS RE-ESTABLISHMENT AND COMPENSATION ACTRoyal Canadian Mounted Police Superannuation ActVeterans Review and Appeal Board ActPublic Service Employment ActCoordinating AmendmentComing into ForceSchedule 1Schedule 2Schedule 3
+Bill C-45Click here for the entire document (675Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-45SHORT TITLEINTERPRETATIONJOB PLACEMENTREHABILITATION SERVICES, VOCATIONAL ASSISTANCE AND FINANCIAL BENEFITSGeneralRehabilitation Services and Vocational AssistanceEarnings Loss BenefitSupplementary Retirement BenefitCanadian Forces Income Support BenefitPermanent Impairment AllowanceRegulationsDISABILITY, DEATH AND DETENTIONGeneralDisability AwardsDeath BenefitClothing AllowanceRegulationsDetention BenefitGENERALHealth BenefitsDesignationsPowers of MinisterProcedureInspectionSharing of InformationReviewOverpaymentsMiscellaneousRegulationsTRANSITIONAL PROVISIONS, RELATED AND COORDINATING AMENDMENTS AND COMING INTO FORCETransitional ProvisionsRelated AmendmentsChildren of Deceased Veterans Education Assistance ActDepartment of Veterans Affairs ActIncome Tax ActInjured Military Members Compensation ActPension ActCANADIAN FORCES MEMBERS AND VETERANS RE-ESTABLISHMENT AND COMPENSATION ACTRoyal Canadian Mounted Police Superannuation ActVeterans Review and Appeal Board ActPublic Service Employment ActCoordinating AmendmentComing into ForceSchedule 1Schedule 2Schedule 3
 
 COVER
 
-| C-45 |  | C-45 |
+| First Session, Thirty-eighth Parliament,53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature,53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-45 |  | PROJET DE LOI C-45 |
+| STATUTES OF CANADA 2005CHAPTER 21 |  | LOIS DU CANADA (2005)CHAPITRE 21 |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |
-| AS PASSEDBY THE HOUSE OF COMMONSMAY 10, 2005 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 10 MAI 2005 |
-| 90319 |  |  |
+| ASSENTED TO13th MAY, 2005BILL C-45 |  | SANCTIONNÉELE 13 MAI 2005PROJET DE LOI C-45 |
 
 INSIDECOVER
 
@@ -667,12 +659,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -743,12 +735,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -819,12 +811,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -895,12 +887,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -971,12 +963,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -1047,12 +1039,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -1123,12 +1115,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
@@ -1199,12 +1191,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-45 |  | PROJET DE LOI C-45 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 21 |  | CHAPITRE 21 |  |  |  |  |
 | An Act to provide services, assistance and compensation to or in respect of Canadian Forces members and veterans and to make amendments to certain Acts |  | Loi prévoyant des services, de l'assistance et des mesures d'indemnisation pour les militaires et vétérans des Forces canadiennes ou à leur égard et modifiant certaines lois |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Canadian Forces Members and Veterans Re-establishment and Compensation Act. |  | 1. Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes.Titre abrégé |  |  |  |  |
