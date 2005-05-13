@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-391 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-391 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-391 |  | PROJET DE LOI C-391 |
+| An Act to recognize and protect Canada's hunting and fishing heritage |  | Loi reconnaissant et protégeant le patrimoine canadien en matière de chasse et de pêche |
+| First reading, May 13, 2005 |  | Première lecture le 13 mai 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| The purpose of this enactment is to protect Canada's hunting and fishing heritage for all Canadians. | Le texte a pour objet de protéger le patrimoine canadien en matière de chasse et de pêche pour tous les Canadiens. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-391 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-391 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to recognize and protect Canada's hunting and fishing heritage |  | Loi reconnaissant et protégeant le patrimoine canadien en matière de chasse et de pêche |  |  |
+| Preamble | Whereas legislation governing inland fisheries is within the jurisdiction of the federal government; Whereas aboriginal people have long relied on hunting and fishing to satisfy their food needs, and have certain rights to hunt and fish that are protected by the Constitution of Canada; Whereas non-aboriginal settlers and pioneers in Canada also depended on hunting and fishing for food; Whereas hunting and fishing are part of Canada's national heritage; Whereas millions of Canadians participate in and enjoy hunting and fishing; And Whereas hunting and fishing contribute significantly to the national economy; Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu : que les lois régissant la pêche intérieure relèvent de la compétence du gouvernement fédéral; que les peuples autochtones ont recours depuis longtemps à la chasse et à la pêche pour satisfaire leurs besoins alimentaires et qu'ils possèdent certains droits de chasse et de pêche protégés par la Constitution du Canada; que les colons et pionniers non autochtones du Canada dépendaient également de la chasse et de la pêche pour se nourrir; que la chasse et la pêche font partie du patrimoine national du Canada; que des millions de Canadiens s'adonnent à la chasse et à la pêche avec agrément; que la chasse et la pêche apportent une contribution appréciable à l'économie canadienne, Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | Préambule |
+| Short title | 1. This Act may be cited as the Heritage Hunting and Fishing Protection Act. |  | 1. Titre abrégé : Loi sur la protection de la chasse et la pêche patrimoniales. |  | Titre abrégé |
+| Declaration | 2. (1) It is declared that there exists and shall continue to exist in Canada the right to fish, subject only to any reasonable limits as may be established by law. |  | 2. (1) Il est déclaré que le droit de pêcher existe et continuera d'exister au Canada, sous réserve seulement des limites raisonnables établies par la loi. |  | Déclaration |
+| Protection of right | (2) No law of Canada shall be construed or applied so as to deprive a person of the right declared in subsection (1). |  | (2) Aucune loi du Canada ne peut avoir pour effet de priver une personne du droit visé au paragraphe (1). |  | Protection du droit de pêche |
+| Negotiations with provinces | 3. The Minister of Canadian Heritage shall enter into discussions with the provinces with a view to securing on behalf of all Canadians their continued right to hunt, subject only to any reasonable limits as may be established by law. |  | 3. Le ministre du Patrimoine canadien doit engager des discussions avec les provinces en vue d'assurer à tous les Canadiens le maintien de leur droit de chasse, sous réserve seulement des limites raisonnables établies par la loi. |  | Négociation avec les provinces |
