@@ -1,14 +1,10 @@
 COVER
 
-| C-33 |  | C-33 |
+| First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-33 |  | PROJET DE LOI C-33 |
+| STATUTES OF CANADA 2005CHAPTER 19 |  | LOIS DU CANADA (2005)CHAPITRE 19 |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |
-| AS PASSED BY THE HOUSE OF COMMONSFEBRUARY 25, 2005 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 25 FÉVRIER 2005 |
-| 90290 |  |  |
+| ASSENTED TO 13th MAY, 2005 BILL C-33 |  | SANCTIONNÉE LE 13 MAI 2005 PROJET DE LOI C-33 |
 
 INSIDECOVER
 
@@ -18,12 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -395,21 +391,17 @@ SCHEDULE
 | LIST OF NAMES OF BANDS, THEIR COUNCILS AND THEIR RESERVES IN QUEBEC |  | NOM DES BANDES ET DES CONSEILS DE BANDE ET DESCRIPTION DES RÉSERVES AU QUÉBEC |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
-Table of ContentsCoverSummaryBill  C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
+Table of ContentsCoverSummaryBill C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
 
-Bill  C-33Click here for the entire document (789Kb)Table of ContentsCoverSummaryBill  C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
+Bill C-33Click here for the entire document (788Kb)Table of ContentsCoverSummaryBill C-33SHORT TITLEAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTAMENDMENTS TO THE FIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS GOODS AND SERVICES TAX ACTFIRST NATIONS SALES TAX — QUEBECInterpretationApplication of Other ActsAdministration AgreementDelegationGeneralAMENDMENTS TO THE INCOME TAX ACT AND CERTAIN OTHER ACTS AS A CONSEQUENCE AND A COORDINATING AMENDMENTIncome Tax ActTAX AND PENALTIES IN RESPECT OF REGISTERED CHARITIESNON-RESIDENT INVESTORS IN CANADIAN MUTUAL FUNDSBudget Implementation Act, 2003Bank ActCooperative Credit Associations ActIncome Tax Conventions Interpretation ActTax Court of Canada ActTrust and Loan Companies ActCo-ordinating AmendmentSchedule 1
 
 COVER
 
-| C-33 |  | C-33 |
+| First Session, Thirty-eighth Parliament,53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature,53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-33 |  | PROJET DE LOI C-33 |
+| STATUTES OF CANADA 2005CHAPTER 19 |  | LOIS DU CANADA (2005)CHAPITRE 19 |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |
-| AS PASSEDBY THE HOUSE OF COMMONSFEBRUARY 25, 2005 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 25 FÉVRIER 2005 |
-| 90290 |  |  |
+| ASSENTED TO13th MAY, 2005BILL C-33 |  | SANCTIONNÉELE 13 MAI 2005PROJET DE LOI C-33 |
 
 INSIDECOVER
 
@@ -423,12 +415,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -662,12 +654,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -901,12 +893,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -1140,12 +1132,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -1379,12 +1371,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -1618,12 +1610,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -1857,12 +1849,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -2096,12 +2088,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -2335,12 +2327,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -2574,12 +2566,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -2813,12 +2805,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -3052,12 +3044,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
@@ -3291,12 +3283,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-33 |  | PROJET DE LOI C-33 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 19 |  | CHAPITRE 19 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on March 23, 2004 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 23 mars 2004 |  |  |  |  |
+| [Assented to 13th May, 2005] |  | [Sanctionnée le 13 mai 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | 1. This Act may be cited as the Budget Implementation Act, 2004, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2004. |  |  |  |  |
