@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-392 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-392 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-392 |  | PROJET DE LOI C-392 |
+| An Act to amend the Canadian Human Rights Act (gender identity) |  | Loi modifiant la Loi canadienne sur les droits de la personne (identité sexuelle) |
+| First reading, May 17, 2005 |  | Première lecture le 17 mai 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| The purpose of this enactment is to include gender identity or expression as a prohibited grounds of discrimination in the Canadian Human Rights Act. | Le texte vise à intégrer l'identité ou l'expression sexuelle à la liste de motifs de distinction illicite énoncés dans la Loi canadienne sur les droits de la personne. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-392 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-392 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Canadian Human Rights Act (gender identity) |  | Loi modifiant la Loi canadienne sur les droits de la personne (identité sexuelle) |  |  |
+| R.S., c. H-6 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. H-6 |
+|  | 1. Section 2 of the Canadian Human Rights Act is replaced by the following: |  | 1. L'article 2 de la Loi canadienne sur les droits de la personne est remplacé par ce qui suit : |  |  |
+| Purpose | 2. The purpose of this Act is to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, marital status, family status, disability or conviction for an offence for which a pardon has been granted. |  | 2. La présente loi a pour objet de compléter la législation canadienne en donnant effet, dans le champ de compétence du Parlement du Canada, au principe suivant : le droit de tous les individus, dans la mesure compatible avec leurs devoirs et obligations au sein de la société, à l'égalité des chances d'épanouisse-ment et à la prise de mesures visant à la satisfaction de leurs besoins, indépendamment des considérations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, l'âge, le sexe, l'orientation sexuelle, l'identité ou l'expression sexuelle, l'état matrimonial, la situation de famille, la déficience ou l'état de personne graciée. |  | Objet |
+|  | 2. Subsection 3(1) of the Act is replaced by the following: |  | 2. Le paragraphe 3(1) de la même loi est remplacé par ce qui suit : |  |  |
+| Prohibited grounds of discrimination | 3. (1) For all purposes of this Act, the prohibited grounds of discrimination are race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or ex- pression, marital status, family status, disability and conviction for which a pardon has been granted. |  | 3. (1) Pour l'application de la présente loi, les motifs de distinction illicite sont ceux qui sont fondés sur la race, l'origine nationale ou ethnique, la couleur, la religion, l'âge, le sexe, l'orientation sexuelle, l'identité ou l'expression sexuelle, l'état matrimonial, la situation de famille, l'état de personne graciée ou la déficience. |  | Motifs de distinction illicite |
