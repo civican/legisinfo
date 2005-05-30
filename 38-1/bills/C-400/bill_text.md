@@ -1,0 +1,20 @@
+NAVIGATION END
+
+| C-400 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-400 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-400 |  | PROJET DE LOI C-400 |
+| An Act to amend the Criminal Code (elimination of conditional sentencing) |  | Loi modifiant le Code criminel (suppression des ordonnances de sursis) |
+| First reading, May 30, 2005 |  | Première lecture le 30 mai 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment provides for the repeal of sections 742 to 742.7 of the Criminal Code and the elimination of cross-references to these sections in other provisions of that Act. Sections 742 to 742.7 allow the courts to impose conditional sentences, which are served in the community, in respect of convictions for offences for which a minimum term of imprisonment is not prescribed. | Le texte abroge les articles 742 à 742.7 du Code criminel ainsi que les renvois à ceux-ci figurant dans d'autres dispositions de cette loi. Les articles visés permettent aux tribunaux de rendre une ordonnance de sursis exigeant que le délinquant purge sa peine au sein de la collectivité dans le cas d'une infraction pour laquelle aucune peine minimale d'emprisonnement n'est prévue. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-400 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-400 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Criminal Code (elimination of conditional sentencing) |  | Loi modifiant le Code criminel (suppression des ordonnances de sursis) |  |  |
+| R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
+|  | 1. Paragraphs (b) and (c) of the definition "sentence" in section 673 of the Criminal Code are replaced by the following: (b) an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1), 194(1) or 259(1) or (2), section 261 or 462.37, subsection 491.1(2), 730(1) or 737(3) or (5) or section 738, 739, 743.6, 745.4, 745.5 or 747.1, (c) a disposition made under section 731 or 732 or subsection 732.2(3) or (5), and |  | 1. Les alinéas b) et c) de la définition de « sentence », « peine » ou « condamnation », à l'article 673 du Code criminel, sont remplacés par ce qui suit : b) l'ordonnance rendue en vertu des paragraphes 109(1) ou 110(1), de l'article 161, des paragraphes 164.2(1), 194(1) ou 259(1) ou (2), des articles 261 ou 462.37, des paragraphes 491.1(2), 730(1) ou 737(3) ou (5) ou des articles 738, 739, 743.6, 745.4, 745.5 ou 747.1; c) la décision prise en vertu des articles 731 ou 732 ou des paragraphes 732.2(3) ou (5); |  |  |
+|  | 2. The heading before section 742 and sections 742 to 742.7 of the Act are repealed. |  | 2. L'intertitre précédant l'article 742 et les articles 742 à 742.7 de la même loi sont abrogés. |  |  |
+|  | 3. Paragraphs (b) and (c) of the definition "sentence" in section 785 of the Act are replaced by the following: (b) an order made under subsection 109(1), 110(1) or 259(1) or (2), section 261, subsection 730(1) or 737(3) or (5) or section 738 or 739, (c) a disposition made under section 731 or 732 or subsection 732.2(3) or (5), and |  | 3. Les alinéas b) et c) de la définition de « sentence », « peine » ou « condamnation », à l'article 785 de la même loi, sont remplacés par ce qui suit : b) les ordonnances rendues en vertu des paragraphes 109(1), 110(1) ou 259(1) ou (2), de l'article 261, des paragraphes 730(1) ou 737(3) ou (5) ou des articles 738 ou 739; c) la décision prise en vertu des articles 731 ou 732 ou des paragraphes 732.2(3) ou (5); |  |  |
