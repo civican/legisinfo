@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-417 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-417 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-417 |  | PROJET DE LOI C-417 |
+| An Act to amend the Public Service Employment Act and the Public Service Employment Act enacted by section 12 of chapter 22 of the Statutes of Canada, 2003 (area of selection) |  | Loi modifiant la Loi sur l'emploi dans la fonction publique et la Loi sur l'emploi dans la fonction publique édictée par l'article 12 du chapitre 22 des Lois du Canada (2003) (zone de sélection) |
+| First reading, June 22, 2005 |  | Première lecture le 22 juin 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Public Service Employment Act, and the Act that will replace it, to enhance Canadians' access to Public Service jobs in the National Capital Region by removing geographic limits to selection processes conducted by the Public Service Commission. | Le texte modifie la Loi sur l'emploi dans la fonction publique, ainsi que la loi qui la remplacera, afin d'améliorer l'accès des Canadiens aux postes de la fonction publique situés dans la région de la capitale nationale grâce à l'élimination des restrictions géographiques de la procédure de sélection appliquée par la Commission de la fonction publique. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-417 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-417 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Public Service Employment Act and the Public Service Employment Act enacted by section 12 of chapter 22 of the Statutes of Canada, 2003 (area of selection) |  | Loi modifiant la Loi sur l'emploi dans la fonction publique et la Loi sur l'emploi dans la fonction publique édictée par l'article 12 du chapitre 22 des Lois du Canada (2003) (zone de sélection) |  |  |
+| R.S., c. P-33 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. P-33 |
+|  | 1. Section 13 of the Public Service Employment Act is amended by adding the following after subsection (2): |  | 1. L'article 13 de la Loi sur l'emploi dans la fonction publique est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |
+| No geographic limits for positions in National Capital Region | (3) Despite subsections (1) and (2), the Commission may not use geographic criteria to determine a person's eligibility for appoint- ment to a position that is located in the National Capital Region, as described in the schedule to the National Capital Act. |  | (3) Malgré les paragraphes (1) et (2), la Commission ne peut soumettre à des critères géographiques l'admissibilité d'une personne à un poste situé dans la région de la capitale nationale définie à l'annexe de la Loi sur la capitale nationale. |  | Postes dans la région de la capitale nationale — pas de restrictions géographiques |
+|  | 2. Section 34 of the Public Service Employment Act enacted by section 12 of chapter 22 of the Statutes of Canada, 2003, is amended by adding the following after subsection (2): |  | 2. L'article 34 de la Loi sur l'emploi dans la fonction publique, édictée par l'article 12 du chapitre 22 des Lois du Canada (2003), est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |
+| No geographic limits for positions in National Capital Region | (3) Despite subsections (1) and (2), the Commission may not use geographic criteria to determine a person's eligibility for appoint- ment to a position that is located in the National Capital Region, as described in the schedule to the National Capital Act. |  | (3) Malgré les paragraphes (1) et (2), la Commission ne peut soumettre à des critères géographiques l'admissibilité d'une personne à un poste situé dans la région de la capitale nationale définie à l'annexe de la Loi sur la capitale nationale. |  | Postes dans la région de la capitale nationale — pas de restrictions géographiques |
