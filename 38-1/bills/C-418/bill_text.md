@@ -1,0 +1,19 @@
+NAVIGATION END
+
+| C-418 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-418 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-418 |  | PROJET DE LOI C-418 |
+| An Act to amend the Income Tax Act (vitamins) |  | Loi modifiant la Loi de l'impôt sur le revenu (vitamines) |
+| First reading, June 27, 2005 |  | Première lecture le 27 juin 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| The purpose of this enactment is to expand the list of allowable medical expense deductions in the Income Tax Act to include expenses incurred for vitamins, supplements, vitamin supplements, mineral supplements, dietary vitamin supplements or dietary mineral supplements. | Le texte vise à élargir la liste des frais médicaux déductibles aux termes de la Loi de l'impôt sur le revenu afin d'y inclure les frais payés pour les vitamines, suppléments, suppléments vitaminiques, suppléments minéraux, suppléments vitaminiques alimentaires et suppléments miné-raux alimentaires. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-418 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-418 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Income Tax Act (vitamins) |  | Loi modifiant la Loi de l'impôt sur le revenu (vitamines) |  |  |
+| R.S., c.1 (5th Supp.) | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch.1 (5e suppl.) |
+|  | 1. Paragraph 118.2(2)(n) of the Income Tax Act is replaced by the following: (n) for vitamins, supplements, vitamin supplements, mineral supplements, dietary vitamin supplements or dietary mineral supplements, drugs, medicaments or other preparations or substances (other than those described in paragraph (k)), manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist; |  | 1. L'alinéa 118.2(2)n) de la Loi de l'impôt sur le revenu est remplacé par ce qui suit : n) pour les vitamines, suppléments, supplé-ments vitaminiques, suppléments minéraux, suppléments vitaminiques alimentaires ou suppléments minéraux alimentaires, les médicaments, les produits pharmaceutiques et les autres préparations ou substances ― sauf s'ils sont déjà visés à l'alinéa k) ― qui sont, d'une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affec-tion, d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d'autre part, achetés afin d'être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a), sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien; |  |  |
+|  | 2. Subsection 221(1) of the Act is amended by adding the following after paragraph (a): (a.1) defining "vitamin", "supplement", "vi-tamin supplement", "mineral supplement", "dietary vitamin supplement" and "dietary mineral supplement" for the purposes of paragraph 118.2(2)(n); |  | 2. Le paragraphe 221(1) de la même loi est modifié par adjonction, après l'alinéa a), de ce qui suit : a.1) définir les termes « vitamine », « sup-plément », « supplément vitaminique », « supplément minéral », « supplément vita-minique alimentaire » et « supplément mi-néral alimentaire » pour l'application de l'alinéa 118.2(2)n); |  |  |
