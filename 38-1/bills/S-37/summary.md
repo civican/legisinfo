@@ -1,0 +1,210 @@
+# Bill S-37: An Act to amend the Criminal Code and the Cultural Property Export and Import Act
+
+- **Current Status**: Royal assent received
+- **Sponsor**: Jacob Austin
+- **Latest Activity**: Royal assent (at 2005-11-25T09:00:00)
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
