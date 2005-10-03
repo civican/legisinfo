@@ -1,0 +1,21 @@
+NAVIGATION END
+
+| C-421 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-421 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-421 |  | PROJET DE LOI C-421 |
+| An Act to amend the Employment Insurance Act (single qualification period and benefit period increase for workers 45 years of age or more) |  | Loi modifiant la Loi sur l'assurance-emploi (période de référence unique et majoration de la période de prestations pour les prestataires âgés de 45 ans ou plus) |
+| First reading, October 3, 2005 |  | Première lecture le 3 octobre 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Employment Insurance Act to remove the different qualification period for new entrants and re-entrants into the labour force. It also increases the benefit period for claimants who are laid off permanently after 10 years or more in the labour force and are over 45 years of age. | Le texte modifie la Loi sur l'assurance-emploi en supprimant la période de référence différente à l'égard des personnes qui deviennent ou qui redeviennent membres de la population active. Il augmente aussi la durée de la période de prestations pour les prestataires âgés de 45 ans ou plus qui sont licenciés après avoir fait partie de la population active depuis au moins dix ans. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-421 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-421 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Employment Insurance Act (single qualification period and benefit period increase for workers 45 years of age or more) |  | Loi modifiant la Loi sur l'assurance-emploi (période de référence unique et majoration de la période de prestations pour les prestataires âgés de 45 ans ou plus) |  |  |
+| 1996, c. 23 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | 1996, ch. 23 |
+|  | 1. Subsections 7(1) to (5) of the Employment Insurance Act are replaced by the following: |  | 1. Les paragraphes 7(1) à (5) de la Loi sur l'assurance-emploi sont remplacés par ce qui suit : |  |  |
+| Qualification requirement | 7. (1) An insured person qualifies if the person (a) has had an interruption of earnings from employment; and (b) has had during their qualifying period at least the lesser of (i) 350 hours of insurable employment, and (ii) 20 weeks of insurable employment of not less than 15 hours a week. |  | 7. (1) L'assuré remplit les conditions requises si, à la fois : a) il y a eu arrêt de la rémunération provenant de son emploi; b) il a cumulé, au cours de sa période de référence, au moins la plus courte des deux périodes suivantes : (i) 350 heures d'emploi assurable, (ii) 20 semaines d'emploi assurable d'au moins 15 heures chacune. |  | Conditions requises |
+|  | 2. Section 10 of the Act is amended by adding the following after subsection (2): |  | 2. L'article 10 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |
+| Permanent layoffs | (2.1) The maximum period of 52 weeks established by subsection (2) shall be increased, on one occasion only, by 2 weeks for every year that a claimant has been in the labour force, up to a maximum of 13 years, where the claimant (a) becomes unemployed as a result of a permanent layoff by an employer; (b) has been in the labour force for 10 years or more; and (c) is 45 years of age or more. |  | (2.1) La période maximale de cinquante-deux semaines visée au paragraphe (2) est majorée une seule fois de deux semaines pour chaque année, jusqu'à concurrence de treize années, pendant laquelle le prestataire faisait partie de la population active, s'il s'agit d'un prestataire qui, à la fois : a) perd son emploi à la suite de son licenciement par l'employeur; b) faisait partie de la population active depuis au moins 10 ans; c) est âgé de 45 ans ou plus. |  | Licenciements |
