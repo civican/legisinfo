@@ -1,0 +1,19 @@
+NAVIGATION END
+
+| C-428 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-428 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-428 |  | PROJET DE LOI C-428 |
+| An Act to protect and maintain orders, decorations and medals for future generations |  | Loi visant la conservation et la protection d'ordres, de décorations et de médailles pour les générations futures |
+| First reading, October 7, 2005 |  | Première lecture le 7 octobre 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| The purpose of this enactment is to give the Government of Canada, through the Canadian Museum of Civilization, the Canadian War Museum and the Department of Canadian Heritage, the right of first refusal to purchase at fair market value, before they are transferred or disposed of, insignias of orders, decorations and medals awarded under the authority of Her Majesty. | Le texte a pour objet de donner au gouvernement du Canada, par l'entremise du Musée canadien des civilisations, du Musée canadien de la guerre et du ministère du Patrimoine canadien, le droit de premier refus d'acheter à leur juste valeur marchande les insignes d'ordres, de décorations et de médailles décernés dans le cadre des attributions de Sa Majesté avant qu'ils ne soient transférés ou aliénés. |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-428 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-428 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to protect and maintain orders, decorations and medals for future generations |  | Loi visant la conservation et la protection d'ordres, de décorations et de médailles pour les générations futures |  |  |
+|  | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |
+| Transfer or disposal | 1. No person shall transfer or dispose of an insignia of an order, decoration or medal awarded under the authority of Her Majesty in right of Canada unless the person has given the right of first refusal to the Government of Canada by submitting to the Canadian Museum of Civilization, the Canadian War Museum or the Department of Canadian Heritage an unconditional offer for sale of the insignia at fair market value, and (a) the person has received written confirmation from the Museum or the Department that it declines the offer; or (b) the Museum or the Department has not accepted the offer within sixty days after receiving it. |  | 1. Nul ne peut transférer ou aliéner l'insigne d'un ordre, d'une décoration ou d'une médaille décerné par Sa Majesté du chef du Canada, sauf s'il a concédé le droit de premier refus au gouvernement du Canada en présentant au Musée canadien des civilisations, au Musée canadien de la guerre ou au ministère du Patrimoine canadien une offre inconditionnelle de vente de l'insigne à sa juste valeur marchande et que, selon le cas : a) le Musée ou le ministère lui a fait parvenir une confirmation écrite qu'il décline l'offre; b) le Musée ou le ministère n'a pas accepté l'offre dans les soixante jours suivant sa réception. |  | Transfert ou aliénation |
+| Punishment | 2. Every person who contravenes section 1 (a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or (b) is guilty of an offence punishable on summary conviction. |  | 2. Quiconque contrevient à l'article 1 commet : a) soit un acte criminel passible d'un emprisonnement maximal de deux ans; b) soit une infraction punissable sur déclaration de culpabilité par procédure sommaire. |  | Peine |
