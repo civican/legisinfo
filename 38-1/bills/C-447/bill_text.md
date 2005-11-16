@@ -1,0 +1,22 @@
+NAVIGATION END
+
+| C-447 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-447 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| --- | --- | --- |
+| house of Commons OF CANADA |  | chambre des communes DU CANADA |
+| BILL C-447 |  | PROJET DE LOI C-447 |
+| An Act to amend the Criminal Code (use of hand-held cellular telephone while operating a motor vehicle) |  | Loi modifiant le Code criminel (utilisation d'un téléphone cellulaire portatif pendant la conduite d'un véhicule à moteur) |
+| First reading, November 16, 2005 |  | Première lecture le 16 novembre 2005 |
+
+| Summary | Sommaire |
+| --- | --- |
+| This enactment amends the Criminal Code to make it an offence to use a hand-held cellular telephone while operating a motor vehicle on a highway. Section 2 of the Criminal Code specifies that "highway" means "a road to which the public has the right of access, and includes bridges over which or tunnels through which a road passes". | Le texte modifie le Code criminel afin d'ériger en infraction l'utilisation d'un téléphone cellulaire portatif pendant la conduite d'un véhicule à moteur sur une voie publique. L'article 2 du Code criminel précise que « voie publique » s'entend d'un « chemin auquel le public a droit d'accès, y compris les ponts ou tunnels situés sur le parcours d'un chemin ». |
+
+|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-447 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-447 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | An Act to amend the Criminal Code (use of hand-held cellular telephone while operating a motor vehicle) |  | Loi modifiant le Code criminel (utilisation d'un téléphone cellulaire portatif pendant la conduite d'un véhicule à moteur) |  |  |
+| R.S., c. C-46 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | L.R., ch. C-46 |
+|  | 1. The Criminal Code is amended by adding the following after section 252: |  | 1. Le Code criminel est modifié par adjonction, après l'article 252, de ce qui suit : |  |  |
+| Definition of "hand-held cellular telephone" | 252.1 (1) In this section, "hand-held cellular telephone" means a cellular telephone the use of which requires that it be placed close to the mouth and ear by being held in the hand or by any other means that requires the use of one or more parts of the body, but does not include a cellular telephone that is being used with an external speaker or with an earphone and microphone. |  | 252.1 (1) Dans le présent article, « téléphone cellulaire portatif » s'entend d'un téléphone cellulaire que l'usager place près de la bouche et de l'oreille en le tenant d'une main ou par tout autre moyen exigeant l'utilisation d'une ou de plusieurs parties du corps. Est exclu de la présente définition le téléphone cellulaire utilisé avec un haut-parleur externe ou avec un écouteur et un microphone. |  | Définition de « téléphone cellulaire portatif » |
+| Use of hand-held cellular telephones | (2) Every person commits an offence who uses a hand-held cellular telephone while operating a motor vehicle on a highway. |  | (2) Commet une infraction quiconque utilise un téléphone cellulaire portatif pendant qu'il conduit un véhicule à moteur sur une voie publique. |  | Utilisation d'un téléphone cellulaire portatif |
+| Punishment | (3) Every person who commits an offence under subsection (2) is guilty of an offence and liable on summary conviction (a) for a first offence, to a fine of not more than five hundred dollars; and (b) for a second or subsequent offence, to a fine of not more than two thousand dollars or to imprisonment for a term of not more than six months, or to both. |  | (3) Quiconque commet l'infraction prévue au paragraphe (2) est coupable d'une infraction et passible, sur déclaration de culpabilité par procédure sommaire : a) s'il s'agit d'une première infraction, d'une amende maximale de cinq cents dollars; |  | Peine |
+|  |  |  | b) en cas de récidive, d'une amende maximale de deux mille dollars et d'un emprisonnement maximal de six mois, ou de l'une de ces peines. |  |  |
