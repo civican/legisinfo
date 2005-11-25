@@ -1,11 +1,11 @@
 NAVIGATION END
 
-| C-331 First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | C-331 Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
+| First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| house of Commons OF CANADA |  | chambre des communes DU CANADA |
-| BILL C-331 |  | PROJET DE LOI C-331 |
+| STATUTES OF CANADA 2005 |  | lOIS DU Canada (2005) |
+| CHAPTER 52 |  | CHAPITRE 52 |
 | An Act to acknowledge that persons of Ukrainian origin were interned in Canada during the First World War and to provide for recognition of this event |  | Loi visant à reconnaître l'internement de personnes d'origine ukrainienne au Canada pendant la Première Guerre mondiale et à en rappeler le souvenir |
-| AS PASSED BY THE HOUSE OF COMMONS NOVEMBER 23, 2005 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNES LE 23 NOVEMBRE 2005 |
+| ASSENTED TO 25th NOVEMBER, 2005 BILL C-331 |  | SANCTIONNÉE LE 25 NOVEMBRE 2005 PROJET DE LOI C-331 |
 
 | Summary | Sommaire |
 | --- | --- |
@@ -13,7 +13,7 @@ NAVIGATION END
 | The enactment provides for negotiations to take place between the Government of Canada and certain specified Ukrainian-Canadian organizations in respect of measures that may be taken to recognize the internment. These measures may include the installation of commemorative plaques as well as public education initiatives. | Il prévoit la tenue de négociations entre le gouvernement du Canada et certaines organisations ukrainiennes-canadiennes concernant les mesures qui peuvent être prises pour reconnaître cet internement, notamment l'installation de plaques commémoratives et la mise sur pied de projets de sensibilisation du public. |
 | The enactment also allows a request to be made to the Canada Post Corporation for the issue of a commemorative stamp or set of stamps. | Le texte autorise en outre la présentation d'une demande à la Société canadienne des postes en vue de l'émission d'un timbre-poste ou d'un jeu de timbres-poste commémoratifs. |
 
-|  | 1st Session, 38th Parliament, 53-54 Elizabeth II, 2004-2005 House of Commons of Canada Bill C-331 |  | 1re session, 38e législature, 53-54 Elizabeth II, 2004-2005 Chambre des communes du Canada Projet de loi C-331 |  |  |
+|  | 53-54 ELIZABETH II _________ CHAPTER 52 |  | 53-54 ELIZABETH II _________ CHAPITRE 52 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | An Act to acknowledge that persons of Ukrainian origin were interned in Canada during the First World War and to provide for recognition of this event |  | Loi visant à reconnaître l'internement de personnes d'origine ukrainienne au Canada pendant la Première Guerre mondiale et à en rappeler le souvenir |  |  |
 | Preamble | Whereas, during the First World War, persons of Ukrainian origin were interned in Canada under the authority of an Act of Parliament; Whereas Parliament wishes to express its deep sorrow for those events; And Whereas Parliament acknowledges that those events are deserving of recognition through public education and the promotion of the shared values of multiculturalism, inclusion and mutual respect; Now, Therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu : que des personnes d'origine ukrainienne ont été internées au Canada pendant la Première Guerre mondiale sous le régime d'une loi fédérale; que le Parlement déplore ces événements; qu'il reconnaît que le souvenir de ces événements mérite d'être rappelé au moyen de mesures destinées à éduquer le public et à promouvoir le multiculturalisme, l'intégra­tion et le respect mutuel en tant que valeurs communes, Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  | Préambule |
