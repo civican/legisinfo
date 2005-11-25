@@ -1,14 +1,10 @@
 COVER
 
-| C-57 |  | C-57 |
+| First Session, Thirty-eighth Parliament, 53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature, 53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-57 |  | PROJET DE LOI C-57 |
+| STATUTES OF CANADA 2005CHAPTER 54 |  | LOIS DU CANADA (2005)CHAPITRE 54 |
 | An Act to amend certain Acts in relation to financial institutions |  | Loi modifiant certaines lois relatives aux institutions financières |
-| AS PASSED BY THE HOUSE OF COMMONSNOVEMBER 23, 2005 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 23 NOVEMBRE 2005 |
-| 90335 |  |  |
+| ASSENTED TO 25th NOVEMBER, 2005 BILL C-57 |  | SANCTIONNÉE LE 25 NOVEMBRE 2005 PROJET DE LOI C-57 |
 
 INSIDECOVER
 
@@ -18,12 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-57 |  | PROJET DE LOI C-57 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 54 |  | CHAPITRE 54 |  |  |  |  |
 | An Act to amend certain Acts in relation to financial institutions |  | Loi modifiant certaines lois relatives aux institutions financières |  |  |  |  |
+| [Assented to 25th November, 2005] |  | [Sanctionnée le 25 novembre 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | 1991, c. 46 BANK ACT |  | LOI SUR LES BANQUES 1991, ch. 46 |  |  |  |  |
 | 1. (1) The definitions "form of proxy" and "proxy" in section 2 of the Bank Act are replaced by the following: |  | 1. (1) Les définitions de « formulaire de procuration » et « procuration », à l'article 2 de la Loi sur les banques, sont respectivement remplacées par ce qui suit : |  |  |  |  |
@@ -1780,21 +1776,17 @@ SCHEDULE
 | as at April 26, 2005 |  | au 26 avril 2005 |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
-Table of ContentsCoverSummaryBill  C-57BANK ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsInsidersProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOOPERATIVE CREDIT ASSOCIATIONS ACTCivil remediesProspectusDOCUMENTS IN ELECTRONIC OR OTHER FORMGREEN SHIELD CANADA ACTINSURANCE COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsAdjustable PoliciesGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMTRUST AND LOAN COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOMING INTO FORCESchedule 1Schedule 2Schedule 3
+Table of ContentsCoverSummaryBill C-57BANK ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsInsidersProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOOPERATIVE CREDIT ASSOCIATIONS ACTCivil remediesProspectusDOCUMENTS IN ELECTRONIC OR OTHER FORMGREEN SHIELD CANADA ACTINSURANCE COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsAdjustable PoliciesGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMTRUST AND LOAN COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOMING INTO FORCESchedule 1Schedule 2Schedule 3
 
-Bill  C-57Click here for the entire document (3232Kb)Table of ContentsCoverSummaryBill  C-57BANK ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsInsidersProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOOPERATIVE CREDIT ASSOCIATIONS ACTCivil remediesProspectusDOCUMENTS IN ELECTRONIC OR OTHER FORMGREEN SHIELD CANADA ACTINSURANCE COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsAdjustable PoliciesGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMTRUST AND LOAN COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOMING INTO FORCESchedule 1Schedule 2Schedule 3
+Bill C-57Click here for the entire document (3231Kb)Table of ContentsCoverSummaryBill C-57BANK ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsInsidersProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOOPERATIVE CREDIT ASSOCIATIONS ACTCivil remediesProspectusDOCUMENTS IN ELECTRONIC OR OTHER FORMGREEN SHIELD CANADA ACTINSURANCE COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsAdjustable PoliciesGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMTRUST AND LOAN COMPANIES ACTCivil remediesProspectusGoing-private Transactions and Squeeze-out TransactionsDOCUMENTS IN ELECTRONIC OR OTHER FORMCOMING INTO FORCESchedule 1Schedule 2Schedule 3
 
 COVER
 
-| C-57 |  | C-57 |
+| First Session, Thirty-eighth Parliament,53-54 Elizabeth II, 2004-2005 |  | Première session, trente-huitième législature,53-54 Elizabeth II, 2004-2005 |
 | --- | --- | --- |
-| First Session, Thirty-eighth Parliament, |  | Première session, trente-huitième législature, |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-57 |  | PROJET DE LOI C-57 |
+| STATUTES OF CANADA 2005CHAPTER 54 |  | LOIS DU CANADA (2005)CHAPITRE 54 |
 | An Act to amend certain Acts in relation to financial institutions |  | Loi modifiant certaines lois relatives aux institutions financières |
-| AS PASSEDBY THE HOUSE OF COMMONSNOVEMBER 23, 2005 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 23 NOVEMBRE 2005 |
-| 90335 |  |  |
+| ASSENTED TO25th NOVEMBER, 2005BILL C-57 |  | SANCTIONNÉELE 25 NOVEMBRE 2005PROJET DE LOI C-57 |
 
 INSIDECOVER
 
@@ -1808,12 +1800,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-57 |  | PROJET DE LOI C-57 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 54 |  | CHAPITRE 54 |  |  |  |  |
 | An Act to amend certain Acts in relation to financial institutions |  | Loi modifiant certaines lois relatives aux institutions financières |  |  |  |  |
+| [Assented to 25th November, 2005] |  | [Sanctionnée le 25 novembre 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | 1991, c. 46BANK ACT |  | LOI SUR LES BANQUES1991, ch. 46 |  |  |  |  |
 | 1. (1) The definitions "form of proxy" and "proxy" in section 2 of the Bank Act are replaced by the following: |  | 1. (1) Les définitions de « formulaire de procuration » et « procuration », à l'article 2 de la Loi sur les banques, sont respectivement remplacées par ce qui suit : |  |  |  |  |
@@ -2019,12 +2011,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 38th Parliament, |  | 1re session, 38e législature, |  |  |  |  |
+| 53-54 ELIZABETH II |  | 53-54 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 53-54 Elizabeth II, 2004-2005 |  | 53-54 Elizabeth II, 2004-2005 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-57 |  | PROJET DE LOI C-57 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 54 |  | CHAPITRE 54 |  |  |  |  |
 | An Act to amend certain Acts in relation to financial institutions |  | Loi modifiant certaines lois relatives aux institutions financières |  |  |  |  |
+| [Assented to 25th November, 2005] |  | [Sanctionnée le 25 novembre 2005] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | 1991, c. 46BANK ACT |  | LOI SUR LES BANQUES1991, ch. 46 |  |  |  |  |
 | 1. (1) The definitions "form of proxy" and "proxy" in section 2 of the Bank Act are replaced by the following: |  | 1. (1) Les définitions de « formulaire de procuration » et « procuration », à l'article 2 de la Loi sur les banques, sont respectivement remplacées par ce qui suit : |  |  |  |  |
