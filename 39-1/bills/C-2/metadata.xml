@@ -1,0 +1,3537 @@
+<Bills>
+  <Bill>
+    <Id>2158135</Id>
+    <NumberCode>C-2</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>2</Number>
+    <LongTitleEn>An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability</LongTitleEn>
+    <LongTitleFr>Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation</LongTitleFr>
+    <LongTitle>An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability</LongTitle>
+    <ShortTitleEn>Federal Accountability Act</ShortTitleEn>
+    <ShortTitleFr>Loi fédérale sur la responsabilité</ShortTitleFr>
+    <ShortTitle>Federal Accountability Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2006-12-12T00:00:31</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35676</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>John</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Baird</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>John Baird</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>President of the Treasury Board</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>président du Conseil du Trésor</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>President of the Treasury Board</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>455</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Ottawa West—Nepean</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Ottawa-Ouest—Nepean</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Ottawa West—Nepean</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2006-12-12T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>60</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2006-04-11T10:06:18</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2006-04-27T17:02:18</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2006-06-21T23:00:24</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2006-06-22T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2006-06-27T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2006-11-09T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2006-12-12T00:00:31</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2006</StatuteYear>
+    <StatuteChapter>9</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-04-11T10:06:18</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>7</Number>
+          <Date>2006-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2006-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2006-04-11T10:06:18</EventStartDateTime>
+          <EventEndDateTime>2006-04-11T10:06:18</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-04-11T10:06:18</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-04-27T17:02:18</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+          <StudyActivityId>1510225</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>9</Number>
+          <Date>2006-04-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>10</Number>
+          <Date>2006-04-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>11</Number>
+          <Date>2006-04-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1509378</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>2160820</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to a committee - LEG</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi à un comité  - LEG</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to a committee - LEG</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2006-04-27T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>11</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2006-04-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2006-04-27T17:02:18</EventStartDateTime>
+          <EventEndDateTime>2006-04-27T17:02:18</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-04-27T17:02:18</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>9</MeetingNumber>
+          <SpeechDateTime>2006-04-25T10:11:01</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#OOB-1506795</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-9/hansard#OOB-1506795</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#OOB-1506795</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1506803</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1822</PersonId>
+          <PersonOfficialFirstName>Stephen</PersonOfficialFirstName>
+          <PersonOfficialLastName>Owen</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Stephen Owen</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>9</MeetingNumber>
+          <SpeechDateTime>2006-04-25T10:37:22</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#Int-1506803</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-9/hansard#Int-1506803</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#Int-1506803</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1506835</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>409</PersonId>
+          <PersonOfficialFirstName>Benoît</PersonOfficialFirstName>
+          <PersonOfficialLastName>Sauvageau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Benoît Sauvageau</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>9</MeetingNumber>
+          <SpeechDateTime>2006-04-25T11:08:09</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#Int-1506835</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-9/hansard#Int-1506835</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#Int-1506835</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1506896</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1174</PersonId>
+          <PersonOfficialFirstName>Pat</PersonOfficialFirstName>
+          <PersonOfficialLastName>Martin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pat Martin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>9</MeetingNumber>
+          <SpeechDateTime>2006-04-25T11:34:59</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#Int-1506896</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-9/hansard#Int-1506896</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-9/hansard#Int-1506896</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2006-06-16T13:52:09</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+          <StudyActivityId>1510225</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>42</Number>
+          <Date>2006-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>1</Number>
+          <Date>2006-05-03T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2006-05-04T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2006-05-09T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2006-05-09T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>5</Number>
+          <Date>2006-05-10T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2006-05-11T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2006-05-16T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2006-05-16T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2006-05-17T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2006-05-18T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2006-05-29T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2006-05-29T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2006-05-30T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2006-05-30T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2006-05-30T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2006-05-31T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2006-05-31T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2006-06-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2006-06-05T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2006-06-07T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2006-06-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2006-06-12T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2006-06-12T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2006-06-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2006-06-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2006-06-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2006-06-14T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10825</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-2</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-2</CommitteeNameFr>
+          <CommitteeAcronym>CC2</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2006-06-14T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-2</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2006-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>2284925</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2006-06-16T13:52:09</EventStartDateTime>
+          <EventEndDateTime>2006-06-16T13:52:09</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-16T13:52:09</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-21T15:46:07</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>44</Number>
+          <Date>2006-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>45</Number>
+          <Date>2006-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage with further amendments</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport avec d'autres amendements</EventNameFr>
+          <EventName>Concurrence at report stage with further amendments</EventName>
+          <EventDateTime>2006-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2006-06-21T15:46:07</EventStartDateTime>
+          <EventEndDateTime>2006-06-21T15:46:07</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-21T15:46:07</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-21T23:00:24</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>45</Number>
+          <Date>2006-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1614824</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>2160822</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2006-06-21T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>45</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2006-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2006-06-21T23:00:24</EventStartDateTime>
+          <EventEndDateTime>2006-06-21T23:00:24</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-21T23:00:24</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-22T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>27</Number>
+          <Date>2006-06-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2006-06-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2006-06-22T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-06-22T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-22T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>27</Number>
+          <Date>2006-06-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>28</Number>
+          <Date>2006-06-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2006-06-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2006-06-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2006-06-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-06-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>27</MeetingNumber>
+          <SpeechDateTime>2006-06-22T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/391/debates/027db_2006-06-22-e#78</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/391/debates/027db_2006-06-22-f#80</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/391/debates/027db_2006-06-22-e#78</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>27</MeetingNumber>
+          <SpeechDateTime>2006-06-22T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/391/debates/028db_2006-06-27-e#36</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/391/debates/028db_2006-06-27-f#36</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/391/debates/028db_2006-06-27-e#36</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2006-10-26T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>41</Number>
+          <Date>2006-10-26T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2006-06-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2006-06-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2006-06-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2006-09-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2006-09-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2006-09-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2006-09-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2006-09-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2006-09-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2006-09-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2006-09-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2006-09-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2006-09-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2006-09-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2006-09-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2006-09-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2006-09-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2006-09-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2006-09-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2006-09-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2006-09-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2006-09-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2006-09-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2006-10-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2006-10-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2006-10-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2006-10-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2006-10-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2006-10-24T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2006-10-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2006-10-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With 156 amendments and observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec 156 amendements et des observations</AdditionalInformationFr>
+          <AdditionalInformation>With 156 amendments and observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2006-10-26T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-10-26T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-10-26T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-11-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>42</Number>
+          <Date>2006-10-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>43</Number>
+          <Date>2006-10-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>44</Number>
+          <Date>2006-11-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>45</Number>
+          <Date>2006-11-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>46</Number>
+          <Date>2006-11-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>47</Number>
+          <Date>2006-11-06T00:00:00</Date>
+          <AdditionalInformationEn>Report amended</AdditionalInformationEn>
+          <AdditionalInformationFr>Rapport modifié</AdditionalInformationFr>
+          <AdditionalInformation>Report amended</AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted as amended</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité tel que modifié</EventNameFr>
+          <EventName>Committee report adopted as amended</EventName>
+          <EventDateTime>2006-11-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2006-11-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-11-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-11-06T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-11-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>48</Number>
+          <Date>2006-11-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>49</Number>
+          <Date>2006-11-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>50</Number>
+          <Date>2006-11-09T00:00:00</Date>
+          <AdditionalInformationEn>2 amendments adopted at 3rd reading stage + 1 amendment to committee report</AdditionalInformationEn>
+          <AdditionalInformationFr>2 amendements adoptés à l'étape de la 3e lecture + 1 amendement au rapport du comité</AdditionalInformationFr>
+          <AdditionalInformation>2 amendments adopted at 3rd reading stage + 1 amendment to committee report</AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2006-11-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with 158  amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec 158 amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with 158  amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2006-11-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-11-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-11-09T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-11-23T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Referral to committee</NameEn>
+          <NameFr>Renvoi en comité</NameFr>
+          <Name>Referral to committee</Name>
+          <Number>53</Number>
+          <Date>2006-11-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2006-11-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Message from House of Commons Referred to Committee</AdditionalInformationEn>
+          <AdditionalInformationFr>Message de la Chambre des communes renvoyé au comité</AdditionalInformationFr>
+          <AdditionalInformation>Message from House of Commons Referred to Committee</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60123</EventTypeId>
+          <EventTypeNameEn>Referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Referral to committee</EventTypeName>
+          <EventStartDateTime>2006-11-23T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-11-23T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-11-23T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2006-12-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>58</Number>
+          <Date>2006-12-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2006-11-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2006-12-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2006-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2006-12-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2006-12-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-12-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-12-07T09:25:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>60</Number>
+          <Date>2006-12-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2006-12-12T00:00:31</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2006-12-12T00:00:31</EventStartDateTime>
+          <EventEndDateTime>2006-12-12T17:15:32</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-12-12T00:00:31</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2006-11-09T00:00:00</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>50</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2006-11-20T15:03:41</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>82</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2006-11-21T18:20:00</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>83</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2006-11-21T18:41:51</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>83</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message returned to the Senate</EventNameEn>
+        <EventNameFr>Message renvoyé au Sénat</EventNameFr>
+        <EventName>Message returned to the Senate</EventName>
+        <Date>2006-11-21T18:42:51</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>83</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2006-11-22T00:00:00</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>52</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2006-11-23T00:00:00</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>53</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2006-12-07T00:00:00</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>58</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message returned to the House of Commons</EventNameEn>
+        <EventNameFr>Message renvoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message returned to the House of Commons</EventName>
+        <Date>2006-12-07T01:00:00</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>58</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2006-12-08T10:39:56</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>94</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2006-12-08T10:40:56</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>94</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message returned to the Senate</EventNameEn>
+        <EventNameFr>Message renvoyé au Sénat</EventNameFr>
+        <EventName>Message returned to the Senate</EventName>
+        <Date>2006-12-08T10:41:56</Date>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>94</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>2333855</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2333849</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2334012</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>3294507</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>25</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>26</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>27</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>28</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>165</DivisionVotesYeas>
+      <DivisionVotesNays>125</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>29</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>116</DivisionVotesYeas>
+      <DivisionVotesNays>174</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>30</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>125</DivisionVotesYeas>
+      <DivisionVotesNays>165</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>31</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>165</DivisionVotesYeas>
+      <DivisionVotesNays>125</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>32</DivisionNumber>
+      <DivisionSubjectEn>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-2, Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>290</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>290</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>65</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (subamendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-2,Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (sous-amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (subamendment)</DivisionSubject>
+      <DivisionVotesYeas>163</DivisionVotesYeas>
+      <DivisionVotesNays>111</DivisionVotesNays>
+      <DivisionVotePaired>12</DivisionVotePaired>
+      <DivisionVoteTotal>286</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>66</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-2,Loi prévoyant des règles sur les conflits d'intérêts et des restrictions en matière de financement électoral, ainsi que des mesures en matière de transparence administrative, de supervision et de responsabilisation (amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-2, An Act providing for conflict of interest rules, restrictions on election financing and measures respecting administrative transparency, oversight and accountability (amendment)</DivisionSubject>
+      <DivisionVotesYeas>128</DivisionVotesYeas>
+      <DivisionVotesNays>146</DivisionVotesNays>
+      <DivisionVotePaired>12</DivisionVotePaired>
+      <DivisionVoteTotal>286</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2006-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>67</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill ,  (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi , (amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill ,  (amendment)</DivisionSubject>
+      <DivisionVotesYeas>155</DivisionVotesYeas>
+      <DivisionVotesNays>119</DivisionVotesNays>
+      <DivisionVotePaired>12</DivisionVotePaired>
+      <DivisionVoteTotal>286</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2006-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Whistleblowers, and governments, need more protection</TitleEn>
+      <TitleFr>Whistleblowers, and governments, need more protection  (Disponible en anglais seulement)</TitleFr>
+      <Title>Whistleblowers, and governments, need more protection</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>New Rules for Federal Political Donations</TitleEn>
+      <TitleFr>Nouvelles règles sur les contributions politiques fédérales</TitleFr>
+      <Title>New Rules for Federal Political Donations</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Federal Accountability Act  -  Changes to the Canada Elections Act</TitleEn>
+      <TitleFr>Loi fédérale sur la responsabilité – modifications à la Loi électorale du Canada</TitleFr>
+      <Title>Federal Accountability Act  -  Changes to the Canada Elections Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>New Reporting Requirements Under
+the Canada Elections Act for Gifts to Candidates</TitleEn>
+      <TitleFr>Nouvelles règles de la Loi électorale du Canada sur la
+déclaration des cadeaux reçus par les candidats</TitleFr>
+      <Title>New Reporting Requirements Under
+the Canada Elections Act for Gifts to Candidates</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Information Commissioner of Canada.  Response to the Government's action plan for reform of the Access to Information Act</TitleEn>
+      <TitleFr>Commisariat à l'information du Canada.  Réponse au Plan d'action du gouvernement relativement à la réforme de la Loi sur l'accès à l'information</TitleFr>
+      <Title>Office of the Information Commissioner of Canada.  Response to the Government's action plan for reform of the Access to Information Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Submission to the Legislative Committee on Bill C-2, the Federal Accountability Act, concerning the Public Servants Disclosure Protection Act</TitleEn>
+      <TitleFr>Présentation au Comité législatif sur le projet de loi C-2 visant la Loi sur la protection des fonctionnaires divulgateurs d'actes répréhensibles</TitleFr>
+      <Title>Submission to the Legislative Committee on Bill C-2, the Federal Accountability Act, concerning the Public Servants Disclosure Protection Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's Public Service Integrity Officer Prepares for Transition to the Public Sector Integrity Commissioner as Third PSIO Annual Report is Tabled in Parliament</TitleEn>
+      <TitleFr>L'agent de l'intégrité de la fonction publique du Canada se prépare à l'arrivée prochaine du commissaire à l'intégrité du secteur public alors que son troisième rapport annuel est déposé au Parlement</TitleFr>
+      <Title>Canada's Public Service Integrity Officer Prepares for Transition to the Public Sector Integrity Commissioner as Third PSIO Annual Report is Tabled in Parliament</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Conservatives "Federal Accountability Act" includes many key measures but also breaks promises</TitleEn>
+      <TitleFr>Conservatives "Federal Accountability Act" includes many key measures but also breaks promises (Disponible en anglais seulement)</TitleFr>
+      <Title>Conservatives "Federal Accountability Act" includes many key measures but also breaks promises</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bringing Accountability Back to Government</TitleEn>
+      <TitleFr>Rétablir l'imputabilité au sein du gouvernement</TitleFr>
+      <Title>Bringing Accountability Back to Government</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Information Notice - Access to Information and Privacy - Coming into Force of the Federal Accountability Act</TitleEn>
+      <TitleFr>Avis - Accès à l'information et protection des renseignments personnels - Entrée en vigueur de la Loi fédérale sur la responsabilité</TitleFr>
+      <Title>Information Notice - Access to Information and Privacy - Coming into Force of the Federal Accountability Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's New Government Announces Coming Into Force of Key Federal Accountability Act Provisions</TitleEn>
+      <TitleFr>Le nouveau gouvernement du Canada annonce l'entrée en vigueur de dispositions clés de la Loi fédérale sur la responsabilité</TitleFr>
+      <Title>Canada's New Government Announces Coming Into Force of Key Federal Accountability Act Provisions</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>There are limits to what you can give</TitleEn>
+      <TitleFr>Il y a des limites à ce qu'on peut donner</TitleFr>
+      <Title>There are limits to what you can give</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Turning a New Leaf - Federal Accountability Act and Action Plan</TitleEn>
+      <TitleFr>Une nouvelle feuille de route - Loi fédérale sur la responsabilité et plan d'action</TitleFr>
+      <Title>Turning a New Leaf - Federal Accountability Act and Action Plan</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public Service Integrity Officer Annual Report to Parliament 2004-2005</TitleEn>
+      <TitleFr>Agent de l'intégrité de la fonction publique  Rapport annuel au parlement 2004-2005</TitleFr>
+      <Title>Public Service Integrity Officer Annual Report to Parliament 2004-2005</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Director of Public Prosecutions</TitleEn>
+      <TitleFr>Bureau du directeur des poursuites pénales</TitleFr>
+      <Title>Office of the Director of Public Prosecutions</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's New Government Launches Consultations on New Regulations Under the Lobbyists Registration Act</TitleEn>
+      <TitleFr>Le nouveau gouvernement du Canada amorce des consultations sur la nouvelle réglementation à adopter en vertu de la loi sur l'enregistrement des lobbyistes</TitleFr>
+      <Title>Canada's New Government Launches Consultations on New Regulations Under the Lobbyists Registration Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Registrar of Lobbyists</TitleEn>
+      <TitleFr>Bureau du directeur des lobbyistes</TitleFr>
+      <Title>Office of the Registrar of Lobbyists</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Strengthening the Access to Information Act 
+A Discussion of Ideas Intrinsic to the Reform of the Access to Information Act</TitleEn>
+      <TitleFr>Renforcer la Loi sur l'accès à l'information
+Discussion d'idées inhérentes à la réforme de la Loi sur l'accès à l'information</TitleFr>
+      <Title>Strengthening the Access to Information Act 
+A Discussion of Ideas Intrinsic to the Reform of the Access to Information Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Chief Electoral Officer Announces Changes in Method of Appointing Returning Officers</TitleEn>
+      <TitleFr>Le directeur général des élections annonce les changements au processus de nomination des directeurs du scrutin</TitleFr>
+      <Title>Chief Electoral Officer Announces Changes in Method of Appointing Returning Officers</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public Service Integrity Office</TitleEn>
+      <TitleFr>Bureau de l'intégrité de la fonction publique</TitleFr>
+      <Title>Public Service Integrity Office</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1173</BibliographicNoticeId>
+      <Title>The appearance of accounting officers before the Public Accounts Committee</Title>
+      <Author>Murphy, Shawn</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>30:4-6</VolumePage>
+      <PublicationDate>Summer 2007</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1174</BibliographicNoticeId>
+      <Title>Les témoignages des administrateurs des comptes devant le Comité des comptes publics</Title>
+      <Author>Murphy, Shawn</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>30:4-6</VolumePage>
+      <PublicationDate>été 2007</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1124</BibliographicNoticeId>
+      <Title>The proper use of transparency instruments</Title>
+      <Author>Caron, Daniel J. and Terry D. Hunt</Author>
+      <Publication>Optimum online</Publication>
+      <VolumePage>36:1-23</VolumePage>
+      <PublicationDate>Sept. 2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1146</BibliographicNoticeId>
+      <Title>Le palimpseste de l'imputabilité</Title>
+      <Author>Paquet, Gilles</Author>
+      <Publication>Revue générale de droit</Publication>
+      <VolumePage>36:561-78</VolumePage>
+      <PublicationDate>no 4 2006</PublicationDate>
+      <Classification>K21 G42</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1158</BibliographicNoticeId>
+      <Title>The fiscal maze: Parliament, government and public money</Title>
+      <Author>Brazier, Alex</Author>
+      <Publication>Parliamentary affairs</Publication>
+      <VolumePage>60:346-55</VolumePage>
+      <PublicationDate>Apr. 2007</PublicationDate>
+      <Classification>JN101 P37</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1159</BibliographicNoticeId>
+      <Title>Benchmarking parliamentary administration: the United Kingdom, Canada, New Zealand and Australia</Title>
+      <Author>Verrier, June</Author>
+      <Publication>Australasian parliamentary review</Publication>
+      <VolumePage>22:45-75</VolumePage>
+      <PublicationDate>Autumn 2007</PublicationDate>
+      <Classification>KVC593 A155</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1161</BibliographicNoticeId>
+      <Title>Accounting and accountability</Title>
+      <Author>Laing, Rosemary</Author>
+      <Publication>Australasian parliamentary review</Publication>
+      <VolumePage>22:19-27</VolumePage>
+      <PublicationDate>Autumn 2007</PublicationDate>
+      <Classification>KVC593 A155</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1172</BibliographicNoticeId>
+      <Title>The impact of performance budgeting on the role of the legislature: a four-country study</Title>
+      <Author>Sterck, Miekatrien</Author>
+      <Publication>International review of administrative sciences</Publication>
+      <VolumePage>73:189-203</VolumePage>
+      <PublicationDate>no. 2 2007</PublicationDate>
+      <Classification>JA1 A1 I59</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1064</BibliographicNoticeId>
+      <Title>Parliamentary review of estimates: initiatives and prospects</Title>
+      <Author>Stilborn, Jack</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>29:22-7</VolumePage>
+      <PublicationDate>Winter 2006-2007</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1065</BibliographicNoticeId>
+      <Title>Examen parlementaire du budget des dépenses : initiatives et perspectives d'avenir</Title>
+      <Author>Stilborn, Jack</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>29:22-8</VolumePage>
+      <PublicationDate>hiver 2006-2007</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1066</BibliographicNoticeId>
+      <Title>A plea for transparency in Canada's 'new government'</Title>
+      <Author>Hébert, Paul C. and Amir Attaran</Author>
+      <Publication>CMAJ:Canadian Medical Association Journal</Publication>
+      <VolumePage>176:601</VolumePage>
+      <PublicationDate>Feb. 27, 2007</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1067</BibliographicNoticeId>
+      <Title>Le 'nouveau gouvernment' du Canada - Plaidoyer en faveur de la transparence</Title>
+      <Author>Hébert, Paul C. and Amir Attaran</Author>
+      <Publication>CMAJ:Canadian Medical Association Journal</Publication>
+      <VolumePage>176:603</VolumePage>
+      <PublicationDate>Feb. 27, 2007</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1098</BibliographicNoticeId>
+      <Title>The unaccountable Federal Accountability Act: goodbye to responsible government?</Title>
+      <Author>Sutherland, S.L.</Author>
+      <Publication>Revue gouvernance</Publication>
+      <VolumePage>3:1-10</VolumePage>
+      <PublicationDate>Dec. 2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1116</BibliographicNoticeId>
+      <Title>The pros and cons of commissions of inquiry</Title>
+      <Author>Gomery, John H</Author>
+      <Publication>McGill law journal</Publication>
+      <VolumePage>51:783-98</VolumePage>
+      <PublicationDate>Winter 2006</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1026</BibliographicNoticeId>
+      <Title>Reflections on the Gomery Report and accountability</Title>
+      <Author>Allmand, Warren</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>29:17-19</VolumePage>
+      <PublicationDate>Autumn 2006</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1027</BibliographicNoticeId>
+      <Title>Réflexions sur le rapport Gomery et la responsabilité</Title>
+      <Author>Allmand, Warren</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>29:17-19</VolumePage>
+      <PublicationDate>automne 2006</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1028</BibliographicNoticeId>
+      <Title>Improving government accountability</Title>
+      <Author>Aucoin, Peter</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>29:20-6</VolumePage>
+      <PublicationDate>Autumn 2006</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1029</BibliographicNoticeId>
+      <Title>Améliorer la responsibilisation gouvernementale</Title>
+      <Author>Aucoin, Peter</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>29: 20-7</VolumePage>
+      <PublicationDate>automne 2006</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1036</BibliographicNoticeId>
+      <Title>Why accountability must be renewed</Title>
+      <Author>Coghill, Ken et al.</Author>
+      <Publication>Australasian parliamentary review</Publication>
+      <VolumePage>21:10-48</VolumePage>
+      <PublicationDate>Spring 2006</PublicationDate>
+      <Classification>KVC593 A155</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1045</BibliographicNoticeId>
+      <Title>Commissions of inquiry in Canada: lessons from recent experience</Title>
+      <Author>Larson, Peter</Author>
+      <Publication>IPAC executive brief</Publication>
+      <VolumePage>pp. 1-6</VolumePage>
+      <PublicationDate>Sept. 2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>921</BibliographicNoticeId>
+      <Title>Responsabilité ministérielles, gouvernance démocratique et vérification juricomptable</Title>
+      <Author>Rouillard, Christian et Sharon L. Sutherland</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:178-84</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>922</BibliographicNoticeId>
+      <Title>Les fonctionnaires sont-ils 'payés pour se la fermer'?</Title>
+      <Author>Bernier, Pierre</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:169-73</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>923</BibliographicNoticeId>
+      <Title>Les faits ne parlent pas d'eux-mêmes : thèses et théories dans l'analyse de la commission Gomery</Title>
+      <Author>Saint-Martin, Denis</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:173-8</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>933</BibliographicNoticeId>
+      <Title>Rapport Gomery : pour un changement de culture et une réforme en profondeur de la Loi sur l'accès</Title>
+      <Author>
+      </Author>
+      <Publication>L'informateur public et privé</Publication>
+      <VolumePage>12:5-6</VolumePage>
+      <PublicationDate>juin 2006</PublicationDate>
+      <Classification>KEQ456 I56</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>971</BibliographicNoticeId>
+      <Title>Improving accountability</Title>
+      <Author>Coutts, Jane</Author>
+      <Publication>CGA magazine</Publication>
+      <VolumePage>40:13-18</VolumePage>
+      <PublicationDate>Sept./Oct. 2006</PublicationDate>
+      <Classification>HF5601 C47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>972</BibliographicNoticeId>
+      <Title>Améliorer la reddition de comptes</Title>
+      <Author>Coutts, Jane</Author>
+      <Publication>CGA magazine</Publication>
+      <VolumePage>40:13-18</VolumePage>
+      <PublicationDate>sept./oct. 2006</PublicationDate>
+      <Classification>HF5601 C47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>854</BibliographicNoticeId>
+      <Title>Scandales des commandites, rapport Gomery : quelles leçons?</Title>
+      <Author>Boisvert, Yves et Jean-Patrice Desjardins</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:149-54</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>855</BibliographicNoticeId>
+      <Title>À propos de certains vices cachés du premier rapport Gomery</Title>
+      <Author>Paquet, Gilles</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:160-5</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>856</BibliographicNoticeId>
+      <Title>Le scandale des commandites et les misères de la démocratie canadienne</Title>
+      <Author>Beauchemin, Jacques</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:155-9</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>857</BibliographicNoticeId>
+      <Title>La quête de transparence : panacée ou placebo aux scandales politiques?</Title>
+      <Author>Jacob, Steve</Author>
+      <Publication>Éthique publique</Publication>
+      <VolumePage>8:165-9</VolumePage>
+      <PublicationDate>printemps 2006</PublicationDate>
+      <Classification>JF1525 E8 E836</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>906</BibliographicNoticeId>
+      <Title>Commission of Inquiry into the Sponsorship Program and Advertising Activities, Phase I Report and Phase II Report</Title>
+      <Author>Greene, Ian and David Sugarman</Author>
+      <Publication>Canadian public administration</Publication>
+      <VolumePage>49:220-32</VolumePage>
+      <PublicationDate>Summer 2006</PublicationDate>
+      <Classification>JA4 C35P</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>907</BibliographicNoticeId>
+      <Title>Une déprimante culture de l'adjudication</Title>
+      <Author>Paquet, Gilles</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:40-5</VolumePage>
+      <PublicationDate>juin 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>846</BibliographicNoticeId>
+      <Title>C-2 : quand les effets pervers dépassent les conséquences positives</Title>
+      <Author>Rouillard, Christian</Author>
+      <Publication>Options politiques</Publication>
+      <VolumePage>27:28-33</VolumePage>
+      <PublicationDate>juin 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>848</BibliographicNoticeId>
+      <Title>Limiting donations and eliminating cash - problem solved?  Not exactly</Title>
+      <Author>MacIvor, Heather</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:34-9</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>849</BibliographicNoticeId>
+      <Title>From Gomery to the Accountability Act: the devil is in the details</Title>
+      <Author>Franks, C.E.S</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:46-53</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>850</BibliographicNoticeId>
+      <Title>Accountability is job one</Title>
+      <Author>Baird, John</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:10-14</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>851</BibliographicNoticeId>
+      <Title>The old accountability shuffle</Title>
+      <Author>Sears, Robin V</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:19-27</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>852</BibliographicNoticeId>
+      <Title>The sponsorship scandal as communication: the rise of politicized and strategic communications in the federal government</Title>
+      <Author>Kozolanka, Kirsten</Author>
+      <Publication>Canadian journal of communication</Publication>
+      <VolumePage>31:343-66</VolumePage>
+      <PublicationDate>no. 2 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>690</BibliographicNoticeId>
+      <Title>Public administration and managerialist fervour for values and ethics: of collective confusion in control societies</Title>
+      <Author>Rouillard, Christian and Dalie Giroux</Author>
+      <Publication>Administrative theory &amp; praxis</Publication>
+      <VolumePage>27:330-57</VolumePage>
+      <PublicationDate>June 2005</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>691</BibliographicNoticeId>
+      <Title>Speaking truth to power?  The search for bureaucratic independence in Canada</Title>
+      <Author>Sossin, Lorne</Author>
+      <Publication>University of Toronto law journal</Publication>
+      <VolumePage>55:1-59</VolumePage>
+      <PublicationDate>Winter 2005</PublicationDate>
+      <Classification>K25 N55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>692</BibliographicNoticeId>
+      <Title>Principles and patterns of financial scrutiny: public accounts committees in the Commonwealth</Title>
+      <Author>Wehner, Joachim</Author>
+      <Publication>Commonwealth &amp; comparative politics</Publication>
+      <VolumePage>41:21-36</VolumePage>
+      <PublicationDate>Nov. 2003</PublicationDate>
+      <Classification>JN248 J68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>693</BibliographicNoticeId>
+      <Title>Deep Throat's lessons for whistleblowers</Title>
+      <Author>O'Connell, Patricia</Author>
+      <Publication>Business Week online</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>June 6, 2005</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>694</BibliographicNoticeId>
+      <Title>Debating a whistle-blower protection act for employees of the Government of Canada</Title>
+      <Author>Thomas, Paul G</Author>
+      <Publication>Canadian public administration</Publication>
+      <VolumePage>48:147-84</VolumePage>
+      <PublicationDate>Summer 2005</PublicationDate>
+      <Classification>JA4 C35P</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>695</BibliographicNoticeId>
+      <Title>Protecting whistleblowers: do employees who speak need better protection?</Title>
+      <Author>Katel, Peter</Author>
+      <Publication>CQ researcher</Publication>
+      <VolumePage>16:265-88</VolumePage>
+      <PublicationDate>Mar. 31, 2006</PublicationDate>
+      <Classification>H35 E352</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>684</BibliographicNoticeId>
+      <Title>Buying power</Title>
+      <Author>Bogomolny, Laura</Author>
+      <Publication>Canadian business</Publication>
+      <VolumePage>79:18-19</VolumePage>
+      <PublicationDate>Jan. 16, 2006</PublicationDate>
+      <Classification>HF1 C35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>685</BibliographicNoticeId>
+      <Title>Canadians come clean</Title>
+      <Author>Freeman, Aaron</Author>
+      <Publication>Multinational monitor</Publication>
+      <VolumePage>24:6-7</VolumePage>
+      <PublicationDate>Mar. 2003</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>686</BibliographicNoticeId>
+      <Title>Not a regime change. A revolution</Title>
+      <Author>Geddes, John</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>119:16-17</VolumePage>
+      <PublicationDate>Feb. 13, 2006</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>687</BibliographicNoticeId>
+      <Title>Don't fight city hall: change it</Title>
+      <Author>
+      </Author>
+      <Publication>Canadian business</Publication>
+      <VolumePage>78:100</VolumePage>
+      <PublicationDate>Sept. 26, 2005</PublicationDate>
+      <Classification>HF1 C35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>688</BibliographicNoticeId>
+      <Title>Do John Gomery's access reforms shift information power in Ottawa or not?</Title>
+      <Author>Rubin, Ken</Author>
+      <Publication>The Hill Times</Publication>
+      <VolumePage>no. 824:13</VolumePage>
+      <PublicationDate>Feb. 13, 2006</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>689</BibliographicNoticeId>
+      <Title>Lobbyists waiting to see on Harper government lobby laws</Title>
+      <Author>O'Malley, Kady</Author>
+      <Publication>The Hill Times</Publication>
+      <VolumePage>no. 823:20</VolumePage>
+      <PublicationDate>Feb. 6, 2006</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>224</BibliographicNoticeId>
+      <Title>Election financing in Canada</Title>
+      <Author>Mowrey, Tim and Alain Pelletier</Author>
+      <Publication>Electoral insight</Publication>
+      <VolumePage>4:2-8</VolumePage>
+      <PublicationDate>May 2002</PublicationDate>
+      <Classification>JL193 E45</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>223</BibliographicNoticeId>
+      <Title>Le financement des partis politiques : peut-on concevoir un système équitable?</Title>
+      <Author>Payne, David</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>22:7-12</VolumePage>
+      <PublicationDate>hiver 1999</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>222</BibliographicNoticeId>
+      <Title>Funding political parties : can a fair system be devised?</Title>
+      <Author>Payne, David</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>22:7-12</VolumePage>
+      <PublicationDate>Winter 1999</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>212</BibliographicNoticeId>
+      <Title>Pour en finir avec le lobbying : comment les institutions canadiennes influencent l'action des groupes d'intérêts</Title>
+      <Author>Montpetit, Éric</Author>
+      <Publication>Politique et sociétés</Publication>
+      <VolumePage>21:91-112</VolumePage>
+      <PublicationDate>no 3 2002</PublicationDate>
+      <Classification>JA4 P647</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>682</BibliographicNoticeId>
+      <Title>Alarmist or relaxed?: election expenditure limits and free speech</Title>
+      <Author>Marriott, Jane</Author>
+      <Publication>Public law</Publication>
+      <VolumePage>pp. 764-84</VolumePage>
+      <PublicationDate>Winter 2005</PublicationDate>
+      <Classification>JN248 P82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>683</BibliographicNoticeId>
+      <Title>The right to be heard</Title>
+      <Author>
+      </Author>
+      <Publication>Canadian business</Publication>
+      <VolumePage>79:64</VolumePage>
+      <PublicationDate>Jan. 30, 2006</PublicationDate>
+      <Classification>HF1 C35</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>631</BibliographicNoticeId>
+      <Title>Build an ethical organizational culture before the whistle blows</Title>
+      <Author>Dempsey, Alison L</Author>
+      <Publication>Law now</Publication>
+      <VolumePage>29:9-10</VolumePage>
+      <PublicationDate>Feb./Mar. 2005</PublicationDate>
+      <Classification>K12 A985</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>632</BibliographicNoticeId>
+      <Title>Blowing the whistle</Title>
+      <Author>Gordon, Sheldon</Author>
+      <Publication>National</Publication>
+      <VolumePage>13:22-9</VolumePage>
+      <PublicationDate>Nov. 2004</PublicationDate>
+      <Classification>K14 A85</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>428</BibliographicNoticeId>
+      <Title>The Charter of Rights and party politics</Title>
+      <Author>MacIvor, Heather</Author>
+      <Publication>Choices</Publication>
+      <VolumePage>10:1-26</VolumePage>
+      <PublicationDate>May 2004</PublicationDate>
+      <Classification>FC635 C46</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>306</BibliographicNoticeId>
+      <Title>Do Canadian political parties form a cartel?</Title>
+      <Author>MacIvor, Heather</Author>
+      <Publication>Canadian journal of political science</Publication>
+      <VolumePage>29:317-33</VolumePage>
+      <PublicationDate>June 1996</PublicationDate>
+      <Classification>JA4 C35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>305</BibliographicNoticeId>
+      <Title>Electoral reform: smaller political parties win a legal victory</Title>
+      <Author>Cariou, Kimball</Author>
+      <Publication>Briar patch</Publication>
+      <VolumePage>28:9</VolumePage>
+      <PublicationDate>May 1999</PublicationDate>
+      <Classification>HC111 B75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>308</BibliographicNoticeId>
+      <Title>More central control: Chrétien's campaign finance bill further erodes public influence in federal politics</Title>
+      <Author>Byfield, Joanne</Author>
+      <Publication>Citizens Centre report</Publication>
+      <VolumePage>30:50-3</VolumePage>
+      <PublicationDate>June 2003</PublicationDate>
+      <Classification>FC3651 A4471</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>479</BibliographicNoticeId>
+      <Title>Whistleblower protection needed in Canada: advocates</Title>
+      <Author>Lenzner, Jeanne</Author>
+      <Publication>CMAJ: Canadian Medical Association journal</Publication>
+      <VolumePage>171:439</VolumePage>
+      <PublicationDate>Aug. 31, 2004</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>480</BibliographicNoticeId>
+      <Title>Independent inquiry needed into firing of whistleblowers</Title>
+      <Author>Eggertson, Laura</Author>
+      <Publication>CMAJ: Canadian Medical Association journal</Publication>
+      <VolumePage>171:438</VolumePage>
+      <PublicationDate>Aug. 31, 2004</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>528</BibliographicNoticeId>
+      <Title>Public service waits for new whistleblower protection office</Title>
+      <Author>O'Malley, Kady</Author>
+      <Publication>The Hill Times</Publication>
+      <VolumePage>no. 798:13</VolumePage>
+      <PublicationDate>Aug. 1, 2005</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>600</BibliographicNoticeId>
+      <Title>Watching out for whistle-blowers</Title>
+      <Author>Marron, Kevin</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>29:42-5</VolumePage>
+      <PublicationDate>Nov./Dec. 2005</PublicationDate>
+      <Classification>K3 A494</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>310</BibliographicNoticeId>
+      <Title>Safe disclosure</Title>
+      <Author>Dionisi, Sandra</Author>
+      <Publication>CA magazine</Publication>
+      <VolumePage>136:20, 22-5 ff</VolumePage>
+      <PublicationDate>Oct. 2003</PublicationDate>
+      <Classification>HF5601 C33</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>608</BibliographicNoticeId>
+      <Title>La voix de la dénonciation</Title>
+      <Author>Gualtieri, Joanna</Author>
+      <Publication>CA magazine</Publication>
+      <VolumePage>137:43-5</VolumePage>
+      <PublicationDate>août 2004</PublicationDate>
+      <Classification>HF5601 C331</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>402</BibliographicNoticeId>
+      <Title>The case of whistle-blowing legislation in Canada</Title>
+      <Author>Kinsella, Nöel A</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>24:8-10</VolumePage>
+      <PublicationDate>Summer 2001</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>404</BibliographicNoticeId>
+      <Title>The Public Service Integrity Officer</Title>
+      <Author>Keyserlingk, Edward W</Author>
+      <Publication>Canadian parliamentary review</Publication>
+      <VolumePage>25:32-4</VolumePage>
+      <PublicationDate>Winter 2002/2003</PublicationDate>
+      <Classification>JL141 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>405</BibliographicNoticeId>
+      <Title>Le Bureau de l'intégrité de la fonction publique</Title>
+      <Author>Keyserlingk, Edward W</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>25:37-9</VolumePage>
+      <PublicationDate>hiver 2002/2003</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>406</BibliographicNoticeId>
+      <Title>Parliamentary privilege and members' sources of information</Title>
+      <Author>Attwood, Julie</Author>
+      <Publication>Australasian parliamentary review</Publication>
+      <VolumePage>17:87-96</VolumePage>
+      <PublicationDate>Spring 2002</PublicationDate>
+      <Classification>KVC593 A155</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>408</BibliographicNoticeId>
+      <Title>Whistling in the wind</Title>
+      <Author>Cohen, Lynne</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>27:35-41</VolumePage>
+      <PublicationDate>Nov./Dec. 2003</PublicationDate>
+      <Classification>K3 A494</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>409</BibliographicNoticeId>
+      <Title>Whistleblowers : all truth is good, but not all truth is good to say</Title>
+      <Author>Bowal, Peter</Author>
+      <Publication>Law now</Publication>
+      <VolumePage>27:32-4</VolumePage>
+      <PublicationDate>June/July 2003</PublicationDate>
+      <Classification>K12 A985</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>403</BibliographicNoticeId>
+      <Title>Les arguments en faveur d'une loi sur la dénonciation dans la fonction publique</Title>
+      <Author>Kinsella, Nöel A</Author>
+      <Publication>Revue parlementaire canadienne</Publication>
+      <VolumePage>24:10-12</VolumePage>
+      <PublicationDate>été 2001</PublicationDate>
+      <Classification>JL141 C3572</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
