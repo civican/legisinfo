@@ -1,0 +1,1274 @@
+<Bills>
+  <Bill>
+    <Id>2184887</Id>
+    <NumberCode>C-13</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>13</Number>
+    <LongTitleEn>An Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006</LongTitleEn>
+    <LongTitleFr>Loi portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006</LongTitleFr>
+    <LongTitle>An Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006</LongTitle>
+    <ShortTitleEn>Budget Implementation Act, 2006</ShortTitleEn>
+    <ShortTitleFr>Loi d'exécution du budget de 2006</ShortTitleFr>
+    <ShortTitle>Budget Implementation Act, 2006</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2006-06-22T17:04:42</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35751</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jim</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Flaherty</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jim Flaherty</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>485</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Whitby—Oshawa</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Whitby—Oshawa</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Whitby—Oshawa</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2006-06-22T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>27</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2006-05-11T10:04:08</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2006-05-19T13:36:41</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2006-06-06T10:13:20</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2006-06-06T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2006-06-13T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2006-06-22T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2006-06-22T17:04:42</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2006</StatuteYear>
+    <StatuteChapter>4</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-05-11T10:04:08</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>21</Number>
+          <Date>2006-05-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2006-05-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2006-05-11T10:04:08</EventStartDateTime>
+          <EventEndDateTime>2006-05-11T10:04:08</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-05-11T10:04:08</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-05-19T13:36:41</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>10479</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>1547377</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>22</Number>
+          <Date>2006-05-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>23</Number>
+          <Date>2006-05-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>26</Number>
+          <Date>2006-05-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>27</Number>
+          <Date>2006-05-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1547026</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>2194736</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2006-05-19T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>27</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2006-05-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2006-05-19T13:36:41</EventStartDateTime>
+          <EventEndDateTime>2006-05-19T13:36:41</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-05-19T13:36:41</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1533900</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1295</PersonId>
+          <PersonOfficialFirstName>Diane</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ablonczy</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Diane Ablonczy</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2006-05-12T10:04:45</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#SOB-1533916</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-22/hansard#SOB-1533916</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#SOB-1533916</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1533991</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1817</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>McCallum</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John McCallum</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2006-05-12T10:36:10</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#Int-1533991</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-22/hansard#Int-1533991</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#Int-1533991</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1534447</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1811</PersonId>
+          <PersonOfficialFirstName>Mario</PersonOfficialFirstName>
+          <PersonOfficialLastName>Laframboise</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mario Laframboise</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2006-05-12T12:08:47</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#SOB-1534504</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-22/hansard#SOB-1534504</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#SOB-1534504</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>1534502</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>683</PersonId>
+          <PersonOfficialFirstName>Chris</PersonOfficialFirstName>
+          <PersonOfficialLastName>Charlton</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Chris Charlton</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2006-05-12T12:38:19</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#Int-1534502</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/39-1/house/sitting-22/hansard#Int-1534502</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/39-1/house/sitting-22/hansard#Int-1534502</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2006-06-02T12:13:05</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>10479</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>1547377</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>32</Number>
+          <Date>2006-06-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10479</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2006-05-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10479</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2006-05-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>10479</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2006-06-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2006-06-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>2236828</CommitteeReportId>
+          <CommitteeReportNumber>2</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2006-06-02T12:13:05</EventStartDateTime>
+          <EventEndDateTime>2006-06-02T12:13:05</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-02T12:13:05</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-06T10:11:16</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>34</Number>
+          <Date>2006-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2006-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2006-06-06T10:11:16</EventStartDateTime>
+          <EventEndDateTime>2006-06-06T10:11:16</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-06T10:11:16</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-06T10:13:20</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>34</Number>
+          <Date>2006-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>1571647</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>2194738</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2006-06-06T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>34</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2006-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2006-06-06T10:13:20</EventStartDateTime>
+          <EventEndDateTime>2006-06-06T10:13:20</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-06T10:13:20</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>20</Number>
+          <Date>2006-06-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2006-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2006-06-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-06-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-06T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>21</Number>
+          <Date>2006-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>22</Number>
+          <Date>2006-06-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>23</Number>
+          <Date>2006-06-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2006-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2006-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2006-06-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-06-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>21</MeetingNumber>
+          <SpeechDateTime>2006-06-07T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/391/debates/021db_2006-06-07-e#30</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/391/debates/021db_2006-06-07-f#31</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/391/debates/021db_2006-06-07-e#30</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>0</PersonId>
+          <PersonOfficialFirstName>
+          </PersonOfficialFirstName>
+          <PersonOfficialLastName>
+          </PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName> </PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>39</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>21</MeetingNumber>
+          <SpeechDateTime>2006-06-07T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/391/debates/023db_2006-06-13-e#60</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/391/debates/023db_2006-06-13-f#61</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/391/debates/023db_2006-06-13-e#60</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2006-06-20T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>25</Number>
+          <Date>2006-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2006-06-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2006-06-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2006-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2006-06-20T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-06-20T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-20T09:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-06-22T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>26</Number>
+          <Date>2006-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>27</Number>
+          <Date>2006-06-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2006-06-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2006-06-22T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2006-06-22T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-22T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>27</Number>
+          <Date>2006-06-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2006-06-22T17:04:42</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2006-06-22T17:04:42</EventStartDateTime>
+          <EventEndDateTime>2006-06-22T17:49:42</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-06-22T17:04:42</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>2333915</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2333918</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>3294578</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>July 1, 2006 - Reduction in the Rate of the GST/HST</TitleEn>
+      <TitleFr>Le 1er juillet - La réduction du taux de la TPS/TVH</TitleFr>
+      <Title>July 1, 2006 - Reduction in the Rate of the GST/HST</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Explanatory Notes to the Budget Implementation Act, 2006</TitleEn>
+      <TitleFr>Les notes explicatives de la Loi d'exécution du budget de 2006</TitleFr>
+      <Title>Explanatory Notes to the Budget Implementation Act, 2006</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>772</BibliographicNoticeId>
+      <Title>Integrating gender into government budgets: a new perspective</Title>
+      <Author>Rubin, Marilyn Marks</Author>
+      <Publication>Public administration review</Publication>
+      <VolumePage>65:259-72</VolumePage>
+      <PublicationDate>May/June 2005</PublicationDate>
+      <Classification>JA1 P82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>773</BibliographicNoticeId>
+      <Title>How the budget is made (interview)</Title>
+      <Author>Clark, Scott</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>20:12-18</VolumePage>
+      <PublicationDate>Jan./Feb. 1999</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>809</BibliographicNoticeId>
+      <Title>Child care choices</Title>
+      <Author>LeRoy, Sylvia</Author>
+      <Publication>Fraser forum</Publication>
+      <VolumePage>pp. 6-8</VolumePage>
+      <PublicationDate>Feb. 2006</PublicationDate>
+      <Classification>HC116.5 F732F</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>924</BibliographicNoticeId>
+      <Title>The child care debate</Title>
+      <Author>Richards, John and Matthew Brzozowski</Author>
+      <Publication>Inroads</Publication>
+      <VolumePage>no. 19:32-41</VolumePage>
+      <PublicationDate>Summer/Fall 2006</PublicationDate>
+      <Classification>FC1 I57</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1138</BibliographicNoticeId>
+      <Title>Code blue for child care</Title>
+      <Author>Shanahan, Noreen</Author>
+      <Publication>Our times</Publication>
+      <VolumePage>26:19-25</VolumePage>
+      <PublicationDate>Feb./Mar. 2007</PublicationDate>
+      <Classification>HN17.5 O88</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
