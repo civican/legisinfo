@@ -1,0 +1,164 @@
+# Bill C-335: An Act to amend the Bank Act (bank amalgamations)
+
+- **Current Status**: Outside the Order of Precedence
+- **Sponsor**: Pat Martin
+- **Latest Activity**: Introduction and first reading (at 2006-06-19T11:00:00)
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
