@@ -1,0 +1,1305 @@
+<Bills>
+  <Bill>
+    <Id>2397040</Id>
+    <NumberCode>C-30</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>30</Number>
+    <LongTitleEn>An Act to amend the Canadian Environmental Protection Act, 1999, the Energy Efficiency Act and the Motor Vehicle Fuel Consumption Standards Act (Canada's Clean Air Act)</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi canadienne sur la protection de l'environnement (1999), la Loi sur l'efficacité énergétique et la Loi sur les normes de consommation de carburant des véhicules automobiles (Loi canadienne sur la qualité de l'air)</LongTitleFr>
+    <LongTitle>An Act to amend the Canadian Environmental Protection Act, 1999, the Energy Efficiency Act and the Motor Vehicle Fuel Consumption Standards Act (Canada's Clean Air Act)</LongTitle>
+    <ShortTitleEn>Canada's Clean Air Act</ShortTitleEn>
+    <ShortTitleFr>Loi canadienne sur la qualité de l'air</ShortTitleFr>
+    <ShortTitle>Canada's Clean Air Act</ShortTitle>
+    <StatusId>351</StatusId>
+    <StatusNameEn>At report stage and second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'étape du rapport et de la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At report stage and second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2007-03-30T12:44:12</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>39</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35676</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>John</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Baird</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>John Baird</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of the Environment</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Environnement</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of the Environment</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>455</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Ottawa West—Nepean</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Ottawa-Ouest—Nepean</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Ottawa West—Nepean</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60124</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Committee report presented</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Présentation du rapport de comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60049</LatestBillEventStageId>
+    <LatestBillEventTypeName>Committee report presented</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+      <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+      <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+      <CommitteeAcronym>CC30</CommitteeAcronym>
+      <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2007-03-30T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>122</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>132</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2006-10-19T10:08:56</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2006-10-19T10:08:56</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>65</Number>
+          <Date>2006-10-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2006-10-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2006-10-19T10:08:56</EventStartDateTime>
+          <EventEndDateTime>2006-10-19T10:08:56</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-10-19T10:08:56</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60047</BillStageId>
+        <BillStageNameEn>Referral to committee before second reading</BillStageNameEn>
+        <BillStageNameFr>Renvoi à un comité avant la deuxième lecture</BillStageNameFr>
+        <BillStageName>Referral to committee before second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2006-12-04T18:30:07</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+          <StudyActivityId>1839431</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate on the motion to refer the bill to committee before second reading</NameEn>
+          <NameFr>Débat sur la motion de renvoi du projet de loi en comité avant la deuxième lecture</NameFr>
+          <Name>Debate on the motion to refer the bill to committee before second reading</Name>
+          <Number>90</Number>
+          <Date>2006-12-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60122</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee before second reading</EventNameEn>
+          <EventNameFr>Renvoi en comité avant la deuxième lecture</EventNameFr>
+          <EventName>Referral to committee before second reading</EventName>
+          <EventDateTime>2006-12-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60122</EventTypeId>
+          <EventTypeNameEn>Referral to committee before second reading</EventTypeNameEn>
+          <EventTypeNameFr>Renvoi en comité avant la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Referral to committee before second reading</EventTypeName>
+          <EventStartDateTime>2006-12-04T18:30:07</EventStartDateTime>
+          <EventEndDateTime>2006-12-04T18:30:07</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2006-12-04T18:30:07</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2007-03-30T12:44:12</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+          <StudyActivityId>1839431</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>132</Number>
+          <Date>2007-03-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2007-02-06T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>5</Number>
+          <Date>2007-02-06T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2007-02-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2007-02-12T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2007-02-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2007-02-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2007-02-15T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2007-02-19T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2007-02-20T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2007-02-20T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2007-02-22T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2007-02-26T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2007-02-27T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2007-02-27T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2007-03-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2007-03-22T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2007-03-26T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2007-03-27T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2007-03-27T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2007-03-28T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2007-03-28T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>12396</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-30</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-30</CommitteeNameFr>
+          <CommitteeAcronym>CC30</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2007-03-29T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-30</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2007-03-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>2806036</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2007-03-30T12:44:12</EventStartDateTime>
+          <EventEndDateTime>2007-03-30T12:44:12</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2007-03-30T12:44:12</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60048</BillStageId>
+        <BillStageNameEn>Report stage and second reading</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport et deuxième lecture</BillStageNameFr>
+        <BillStageName>Report stage and second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>39</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>2413797</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>2826031</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's Clean Air Act Delivered to Canadians</TitleEn>
+      <TitleFr>La Loi canadienne sur la qualité de l'air est présentée aux Canadiens et Canadiennes</TitleFr>
+      <Title>Canada's Clean Air Act Delivered to Canadians</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper's Clean Air Act is 'smog and mirrors'</TitleEn>
+      <TitleFr>Harper's Clean Air Act is 'smog and mirrors' (Disponible en anglais seulement)</TitleFr>
+      <Title>Harper's Clean Air Act is 'smog and mirrors'</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Environment as a Priority  (Pollution Probe)</TitleEn>
+      <TitleFr>The Environment as a Priority  (Pollution Probe)  (Disponible en anglais seulement)</TitleFr>
+      <Title>The Environment as a Priority  (Pollution Probe)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cleaner Air Means Healthier Canadians</TitleEn>
+      <TitleFr>Un air de meilleure qualité améliore la santé des Canadiens et des Canadiennes</TitleFr>
+      <Title>Cleaner Air Means Healthier Canadians</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Clean Air Online</TitleEn>
+      <TitleFr>Branché sur l'air pur</TitleFr>
+      <Title>Clean Air Online</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>No Clean Air Act, yet (Sierra Club of Canada)</TitleEn>
+      <TitleFr>No Clean Air Act, yet  (Disponible en anglais seulement)</TitleFr>
+      <Title>No Clean Air Act, yet (Sierra Club of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Key Amendments to Bill C-30: Backgrounder (Sierra Club)</TitleEn>
+      <TitleFr>Key Amendments to Bill C-30: Backgrounder (Sierra Club) (Disponible en anglais seulement)</TitleFr>
+      <Title>Key Amendments to Bill C-30: Backgrounder (Sierra Club)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Speaking Notes for the Honourable Rona Ambrose, Minister of Environment Canada at an Announcement Concerning Canada's Clean Air Act</TitleEn>
+      <TitleFr>Notes pour une allocutions de l'honorable Rona Ambrose, Ministre d'Environnement Canada lors d'un discours prononcé à l'occasion du dépôt du Projet de Loi canadienne sur la qualité de l'air</TitleFr>
+      <Title>Speaking Notes for the Honourable Rona Ambrose, Minister of Environment Canada at an Announcement Concerning Canada's Clean Air Act</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Clean Air Act revealed; Sayonara, Kyoto</TitleEn>
+      <TitleFr>Clean Air Act revealed; Sayonara, Kyoto (Disponible en anglais seulement)</TitleFr>
+      <Title>Clean Air Act revealed; Sayonara, Kyoto</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Prime Minister Harper: What about Kyoto?</TitleEn>
+      <TitleFr>Et Kyoto, monsieur Harper?</TitleFr>
+      <Title>Prime Minister Harper: What about Kyoto?</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>902</BibliographicNoticeId>
+      <Title>Tories under pressure to release a credible climate change program</Title>
+      <Author>Doyle, Simon</Author>
+      <Publication>The Hill Times</Publication>
+      <VolumePage>no. 849:14</VolumePage>
+      <PublicationDate>Aug. 7, 2006</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>903</BibliographicNoticeId>
+      <Title>Air emission inventories in North America: a critical assessment</Title>
+      <Author>Miller, C. Andrew et al</Author>
+      <Publication>Journal of the Air &amp; Waste Management Association</Publication>
+      <VolumePage>56:1115-1129</VolumePage>
+      <PublicationDate>Aug. 2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>904</BibliographicNoticeId>
+      <Title>Global warming and the threat of ecological catastrophe</Title>
+      <Author>Hughes, Geoffrey</Author>
+      <Publication>Canadian dimension</Publication>
+      <VolumePage>40:40-5</VolumePage>
+      <PublicationDate>Jul./Aug. 2006</PublicationDate>
+      <Classification>F5001 C33</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>905</BibliographicNoticeId>
+      <Title>The cat came back, or the nine lives of the Kyoto Protocol</Title>
+      <Author>Doelle, Meinhard</Author>
+      <Publication>Journal of environmental law and practice</Publication>
+      <VolumePage>16:261-88</VolumePage>
+      <PublicationDate>July 2006</PublicationDate>
+      <Classification>HC120 E5 J681</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>909</BibliographicNoticeId>
+      <Title>Life on the edge of a warming world</Title>
+      <Author>Kendall, Clare</Author>
+      <Publication>Ecologist</Publication>
+      <VolumePage>36:26-8</VolumePage>
+      <PublicationDate>July/Aug. 2006</PublicationDate>
+      <Classification>QH540 E36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>925</BibliographicNoticeId>
+      <Title>The messenger</Title>
+      <Author>Bowen, Mark</Author>
+      <Publication>Technology review</Publication>
+      <VolumePage>109:38-43</VolumePage>
+      <PublicationDate>July 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1180</BibliographicNoticeId>
+      <Title>Warmer oceans, stronger hurricanes</Title>
+      <Author>Trenberth, Kevin E.</Author>
+      <Publication>Scientific American</Publication>
+      <VolumePage>297:44-51</VolumePage>
+      <PublicationDate>July 2007</PublicationDate>
+      <Classification>Q1 S37</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1191</BibliographicNoticeId>
+      <Title>Go green or go home</Title>
+      <Author>Pulfer, Rachel</Author>
+      <Publication>Canadian business</Publication>
+      <VolumePage>80:28-31</VolumePage>
+      <PublicationDate>June 4, 2007</PublicationDate>
+      <Classification>HF1 C35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1126</BibliographicNoticeId>
+      <Title>Of Montreal and Kyoto: a tale of two protocols</Title>
+      <Author>Sunstein, Cass R</Author>
+      <Publication>Harvard environmental law review</Publication>
+      <VolumePage>31:1-65</VolumePage>
+      <PublicationDate>no. 1 2007</PublicationDate>
+      <Classification>HC79 E5 H37</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1127</BibliographicNoticeId>
+      <Title>Here comes the heat</Title>
+      <Author>Mitchell, Alanna</Author>
+      <Publication>Walrus</Publication>
+      <VolumePage>4:33-41</VolumePage>
+      <PublicationDate>Mar. 2007</PublicationDate>
+      <Classification>AP5 W35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1136</BibliographicNoticeId>
+      <Title>Reflection on environmental policy in Canada</Title>
+      <Author>Adamowicz, Wiktor</Author>
+      <Publication>Canadian journal of agricultural economics</Publication>
+      <VolumePage>55:1-13</VolumePage>
+      <PublicationDate>Mar. 2007</PublicationDate>
+      <Classification>HD1486 C2 C35 A15</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1177</BibliographicNoticeId>
+      <Title>Washington et Ottawa à l'épreuve des changements climatiques en Arctique</Title>
+      <Author>Plouffe, Joel</Author>
+      <Publication>Options politiques</Publication>
+      <VolumePage>28:65-8</VolumePage>
+      <PublicationDate>mai 2007</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1178</BibliographicNoticeId>
+      <Title>Climate change mitigation: what's the cost?</Title>
+      <Author>Cinq-Mars, Katherine</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>28:50-4</VolumePage>
+      <PublicationDate>May 2007</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1179</BibliographicNoticeId>
+      <Title>The saga of Bill C-30: from clean air to climate change, or not</Title>
+      <Author>May, Elizabeth</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>28:42-7</VolumePage>
+      <PublicationDate>May 2007</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1047</BibliographicNoticeId>
+      <Title>L'irruption du roi charbon dans le débat international sur le climat, l'énergie et le développement durable</Title>
+      <Author>Mocilnikar, Antoine-Tristan</Author>
+      <Publication>Revue de l'énergie</Publication>
+      <VolumePage>no 573:330-3</VolumePage>
+      <PublicationDate>sept./oct. 2006</PublicationDate>
+      <Classification>HD9502 A1 R48</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1063</BibliographicNoticeId>
+      <Title>The sky is falling</Title>
+      <Author>
+      </Author>
+      <Publication>Bulletin of the atomic scientists</Publication>
+      <VolumePage>63:40-5</VolumePage>
+      <PublicationDate>Jan./Feb. 2007</PublicationDate>
+      <Classification>TK9001 B84</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1081</BibliographicNoticeId>
+      <Title>From true-blue to costly: the Clean-Air Act promises to regulate even snowmobiles and vending machines.  How far will this government go?</Title>
+      <Author>O'Neill, Terry</Author>
+      <Publication>Western standard</Publication>
+      <VolumePage>p. 24</VolumePage>
+      <PublicationDate>Feb. 12, 2007</PublicationDate>
+      <Classification>FC1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1089</BibliographicNoticeId>
+      <Title>Does the Kyoto Protocol cost too much and create unbreakable barriers for economic growth?</Title>
+      <Author>Golub, Alexander, Anil Markandya and Dominic Marcellino</Author>
+      <Publication>Contemporary economic policy</Publication>
+      <VolumePage>24:520-35</VolumePage>
+      <PublicationDate>Oct. 2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1097</BibliographicNoticeId>
+      <Title>Perspectives de développement du « charbon propre »</Title>
+      <Author>Ruelle, Gilbert</Author>
+      <Publication>Revue de l'énergie</Publication>
+      <VolumePage>no 573:314-20</VolumePage>
+      <PublicationDate>sept./oct. 2006</PublicationDate>
+      <Classification>HD9502 A1 R48</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1100</BibliographicNoticeId>
+      <Title>Global warming and political failure</Title>
+      <Author>McMahon, Peter</Author>
+      <Publication>AQ</Publication>
+      <VolumePage>78:26-9</VolumePage>
+      <PublicationDate>Nov./Dec. 2006</PublicationDate>
+      <Classification>DU80 A884</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1031</BibliographicNoticeId>
+      <Title>S'adapter aux changements climatiques</Title>
+      <Author>Badina, Juliette</Author>
+      <Publication>Découvrir</Publication>
+      <VolumePage>27:52-9</VolumePage>
+      <PublicationDate>nov./déc. 2006</PublicationDate>
+      <Classification>Q180 C38 D43</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1032</BibliographicNoticeId>
+      <Title>Un Québec sans pétrole?</Title>
+      <Author>Drouin, Gilles</Author>
+      <Publication>Québec science</Publication>
+      <VolumePage>45:30-4</VolumePage>
+      <PublicationDate>nov. 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1040</BibliographicNoticeId>
+      <Title>Impacts des changements climatiques (dossier)</Title>
+      <Author>
+      </Author>
+      <Publication>Biofutur</Publication>
+      <VolumePage>no 242:17-40</VolumePage>
+      <PublicationDate>oct. 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1041</BibliographicNoticeId>
+      <Title>Changement climatique et société(s)</Title>
+      <Author>Radanne, Pierre</Author>
+      <Publication>Écologie et politique</Publication>
+      <VolumePage>no 33:95-116</VolumePage>
+      <PublicationDate>2006</PublicationDate>
+      <Classification>JA75.8 E26</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1042</BibliographicNoticeId>
+      <Title>Clumsy solutions for a complex world: the case of climate change</Title>
+      <Author>Verweij, Marco et al</Author>
+      <Publication>Public administration</Publication>
+      <VolumePage>84:817-43</VolumePage>
+      <PublicationDate>no 4 2006</PublicationDate>
+      <Classification>JA8 P82</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1046</BibliographicNoticeId>
+      <Title>Marchés, trading et prix du charbon</Title>
+      <Author>Muller, Jean-Claude et al</Author>
+      <Publication>Revue de l'énergie</Publication>
+      <VolumePage>no 573:321-9</VolumePage>
+      <PublicationDate>sept./oct. 2006</PublicationDate>
+      <Classification>HD9502 A1 R48</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>977</BibliographicNoticeId>
+      <Title>Improving Canada's climate change performance</Title>
+      <Author>Cinq-Mars, Katherine</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:12-17</VolumePage>
+      <PublicationDate>Oct. 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>978</BibliographicNoticeId>
+      <Title>Canada's climate change dilemma and how to solve it</Title>
+      <Author>Dion, Stéphane</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>27:25-30</VolumePage>
+      <PublicationDate>Oct. 2006</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1005</BibliographicNoticeId>
+      <Title>The role of forests in global climate change: whence we come and where we go</Title>
+      <Author>Streck, Charlotte and Sebastian M. Scholz</Author>
+      <Publication>International affairs</Publication>
+      <VolumePage>82:861-79</VolumePage>
+      <PublicationDate>Sept. 2006</PublicationDate>
+      <Classification>JX1 I56</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1006</BibliographicNoticeId>
+      <Title>Post Kyoto?  Post-Bush?  Towards an effective 'climate coalition of the willing'</Title>
+      <Author>Christoff, Peter</Author>
+      <Publication>International affairs</Publication>
+      <VolumePage>82:831-60</VolumePage>
+      <PublicationDate>Sept. 2006</PublicationDate>
+      <Classification>JX1 I56</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1009</BibliographicNoticeId>
+      <Title>Open-air law</Title>
+      <Author>Webster, Paul</Author>
+      <Publication>Lexpert</Publication>
+      <VolumePage>8:92-6</VolumePage>
+      <PublicationDate>Oct. 2006</PublicationDate>
+      <Classification>K12 E96</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1030</BibliographicNoticeId>
+      <Title>Fuels gold: are biofuels really the greenhouse-busting answer to our energy woes?</Title>
+      <Author>
+      </Author>
+      <Publication>New scientist</Publication>
+      <VolumePage>191:35-41</VolumePage>
+      <PublicationDate>Sept. 23/29 2006</PublicationDate>
+      <Classification>Q1 N52</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>935</BibliographicNoticeId>
+      <Title>Dealing with change: Australia, Canada and the Kyoto Protocol to the Framework Convention on Climate Change</Title>
+      <Author>Barnsley, Ingrid</Author>
+      <Publication>The Round table</Publication>
+      <VolumePage>no. 385:399-410</VolumePage>
+      <PublicationDate>July 2006</PublicationDate>
+      <Classification>DA10 R68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>940</BibliographicNoticeId>
+      <Title>The heat is on: a survey of climate change</Title>
+      <Author>Duncan, Emma</Author>
+      <Publication>The Economist</Publication>
+      <VolumePage>380:1-24 (Survey)</VolumePage>
+      <PublicationDate>Sept. 9, 2006</PublicationDate>
+      <Classification>HG11 E26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>973</BibliographicNoticeId>
+      <Title>Le Protocole de Kyoto ... et après?</Title>
+      <Author>Vieillefosse, Aurélie</Author>
+      <Publication>Problèmes économiques</Publication>
+      <VolumePage>no 2904:2-11</VolumePage>
+      <PublicationDate>19 juil. 2006</PublicationDate>
+      <Classification>D411 F81</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>974</BibliographicNoticeId>
+      <Title>Les marchés de droits à polluer</Title>
+      <Author>Roos, Philippe</Author>
+      <Publication>Problèmes économiques</Publication>
+      <VolumePage>no 2904:21-4</VolumePage>
+      <PublicationDate>19 juil. 2006</PublicationDate>
+      <Classification>D411 F81</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>975</BibliographicNoticeId>
+      <Title>Une coordination difficile des régimes climatiques</Title>
+      <Author>Hourcade, Jean-Charles</Author>
+      <Publication>Problèmes économiques</Publication>
+      <VolumePage>no 2904:12-20</VolumePage>
+      <PublicationDate>19 juil. 2006</PublicationDate>
+      <Classification>D411 F81</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>976</BibliographicNoticeId>
+      <Title>CO2, les promesses du stockage géologique</Title>
+      <Author>Rouat, Sylvie</Author>
+      <Publication>Sciences et avenir</Publication>
+      <VolumePage>no. 716:68-73</VolumePage>
+      <PublicationDate>oct. 2006</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
