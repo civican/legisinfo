@@ -1,2 +1,4 @@
 # Bill S-211: An Act to amend the Criminal Code (lottery schemes)
 
+**Sponsor**: THE HONOURABLE SENATOR LAPOINTE
+
