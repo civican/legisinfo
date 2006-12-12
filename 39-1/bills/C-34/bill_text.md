@@ -1,14 +1,10 @@
 COVER
 
-| C-34 |  | C-34 |
+| First Session, Thirty-ninth Parliament, 55 Elizabeth II, 2006 |  | Première session, trente-neuvième législature, 55 Elizabeth II, 2006 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-34 |  | PROJET DE LOI C-34 |
+| STATUTES OF CANADA 2006CHAPTER 10 |  | LOIS DU CANADA (2006)CHAPITRE 10 |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |
-| AS PASSED BY THE HOUSE OF COMMONSDECEMBER 5, 2006 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 5 DÉCEMBRE 2006 |
-| 90389 |  |  |
+| ASSENTED TO 12th DECEMBER, 2006 BILL C-34 |  | SANCTIONNÉE LE 12 DÉCEMBRE 2006 PROJET DE LOI C-34 |
 
 INSIDECOVER
 
@@ -73,12 +69,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title 1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique. Titre abrégé |  |  |  |  |
@@ -167,23 +163,19 @@ SCHEDULE
 | --- | --- | --- |
 | (Subsection 2(1) and sections 5 and 6) |  | (paragraphe 2(1) et articles 5 et 6) |
 | PARTICIPATING FIRST NATIONS |  | PREMIÈRES NATIONS PARTICIPANTES |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services CanadaOttawa, Ontario K1A 0S5Telephone: (613) 941-5995 or 1-800-635-7943Fax: (613) 954-5779 or 1-800-565-7757publications@pwgsc.gc.cahttp://publications.gc.ca |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5Téléphone : (613) 941-5995 ou 1-800-635-7943Télécopieur : (613) 954-5779 ou 1-800-565-7757publications@tpsgc.gc.cahttp://publications.gc.ca |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-34SHORT TITLEINTERPRETATIONPURPOSE AND EFFECT OF THE ACTEFFECT OF INDIVIDUAL AGREEMENTFIRST NATIONS EDUCATION AUTHORITYPURPOSE AND POWERS OF THE AUTHORITYCOMMUNITY EDUCATION AUTHORITYOTHER ACTSLIABILITYMINISTER'S DUTIES AND POWERSGENERALORDERS AND REGULATIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActPrivacy ActCOMING INTO FORCESchedule 1
+Table of ContentsCoverSummaryTable of ProvisionsBill C-34SHORT TITLEINTERPRETATIONPURPOSE AND EFFECT OF THE ACTEFFECT OF INDIVIDUAL AGREEMENTFIRST NATIONS EDUCATION AUTHORITYPURPOSE AND POWERS OF THE AUTHORITYCOMMUNITY EDUCATION AUTHORITYOTHER ACTSLIABILITYMINISTER'S DUTIES AND POWERSGENERALORDERS AND REGULATIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActPrivacy ActCOMING INTO FORCESchedule 1
 
-Bill  C-34Click here for the entire document (165Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-34SHORT TITLEINTERPRETATIONPURPOSE AND EFFECT OF THE ACTEFFECT OF INDIVIDUAL AGREEMENTFIRST NATIONS EDUCATION AUTHORITYPURPOSE AND POWERS OF THE AUTHORITYCOMMUNITY EDUCATION AUTHORITYOTHER ACTSLIABILITYMINISTER'S DUTIES AND POWERSGENERALORDERS AND REGULATIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActPrivacy ActCOMING INTO FORCESchedule 1
+Bill C-34Click here for the entire document (163Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-34SHORT TITLEINTERPRETATIONPURPOSE AND EFFECT OF THE ACTEFFECT OF INDIVIDUAL AGREEMENTFIRST NATIONS EDUCATION AUTHORITYPURPOSE AND POWERS OF THE AUTHORITYCOMMUNITY EDUCATION AUTHORITYOTHER ACTSLIABILITYMINISTER'S DUTIES AND POWERSGENERALORDERS AND REGULATIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActPrivacy ActCOMING INTO FORCESchedule 1
 
 COVER
 
-| C-34 |  | C-34 |
+| First Session, Thirty-ninth Parliament,55 Elizabeth II, 2006 |  | Première session, trente-neuvième législature,55 Elizabeth II, 2006 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-34 |  | PROJET DE LOI C-34 |
+| STATUTES OF CANADA 2006CHAPTER 10 |  | LOIS DU CANADA (2006)CHAPITRE 10 |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |
-| AS PASSEDBY THE HOUSE OF COMMONSDECEMBER 5, 2006 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 5 DÉCEMBRE 2006 |
-| 90389 |  |  |
+| ASSENTED TO12th DECEMBER, 2006BILL C-34 |  | SANCTIONNÉELE 12 DÉCEMBRE 2006PROJET DE LOI C-34 |
 
 INSIDECOVER
 
@@ -254,12 +246,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -346,12 +338,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -438,12 +430,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -530,12 +522,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -622,12 +614,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -714,12 +706,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -806,12 +798,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -898,12 +890,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -990,12 +982,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1082,12 +1074,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1174,12 +1166,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1266,12 +1258,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1358,12 +1350,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1450,12 +1442,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1542,12 +1534,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1634,12 +1626,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1726,12 +1718,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55 ELIZABETH II |  | 55 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 10 |  | CHAPITRE 10 |  |  |  |  |
 | An Act to provide for jurisdiction over education on First Nation lands in British Columbia |  | Loi concernant la compétence en matière d'éducation sur les terres autochtones en Colombie-Britannique |  |  |  |  |
+| [Assented to 12th December, 2006] |  | [Sanctionnée le 12 décembre 2006] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the First Nations Jurisdiction over Education in British Columbia Act. |  | 1. Loi sur la compétence des premières nations en matière d'éducation en Colombie-Britannique.Titre abrégé |  |  |  |  |
@@ -1822,4 +1814,4 @@ SCHEDULE
 | --- | --- | --- |
 | (Subsection 2(1) and sections 5 and 6) |  | (paragraphe 2(1) et articles 5 et 6) |
 | PARTICIPATING FIRST NATIONS |  | PREMIÈRES NATIONS PARTICIPANTES |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services CanadaOttawa, Ontario K1A 0S5Telephone: (613) 941-5995 or 1-800-635-7943Fax: (613) 954-5779 or 1-800-565-7757publications@pwgsc.gc.cahttp://publications.gc.ca |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5Téléphone : (613) 941-5995 ou 1-800-635-7943Télécopieur : (613) 954-5779 ou 1-800-565-7757publications@tpsgc.gc.cahttp://publications.gc.ca |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
