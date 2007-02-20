@@ -3,12 +3,12 @@ COVER
 | C-31 |  | C-31 |
 | --- | --- | --- |
 | First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |
+| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-31 |  | PROJET DE LOI C-31 |
 | An Act to amend the Canada Elections Act and the Public Service Employment Act |  | Loi modifiant la Loi électorale du Canada et la Loi sur l'emploi dans la fonction publique |
-| Reprinted as amended by the Standing Committee on Procedure and House Affairs as a working copy for the use of the House of Commons at Report Stage and as reported to the House on December 13, 2006 |  | Réimprimé tel que modifié par le Comité permanent de la Procédure et des affaires de la Chambre comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 13 décembre 2006 |
-| THE LEADER OF THE GOVERNMENT IN THE HOUSE OF COMMONS AND MINISTER FOR DEMOCRATIC REFORM 90387 |  | LE LEADER DU GOUVERNEMENT À LA CHAMBRE DES COMMUNES ET MINISTRE DE LA RÉFORME DÉMOCRATIQUE |
+| AS PASSED BY THE HOUSE OF COMMONSFEBRUARY 20, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 20 FÉVRIER 2007 |
+| 90387 |  |  |
 
 INSIDECOVER
 
@@ -20,7 +20,7 @@ MAINTEXT
 
 | 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
+| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-31 |  | PROJET DE LOI C-31 |  |  |  |  |
 | An Act to amend the Canada Elections Act and the Public Service Employment Act |  | Loi modifiant la Loi électorale du Canada et la Loi sur l'emploi dans la fonction publique |  |  |  |  |
@@ -75,7 +75,7 @@ MAINTEXT
 | Addition of elector's name (1.1) The returning officer or assistant returning officer may also add to the preliminary list of electors the name of any elector whose name is added to the Register of Electors after that list has been prepared. |  | (1.1) Le directeur du scrutin ou le directeur adjoint du scrutin peuvent ajouter le nom d'un électeur à la liste électorale préliminaire s'il a été ajouté au Registre des électeurs après que la liste électorale préliminaire a été dressée. Adjonctions sur la foi du Registre des électeurs |  |  |  |  |
 | 17. The Act is amended by adding the following after section 104: |  | 17. La même loi est modifiée par adjonction, après l'article 104, de ce qui suit : |  |  |  |  |
 | Updated Preliminary Lists of Electors |  | Listes électorales préliminaires à jour |  |  |  |  |
-| Distribution of lists 104.1. Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription. Transmission des listes |  |  |  |  |
+| Distribution of lists 104.1 Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription. Transmission des listes |  |  |  |  |
 | 18. Subsections 107(2) and (3) of the Act are replaced by the following: |  | 18. Les paragraphes 107(2) et (3) de la même loi sont remplacés par ce qui suit : |  |  |  |  |
 | Transmittal of list (2) Each returning officer shall deliver to each deputy returning officer the revised list of electors or official list of electors, as the case may be, that the deputy returning officer needs to conduct the vote in his or her respective advance polling station or polling station. The list shall indicate each elector's sex and date of birth. |  | (2) Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe et de la date de naissance de chaque électeur y figurant. Transmission des listes |  |  |  |  |
 | Transmittal to candidates (3) Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of a version of the revised lists of electors and the official lists of electors that indicates each elector's date of birth. |  | (3) Le directeur du scrutin remet aussi à chacun des candidats deux copies, dont une sous forme électronique, des listes électorales révisées et des listes électorales officielles sur lesquelles la date de naissance des électeurs est indiquée. Copies aux candidats |  |  |  |  |
@@ -165,23 +165,23 @@ MAINTEXT
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | Coming into force 42. (1) Sections 3, 6, 8 and 9, subsection 10(2), sections 11, 12, 14 to 16, 20 to 33 and 35 to 39 come into force two months after the day on which this Act receives royal assent unless, before that day, the Chief Electoral Officer publishes a notice in the Canada Gazette that the necessary preparations have been made for the bringing into operation of the provisions set out in the notice and that they may come into force on the day set out in the notice. |  | 42. (1) Les articles 3, 6, 8 et 9, le paragraphe 10(2) et les articles 11, 12, 14 à 16, 20 à 33 et 35 à 39 entrent en vigueur deux mois après la date de la sanction de la présente loi à moins que, avant cette date, le directeur général des élections n'ait publié, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à la mise en application des dispositions précisées dans l'avis ont été faits et que celles-ci peuvent en conséquence entrer en vigueur à la date fixée dans l'avis. Entrée en vigueur |  |  |  |  |
 | Coming into force (2) The amendment to the definition "list of electors" in subsection 2(1) of the Canada Elections Act, as enacted by section 1, sections 4, 5 and 7, subsection 10(1) and sections 13, 17 to 19 and 34 come into force eight months after the day on which this Act receives royal assent unless, before that day, the Chief Electoral Officer publishes a notice in the Canada Gazette that the necessary preparations have been made for the bringing into operation of the provisions set out in the notice and that they may come into force on the day set out in the notice. |  | (2) La définition de « liste électorale » au paragraphe 2(1) de la Loi électorale du Canada, édictée par l'article 1, les articles 4, 5 et 7, le paragraphe 10(1) et les articles 13, 17 à 19 et 34 entrent en vigueur huit mois après la date de la sanction de la présente loi à moins que, avant cette date, le directeur général des élections n'ait publié, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à la mise en application des dispositions précisées dans l'avis ont été faits et que celles-ci peuvent en conséquence entrer en vigueur à la date fixée dans l'avis. Entrée en vigueur |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 Table of ContentsCoverSummaryBill  C-31CANADA ELECTIONS ACTUpdated Preliminary Lists of ElectorsPUBLIC SERVICE EMPLOYMENT ACTCOMING INTO FORCE
 
-Bill  C-31Click here for the entire document (221Kb)Table of ContentsCoverSummaryBill  C-31CANADA ELECTIONS ACTUpdated Preliminary Lists of ElectorsPUBLIC SERVICE EMPLOYMENT ACTCOMING INTO FORCE
+Bill  C-31Click here for the entire document (219Kb)Table of ContentsCoverSummaryBill  C-31CANADA ELECTIONS ACTUpdated Preliminary Lists of ElectorsPUBLIC SERVICE EMPLOYMENT ACTCOMING INTO FORCE
 
 COVER
 
 | C-31 |  | C-31 |
 | --- | --- | --- |
 | First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |
+| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-31 |  | PROJET DE LOI C-31 |
 | An Act to amend the Canada Elections Act and the Public Service Employment Act |  | Loi modifiant la Loi électorale du Canada et la Loi sur l'emploi dans la fonction publique |
-| Reprinted as amended by the Standing Committee on Procedure and House Affairs as a working copy for the use of the House of Commons at Report Stage and as reported to the House on December 13, 2006 |  | Réimprimé tel que modifié par le Comité permanent de la Procédure et des affaires de la Chambre comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 13 décembre 2006 |
-| THE LEADER OF THE GOVERNMENT IN THE HOUSE OF COMMONS AND MINISTER FOR DEMOCRATIC REFORM90387 |  | LE LEADER DU GOUVERNEMENT À LA CHAMBRE DES COMMUNES ET MINISTRE DE LA RÉFORME DÉMOCRATIQUE |
+| AS PASSEDBY THE HOUSE OF COMMONSFEBRUARY 20, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 20 FÉVRIER 2007 |
+| 90387 |  |  |
 
 INSIDECOVER
 
@@ -197,7 +197,7 @@ MAINTEXT
 
 | 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
+| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-31 |  | PROJET DE LOI C-31 |  |  |  |  |
 | An Act to amend the Canada Elections Act and the Public Service Employment Act |  | Loi modifiant la Loi électorale du Canada et la Loi sur l'emploi dans la fonction publique |  |  |  |  |
@@ -252,7 +252,7 @@ MAINTEXT
 | Addition of elector's name(1.1) The returning officer or assistant returning officer may also add to the preliminary list of electors the name of any elector whose name is added to the Register of Electors after that list has been prepared. |  | (1.1) Le directeur du scrutin ou le directeur adjoint du scrutin peuvent ajouter le nom d'un électeur à la liste électorale préliminaire s'il a été ajouté au Registre des électeurs après que la liste électorale préliminaire a été dressée.Adjonctions sur la foi du Registre des électeurs |  |  |  |  |
 | 17. The Act is amended by adding the following after section 104: |  | 17. La même loi est modifiée par adjonction, après l'article 104, de ce qui suit : |  |  |  |  |
 | Updated Preliminary Lists of Electors |  | Listes électorales préliminaires à jour |  |  |  |  |
-| Distribution of lists104.1. Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.Transmission des listes |  |  |  |  |
+| Distribution of lists104.1 Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.Transmission des listes |  |  |  |  |
 | 18. Subsections 107(2) and (3) of the Act are replaced by the following: |  | 18. Les paragraphes 107(2) et (3) de la même loi sont remplacés par ce qui suit : |  |  |  |  |
 | Transmittal of list(2) Each returning officer shall deliver to each deputy returning officer the revised list of electors or official list of electors, as the case may be, that the deputy returning officer needs to conduct the vote in his or her respective advance polling station or polling station. The list shall indicate each elector's sex and date of birth. |  | (2) Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe et de la date de naissance de chaque électeur y figurant.Transmission des listes |  |  |  |  |
 | Transmittal to candidates(3) Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of a version of the revised lists of electors and the official lists of electors that indicates each elector's date of birth. |  | (3) Le directeur du scrutin remet aussi à chacun des candidats deux copies, dont une sous forme électronique, des listes électorales révisées et des listes électorales officielles sur lesquelles la date de naissance des électeurs est indiquée.Copies aux candidats |  |  |  |  |
@@ -339,7 +339,7 @@ MAINTEXT
 
 | 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
+| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-31 |  | PROJET DE LOI C-31 |  |  |  |  |
 | An Act to amend the Canada Elections Act and the Public Service Employment Act |  | Loi modifiant la Loi électorale du Canada et la Loi sur l'emploi dans la fonction publique |  |  |  |  |
@@ -394,7 +394,7 @@ MAINTEXT
 | Addition of elector's name(1.1) The returning officer or assistant returning officer may also add to the preliminary list of electors the name of any elector whose name is added to the Register of Electors after that list has been prepared. |  | (1.1) Le directeur du scrutin ou le directeur adjoint du scrutin peuvent ajouter le nom d'un électeur à la liste électorale préliminaire s'il a été ajouté au Registre des électeurs après que la liste électorale préliminaire a été dressée.Adjonctions sur la foi du Registre des électeurs |  |  |  |  |
 | 17. The Act is amended by adding the following after section 104: |  | 17. La même loi est modifiée par adjonction, après l'article 104, de ce qui suit : |  |  |  |  |
 | Updated Preliminary Lists of Electors |  | Listes électorales préliminaires à jour |  |  |  |  |
-| Distribution of lists104.1. Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.Transmission des listes |  |  |  |  |
+| Distribution of lists104.1 Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.Transmission des listes |  |  |  |  |
 | 18. Subsections 107(2) and (3) of the Act are replaced by the following: |  | 18. Les paragraphes 107(2) et (3) de la même loi sont remplacés par ce qui suit : |  |  |  |  |
 | Transmittal of list(2) Each returning officer shall deliver to each deputy returning officer the revised list of electors or official list of electors, as the case may be, that the deputy returning officer needs to conduct the vote in his or her respective advance polling station or polling station. The list shall indicate each elector's sex and date of birth. |  | (2) Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe et de la date de naissance de chaque électeur y figurant.Transmission des listes |  |  |  |  |
 | Transmittal to candidates(3) Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of a version of the revised lists of electors and the official lists of electors that indicates each elector's date of birth. |  | (3) Le directeur du scrutin remet aussi à chacun des candidats deux copies, dont une sous forme électronique, des listes électorales révisées et des listes électorales officielles sur lesquelles la date de naissance des électeurs est indiquée.Copies aux candidats |  |  |  |  |
@@ -481,7 +481,7 @@ MAINTEXT
 
 | 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
+| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
 | house of commons of canada |  | chambre des communes du canada |  |  |  |  |
 | BILL C-31 |  | PROJET DE LOI C-31 |  |  |  |  |
 | An Act to amend the Canada Elections Act and the Public Service Employment Act |  | Loi modifiant la Loi électorale du Canada et la Loi sur l'emploi dans la fonction publique |  |  |  |  |
@@ -536,7 +536,7 @@ MAINTEXT
 | Addition of elector's name(1.1) The returning officer or assistant returning officer may also add to the preliminary list of electors the name of any elector whose name is added to the Register of Electors after that list has been prepared. |  | (1.1) Le directeur du scrutin ou le directeur adjoint du scrutin peuvent ajouter le nom d'un électeur à la liste électorale préliminaire s'il a été ajouté au Registre des électeurs après que la liste électorale préliminaire a été dressée.Adjonctions sur la foi du Registre des électeurs |  |  |  |  |
 | 17. The Act is amended by adding the following after section 104: |  | 17. La même loi est modifiée par adjonction, après l'article 104, de ce qui suit : |  |  |  |  |
 | Updated Preliminary Lists of Electors |  | Listes électorales préliminaires à jour |  |  |  |  |
-| Distribution of lists104.1. Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.Transmission des listes |  |  |  |  |
+| Distribution of lists104.1 Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district. |  | 104.1 Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.Transmission des listes |  |  |  |  |
 | 18. Subsections 107(2) and (3) of the Act are replaced by the following: |  | 18. Les paragraphes 107(2) et (3) de la même loi sont remplacés par ce qui suit : |  |  |  |  |
 | Transmittal of list(2) Each returning officer shall deliver to each deputy returning officer the revised list of electors or official list of electors, as the case may be, that the deputy returning officer needs to conduct the vote in his or her respective advance polling station or polling station. The list shall indicate each elector's sex and date of birth. |  | (2) Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe et de la date de naissance de chaque électeur y figurant.Transmission des listes |  |  |  |  |
 | Transmittal to candidates(3) Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of a version of the revised lists of electors and the official lists of electors that indicates each elector's date of birth. |  | (3) Le directeur du scrutin remet aussi à chacun des candidats deux copies, dont une sous forme électronique, des listes électorales révisées et des listes électorales officielles sur lesquelles la date de naissance des électeurs est indiquée.Copies aux candidats |  |  |  |  |
