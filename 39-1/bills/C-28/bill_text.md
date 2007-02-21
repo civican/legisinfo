@@ -1,14 +1,10 @@
 COVER
 
-| C-28 |  | C-28 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-28 |  | PROJET DE LOI C-28 |
+| STATUTES OF CANADA 2007CHAPTER 2 |  | LOIS DU CANADA (2007)CHAPITRE 2 |
 | A second Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006 |
-| AS PASSED BY THE HOUSE OF COMMONSDECEMBER 11, 2006 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 11 DÉCEMBRE 2006 |
-| 90386 |  |  |
+| ASSENTED TO 21st FEBRUARY, 2007 BILL C-28 |  | SANCTIONNÉE LE 21 FÉVRIER 2007 PROJET DE LOI C-28 |
 
 INSIDECOVER
 
@@ -36,12 +32,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 2 |  | CHAPITRE 2 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006 |  |  |  |  |
+| [Assented to 21st February, 2007] |  | [Sanctionnée le 21 février 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title 1. This Act may be cited as the Budget Implementation Act, 2006, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2006. Titre abrégé |  |  |  |  |
@@ -456,23 +452,19 @@ MAINTEXT
 | 4. On the next 35,000 hectolitres of beer and malt liquor brewed in Canada, (a) if it contains more than 2.5% absolute ethyl alcohol by volume, $21.854 per hectolitre; (b) if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, $10.927 per hectolitre; and (c) if it contains not more than 1.2% absolute ethyl alcohol by volume, $1.8137 per hectolitre. |  | 4. Sur la tranche suivante de 35 000 hectolitres de bière et de liqueur de malt brassés au Canada : a) contenant plus de 2,5 % d'alcool éthylique absolu par volume, 21,854 $ l'hectolitre; b) contenant plus de 1,2 % d'alcool éthylique absolu par volume, mais au plus 2,5 % d'alcool éthylique absolu par volume, 10,927 $ l'hectolitre; c) contenant au plus 1,2 % d'alcool éthylique absolu par volume, 1,8137 $ l'hectolitre. |  |  |  |  |
 | 5. On the next 25,000 hectolitres of beer and malt liquor brewed in Canada, (a) if it contains more than 2.5% absolute ethyl alcohol by volume, $26.537 per hectolitre; (b) if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, $13.269 per hectolitre; and (c) if it contains not more than 1.2% absolute ethyl alcohol by volume, $2.2024 per hectolitre. |  | 5. Sur la tranche suivante de 25 000 hectolitres de bière et de liqueur de malt brassés au Canada : a) contenant plus de 2,5 % d'alcool éthylique absolu par volume, 26,537 $ l'hectolitre; b) contenant plus de 1,2 % d'alcool éthylique absolu par volume, mais au plus 2,5 % d'alcool éthylique absolu par volume, 13,269 $ l'hectolitre; c) contenant au plus 1,2 % d'alcool éthylique absolu par volume, 2,2024 $ l'hectolitre. |  |  |  |  |
 | (2) Subsection (1) is deemed to have come into force on July 1, 2006, except that, for 2006, (a) the reference to "35,000" in section 4 of Part II.1 of the schedule to the Act, as enacted by subsection (1), shall be read as a reference to "22,500"; and (b) section 5 of Part II.1 of the schedule to the Act, as enacted by subsection (1), does not apply. |  | (2) Le paragraphe (1) est réputé être entré en vigueur le 1er juillet 2006. Toutefois, en ce qui concerne 2006 : a) la mention « 35 000 » à l'article 4 de la partie II.1 de l'annexe de la même loi, édicté par le paragraphe (1), vaut mention de « 22 500 »; b) l'article 5 de la partie II.1 de l'annexe de la même loi, édicté par le paragraphe (1), ne s'applique pas. |  |  |  |  |
-| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services CanadaOttawa, Ontario K1A 0S5Telephone: (613) 941-5995 or 1-800-635-7943Fax: (613) 954-5779 or 1-800-565-7757publications@pwgsc.gc.cahttp://publications.gc.ca |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux CanadaOttawa (Ontario) K1A 0S5Téléphone : (613) 941-5995 ou 1-800-635-7943Télécopieur : (613) 954-5779 ou 1-800-565-7757publications@tpsgc.gc.cahttp://publications.gc.ca |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-28SHORT TITLEAMENDMENTS TO THE INCOME TAX ACTTransitional ProvisionsAMENDMENTS TO THE INCOME TAX ACT (DIVIDEND TAXATION)ADDITIONAL TAX ON EXCESSIVE ELIGIBLE DIVIDEND DESIGNATIONSAMENDMENTS RELATING TO THE EXCISE DUTIES ON CANADIAN WINE AND BEERExcise Act, 2001Excise ActII.1 CANADIAN BEER
+Table of ContentsCoverSummaryTable of ProvisionsBill C-28SHORT TITLEAMENDMENTS TO THE INCOME TAX ACTTransitional ProvisionsAMENDMENTS TO THE INCOME TAX ACT (DIVIDEND TAXATION)ADDITIONAL TAX ON EXCESSIVE ELIGIBLE DIVIDEND DESIGNATIONSAMENDMENTS RELATING TO THE EXCISE DUTIES ON CANADIAN WINE AND BEERExcise Act, 2001Excise ActII.1 CANADIAN BEER
 
-Bill  C-28Click here for the entire document (1304Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-28SHORT TITLEAMENDMENTS TO THE INCOME TAX ACTTransitional ProvisionsAMENDMENTS TO THE INCOME TAX ACT (DIVIDEND TAXATION)ADDITIONAL TAX ON EXCESSIVE ELIGIBLE DIVIDEND DESIGNATIONSAMENDMENTS RELATING TO THE EXCISE DUTIES ON CANADIAN WINE AND BEERExcise Act, 2001Excise ActII.1 CANADIAN BEER
+Bill C-28Click here for the entire document (1302Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-28SHORT TITLEAMENDMENTS TO THE INCOME TAX ACTTransitional ProvisionsAMENDMENTS TO THE INCOME TAX ACT (DIVIDEND TAXATION)ADDITIONAL TAX ON EXCESSIVE ELIGIBLE DIVIDEND DESIGNATIONSAMENDMENTS RELATING TO THE EXCISE DUTIES ON CANADIAN WINE AND BEERExcise Act, 2001Excise ActII.1 CANADIAN BEER
 
 COVER
 
-| C-28 |  | C-28 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-28 |  | PROJET DE LOI C-28 |
+| STATUTES OF CANADA 2007CHAPTER 2 |  | LOIS DU CANADA (2007)CHAPITRE 2 |
 | A second Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006 |
-| AS PASSEDBY THE HOUSE OF COMMONSDECEMBER 11, 2006 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 11 DÉCEMBRE 2006 |
-| 90386 |  |  |
+| ASSENTED TO21st FEBRUARY, 2007BILL C-28 |  | SANCTIONNÉELE 21 FÉVRIER 2007PROJET DE LOI C-28 |
 
 INSIDECOVER
 
@@ -506,12 +498,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 2 |  | CHAPITRE 2 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006 |  |  |  |  |
+| [Assented to 21st February, 2007] |  | [Sanctionnée le 21 février 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2006, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2006.Titre abrégé |  |  |  |  |
@@ -805,12 +797,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 2 |  | CHAPITRE 2 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006 |  |  |  |  |
+| [Assented to 21st February, 2007] |  | [Sanctionnée le 21 février 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2006, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2006.Titre abrégé |  |  |  |  |
@@ -1104,12 +1096,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55 Elizabeth II, 2006 |  | 55 Elizabeth II, 2006 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-28 |  | PROJET DE LOI C-28 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 2 |  | CHAPITRE 2 |  |  |  |  |
 | A second Act to implement certain provisions of the budget tabled in Parliament on May 2, 2006 |  | Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 2 mai 2006 |  |  |  |  |
+| [Assented to 21st February, 2007] |  | [Sanctionnée le 21 février 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2006, No. 2. |  | 1. Loi no 2 d'exécution du budget de 2006.Titre abrégé |  |  |  |  |
