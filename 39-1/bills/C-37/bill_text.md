@@ -1,14 +1,10 @@
 COVER
 
-| C-37 |  | C-37 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-37 |  | PROJET DE LOI C-37 |
+| STATUTES OF CANADA 2007CHAPTER 6 |  | LOIS DU CANADA (2007)CHAPITRE 6 |
 | An Act to amend the law governing financial institutions and to provide for related and consequential matters |  | Loi modifiant la législation régissant les institutions financières et comportant des mesures connexes et corrélatives |
-| AS PASSED BY THE HOUSE OF COMMONSFEBRUARY 27, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 27 FÉVRIER 2007 |
-| 90390 |  |  |
+| ASSENTED TO 29th MARCH, 2007 BILL C-37 |  | SANCTIONNÉE LE 29 MARS 2007 PROJET DE LOI C-37 |
 
 INSIDECOVER
 
@@ -56,12 +52,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-37 |  | PROJET DE LOI C-37 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 6 |  | CHAPITRE 6 |  |  |  |  |
 | An Act to amend the law governing financial institutions and to provide for related and consequential matters |  | Loi modifiant la législation régissant les institutions financières et comportant des mesures connexes et corrélatives |  |  |  |  |
+| [Assented to 29th March, 2007] |  | [Sanctionnée le 29 mars 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | PART 1 |  | PARTIE 1 |  |  |  |  |
 | 1991, c. 46 AMENDMENTS TO THE BANK ACT |  | MODIFICATION DE LA LOI SUR LES BANQUES 1991, ch. 46 |  |  |  |  |
@@ -1644,29 +1640,25 @@ MAINTEXT
 | PART 6 |  | PARTIE 6 |  |  |  |  |
 | COORDINATING AMENDMENTS AND COMING INTO FORCE |  | DISPOSITIONS DE COORDINATION ET ENTRÉE EN VIGUEUR |  |  |  |  |
 | Coordinating Amendments |  | Dispositions de coordination |  |  |  |  |
-| 450. On the later of the day on which subsection 213(2) of An Act to amend certain Acts in relation to financial institutions, being chapter 54 of the Statutes of Canada, 2005, comes into force and the day on which subsection 438(3) of this Act comes into force ? or, if those days are the same day, then on that day ? paragraph 17(1)(e) of the Green Shield Canada Act is replaced by the following: |  | 450. À la date d'entrée en vigueur du paragraphe 213(2) de la Loi modifiant certaines lois relatives aux institutions financières, chapitre 54 des Lois du Canada de 2005, ou à celle, si elle est postérieure, du paragraphe 438(3) de la présente loi, l'alinéa 17(1)e) de la Loi sur l'association personnalisée le Bouclier vert du Canada est remplacé par ce qui suit : |  |  |  |  |
+| 2005, c. 54 450. On the later of the day on which subsection 213(2) of An Act to amend certain Acts in relation to financial institutions, being chapter 54 of the Statutes of Canada, 2005, comes into force and the day on which subsection 438(3) of this Act comes into force ? or, if those days are the same day, then on that day ? paragraph 17(1)(e) of the Green Shield Canada Act is replaced by the following: |  | 450. À la date d'entrée en vigueur du paragraphe 213(2) de la Loi modifiant certaines lois relatives aux institutions financières, chapitre 54 des Lois du Canada de 2005, ou à celle, si elle est postérieure, du paragraphe 438(3) de la présente loi, l'alinéa 17(1)e) de la Loi sur l'association personnalisée le Bouclier vert du Canada est remplacé par ce qui suit : 2005, ch. 54 |  |  |  |  |
 | (e) sections 160 to 162, paragraphs 165(2)(a) to (d), (h) and (i), sections 166 and 167, subsection 168(1), sections 170 to 172, subsections 174(1) and (3) to (6), 174(7) (except the reference in it to subsection 173(4)) and 175(1) and (4), sections 177 and 189 to 194, subsection 195(1), sections 196, 202 and 203, subsections 204(1) and (2), paragraphs 204(3)(a) to (c), subsections 204(4) to (6), sections 205 and 206, paragraphs 207(a) to (c), (h) and (i), sections 208 to 215, paragraphs 216(2)(d) and (e), subsections 217(1) and (2), paragraphs 217(3)(a) and (c), sections 218 to 223, 244, 254, 255 and 260, subsections 261(1) and (2) and 262(1) to (6), sections 266 to 268, paragraphs 269(a) and (b), sections 270, 278, 279 and 330, paragraphs 331(1)(a) and (b) to (e), subsection 331(2), paragraphs 331(3)(b) and (c), subsections 331(4) and (6), sections 332 to 357 and 359.1 to 380, paragraph 381(1)(a), subsection 381(2) and sections 382 to 406 of Part VI; |  | e) les articles 160 à 162, les alinéas 165(2)a) à d), h) et i), les articles 166 et 167, le paragraphe 168(1), les articles 170 à 172, les paragraphes 174(1) et (3) à (6), le paragraphe 174(7) — à l'exception du renvoi au paragraphe 173(4) qu'il comporte —, les paragraphes 175(1) et (4), les articles 177 et 189 à 194, le paragraphe 195(1), les articles 196, 202 et 203, les paragraphes 204(1) et (2), les alinéas 204(3)a) à c), les paragraphes 204(4) à (6), les articles 205 et 206, les alinéas 207a) à c), h) et i), les articles 208 à 215, les alinéas 216(2)d) et e), les paragraphes 217(1) et (2), les alinéas 217(3)a) et c), les articles 218 à 223, 244, 254, 255 et 260, les paragraphes 261(1) et (2) et 262(1) à (6), les articles 266 à 268, les alinéas 269a) et b), les articles 270, 278, 279 et 330, les alinéas 331(1)a) et b) à e), le paragraphe 331(2), les alinéas 331(3)b) et c), les paragraphes 331(4) et (6), les articles 332 à 357 et 359.1 à 380, l'alinéa 381(1)a), le paragraphe 381(2) et les articles 382 à 406 de la partie VI; |  |  |  |  |
-| 451. On the later of the day on which section 416 of An Act to amend certain Acts in relation to financial institutions, being chapter 54 of the Statutes of Canada, 2005, comes into force and the day on which section 352 of this Act comes into force ? or, if those days are the same day, then on that day ? subsection 245(3) of the English version of the Trust and Loan Companies Act is replaced by the following: |  | 451. À la date d'entrée en vigueur de l'article 416 de la Loi modifiant certaines lois relatives aux institutions financières, chapitre 54 des Lois du Canada de 2005, ou à celle, si elle est postérieure, de l'article 352 de la présente loi, le paragraphe 245(3) de la version anglaise de la Loi sur les sociétés de fiducie et de prêt est remplacé par ce qui suit : |  |  |  |  |
+| 2005, c. 54 451. On the later of the day on which section 416 of An Act to amend certain Acts in relation to financial institutions, being chapter 54 of the Statutes of Canada, 2005, comes into force and the day on which section 352 of this Act comes into force ? or, if those days are the same day, then on that day ? subsection 245(3) of the English version of the Trust and Loan Companies Act is replaced by the following: |  | 451. À la date d'entrée en vigueur de l'article 416 de la Loi modifiant certaines lois relatives aux institutions financières, chapitre 54 des Lois du Canada de 2005, ou à celle, si elle est postérieure, de l'article 352 de la présente loi, le paragraphe 245(3) de la version anglaise de la Loi sur les sociétés de fiducie et de prêt est remplacé par ce qui suit : 2005, ch. 54 |  |  |  |  |
 | Entitlement (3) A shareholder or creditor of a company or their personal representative — or if the company is a distributing company, any person — is entitled to a basic list of shareholders of the company. |  | (3) A shareholder or creditor of a company or their personal representative — or if the company is a distributing company, any person — is entitled to a basic list of shareholders of the company. Entitlement |  |  |  |  |
 | Coming into Force |  | Entrée en vigueur |  |  |  |  |
 | Order in council 452. The provisions of this Act, or the provisions of any Act enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council. |  | 452. Les dispositions de la présente loi, ou celles de toute autre loi édictées par elle, entrent en vigueur à la date ou aux dates fixées par décret. Décret |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-37AMENDMENTS TO THE BANK ACTRegistered ProductsApprovalsApplicationApproval to Have a Financial Establishment in CanadaApprovals in Respect of Investments and ActivitiesNON-APPLICATION OF THE INVESTMENT CANADA ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE COOPERATIVE CREDIT ASSOCIATIONS ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE INSURANCE COMPANIES ACTRestrictions Specific to Property and Casualty Companies and Marine CompaniesConsumer and Commercial Lending by Property and Casualty Companies and Marine CompaniesInsurance of RisksAdequacy of AssetsConsumer and Commercial Lending by Foreign Property and Casualty Companies and Foreign Marine CompaniesReal PropertyEquitiesInterpretationAppointmentRelease of AssetsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE TRUST AND LOAN COMPANIES ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO OTHER ACTSAn Act to amend certain Acts in relation to financial institutionsBank of Canada ActRESERVE FUNDSBills of Exchange ActOfficial Images and Electronic PresentmentCanada Business Corporations ActCanada Deposit Insurance Corporation ActFEDERAL INSTITUTIONS WITHOUT DEPOSIT INSURANCECanadian Payments ActPrésident du conseilPresidentFinancial Consumer Agency of Canada ActGreen Shield Canada ActInvestment Canada ActNational Housing ActPayment Clearing and Settlement ActWinding-up and Restructuring ActCOORDINATING AMENDMENTS AND COMING INTO FORCECoordinating AmendmentsComing into Force
+Table of ContentsCoverSummaryTable of ProvisionsBill C-37AMENDMENTS TO THE BANK ACTRegistered ProductsApprovalsApplicationApproval to Have a Financial Establishment in CanadaApprovals in Respect of Investments and ActivitiesNON-APPLICATION OF THE INVESTMENT CANADA ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE COOPERATIVE CREDIT ASSOCIATIONS ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE INSURANCE COMPANIES ACTRestrictions Specific to Property and Casualty Companies and Marine CompaniesConsumer and Commercial Lending by Property and Casualty Companies and Marine CompaniesInsurance of RisksAdequacy of AssetsConsumer and Commercial Lending by Foreign Property and Casualty Companies and Foreign Marine CompaniesReal PropertyEquitiesInterpretationAppointmentRelease of AssetsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE TRUST AND LOAN COMPANIES ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO OTHER ACTSAn Act to amend certain Acts in relation to financial institutionsBank of Canada ActRESERVE FUNDSBills of Exchange ActOfficial Images and Electronic PresentmentCanada Business Corporations ActCanada Deposit Insurance Corporation ActFEDERAL INSTITUTIONS WITHOUT DEPOSIT INSURANCECanadian Payments ActPrésident du conseilPresidentFinancial Consumer Agency of Canada ActGreen Shield Canada ActInvestment Canada ActNational Housing ActPayment Clearing and Settlement ActWinding-up and Restructuring ActCOORDINATING AMENDMENTS AND COMING INTO FORCECoordinating AmendmentsComing into Force
 
-Bill  C-37Click here for the entire document (2801Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-37AMENDMENTS TO THE BANK ACTRegistered ProductsApprovalsApplicationApproval to Have a Financial Establishment in CanadaApprovals in Respect of Investments and ActivitiesNON-APPLICATION OF THE INVESTMENT CANADA ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE COOPERATIVE CREDIT ASSOCIATIONS ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE INSURANCE COMPANIES ACTRestrictions Specific to Property and Casualty Companies and Marine CompaniesConsumer and Commercial Lending by Property and Casualty Companies and Marine CompaniesInsurance of RisksAdequacy of AssetsConsumer and Commercial Lending by Foreign Property and Casualty Companies and Foreign Marine CompaniesReal PropertyEquitiesInterpretationAppointmentRelease of AssetsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE TRUST AND LOAN COMPANIES ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO OTHER ACTSAn Act to amend certain Acts in relation to financial institutionsBank of Canada ActRESERVE FUNDSBills of Exchange ActOfficial Images and Electronic PresentmentCanada Business Corporations ActCanada Deposit Insurance Corporation ActFEDERAL INSTITUTIONS WITHOUT DEPOSIT INSURANCECanadian Payments ActPrésident du conseilPresidentFinancial Consumer Agency of Canada ActGreen Shield Canada ActInvestment Canada ActNational Housing ActPayment Clearing and Settlement ActWinding-up and Restructuring ActCOORDINATING AMENDMENTS AND COMING INTO FORCECoordinating AmendmentsComing into Force
+Bill C-37Click here for the entire document (2800Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-37AMENDMENTS TO THE BANK ACTRegistered ProductsApprovalsApplicationApproval to Have a Financial Establishment in CanadaApprovals in Respect of Investments and ActivitiesNON-APPLICATION OF THE INVESTMENT CANADA ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE COOPERATIVE CREDIT ASSOCIATIONS ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE INSURANCE COMPANIES ACTRestrictions Specific to Property and Casualty Companies and Marine CompaniesConsumer and Commercial Lending by Property and Casualty Companies and Marine CompaniesInsurance of RisksAdequacy of AssetsConsumer and Commercial Lending by Foreign Property and Casualty Companies and Foreign Marine CompaniesReal PropertyEquitiesInterpretationAppointmentRelease of AssetsApprovalsApplications for Certain ApprovalsAMENDMENTS TO THE TRUST AND LOAN COMPANIES ACTRegistered ProductsApprovalsApplications for Certain ApprovalsAMENDMENTS TO OTHER ACTSAn Act to amend certain Acts in relation to financial institutionsBank of Canada ActRESERVE FUNDSBills of Exchange ActOfficial Images and Electronic PresentmentCanada Business Corporations ActCanada Deposit Insurance Corporation ActFEDERAL INSTITUTIONS WITHOUT DEPOSIT INSURANCECanadian Payments ActPrésident du conseilPresidentFinancial Consumer Agency of Canada ActGreen Shield Canada ActInvestment Canada ActNational Housing ActPayment Clearing and Settlement ActWinding-up and Restructuring ActCOORDINATING AMENDMENTS AND COMING INTO FORCECoordinating AmendmentsComing into Force
 
 COVER
 
-| C-37 |  | C-37 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-37 |  | PROJET DE LOI C-37 |
+| STATUTES OF CANADA 2007CHAPTER 6 |  | LOIS DU CANADA (2007)CHAPITRE 6 |
 | An Act to amend the law governing financial institutions and to provide for related and consequential matters |  | Loi modifiant la législation régissant les institutions financières et comportant des mesures connexes et corrélatives |
-| AS PASSEDBY THE HOUSE OF COMMONSFEBRUARY 27, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 27 FÉVRIER 2007 |
-| 90390 |  |  |
+| ASSENTED TO29th MARCH, 2007BILL C-37 |  | SANCTIONNÉELE 29 MARS 2007PROJET DE LOI C-37 |
 
 INSIDECOVER
 
@@ -1720,12 +1712,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-37 |  | PROJET DE LOI C-37 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 6 |  | CHAPITRE 6 |  |  |  |  |
 | An Act to amend the law governing financial institutions and to provide for related and consequential matters |  | Loi modifiant la législation régissant les institutions financières et comportant des mesures connexes et corrélatives |  |  |  |  |
+| [Assented to 29th March, 2007] |  | [Sanctionnée le 29 mars 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | PART 1 |  | PARTIE 1 |  |  |  |  |
 | 1991, c. 46AMENDMENTS TO THE BANK ACT |  | MODIFICATION DE LA LOI SUR LES BANQUES1991, ch. 46 |  |  |  |  |
@@ -1829,12 +1821,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-37 |  | PROJET DE LOI C-37 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 6 |  | CHAPITRE 6 |  |  |  |  |
 | An Act to amend the law governing financial institutions and to provide for related and consequential matters |  | Loi modifiant la législation régissant les institutions financières et comportant des mesures connexes et corrélatives |  |  |  |  |
+| [Assented to 29th March, 2007] |  | [Sanctionnée le 29 mars 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | PART 1 |  | PARTIE 1 |  |  |  |  |
 | 1991, c. 46AMENDMENTS TO THE BANK ACT |  | MODIFICATION DE LA LOI SUR LES BANQUES1991, ch. 46 |  |  |  |  |
