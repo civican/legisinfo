@@ -1,14 +1,10 @@
 COVER
 
-| C-46 |  | C-46 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-46 |  | PROJET DE LOI C-46 |
+| STATUTES OF CANADA 2007CHAPTER 8 |  | LOIS DU CANADA (2007)CHAPITRE 8 |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |
-| AS PASSED BY THE HOUSE OF COMMONSAPRIL 17, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 17 AVRIL 2007 |
-| 90405 |  |  |
+| ASSENTED TO 18th APRIL, 2007 BILL C-46 |  | SANCTIONNÉE LE 18 AVRIL 2007 PROJET DE LOI C-46 |
 
 INSIDECOVER
 
@@ -20,7 +16,7 @@ TABLEOFPROVISIONS
 
 | TABLE OF PROVISIONS |  | TABLE ANALYTIQUE |
 | --- | --- | --- |
-| AN ACT TO PROVIDE FOR THE RESUMPTION AND CONTINUATION OF RAILWAY OPERATIONS |  | LOI PRÉVOYANT LA REPRISE ET LE MAINTIEN DES SERVICES FERROVIAIRES |
+| AN ACT TO PROVIDE FOR THE RESUMPTION AND CONTINUATION OR RAILWAY OPERATIONS |  | LOI PRÉVOYANT LA REPRISE ET LE MAINTIEN DES SERVICES FERROVIAIRES |
 | SHORT TITLE |  | TITRE ABRÉGÉ |
 | 1. Railway Continuation Act, 2007 |  | 1. Loi de 2007 sur le maintien des services ferroviaires |
 | INTERPRETATION |  | DÉFINITIONS |
@@ -56,12 +52,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title 1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires. Titre abrégé |  |  |  |  |
@@ -104,21 +100,17 @@ MAINTEXT
 | Coming into force 21. This Act comes into force on the expiry of the twenty-fourth hour after the time at which it is assented to. |  | 21. La présente loi entre en vigueur à l'expiration de la vingt-quatrième heure suivant sa sanction. Entrée en vigueur |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-46SHORT TITLEINTERPRETATIONRAILWAY OPERATIONSOBLIGATIONSEXTENSION OF EACH COLLECTIVE AGREEMENTFINAL OFFER SELECTIONNEW COLLECTIVE AGREEMENTSCOSTSAMENDMENT OF NEW COLLECTIVE AGREEMENTSENFORCEMENTCOMING INTO FORCE
+Table of ContentsCoverSummaryTable of ProvisionsBill C-46SHORT TITLEINTERPRETATIONRAILWAY OPERATIONSOBLIGATIONSEXTENSION OF EACH COLLECTIVE AGREEMENTFINAL OFFER SELECTIONNEW COLLECTIVE AGREEMENTSCOSTSAMENDMENT OF NEW COLLECTIVE AGREEMENTSENFORCEMENTCOMING INTO FORCE
 
-Bill  C-46Click here for the entire document (102Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-46SHORT TITLEINTERPRETATIONRAILWAY OPERATIONSOBLIGATIONSEXTENSION OF EACH COLLECTIVE AGREEMENTFINAL OFFER SELECTIONNEW COLLECTIVE AGREEMENTSCOSTSAMENDMENT OF NEW COLLECTIVE AGREEMENTSENFORCEMENTCOMING INTO FORCE
+Bill C-46Click here for the entire document (101Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-46SHORT TITLEINTERPRETATIONRAILWAY OPERATIONSOBLIGATIONSEXTENSION OF EACH COLLECTIVE AGREEMENTFINAL OFFER SELECTIONNEW COLLECTIVE AGREEMENTSCOSTSAMENDMENT OF NEW COLLECTIVE AGREEMENTSENFORCEMENTCOMING INTO FORCE
 
 COVER
 
-| C-46 |  | C-46 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-46 |  | PROJET DE LOI C-46 |
+| STATUTES OF CANADA 2007CHAPTER 8 |  | LOIS DU CANADA (2007)CHAPITRE 8 |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |
-| AS PASSEDBY THE HOUSE OF COMMONSAPRIL 17, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 17 AVRIL 2007 |
-| 90405 |  |  |
+| ASSENTED TO18th APRIL, 2007BILL C-46 |  | SANCTIONNÉELE 18 AVRIL 2007PROJET DE LOI C-46 |
 
 INSIDECOVER
 
@@ -134,7 +126,7 @@ TABLEOFPROVISIONS
 
 | TABLE OF PROVISIONS |  | TABLE ANALYTIQUE |
 | --- | --- | --- |
-| AN ACT TO PROVIDE FOR THE RESUMPTION AND CONTINUATION OF RAILWAY OPERATIONS |  | LOI PRÉVOYANT LA REPRISE ET LE MAINTIEN DES SERVICES FERROVIAIRES |
+| AN ACT TO PROVIDE FOR THE RESUMPTION AND CONTINUATION OR RAILWAY OPERATIONS |  | LOI PRÉVOYANT LA REPRISE ET LE MAINTIEN DES SERVICES FERROVIAIRES |
 | SHORT TITLE |  | TITRE ABRÉGÉ |
 | 1. Railway Continuation Act, 2007 |  | 1. Loi de 2007 sur le maintien des services ferroviaires |
 | INTERPRETATION |  | DÉFINITIONS |
@@ -172,12 +164,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -222,12 +214,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -272,12 +264,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -322,12 +314,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -372,12 +364,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -422,12 +414,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -472,12 +464,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -522,12 +514,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -572,12 +564,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -622,12 +614,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -672,12 +664,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
@@ -722,12 +714,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-46 |  | PROJET DE LOI C-46 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 8 |  | CHAPITRE 8 |  |  |  |  |
 | An Act to provide for the resumption and continuation of railway operations |  | Loi prévoyant la reprise et le maintien des services ferroviaires |  |  |  |  |
+| [Assented to 18th April, 2007] |  | [Sanctionnée le 18 avril 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Railway Continuation Act, 2007. |  | 1. Loi de 2007 sur le maintien des services ferroviaires.Titre abrégé |  |  |  |  |
