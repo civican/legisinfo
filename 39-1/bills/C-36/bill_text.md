@@ -1,14 +1,10 @@
 COVER
 
-| C-36 |  | C-36 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-36 |  | PROJET DE LOI C-36 |
+| STATUTES OF CANADA 2007CHAPTER 11 |  | LOIS DU CANADA (2007)CHAPITRE 11 |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |
-| AS PASSED BY THE HOUSE OF COMMONSMARCH 19, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 19 MARS 2007 |
-| 90393 |  |  |
+| ASSENTED TO 3rd MAY, 2007 BILL C-36 |  | SANCTIONNÉE LE 3 MAI 2007 PROJET DE LOI C-36 |
 
 INSIDECOVER
 
@@ -18,12 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8 CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADA L.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
@@ -192,21 +188,17 @@ MAINTEXT
 | Order in Council (3) Subsection 4(2), sections 6 and 7, subsections 17(2) and 28(2) and sections 32 and 33 of this Act come into force on a day or days to be fixed by order of the Governor in Council. |  | (3) Le paragraphe 4(2), les articles 6 et 7, les paragraphes 17(2) et 28(2) et les articles 32 et 33 de la présente loi entrent en vigueur à la date ou aux dates fixées par décret. Décret |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
-Table of ContentsCoverSummaryBill  C-36CANADA PENSION PLANELECTRONIC ALTERNATIVESAdministrative Monetary PenaltiesAdministration and EnforcementOLD AGE SECURITY ACTEffect of WaiverOffencesAdministrative Monetary PenaltiesAdministration and EnforcementTRANSITIONAL PROVISIONSCOMING INTO FORCE
+Table of ContentsCoverSummaryBill C-36CANADA PENSION PLANELECTRONIC ALTERNATIVESAdministrative Monetary PenaltiesAdministration and EnforcementOLD AGE SECURITY ACTEffect of WaiverOffencesAdministrative Monetary PenaltiesAdministration and EnforcementTRANSITIONAL PROVISIONSCOMING INTO FORCE
 
-Bill  C-36Click here for the entire document (309Kb)Table of ContentsCoverSummaryBill  C-36CANADA PENSION PLANELECTRONIC ALTERNATIVESAdministrative Monetary PenaltiesAdministration and EnforcementOLD AGE SECURITY ACTEffect of WaiverOffencesAdministrative Monetary PenaltiesAdministration and EnforcementTRANSITIONAL PROVISIONSCOMING INTO FORCE
+Bill C-36Click here for the entire document (308Kb)Table of ContentsCoverSummaryBill C-36CANADA PENSION PLANELECTRONIC ALTERNATIVESAdministrative Monetary PenaltiesAdministration and EnforcementOLD AGE SECURITY ACTEffect of WaiverOffencesAdministrative Monetary PenaltiesAdministration and EnforcementTRANSITIONAL PROVISIONSCOMING INTO FORCE
 
 COVER
 
-| C-36 |  | C-36 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-36 |  | PROJET DE LOI C-36 |
+| STATUTES OF CANADA 2007CHAPTER 11 |  | LOIS DU CANADA (2007)CHAPITRE 11 |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |
-| AS PASSEDBY THE HOUSE OF COMMONSMARCH 19, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 19 MARS 2007 |
-| 90393 |  |  |
+| ASSENTED TO3rd MAY, 2007BILL C-36 |  | SANCTIONNÉELE 3 MAI 2007PROJET DE LOI C-36 |
 
 INSIDECOVER
 
@@ -220,12 +212,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADAL.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
@@ -334,12 +326,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADAL.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
@@ -448,12 +440,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADAL.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
@@ -562,12 +554,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADAL.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
@@ -676,12 +668,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADAL.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
@@ -790,12 +782,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-36 |  | PROJET DE LOI C-36 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 11 |  | CHAPITRE 11 |  |  |  |  |
 | An Act to amend the Canada Pension Plan and the Old Age Security Act |  | Loi modifiant le Régime de pensions du Canada et la Loi sur la sécurité de la vieillesse |  |  |  |  |
+| [Assented to 3rd May, 2007] |  | [Sanctionnée le 3 mai 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. C-8CANADA PENSION PLAN |  | RÉGIME DE PENSIONS DU CANADAL.R., ch. C-8 |  |  |  |  |
 | 1. The Canada Pension Plan is amended by adding the following after section 4: |  | 1. Le Régime de pensions du Canada est modifié par adjonction, après l'article 4, de ce qui suit : |  |  |  |  |
