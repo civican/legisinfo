@@ -7,8 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-47 |  | PROJET DE LOI C-47 |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |
-| Reprinted as amended by the Standing Committee on Industry, Science and Technology as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 6, 2007 |  | Réimprimé tel que modifié par le Comité permanent de l'industrie, des sciences et de la technologie comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 6 juin 2007 |
-| THE MINISTER OF INDUSTRY 90404 |  | LE MINISTRE DE L'INDUSTRIE |
+| AS PASSED BY THE HOUSE OF COMMONSJUNE 14, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 14 JUIN 2007 |
+| 90404 |  |  |
 
 INSIDECOVER
 
@@ -111,7 +111,7 @@ SCHEDULE
 | --- | --- | --- |
 | (Subsection 4(2), paragraph 12(2)(c) and section 13) |  | (paragraphe 4(2), alinéa 12(2)c) et article 13) |
 | EXPRESSIONS |  | EXPRESSIONS |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
 Table of ContentsCoverSummaryTable of ProvisionsBill  C-47AMENDMENT TO THIS ACTRELATED AMENDMENTTrade-marks ActCOMING INTO FORCESchedule 1Schedule 2Schedule 3
 
@@ -126,8 +126,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-47 |  | PROJET DE LOI C-47 |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |
-| Reprinted as amended by the Standing Committee on Industry, Science and Technology as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 6, 2007 |  | Réimprimé tel que modifié par le Comité permanent de l'industrie, des sciences et de la technologie comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 6 juin 2007 |
-| THE MINISTER OF INDUSTRY90404 |  | LE MINISTRE DE L'INDUSTRIE |
+| AS PASSEDBY THE HOUSE OF COMMONSJUNE 14, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 14 JUIN 2007 |
+| 90404 |  |  |
 
 INSIDECOVER
 
@@ -450,4 +450,4 @@ SCHEDULE
 | --- | --- | --- |
 | (Subsection 4(2), paragraph 12(2)(c) and section 13) |  | (paragraphe 4(2), alinéa 12(2)c) et article 13) |
 | EXPRESSIONS |  | EXPRESSIONS |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
