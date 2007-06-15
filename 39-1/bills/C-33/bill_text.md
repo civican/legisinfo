@@ -7,8 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-33 |  | PROJET DE LOI C-33 |
 | An Act to amend the Income Tax Act, including amendments in relation to foreign investment entities and non-resident trusts, and to provide for the bijural expression of the provisions of that Act |  | Loi modifiant la Loi de l'impôt sur le revenu, notamment en ce qui concerne les entités de placement étrangères et les fiducies non-résidentes ainsi que l'expression bijuridique de certaines dispositions de cette loi, et des lois connexes |
-| Reprinted as amended by the Standing Committee on finance as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 13, 2007 |  | Réimprimé tel que modifié par le Comité permanent des finances comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 13 juin 2007 |
-| THE MINISTER OF FINANCE 90385 |  | LE MINISTRE DES FINANCES |
+| AS PASSED BY THE HOUSE OF COMMONSJUNE 15, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 15 JUIN 2007 |
+| 90385 |  |  |
 
 INSIDECOVER
 
@@ -2127,11 +2127,11 @@ SCHEDULE
 | Trans Canada Credit Corporation |  | Trans Canada Credit Corporation |
 | Trans Canada Retail Services Company/Société de services de détails trans Canada |  | Trans Canada Retail Services Company/Société de services de détails trans Canada |
 | Wells Fargo Financial Canada Corporation |  | Wells Fargo Financial Canada Corporation |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
 Table of ContentsCoverSummaryTable of ProvisionsBill  C-33SHORT TITLEAMENDMENTS TO THE INCOME TAX ACT (FOREIGN INVESTMENT ENTITIES AND NON-RESIDENT TRUSTS) AND ANOTHER ACT AS A CONSEQUENCEIncome Tax ActTreatment of Trusts with Canadian ContributorsForeign Investment Entities — Imputed IncomeForeign Investment Entities — Mark-to-MarketForeign Investment Entities — AccrualForeign Investment Entities — Relief from Double TaxationIncome Tax Amendments Act, 2000GENERAL AMENDMENTS TO THE INCOME TAX ACT AND OTHER ACTS AS A CONSEQUENCEIncome Tax ActRestrictive CovenantsCost of Tax Shelter Investments and Limited-recourse Debt in Respect of Gifting ArrangementsExpenditure — LimitationsConsequential and Related AmendmentsAn Act to Amend the Income Tax Act (Natural Resources)Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation ActFederal-Provincial Fiscal Arrangements ActIncome Tax Amendments Act, 2000AMENDMENTS RELATED TO BIJURALISMIncome Tax ActCOORDINATING AMENDMENTSBill C-2Bill C-28Schedule 1
 
-Bill  C-33Click here for the entire document (5270Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-33SHORT TITLEAMENDMENTS TO THE INCOME TAX ACT (FOREIGN INVESTMENT ENTITIES AND NON-RESIDENT TRUSTS) AND ANOTHER ACT AS A CONSEQUENCEIncome Tax ActTreatment of Trusts with Canadian ContributorsForeign Investment Entities — Imputed IncomeForeign Investment Entities — Mark-to-MarketForeign Investment Entities — AccrualForeign Investment Entities — Relief from Double TaxationIncome Tax Amendments Act, 2000GENERAL AMENDMENTS TO THE INCOME TAX ACT AND OTHER ACTS AS A CONSEQUENCEIncome Tax ActRestrictive CovenantsCost of Tax Shelter Investments and Limited-recourse Debt in Respect of Gifting ArrangementsExpenditure — LimitationsConsequential and Related AmendmentsAn Act to Amend the Income Tax Act (Natural Resources)Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation ActFederal-Provincial Fiscal Arrangements ActIncome Tax Amendments Act, 2000AMENDMENTS RELATED TO BIJURALISMIncome Tax ActCOORDINATING AMENDMENTSBill C-2Bill C-28Schedule 1
+Bill  C-33Click here for the entire document (5253Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-33SHORT TITLEAMENDMENTS TO THE INCOME TAX ACT (FOREIGN INVESTMENT ENTITIES AND NON-RESIDENT TRUSTS) AND ANOTHER ACT AS A CONSEQUENCEIncome Tax ActTreatment of Trusts with Canadian ContributorsForeign Investment Entities — Imputed IncomeForeign Investment Entities — Mark-to-MarketForeign Investment Entities — AccrualForeign Investment Entities — Relief from Double TaxationIncome Tax Amendments Act, 2000GENERAL AMENDMENTS TO THE INCOME TAX ACT AND OTHER ACTS AS A CONSEQUENCEIncome Tax ActRestrictive CovenantsCost of Tax Shelter Investments and Limited-recourse Debt in Respect of Gifting ArrangementsExpenditure — LimitationsConsequential and Related AmendmentsAn Act to Amend the Income Tax Act (Natural Resources)Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation ActFederal-Provincial Fiscal Arrangements ActIncome Tax Amendments Act, 2000AMENDMENTS RELATED TO BIJURALISMIncome Tax ActCOORDINATING AMENDMENTSBill C-2Bill C-28Schedule 1
 
 COVER
 
@@ -2142,8 +2142,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-33 |  | PROJET DE LOI C-33 |
 | An Act to amend the Income Tax Act, including amendments in relation to foreign investment entities and non-resident trusts, and to provide for the bijural expression of the provisions of that Act |  | Loi modifiant la Loi de l'impôt sur le revenu, notamment en ce qui concerne les entités de placement étrangères et les fiducies non-résidentes ainsi que l'expression bijuridique de certaines dispositions de cette loi, et des lois connexes |
-| Reprinted as amended by the Standing Committee on finance as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 13, 2007 |  | Réimprimé tel que modifié par le Comité permanent des finances comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 13 juin 2007 |
-| THE MINISTER OF FINANCE90385 |  | LE MINISTRE DES FINANCES |
+| AS PASSEDBY THE HOUSE OF COMMONSJUNE 15, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 15 JUIN 2007 |
+| 90385 |  |  |
 
 INSIDECOVER
 
@@ -2761,4 +2761,4 @@ SCHEDULE
 | Trans Canada Credit Corporation |  | Trans Canada Credit Corporation |
 | Trans Canada Retail Services Company/Société de services de détails trans Canada |  | Trans Canada Retail Services Company/Société de services de détails trans Canada |
 | Wells Fargo Financial Canada Corporation |  | Wells Fargo Financial Canada Corporation |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
