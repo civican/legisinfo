@@ -1,14 +1,10 @@
 COVER
 
-| C-61 |  | C-61 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-61 |  | PROJET DE LOI C-61 |
+| STATUTES OF CANADA 2007CHAPTER 26 |  | LOIS DU CANADA (2007)CHAPITRE 26 |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |
-| AS PASSED BY THE HOUSE OF COMMONSJUNE 13, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 13 JUIN 2007 |
-| 90411 |  |  |
+| ASSENTED TO 22nd JUNE, 2007 BILL C-61 |  | SANCTIONNÉE LE 22 JUIN 2007 PROJET DE LOI C-61 |
 
 INSIDECOVER
 
@@ -18,12 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-61 |  | PROJET DE LOI C-61 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 26 |  | CHAPITRE 26 |  |  |  |  |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. G-3 GENEVA CONVENTIONS ACT |  | LOI SUR LES CONVENTIONS DE GENÈVE L.R., ch. G-3 |  |  |  |  |
 | 1. Section 2 of the Geneva Conventions Act is amended by adding the following after subsection (2): |  | 1. L'article 2 de la Loi sur les conventions de Genève est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |  |  |
@@ -130,21 +126,17 @@ SCHEDULE
 | Article 2 — Indicative use of the third Protocol emblem |  | Article 2 — Usage indicatif de l'emblème du troisième Protocole |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
-Table of ContentsCoverSummaryBill  C-61GENEVA CONVENTIONS ACTAN ACT TO INCORPORATE THE CANADIAN RED CROSS SOCIETYTRADE-MARKS ACTCOMING INTO FORCESchedule 1
+Table of ContentsCoverSummaryBill C-61GENEVA CONVENTIONS ACTAN ACT TO INCORPORATE THE CANADIAN RED CROSS SOCIETYTRADE-MARKS ACTCOMING INTO FORCESchedule 1
 
-Bill  C-61Click here for the entire document (103Kb)Table of ContentsCoverSummaryBill  C-61GENEVA CONVENTIONS ACTAN ACT TO INCORPORATE THE CANADIAN RED CROSS SOCIETYTRADE-MARKS ACTCOMING INTO FORCESchedule 1
+Bill C-61Click here for the entire document (102Kb)Table of ContentsCoverSummaryBill C-61GENEVA CONVENTIONS ACTAN ACT TO INCORPORATE THE CANADIAN RED CROSS SOCIETYTRADE-MARKS ACTCOMING INTO FORCESchedule 1
 
 COVER
 
-| C-61 |  | C-61 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-61 |  | PROJET DE LOI C-61 |
+| STATUTES OF CANADA 2007CHAPTER 26 |  | LOIS DU CANADA (2007)CHAPITRE 26 |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |
-| AS PASSEDBY THE HOUSE OF COMMONSJUNE 13, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 13 JUIN 2007 |
-| 90411 |  |  |
+| ASSENTED TO22nd JUNE, 2007BILL C-61 |  | SANCTIONNÉELE 22 JUIN 2007PROJET DE LOI C-61 |
 
 INSIDECOVER
 
@@ -158,12 +150,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-61 |  | PROJET DE LOI C-61 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 26 |  | CHAPITRE 26 |  |  |  |  |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. G-3GENEVA CONVENTIONS ACT |  | LOI SUR LES CONVENTIONS DE GENÈVEL.R., ch. G-3 |  |  |  |  |
 | 1. Section 2 of the Geneva Conventions Act is amended by adding the following after subsection (2): |  | 1. L'article 2 de la Loi sur les conventions de Genève est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |  |  |
@@ -189,12 +181,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-61 |  | PROJET DE LOI C-61 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 26 |  | CHAPITRE 26 |  |  |  |  |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. G-3GENEVA CONVENTIONS ACT |  | LOI SUR LES CONVENTIONS DE GENÈVEL.R., ch. G-3 |  |  |  |  |
 | 1. Section 2 of the Geneva Conventions Act is amended by adding the following after subsection (2): |  | 1. L'article 2 de la Loi sur les conventions de Genève est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |  |  |
@@ -220,12 +212,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-61 |  | PROJET DE LOI C-61 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 26 |  | CHAPITRE 26 |  |  |  |  |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. G-3GENEVA CONVENTIONS ACT |  | LOI SUR LES CONVENTIONS DE GENÈVEL.R., ch. G-3 |  |  |  |  |
 | 1. Section 2 of the Geneva Conventions Act is amended by adding the following after subsection (2): |  | 1. L'article 2 de la Loi sur les conventions de Genève est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |  |  |
@@ -251,12 +243,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-61 |  | PROJET DE LOI C-61 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 26 |  | CHAPITRE 26 |  |  |  |  |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. G-3GENEVA CONVENTIONS ACT |  | LOI SUR LES CONVENTIONS DE GENÈVEL.R., ch. G-3 |  |  |  |  |
 | 1. Section 2 of the Geneva Conventions Act is amended by adding the following after subsection (2): |  | 1. L'article 2 de la Loi sur les conventions de Genève est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |  |  |
@@ -282,12 +274,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-61 |  | PROJET DE LOI C-61 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 26 |  | CHAPITRE 26 |  |  |  |  |
 | An Act to amend the Geneva Conventions Act, An Act to incorporate the Canadian Red Cross Society and the Trade-marks Act |  | Loi modifiant la Loi sur les conventions de Genève, la Loi constituant en corporation la Canadian Red Cross Society et la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. G-3GENEVA CONVENTIONS ACT |  | LOI SUR LES CONVENTIONS DE GENÈVEL.R., ch. G-3 |  |  |  |  |
 | 1. Section 2 of the Geneva Conventions Act is amended by adding the following after subsection (2): |  | 1. L'article 2 de la Loi sur les conventions de Genève est modifié par adjonction, après le paragraphe (2), de ce qui suit : |  |  |  |  |
