@@ -1,14 +1,10 @@
 COVER
 
-| C-42 |  | C-42 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-42 |  | PROJET DE LOI C-42 |
+| STATUTES OF CANADA 2007CHAPTER 27 |  | LOIS DU CANADA (2007)CHAPITRE 27 |
 | An Act to amend the Quarantine Act |  | Loi modifiant la Loi sur la mise en quarantaine |
-| AS PASSED BY THE HOUSE OF COMMONSJUNE 14, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 14 JUIN 2007 |
-| 90397 |  |  |
+| ASSENTED TO 22nd JUNE, 2007 BILL C-42 |  | SANCTIONNÉE LE 22 JUIN 2007 PROJET DE LOI C-42 |
 
 INSIDECOVER
 
@@ -18,12 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-42 |  | PROJET DE LOI C-42 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 27 |  | CHAPITRE 27 |  |  |  |  |
 | An Act to amend the Quarantine Act |  | Loi modifiant la Loi sur la mise en quarantaine |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | 2005, c. 20 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 2005, ch. 20 |  |  |  |  |
 | 1. Section 34 of the Quarantine Act is replaced by the following: |  | 1. L'article 34 de la Loi sur la mise en quarantaine est remplacé par ce qui suit : |  |  |  |  |
 | Application 34. (1) This section applies to the operator of any of the following conveyances: (a) a conveyance that is used in the business of carrying persons or cargo; and (b) a prescribed conveyance. |  | 34. (1) Le présent article s'applique aux conducteurs de l'un ou l'autre des véhicules suivants : Application a) véhicule servant à l'exploitation d'une entreprise de transport de personnes ou de marchandises; b) véhicule visé par règlement. |  |  |  |  |
@@ -41,19 +37,15 @@ MAINTEXT
 
 Table of ContentsCoverSummaryBill C-42
 
-Bill C-42Click here for the entire document (32Kb)Table of ContentsCoverSummaryBill C-42
+Bill C-42Click here for the entire document (31Kb)Table of ContentsCoverSummaryBill C-42
 
 COVER
 
-| C-42 |  | C-42 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-42 |  | PROJET DE LOI C-42 |
+| STATUTES OF CANADA 2007CHAPTER 27 |  | LOIS DU CANADA (2007)CHAPITRE 27 |
 | An Act to amend the Quarantine Act |  | Loi modifiant la Loi sur la mise en quarantaine |
-| AS PASSEDBY THE HOUSE OF COMMONSJUNE 14, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 14 JUIN 2007 |
-| 90397 |  |  |
+| ASSENTED TO22nd JUNE, 2007BILL C-42 |  | SANCTIONNÉELE 22 JUIN 2007PROJET DE LOI C-42 |
 
 INSIDECOVER
 
@@ -67,12 +59,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-42 |  | PROJET DE LOI C-42 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 27 |  | CHAPITRE 27 |  |  |  |  |
 | An Act to amend the Quarantine Act |  | Loi modifiant la Loi sur la mise en quarantaine |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | 2005, c. 20Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :2005, ch. 20 |  |  |  |  |
 | 1. Section 34 of the Quarantine Act is replaced by the following: |  | 1. L'article 34 de la Loi sur la mise en quarantaine est remplacé par ce qui suit : |  |  |  |  |
 | Application34. (1) This section applies to the operator of any of the following conveyances:(a) a conveyance that is used in the business of carrying persons or cargo; and(b) a prescribed conveyance. |  | 34. (1) Le présent article s'applique aux conducteurs de l'un ou l'autre des véhicules suivants :Applicationa) véhicule servant à l'exploitation d'une entreprise de transport de personnes ou de marchandises;b) véhicule visé par règlement. |  |  |  |  |
