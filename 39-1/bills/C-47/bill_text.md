@@ -1,14 +1,10 @@
 COVER
 
-| C-47 |  | C-47 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-47 |  | PROJET DE LOI C-47 |
+| STATUTES OF CANADA 2007CHAPTER 25 |  | LOIS DU CANADA (2007)CHAPITRE 25 |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |
-| AS PASSED BY THE HOUSE OF COMMONSJUNE 14, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 14 JUIN 2007 |
-| 90404 |  |  |
+| ASSENTED TO 22nd JUNE, 2007 BILL C-47 |  | SANCTIONNÉE LE 22 JUIN 2007 PROJET DE LOI C-47 |
 
 INSIDECOVER
 
@@ -43,12 +39,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-47 |  | PROJET DE LOI C-47 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 25 |  | CHAPITRE 25 |  |  |  |  |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | Short title 1. This Act may be cited as the Olympic and Paralympic Marks Act. |  | 1. Titre abrégé : Loi sur les marques olympiques et paralympiques. Titre abrégé |  |  |  |  |
 | Interpretation 2. (1) The following definitions apply in this Act. "COC"« COC » "COC" means the Canadian Olympic Committee, a corporation incorporated under Part II of The Companies Act, 1934, chapter 33 of the Statutes of Canada, 1934. "court"« tribunal » "court" means the Federal Court or the superior court of a province. "CPC"« CPC » "CPC" means the Canadian Paralympic Committee, a corporation incorporated under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970. "Olympic or Paralympic mark"« marque olympique ou paralympique » "Olympic or Paralympic mark" means, subject to subsection (3), a mark set out in Schedule 1 or 2. "organizing committee"« comité d'organisation » "organizing committee" means any organization that is recognized, by the COC and a city in Canada elected to host an Olympic Games or Paralympic Games, as being responsible for the planning, organizing, financing and staging of those Games. |  | 2. (1) Les définitions qui suivent s'appliquent à la présente loi. Définitions « COC » Le Comité olympique canadien, corporation constituée sous le régime de la partie II de la Loi des compagnies, 1934, chapitre 33 des Statuts du Canada de 1934. « COC »"COC" « comité d'organisation » Tout organisme reconnu, par le COC et par toute ville canadienne élue comme ville hôte des Jeux olympiques ou des Jeux paralympiques, à titre de responsable de la planification, de l'organisation, du financement et de la tenue de ces jeux. « comité d'organisation »"organizing committee" « CPC » Le Comité paralympique du Canada, corporation constituée sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970. « CPC »"CPC" « marque olympique ou paralympique » Sous réserve du paragraphe (3), marque figurant aux annexes 1 ou 2. « marque olympique ou paralympique »"Olympic or Paralympic mark" « tribunal » La Cour fédérale ou la cour supérieure d'une province. « tribunal »"court" |  |  |  |  |
@@ -113,21 +109,17 @@ SCHEDULE
 | EXPRESSIONS |  | EXPRESSIONS |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-47AMENDMENT TO THIS ACTRELATED AMENDMENTTrade-marks ActCOMING INTO FORCESchedule 1Schedule 2Schedule 3
+Table of ContentsCoverSummaryTable of ProvisionsBill C-47AMENDMENT TO THIS ACTRELATED AMENDMENTTrade-marks ActCOMING INTO FORCESchedule 1Schedule 2Schedule 3
 
-Bill  C-47Click here for the entire document (131Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-47AMENDMENT TO THIS ACTRELATED AMENDMENTTrade-marks ActCOMING INTO FORCESchedule 1Schedule 2Schedule 3
+Bill C-47Click here for the entire document (130Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-47AMENDMENT TO THIS ACTRELATED AMENDMENTTrade-marks ActCOMING INTO FORCESchedule 1Schedule 2Schedule 3
 
 COVER
 
-| C-47 |  | C-47 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-47 |  | PROJET DE LOI C-47 |
+| STATUTES OF CANADA 2007CHAPTER 25 |  | LOIS DU CANADA (2007)CHAPITRE 25 |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |
-| AS PASSEDBY THE HOUSE OF COMMONSJUNE 14, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 14 JUIN 2007 |
-| 90404 |  |  |
+| ASSENTED TO22nd JUNE, 2007BILL C-47 |  | SANCTIONNÉELE 22 JUIN 2007PROJET DE LOI C-47 |
 
 INSIDECOVER
 
@@ -168,12 +160,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-47 |  | PROJET DE LOI C-47 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 25 |  | CHAPITRE 25 |  |  |  |  |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | Short title1. This Act may be cited as the Olympic and Paralympic Marks Act. |  | 1. Titre abrégé : Loi sur les marques olympiques et paralympiques.Titre abrégé |  |  |  |  |
 | Interpretation2. (1) The following definitions apply in this Act."COC"« COC »"COC" means the Canadian Olympic Committee, a corporation incorporated under Part II of The Companies Act, 1934, chapter 33 of the Statutes of Canada, 1934."court"« tribunal »"court" means the Federal Court or the superior court of a province."CPC"« CPC »"CPC" means the Canadian Paralympic Committee, a corporation incorporated under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970."Olympic or Paralympic mark"« marque olympique ou paralympique »"Olympic or Paralympic mark" means, subject to subsection (3), a mark set out in Schedule 1 or 2."organizing committee"« comité d'organisation »"organizing committee" means any organization that is recognized, by the COC and a city in Canada elected to host an Olympic Games or Paralympic Games, as being responsible for the planning, organizing, financing and staging of those Games. |  | 2. (1) Les définitions qui suivent s'appliquent à la présente loi.Définitions« COC » Le Comité olympique canadien, corporation constituée sous le régime de la partie II de la Loi des compagnies, 1934, chapitre 33 des Statuts du Canada de 1934.« COC »"COC"« comité d'organisation » Tout organisme reconnu, par le COC et par toute ville canadienne élue comme ville hôte des Jeux olympiques ou des Jeux paralympiques, à titre de responsable de la planification, de l'organisation, du financement et de la tenue de ces jeux.« comité d'organisation »"organizing committee"« CPC » Le Comité paralympique du Canada, corporation constituée sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970.« CPC »"CPC"« marque olympique ou paralympique » Sous réserve du paragraphe (3), marque figurant aux annexes 1 ou 2.« marque olympique ou paralympique »"Olympic or Paralympic mark"« tribunal » La Cour fédérale ou la cour supérieure d'une province.« tribunal »"court" |  |  |  |  |
@@ -220,12 +212,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-47 |  | PROJET DE LOI C-47 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 25 |  | CHAPITRE 25 |  |  |  |  |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | Short title1. This Act may be cited as the Olympic and Paralympic Marks Act. |  | 1. Titre abrégé : Loi sur les marques olympiques et paralympiques.Titre abrégé |  |  |  |  |
 | Interpretation2. (1) The following definitions apply in this Act."COC"« COC »"COC" means the Canadian Olympic Committee, a corporation incorporated under Part II of The Companies Act, 1934, chapter 33 of the Statutes of Canada, 1934."court"« tribunal »"court" means the Federal Court or the superior court of a province."CPC"« CPC »"CPC" means the Canadian Paralympic Committee, a corporation incorporated under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970."Olympic or Paralympic mark"« marque olympique ou paralympique »"Olympic or Paralympic mark" means, subject to subsection (3), a mark set out in Schedule 1 or 2."organizing committee"« comité d'organisation »"organizing committee" means any organization that is recognized, by the COC and a city in Canada elected to host an Olympic Games or Paralympic Games, as being responsible for the planning, organizing, financing and staging of those Games. |  | 2. (1) Les définitions qui suivent s'appliquent à la présente loi.Définitions« COC » Le Comité olympique canadien, corporation constituée sous le régime de la partie II de la Loi des compagnies, 1934, chapitre 33 des Statuts du Canada de 1934.« COC »"COC"« comité d'organisation » Tout organisme reconnu, par le COC et par toute ville canadienne élue comme ville hôte des Jeux olympiques ou des Jeux paralympiques, à titre de responsable de la planification, de l'organisation, du financement et de la tenue de ces jeux.« comité d'organisation »"organizing committee"« CPC » Le Comité paralympique du Canada, corporation constituée sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970.« CPC »"CPC"« marque olympique ou paralympique » Sous réserve du paragraphe (3), marque figurant aux annexes 1 ou 2.« marque olympique ou paralympique »"Olympic or Paralympic mark"« tribunal » La Cour fédérale ou la cour supérieure d'une province.« tribunal »"court" |  |  |  |  |
@@ -272,12 +264,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-47 |  | PROJET DE LOI C-47 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 25 |  | CHAPITRE 25 |  |  |  |  |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | Short title1. This Act may be cited as the Olympic and Paralympic Marks Act. |  | 1. Titre abrégé : Loi sur les marques olympiques et paralympiques.Titre abrégé |  |  |  |  |
 | Interpretation2. (1) The following definitions apply in this Act."COC"« COC »"COC" means the Canadian Olympic Committee, a corporation incorporated under Part II of The Companies Act, 1934, chapter 33 of the Statutes of Canada, 1934."court"« tribunal »"court" means the Federal Court or the superior court of a province."CPC"« CPC »"CPC" means the Canadian Paralympic Committee, a corporation incorporated under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970."Olympic or Paralympic mark"« marque olympique ou paralympique »"Olympic or Paralympic mark" means, subject to subsection (3), a mark set out in Schedule 1 or 2."organizing committee"« comité d'organisation »"organizing committee" means any organization that is recognized, by the COC and a city in Canada elected to host an Olympic Games or Paralympic Games, as being responsible for the planning, organizing, financing and staging of those Games. |  | 2. (1) Les définitions qui suivent s'appliquent à la présente loi.Définitions« COC » Le Comité olympique canadien, corporation constituée sous le régime de la partie II de la Loi des compagnies, 1934, chapitre 33 des Statuts du Canada de 1934.« COC »"COC"« comité d'organisation » Tout organisme reconnu, par le COC et par toute ville canadienne élue comme ville hôte des Jeux olympiques ou des Jeux paralympiques, à titre de responsable de la planification, de l'organisation, du financement et de la tenue de ces jeux.« comité d'organisation »"organizing committee"« CPC » Le Comité paralympique du Canada, corporation constituée sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970.« CPC »"CPC"« marque olympique ou paralympique » Sous réserve du paragraphe (3), marque figurant aux annexes 1 ou 2.« marque olympique ou paralympique »"Olympic or Paralympic mark"« tribunal » La Cour fédérale ou la cour supérieure d'une province.« tribunal »"court" |  |  |  |  |
@@ -324,12 +316,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-47 |  | PROJET DE LOI C-47 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 25 |  | CHAPITRE 25 |  |  |  |  |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | Short title1. This Act may be cited as the Olympic and Paralympic Marks Act. |  | 1. Titre abrégé : Loi sur les marques olympiques et paralympiques.Titre abrégé |  |  |  |  |
 | Interpretation2. (1) The following definitions apply in this Act."COC"« COC »"COC" means the Canadian Olympic Committee, a corporation incorporated under Part II of The Companies Act, 1934, chapter 33 of the Statutes of Canada, 1934."court"« tribunal »"court" means the Federal Court or the superior court of a province."CPC"« CPC »"CPC" means the Canadian Paralympic Committee, a corporation incorporated under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970."Olympic or Paralympic mark"« marque olympique ou paralympique »"Olympic or Paralympic mark" means, subject to subsection (3), a mark set out in Schedule 1 or 2."organizing committee"« comité d'organisation »"organizing committee" means any organization that is recognized, by the COC and a city in Canada elected to host an Olympic Games or Paralympic Games, as being responsible for the planning, organizing, financing and staging of those Games. |  | 2. (1) Les définitions qui suivent s'appliquent à la présente loi.Définitions« COC » Le Comité olympique canadien, corporation constituée sous le régime de la partie II de la Loi des compagnies, 1934, chapitre 33 des Statuts du Canada de 1934.« COC »"COC"« comité d'organisation » Tout organisme reconnu, par le COC et par toute ville canadienne élue comme ville hôte des Jeux olympiques ou des Jeux paralympiques, à titre de responsable de la planification, de l'organisation, du financement et de la tenue de ces jeux.« comité d'organisation »"organizing committee"« CPC » Le Comité paralympique du Canada, corporation constituée sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970.« CPC »"CPC"« marque olympique ou paralympique » Sous réserve du paragraphe (3), marque figurant aux annexes 1 ou 2.« marque olympique ou paralympique »"Olympic or Paralympic mark"« tribunal » La Cour fédérale ou la cour supérieure d'une province.« tribunal »"court" |  |  |  |  |
@@ -376,12 +368,12 @@ SCHEDULE
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-47 |  | PROJET DE LOI C-47 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 25 |  | CHAPITRE 25 |  |  |  |  |
 | An Act respecting the protection of marks related to the Olympic Games and the Paralympic Games and protection against certain misleading business associations and making a related amendment to the Trade-marks Act |  | Loi concernant la protection des marques liées aux Jeux olympiques et aux Jeux paralympiques et la protection contre certaines associations commerciales trompeuses et apportant une modification connexe à la Loi sur les marques de commerce |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | Short title1. This Act may be cited as the Olympic and Paralympic Marks Act. |  | 1. Titre abrégé : Loi sur les marques olympiques et paralympiques.Titre abrégé |  |  |  |  |
 | Interpretation2. (1) The following definitions apply in this Act."COC"« COC »"COC" means the Canadian Olympic Committee, a corporation incorporated under Part II of The Companies Act, 1934, chapter 33 of the Statutes of Canada, 1934."court"« tribunal »"court" means the Federal Court or the superior court of a province."CPC"« CPC »"CPC" means the Canadian Paralympic Committee, a corporation incorporated under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970."Olympic or Paralympic mark"« marque olympique ou paralympique »"Olympic or Paralympic mark" means, subject to subsection (3), a mark set out in Schedule 1 or 2."organizing committee"« comité d'organisation »"organizing committee" means any organization that is recognized, by the COC and a city in Canada elected to host an Olympic Games or Paralympic Games, as being responsible for the planning, organizing, financing and staging of those Games. |  | 2. (1) Les définitions qui suivent s'appliquent à la présente loi.Définitions« COC » Le Comité olympique canadien, corporation constituée sous le régime de la partie II de la Loi des compagnies, 1934, chapitre 33 des Statuts du Canada de 1934.« COC »"COC"« comité d'organisation » Tout organisme reconnu, par le COC et par toute ville canadienne élue comme ville hôte des Jeux olympiques ou des Jeux paralympiques, à titre de responsable de la planification, de l'organisation, du financement et de la tenue de ces jeux.« comité d'organisation »"organizing committee"« CPC » Le Comité paralympique du Canada, corporation constituée sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970.« CPC »"CPC"« marque olympique ou paralympique » Sous réserve du paragraphe (3), marque figurant aux annexes 1 ou 2.« marque olympique ou paralympique »"Olympic or Paralympic mark"« tribunal » La Cour fédérale ou la cour supérieure d'une province.« tribunal »"court" |  |  |  |  |
