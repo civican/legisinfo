@@ -1,14 +1,10 @@
 COVER
 
-| C-40 |  | C-40 |
+| First Session, Thirty-ninth Parliament, 55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature, 55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-40 |  | PROJET DE LOI C-40 |
+| STATUTES OF CANADA 2007CHAPTER 18 |  | LOIS DU CANADA (2007)CHAPITRE 18 |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 15, 2007 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 15 MAI 2007 |
-| 90392 |  |  |
+| ASSENTED TO 22nd JUNE, 2007 BILL C-40 |  | SANCTIONNÉE LE 22 JUIN 2007 PROJET DE LOI C-40 |
 
 INSIDECOVER
 
@@ -45,12 +41,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-40 |  | PROJET DE LOI C-40 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 18 |  | CHAPITRE 18 |  |  |  |  |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title 1. This Act may be cited as the Sales Tax Amendments Act, 2006. |  | 1. Loi de 2006 modifiant la taxe de vente. Titre abrégé |  |  |  |  |
@@ -738,21 +734,17 @@ MAINTEXT
 | (2) Subsection (1) applies to wine packaged after June 2006. |  | (2) Le paragraphe (1) s'applique au vin emballé après juin 2006. |  |  |  |  |
 | Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
-Table of ContentsCoverSummaryTable of ProvisionsBill  C-40SHORT TITLEAMENDMENTS TO THE EXCISE TAX ACTAmendments in Respect of the Goods and Services Tax/Harmonized Sales TaxImport ArrangementsAmendments in Respect of Excise TaxesAMENDMENTS IN RESPECT OF EXCISE DUTY ON ALCOHOL AND TOBACCO PRODUCTSExcise Act, 2001Restricted FormulationsAccess to Information ActCustoms ActCustoms TariffExcise Tax ActAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTCOORDINATING AMENDMENT
+Table of ContentsCoverSummaryTable of ProvisionsBill C-40SHORT TITLEAMENDMENTS TO THE EXCISE TAX ACTAmendments in Respect of the Goods and Services Tax/Harmonized Sales TaxImport ArrangementsAmendments in Respect of Excise TaxesAMENDMENTS IN RESPECT OF EXCISE DUTY ON ALCOHOL AND TOBACCO PRODUCTSExcise Act, 2001Restricted FormulationsAccess to Information ActCustoms ActCustoms TariffExcise Tax ActAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTCOORDINATING AMENDMENT
 
-Bill  C-40Click here for the entire document (1385Kb)Table of ContentsCoverSummaryTable of ProvisionsBill  C-40SHORT TITLEAMENDMENTS TO THE EXCISE TAX ACTAmendments in Respect of the Goods and Services Tax/Harmonized Sales TaxImport ArrangementsAmendments in Respect of Excise TaxesAMENDMENTS IN RESPECT OF EXCISE DUTY ON ALCOHOL AND TOBACCO PRODUCTSExcise Act, 2001Restricted FormulationsAccess to Information ActCustoms ActCustoms TariffExcise Tax ActAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTCOORDINATING AMENDMENT
+Bill C-40Click here for the entire document (1384Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-40SHORT TITLEAMENDMENTS TO THE EXCISE TAX ACTAmendments in Respect of the Goods and Services Tax/Harmonized Sales TaxImport ArrangementsAmendments in Respect of Excise TaxesAMENDMENTS IN RESPECT OF EXCISE DUTY ON ALCOHOL AND TOBACCO PRODUCTSExcise Act, 2001Restricted FormulationsAccess to Information ActCustoms ActCustoms TariffExcise Tax ActAMENDMENTS TO THE AIR TRAVELLERS SECURITY CHARGE ACTCOORDINATING AMENDMENT
 
 COVER
 
-| C-40 |  | C-40 |
+| First Session, Thirty-ninth Parliament,55-56 Elizabeth II, 2006-2007 |  | Première session, trente-neuvième législature,55-56 Elizabeth II, 2006-2007 |
 | --- | --- | --- |
-| First Session, Thirty-ninth Parliament, |  | Première session, trente-neuvième législature, |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-40 |  | PROJET DE LOI C-40 |
+| STATUTES OF CANADA 2007CHAPTER 18 |  | LOIS DU CANADA (2007)CHAPITRE 18 |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |
-| AS PASSEDBY THE HOUSE OF COMMONSMAY 15, 2007 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 15 MAI 2007 |
-| 90392 |  |  |
+| ASSENTED TO22nd JUNE, 2007BILL C-40 |  | SANCTIONNÉELE 22 JUIN 2007PROJET DE LOI C-40 |
 
 INSIDECOVER
 
@@ -795,12 +787,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-40 |  | PROJET DE LOI C-40 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 18 |  | CHAPITRE 18 |  |  |  |  |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Sales Tax Amendments Act, 2006. |  | 1. Loi de 2006 modifiant la taxe de vente.Titre abrégé |  |  |  |  |
@@ -900,12 +892,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-40 |  | PROJET DE LOI C-40 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 18 |  | CHAPITRE 18 |  |  |  |  |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Sales Tax Amendments Act, 2006. |  | 1. Loi de 2006 modifiant la taxe de vente.Titre abrégé |  |  |  |  |
@@ -1005,12 +997,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-40 |  | PROJET DE LOI C-40 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 18 |  | CHAPITRE 18 |  |  |  |  |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Sales Tax Amendments Act, 2006. |  | 1. Loi de 2006 modifiant la taxe de vente.Titre abrégé |  |  |  |  |
@@ -1110,12 +1102,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 1st Session, 39th Parliament, |  | 1re session, 39e législature, |  |  |  |  |
+| 55-56 ELIZABETH II |  | 55-56 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 55-56 Elizabeth II, 2006-2007 |  | 55-56 Elizabeth II, 2006-2007 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-40 |  | PROJET DE LOI C-40 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 18 |  | CHAPITRE 18 |  |  |  |  |
 | An Act to amend the Excise Tax Act, the Excise Act, 2001 and the Air Travellers Security Charge Act and to make related amendments to other Acts |  | Loi modifiant la Loi sur la taxe d'accise, la Loi de 2001 sur l'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien et d'autres lois en conséquence |  |  |  |  |
+| [Assented to 22nd June, 2007] |  | [Sanctionnée le 22 juin 2007] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Sales Tax Amendments Act, 2006. |  | 1. Loi de 2006 modifiant la taxe de vente.Titre abrégé |  |  |  |  |
