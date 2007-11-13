@@ -1,0 +1,2 @@
+# Bill C-474: An Act to require the development and implementation of a National Sustainable Development Strategy, the reporting of progress against a standard set of environmental indicators and the appointment of an independent Commissioner of the Environment and Sustainable Development accountable to Parliament, and to adopt specific goals with respect to sustainable development in Canada, and to make consequential amendments to another Act
+
