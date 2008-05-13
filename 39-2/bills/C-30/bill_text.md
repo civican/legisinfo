@@ -7,8 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-30 |  | PROJET DE LOI C-30 |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |
-| Reprinted as amended by the Standing Committee on Aboriginal Affairs and Northern Development as a working copy for the use of the House of Commons at Report Stage and as reported to the House on May 5, 2008 |  | Réimprimé tel que modifié par le Comité permanent des affaires autochtones et du développement du Grand Nord comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 5 mai 2008 |
-| THE MINISTER OF INDIAN AFFAIRS AND NORTHERN DEVELOPMENT 90439 |  | LE MINISTRE DES AFFAIRES INDIENNES ET DU NORD CANADIEN |
+| AS PASSED BY THE HOUSE OF COMMONSMAY 13, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 13 MAI 2008 |
+| 90439 |  |  |
 
 INSIDECOVER
 
@@ -281,7 +281,7 @@ SCHEDULE
 | Entente sur l'autonomie gouvernementale des Tr'ondèk Hwëch'in |  | Ta'an Kwach'an Council Self-Government Agreement |
 | Vuntut Gwitchin First Nation Self-Government Agreement |  | Entente sur l'autonomie gouvernementale du conseil des Tlingits de Teslin |
 | Entente sur l'autonomie gouvernementale de la première nation des Gwitchin Vuntut |  | Teslin Tlingit Council Self-Government Agreement |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
 
 Table of ContentsCoverSummaryTable of ProvisionsBill C-30SHORT TITLEINTERPRETATIONPURPOSE AND APPLICATION OF ACTSPECIFIC CLAIMS TRIBUNALEstablishmentAdministration of the TribunalFunctions, Powers and DutiesSpecific ClaimsHearings and DecisionsGENERALRegulationsAnnual ReportReview and ReportTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFederal Courts ActFinancial Administration ActPrivacy ActPublic Service Superannuation ActREPEALCOMING INTO FORCESchedule 1
 
@@ -296,8 +296,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-30 |  | PROJET DE LOI C-30 |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |
-| Reprinted as amended by the Standing Committee on Aboriginal Affairs and Northern Development as a working copy for the use of the House of Commons at Report Stage and as reported to the House on May 5, 2008 |  | Réimprimé tel que modifié par le Comité permanent des affaires autochtones et du développement du Grand Nord comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 5 mai 2008 |
-| THE MINISTER OF INDIAN AFFAIRS AND NORTHERN DEVELOPMENT90439 |  | LE MINISTRE DES AFFAIRES INDIENNES ET DU NORD CANADIEN |
+| AS PASSEDBY THE HOUSE OF COMMONSMAY 13, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 13 MAI 2008 |
+| 90439 |  |  |
 
 INSIDECOVER
 
@@ -1459,4 +1459,4 @@ SCHEDULE
 | Entente sur l'autonomie gouvernementale des Tr'ondèk Hwëch'in |  | Ta'an Kwach'an Council Self-Government Agreement |
 | Vuntut Gwitchin First Nation Self-Government Agreement |  | Entente sur l'autonomie gouvernementale du conseil des Tlingits de Teslin |
 | Entente sur l'autonomie gouvernementale de la première nation des Gwitchin Vuntut |  | Teslin Tlingit Council Self-Government Agreement |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |
