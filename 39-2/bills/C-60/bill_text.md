@@ -7,8 +7,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-60 |  | PROJET DE LOI C-60 |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |
-| Reprinted as amended by the Standing Committee on National Defence as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 17, 2008 |  | Réimprimé tel que modifié par le Comité permanent de la défense nationale comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 17 juin 2008 |
-| THE MINISTER OF NATIONAL DEFENCE 90471 |  | LE MINISTRE DE LA DÉFENSE NATIONALE |
+| AS PASSED BY THE HOUSE OF COMMONSJUNE 17, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 17 JUIN 2008 |
+| 90471 |  |  |
 
 INSIDECOVER
 
@@ -99,13 +99,9 @@ MAINTEXT
 | 1991, c. 43, s. 26 27. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit : 1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review 27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin. Examen |  |  |  |  |
+| Review 28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin. Examen |  |  |  |  |
 | Report (2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande. Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial 29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire. Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3 Geneva Conventions Act |  | Loi sur les conventions de Genève L.R., ch. G-3 |  |  |  |  |
@@ -127,11 +123,11 @@ MAINTEXT
 | Panel (2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale : Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days 32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction. Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
-Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
+Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
 
-Bill C-60Click here for the entire document (148Kb)Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
+Bill C-60Click here for the entire document (144Kb)Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
 
 COVER
 
@@ -142,8 +138,8 @@ COVER
 | HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
 | BILL C-60 |  | PROJET DE LOI C-60 |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |
-| Reprinted as amended by the Standing Committee on National Defence as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 17, 2008 |  | Réimprimé tel que modifié par le Comité permanent de la défense nationale comme document de travail à l'usage de la Chambre des communes à l'étape du rapport et présenté à la Chambre le 17 juin 2008 |
-| THE MINISTER OF NATIONAL DEFENCE90471 |  | LE MINISTRE DE LA DÉFENSE NATIONALE |
+| AS PASSEDBY THE HOUSE OF COMMONSJUNE 17, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 17 JUIN 2008 |
+| 90471 |  |  |
 
 INSIDECOVER
 
@@ -238,13 +234,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -266,7 +258,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -351,13 +343,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -379,7 +367,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -464,13 +452,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -492,7 +476,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -577,13 +561,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -605,7 +585,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -690,13 +670,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -718,7 +694,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -803,13 +779,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -831,7 +803,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -916,13 +888,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -944,7 +912,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -1029,13 +997,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -1057,7 +1021,7 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
 
 MAINTEXT
 
@@ -1142,13 +1106,9 @@ MAINTEXT
 | 1991, c. 43, s. 2627. Paragraph 240.3(b) of the Act is replaced by the following: |  | 27. L'alinéa 240.3b) de la même loi est remplacé par ce qui suit :1991, ch. 43, art. 26 |  |  |  |  |
 | (b) except in the case of a disposition made by a General Court Martial, remit the matter to the court martial for a rehearing, in whole or in part, in accordance with any directions that the Court considers appropriate; or |  | b) sauf dans le cas d'une décision rendue par une cour martiale générale, renvoyer l'affaire à la cour martiale pour une nouvelle audition, complète ou partielle, en conformité avec les directives qu'elle lui donne; |  |  |  |  |
 | REVIEW AND REPORT |  | EXAMEN ET RAPPORT |  |  |  |  |
-| Review27.1 (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 27.1 (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
+| Review28. (1) Within two years after the day on which this Act receives royal assent, a comprehensive review of the provisions and operation of this Act shall be undertaken by the committee of either the Senate or the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons or by both Houses of Parliament, as the case may be, for that purpose. |  | 28. (1) Dans les deux ans qui suivent la sanction de la présente loi, un examen approfondi des dispositions et de l'application de la présente loi doit être fait par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.Examen |  |  |  |  |
 | Report(2) Within one year after the review is undertaken, or within any longer period that the Senate or the House of Commons or both Houses of Parliament may authorize, the committee shall submit a report on the review to Parliament, including a statement of any changes that the committee recommends. |  | (2) Dans l'année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu'il recommande.Rapport |  |  |  |  |
-| TRANSITIONAL PROVISIONS |  | DISPOSITIONS TRANSITOIRES |  |  |  |  |
-| 28. (1) [Deleted] |  | 28. (1) [Supprimé] |  |  |  |  |
-| (2) [Deleted] |  | (2) [Supprimé] |  |  |  |  |
-| (3) [Deleted] |  | (3) [Supprimé] |  |  |  |  |
-| (4) [Deleted] |  | (4) [Supprimé] |  |  |  |  |
+| TRANSITIONAL PROVISION |  | DISPOSITION TRANSITOIRE |  |  |  |  |
 | Reference to General Court Martial29. For the purposes of paragraphs 239.1(1)(b) and 240.3(b) of the National Defence Act, any reference to a General Court Martial is also a reference to a Disciplinary Court Martial. |  | 29. Pour l'application des alinéas 239.1(1)b) et 240.3b) de la Loi sur la défense nationale, la mention de la cour martiale générale vaut aussi mention de la cour martiale disciplinaire.Appels |  |  |  |  |
 | CONSEQUENTIAL AMENDMENT |  | MODIFICATION CORRÉLATIVE |  |  |  |  |
 | R.S., c. G-3Geneva Conventions Act |  | Loi sur les conventions de GenèveL.R., ch. G-3 |  |  |  |  |
@@ -1170,4 +1130,4 @@ MAINTEXT
 | Panel(2) In the case of a General Court Martial, the court martial |  | (2) La cour martiale générale :Cour martiale générale |  |  |  |  |
 | COMING INTO FORCE |  | ENTRÉE EN VIGUEUR |  |  |  |  |
 | After royal assent — 30 days32. This Act, other than section 31, comes into force 30 days after the day on which it receives royal assent. |  | 32. La présente loi, à l'exception de l'article 31, entre en vigueur trente jours après la date de sa sanction.Trente jours après la sanction |  |  |  |  |
-| Published under authority of the Speaker of the House of Commons |  | Publié avec l'autorisation du président de la Chambre des communes |  |  |  |  |
+| Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada |  | Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada |  |  |  |  |
