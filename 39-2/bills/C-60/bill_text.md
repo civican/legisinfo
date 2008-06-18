@@ -1,14 +1,10 @@
 COVER
 
-| C-60 |  | C-60 |
+| Second Session, Thirty-ninth Parliament, 56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature, 56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-60 |  | PROJET DE LOI C-60 |
+| STATUTES OF CANADA 2008CHAPTER 29 |  | LOIS DU CANADA (2008)CHAPITRE 29 |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |
-| AS PASSED BY THE HOUSE OF COMMONSJUNE 17, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 17 JUIN 2008 |
-| 90471 |  |  |
+| ASSENTED TO 18th JUNE, 2008 BILL C-60 |  | SANCTIONNÉE LE 18 JUIN 2008 PROJET DE LOI C-60 |
 
 INSIDECOVER
 
@@ -18,12 +14,12 @@ INSIDECOVER
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5 NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALE L.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F) 1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit : 1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -127,19 +123,15 @@ MAINTEXT
 
 Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
 
-Bill C-60Click here for the entire document (144Kb)Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
+Bill C-60Click here for the entire document (143Kb)Table of ContentsCoverSummaryBill C-60NATIONAL DEFENCE ACTDecisions of General Court MartialREVIEW AND REPORTTRANSITIONAL PROVISIONCONSEQUENTIAL AMENDMENTGeneva Conventions ActCOORDINATING AMENDMENTSCOMING INTO FORCE
 
 COVER
 
-| C-60 |  | C-60 |
+| Second Session, Thirty-ninth Parliament,56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature,56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-60 |  | PROJET DE LOI C-60 |
+| STATUTES OF CANADA 2008CHAPTER 29 |  | LOIS DU CANADA (2008)CHAPITRE 29 |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |
-| AS PASSEDBY THE HOUSE OF COMMONSJUNE 17, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 17 JUIN 2008 |
-| 90471 |  |  |
+| ASSENTED TO18th JUNE, 2008BILL C-60 |  | SANCTIONNÉELE 18 JUIN 2008PROJET DE LOI C-60 |
 
 INSIDECOVER
 
@@ -153,12 +145,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -262,12 +254,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -371,12 +363,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -480,12 +472,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -589,12 +581,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -698,12 +690,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -807,12 +799,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -916,12 +908,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
@@ -1025,12 +1017,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-60 |  | PROJET DE LOI C-60 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 29 |  | CHAPITRE 29 |  |  |  |  |
 | An Act to amend the National Defence Act (court martial) and to make a consequential amendment to another Act |  | Loi modifiant la Loi sur la défense nationale (cour martiale) et une autre loi en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. N-5NATIONAL DEFENCE ACT |  | LOI SUR LA DÉFENSE NATIONALEL.R., ch. N-5 |  |  |  |  |
 | 1993, c. 34, s. 91(F)1. The definition "court martial" in subsection 2(1) of the National Defence Act is replaced by the following: |  | 1. La définition de « cour martiale », au paragraphe 2(1) de la Loi sur la défense nationale, est remplacée par ce qui suit :1993, ch. 34, art. 91 (F) |  |  |  |  |
