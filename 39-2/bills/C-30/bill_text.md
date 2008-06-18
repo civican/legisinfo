@@ -1,14 +1,10 @@
 COVER
 
-| C-30 |  | C-30 |
+| Second Session, Thirty-ninth Parliament, 56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature, 56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-30 |  | PROJET DE LOI C-30 |
+| STATUTES OF CANADA 2008CHAPTER 22 |  | LOIS DU CANADA (2008)CHAPITRE 22 |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 13, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 13 MAI 2008 |
-| 90439 |  |  |
+| ASSENTED TO 18th JUNE, 2008 BILL C-30 |  | SANCTIONNÉE LE 18 JUIN 2008 PROJET DE LOI C-30 |
 
 INSIDECOVER
 
@@ -93,12 +89,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Preamble Recognizing that it is in the interests of all Canadians that the specific claims of First Nations be addressed; resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations; there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner; the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations; the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu : Préambule qu'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations; que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci; qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais; que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées; que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -285,19 +281,15 @@ SCHEDULE
 
 Table of ContentsCoverSummaryTable of ProvisionsBill C-30SHORT TITLEINTERPRETATIONPURPOSE AND APPLICATION OF ACTSPECIFIC CLAIMS TRIBUNALEstablishmentAdministration of the TribunalFunctions, Powers and DutiesSpecific ClaimsHearings and DecisionsGENERALRegulationsAnnual ReportReview and ReportTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFederal Courts ActFinancial Administration ActPrivacy ActPublic Service Superannuation ActREPEALCOMING INTO FORCESchedule 1
 
-Bill C-30Click here for the entire document (328Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-30SHORT TITLEINTERPRETATIONPURPOSE AND APPLICATION OF ACTSPECIFIC CLAIMS TRIBUNALEstablishmentAdministration of the TribunalFunctions, Powers and DutiesSpecific ClaimsHearings and DecisionsGENERALRegulationsAnnual ReportReview and ReportTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFederal Courts ActFinancial Administration ActPrivacy ActPublic Service Superannuation ActREPEALCOMING INTO FORCESchedule 1
+Bill C-30Click here for the entire document (327Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-30SHORT TITLEINTERPRETATIONPURPOSE AND APPLICATION OF ACTSPECIFIC CLAIMS TRIBUNALEstablishmentAdministration of the TribunalFunctions, Powers and DutiesSpecific ClaimsHearings and DecisionsGENERALRegulationsAnnual ReportReview and ReportTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFederal Courts ActFinancial Administration ActPrivacy ActPublic Service Superannuation ActREPEALCOMING INTO FORCESchedule 1
 
 COVER
 
-| C-30 |  | C-30 |
+| Second Session, Thirty-ninth Parliament,56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature,56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-30 |  | PROJET DE LOI C-30 |
+| STATUTES OF CANADA 2008CHAPTER 22 |  | LOIS DU CANADA (2008)CHAPITRE 22 |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |
-| AS PASSEDBY THE HOUSE OF COMMONSMAY 13, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 13 MAI 2008 |
-| 90439 |  |  |
+| ASSENTED TO18th JUNE, 2008BILL C-30 |  | SANCTIONNÉELE 18 JUIN 2008PROJET DE LOI C-30 |
 
 INSIDECOVER
 
@@ -388,12 +380,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -488,12 +480,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -588,12 +580,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -688,12 +680,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -788,12 +780,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -888,12 +880,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -988,12 +980,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1088,12 +1080,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1188,12 +1180,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1288,12 +1280,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-30 |  | PROJET DE LOI C-30 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 22 |  | CHAPITRE 22 |  |  |  |  |
 | An Act to establish the Specific Claims Tribunal and to make consequential amendments to other Acts |  | Loi constituant le Tribunal des revendications particulières et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleRecognizing thatit is in the interests of all Canadians that the specific claims of First Nations be addressed;resolving specific claims will promote reconciliation between First Nations and the Crown and the development and self-sufficiency of First Nations;there is a need to establish an independent tribunal that can resolve specific claims and is designed to respond to the distinctive task of adjudicating such claims in accordance with law and in a just and timely manner;the right of First Nations to choose and have access to a specific claims tribunal will create conditions that are appropriate for resolving valid claims through negotiations;the Assembly of First Nations and the Government of Canada have worked together on a legislative proposal from the Government of Canada culminating in the introduction of this Act; |  | Attendu :Préambulequ'il est dans l'intérêt de tous les Canadiens que soient réglées les revendications particulières des Premières Nations;que le règlement de ces revendications contribuera au rapprochement entre Sa Majesté et les Premières Nations et au développement et à l'autosuffisance de celles-ci;qu'il convient de constituer un tribunal indépendant capable, compte tenu de la nature particulière de ces revendications, de statuer sur celles-ci de façon équitable et dans les meilleurs délais;que le droit des Premières Nations de saisir ce tribunal de leurs revendications particulières encouragera le règlement par la négociation des revendications bien-fondées;que l'Assemblée des Premières Nations et le gouvernement du Canada ont travaillé conjointement à une proposition législative de celui-ci qui a mené à l'élaboration de la présente loi, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
