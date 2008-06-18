@@ -1,14 +1,10 @@
 COVER
 
-| C-50 |  | C-50 |
+| Second Session, Thirty-ninth Parliament, 56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature, 56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-50 |  | PROJET DE LOI C-50 |
+| STATUTES OF CANADA 2008CHAPTER 28 |  | LOIS DU CANADA (2008)CHAPITRE 28 |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |
-| AS PASSED BY THE HOUSE OF COMMONSJUNE 9, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 9 JUIN 2008 |
-| 90462 |  |  |
+| ASSENTED TO 18th JUNE, 2008 BILL C-50 |  | SANCTIONNÉE LE 18 JUIN 2008 PROJET DE LOI C-50 |
 
 INSIDECOVER
 
@@ -200,12 +196,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-50 |  | PROJET DE LOI C-50 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 28 |  | CHAPITRE 28 |  |  |  |  |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Preamble Whereas, when the Government of Canada tables a budget in Parliament, a fiscal plan is an integral part of that budget; Whereas the Government of Canada is committed to meeting the challenge of global economic uncertainty with a responsible, prudent and effective fiscal plan as reflected in the Budget Plan tabled in Parliament on February 26, 2008; Whereas it is imperative to preserve the fiscal integrity of that Budget Plan and the integrity of the budget process, and important not to risk the Government of Canada going into deficit; And whereas it is expedient to implement certain provisions of that Budget Plan; Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu : Préambule que, lorsque le gouvernement du Canada dépose un budget au Parlement, le plan financier en fait partie intégrante; que le gouvernement du Canada est résolu à faire face au défi que présente l'incertitude économique mondiale en se dotant d'un plan financier responsable, prudent et efficace, comme en témoigne le plan budgétaire déposé au Parlement le 26 février 2008; qu'il est impératif de garantir l'intégrité fiscale de ce plan budgétaire et l'intégrité du processus budgétaire et important d'éviter d'exposer le gouvernement du Canada à un déficit; qu'il y a lieu de mettre en oeuvre certaines dispositions de ce plan budgétaire, Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title 1. This Act may be cited as the Budget Implementation Act, 2008. |  | 1. Loi d'exécution du budget de 2008. Titre abrégé |  |  |  |  |
@@ -1052,19 +1048,15 @@ MAINTEXT
 
 Table of ContentsCoverSummaryTable of ProvisionsBill C-50SHORT TITLEAMENDMENTS RELATED TO INCOME TAXIncome Tax ActTax-free Savings AccountsTAXES IN RESPECT OF TFSAsCanada Pension PlanEmployment Insurance ActCoordinating AmendmentsConditional AmendmentsAMENDMENTS IN RESPECT OF EXCISE DUTY ON TOBACCO PRODUCTS AND ALCOHOLExcise ActExcise Act, 2001Amendments to the ActApplicationRelated AmendmentsCustoms TariffAMENDMENTS IN RESPECT OF THE GOODS AND SERVICES TAX AND HARMONIZED SALES TAX (GST/HST)Excise Tax ActCANADA MILLENNIUM SCHOLARSHIP FOUNDATIONDissolution of the FoundationAmendments to the Budget Implementation Act, 1998Consequential AmendmentsAccess to Information ActPrivacy ActComing Into ForceFEDERAL FINANCIAL ASSISTANCE FOR STUDENTSAmendments to the Canada Student Financial Assistance ActAmendments to the Canada Student Loans ActComing into ForceIMMIGRATION AND REFUGEE PROTECTION ACTAmendments to the ActInstructions on Processing Applications and RequestsTransitional ProvisionEMPLOYMENT INSURANCECanada Employment Insurance Financing Board ActSHORT TITLEINTERPRETATIONESTABLISHMENT OF THE BOARDOBJECTS, POWERS AND DUTIESMANAGEMENTBoard of DirectorsDirectorsChairperson of the Board of DirectorsOfficersChief Executive OfficerChief ActuaryDiligenceBY-LAWSCOMMITTEESEstablishmentAudit CommitteeInvestment CommitteeHuman Resources CommitteeINVESTMENTSFINANCIAL MANAGEMENTGeneralFinancial StatementsAuditor's ReportQualified PrivilegeSpecial ExaminationREPORTINGQuarterly StatementsAnnual ReportPremium Rate Setting ReportREGULATIONSTransitional ProvisionsAmendments to the Employment Insurance ActInterpretationConsequential AmendmentsDepartment of Human Resources and Skills Development ActFinancial Administration ActComing into ForcePAYMENTS TO PROVINCES AND TERRITORIESPolice Officers Recruitment FundPublic Transit Capital Trust 2008Payment to Saskatchewan for Carbon Capture and StoragePayment to Nova Scotia for Carbon StorageCanada Social Transfer Transition Protection Payment to SaskatchewanCanada Social Transfer Transition Protection Payment to NunavutPAYMENTS TO CERTAIN ENTITIESGenome CanadaMental Health Commission of CanadaThe Gairdner FoundationUniversity of CalgaryVARIOUS AMENDMENTSBank of Canada ActBudget Implementation Act, 2006Canadian Forces Superannuation ActCooperative Credit Associations ActDonkin Coal Block Development Opportunity ActFinancial Administration ActInsurance Companies ActInterest ActOld Age Security ActPublic Service Superannuation actRoyal Canadian Mounted Police Superannuation ActTrust and Loan Companies ActComing into Force
 
-Bill C-50Click here for the entire document (1695Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-50SHORT TITLEAMENDMENTS RELATED TO INCOME TAXIncome Tax ActTax-free Savings AccountsTAXES IN RESPECT OF TFSAsCanada Pension PlanEmployment Insurance ActCoordinating AmendmentsConditional AmendmentsAMENDMENTS IN RESPECT OF EXCISE DUTY ON TOBACCO PRODUCTS AND ALCOHOLExcise ActExcise Act, 2001Amendments to the ActApplicationRelated AmendmentsCustoms TariffAMENDMENTS IN RESPECT OF THE GOODS AND SERVICES TAX AND HARMONIZED SALES TAX (GST/HST)Excise Tax ActCANADA MILLENNIUM SCHOLARSHIP FOUNDATIONDissolution of the FoundationAmendments to the Budget Implementation Act, 1998Consequential AmendmentsAccess to Information ActPrivacy ActComing Into ForceFEDERAL FINANCIAL ASSISTANCE FOR STUDENTSAmendments to the Canada Student Financial Assistance ActAmendments to the Canada Student Loans ActComing into ForceIMMIGRATION AND REFUGEE PROTECTION ACTAmendments to the ActInstructions on Processing Applications and RequestsTransitional ProvisionEMPLOYMENT INSURANCECanada Employment Insurance Financing Board ActSHORT TITLEINTERPRETATIONESTABLISHMENT OF THE BOARDOBJECTS, POWERS AND DUTIESMANAGEMENTBoard of DirectorsDirectorsChairperson of the Board of DirectorsOfficersChief Executive OfficerChief ActuaryDiligenceBY-LAWSCOMMITTEESEstablishmentAudit CommitteeInvestment CommitteeHuman Resources CommitteeINVESTMENTSFINANCIAL MANAGEMENTGeneralFinancial StatementsAuditor's ReportQualified PrivilegeSpecial ExaminationREPORTINGQuarterly StatementsAnnual ReportPremium Rate Setting ReportREGULATIONSTransitional ProvisionsAmendments to the Employment Insurance ActInterpretationConsequential AmendmentsDepartment of Human Resources and Skills Development ActFinancial Administration ActComing into ForcePAYMENTS TO PROVINCES AND TERRITORIESPolice Officers Recruitment FundPublic Transit Capital Trust 2008Payment to Saskatchewan for Carbon Capture and StoragePayment to Nova Scotia for Carbon StorageCanada Social Transfer Transition Protection Payment to SaskatchewanCanada Social Transfer Transition Protection Payment to NunavutPAYMENTS TO CERTAIN ENTITIESGenome CanadaMental Health Commission of CanadaThe Gairdner FoundationUniversity of CalgaryVARIOUS AMENDMENTSBank of Canada ActBudget Implementation Act, 2006Canadian Forces Superannuation ActCooperative Credit Associations ActDonkin Coal Block Development Opportunity ActFinancial Administration ActInsurance Companies ActInterest ActOld Age Security ActPublic Service Superannuation actRoyal Canadian Mounted Police Superannuation ActTrust and Loan Companies ActComing into Force
+Bill C-50Click here for the entire document (1693Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-50SHORT TITLEAMENDMENTS RELATED TO INCOME TAXIncome Tax ActTax-free Savings AccountsTAXES IN RESPECT OF TFSAsCanada Pension PlanEmployment Insurance ActCoordinating AmendmentsConditional AmendmentsAMENDMENTS IN RESPECT OF EXCISE DUTY ON TOBACCO PRODUCTS AND ALCOHOLExcise ActExcise Act, 2001Amendments to the ActApplicationRelated AmendmentsCustoms TariffAMENDMENTS IN RESPECT OF THE GOODS AND SERVICES TAX AND HARMONIZED SALES TAX (GST/HST)Excise Tax ActCANADA MILLENNIUM SCHOLARSHIP FOUNDATIONDissolution of the FoundationAmendments to the Budget Implementation Act, 1998Consequential AmendmentsAccess to Information ActPrivacy ActComing Into ForceFEDERAL FINANCIAL ASSISTANCE FOR STUDENTSAmendments to the Canada Student Financial Assistance ActAmendments to the Canada Student Loans ActComing into ForceIMMIGRATION AND REFUGEE PROTECTION ACTAmendments to the ActInstructions on Processing Applications and RequestsTransitional ProvisionEMPLOYMENT INSURANCECanada Employment Insurance Financing Board ActSHORT TITLEINTERPRETATIONESTABLISHMENT OF THE BOARDOBJECTS, POWERS AND DUTIESMANAGEMENTBoard of DirectorsDirectorsChairperson of the Board of DirectorsOfficersChief Executive OfficerChief ActuaryDiligenceBY-LAWSCOMMITTEESEstablishmentAudit CommitteeInvestment CommitteeHuman Resources CommitteeINVESTMENTSFINANCIAL MANAGEMENTGeneralFinancial StatementsAuditor's ReportQualified PrivilegeSpecial ExaminationREPORTINGQuarterly StatementsAnnual ReportPremium Rate Setting ReportREGULATIONSTransitional ProvisionsAmendments to the Employment Insurance ActInterpretationConsequential AmendmentsDepartment of Human Resources and Skills Development ActFinancial Administration ActComing into ForcePAYMENTS TO PROVINCES AND TERRITORIESPolice Officers Recruitment FundPublic Transit Capital Trust 2008Payment to Saskatchewan for Carbon Capture and StoragePayment to Nova Scotia for Carbon StorageCanada Social Transfer Transition Protection Payment to SaskatchewanCanada Social Transfer Transition Protection Payment to NunavutPAYMENTS TO CERTAIN ENTITIESGenome CanadaMental Health Commission of CanadaThe Gairdner FoundationUniversity of CalgaryVARIOUS AMENDMENTSBank of Canada ActBudget Implementation Act, 2006Canadian Forces Superannuation ActCooperative Credit Associations ActDonkin Coal Block Development Opportunity ActFinancial Administration ActInsurance Companies ActInterest ActOld Age Security ActPublic Service Superannuation actRoyal Canadian Mounted Police Superannuation ActTrust and Loan Companies ActComing into Force
 
 COVER
 
-| C-50 |  | C-50 |
+| Second Session, Thirty-ninth Parliament,56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature,56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-50 |  | PROJET DE LOI C-50 |
+| STATUTES OF CANADA 2008CHAPTER 28 |  | LOIS DU CANADA (2008)CHAPITRE 28 |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |
-| AS PASSEDBY THE HOUSE OF COMMONSJUNE 9, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 9 JUIN 2008 |
-| 90462 |  |  |
+| ASSENTED TO18th JUNE, 2008BILL C-50 |  | SANCTIONNÉELE 18 JUIN 2008PROJET DE LOI C-50 |
 
 INSIDECOVER
 
@@ -1262,12 +1254,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-50 |  | PROJET DE LOI C-50 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 28 |  | CHAPITRE 28 |  |  |  |  |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleWhereas, when the Government of Canada tables a budget in Parliament, a fiscal plan is an integral part of that budget;Whereas the Government of Canada is committed to meeting the challenge of global economic uncertainty with a responsible, prudent and effective fiscal plan as reflected in the Budget Plan tabled in Parliament on February 26, 2008;Whereas it is imperative to preserve the fiscal integrity of that Budget Plan and the integrity of the budget process, and important not to risk the Government of Canada going into deficit;And whereas it is expedient to implement certain provisions of that Budget Plan;Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu :Préambuleque, lorsque le gouvernement du Canada dépose un budget au Parlement, le plan financier en fait partie intégrante;que le gouvernement du Canada est résolu à faire face au défi que présente l'incertitude économique mondiale en se dotant d'un plan financier responsable, prudent et efficace, comme en témoigne le plan budgétaire déposé au Parlement le 26 février 2008;qu'il est impératif de garantir l'intégrité fiscale de ce plan budgétaire et l'intégrité du processus budgétaire et important d'éviter d'exposer le gouvernement du Canada à un déficit;qu'il y a lieu de mettre en oeuvre certaines dispositions de ce plan budgétaire,Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2008. |  | 1. Loi d'exécution du budget de 2008.Titre abrégé |  |  |  |  |
@@ -1385,12 +1377,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-50 |  | PROJET DE LOI C-50 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 28 |  | CHAPITRE 28 |  |  |  |  |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleWhereas, when the Government of Canada tables a budget in Parliament, a fiscal plan is an integral part of that budget;Whereas the Government of Canada is committed to meeting the challenge of global economic uncertainty with a responsible, prudent and effective fiscal plan as reflected in the Budget Plan tabled in Parliament on February 26, 2008;Whereas it is imperative to preserve the fiscal integrity of that Budget Plan and the integrity of the budget process, and important not to risk the Government of Canada going into deficit;And whereas it is expedient to implement certain provisions of that Budget Plan;Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu :Préambuleque, lorsque le gouvernement du Canada dépose un budget au Parlement, le plan financier en fait partie intégrante;que le gouvernement du Canada est résolu à faire face au défi que présente l'incertitude économique mondiale en se dotant d'un plan financier responsable, prudent et efficace, comme en témoigne le plan budgétaire déposé au Parlement le 26 février 2008;qu'il est impératif de garantir l'intégrité fiscale de ce plan budgétaire et l'intégrité du processus budgétaire et important d'éviter d'exposer le gouvernement du Canada à un déficit;qu'il y a lieu de mettre en oeuvre certaines dispositions de ce plan budgétaire,Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2008. |  | 1. Loi d'exécution du budget de 2008.Titre abrégé |  |  |  |  |
@@ -1508,12 +1500,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-50 |  | PROJET DE LOI C-50 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 28 |  | CHAPITRE 28 |  |  |  |  |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleWhereas, when the Government of Canada tables a budget in Parliament, a fiscal plan is an integral part of that budget;Whereas the Government of Canada is committed to meeting the challenge of global economic uncertainty with a responsible, prudent and effective fiscal plan as reflected in the Budget Plan tabled in Parliament on February 26, 2008;Whereas it is imperative to preserve the fiscal integrity of that Budget Plan and the integrity of the budget process, and important not to risk the Government of Canada going into deficit;And whereas it is expedient to implement certain provisions of that Budget Plan;Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu :Préambuleque, lorsque le gouvernement du Canada dépose un budget au Parlement, le plan financier en fait partie intégrante;que le gouvernement du Canada est résolu à faire face au défi que présente l'incertitude économique mondiale en se dotant d'un plan financier responsable, prudent et efficace, comme en témoigne le plan budgétaire déposé au Parlement le 26 février 2008;qu'il est impératif de garantir l'intégrité fiscale de ce plan budgétaire et l'intégrité du processus budgétaire et important d'éviter d'exposer le gouvernement du Canada à un déficit;qu'il y a lieu de mettre en oeuvre certaines dispositions de ce plan budgétaire,Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2008. |  | 1. Loi d'exécution du budget de 2008.Titre abrégé |  |  |  |  |
@@ -1631,12 +1623,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-50 |  | PROJET DE LOI C-50 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 28 |  | CHAPITRE 28 |  |  |  |  |
 | An Act to implement certain provisions of the budget tabled in Parliament on February 26, 2008 and to enact provisions to preserve the fiscal plan set out in that budget |  | Loi portant exécution de certaines dispositions du budget déposé au Parlement le 26 février 2008 et édictant des dispositions visant à maintenir le plan financier établi dans ce budget |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | PreambleWhereas, when the Government of Canada tables a budget in Parliament, a fiscal plan is an integral part of that budget;Whereas the Government of Canada is committed to meeting the challenge of global economic uncertainty with a responsible, prudent and effective fiscal plan as reflected in the Budget Plan tabled in Parliament on February 26, 2008;Whereas it is imperative to preserve the fiscal integrity of that Budget Plan and the integrity of the budget process, and important not to risk the Government of Canada going into deficit;And whereas it is expedient to implement certain provisions of that Budget Plan;Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Attendu :Préambuleque, lorsque le gouvernement du Canada dépose un budget au Parlement, le plan financier en fait partie intégrante;que le gouvernement du Canada est résolu à faire face au défi que présente l'incertitude économique mondiale en se dotant d'un plan financier responsable, prudent et efficace, comme en témoigne le plan budgétaire déposé au Parlement le 26 février 2008;qu'il est impératif de garantir l'intégrité fiscale de ce plan budgétaire et l'intégrité du processus budgétaire et important d'éviter d'exposer le gouvernement du Canada à un déficit;qu'il y a lieu de mettre en oeuvre certaines dispositions de ce plan budgétaire,Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
 | Short title1. This Act may be cited as the Budget Implementation Act, 2008. |  | 1. Loi d'exécution du budget de 2008.Titre abrégé |  |  |  |  |
