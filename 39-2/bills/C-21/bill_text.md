@@ -1,29 +1,25 @@
 COVER
 
-| C-21 |  | C-21 |
+| Second Session, Thirty-ninth Parliament, 56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature, 56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-21 |  | PROJET DE LOI C-21 |
+| STATUTES OF CANADA 2008CHAPTER 30 |  | LOIS DU CANADA (2008)CHAPITRE 30 |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |
-| AS PASSED BY THE HOUSE OF COMMONSMAY 28, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 28 MAI 2008 |
-| 90436 |  |  |
+| ASSENTED TO 18th JUNE, 2008 BILL C-21 |  | SANCTIONNÉE LE 18 JUIN 2008 PROJET DE LOI C-21 |
 
 INSIDECOVER
 
-| SUMMARY This enactment repeals section 67 of the Canadian Human Rights Act and provides for a statutory review, within five years after the enactment receives royal assent, of the effects of the repeal by any parliamentary committee that may be designated or established for that purpose. It also contains transitional provisions with respect to aboriginal authorities. |  | SOMMAIRE Le texte abroge l'article 67 de la Loi canadienne sur les droits de la personne et prévoit l'examen par un comité parlementaire des effets de cette abrogation au cours des cinq années suivant la date de sa sanction. Il contient également des dispositions transitoires en ce qui a trait aux autorités autochtones. |
+| SUMMARY This enactment repeals section 67 of the Canadian Human Rights Act and provides for a statutory review, within five years after the enactment receives royal assent, of the effects of the repeal. It also contains interpretative provisions as well as transitional provisions with respect to aboriginal authorities. |  | SOMMAIRE Le texte abroge l'article 67 de la Loi canadienne sur les droits de la personne et prévoit l'examen des effets de cette abrogation au cours des cinq années suivant la date de sa sanction. Il contient également des dispositions interprétatives, ainsi que des dispositions transitoires en ce qui a trait aux autorités autochtones. |
 | --- | --- | --- |
 | Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca |  | Aussi disponible sur le site Web du Parlement du Canada à l'adresse suivante :http://www.parl.gc.ca |
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-21 |  | PROJET DE LOI C-21 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 30 |  | CHAPITRE 30 |  |  |  |  |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. H-6 CANADIAN HUMAN RIGHTS ACT |  | LOI CANADIENNE SUR LES DROITS DE LA PERSONNE L.R., ch. H-6 |  |  |  |  |
 | 1. Section 67 of the Canadian Human Rights Act is repealed. |  | 1. L'article 67 de la Loi canadienne sur les droits de la personne est abrogé. |  |  |  |  |
@@ -39,25 +35,21 @@ MAINTEXT
 
 Table of ContentsCoverSummaryBill C-21CANADIAN HUMAN RIGHTS ACTREVIEW AND REPORTTRANSITIONAL PROVISIONS
 
-Bill C-21Click here for the entire document (29Kb)Table of ContentsCoverSummaryBill C-21CANADIAN HUMAN RIGHTS ACTREVIEW AND REPORTTRANSITIONAL PROVISIONS
+Bill C-21Click here for the entire document (28Kb)Table of ContentsCoverSummaryBill C-21CANADIAN HUMAN RIGHTS ACTREVIEW AND REPORTTRANSITIONAL PROVISIONS
 
 COVER
 
-| C-21 |  | C-21 |
+| Second Session, Thirty-ninth Parliament,56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature,56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-21 |  | PROJET DE LOI C-21 |
+| STATUTES OF CANADA 2008CHAPTER 30 |  | LOIS DU CANADA (2008)CHAPITRE 30 |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |
-| AS PASSEDBY THE HOUSE OF COMMONSMAY 28, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 28 MAI 2008 |
-| 90436 |  |  |
+| ASSENTED TO18th JUNE, 2008BILL C-21 |  | SANCTIONNÉELE 18 JUIN 2008PROJET DE LOI C-21 |
 
 INSIDECOVER
 
 INSIDECOVER
 
-| SUMMARYThis enactment repeals section 67 of the Canadian Human Rights Act and provides for a statutory review, within five years after the enactment receives royal assent, of the effects of the repeal by any parliamentary committee that may be designated or established for that purpose. It also contains transitional provisions with respect to aboriginal authorities. |  | SOMMAIRELe texte abroge l'article 67 de la Loi canadienne sur les droits de la personne et prévoit l'examen par un comité parlementaire des effets de cette abrogation au cours des cinq années suivant la date de sa sanction. Il contient également des dispositions transitoires en ce qui a trait aux autorités autochtones. |
+| SUMMARYThis enactment repeals section 67 of the Canadian Human Rights Act and provides for a statutory review, within five years after the enactment receives royal assent, of the effects of the repeal. It also contains interpretative provisions as well as transitional provisions with respect to aboriginal authorities. |  | SOMMAIRELe texte abroge l'article 67 de la Loi canadienne sur les droits de la personne et prévoit l'examen des effets de cette abrogation au cours des cinq années suivant la date de sa sanction. Il contient également des dispositions interprétatives, ainsi que des dispositions transitoires en ce qui a trait aux autorités autochtones. |
 | --- | --- | --- |
 | Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca |  | Aussi disponible sur le site Web du Parlement du Canada à l'adresse suivante :http://www.parl.gc.ca |
 
@@ -65,12 +57,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-21 |  | PROJET DE LOI C-21 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 30 |  | CHAPITRE 30 |  |  |  |  |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. H-6CANADIAN HUMAN RIGHTS ACT |  | LOI CANADIENNE SUR LES DROITS DE LA PERSONNEL.R., ch. H-6 |  |  |  |  |
 | 1. Section 67 of the Canadian Human Rights Act is repealed. |  | 1. L'article 67 de la Loi canadienne sur les droits de la personne est abrogé. |  |  |  |  |
@@ -86,12 +78,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-21 |  | PROJET DE LOI C-21 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 30 |  | CHAPITRE 30 |  |  |  |  |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. H-6CANADIAN HUMAN RIGHTS ACT |  | LOI CANADIENNE SUR LES DROITS DE LA PERSONNEL.R., ch. H-6 |  |  |  |  |
 | 1. Section 67 of the Canadian Human Rights Act is repealed. |  | 1. L'article 67 de la Loi canadienne sur les droits de la personne est abrogé. |  |  |  |  |
@@ -107,12 +99,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-21 |  | PROJET DE LOI C-21 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 30 |  | CHAPITRE 30 |  |  |  |  |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. H-6CANADIAN HUMAN RIGHTS ACT |  | LOI CANADIENNE SUR LES DROITS DE LA PERSONNEL.R., ch. H-6 |  |  |  |  |
 | 1. Section 67 of the Canadian Human Rights Act is repealed. |  | 1. L'article 67 de la Loi canadienne sur les droits de la personne est abrogé. |  |  |  |  |
@@ -128,12 +120,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-21 |  | PROJET DE LOI C-21 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 30 |  | CHAPITRE 30 |  |  |  |  |
 | An Act to amend the Canadian Human Rights Act |  | Loi modifiant la Loi canadienne sur les droits de la personne |  |  |  |  |
+| [Assented to 18th June, 2008] |  | [Sanctionnée le 18 juin 2008] |  |  |  |  |
 | Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | R.S., c. H-6CANADIAN HUMAN RIGHTS ACT |  | LOI CANADIENNE SUR LES DROITS DE LA PERSONNEL.R., ch. H-6 |  |  |  |  |
 | 1. Section 67 of the Canadian Human Rights Act is repealed. |  | 1. L'article 67 de la Loi canadienne sur les droits de la personne est abrogé. |  |  |  |  |
