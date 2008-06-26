@@ -1,14 +1,10 @@
 COVER
 
-| C-34 |  | C-34 |
+| Second Session, Thirty-ninth Parliament, 56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature, 56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-34 |  | PROJET DE LOI C-34 |
+| STATUTES OF CANADA 2008CHAPTER 32 |  | LOIS DU CANADA (2008)CHAPITRE 32 |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |
-| AS PASSED BY THE HOUSE OF COMMONSJUNE 17, 2008 |  | ADOPTÉ PAR LA CHAMBRE DES COMMUNESLE 17 JUIN 2008 |
-| 90445 |  |  |
+| ASSENTED TO 26th JUNE, 2008 BILL C-34 |  | SANCTIONNÉE LE 26 JUIN 2008 PROJET DE LOI C-34 |
 
 INSIDECOVER
 
@@ -72,12 +68,12 @@ TABLEOFPROVISIONS
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | Preamble Whereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada; Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada; Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians; Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation; Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them; And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu : Préambule que la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada; que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada; qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État; que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation; que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux; que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -160,19 +156,15 @@ MAINTEXT
 
 Table of ContentsCoverSummaryTable of ProvisionsBill C-34SHORT TITLEINTERPRETATIONAGREEMENTAPPROPRIATIONLANDSTAXATIONFISHERIESAPPLICATION OF OTHER ACTSAPPLICATION OF LAWS OF BRITISH COLUMBIAGENERALTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFirst Nations Land Management ActFisheries ActPayments in Lieu of Taxes ActPrivacy ActCOORDINATING AMENDMENTSCOMING INTO FORCE
 
-Bill C-34Click here for the entire document (156Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-34SHORT TITLEINTERPRETATIONAGREEMENTAPPROPRIATIONLANDSTAXATIONFISHERIESAPPLICATION OF OTHER ACTSAPPLICATION OF LAWS OF BRITISH COLUMBIAGENERALTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFirst Nations Land Management ActFisheries ActPayments in Lieu of Taxes ActPrivacy ActCOORDINATING AMENDMENTSCOMING INTO FORCE
+Bill C-34Click here for the entire document (155Kb)Table of ContentsCoverSummaryTable of ProvisionsBill C-34SHORT TITLEINTERPRETATIONAGREEMENTAPPROPRIATIONLANDSTAXATIONFISHERIESAPPLICATION OF OTHER ACTSAPPLICATION OF LAWS OF BRITISH COLUMBIAGENERALTRANSITIONAL PROVISIONSCONSEQUENTIAL AMENDMENTSAccess to Information ActFirst Nations Land Management ActFisheries ActPayments in Lieu of Taxes ActPrivacy ActCOORDINATING AMENDMENTSCOMING INTO FORCE
 
 COVER
 
-| C-34 |  | C-34 |
+| Second Session, Thirty-ninth Parliament,56-57 Elizabeth II, 2007-2008 |  | Deuxième session, trente-neuvième législature,56-57 Elizabeth II, 2007-2008 |
 | --- | --- | --- |
-| Second Session, Thirty-ninth Parliament, |  | Deuxième session, trente-neuvième législature, |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |
-| HOUSE OF COMMONS OF CANADA |  | CHAMBRE DES COMMUNES DU CANADA |
-| BILL C-34 |  | PROJET DE LOI C-34 |
+| STATUTES OF CANADA 2008CHAPTER 32 |  | LOIS DU CANADA (2008)CHAPITRE 32 |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |
-| AS PASSEDBY THE HOUSE OF COMMONSJUNE 17, 2008 |  | ADOPTÉPAR LA CHAMBRE DES COMMUNESLE 17 JUIN 2008 |
-| 90445 |  |  |
+| ASSENTED TO26th JUNE, 2008BILL C-34 |  | SANCTIONNÉELE 26 JUIN 2008PROJET DE LOI C-34 |
 
 INSIDECOVER
 
@@ -242,12 +234,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -330,12 +322,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -418,12 +410,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -506,12 +498,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -594,12 +586,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -682,12 +674,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -770,12 +762,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -858,12 +850,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -946,12 +938,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1034,12 +1026,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1122,12 +1114,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1210,12 +1202,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1298,12 +1290,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1386,12 +1378,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1474,12 +1466,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1562,12 +1554,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1650,12 +1642,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1738,12 +1730,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1826,12 +1818,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
@@ -1914,12 +1906,12 @@ MAINTEXT
 
 MAINTEXT
 
-| 2nd Session, 39th Parliament, |  | 2e session, 39e législature, |  |  |  |  |
+| 56-57 ELIZABETH II |  | 56-57 ELIZABETH II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| 56-57 Elizabeth II, 2007-2008 |  | 56-57 Elizabeth II, 2007-2008 |  |  |  |  |
-| house of commons of canada |  | chambre des communes du canada |  |  |  |  |
-| BILL C-34 |  | PROJET DE LOI C-34 |  |  |  |  |
+| —————— |  | —————— |  |  |  |  |
+| CHAPTER 32 |  | CHAPITRE 32 |  |  |  |  |
 | An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts |  | Loi portant mise en vigueur de l'accord définitif concernant la Première Nation de Tsawwassen et modifiant certaines lois en conséquence |  |  |  |  |
+| [Assented to 26th June, 2008] |  | [Sanctionnée le 26 juin 2008] |  |  |  |  |
 | PreambleWhereas the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;Whereas the Tsawwassen First Nation is part of the Coast Salish, an aboriginal people of Canada;Whereas the reconciliation between the prior presence of aboriginal peoples and the assertion of sovereignty by the Crown is of significant social and economic importance to Canadians;Whereas Canadian courts have stated that this reconciliation is best achieved through negotiation;Whereas the Tsawwassen First Nation, the government of Canada and the government of British Columbia have negotiated the Agreement to achieve this reconciliation and to establish a new relationship among them;And whereas the Agreement requires that legislation be enacted by the Parliament of Canada in order for the Agreement to be ratified; |  | Attendu :Préambuleque la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;que la Première Nation de Tsawwassen fait partie des Salishs de la côte, un peuple autochtone du Canada;qu'il importe aux Canadiens et Canadiennes, sur les plans tant social qu'économique, de concilier l'antériorité de la présence de peuples autochtones et l'affirmation de souveraineté de l'État;que les tribunaux canadiens ont déclaré que la meilleure façon de réaliser cet objectif est de procéder par négociation;que la Première Nation de Tsawwassen et les gouvernements du Canada et de la Colombie-Britannique ont négocié l'accord en vue de réaliser cet objectif et d'établir une nouvelle relation entre eux;que l'accord stipule que sa ratification est subordonnée à l'adoption d'une loi par le Parlement du Canada, |  |  |  |  |
 | Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: |  | Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : |  |  |  |  |
 | SHORT TITLE |  | TITRE ABRÉGÉ |  |  |  |  |
