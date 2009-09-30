@@ -1,0 +1,164 @@
+# Bill C-448: An Act to amend the Canada Labour Code (minimum wage)
+
+- **Current Status**: Outside the Order of Precedence
+- **Sponsor**: Irene Mathyssen
+- **Latest Activity**: Introduction and first reading (at 2009-09-30T14:00:00)
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
