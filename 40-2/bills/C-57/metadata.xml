@@ -1,0 +1,504 @@
+<Bills>
+  <Bill>
+    <Id>4223119</Id>
+    <NumberCode>C-57</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>57</Number>
+    <LongTitleEn>An Act to implement the Free Trade Agreement between Canada and the Hashemite Kingdom of Jordan, the Agreement on the Environment between Canada and the Hashemite Kingdom of Jordan and the Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan</LongTitleEn>
+    <LongTitleFr>Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et le Royaume hachémite de Jordanie, de l'Accord sur l'environnement entre le Canada et le Royaume hachémite de Jordanie et de l'Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie</LongTitleFr>
+    <LongTitle>An Act to implement the Free Trade Agreement between Canada and the Hashemite Kingdom of Jordan, the Agreement on the Environment between Canada and the Hashemite Kingdom of Jordan and the Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan</LongTitle>
+    <ShortTitleEn>Canada-Jordan Free Trade Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le libre-échange entre le Canada et la Jordanie</ShortTitleFr>
+    <ShortTitle>Canada-Jordan Free Trade Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2009-11-17T10:08:04</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1792</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Stockwell</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Day</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Stockwell Day</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of International Trade and Minister for the Asia-Pacific Gateway</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre du Commerce international et ministre de la porte d'entrée de l'Asie-Pacifique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of International Trade and Minister for the Asia-Pacific Gateway</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>555</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Okanagan—Coquihalla</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Okanagan—Coquihalla</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Okanagan—Coquihalla</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2009-11-19T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>113</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2009-11-17T10:08:04</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for bills that implement treaties, conventions, agreements or administrative arrangements bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 17 November 2009, The Minister of International Trade and Minister for the Asia-Pacific Gateway introduced Bill C-57, An Act to implement the Free Trade Agreement between Canada and the Hashemite Kingdom of Jordan, the Agreement on the Environment between Canada and the Hashemite Kingdom of Jordan and the Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan (Canada-Jordan Free Trade Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-57 implements a free trade agreement between Canada and Colombia that was signed in June 2009.  Among other things, it:&lt;br/&gt;&lt;br/&gt;•	eliminates tariffs on over 99 percent of recent Canadian exports (by value) to Jordan. &lt;br/&gt;&lt;br/&gt;•	eliminates all non-agricultural tariffs, numerous agricultural tariffs and tariffs on many Canadian exports, including pulse crops, frozen french fries, animal feed, various prepared foods, certain forestry products and machinery.&lt;br/&gt;&lt;br/&gt;•	eliminates all tariffs on Jordanian goods, with the exception of over-quota tariffs on dairy, poultry and eggs, which are excluded from tariff reductions. &lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to ensuring that their laws respect the International Labour Organization's (ILO's) 1998 Declaration on Fundamental Principles and Rights at Work.&lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to protecting occupational health and safety, maintaining acceptable minimum employment standards and providing compensation for occupational injuries and illnesses. Migrant workers will have the same legal protection as nationals in respect of working conditions.&lt;br/&gt;&lt;br/&gt;•	stipulates that failure to respect ILO principles and enforce domestic laws could result in an independent review panel assessing a monetary penalty, as a last resort. &lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to pursuing high levels of environmental protection and to striving to develop and improve their environmental laws and policies. &lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to ensuring environmental assessment processes are in place, and to providing remedies for violations of environmental laws.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La Bibliothèque du Parlement ne prépare pas de Résumés législatifs pour les projets de loi qui mettent en œuvre des traités, des conventions, des ententes ou des projets de loi portant sur des ententes administratives. Ce qui suit est un court résumé :  &lt;br/&gt;&lt;br/&gt;Le 17 novembre 2009, le ministre du Commerce international et ministre de la Porte d'entrée de l'Asie-Pacifique a déposé en première lecture à la Chambre des communes le projet de loi C-57, Loi portant mise en oeuvre de l'Accord de libre-échange entre le Canada et le Royaume hachémite de Jordanie, de l'Accord sur l'environnement entre le Canada et le Royaume hachémite de Jordanie et de l'Accord de coopération dans le domaine du travail entre le Canada et le Royaume hachémite de Jordanie (Loi sur le libre-échange entre le Canada et la Jordanie)&lt;br/&gt;&lt;br/&gt;Le projet de loi C-23 met en œuvre un accord de libre-échange entre le Canada et la Colombie qui a été signé en juin 2009. Il a notamment pour effets &lt;br/&gt;&lt;br/&gt;•	l'abolition de les droits de douane actuellement perçus sur plus de 99 p. 100 (en valeur) des exportations canadiennes récentes en Jordanie&lt;br/&gt;&lt;br/&gt;•	la Jordanie supprimera les droits visant tous les produits non agricoles, la plupart des produits agricoles et visant plusieurs exportations canadiennes (légumineuses, frites surgelées, aliments pour animaux, divers aliments préparés, certains produits et équipements utilisés dans l'industrie forestière). &lt;br/&gt;&lt;br/&gt;•	l'abolition de tous les droits frappant les marchandises jordaniennes, à l'exception de ceux qui s'appliquent en cas de dépassement des contingents sur les produits laitiers, la volaille et les œufs, qui sont exclus des réductions tarifaires.&lt;br/&gt;&lt;br/&gt;•	d'engager le Canada et la Jordanie à s'assurer que leurs lois se conforment à la Déclaration relative aux principes et droits fondamentaux au travail, adoptée en 1998 par l'Organisation internationale du Travail (OIT). &lt;br/&gt;&lt;br/&gt;•	d'engager le Canada et la Jordanie à fournir des protections en matière de santé et de sécurité au travail, à maintenir des normes d'emploi qui répondent au minimum acceptable et à offrir des indemnisations pour les blessures et les maladies liées au travail. Les travailleurs migrants bénéficieront des mêmes protections juridiques que les ressortissants en ce qui a trait aux conditions de travail.&lt;br/&gt;&lt;br/&gt;•	en dernier ressort, l'imposition d'une amende par un comité d'étude indépendant comme défaut d'assurer le respect des principes de l'OIT et des lois nationales pourrait entraîner. &lt;br/&gt;&lt;br/&gt;•	d'engager le Canada et la Jordanie à déployer des efforts pour assurer un niveau élevé de protection de l'environnement.&lt;br/&gt;&lt;br/&gt;•	d'engager Le Canada et la Jordanie à mettre en place des processus d'évaluation environnementale et des recours qui pourront être invoqués en cas d'infraction aux lois sur la protection de l'environnement.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for bills that implement treaties, conventions, agreements or administrative arrangements bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 17 November 2009, The Minister of International Trade and Minister for the Asia-Pacific Gateway introduced Bill C-57, An Act to implement the Free Trade Agreement between Canada and the Hashemite Kingdom of Jordan, the Agreement on the Environment between Canada and the Hashemite Kingdom of Jordan and the Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan (Canada-Jordan Free Trade Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-57 implements a free trade agreement between Canada and Colombia that was signed in June 2009.  Among other things, it:&lt;br/&gt;&lt;br/&gt;•	eliminates tariffs on over 99 percent of recent Canadian exports (by value) to Jordan. &lt;br/&gt;&lt;br/&gt;•	eliminates all non-agricultural tariffs, numerous agricultural tariffs and tariffs on many Canadian exports, including pulse crops, frozen french fries, animal feed, various prepared foods, certain forestry products and machinery.&lt;br/&gt;&lt;br/&gt;•	eliminates all tariffs on Jordanian goods, with the exception of over-quota tariffs on dairy, poultry and eggs, which are excluded from tariff reductions. &lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to ensuring that their laws respect the International Labour Organization's (ILO's) 1998 Declaration on Fundamental Principles and Rights at Work.&lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to protecting occupational health and safety, maintaining acceptable minimum employment standards and providing compensation for occupational injuries and illnesses. Migrant workers will have the same legal protection as nationals in respect of working conditions.&lt;br/&gt;&lt;br/&gt;•	stipulates that failure to respect ILO principles and enforce domestic laws could result in an independent review panel assessing a monetary penalty, as a last resort. &lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to pursuing high levels of environmental protection and to striving to develop and improve their environmental laws and policies. &lt;br/&gt;&lt;br/&gt;•	commits Canada and Jordan to ensuring environmental assessment processes are in place, and to providing remedies for violations of environmental laws.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2009-11-17T10:08:04</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>111</Number>
+          <Date>2009-11-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2009-11-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2009-11-17T10:08:04</EventStartDateTime>
+          <EventEndDateTime>2009-11-17T10:08:04</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2009-11-17T10:08:04</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>113</Number>
+          <Date>2009-11-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2009-11-19T15:05:59</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>2959345</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>91</PersonId>
+          <PersonOfficialFirstName>Gerald</PersonOfficialFirstName>
+          <PersonOfficialLastName>Keddy</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gerald Keddy</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>113</MeetingNumber>
+          <SpeechDateTime>2009-11-19T13:21:09</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4240805#SOB-2959418</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4240805#SOB-2959418</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4240805#SOB-2959418</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>2959397</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>74</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brison</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Brison</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>113</MeetingNumber>
+          <SpeechDateTime>2009-11-19T13:33:09</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4240805#Int-2959397</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4240805#Int-2959397</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4240805#Int-2959397</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>2959600</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>53294</PersonId>
+          <PersonOfficialFirstName>Claude</PersonOfficialFirstName>
+          <PersonOfficialLastName>Guimond</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Claude Guimond</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>113</MeetingNumber>
+          <SpeechDateTime>2009-11-19T13:56:06</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4240805#Int-2959600</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4240805#Int-2959600</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4240805#Int-2959600</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>2960432</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>16399</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>Julian</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter Julian</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>113</MeetingNumber>
+          <SpeechDateTime>2009-11-19T16:08:37</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4240805#Int-2960432</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4240805#Int-2960432</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4240805#Int-2960432</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>4227071</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Agreement on Labour Cooperation between Canada and Jordan (Human Resources and Skills Development Canada)</TitleEn>
+      <TitleFr>Accord de coopération dans le domaine du travail entre le Canada et la Jordanie (Ressources humaines et Développement des compétences Canada)</TitleFr>
+      <Title>Agreement on Labour Cooperation between Canada and Jordan (Human Resources and Skills Development Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada-Jordan Free Trade Agreement: Agreement on the Environment (Foreign Affairs and International Trade Canada)</TitleEn>
+      <TitleFr>Accord de libre-échange Canada-Jordanie: Accord dans le domaine de l'environnement (Affaires étrangères et Commerce international Canada)</TitleFr>
+      <Title>Canada-Jordan Free Trade Agreement: Agreement on the Environment (Foreign Affairs and International Trade Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
