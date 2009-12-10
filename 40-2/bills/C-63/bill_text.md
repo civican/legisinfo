@@ -1,0 +1,4 @@
+# Bill C-63: An Act to amend the First Nations Commercial and Industrial Development Act and another Act in consequence thereof
+
+**Sponsor**: MINISTER OF INDIAN AFFAIRS AND NORTHERN DEVELOPMENT, FEDERAL INTERLOCUTOR FOR MÉTIS AND NON-STATUS INDIANS AND MINISTER OF THE CANADIAN NORTHERN ECONOMIC DEVELOPMENT AGENCY
+
