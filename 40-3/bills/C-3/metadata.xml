@@ -1,0 +1,1365 @@
+<Bills>
+  <Bill>
+    <Id>4336828</Id>
+    <NumberCode>C-3</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>3</Number>
+    <LongTitleEn>An Act to promote gender equity in Indian registration by responding to the Court of Appeal for British Columbia decision in McIvor v. Canada (Registrar of Indian and Northern Affairs)</LongTitleEn>
+    <LongTitleFr>Loi favorisant l'équité entre les sexes relativement à l'inscription au registre des Indiens en donnant suite à la décision de la Cour d'appel de la Colombie-Britannique dans l'affaire McIvor v. Canada (Registrar of Indian and Northern Affairs)</LongTitleFr>
+    <LongTitle>An Act to promote gender equity in Indian registration by responding to the Court of Appeal for British Columbia decision in McIvor v. Canada (Registrar of Indian and Northern Affairs)</LongTitle>
+    <ShortTitleEn>Gender Equity in Indian Registration Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur l'équité entre les sexes relativement à l'inscription au registre des Indiens</ShortTitleFr>
+    <ShortTitle>Gender Equity in Indian Registration Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2010-12-15T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>3</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1604</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>John</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Duncan</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>John</SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>John Duncan</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Indian Affairs and Northern Development, Federal Interlocutor for Métis and Non-Status Indians and Minister of the Canadian Northern Economic Development Agency</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Affaires indiennes et du Nord canadien, interlocuteur fédéral auprès des Métis et des Indiens non inscrits et ministre de l'Agence canadienne de développement économique du Nord</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Indian Affairs and Northern Development, Federal Interlocutor for Métis and Non-Status Indians and Minister of the Canadian Northern Economic Development Agency</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>566</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Vancouver Island North</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Île de Vancouver-Nord</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Vancouver Island North</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2010-12-15T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>79</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2010-03-11T10:03:30</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2010-03-29T16:51:10</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2010-11-22T17:54:20</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2010-11-23T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2010-11-25T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2010-12-09T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2010-12-15T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>On 11 March 2010, the Minister of Indian Affairs and Northern Development introduced Bill C-3, An Act to promote gender equity in Indian registration by responding to the Court of Appeal for British Columbia decision in McIvor v. Canada (Registrar of Indian and Northern Affairs) (Gender Equity in Indian Registration Act) in the House of Commons and it was given first reading.
+
+In April 2009, the Court of Appeal for British Columbia ruled in the case of McIvor v. Canada that certain registration provisions of the Indian Act are unconstitutional as they violate the equality provision of the Charter of Rights and Freedoms. The Court suspended its declaration of invalidity for 12 months - to April 6, 2010 - to give Parliament time to amend the Indian Act.
+
+Bill C-3 proposes to render eligible the grandchildren of women who lost status as a result of marrying non-Indian men for registration (Indian status) in accordance with the Indian Act. The proposed amendments do not extend to other situations.</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>Le 11 mars 2010, le ministre des Affaires indiennes et du Nord canadien a présenté à la Chambre des communes le projet de loi C-3, Loi favorisant l'équité entre les sexes relativement à l'inscription au registre des Indiens en donnant suite à la décision de la Cour d'appel de la Colombie-Britannique dans l'affaire McIvor v. Canada (Registrar of Indian and Northern Affairs) (Loi sur l'équité entre les sexes relativement à l'inscription au registre des Indiens), qui a franchi l'étape de la première lecture.
+
+En avril 2009, la Cour d'appel de la Colombie-Britannique a statué, dans l'affaire McIvor c. Canada, que certaines dispositions relatives à l'inscription contenues dans la Loi sur les Indiens étaient inconstitutionnelles et qu'elles violaient la disposition sur l'égalité de la Charte canadienne des droits et libertés. La Cour a suspendu sa déclaration d'invalidité pour 12 mois, soit jusqu'au 6 avril 2010, afin de donner au Parlement le temps de modifier la Loi sur les Indiens.
+
+Le projet de loi C-3 propose de permettre aux petits-enfants des femmes qui ont perdu leur statut à la suite d'un mariage avec un non Indien de devenir admissibles à l'inscription au Registre des Indiens (statut d'Indien) en vertu de la Loi sur les Indiens. Les modifications proposées ne s'appliqueront pas aux autres circonstances.</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>On 11 March 2010, the Minister of Indian Affairs and Northern Development introduced Bill C-3, An Act to promote gender equity in Indian registration by responding to the Court of Appeal for British Columbia decision in McIvor v. Canada (Registrar of Indian and Northern Affairs) (Gender Equity in Indian Registration Act) in the House of Commons and it was given first reading.
+
+In April 2009, the Court of Appeal for British Columbia ruled in the case of McIvor v. Canada that certain registration provisions of the Indian Act are unconstitutional as they violate the equality provision of the Charter of Rights and Freedoms. The Court suspended its declaration of invalidity for 12 months - to April 6, 2010 - to give Parliament time to amend the Indian Act.
+
+Bill C-3 proposes to render eligible the grandchildren of women who lost status as a result of marrying non-Indian men for registration (Indian status) in accordance with the Indian Act. The proposed amendments do not extend to other situations.</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2010</StatuteYear>
+    <StatuteChapter>18</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-03-11T10:03:30</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>7</Number>
+          <Date>2010-03-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2010-03-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2010-03-11T10:03:30</EventStartDateTime>
+          <EventEndDateTime>2010-03-11T10:03:30</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-03-11T10:03:30</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-03-29T16:51:10</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+          <StudyActivityId>3067456</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>18</Number>
+          <Date>2010-03-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>19</Number>
+          <Date>2010-03-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3066694</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4339186</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - AANO</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - AANO</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - AANO</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2010-03-29T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>19</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2010-03-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2010-03-29T16:51:10</EventStartDateTime>
+          <EventEndDateTime>2010-03-29T16:51:10</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-03-29T16:51:10</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3063699</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1604</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>Duncan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John Duncan</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>18</MeetingNumber>
+          <SpeechDateTime>2010-03-26T10:04:35</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4384755#SOB-3063698</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4384755#SOB-3063698</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4384755#SOB-3063698</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3063746</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>29612</PersonId>
+          <PersonOfficialFirstName>Todd</PersonOfficialFirstName>
+          <PersonOfficialLastName>Russell</PersonOfficialLastName>
+          <PersonMiddleName>Norman</PersonMiddleName>
+          <PersonName>Todd Norman Russell</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>18</MeetingNumber>
+          <SpeechDateTime>2010-03-26T10:30:58</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4384755#Int-3063746</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4384755#Int-3063746</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4384755#Int-3063746</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3063768</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1811</PersonId>
+          <PersonOfficialFirstName>Mario</PersonOfficialFirstName>
+          <PersonOfficialLastName>Laframboise</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mario Laframboise</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>18</MeetingNumber>
+          <SpeechDateTime>2010-03-26T10:56:09</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4384755#Int-3063768</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4384755#Int-3063768</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4384755#Int-3063768</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3065706</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25492</PersonId>
+          <PersonOfficialFirstName>Jean</PersonOfficialFirstName>
+          <PersonOfficialLastName>Crowder</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jean Crowder</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>19</MeetingNumber>
+          <SpeechDateTime>2010-03-29T15:52:01</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4390960#SOB-3066051</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4390960#SOB-3066051</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4390960#SOB-3066051</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-04-29T10:23:21</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+          <StudyActivityId>3067456</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>36</Number>
+          <Date>2010-04-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2010-04-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2010-04-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2010-04-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2010-04-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2010-04-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15370</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2010-04-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2010-04-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>4470443</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2010-04-29T10:23:21</EventStartDateTime>
+          <EventEndDateTime>2010-04-29T10:23:21</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-04-29T10:23:21</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-10-26T15:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>48</Number>
+          <Date>2010-05-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>87</Number>
+          <Date>2010-10-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage with further amendments</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport avec d'autres amendements</EventNameFr>
+          <EventName>Concurrence at report stage with further amendments</EventName>
+          <EventDateTime>2010-10-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2010-10-26T15:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-10-26T15:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-10-26T15:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-11-22T17:54:20</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>101</Number>
+          <Date>2010-11-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3554202</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4339188</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2010-11-22T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>101</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2010-11-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2010-11-22T17:54:20</EventStartDateTime>
+          <EventEndDateTime>2010-11-22T17:54:20</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-11-22T17:54:20</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-11-23T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>68</Number>
+          <Date>2010-11-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2010-11-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2010-11-23T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-11-23T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-11-23T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-11-25T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>70</Number>
+          <Date>2010-11-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2010-11-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2010-11-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2010-11-25T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-11-25T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-11-25T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>10440</PersonId>
+          <PersonOfficialFirstName>Patrick</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brazeau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Patrick Brazeau</PersonName>
+          <SenateSystemAffiliationId>2817</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>70</MeetingNumber>
+          <SpeechDateTime>2010-11-25T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/403/debates/070db_2010-11-25-e#29</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/403/debates/070db_2010-11-25-f#29</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/403/debates/070db_2010-11-25-e#29</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35198</PersonId>
+          <PersonOfficialFirstName>Sandra M.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lovelace Nicholas</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Sandra M. Lovelace Nicholas</PersonName>
+          <SenateSystemAffiliationId>2792</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>70</MeetingNumber>
+          <SpeechDateTime>2010-11-25T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/403/debates/070db_2010-11-25-e#29</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/403/debates/070db_2010-11-25-f#29</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/403/debates/070db_2010-11-25-e#29</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-12-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>74</Number>
+          <Date>2010-12-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2010-11-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2010-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2010-12-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2010-12-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-12-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-12-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-12-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>75</Number>
+          <Date>2010-12-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>76</Number>
+          <Date>2010-12-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2010-12-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2010-12-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-12-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-12-09T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>79</Number>
+          <Date>2010-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2010-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2010-12-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-12-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-12-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>4340270</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4517961</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4803040</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4901865</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>3</SessionNumber>
+      <MeetingNumber>44</MeetingNumber>
+      <HansardNumber>3158109</HansardNumber>
+      <RulingStatementDateTime>2010-05-11T15:05:35</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4520162#Int-3158109</UrlEn>
+      <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4520162#Int-3158109</UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Frequently Asked Questions: Gender Equity in Indian Registration Act</TitleEn>
+      <TitleFr>Foire aux questions : Loi sur l'équité entre les sexes relativement à l'inscription au registre des Indiens</TitleFr>
+      <Title>Frequently Asked Questions: Gender Equity in Indian Registration Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Indian Register (Indian and Northern Affairs Canada)</TitleEn>
+      <TitleFr>Le Registre des Indiens (Affaires indiennes et du Nord Canada)</TitleFr>
+      <Title>The Indian Register (Indian and Northern Affairs Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>http://www.aadnc-aandc.gc.ca/eng/1100100015999/1100100016000</TitleEn>
+      <TitleFr>Le Gouvernement du Canada présente un projet de loi visant à renforcer l'équité des sexes dans les dispositions de la Loi sur les Indiens qui régissent l'inscription</TitleFr>
+      <Title>http://www.aadnc-aandc.gc.ca/eng/1100100015999/1100100016000</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>New Entitlement to Indian Registration: How Do the New Legislative Changes to the Indian Act Affect Me?</TitleEn>
+      <TitleFr>Nouveau droit à l'inscription au Registre des Indiens : De quelle façon les nouvelles modifications législatives à la Loi sur les Indiens me concernent-elles?</TitleFr>
+      <Title>New Entitlement to Indian Registration: How Do the New Legislative Changes to the Indian Act Affect Me?</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Are You Eligible? [for registration as an Indian under the Indian Act] (Indian and Northern Affairs Canada)</TitleEn>
+      <TitleFr>Êtes-vous admissible? [à l'inscription comme Indien en vertu de la Loi sur les Indiens] (Affaires indiennes et du Nord Canada)</TitleFr>
+      <Title>Are You Eligible? [for registration as an Indian under the Indian Act] (Indian and Northern Affairs Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Quick Facts: Gender Equity in Indian Registration Act</TitleEn>
+      <TitleFr>Faits en bref : Loi sur l'équité entre les sexes relativement à l'inscription au registre des Indiens</TitleFr>
+      <Title>Quick Facts: Gender Equity in Indian Registration Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Discussion paper on needed changes to the Indian Act affecting Indian registration and band membership, McIvor v. Canada (Indian and Northern Affairs Canada, 2009, 14 p.)</TitleEn>
+      <TitleFr>Document d'information sur les modifications requises à la Loi sur les Indiens touchant l'inscription des Indiens et l'appartenance à une bande indienne, McIvor c. Canada (Affaires indiennes et du Nord Canada, 2009, 14 p.)</TitleFr>
+      <Title>Discussion paper on needed changes to the Indian Act affecting Indian registration and band membership, McIvor v. Canada (Indian and Northern Affairs Canada, 2009, 14 p.)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.aadnc-aandc.gc.ca/eng/1100100032487/1100100032489</UrlEn>
+      <UrlFr>http://www.aadnc-aandc.gc.ca/fra/1100100032487/1100100032489?p1=913007&amp;p2=1066125</UrlFr>
+      <Url>http://www.aadnc-aandc.gc.ca/eng/1100100032487/1100100032489</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1535</BibliographicNoticeId>
+      <Title>Le projet de loi C-3 ou le mythe d'une loi non discriminatrice</Title>
+      <Author>Masmoudi, Sakina</Author>
+      <Publication>Recherches amérindiennes au Québec</Publication>
+      <VolumePage>39:110-12 no. 3</VolumePage>
+      <PublicationDate>2009</PublicationDate>
+      <Classification>Radar A038742</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1395</BibliographicNoticeId>
+      <Title>Explanatory paper [electronic resource] : proposed amendments to the Indian Act affecting Indian registration, McIvor v. Canada</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Indian and Northern Affairs, 2010</Publication>
+      <VolumePage>1 PDF file (10 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE7722 W6 A35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1396</BibliographicNoticeId>
+      <Title>Document explicatif [ressource électronique] : modifications proposées aux dispositions de la Loi sur les Indiens concernant l'inscription, McIvor c. Canada</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Affaires indiennes et du Nord Canada, 2010</Publication>
+      <VolumePage>1 PDF file (10 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE7722 W6 A35</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1397</BibliographicNoticeId>
+      <Title>Estimates of demographic implications from Indian registration amendment [electronic resource] : McIvor v. Canada</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Indian and Northern Affairs Canada, 2010</Publication>
+      <VolumePage>1 PDF file (12 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE7722 W6 A352</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1398</BibliographicNoticeId>
+      <Title>Estimations des répercussions démographiques découlant de la modification à l'inscription des Indiens [ressource électronique] : McIvor c. Canada</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Affaires indiennes et du Nord Canada, 2010</Publication>
+      <VolumePage>1 fichier PDF (12 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE7722 W6 A352</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
