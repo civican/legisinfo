@@ -1,0 +1,1787 @@
+<Bills>
+  <Bill>
+    <Id>4371983</Id>
+    <NumberCode>C-9</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>9</Number>
+    <LongTitleEn>An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</LongTitleEn>
+    <LongTitleFr>Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</LongTitleFr>
+    <LongTitle>An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</LongTitle>
+    <ShortTitleEn>Jobs and Economic Growth Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur l'emploi et la croissance économique</ShortTitleFr>
+    <ShortTitle>Jobs and Economic Growth Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2010-07-12T15:14:47</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>3</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35751</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jim</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Flaherty</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jim Flaherty</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>485</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Whitby—Oshawa</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Whitby—Oshawa</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Whitby—Oshawa</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2010-07-12T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>49</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2010-03-29T15:05:14</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2010-04-19T18:40:40</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2010-06-08T17:30:04</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2010-06-08T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2010-06-10T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2010-07-12T00:03:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2010-07-12T15:14:47</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for budget implementation bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 29 March 2010, the Minister of Finance introduced Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements income tax measures proposed in the March 4, 2010 Budget. Among other things, it&lt;br/&gt;&lt;br/&gt;•	introduces amendments to the Universal Child Care Benefit Act;&lt;br/&gt;•	amends rules relating to payments made to a Registered Education Savings Plan or a Registered Disability Savings Plan &lt;br/&gt;•	implements amendments to the family income thresholds used to determine eligibility for Canada Education Savings Grants, Canada Disability Savings Grants and Canada Disability Savings Bonds;&lt;br/&gt;•	reinstates the 50% inclusion rate for Canadian residents who have been in receipt of U.S. social security benefits since before January 1, 1996;&lt;br/&gt;•	extends the mineral exploration tax credit for one year;&lt;br/&gt;•	reduces the rate of interest payable by the Minister of National Revenue on tax overpayments made by corporations;&lt;br/&gt;•	modifies the definition "taxable Canadian property" &lt;br/&gt;•	amends Part I of the Income Tax Act the respect to the issuance of a refund of an overpayment of tax &lt;br/&gt;•	repeals the exclusion for indictable tax offences from the proceeds of crime and money laundering regime; &lt;br/&gt;•	increases the pension surplus threshold for employer contributions to registered pension plans to 25%.&lt;br/&gt;•	amends the Medical Expense Tax Credit to exclude expenses for purely cosmetic procedures&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Part 2 amends the Excise Act, 2001 and the Customs Act to implement a stamping regime for tobacco products which introduces new controls over the production, distribution and possession of a new excise stamp for tobacco products.&lt;br/&gt;&lt;br/&gt;Part 2 also amends the Excise Tax Act and certain related regulations in respect of the Goods and Services Tax/Harmonized Sales Tax (GST/HST). Among other things it:&lt;br/&gt;&lt;br/&gt;•	implements a commission-based model to the direct selling industry;&lt;br/&gt;•	prescribes the application of the GST/HST to purely cosmetic procedures &lt;br/&gt;•	provides a definition of "financial service" in respect of certain administrative, management and promotional services;&lt;br/&gt;•	prescribes the application of the input tax credit rules to financial institutions;&lt;br/&gt;•	provide a new, uniform GST/HST rebate system for employer-sponsored pension plans&lt;br/&gt;•	extends the due date for filing annual GST/HST returns from three months to six months after year-end for certain financial institutions.&lt;br/&gt;&lt;br/&gt;In addition, Part 2 amends regulations made under the Excise Tax Act and the Excise Act, 2001 to reduce the interest rate payable by the Minister of National Revenue in respect of overpaid taxes and duties by corporations.&lt;br/&gt;&lt;br/&gt;Part 3 amends certain provisions of the Air Travellers Security Charge Act to increase the air travellers security charge where applicable.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Softwood Lumber Products Export Charge Act, 2006 to provide for a higher rate of charge on the export of certain softwood lumber products from the regions specified in the bill.  &lt;br/&gt;&lt;br/&gt;Part 5 amends the Customs Tariff to reduce Most-Favoured-Nation rates of duty and certain other tariffs. &lt;br/&gt;&lt;br/&gt;Part 6 amends the Federal-Provincial Fiscal Arrangements Act to provide additional payments to certain provinces and to correct a cross-reference in that Act.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Expenditure Restraint Act to impose a freeze on the allowances and salaries to be paid to members of the Senate and the House of Commons for the 2010–2011, 2011–2012 and 2012–2013 fiscal years.&lt;br/&gt;&lt;br/&gt;Part 8 amends a number of Acts to reduce or eliminate Governor in Council appointments, including the North American Free Trade Agreement Implementation Act. In addition, this Part repeals The Intercolonial and Prince Edward Island Railways Employees' Provident Fund Act. &lt;br/&gt;&lt;br/&gt;Part 9 amends the Pension Benefits Standards Act, 1985. Among other things it&lt;br/&gt;&lt;br/&gt;•	requires an employer to fully fund benefits if the whole of a pension plan is terminated;&lt;br/&gt;•	authorizes an employer to use a letter of credit, if certain conditions are met, to satisfy solvency funding obligations in respect of a pension plan that has not been terminated in whole;&lt;br/&gt;•	permits a pension plan to provide for variable benefits;&lt;br/&gt;•	establishes a distressed pension plan workout scheme, under which the employer and representatives of members and retirees may negotiate changes to the plan's funding requirements, subject to the approval of the Minister of Finance;&lt;br/&gt;•	provides that only the Superintendent may declare a pension plan to be partially terminated;&lt;br/&gt;•	provides for the immediate vesting of members' benefits;&lt;br/&gt;&lt;br/&gt;Part 10 provides for the retroactive coming into force in Canada of the Agreement on Social Security between Canada and the Republic of Poland.&lt;br/&gt;&lt;br/&gt;Part 11 amends the Export Development Act to grant Export Development Canada the authority to establish offices outside Canada. It also clarifies that Corporation's authority with respect to asset management and the forgiveness of certain debts and obligations. &lt;br/&gt;&lt;br/&gt;Part 12 enacts the Payment Card Networks Act to regulate national payment card networks and the commercial practices of payment card network operators. Among other things, that Act confers a number of regulation-making powers. This Part also makes related amendments to the Financial Consumer Agency of Canada Act to expand the mandate of the Agency so that it may supervise payment card network operators.  &lt;br/&gt;&lt;br/&gt;Part 13 amends the Financial Consumer Agency of Canada Act to provide the Financial Consumer Agency of Canada with a broader oversight role. The amendments also increase the Agency's ability to undertake research on trends and emerging issues. &lt;br/&gt;&lt;br/&gt;Part 14 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to confer on the Minister of Finance the power to issue directives imposing measures with respect to certain financial transactions. The amendments also confer on the Governor in Council the power to make regulations that limit or prohibit certain financial transactions. &lt;br/&gt;&lt;br/&gt;Part 15 amends the Canada Post Corporation Act to modify the exclusive privilege of the Canada Post Corporation so as to permit letter exporters to collect letters in Canada for transmittal and delivery outside Canada.&lt;br/&gt;&lt;br/&gt;Part 16 amends the Canada Deposit Insurance Corporation Act to allow the Governor in Council to specify when a bridge institution will assume a federal member institution's deposit liabilities and to allow the Canada Deposit Insurance Corporation to make certain by-laws. This Part also amends that Act to establish the rules that apply to the assignment, by the Canada Deposit Insurance Corporation to a bridge institution, of eligible financial contracts to which a federal member institution is a party.&lt;br/&gt;&lt;br/&gt;Part 17 amends the Bank Act and other related statutes to provide a framework enabling credit unions to incorporate and continue as banks. &lt;br/&gt;&lt;br/&gt;Part 18 authorizes the taking of a number of measures with respect to the reorganization and divestiture of all or any part of Atomic Energy of Canada Limited's business.&lt;br/&gt;&lt;br/&gt;Part 19 amends the National Energy Board Act in order to give the National Energy Board the power to create a participant funding program. It also amends the Nuclear Safety and Control Act to give the Canadian Nuclear Safety Commission the power to create a participant funding program and the power to prescribe fees for that program.&lt;br/&gt;&lt;br/&gt;Part 20 amends the Canadian Environmental Assessment Act in respect to the requirements process for comprehensive studies, to give the Canadian Environmental Assessment Agency authority to conduct most comprehensive studies and to give the Minister of the Environment the power to establish the scope of any project which involves an environmental assessment.  It also amends that Act to provide, in legislation rather than by regulations, that an environmental assessment is not required for certain federally funded infrastructure projects.&lt;br/&gt;&lt;br/&gt;Part 21 amends the Canada Labour Code with respect to the appointment of appeals officers and the appeal hearing procedures.&lt;br/&gt;&lt;br/&gt;Part 22 authorizes payments to be made out of the Consolidated Revenue Fund for various purposes.&lt;br/&gt;&lt;br/&gt;Part 23 amends the Telecommunications Act to make a carrier that is not a Canadian-owned and controlled corporation eligible to operate as a telecommunications common carrier if it owns or operates certain transmission facilities.&lt;br/&gt;&lt;br/&gt;Part 24 amends the Employment Insurance Act to establish an account to be known as the Employment Insurance Operating Account and to close the Employment Insurance Account and remove it from the accounts of Canada.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La Bibliothèque du Parlement ne prépare pas de Résumés législatifs pour les projets de loi portant exécution du budget. Ce qui suit est un court résumé : &lt;br/&gt;&lt;br/&gt;Le 29 mars 2010, le projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en œuvre d'autres mesures, a été déposé aux Communes par le ministre des Finance et lu pour la première fois.&lt;br/&gt;&lt;br/&gt;La partie 1 met en œuvre des mesures concernant l'impôt sur le revenu proposées dans le budget du 4 mars 2010 pour notamment :&lt;br/&gt;&lt;br/&gt;•	apporter des changements à la Prestation universelle pour la garde d'enfants;&lt;br/&gt;•	modifier les règles régissant les contributions au régime enregistré d'épargne-études ou au régime enregistré d'épargne-invalidité;&lt;br/&gt;•	apporter des changements aux seuils de revenu familial servant à établir l'admissibilité à la Subvention canadienne pour l'épargne-études, à la Subvention canadienne pour l'épargne-invalidité et au Bon canadien pour l'épargne-invalidité;&lt;br/&gt;•	rétablir le taux d'inclusion de 50 % applicable aux personnes résidant au Canada qui ont commencé à recevoir des prestations de la sécurité sociale des États-Unis avant le 1er janvier 1996;&lt;br/&gt;•	prolonger d'une année l'application du crédit d'impôt pour exploration minière;&lt;br/&gt;•	réduire le taux d'intérêt payable par le ministre du Revenu national sur les paiements en trop d'impôt par les sociétés;&lt;br/&gt;•	modifier la définition de « bien canadien imposable »;&lt;br/&gt;•	modifier la partie I de la Loi de l'impôt sur le revenu à l'égard du remboursement d'un montant d'impôt payé en trop;&lt;br/&gt;•	abroger l'exclusion des infractions fiscales du régime de lutte contre le recyclage des produits de la criminalité et du blanchiment d'argent; &lt;br/&gt;•	porter à 25 % le seuil du surplus à partir duquel les cotisations patronales aux régimes de pension agréés sont suspendues;&lt;br/&gt;•	exclut du crédit d'impôt pour frais médicaux les dépenses liées à des interventions purement esthétiques.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi de 2001 sur l'accise et la Loi sur les douanes afin de mettre en œuvre un régime amélioré d'estampillage des produits du tabac, lequel prévoit de nouvelles mesures de contrôle sur la production, la distribution et la possession du nouveau timbre d'accise qui sera apposé sur les produits du tabac.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie aussi la partie de la Loi sur la taxe d'accise qui porte sur la taxe sur les produits et services et la taxe de vente harmonisée (TPS/TVH) ainsi que des règlements connexes, pour notamment&lt;br/&gt;•	mettre en œuvre un modèle d'affaires fondé sur les commissions pour l'industrie du démarchage;&lt;br/&gt;•	assujettir à la TPS/TVH les interventions purement esthétiques;&lt;br/&gt;•	fournir une définition de « service financier » dans le contexte de certains services administratifs et promotionnels;&lt;br/&gt;•	assujettir les institutions financières aux règles sur le crédit de taxe sur les intrants&lt;br/&gt;•	établir un régime de remboursement de la TPS/TVH applicable aux régimes de pension d'employeurs;&lt;br/&gt;•	faire passer de trois à six mois suivant la fin de l'exercice le délai de production des déclarations annuelles de TPS/TVH de certaines institutions financières.&lt;br/&gt;&lt;br/&gt;De plus, la partie 2 modifie des règlements pris en vertu de la Loi sur la taxe d'accise et de la Loi de 2001 sur l'accise pour réduire le taux d'intérêt payable par le ministre du Revenu national sur les paiements en trop de taxes et de droits par les personnes morales.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie la Loi sur le droit pour la sécurité des passagers du transport aérien pour hausser le droit pour la sécurité des passagers du transport aérien lorsqu'il y a lieu.&lt;br/&gt;&lt;br/&gt;La partie 4 modifie la Loi de 2006 sur les droits d'exportation de produits de bois d'œuvre en majorant le taux applicable aux exportations de certains produits de bois d'œuvre de certaines régions.  &lt;br/&gt;&lt;br/&gt;La partie 5 modifie le Tarif des douanes pour réduire les taux de la nation la plus favorisée et d'autres droits de douane.&lt;br/&gt;&lt;br/&gt;La partie 6 modifie la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces pour permettre le versement de sommes additionnelles à certaines provinces et pour corriger un renvoi.&lt;br/&gt;&lt;br/&gt;La partie 7 modifie la Loi sur le contrôle des dépenses pour imposer un gel des indemnités et traitements des sénateurs et des députés pour chacun des exercices 2010-2011, 2011-2012 et 2012-2013.&lt;br/&gt;&lt;br/&gt;La partie 8 modifie diverses lois afin de réduire le nombre des nominations par le gouverneur en conseil ou en abolir certaines, y compris la Loi de mise en œuvre de l'Accord de libre-échange nord-américain. Elle abroge aussi la Loi de la caisse de prévoyance des employés des chemins de fer Intercolonial et de l'Île-du-Prince-Édouard.&lt;br/&gt;&lt;br/&gt;La partie 9 apporte des modifications à la Loi de 1985 sur les normes de prestation de pension pour notamment :&lt;br/&gt;&lt;br/&gt;•	exiger que l'employeur capitalise entièrement les prestations en cas de cessation totale du régime de pension;&lt;br/&gt;•	permettre à l'employeur à certaines conditions d'utiliser des lettres de crédit pour satisfaire aux exigences de capitalisation du déficit de la solvabilité d'un régime de pension n'ayant pas fait l'objet d'une cessation totale&lt;br/&gt;•	permettre à un régime de pension de verser des prestations variables;&lt;br/&gt;•	établir un mécanisme de sauvetage des régimes de pension en difficulté permettant à l'employeur et aux représentants des participants et des retraités de négocier des modifications — assujetties à l'approbation du ministre des Finances — aux exigences de capitalisation du régime;&lt;br/&gt;•	prévoir que seul le surintendant peut déclarer la cessation partielle d'un régime;&lt;br/&gt;•	prévoir l'acquisition immédiate du droit aux prestations.&lt;br/&gt;&lt;br/&gt;La partie 10 prévoit l'entrée en vigueur rétroactive au Canada de l'Accord sur la sécurité sociale entre le Canada et la République de Pologne.&lt;br/&gt;&lt;br/&gt;La partie 11 modifie la Loi sur le développement des exportations pour autoriser Exportation et développement Canada à ouvrir des bureaux à l'étranger. Elle clarifie aussi les pouvoirs de cette société en matière de gestion d'actifs et de renonciation à certaines créances.&lt;br/&gt;&lt;br/&gt;La partie 12 édicte la Loi sur les réseaux de cartes de paiement régissant les réseaux nationaux de cartes de paiement et les pratiques commerciales des exploitants de ces réseaux. Elle prévoit notamment une série de pouvoirs réglementaires. Cette partie apporte en outre des modifications connexes à la Loi sur l'Agence de la consommation en matière financière du Canada pour élargir la mission de cette agence de manière qu'elle puisse superviser les exploitants de réseaux de cartes de paiement.&lt;br/&gt;&lt;br/&gt;La partie 13 modifie la Loi sur l'Agence de la consommation en matière financière du Canada pour élargir le rôle de surveillance de l'Agence et augmenter son aptitude à mener des recherches sur les tendances et les questions émergentes. &lt;br/&gt;&lt;br/&gt;La partie 14 modifie la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes pour autoriser le ministre des Finances à imposer par directive des mesures à l'égard de certaines opérations financières et autoriser le gouverneur en conseil à limiter ou à interdire par règlement certaines opérations financières.&lt;br/&gt;&lt;br/&gt;La partie 15 modifie la Loi sur la Société canadienne des postes pour restreindre le privilège exclusif de Postes Canada de manière que les exportateurs de lettres puisse recueillir des lettres au Canada en vue d'en faire la transmission et la livraison à l'étranger.&lt;br/&gt;&lt;br/&gt;La partie 16 modifie la Loi sur la Société d'assurance-dépôts du Canada pour autoriser le gouverneur en conseil à préciser le moment auquel une institution-relais prendra en charge les obligations sous forme de dépôts d'une institution fédérale membre et à la Société d'assurance-dépôts du Canada de prendre certains règlements administratifs. Elle modifie cette loi pour établir les règles applicables à la cession par la Société d'assurance-dépôts du Canada à une institution-relais de contrats financiers admissibles auxquels est partie une institution fédérale membre.&lt;br/&gt;&lt;br/&gt;La partie 17 modifie la Loi sur les banques et d'autres lois pour établir un cadre permettant aux coopératives de crédit d'être constituées ou d'être prorogées comme banques. &lt;br/&gt;&lt;br/&gt;La partie 18 autorise la prise de diverses mesures visant la réorganisation et le dessaisissement de tout ou partie de l'entreprise d'Énergie atomique du Canada limitée.&lt;br/&gt;&lt;br/&gt;La partie 19 modifie la Loi sur l'Office national de l'énergie pour autoriser l'Office à créer un programme d'aide financière aux participants. Elle modifie également la Loi sur la sûreté et la réglementation nucléaires pour autoriser la Commission canadienne de sûreté nucléaire à créer un programme d'aide financière aux participants et imposer des droits réglementaires pour ce programme.&lt;br/&gt;&lt;br/&gt;La partie 20 modifie la Loi canadienne sur l'évaluation environnementale pour simplifier la façon d'effectuer les études approfondies, autoriser l'Agence canadienne d'évaluation environnementale à effectuer la plupart de ces études et autoriser le ministre de l'Environnement à définir la portée des projets comportant une évaluation environnementale. Elle modifie également cette loi pour prévoir par voie législative plutôt que réglementaire que certains projets d'infrastructure dont le financement provient d'une source fédérale n'ont pas à faire l'objet d'une évaluation environnementale.&lt;br/&gt;&lt;br/&gt;La partie 21 modifie le Code canadien du travail quant à la nomination des agents d'appel et à la procédure applicable aux auditions d'appels.&lt;br/&gt;&lt;br/&gt;La partie 22 autorise des paiements sur le Trésor.&lt;br/&gt;&lt;br/&gt;La partie 23 modifie la Loi sur les télécommunications afin d'admettre à opérer comme entreprise de télécommunication l'entreprise qui est propriétaire ou exploitante de certaines installations de transmission même si elle n'est pas la propriété de Canadiens et sous contrôle canadien.&lt;br/&gt;&lt;br/&gt;La partie 24 modifie la Loi sur l'assurance-emploi par la création d'un compte intitulé Compte des opérations de l'assurance-emploi et par la fermeture du Compte d'assurance-emploi ainsi que sa suppression des comptes du Canada.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for budget implementation bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 29 March 2010, the Minister of Finance introduced Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements income tax measures proposed in the March 4, 2010 Budget. Among other things, it&lt;br/&gt;&lt;br/&gt;•	introduces amendments to the Universal Child Care Benefit Act;&lt;br/&gt;•	amends rules relating to payments made to a Registered Education Savings Plan or a Registered Disability Savings Plan &lt;br/&gt;•	implements amendments to the family income thresholds used to determine eligibility for Canada Education Savings Grants, Canada Disability Savings Grants and Canada Disability Savings Bonds;&lt;br/&gt;•	reinstates the 50% inclusion rate for Canadian residents who have been in receipt of U.S. social security benefits since before January 1, 1996;&lt;br/&gt;•	extends the mineral exploration tax credit for one year;&lt;br/&gt;•	reduces the rate of interest payable by the Minister of National Revenue on tax overpayments made by corporations;&lt;br/&gt;•	modifies the definition "taxable Canadian property" &lt;br/&gt;•	amends Part I of the Income Tax Act the respect to the issuance of a refund of an overpayment of tax &lt;br/&gt;•	repeals the exclusion for indictable tax offences from the proceeds of crime and money laundering regime; &lt;br/&gt;•	increases the pension surplus threshold for employer contributions to registered pension plans to 25%.&lt;br/&gt;•	amends the Medical Expense Tax Credit to exclude expenses for purely cosmetic procedures&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Part 2 amends the Excise Act, 2001 and the Customs Act to implement a stamping regime for tobacco products which introduces new controls over the production, distribution and possession of a new excise stamp for tobacco products.&lt;br/&gt;&lt;br/&gt;Part 2 also amends the Excise Tax Act and certain related regulations in respect of the Goods and Services Tax/Harmonized Sales Tax (GST/HST). Among other things it:&lt;br/&gt;&lt;br/&gt;•	implements a commission-based model to the direct selling industry;&lt;br/&gt;•	prescribes the application of the GST/HST to purely cosmetic procedures &lt;br/&gt;•	provides a definition of "financial service" in respect of certain administrative, management and promotional services;&lt;br/&gt;•	prescribes the application of the input tax credit rules to financial institutions;&lt;br/&gt;•	provide a new, uniform GST/HST rebate system for employer-sponsored pension plans&lt;br/&gt;•	extends the due date for filing annual GST/HST returns from three months to six months after year-end for certain financial institutions.&lt;br/&gt;&lt;br/&gt;In addition, Part 2 amends regulations made under the Excise Tax Act and the Excise Act, 2001 to reduce the interest rate payable by the Minister of National Revenue in respect of overpaid taxes and duties by corporations.&lt;br/&gt;&lt;br/&gt;Part 3 amends certain provisions of the Air Travellers Security Charge Act to increase the air travellers security charge where applicable.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Softwood Lumber Products Export Charge Act, 2006 to provide for a higher rate of charge on the export of certain softwood lumber products from the regions specified in the bill.  &lt;br/&gt;&lt;br/&gt;Part 5 amends the Customs Tariff to reduce Most-Favoured-Nation rates of duty and certain other tariffs. &lt;br/&gt;&lt;br/&gt;Part 6 amends the Federal-Provincial Fiscal Arrangements Act to provide additional payments to certain provinces and to correct a cross-reference in that Act.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Expenditure Restraint Act to impose a freeze on the allowances and salaries to be paid to members of the Senate and the House of Commons for the 2010–2011, 2011–2012 and 2012–2013 fiscal years.&lt;br/&gt;&lt;br/&gt;Part 8 amends a number of Acts to reduce or eliminate Governor in Council appointments, including the North American Free Trade Agreement Implementation Act. In addition, this Part repeals The Intercolonial and Prince Edward Island Railways Employees' Provident Fund Act. &lt;br/&gt;&lt;br/&gt;Part 9 amends the Pension Benefits Standards Act, 1985. Among other things it&lt;br/&gt;&lt;br/&gt;•	requires an employer to fully fund benefits if the whole of a pension plan is terminated;&lt;br/&gt;•	authorizes an employer to use a letter of credit, if certain conditions are met, to satisfy solvency funding obligations in respect of a pension plan that has not been terminated in whole;&lt;br/&gt;•	permits a pension plan to provide for variable benefits;&lt;br/&gt;•	establishes a distressed pension plan workout scheme, under which the employer and representatives of members and retirees may negotiate changes to the plan's funding requirements, subject to the approval of the Minister of Finance;&lt;br/&gt;•	provides that only the Superintendent may declare a pension plan to be partially terminated;&lt;br/&gt;•	provides for the immediate vesting of members' benefits;&lt;br/&gt;&lt;br/&gt;Part 10 provides for the retroactive coming into force in Canada of the Agreement on Social Security between Canada and the Republic of Poland.&lt;br/&gt;&lt;br/&gt;Part 11 amends the Export Development Act to grant Export Development Canada the authority to establish offices outside Canada. It also clarifies that Corporation's authority with respect to asset management and the forgiveness of certain debts and obligations. &lt;br/&gt;&lt;br/&gt;Part 12 enacts the Payment Card Networks Act to regulate national payment card networks and the commercial practices of payment card network operators. Among other things, that Act confers a number of regulation-making powers. This Part also makes related amendments to the Financial Consumer Agency of Canada Act to expand the mandate of the Agency so that it may supervise payment card network operators.  &lt;br/&gt;&lt;br/&gt;Part 13 amends the Financial Consumer Agency of Canada Act to provide the Financial Consumer Agency of Canada with a broader oversight role. The amendments also increase the Agency's ability to undertake research on trends and emerging issues. &lt;br/&gt;&lt;br/&gt;Part 14 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to confer on the Minister of Finance the power to issue directives imposing measures with respect to certain financial transactions. The amendments also confer on the Governor in Council the power to make regulations that limit or prohibit certain financial transactions. &lt;br/&gt;&lt;br/&gt;Part 15 amends the Canada Post Corporation Act to modify the exclusive privilege of the Canada Post Corporation so as to permit letter exporters to collect letters in Canada for transmittal and delivery outside Canada.&lt;br/&gt;&lt;br/&gt;Part 16 amends the Canada Deposit Insurance Corporation Act to allow the Governor in Council to specify when a bridge institution will assume a federal member institution's deposit liabilities and to allow the Canada Deposit Insurance Corporation to make certain by-laws. This Part also amends that Act to establish the rules that apply to the assignment, by the Canada Deposit Insurance Corporation to a bridge institution, of eligible financial contracts to which a federal member institution is a party.&lt;br/&gt;&lt;br/&gt;Part 17 amends the Bank Act and other related statutes to provide a framework enabling credit unions to incorporate and continue as banks. &lt;br/&gt;&lt;br/&gt;Part 18 authorizes the taking of a number of measures with respect to the reorganization and divestiture of all or any part of Atomic Energy of Canada Limited's business.&lt;br/&gt;&lt;br/&gt;Part 19 amends the National Energy Board Act in order to give the National Energy Board the power to create a participant funding program. It also amends the Nuclear Safety and Control Act to give the Canadian Nuclear Safety Commission the power to create a participant funding program and the power to prescribe fees for that program.&lt;br/&gt;&lt;br/&gt;Part 20 amends the Canadian Environmental Assessment Act in respect to the requirements process for comprehensive studies, to give the Canadian Environmental Assessment Agency authority to conduct most comprehensive studies and to give the Minister of the Environment the power to establish the scope of any project which involves an environmental assessment.  It also amends that Act to provide, in legislation rather than by regulations, that an environmental assessment is not required for certain federally funded infrastructure projects.&lt;br/&gt;&lt;br/&gt;Part 21 amends the Canada Labour Code with respect to the appointment of appeals officers and the appeal hearing procedures.&lt;br/&gt;&lt;br/&gt;Part 22 authorizes payments to be made out of the Consolidated Revenue Fund for various purposes.&lt;br/&gt;&lt;br/&gt;Part 23 amends the Telecommunications Act to make a carrier that is not a Canadian-owned and controlled corporation eligible to operate as a telecommunications common carrier if it owns or operates certain transmission facilities.&lt;br/&gt;&lt;br/&gt;Part 24 amends the Employment Insurance Act to establish an account to be known as the Employment Insurance Operating Account and to close the Employment Insurance Account and remove it from the accounts of Canada.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2010</StatuteYear>
+    <StatuteChapter>12</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-03-29T15:05:14</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>19</Number>
+          <Date>2010-03-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2010-03-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2010-03-29T15:05:14</EventStartDateTime>
+          <EventEndDateTime>2010-03-29T15:05:14</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-03-29T15:05:14</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-04-19T18:40:40</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>3102124</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>21</Number>
+          <Date>2010-03-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>22</Number>
+          <Date>2010-04-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>23</Number>
+          <Date>2010-04-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>24</Number>
+          <Date>2010-04-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>26</Number>
+          <Date>2010-04-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>27</Number>
+          <Date>2010-04-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>28</Number>
+          <Date>2010-04-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3100993</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4388624</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>29</DivisionNumber>
+          <DivisionVotesYeas>143</DivisionVotesYeas>
+          <DivisionVotesNays>120</DivisionVotesNays>
+          <DivisionVotePaired>4</DivisionVotePaired>
+          <DecisionSittingDate>2010-04-19T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>28</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2010-04-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2010-04-19T18:40:40</EventStartDateTime>
+          <EventEndDateTime>2010-04-19T18:40:40</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-04-19T18:40:40</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3075713</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>3449</PersonId>
+          <PersonOfficialFirstName>Ted</PersonOfficialFirstName>
+          <PersonOfficialLastName>Menzies</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ted Menzies</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>21</MeetingNumber>
+          <SpeechDateTime>2010-03-31T16:59:53</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4402489#SOB-3075917</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4402489#OOB-3075911</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4402489#SOB-3075917</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3077875</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>957</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>McKay</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John McKay</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2010-04-01T10:34:57</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4408558#SOB-3078129</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4408558#SOB-3078129</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4408558#SOB-3078129</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3078325</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>63585</PersonId>
+          <PersonOfficialFirstName>Daniel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Paillé</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Daniel Paillé</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2010-04-01T11:06:19</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4408558#Int-3078325</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4408558#Int-3078325</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4408558#Int-3078325</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3078621</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>26684</PersonId>
+          <PersonOfficialFirstName>Thomas</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mulcair</PersonOfficialLastName>
+          <PersonMiddleName>J.</PersonMiddleName>
+          <PersonName>Thomas J. Mulcair</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>22</MeetingNumber>
+          <SpeechDateTime>2010-04-01T11:35:45</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4408558#Int-3078621</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4408558#Int-3078621</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4408558#Int-3078621</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-05-14T11:33:14</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>3102124</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without an amendment</Name>
+          <Number>47</Number>
+          <Date>2010-05-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2010-04-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2010-04-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2010-04-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2010-05-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2010-05-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2010-05-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2010-05-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2010-05-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15381</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2010-05-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without an amendment</EventName>
+          <EventDateTime>2010-05-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>4526836</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2010-05-14T11:33:14</EventStartDateTime>
+          <EventEndDateTime>2010-05-14T11:33:14</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-05-14T11:33:14</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-06-07T19:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>49</Number>
+          <Date>2010-05-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>50</Number>
+          <Date>2010-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>52</Number>
+          <Date>2010-05-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>55</Number>
+          <Date>2010-06-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>56</Number>
+          <Date>2010-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>57</Number>
+          <Date>2010-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2010-06-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2010-06-07T19:20:00</EventStartDateTime>
+          <EventEndDateTime>2010-06-07T19:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-06-07T19:20:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-06-08T17:30:04</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>58</Number>
+          <Date>2010-06-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3215004</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4388626</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>63</DivisionNumber>
+          <DivisionVotesYeas>138</DivisionVotesYeas>
+          <DivisionVotesNays>126</DivisionVotesNays>
+          <DivisionVotePaired>6</DivisionVotePaired>
+          <DecisionSittingDate>2010-06-08T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>58</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2010-06-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2010-06-08T17:30:04</EventStartDateTime>
+          <EventEndDateTime>2010-06-08T17:30:04</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-06-08T17:30:04</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-06-08T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>35</Number>
+          <Date>2010-06-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2010-06-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2010-06-08T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-06-08T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-06-08T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-06-10T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>36</Number>
+          <Date>2010-06-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>37</Number>
+          <Date>2010-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2010-06-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2010-06-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2010-06-10T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-06-10T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-06-10T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>13052</PersonId>
+          <PersonOfficialFirstName>Irving</PersonOfficialFirstName>
+          <PersonOfficialLastName>Gerstein</PersonOfficialLastName>
+          <PersonMiddleName>Russell</PersonMiddleName>
+          <PersonName>Irving Gerstein</PersonName>
+          <SenateSystemAffiliationId>2810</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>36</MeetingNumber>
+          <SpeechDateTime>2010-06-09T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/403/debates/036db_2010-06-09-e#29</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/403/debates/036db_2010-06-09-f#31</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/403/debates/036db_2010-06-09-e#29</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>12690</PersonId>
+          <PersonOfficialFirstName>Joseph A.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Day</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Joseph A. Day</PersonName>
+          <SenateSystemAffiliationId>170</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>36</MeetingNumber>
+          <SpeechDateTime>2010-06-09T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/403/debates/037db_2010-06-10-e#53</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/403/debates/037db_2010-06-10-f#53</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/403/debates/037db_2010-06-10-e#53</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-07-08T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>48</Number>
+          <Date>2010-07-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2010-06-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2010-06-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2010-06-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2010-06-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2010-06-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2010-06-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2010-06-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2010-06-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2010-06-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2010-06-22T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2010-06-22T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2010-06-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2010-06-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2010-06-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2010-06-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2010-06-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2010-07-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>39</Number>
+          <Date>2010-07-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2010-07-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2010-07-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2010-07-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2010-07-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2010-07-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2010-07-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2010-07-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2010-07-08T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2010-07-08T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-07-08T09:02:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-07-12T00:01:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>49</Number>
+          <Date>2010-07-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60129</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report defeated</EventNameEn>
+          <EventNameFr>Rejet du rapport de comité</EventNameFr>
+          <EventName>Committee report defeated</EventName>
+          <EventDateTime>2010-07-12T00:01:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60129</EventTypeId>
+          <EventTypeNameEn>Committee report defeated</EventTypeNameEn>
+          <EventTypeNameFr>Rejet du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report defeated</EventTypeName>
+          <EventStartDateTime>2010-07-12T00:01:00</EventStartDateTime>
+          <EventEndDateTime>2010-07-12T00:01:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-07-12T00:01:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-07-12T00:03:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>49</Number>
+          <Date>2010-07-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2010-07-12T00:03:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2010-07-12T00:03:00</EventStartDateTime>
+          <EventEndDateTime>2010-07-12T00:03:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-07-12T00:03:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>49</Number>
+          <Date>2010-07-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2010-07-12T15:14:47</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2010-07-12T15:14:47</EventStartDateTime>
+          <EventEndDateTime>2010-07-12T15:14:47</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-07-12T15:14:47</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>4402776</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4606267</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4649148</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>29</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubject>
+      <DivisionVotesYeas>143</DivisionVotesYeas>
+      <DivisionVotesNays>120</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>267</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2010-04-19T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>55</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>85</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>208</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2010-06-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>56</DivisionNumber>
+      <DivisionSubjectEn>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>62</DivisionVotesYeas>
+      <DivisionVotesNays>177</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>57</DivisionNumber>
+      <DivisionSubjectEn>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>62</DivisionVotesYeas>
+      <DivisionVotesNays>177</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>58</DivisionNumber>
+      <DivisionSubjectEn>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>62</DivisionVotesYeas>
+      <DivisionVotesNays>177</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>59</DivisionNumber>
+      <DivisionSubjectEn>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>62</DivisionVotesYeas>
+      <DivisionVotesNays>177</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>60</DivisionNumber>
+      <DivisionSubjectEn>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>62</DivisionVotesYeas>
+      <DivisionVotesNays>177</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>61</DivisionNumber>
+      <DivisionSubjectEn>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>62</DivisionVotesYeas>
+      <DivisionVotesNays>177</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>62</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubject>
+      <DivisionVotesYeas>137</DivisionVotesYeas>
+      <DivisionVotesNays>102</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>253</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2010-06-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>63</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-9, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 4 mars 2010 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-9, An Act to implement certain provisions of the budget tabled in Parliament on March 4, 2010 and other measures</DivisionSubject>
+      <DivisionVotesYeas>138</DivisionVotesYeas>
+      <DivisionVotesNays>126</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>270</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2010-06-08T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister of Finance Introduces the Jobs and Economic Growth Act</TitleEn>
+      <TitleFr>Le ministre des Finances dépose la Loi sur l'emploi et la croissance économique</TitleFr>
+      <Title>Minister of Finance Introduces the Jobs and Economic Growth Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1436</BibliographicNoticeId>
+      <Title>[Bill] C-9 beyond Parliamentary standpoint [Letter to the Editor]</Title>
+      <Author>Maingot, Joseph</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1055:8</VolumePage>
+      <PublicationDate>Sept. 13, 2010</PublicationDate>
+      <Classification>Radar A037438</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
