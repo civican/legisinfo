@@ -1,0 +1,4 @@
+# Bill C-27: An Act to amend the Canadian Wheat Board Act
+
+**Sponsor**: MINISTER OF AGRICULTURE AND AGRI-FOOD AND MINISTER FOR THE CANADIAN WHEAT BOARD
+
