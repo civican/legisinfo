@@ -1,0 +1,4 @@
+# Bill C-28: An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act
+
+**Sponsor**: MINISTER OF INDUSTRY
+
