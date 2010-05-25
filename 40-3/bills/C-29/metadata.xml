@@ -1,0 +1,522 @@
+<Bills>
+  <Bill>
+    <Id>4543568</Id>
+    <NumberCode>C-29</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>29</Number>
+    <LongTitleEn>An Act to amend the Personal Information Protection and Electronic Documents Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques</LongTitleFr>
+    <LongTitle>An Act to amend the Personal Information Protection and Electronic Documents Act</LongTitle>
+    <ShortTitleEn>Safeguarding Canadians' Personal Information Act</ShortTitleEn>
+    <ShortTitleFr>Loi protégeant les renseignements personnels des Canadiens</ShortTitleFr>
+    <ShortTitle>Safeguarding Canadians' Personal Information Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2010-05-25T10:07:34</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>3</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>15975</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Tony</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Clement</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Tony Clement</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Industry</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Industrie</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Industry</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>457</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Parry Sound—Muskoka</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Parry Sound—Muskoka</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Parry Sound—Muskoka</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2010-10-26T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>87</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2010-05-25T10:07:34</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. 
+
+On 25 May 2010, the Minister Industry introduced Bill C-29, An Act to amend the Personal Information Protection and Electronic Documents Act (Safeguarding Canadians' Personal Information Act), in the House of Commons and it was given first reading.
+
+The bill amends the Personal Information Protection and Electronic Documents Act. Among other things, it
+
+•	outlines what constitutes valid consent for the collection, use or disclosure of personal information;
+
+•	permits the disclosure of personal information without the knowledge or consent of the individual for the purposes of identifying an injured, ill or deceased individual and communicating with their next of kin; performing police services; preventing, detecting or suppressing fraud; or protecting victims of financial abuse;
+
+•	clarifies the meaning of lawful authority for the purpose of disclosures to government institutions of personal information without the knowledge or consent of the individual;
+
+•	permits organizations, for certain purposes, to collect, use and disclose, without the knowledge or consent of the individual, personal information contained in witness statements related to insurance claims, or produced by the individual in the course of their employment, business or profession;
+
+•	permits organizations, for certain purposes, to use and disclose, without the knowledge or consent of the individual, personal information related to prospective or completed business transactions;
+
+•	permits federal works, undertakings and businesses to collect, use and disclose personal information without the knowledge or consent of the individual to establish, manage or terminate employment relationships;
+
+•	provides a framework for organizations to notify individuals proactively about disclosures of their personal information made in certain circumstances to government institutions; and
+
+•	requires organizations to report material breaches of security safeguards to the Privacy Commissioner and to notify certain individuals and organizations of breaches that create a real risk of significant harm.</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.
+
+Le 25 mai 2010, le ministre de l'Industrie a déposé à la Chambre des communes le projet de loi C 29 : Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques, (Loi protégeant les renseignements personnels des Canadiens), qui a franchi l'étape de la première lecture.
+
+Le projet de loi modifie la Loi sur la protection des renseignements personnels et les documents électroniques. Il a notamment pour effet
+
+•	de cerner les éléments nécessaires à la validité du consentement à la collecte, l'utilisation ou la communication de renseignements personnels;
+
+•	de permettre la communication de renseignements personnels à l'insu de l'intéressé ou sans son consentement aux fins d'identifier un individu qui est blessé, malade ou décédé, et communiquer avec son parent le plus proche; exercer des fonctions de police; prévenir une fraude, la détecter ou y mettre fin; ou protéger la victime d'exploitation financière;
+
+•	de clarifier la notion d'autorité légitime aux fins de communication de renseignements personnels à une institution gouvernementale, à l'insu de l'intéressé ou sans son consentement;
+
+•	de permettre à l'organisation de recueillir, d'utiliser ou de communiquer des renseignements personnels, à l'insu de l'intéressé ou sans son consentement et à certaines fins, dans les cas où ils sont contenus dans la déclaration d'un témoin relative à la déclaration d'un sinistre; ou s'ils sont produits par l'intéressé dans le cadre de son emploi, de son entreprise ou de sa profession;
+
+•	de permettre à l'organisation d'utiliser ou de communiquer, à l'insu de l'intéressé ou sans son consentement et à certaines fins, des renseignements personnels afférents à une éventuelle transaction commerciale ou à une transaction commerciale qui a été effectuée;
+
+•	de permettre à l'entreprise fédérale de recueillir, d'utiliser ou de communiquer des renseignements personnels à l'insu de l'intéressé ou sans son consentement afin d'établir ou de gérer la relation d'emploi entre elle et lui, ou d'y mettre fin;
+
+•	d'établir un cadre pour permettre à l'organisation d'aviser l'intéressé, de sa propre initiative, de la communication de renseignements personnels le concernant faite, dans certaines circonstances, à une institution gouvernementale;
+
+•	d'exiger que l'organisation déclare au Commissaire à la protection de la vie privée les atteintes importantes aux mesures de sécurité et avise des individus et organisations particuliers des atteintes qui présentent un risque réel de préjudice grave.</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. 
+
+On 25 May 2010, the Minister Industry introduced Bill C-29, An Act to amend the Personal Information Protection and Electronic Documents Act (Safeguarding Canadians' Personal Information Act), in the House of Commons and it was given first reading.
+
+The bill amends the Personal Information Protection and Electronic Documents Act. Among other things, it
+
+•	outlines what constitutes valid consent for the collection, use or disclosure of personal information;
+
+•	permits the disclosure of personal information without the knowledge or consent of the individual for the purposes of identifying an injured, ill or deceased individual and communicating with their next of kin; performing police services; preventing, detecting or suppressing fraud; or protecting victims of financial abuse;
+
+•	clarifies the meaning of lawful authority for the purpose of disclosures to government institutions of personal information without the knowledge or consent of the individual;
+
+•	permits organizations, for certain purposes, to collect, use and disclose, without the knowledge or consent of the individual, personal information contained in witness statements related to insurance claims, or produced by the individual in the course of their employment, business or profession;
+
+•	permits organizations, for certain purposes, to use and disclose, without the knowledge or consent of the individual, personal information related to prospective or completed business transactions;
+
+•	permits federal works, undertakings and businesses to collect, use and disclose personal information without the knowledge or consent of the individual to establish, manage or terminate employment relationships;
+
+•	provides a framework for organizations to notify individuals proactively about disclosures of their personal information made in certain circumstances to government institutions; and
+
+•	requires organizations to report material breaches of security safeguards to the Privacy Commissioner and to notify certain individuals and organizations of breaches that create a real risk of significant harm.</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-05-25T10:07:34</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>48</Number>
+          <Date>2010-05-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2010-05-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2010-05-25T10:07:34</EventStartDateTime>
+          <EventEndDateTime>2010-05-25T10:07:34</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-05-25T10:07:34</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>87</Number>
+          <Date>2010-10-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-10-26T17:14:33</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3419192</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>15975</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Clement</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Clement</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>87</MeetingNumber>
+          <SpeechDateTime>2010-10-26T16:17:38</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4722427#SOB-3419680</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4722427#SOB-3419680</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4722427#SOB-3419680</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3419490</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>608</PersonId>
+          <PersonOfficialFirstName>Joseph</PersonOfficialFirstName>
+          <PersonOfficialLastName>Volpe</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Joseph Volpe</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>87</MeetingNumber>
+          <SpeechDateTime>2010-10-26T16:39:44</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4722427#Int-3419490</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4722427#Int-3419490</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4722427#Int-3419490</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3419871</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35343</PersonId>
+          <PersonOfficialFirstName>Carole</PersonOfficialFirstName>
+          <PersonOfficialLastName>Freeman</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Carole Freeman</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>87</MeetingNumber>
+          <SpeechDateTime>2010-10-26T17:10:14</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4722427#Int-3419871</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4722427#Int-3419871</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4722427#Int-3419871</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>4547739</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Moves to Enhance Safety and Security in the Online Marketplace</TitleEn>
+      <TitleFr>Le gouvernement du Canada prend des mesures pour renforcer la sécurité du cybermarché</TitleFr>
+      <Title>Government of Canada Moves to Enhance Safety and Security in the Online Marketplace</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
