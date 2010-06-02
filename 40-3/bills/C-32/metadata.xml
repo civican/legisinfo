@@ -1,0 +1,1541 @@
+<Bills>
+  <Bill>
+    <Id>4567265</Id>
+    <NumberCode>C-32</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>32</Number>
+    <LongTitleEn>An Act to amend the Copyright Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur le droit d'auteur</LongTitleFr>
+    <LongTitle>An Act to amend the Copyright Act</LongTitle>
+    <ShortTitleEn>Copyright Modernization Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la modernisation du droit d'auteur</ShortTitleFr>
+    <ShortTitle>Copyright Modernization Act</ShortTitle>
+    <StatusId>352</StatusId>
+    <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+    <StatusName>At consideration in committee in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60030</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Second reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Deuxième lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Second reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2010-11-05T10:54:24</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>3</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>15975</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Tony</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Clement</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Tony Clement</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Industry</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Industrie</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Industry</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>457</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Parry Sound—Muskoka</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Parry Sound—Muskoka</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Parry Sound—Muskoka</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60121</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Second reading and referral to committee</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Deuxième lecture et renvoi en comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Second reading and referral to committee</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+      <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+      <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+      <CommitteeAcronym>CC32</CommitteeAcronym>
+      <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2010-11-05T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>95</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2010-06-02T15:43:27</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2010-11-05T10:54:24</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. 
+
+On 2 June 2010, the Minister Industry introduced Bill C-32, An Act to amend the Copyright Act (Copyright Modernization Act), in the House of Commons and it was given first reading.
+
+The bill amends the Copyright Act. Among other things, it
+
+•	updates the rights and protections of copyright owners;
+
+•	clarifies Internet service providers' liability and make the enabling of online copyright infringement itself an infringement of copyright;
+
+•	permits businesses, educators and libraries to make greater use of copyright material in digital form;
+
+•	permits certain uses of copyright material by consumers;
+
+•	gives photographers the same rights as other creators;
+
+•	ensures that it remains technologically neutral; and
+
+•	mandates its review by Parliament every five years.</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.
+
+Le 2 juin 2010, le ministre de l'Industrie a déposé à la Chambre des communes le projet de loi C 29 : Loi modifiant la Loi sur le droit d'auteur (Loi sur la modernisation du droit d'auteur), qui a franchi l'étape de la première lecture.
+
+Le projet de loi modifie la Loi sur le droit d'auteur. Il a notamment pour effet
+
+•	de mettre à jour les droits et les mesures de protection dont bénéficient les titulaires du droit d'auteur;
+
+•	de clarifier la responsabilité des fournisseurs de services Internet et ériger en violation du droit d'auteur le fait de faciliter la commission de telles violations en ligne;
+
+•	de permettre aux entreprises, aux enseignants et aux bibliothèques de faire un plus grand usage de matériel protégé par le droit d'auteur sous forme numérique;
+
+•	de permettre aux consommateurs de faire certains usages de matériel protégé par le droit d'auteur;
+
+•	de conférer aux photographes des droits égaux à ceux conférés aux autres créateurs;
+
+•	d'éliminer la spécificité technologique des dispositions de la loi;
+
+•	de prévoir un examen quinquennal de la loi par les parlementaires.</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. 
+
+On 2 June 2010, the Minister Industry introduced Bill C-32, An Act to amend the Copyright Act (Copyright Modernization Act), in the House of Commons and it was given first reading.
+
+The bill amends the Copyright Act. Among other things, it
+
+•	updates the rights and protections of copyright owners;
+
+•	clarifies Internet service providers' liability and make the enabling of online copyright infringement itself an infringement of copyright;
+
+•	permits businesses, educators and libraries to make greater use of copyright material in digital form;
+
+•	permits certain uses of copyright material by consumers;
+
+•	gives photographers the same rights as other creators;
+
+•	ensures that it remains technologically neutral; and
+
+•	mandates its review by Parliament every five years.</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-06-02T15:43:27</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>54</Number>
+          <Date>2010-06-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2010-06-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2010-06-02T15:43:27</EventStartDateTime>
+          <EventEndDateTime>2010-06-02T15:43:27</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-06-02T15:43:27</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-11-05T10:54:24</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+          <StudyActivityId>3547103</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>92</Number>
+          <Date>2010-11-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>93</Number>
+          <Date>2010-11-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>95</Number>
+          <Date>2010-11-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3479154</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4578286</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee -</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité -</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee -</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2010-11-05T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>95</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2010-11-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2010-11-05T10:54:24</EventStartDateTime>
+          <EventEndDateTime>2010-11-05T10:54:24</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-11-05T10:54:24</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3453754</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>15975</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Clement</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Clement</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>92</MeetingNumber>
+          <SpeechDateTime>2010-11-02T10:20:15</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3453754</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4750342#Int-3453754</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3453754</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3454121</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>10524</PersonId>
+          <PersonOfficialFirstName>Marc</PersonOfficialFirstName>
+          <PersonOfficialLastName>Garneau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Marc Garneau</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>92</MeetingNumber>
+          <SpeechDateTime>2010-11-02T10:48:22</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3454121</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4750342#Int-3454121</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3454121</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3454299</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25517</PersonId>
+          <PersonOfficialFirstName>Carole</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lavallée</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Carole Lavallée</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>92</MeetingNumber>
+          <SpeechDateTime>2010-11-02T11:09:22</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3454299</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4750342#Int-3454299</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3454299</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3454660</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25470</PersonId>
+          <PersonOfficialFirstName>Charlie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Angus</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Charlie Angus</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>92</MeetingNumber>
+          <SpeechDateTime>2010-11-02T11:34:56</SpeechDateTime>
+          <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3454660</UrlEn>
+          <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4750342#Int-3454660</UrlFr>
+          <Url>https://www.ourcommons.ca/DocumentViewer/en/4750342#Int-3454660</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevé</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+          <StudyActivityId>3547103</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2010-11-25T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>5</Number>
+          <Date>2010-12-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2010-12-06T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2010-12-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2010-12-13T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2011-02-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2011-02-03T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2011-02-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2011-02-10T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2011-02-15T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2011-02-17T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2011-03-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2011-03-03T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2011-03-08T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2011-03-10T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2011-03-22T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16281</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-32</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-32</CommitteeNameFr>
+          <CommitteeAcronym>CC32</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2011-03-24T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-32</CommitteeName>
+        </CommitteeMeetings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-03-24T11:02:42</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>4580265</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Introduces Proposals to Modernize the Copyright Act</TitleEn>
+      <TitleFr>Le gouvernement du Canada présente un projet de loi pour moderniser la Loi sur le droit d'auteur</TitleFr>
+      <Title>Government of Canada Introduces Proposals to Modernize the Copyright Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1512</BibliographicNoticeId>
+      <Title>Conservatives say partisanship is interfering in Bill C-32 hearings</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1074:1, 4</VolumePage>
+      <PublicationDate>Feb. 7, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1507</BibliographicNoticeId>
+      <Title>Brute political calculus rules the copyright reform agenda [Opinion]</Title>
+      <Author>Tarantino, Bob</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1072:15</VolumePage>
+      <PublicationDate>Jan. 24, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1508</BibliographicNoticeId>
+      <Title>Bill C-32 is an anachronism, entirely rooted in old theory of control [Opinion]</Title>
+      <Author>Brunet, Claude</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1073:33</VolumePage>
+      <PublicationDate>Jan. 31, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1509</BibliographicNoticeId>
+      <Title>Copyright [Bill C-32] : it's time to get on with it [Opinion]</Title>
+      <Author>Owen, Victoria</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1073:33</VolumePage>
+      <PublicationDate>Jan. 31, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1498</BibliographicNoticeId>
+      <Title>Canada risks becoming a pirate nation, says [Tony] Clement</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:20, 22, 32</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1499</BibliographicNoticeId>
+      <Title>Heritage, Industry committed to balanced copyright legislation, 'clear wins' for both creators and consumers, says [James] Moore</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:24-5</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1500</BibliographicNoticeId>
+      <Title>Time to "get it right" with copyright and digital locks [Opinion]</Title>
+      <Author>Angus, Charlie</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:26</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1501</BibliographicNoticeId>
+      <Title>Liberals' copyright position may provide roadmap to C-32 compromise [Opinion]</Title>
+      <Author>Geist, Michael</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:26</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1502</BibliographicNoticeId>
+      <Title>The A2K problem : copyright, accessibility and the future of copyright in Canada [Opinion]</Title>
+      <Author>Bannerman, Sara</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:28</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1503</BibliographicNoticeId>
+      <Title>It's time to find a balance between new media and copyright [Opinion]</Title>
+      <Author>Shiga, John</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:28</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1504</BibliographicNoticeId>
+      <Title>Copyright needs to be amended to do justice to artists, copyright holders, says Bloc MP [Carole] Lavallée [Opinion]</Title>
+      <Author>Lavallée, Carole</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:31</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1505</BibliographicNoticeId>
+      <Title>Canada must modernize its copyright legislation, now [Opinion]</Title>
+      <Author>Garneau, Marc</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1071:32</VolumePage>
+      <PublicationDate>Jan. 17, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1526</BibliographicNoticeId>
+      <Title>Artists, creators could lose $126-million annually under Bill C-32, say stakeholders as Copyright Act heats up</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1077:1,38</VolumePage>
+      <PublicationDate>Feb. 28, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1517</BibliographicNoticeId>
+      <Title>Feds willing to meet "morning and night" on copyright bill [C-32], blame opposition parties for delays</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1076:1,4</VolumePage>
+      <PublicationDate>Feb. 21, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1528</BibliographicNoticeId>
+      <Title>Copyright Bill [C-32] actually pretty good (Opinion)</Title>
+      <Author>Turk, James, 1943-</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1078:8</VolumePage>
+      <PublicationDate>Mar. 7, 2011</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1489</BibliographicNoticeId>
+      <Title>Fight over copyright [Opinion]: what it's really about</Title>
+      <Author>Levy, Roanie</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1067:17</VolumePage>
+      <PublicationDate>Dec. 6, 2010</PublicationDate>
+      <Classification>Radar A038087</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1490</BibliographicNoticeId>
+      <Title>Droit d'auteur : ce projet de loi [C-32] canadien qui fait peur</Title>
+      <Author>Piault, Fabrice</Author>
+      <Publication>Livres hebdo (Paris, France : 1982)</Publication>
+      <VolumePage>841:20-2</VolumePage>
+      <PublicationDate>12 nov. 2010</PublicationDate>
+      <Classification>Radar A038095</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1484</BibliographicNoticeId>
+      <Title>Droit d'auteur : la mobilisation s'organise ferme autour de Copibec</Title>
+      <Author>
+      </Author>
+      <Publication>Livre d'ici (Hebdomadaire)</Publication>
+      <VolumePage>36:25-6</VolumePage>
+      <PublicationDate>nov. 2010</PublicationDate>
+      <Classification>Radar A038032</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1485</BibliographicNoticeId>
+      <Title>Necessarily critical? : the adoption of a parody defence to copyright infringement in Canada</Title>
+      <Author>Reynolds, Graham</Author>
+      <Publication>Manitoba Law Journal</Publication>
+      <VolumePage>33:243-61</VolumePage>
+      <PublicationDate>no. 2 2010</PublicationDate>
+      <Classification>Radar A038070</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1480</BibliographicNoticeId>
+      <Title>Parts of Bill C-32 are complex, and that's a good thing [Opinion]</Title>
+      <Author>Tarantino, Bob</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1066:20</VolumePage>
+      <PublicationDate>Nov. 29, 2010</PublicationDate>
+      <Classification>Radar A038021</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1481</BibliographicNoticeId>
+      <Title>New copyright bill fails songwriters and artists [Opinion]</Title>
+      <Author>McCarty, Michael</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1066:20</VolumePage>
+      <PublicationDate>Nov. 29, 2010</PublicationDate>
+      <Classification>Radar A038022</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1476</BibliographicNoticeId>
+      <Title>Governments should defend copyright, not dismantle it</Title>
+      <Author>Copps, Sheila</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1065:9</VolumePage>
+      <PublicationDate>Nov. 22, 2010</PublicationDate>
+      <Classification>Radar A037982</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1473</BibliographicNoticeId>
+      <Title>No need for copyright law to be so complex [Opinion]</Title>
+      <Author>McDormand, Russell</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1064:18</VolumePage>
+      <PublicationDate>Nov. 15, 2010</PublicationDate>
+      <Classification>Radar A037923</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1462</BibliographicNoticeId>
+      <Title>Canada's copyright [Opinion] : will government deliver on its promise to protect and create jobs?</Title>
+      <Author>Lewis, John</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1061:36</VolumePage>
+      <PublicationDate>Nov. 1, 2010</PublicationDate>
+      <Classification>Radar A037780</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1463</BibliographicNoticeId>
+      <Title>The impact of the Canadian Copyright Act on the voices of marginalized groups</Title>
+      <Author>Reynolds, Graham</Author>
+      <Publication>Alberta law review</Publication>
+      <VolumePage>48:35-53</VolumePage>
+      <PublicationDate>Aug. 2010</PublicationDate>
+      <Classification>Radar A037821</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1465</BibliographicNoticeId>
+      <Title>In search of a compromise on copyright [Opinion]</Title>
+      <Author>Geist, Michael</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1063:11</VolumePage>
+      <PublicationDate>Nov. 8, 2010</PublicationDate>
+      <Classification>Radar A037872</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1466</BibliographicNoticeId>
+      <Title>Politicians should read the laws [Bill C-32] they vote on [Opinion]</Title>
+      <Author>Gannon, James</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1063:11</VolumePage>
+      <PublicationDate>Nov. 8, 2010</PublicationDate>
+      <Classification>Radar A037873</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1549</BibliographicNoticeId>
+      <Title>An encore presentation</Title>
+      <Author>Balla, Andi</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>35:39-41</VolumePage>
+      <PublicationDate>July 2011</PublicationDate>
+      <Classification>K3 A494</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1416</BibliographicNoticeId>
+      <Title>Revue de la jurisprudence canadienne 2009 en matière de droits d'auteur</Title>
+      <Author>Collier, David R</Author>
+      <Publication>Les cahiers de propriété intellectuelle</Publication>
+      <VolumePage>22(2):201-17</VolumePage>
+      <PublicationDate>mai 2010</PublicationDate>
+      <Classification>Radar A037332</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1417</BibliographicNoticeId>
+      <Title>Federal Court ruling shows copyright fair dealing fears greatly exaggerated</Title>
+      <Author>Geist, Michael</Author>
+      <Publication>The Hill Times</Publication>
+      <VolumePage>no. 1049:2</VolumePage>
+      <PublicationDate>August 2, 2010</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1430</BibliographicNoticeId>
+      <Title>Clement says biggest challenge is boosting Canada's performance in business innovation</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1059:25-36</VolumePage>
+      <PublicationDate>Oct. 11 2010</PublicationDate>
+      <Classification>Radar A037624</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1441</BibliographicNoticeId>
+      <Title>From rhetoric to reality [Opinion] : the key issues in Bill C-32</Title>
+      <Author>Geist, Michael</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1057:22</VolumePage>
+      <PublicationDate>Sept. 27, 2010</PublicationDate>
+      <Classification>Radar A037533</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1453</BibliographicNoticeId>
+      <Title>Le régime canadien des titulaires de droits d'auteur</Title>
+      <Author>Bouchard, Mario</Author>
+      <Publication>Cahiers de propriété intellectuelle</Publication>
+      <VolumePage>22:483-511</VolumePage>
+      <PublicationDate>oct. 2010</PublicationDate>
+      <Classification>Radar A037718</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1454</BibliographicNoticeId>
+      <Title>Les réponses graduées française et britannique : des coups d'épée dans l'eau ou des modèles pour le Canada?</Title>
+      <Author>Derclaye, Estelle</Author>
+      <Publication>Cahiers de propriété intellectuelle</Publication>
+      <VolumePage>22:571-92</VolumePage>
+      <PublicationDate>oct. 2010</PublicationDate>
+      <Classification>Radar A037721</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1455</BibliographicNoticeId>
+      <Title>La Commission du droit d'auteur du Canada : vingt années à 'faire' l'histoire juridique</Title>
+      <Author>De Beer, Jeremy</Author>
+      <Publication>Cahiers de propriété intellectuelle</Publication>
+      <VolumePage>22:593-627</VolumePage>
+      <PublicationDate>oct. 2010</PublicationDate>
+      <Classification>Radar A037722</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1456</BibliographicNoticeId>
+      <Title>Droit des utilisateurs en droit d'auteur canadien</Title>
+      <Author>Saint Exupéry, Gilles de</Author>
+      <Publication>Cahiers de propriété intellectuelle</Publication>
+      <VolumePage>22:777-92</VolumePage>
+      <PublicationDate>oct. 2010</PublicationDate>
+      <Classification>Radar A037723</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1459</BibliographicNoticeId>
+      <Title>We should copyright the Canadian way [Opinion]</Title>
+      <Author>Bannerman, Sara</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1061:42</VolumePage>
+      <PublicationDate>Oct. 25 2010</PublicationDate>
+      <Classification>Radar A037728</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>1951404</Id>
+      <NumberCode>C-60</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>60</Number>
+      <LongTitleEn>An Act to amend the Copyright Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur le droit d'auteur</LongTitleFr>
+      <LongTitle>An Act to amend the Copyright Act</LongTitle>
+      <ShortTitleEn>
+      </ShortTitleEn>
+      <ShortTitleFr>
+      </ShortTitleFr>
+      <ShortTitle>
+      </ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2005-06-20T15:14:11</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>38</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2005-06-20T15:14:11</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <SimilarBills>
+      <Id>3188787</Id>
+      <NumberCode>C-61</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>61</Number>
+      <LongTitleEn>An Act to amend the Copyright Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur le droit d'auteur</LongTitleFr>
+      <LongTitle>An Act to amend the Copyright Act</LongTitle>
+      <ShortTitleEn>
+      </ShortTitleEn>
+      <ShortTitleFr>
+      </ShortTitleFr>
+      <ShortTitle>
+      </ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2008-06-12T11:25:29</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>39</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2008-06-12T11:25:29</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
