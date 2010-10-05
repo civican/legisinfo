@@ -1,0 +1,1356 @@
+<Bills>
+  <Bill>
+    <Id>4668958</Id>
+    <NumberCode>C-48</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>48</Number>
+    <LongTitleEn>An Act to amend the Criminal Code and to make consequential amendments to the National Defence Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code criminel et la Loi sur la défense nationale en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Criminal Code and to make consequential amendments to the National Defence Act</LongTitle>
+    <ShortTitleEn>Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act</ShortTitleEn>
+    <ShortTitleFr>Loi protégeant les Canadiens en mettant fin aux peines à rabais en cas de meurtres multiples</ShortTitleFr>
+    <ShortTitle>Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2011-03-23T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>3</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>820</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Rob</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Nicholson</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Rob Nicholson</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>444</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Niagara Falls</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Niagara Falls</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Niagara Falls</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2011-03-23T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>97</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2010-10-05T10:04:22</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2010-11-16T13:05:08</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2011-02-01T18:07:12</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2011-02-02T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2011-03-01T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2011-03-08T16:30:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2011-03-23T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 5 October 2010, the Minister of Justice introduced Bill C-48, An Act to amend the Criminal Code and to make consequential amendments to the National Defence Act (Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;The new legislation would allow judges to impose consecutive parole ineligibility periods on individuals convicted of more than one first- or second-degree murder. Under the current system, individuals convicted of multiple murders serve their parole ineligibility periods concurrently.&lt;br/&gt;&lt;br/&gt;Consecutive parole ineligibility periods for multiple murderers would not be mandatory under the proposed legislation. Discretion would be given to judges to consider the character of the offender, the nature and circumstances of the offence, and any jury recommendation(s) before deciding on whether to impose consecutive parole ineligibility periods. Judges would, however, be required to state orally or in writing the basis for any decision not to impose consecutive parole ineligibility periods on multiple murderers.&lt;br/&gt;&lt;br/&gt;The bill also makes consequential amendments to the National Defence Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi et vous propose en attendant le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 5 octobre 2010, le ministre de la Justice a déposé le projet de loi C-48, Loi modifiant le Code criminel et la Loi sur la défense nationale en conséquence (Loi protégeant les Canadiens en mettant fin aux peines à rabais en cas de meurtres multiples), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Les nouvelles dispositions habiliteraient les juges à imposer des périodes consécutives d'inadmissibilité à la libération conditionnelle aux gens reconnus coupables de plusieurs meurtres au premier ou au second degré. Dans le régime actuel, les individus condamnés pour meurtres multiples reçoivent des périodes simultanées d'inadmissibilité.&lt;br/&gt;&lt;br/&gt;Les juges n'auraient pas l'obligation d'imposer des périodes consécutives, mais devraient prendre leur décision en fonction du caractère du justiciable, de la nature et des circonstances des infractions et de toute recommandation du jury. Ils seraient également tenus d'énoncer de vive voix ou par écrit les motifs pour lesquels ils n'ont pas imposé de périodes consécutives.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-54 également apporte des modifications corrélatives à la Loi sur la défense nationale.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 5 October 2010, the Minister of Justice introduced Bill C-48, An Act to amend the Criminal Code and to make consequential amendments to the National Defence Act (Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;The new legislation would allow judges to impose consecutive parole ineligibility periods on individuals convicted of more than one first- or second-degree murder. Under the current system, individuals convicted of multiple murders serve their parole ineligibility periods concurrently.&lt;br/&gt;&lt;br/&gt;Consecutive parole ineligibility periods for multiple murderers would not be mandatory under the proposed legislation. Discretion would be given to judges to consider the character of the offender, the nature and circumstances of the offence, and any jury recommendation(s) before deciding on whether to impose consecutive parole ineligibility periods. Judges would, however, be required to state orally or in writing the basis for any decision not to impose consecutive parole ineligibility periods on multiple murderers.&lt;br/&gt;&lt;br/&gt;The bill also makes consequential amendments to the National Defence Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2011</StatuteYear>
+    <StatuteChapter>5</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-10-05T10:04:22</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>77</Number>
+          <Date>2010-10-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2010-10-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2010-10-05T10:04:22</EventStartDateTime>
+          <EventEndDateTime>2010-10-05T10:04:22</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-10-05T10:04:22</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2010-11-16T13:05:08</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15386</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>3530087</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>96</Number>
+          <Date>2010-11-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>97</Number>
+          <Date>2010-11-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3523390</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4672694</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - JUST</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - JUST</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - JUST</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2010-11-16T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>97</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2010-11-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2010-11-16T13:05:08</EventStartDateTime>
+          <EventEndDateTime>2010-11-16T13:05:08</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-11-16T13:05:08</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3514196</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35340</PersonId>
+          <PersonOfficialFirstName>Daniel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Petit</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Daniel Petit</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>96</MeetingNumber>
+          <SpeechDateTime>2010-11-15T13:51:14</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3514648</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>289</PersonId>
+          <PersonOfficialFirstName>Marlene</PersonOfficialFirstName>
+          <PersonOfficialLastName>Jennings</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Marlene Jennings</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>96</MeetingNumber>
+          <SpeechDateTime>2010-11-15T15:40:49</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3514922</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25474</PersonId>
+          <PersonOfficialFirstName>André</PersonOfficialFirstName>
+          <PersonOfficialLastName>Bellavance</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>André Bellavance</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>96</MeetingNumber>
+          <SpeechDateTime>2010-11-15T16:10:40</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3515164</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>59103</PersonId>
+          <PersonOfficialFirstName>Jim</PersonOfficialFirstName>
+          <PersonOfficialLastName>Maloway</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jim Maloway</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>96</MeetingNumber>
+          <SpeechDateTime>2010-11-15T16:37:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-12-10T13:06:34</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15386</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>3530087</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>115</Number>
+          <Date>2010-12-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15386</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>39</Number>
+          <Date>2010-11-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15386</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2010-12-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15386</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2010-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15386</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2010-12-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2010-12-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>4871620</CommitteeReportId>
+          <CommitteeReportNumber>12</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2010-12-10T13:06:34</EventStartDateTime>
+          <EventEndDateTime>2010-12-10T13:06:34</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-12-10T13:06:34</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-02-01T10:42:11</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>121</Number>
+          <Date>2011-02-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2011-02-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2011-02-01T10:42:11</EventStartDateTime>
+          <EventEndDateTime>2011-02-01T10:42:11</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-02-01T10:42:11</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-02-01T18:07:12</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>121</Number>
+          <Date>2011-02-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>3708931</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>4672696</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2011-02-01T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>121</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-02-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-02-01T18:07:12</EventStartDateTime>
+          <EventEndDateTime>2011-02-01T18:07:12</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-02-01T18:07:12</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-02-02T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>81</Number>
+          <Date>2011-02-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2011-02-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2011-02-02T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-02-02T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-02-02T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-03-01T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>85</Number>
+          <Date>2011-02-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>89</Number>
+          <Date>2011-03-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2011-03-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2011-03-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2011-03-01T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-03-01T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-03-01T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59550</PersonId>
+          <PersonOfficialFirstName>Daniel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lang</PersonOfficialLastName>
+          <PersonMiddleName>Hector</PersonMiddleName>
+          <PersonName>Daniel Lang</PersonName>
+          <SenateSystemAffiliationId>2815</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>85</MeetingNumber>
+          <SpeechDateTime>2011-02-10T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/403/debates/085db_2011-02-10-e#33</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/403/debates/085db_2011-02-10-f#33</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/403/debates/085db_2011-02-10-e#33</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>9</PersonId>
+          <PersonOfficialFirstName>George</PersonOfficialFirstName>
+          <PersonOfficialLastName>Baker</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>George Baker</PersonName>
+          <SenateSystemAffiliationId>174</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>40</ParliamentNumber>
+          <SessionNumber>3</SessionNumber>
+          <MeetingNumber>89</MeetingNumber>
+          <SpeechDateTime>2011-03-01T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/403/debates/089db_2011-03-01-e#47</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/403/debates/089db_2011-03-01-f#47</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/403/debates/089db_2011-03-01-e#47</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2011-03-03T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>91</Number>
+          <Date>2011-03-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2011-03-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2011-03-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2011-03-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2011-03-03T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-03-03T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-03-03T10:40:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-03-08T16:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>92</Number>
+          <Date>2011-03-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-03-08T16:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-03-08T16:30:00</EventStartDateTime>
+          <EventEndDateTime>2011-03-08T16:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-03-08T16:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>97</Number>
+          <Date>2011-03-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2011-03-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2011-03-23T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-03-23T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-03-23T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>4673387</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4873910</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>4913022</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5075715</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Ending sentence discounts for multiple murderers</TitleEn>
+      <TitleFr>Mettre fin aux rabais de peine pour les auteurs de meurtres multiples</TitleFr>
+      <Title>Ending sentence discounts for multiple murderers</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legislation Providing Tougher Sentences for Murderers Comes Into Force</TitleEn>
+      <TitleFr>Entrée en vigueur de lois prévoyant des peines plus sévères pour les meurtriers</TitleFr>
+      <Title>Legislation Providing Tougher Sentences for Murderers Comes Into Force</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Introduces Legislation to End Sentence Discounts for Multiple Murderers</TitleEn>
+      <TitleFr>Le gouvernement du Canada présente un projet de loi visant à mettre fin aux rabais de peine pour les auteurs de meurtres multiples</TitleFr>
+      <Title>Government of Canada Introduces Legislation to End Sentence Discounts for Multiple Murderers</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3253</BibliographicNoticeId>
+      <Title>Does the Royal Prerogative of Mercy offer hope for murderers? : further international guidance for interpreting the 'Protecting Canadians by ending sentence discounts for multiple murders act'</Title>
+      <Author>Spencer, Derek</Author>
+      <Publication>Canadian criminal law review</Publication>
+      <VolumePage>24:313-338</VolumePage>
+      <PublicationDate>October 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3090</BibliographicNoticeId>
+      <Title>Hope for murderers? : international guidance on interpreting the 'Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act'</Title>
+      <Author>Derek Spencer</Author>
+      <Publication>Canadian criminal law review</Publication>
+      <VolumePage>22(2):207-234</VolumePage>
+      <PublicationDate>June 2017</PublicationDate>
+      <Classification>Radar 24924174</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>4169527</Id>
+      <NumberCode>C-54</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>54</Number>
+      <LongTitleEn>An Act to amend the Criminal Code and to make consequential amendments to the National Defence Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant le Code criminel et la Loi sur la défense nationale en conséquence</LongTitleFr>
+      <LongTitle>An Act to amend the Criminal Code and to make consequential amendments to the National Defence Act</LongTitle>
+      <ShortTitleEn>Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act</ShortTitleEn>
+      <ShortTitleFr>Loi protégeant les Canadiens en mettant fin aux peines à rabais en cas de meurtres multiples</ShortTitleFr>
+      <ShortTitle>Protecting Canadians by Ending Sentence Discounts for Multiple Murders Act</ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2009-10-28T15:21:55</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2009-10-28T15:21:55</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
