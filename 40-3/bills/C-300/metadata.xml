@@ -1,0 +1,1143 @@
+<Bills>
+  <Bill>
+    <Id>4327824</Id>
+    <NumberCode>C-300</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>300</Number>
+    <LongTitleEn>An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries</LongTitleEn>
+    <LongTitleFr>Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement</LongTitleFr>
+    <LongTitle>An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries</LongTitle>
+    <ShortTitleEn>Corporate Accountability of Mining, Oil and Gas Corporations in Developing Countries Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la responsabilisation des sociétés minières, pétrolières ou gazières dans les pays en développement</ShortTitleFr>
+    <ShortTitle>Corporate Accountability of Mining, Oil and Gas Corporations in Developing Countries Act</ShortTitle>
+    <StatusId>341</StatusId>
+    <StatusNameEn>Bill defeated</StatusNameEn>
+    <StatusNameFr>Projet de loi rejeté</StatusNameFr>
+    <StatusName>Bill defeated</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60032</OngoingStageId>
+    <OngoingStageNameEn>Report stage</OngoingStageNameEn>
+    <OngoingStageNameFr>Étape du rapport</OngoingStageNameFr>
+    <OngoingStageName>Report stage</OngoingStageName>
+    <LatestCompletedBillStageId>60049</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Consideration in committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Examen en comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Consideration in committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2010-06-11T12:47:35</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>40</ParliamentNumber>
+    <SessionNumber>3</SessionNumber>
+    <BillDocumentTypeId>4</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Private Member's Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant d'un député</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Private Member's Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>957</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>John</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>McKay</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>John McKay</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Member of Parliament</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>député</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Member of Parliament</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>2</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Member of Parliament</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>député(e)</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Member of Parliament</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>469</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Scarborough—Guildwood</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Scarborough—Guildwood</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Scarborough—Guildwood</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60127</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Bill defeated at report stage</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Rejet du projet de loi à l'étape du rapport</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60032</LatestBillEventStageId>
+    <LatestBillEventTypeName>Bill defeated at report stage</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2010-10-27T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>88</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime />
+    <PassedHouseSecondReadingDateTime>2010-03-03T11:27:29</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>true</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId>3640419</ReinstatedFromBillDocumentId>
+    <ReinstatedFromBillNumberCode>C-300</ReinstatedFromBillNumberCode>
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60039</BillStageId>
+        <BillStageNameEn>Bill reinstated from previous session</BillStageNameEn>
+        <BillStageNameFr>Projet de loi rétabli de la session précédente</BillStageNameFr>
+        <BillStageName>Bill reinstated from previous session</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-03-03T14:39:47</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <SignificantEvents>
+          <EventTypeId>60163</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Reinstated from previous session</EventNameEn>
+          <EventNameFr>Rétabli de la session précédente</EventNameFr>
+          <EventName>Reinstated from previous session</EventName>
+          <EventDateTime>2010-03-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60163</EventTypeId>
+          <EventTypeNameEn>Reinstated from previous session</EventTypeNameEn>
+          <EventTypeNameFr>Rétabli de la session précédente</EventTypeNameFr>
+          <EventTypeName>Reinstated from previous session</EventTypeName>
+          <EventStartDateTime>2010-03-03T14:39:47</EventStartDateTime>
+          <EventEndDateTime>2010-03-03T14:39:47</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-03-03T14:39:47</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2010-06-11T12:47:35</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>15379</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Foreign Affairs and International Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires étrangères et du développement international</CommitteeNameFr>
+          <CommitteeAcronym>FAAE</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Foreign Affairs and International Development</CommitteeName>
+          <StudyActivityId>3023047</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Deemed reported without amendment</NameEn>
+          <NameFr>Réputé avoir fait l'objet d'un rapport sans amendement</NameFr>
+          <Name>Deemed reported without amendment</Name>
+          <Number>61</Number>
+          <Date>2010-06-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15379</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Foreign Affairs and International Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires étrangères et du développement international</CommitteeNameFr>
+          <CommitteeAcronym>FAAE</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2010-05-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Foreign Affairs and International Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15379</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Foreign Affairs and International Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires étrangères et du développement international</CommitteeNameFr>
+          <CommitteeAcronym>FAAE</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2010-05-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Foreign Affairs and International Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15379</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Foreign Affairs and International Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires étrangères et du développement international</CommitteeNameFr>
+          <CommitteeAcronym>FAAE</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2010-06-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Foreign Affairs and International Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>15379</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Foreign Affairs and International Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires étrangères et du développement international</CommitteeNameFr>
+          <CommitteeAcronym>FAAE</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2010-06-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Foreign Affairs and International Development</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60125</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Deemed reported without amendment</EventNameEn>
+          <EventNameFr>Réputé avoir fait l'objet d'un rapport sans amendement</EventNameFr>
+          <EventName>Deemed reported without amendment</EventName>
+          <EventDateTime>2010-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60125</EventTypeId>
+          <EventTypeNameEn>Deemed reported without amendment</EventTypeNameEn>
+          <EventTypeNameFr>Réputé avoir fait l'objet d'un rapport sans amendement</EventTypeNameFr>
+          <EventTypeName>Deemed reported without amendment</EventTypeName>
+          <EventStartDateTime>2010-06-11T12:47:35</EventStartDateTime>
+          <EventEndDateTime>2010-06-11T12:47:35</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-06-11T12:47:35</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>40</ParliamentNumber>
+        <SessionNumber>3</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>66</Number>
+          <Date>2010-09-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>87</Number>
+          <Date>2010-10-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>88</Number>
+          <Date>2010-10-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60127</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Bill defeated at report stage</EventNameEn>
+          <EventNameFr>Rejet du projet de loi à l'étape du rapport</EventNameFr>
+          <EventName>Bill defeated at report stage</EventName>
+          <EventDateTime>2010-10-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>true</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2010-10-27T19:35:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>4330045</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>111</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>112</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>113</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>114</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>115</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>116</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>117</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>118</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>119</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>120</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>121</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>122</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>123</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>124</DivisionNumber>
+      <DivisionSubjectEn>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>125</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-300, Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-300, An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries</DivisionSubject>
+      <DivisionVotesYeas>134</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2010-10-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>3</SessionNumber>
+      <MeetingNumber>87</MeetingNumber>
+      <HansardNumber>3418440</HansardNumber>
+      <RulingStatementDateTime>2010-10-26T15:03:29</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/4722427#Int-3418440</UrlEn>
+      <UrlFr>https://www.ourcommons.ca/DocumentViewer/fr/4722427#Int-3418440</UrlFr>
+    </HouseRulingAndStatements>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1477</BibliographicNoticeId>
+      <Title>Mining biz shills kill hated bill [electronic resource]</Title>
+      <Author>McClearn, Matthew</Author>
+      <Publication>Canadian business</Publication>
+      <VolumePage>83:15-6</VolumePage>
+      <PublicationDate>Dec. 6, 2010</PublicationDate>
+      <Classification>Radar A037990</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1461</BibliographicNoticeId>
+      <Title>Powerful mining industry lobbyists helped defeat bill [C-300], says Grit MP McKay</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1061:1, 6</VolumePage>
+      <PublicationDate>Nov. 1 2010</PublicationDate>
+      <Classification>Radar A037779</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1569</BibliographicNoticeId>
+      <Title>An Act Respecting Corporate Accountability for the Activities of Mining, Oil or Gas in Developing Countries [Bill C-300] : anatomy of a failed initiative</Title>
+      <Author>Janda, Richard</Author>
+      <Publication>McGill international journal of sustainable development law and policy</Publication>
+      <VolumePage>6(2):97-107</VolumePage>
+      <PublicationDate>2011</PublicationDate>
+      <Classification>K3581.3 M34</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1780</BibliographicNoticeId>
+      <Title>Peru's social conflict is about more than mining [electronic resource]</Title>
+      <Author>Wilson, Alana</Author>
+      <Publication>Fraser forum</Publication>
+      <VolumePage>pp.15-17</VolumePage>
+      <PublicationDate>Sept./Oct. 2012</PublicationDate>
+      <Classification>HC116.5 F732F</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2132</BibliographicNoticeId>
+      <Title>The crackdown</Title>
+      <Author>Lorinc, John</Author>
+      <Publication>Canadian business</Publication>
+      <VolumePage>86:46-9</VolumePage>
+      <PublicationDate>April 1, 2013</PublicationDate>
+      <Classification>HF1 C35, 86:46-9</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2178</BibliographicNoticeId>
+      <Title>Desperately seeking sanction [electronic resource] : Canadian extractive companies and their public partners</Title>
+      <Author>Keenan, Karyn</Author>
+      <Publication>Canadian journal of development studies</Publication>
+      <VolumePage>34:111-21</VolumePage>
+      <PublicationDate>Mar. 2013</PublicationDate>
+      <Classification>HC60 R49</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2179</BibliographicNoticeId>
+      <Title>Generating rights for communities harmed by mining [electronic resource] : legal and other action</Title>
+      <Author>North, Liisa L</Author>
+      <Publication>Canadian journal of development studies</Publication>
+      <VolumePage>34:96-110</VolumePage>
+      <PublicationDate>Mar. 2013</PublicationDate>
+      <Classification>HC60 R49</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2228</BibliographicNoticeId>
+      <Title>Le secteur minier en RDC [ressource électronique] : quelle transformation pour quel développement?</Title>
+      <Author>de Failly, Didier</Author>
+      <Publication>Politique étrangère</Publication>
+      <VolumePage>2:113-23</VolumePage>
+      <PublicationDate>juin 2013</PublicationDate>
+      <Classification>D410 P64</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2229</BibliographicNoticeId>
+      <Title>Cracking down on corrupt mining deals [electronic resource]</Title>
+      <Author>Campbell, Matthew</Author>
+      <Publication>Bloomberg businessweek</Publication>
+      <VolumePage>4336:41-3</VolumePage>
+      <PublicationDate>Jan. 21-27, 2013</PublicationDate>
+      <Classification>HF5001 B87</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2694</BibliographicNoticeId>
+      <Title>Canada's enhanced CSR strategy : human rights due diligence and access to justice for victims of extraterritorial corporate human rights abuses</Title>
+      <Author>Simons, Penelope</Author>
+      <Publication>Canadian business law journal</Publication>
+      <VolumePage>56(2):167-207</VolumePage>
+      <PublicationDate>March 2015</PublicationDate>
+      <Classification>HF1277 C354</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2695</BibliographicNoticeId>
+      <Title>Commentaries : Tsilhqot'in Nation v. British Columbia : Aboriginal title and Section 35</Title>
+      <Author>Swain, Harry</Author>
+      <Publication>Canadian business law journal</Publication>
+      <VolumePage>56(2):265-80</VolumePage>
+      <PublicationDate>March 2015</PublicationDate>
+      <Classification>HF1277 C354</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1440</BibliographicNoticeId>
+      <Title>Bill C-300 would impose serious burdens on Canada's mining industry [Opinion]</Title>
+      <Author>Manley, John</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1057:16</VolumePage>
+      <PublicationDate>Sept. 27, 2010</PublicationDate>
+      <Classification>Radar A037532</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1443</BibliographicNoticeId>
+      <Title>Manley simply repeats shibboleths of mining industry, adds no new arguments [Opinion]</Title>
+      <Author>McKay, John</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1058:22</VolumePage>
+      <PublicationDate>Oct. 4 2010</PublicationDate>
+      <Classification>Radar A037577</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1448</BibliographicNoticeId>
+      <Title>Bill C-300 a poorly constructed bill</Title>
+      <Author>Beatty, Perrin</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1060:18</VolumePage>
+      <PublicationDate>Oct. 18 2010</PublicationDate>
+      <Classification>Radar A037652</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1449</BibliographicNoticeId>
+      <Title>Bill C-300 a poorly constructed bill</Title>
+      <Author>Andrews, Tony</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1060:18</VolumePage>
+      <PublicationDate>Oct. 18 2010</PublicationDate>
+      <Classification>Radar A037653</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1451</BibliographicNoticeId>
+      <Title>Corporate social responsibility [electronic resource] : movements and footprints of Canadian mining and exploration firms in the developing world</Title>
+      <Author>
+      </Author>
+      <Publication>Canadian Centre for the Study of Resource Conflict</Publication>
+      <VolumePage>1 PDF file (16 p.)</VolumePage>
+      <PublicationDate>2009</PublicationDate>
+      <Classification>Radar A037683</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1460</BibliographicNoticeId>
+      <Title>Canadian mining [electronic resource] : still unaccountable</Title>
+      <Author>Keenan, Karyn</Author>
+      <Publication>NACLA report on the Americas</Publication>
+      <VolumePage>40:29-34, 42</VolumePage>
+      <PublicationDate>May/June 2010</PublicationDate>
+      <Classification>Radar A037747</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2854</BibliographicNoticeId>
+      <Title>Canadian mining's dark heart</Title>
+      <Author>Poplak, Richard</Author>
+      <Publication>Walrus</Publication>
+      <VolumePage>13(9):26-29,31,33-39</VolumePage>
+      <PublicationDate>November 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>3640419</Id>
+      <NumberCode>C-300</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>300</Number>
+      <LongTitleEn>An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries</LongTitleEn>
+      <LongTitleFr>Loi sur la responsabilisation des sociétés à l'égard de leurs activités minières, pétrolières ou gazières dans les pays en développement</LongTitleFr>
+      <LongTitle>An Act respecting Corporate Accountability for the Activities of  Mining, Oil or Gas in Developing Countries</LongTitle>
+      <ShortTitleEn>Corporate Accountability of Mining, Oil and Gas Corporations in Developing Countries Act</ShortTitleEn>
+      <ShortTitleFr>Loi sur la responsabilisation des sociétés minières, pétrolières ou gazières dans les pays en développement</ShortTitleFr>
+      <ShortTitle>Corporate Accountability of Mining, Oil and Gas Corporations in Developing Countries Act</ShortTitle>
+      <StatusId>352</StatusId>
+      <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+      <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+      <StatusName>At consideration in committee in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60030</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>Second reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Deuxième lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>Second reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2009-04-22T15:10:00</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>Private Member's Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant d'un député</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>Private Member's Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2009-02-09T15:25:08</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime>2009-04-22T15:10:00</PassedHouseSecondReadingDateTime>
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
