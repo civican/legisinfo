@@ -1,0 +1,4 @@
+# Bill C-56: An Act to amend the Immigration and Refugee Protection Act
+
+**Sponsor**: MINISTER OF CITIZENSHIP, IMMIGRATION AND MULTICULTURALISM
+
