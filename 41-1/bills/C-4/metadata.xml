@@ -1,0 +1,724 @@
+<Bills>
+  <Bill>
+    <Id>5089199</Id>
+    <NumberCode>C-4</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>4</Number>
+    <LongTitleEn>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés et la Loi sur la sûreté du transport maritime</LongTitleFr>
+    <LongTitle>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act</LongTitle>
+    <ShortTitleEn>Preventing Human Smugglers from Abusing Canada's Immigration System Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant à empêcher les passeurs d'utiliser abusivement le système d'immigration canadien</ShortTitleFr>
+    <ShortTitle>Preventing Human Smugglers from Abusing Canada's Immigration System Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2011-06-16T12:15:32</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1836</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Vic</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Toews</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Vic Toews</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>499</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Provencher</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Provencher</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Provencher</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2011-10-03T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>25</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2011-06-16T12:15:32</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 16 June 2011, the Minister of Public Safety introduced Bill C-4, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act (Preventing Human Smugglers from Abusing Canada's Immigration System Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-4 amends the Immigration and Refugee Protection Act. Among other things it&lt;br/&gt;&lt;br/&gt;•	authorizes the Minister to designate as an irregular arrival the arrival in Canada of a group of persons, the result of which is that some of the foreign nationals in the group become designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	authorizes an officer or the Minister to refuse to consider an application for permanent residence;&lt;br/&gt;&lt;br/&gt;•	provides that a person may not become a permanent resident as long as an application by the Minister for cessation of that person's refugee protection is pending;&lt;br/&gt;&lt;br/&gt;•	adds, as grounds for the detention of a permanent resident or foreign national, the existence of reasonable grounds to suspect that the person concerned is inadmissible on grounds of serious criminality, criminality or organized criminality;&lt;br/&gt;&lt;br/&gt;•	provides that the Immigration Division must impose any prescribed conditions on the release of certain designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	provides for detention rules and a review procedure that are specific to the detention of certain designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	clarifies the authority of the Governor in Council to make regulations in respect of conditions of release from detention;&lt;br/&gt;&lt;br/&gt;•	provides that certain designated foreign nationals may not apply to become permanent residents until the expiry of a certain period;&lt;br/&gt;&lt;br/&gt;•	requires certain designated foreign nationals on whom refugee protection has been conferred to report to an officer;&lt;br/&gt;&lt;br/&gt;•	authorizes the Governor in Council to make regulations respecting the reporting requirements imposed on certain designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	provides that the offence of human smuggling is committed when a person organizes the coming into Canada of another person and knows, or is reckless as to whether, the entry into Canada is or would be in contravention of the Act;&lt;br/&gt;&lt;br/&gt;•	provides for minimum punishments for the offence of human smuggling in certain circumstances;&lt;br/&gt;&lt;br/&gt;•	in respect of the determination of the penalty to be imposed for certain offences, adds as an aggravating factor the endangerment of the life or safety of any person as a result of the commission of the offence;&lt;br/&gt;&lt;br/&gt;•	changes the definition of "criminal organization" in Part 3 to give it the same meaning as in subsection 467.1(1) of the Criminal Code; and&lt;br/&gt;&lt;br/&gt;•	extends the time for instituting proceedings by way of summary conviction from six months to five years.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Balanced Refugee Reform Act to provide that a refugee protection claimant whose claim is rejected is not prevented from applying for protection earlier than 12 months after the day on which the claim is rejected, if it is rejected as a result of a vacation of the initial decision to allow the claim.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Marine Transportation Security Act to increase the penalties for persons who fail to provide information required to be reported before a vessel enters Canadian waters or to comply with ministerial directions and for persons who provide false or misleading information. It creates a new offence for vessels that fail to comply with ministerial directions. It also amends the Act to authorize regulations respecting the disclosure of certain information for the purpose of protecting the safety or security of Canada or Canadians.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, il met à votre disposition le sommaire suivant. &lt;br/&gt;&lt;br/&gt;Le 16 juin 2011, le ministre de la Sécurité publique a déposé le projet de loi C-4, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés et la Loi sur la sûreté du transport maritime (Loi visant à empêcher les passeurs d'utiliser abusivement le système d'immigration canadien)  à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-4 modifie la Loi sur l'immigration et la protection des réfugiés. Entre outre il&lt;br/&gt;&lt;br/&gt;•	permet au ministre de désigner l'arrivée d'un groupe de personnes au Canada comme une arrivée irrégulière ayant pour conséquence que certains des étrangers faisant partie du groupe deviennent des étrangers désignés;&lt;br/&gt;&lt;br/&gt;•	permet à un agent ou au ministre de refuser de considérer la demande de résidence permanente d'une l'étranger désigné;  &lt;br/&gt;&lt;br/&gt;•	prévoit que tant que la demande visant la perte de l'asile faite par le ministre à l'égard d'une personne est pendante, celle-ci ne peut devenir résident permanent;&lt;br/&gt;&lt;br/&gt;•	ajoute comme motifs de détention du résident permanent ou de l'étranger l'existence de motifs raisonnables de soupçonner qu'il est interdit de territoire pour grande criminalité, criminalité ou criminalité organisée;&lt;br/&gt;&lt;br/&gt;•	prévoit que la Section de l'immigration impose les conditions réglementaires lors de la mise en liberté de certains étrangers désignés;&lt;br/&gt;&lt;br/&gt;•	prévoit des règles de détention et une procédure de contrôle propres à la détention de certain étrangers désignés;&lt;br/&gt;&lt;br/&gt;•	précise le pouvoir réglementaire du gouverneur en conseil en matière de conditions relatives à la mise en liberté;&lt;br/&gt;&lt;br/&gt;•	prévoit que certains étrangers désignés ne pourront faire une demande pour devenir résident permanent ou résident temporaire avant l'expiration d'une certaine période;&lt;br/&gt;&lt;br/&gt;•	prévoit que certains étrangers désignés à qui la protection est conférée doivent se rapporter à un agent;&lt;br/&gt;&lt;br/&gt;•	permet au gouverneur en conseil de prendre des règlements relatifs à l'obligation de se rapporter à un agent imposée à certains étrangers désignés;&lt;br/&gt;&lt;br/&gt;•	précise que commet toute infraction visée à l'article 117 quiconque organise l'entrée au Canada de personnes en sachant qu'une telle entrée est ou serait illégale ou en ne se souciant pas de ce fait;&lt;br/&gt;&lt;br/&gt;•	prévoit des peines minimales à l'égard de toute infraction visée à l'article 117 lorsque certaines circonstances sont prouvées;&lt;br/&gt;&lt;br/&gt;•	prévoit que, à l'égard de certaines infractions, la mise en danger de la vie ou de la sécurité d'autrui causée par certaines infractions constitue une circonstance aggravante aux fins de détermination de la peine;&lt;br/&gt;&lt;br/&gt;•	modifie la définition de « organisation criminelle », à la partie 3, pour qu'elle s'entende de celle prévue au paragraphe 467.1(1) du Code criminel; &lt;br/&gt;&lt;br/&gt;•	fait passer de six mois à cinq ans le délai de prescription à l'égard des poursuites par voie de procédure sommaire.&lt;br/&gt;&lt;br/&gt;Il modifie également la Loi sur des mesures de réforme équitables concernant les réfugiés pour qu'il ne soit pas interdit au demandeur d'asile qui voit la décision qui avait accueilli sa demande d'asile annulée de faire une demande de protection au ministre dans les douze mois suivant la décision portant annulation.&lt;br/&gt;&lt;br/&gt;Enfin, le texte modifie la Loi sur la sûreté du transport maritime pour augmenter les peines pour les personnes qui omettent de fournir des renseignements exigés préalablement à l'entrée d'un bâtiment dans les eaux canadiennes ou de se conformer aux injonctions ministérielles et pour les personnes qui fournissent des renseignements faux ou trompeurs. Il crée une nouvelle infraction pour les bâtiments qui contreviennent aux injonctions ministérielles. Il modifie également cette loi pour autoriser la prise de règlements régissant la communication de certains renseignements afin de veiller à la sûreté ou à la sécurité du Canada ou des Canadiens.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 16 June 2011, the Minister of Public Safety introduced Bill C-4, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act (Preventing Human Smugglers from Abusing Canada's Immigration System Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-4 amends the Immigration and Refugee Protection Act. Among other things it&lt;br/&gt;&lt;br/&gt;•	authorizes the Minister to designate as an irregular arrival the arrival in Canada of a group of persons, the result of which is that some of the foreign nationals in the group become designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	authorizes an officer or the Minister to refuse to consider an application for permanent residence;&lt;br/&gt;&lt;br/&gt;•	provides that a person may not become a permanent resident as long as an application by the Minister for cessation of that person's refugee protection is pending;&lt;br/&gt;&lt;br/&gt;•	adds, as grounds for the detention of a permanent resident or foreign national, the existence of reasonable grounds to suspect that the person concerned is inadmissible on grounds of serious criminality, criminality or organized criminality;&lt;br/&gt;&lt;br/&gt;•	provides that the Immigration Division must impose any prescribed conditions on the release of certain designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	provides for detention rules and a review procedure that are specific to the detention of certain designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	clarifies the authority of the Governor in Council to make regulations in respect of conditions of release from detention;&lt;br/&gt;&lt;br/&gt;•	provides that certain designated foreign nationals may not apply to become permanent residents until the expiry of a certain period;&lt;br/&gt;&lt;br/&gt;•	requires certain designated foreign nationals on whom refugee protection has been conferred to report to an officer;&lt;br/&gt;&lt;br/&gt;•	authorizes the Governor in Council to make regulations respecting the reporting requirements imposed on certain designated foreign nationals;&lt;br/&gt;&lt;br/&gt;•	provides that the offence of human smuggling is committed when a person organizes the coming into Canada of another person and knows, or is reckless as to whether, the entry into Canada is or would be in contravention of the Act;&lt;br/&gt;&lt;br/&gt;•	provides for minimum punishments for the offence of human smuggling in certain circumstances;&lt;br/&gt;&lt;br/&gt;•	in respect of the determination of the penalty to be imposed for certain offences, adds as an aggravating factor the endangerment of the life or safety of any person as a result of the commission of the offence;&lt;br/&gt;&lt;br/&gt;•	changes the definition of "criminal organization" in Part 3 to give it the same meaning as in subsection 467.1(1) of the Criminal Code; and&lt;br/&gt;&lt;br/&gt;•	extends the time for instituting proceedings by way of summary conviction from six months to five years.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Balanced Refugee Reform Act to provide that a refugee protection claimant whose claim is rejected is not prevented from applying for protection earlier than 12 months after the day on which the claim is rejected, if it is rejected as a result of a vacation of the initial decision to allow the claim.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Marine Transportation Security Act to increase the penalties for persons who fail to provide information required to be reported before a vessel enters Canadian waters or to comply with ministerial directions and for persons who provide false or misleading information. It creates a new offence for vessels that fail to comply with ministerial directions. It also amends the Act to authorize regulations respecting the disclosure of certain information for the purpose of protecting the safety or security of Canada or Canadians.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-06-16T12:15:32</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>10</Number>
+          <Date>2011-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2011-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2011-06-16T12:15:32</EventStartDateTime>
+          <EventEndDateTime>2011-06-16T12:15:32</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-06-16T12:15:32</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>12</Number>
+          <Date>2011-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>15</Number>
+          <Date>2011-09-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>16</Number>
+          <Date>2011-09-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>19</Number>
+          <Date>2011-09-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>24</Number>
+          <Date>2011-09-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>25</Number>
+          <Date>2011-10-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-10-03T15:17:13</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3919005</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1836</PersonId>
+          <PersonOfficialFirstName>Vic</PersonOfficialFirstName>
+          <PersonOfficialLastName>Toews</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Vic Toews</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>12</MeetingNumber>
+          <SpeechDateTime>2011-06-21T17:25:27</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3919119</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>20816</PersonId>
+          <PersonOfficialFirstName>Olivia</PersonOfficialFirstName>
+          <PersonOfficialLastName>Chow</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Olivia Chow</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>12</MeetingNumber>
+          <SpeechDateTime>2011-06-21T17:50:20</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>3919271</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25453</PersonId>
+          <PersonOfficialFirstName>Francis</PersonOfficialFirstName>
+          <PersonOfficialLastName>Scarpaleggia</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Francis Scarpaleggia</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>12</MeetingNumber>
+          <SpeechDateTime>2011-06-21T18:22:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>5093718</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1637</BibliographicNoticeId>
+      <Title>Insecure refugees : the narrowing of asylum-seeker rights to freedom of movement and claims determination post-9/11 in Canada</Title>
+      <Author>MacIntosh, Constance</Author>
+      <Publication>Review of constitutional studies</Publication>
+      <VolumePage>16(2):181-209</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>JL1 R49</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1638</BibliographicNoticeId>
+      <Title>Governing mobility and rights to movement post-9/11 : managing irregular and refugee migration through detention</Title>
+      <Author>Rygiel, Kim</Author>
+      <Publication>Review of constitutional studies</Publication>
+      <VolumePage>16(2):211-41</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>JL1 R49</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1628</BibliographicNoticeId>
+      <Title>Developments in Australian refugee law and policy 2010–2011 [electronic resource ]</Title>
+      <Author>Karlsen, Elibritt</Author>
+      <Publication>Commonwealth of Australia</Publication>
+      <VolumePage>1 PDF file (39 p.)</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>Radar A040806</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1849</BibliographicNoticeId>
+      <Title>Reform of [Australian] ministerial councils [Blog post] [electronic resource]</Title>
+      <Author>Lundie, Rob</Author>
+      <Publication>[Canberra] : Commonwealth of Australia</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>c2011</PublicationDate>
+      <Classification>Radar 20110322</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1833</BibliographicNoticeId>
+      <Title>Australian asylum policy all at sea : an analysis of "Plaintiff M70/2011 v Minister for Immigration and Citizenship" and the Australia-Malaysia Arrangement</Title>
+      <Author>Wood, Tamara</Author>
+      <Publication>International and comparative law quarterly</Publication>
+      <VolumePage>61:274-300</VolumePage>
+      <PublicationDate>Jan. 2012</PublicationDate>
+      <Classification>K9 N583</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>4696220</Id>
+      <NumberCode>C-49</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>49</Number>
+      <LongTitleEn>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés et la Loi sur la sûreté du transport maritime</LongTitleFr>
+      <LongTitle>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act</LongTitle>
+      <ShortTitleEn>Preventing Human Smugglers from Abusing Canada's Immigration System Act</ShortTitleEn>
+      <ShortTitleFr>Loi visant à empêcher les passeurs d'utiliser abusivement le système d'immigration canadien</ShortTitleFr>
+      <ShortTitle>Preventing Human Smugglers from Abusing Canada's Immigration System Act</ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2010-10-21T10:14:50</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>3</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2010-10-21T10:14:50</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
