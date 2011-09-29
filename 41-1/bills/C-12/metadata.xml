@@ -1,0 +1,853 @@
+<Bills>
+  <Bill>
+    <Id>5134895</Id>
+    <NumberCode>C-12</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>12</Number>
+    <LongTitleEn>An Act to amend the Personal Information Protection and Electronic Documents Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques</LongTitleFr>
+    <LongTitle>An Act to amend the Personal Information Protection and Electronic Documents Act</LongTitle>
+    <ShortTitleEn>Safeguarding Canadians' Personal Information Act</ShortTitleEn>
+    <ShortTitleFr>Loi protégeant les renseignements personnels des Canadiens</ShortTitleFr>
+    <ShortTitle>Safeguarding Canadians' Personal Information Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2011-09-29T10:10:31</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35422</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Christian</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Paradis</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Christian Paradis</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Industry and Minister of State (Agriculture)</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Industrie et ministre d'État (Agriculture)</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Industry and Minister of State (Agriculture)</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>371</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Mégantic—L'Érable</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Mégantic—L'Érable</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Mégantic—L'Érable</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2011-09-29T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>23</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2011-09-29T10:10:31</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 29 September 2011, the Minister Industry and Minister of State (Agriculture) introduced Bill C-12, An Act to amend the Personal Information Protection and Electronic Documents Act (Safeguarding Canadians' Personal Information Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;The bill amends the Personal Information Protection and Electronic Documents Act. Among other things, it&lt;br/&gt;&lt;br/&gt;•	outlines what constitutes valid consent for the collection, use or disclosure of personal information;&lt;br/&gt;&lt;br/&gt;•	proposes additional exceptions permitting the disclosure of personal information without the knowledge or consent of the individual in order to allow for the release of personal information to help protect victims of financial abuse, to help locate missing persons and to identify injured, ill or deceased individuals;&lt;br/&gt;&lt;br/&gt;•	clarifies the meaning of lawful authority for the purpose of disclosures to government institutions of personal information without the knowledge or consent of the individual;&lt;br/&gt;&lt;br/&gt;•	permits organizations, for certain purposes, to collect, use and disclose, without the knowledge or consent of the individual, personal information contained in witness statements related to insurance claims, or produced by the individual in the course of their employment, business or profession;&lt;br/&gt;&lt;br/&gt;•	permits organizations, for certain purposes, to use and disclose, without the knowledge or consent of the individual, personal information related to prospective or completed business transactions;&lt;br/&gt;&lt;br/&gt;•	permits federal works, undertakings and businesses to collect, use and disclose personal information without the knowledge or consent of the individual to establish, manage or terminate employment relationships;&lt;br/&gt;&lt;br/&gt;•	provides a framework for organizations to notify individuals proactively about disclosures of their personal information made in certain circumstances to government institutions; and&lt;br/&gt;&lt;br/&gt;•	requires organizations to report material breaches of security safeguards to the Privacy Commissioner and to notify certain individuals and organizations of breaches that create a real risk of significant harm.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 29 septembre 2011, le ministre de l'Industrie et ministre d'État (Agriculture) a déposé à la Chambre des communes le projet de loi C 12 : Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques, (Loi protégeant les renseignements personnels des Canadiens), qui a franchi l'étape de la première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi modifie la Loi sur la protection des renseignements personnels et les documents électroniques. Il a notamment pour effet&lt;br/&gt;&lt;br/&gt;•	de cerner les éléments nécessaires à la validité du consentement à la collecte, l'utilisation ou la communication de renseignements personnels;&lt;br/&gt;&lt;br/&gt;•	prévoit des exceptions supplémentaires dans le but d'autoriser la divulgation de renseignements personnels à l'insu de l'intéressé ou sans son consentement pour aider à protéger des victimes éventuelles d'exploitation financière, à repérer des personnes disparues ou à identifier des personnes blessées, malades ou décédées.&lt;br/&gt;&lt;br/&gt;•	de clarifier la notion d'autorité légitime aux fins de communication de renseignements personnels à une institution gouvernementale, à l'insu de l'intéressé ou sans son consentement;&lt;br/&gt;&lt;br/&gt;•	de permettre à l'organisation de recueillir, d'utiliser ou de communiquer des renseignements personnels, à l'insu de l'intéressé ou sans son consentement et à certaines fins, dans les cas où ils sont contenus dans la déclaration d'un témoin relative à la déclaration d'un sinistre; ou s'ils sont produits par l'intéressé dans le cadre de son emploi, de son entreprise ou de sa profession;&lt;br/&gt;&lt;br/&gt;•	de permettre à l'organisation d'utiliser ou de communiquer, à l'insu de l'intéressé ou sans son consentement et à certaines fins, des renseignements personnels afférents à une éventuelle transaction commerciale ou à une transaction commerciale qui a été effectuée;&lt;br/&gt;&lt;br/&gt;•	de permettre à l'entreprise fédérale de recueillir, d'utiliser ou de communiquer des renseignements personnels à l'insu de l'intéressé ou sans son consentement afin d'établir ou de gérer la relation d'emploi entre elle et lui, ou d'y mettre fin;&lt;br/&gt;&lt;br/&gt;•	d'établir un cadre pour permettre à l'organisation d'aviser l'intéressé, de sa propre initiative, de la communication de renseignements personnels le concernant faite, dans certaines circonstances, à une institution gouvernementale;&lt;br/&gt;&lt;br/&gt;•	d'exiger que l'organisation déclare au Commissaire à la protection de la vie privée les atteintes importantes aux mesures de sécurité et avise des individus et organisations particuliers des atteintes qui présentent un risque réel de préjudice grave.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 29 September 2011, the Minister Industry and Minister of State (Agriculture) introduced Bill C-12, An Act to amend the Personal Information Protection and Electronic Documents Act (Safeguarding Canadians' Personal Information Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;The bill amends the Personal Information Protection and Electronic Documents Act. Among other things, it&lt;br/&gt;&lt;br/&gt;•	outlines what constitutes valid consent for the collection, use or disclosure of personal information;&lt;br/&gt;&lt;br/&gt;•	proposes additional exceptions permitting the disclosure of personal information without the knowledge or consent of the individual in order to allow for the release of personal information to help protect victims of financial abuse, to help locate missing persons and to identify injured, ill or deceased individuals;&lt;br/&gt;&lt;br/&gt;•	clarifies the meaning of lawful authority for the purpose of disclosures to government institutions of personal information without the knowledge or consent of the individual;&lt;br/&gt;&lt;br/&gt;•	permits organizations, for certain purposes, to collect, use and disclose, without the knowledge or consent of the individual, personal information contained in witness statements related to insurance claims, or produced by the individual in the course of their employment, business or profession;&lt;br/&gt;&lt;br/&gt;•	permits organizations, for certain purposes, to use and disclose, without the knowledge or consent of the individual, personal information related to prospective or completed business transactions;&lt;br/&gt;&lt;br/&gt;•	permits federal works, undertakings and businesses to collect, use and disclose personal information without the knowledge or consent of the individual to establish, manage or terminate employment relationships;&lt;br/&gt;&lt;br/&gt;•	provides a framework for organizations to notify individuals proactively about disclosures of their personal information made in certain circumstances to government institutions; and&lt;br/&gt;&lt;br/&gt;•	requires organizations to report material breaches of security safeguards to the Privacy Commissioner and to notify certain individuals and organizations of breaches that create a real risk of significant harm.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-09-29T10:10:31</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>23</Number>
+          <Date>2011-09-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2011-09-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2011-09-29T10:10:31</EventStartDateTime>
+          <EventEndDateTime>2011-09-29T10:10:31</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-09-29T10:10:31</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>5144601</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Introduces Amendments to the Personal Information Protection and Electronic Documents Act (PIPEDA)</TitleEn>
+      <TitleFr>Le gouvernement du Canada réintroduit des modifications à la Loi sur la protection des renseignements personnels et les documents électroniques (LPRPDE)</TitleFr>
+      <Title>Government of Canada Introduces Amendments to the Personal Information Protection and Electronic Documents Act (PIPEDA)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Moves to Enhance Privacy of Individuals during Commercial Transactions</TitleEn>
+      <TitleFr>Le gouvernement du Canada prend des mesures pour améliorer la protection des renseignements personnels lors de transactions commerciales</TitleFr>
+      <Title>Government of Canada Moves to Enhance Privacy of Individuals during Commercial Transactions</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Online Privacy Law (Law Library of Congress. Global Legal Research Centre. Prepared for The 2012 American Association of Law Libraries Annual Meeting and Conference, Boston, MA, July 21-24, 2012)</TitleEn>
+      <TitleFr>Online Privacy Law (Law Library of Congress. Global Legal Research Centre. Prepared for The 2012 American Association of Law Libraries Annual Meeting and Conference, Boston, MA, July 21-24, 2012)</TitleFr>
+      <Title>Online Privacy Law (Law Library of Congress. Global Legal Research Centre. Prepared for The 2012 American Association of Law Libraries Annual Meeting and Conference, Boston, MA, July 21-24, 2012)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.loc.gov/law/help/online-privacy-law.php</UrlEn>
+      <UrlFr>http://www.loc.gov/law/help/online-privacy-law.php</UrlFr>
+      <Url>http://www.loc.gov/law/help/online-privacy-law.php</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>David T.S. Fraser's Privacy Law Resources (David T.S. Fraser)</TitleEn>
+      <TitleFr>David T.S. Fraser's Privacy Law Resources (David T.S. Fraser)</TitleFr>
+      <Title>David T.S. Fraser's Privacy Law Resources (David T.S. Fraser)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.privacylawyer.ca/</UrlEn>
+      <UrlFr>http://www.privacylawyer.ca/</UrlFr>
+      <Url>http://www.privacylawyer.ca/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Privacy in the Digital Economy (Industry Canada)</TitleEn>
+      <TitleFr>Protection des renseignements personnels dans l'économie numérique (Industrie Canada)</TitleFr>
+      <Title>Privacy in the Digital Economy (Industry Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.ic.gc.ca/eic/site/ecic-ceac.nsf/eng/h_gv00045.html</UrlEn>
+      <UrlFr>http://www.ic.gc.ca/eic/site/ecic-ceac.nsf/fra/h_gv00045.html</UrlFr>
+      <Url>http://www.ic.gc.ca/eic/site/ecic-ceac.nsf/eng/h_gv00045.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Privacy Commissioner of Canada</TitleEn>
+      <TitleFr>Commissariat à la protection de la vie privée du Canada</TitleFr>
+      <Title>Office of the Privacy Commissioner of Canada</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.priv.gc.ca/</UrlEn>
+      <UrlFr>http://www.priv.gc.ca/information/index_f.asp</UrlFr>
+      <Url>http://www.priv.gc.ca/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Annual Reports to Parliament on the Personal Information Protection and Electronic Documents Act (Office of the Privacy Commissioner of Canada, 2000-present)</TitleEn>
+      <TitleFr>Rapports annuels au Parlement concernant la Loi sur la protection des renseignements personnels et les documents électroniques (Commissariat à la protection de la vie privée du Canada, 2000-présent)</TitleFr>
+      <Title>Annual Reports to Parliament on the Personal Information Protection and Electronic Documents Act (Office of the Privacy Commissioner of Canada, 2000-present)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.priv.gc.ca/information/02_05_b_e.asp</UrlEn>
+      <UrlFr>http://www.priv.gc.ca/information/02_05_b_f.asp</UrlFr>
+      <Url>http://www.priv.gc.ca/information/02_05_b_e.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Fact Sheets – Application of PIPEDA (Office of the Privacy Commissioner of Canada)</TitleEn>
+      <TitleFr>Fiches d'information – Application de la LPRPDE (Commissariat à la protection de la vie privée du Canada)</TitleFr>
+      <Title>Fact Sheets – Application of PIPEDA (Office of the Privacy Commissioner of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.priv.gc.ca/resource/fs-fi/index_e.asp</UrlEn>
+      <UrlFr>http://www.priv.gc.ca/resource/fs-fi/index_f.asp</UrlFr>
+      <Url>http://www.priv.gc.ca/resource/fs-fi/index_e.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legal information related to PIPEDA (Office of the Privacy Commissioner of Canada)</TitleEn>
+      <TitleFr>Renseignements juridiques associés à la LPRPDE (Commissariat à la protection de la vie privée du Canada)</TitleFr>
+      <Title>Legal information related to PIPEDA (Office of the Privacy Commissioner of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.priv.gc.ca/leg_c/leg_c_p_e.asp</UrlEn>
+      <UrlFr>http://www.priv.gc.ca/leg_c/leg_c_p_f.asp</UrlFr>
+      <Url>http://www.priv.gc.ca/leg_c/leg_c_p_e.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Powers and Functions of the Ombudsman in the Personal Information Protection and Electronic Documents Act: An Effectiveness Study (France Houle, Lorne Sossin. Commissioned by the Office of the Privacy Commissioner of Canada, August 2010)</TitleEn>
+      <TitleFr>Les pouvoirs et fonctions de l'ombudsman dans la Loi sur la protection des renseignements personnels et les documents électroniques : une étude d'effectivité (France Houle, Lorne Sossin. Commandée par le Commissariat à la protection de la vie privée du Canada, août 2010)</TitleFr>
+      <Title>Powers and Functions of the Ombudsman in the Personal Information Protection and Electronic Documents Act: An Effectiveness Study (France Houle, Lorne Sossin. Commissioned by the Office of the Privacy Commissioner of Canada, August 2010)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.priv.gc.ca/information/research-recherche/2010/pipeda_h_s_e.asp</UrlEn>
+      <UrlFr>http://www.priv.gc.ca/information/research-recherche/2010/pipeda_h_s_f.asp</UrlFr>
+      <Url>http://www.priv.gc.ca/information/research-recherche/2010/pipeda_h_s_e.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Study - Statutory Review of the Personal Information Protection and Electronic Documents Act (House of Commons. Standing Committee on Access to Information, Privacy and Ethics, 39th Parliament, 1st Session)</TitleEn>
+      <TitleFr>Étude - Examen, prévu par la loi, de la Loi sur la protection des renseignements personnels et les documents électroniques (Chambre des communes. Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique, 39e Législature, 1re Session)</TitleFr>
+      <Title>Study - Statutory Review of the Personal Information Protection and Electronic Documents Act (House of Commons. Standing Committee on Access to Information, Privacy and Ethics, 39th Parliament, 1st Session)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.parl.gc.ca/CommitteeBusiness/StudyActivityHome.aspx?Cmte=ETHI&amp;Language=E&amp;Mode=1&amp;Parl=39&amp;Ses=1&amp;Stac=1749674</UrlEn>
+      <UrlFr>http://www.parl.gc.ca/CommitteeBusiness/StudyActivityHome.aspx?Cmte=ETHI&amp;Mode=1&amp;Parl=39&amp;Ses=1&amp;Stac=1749674&amp;Language=F</UrlFr>
+      <Url>http://www.parl.gc.ca/CommitteeBusiness/StudyActivityHome.aspx?Cmte=ETHI&amp;Language=E&amp;Mode=1&amp;Parl=39&amp;Ses=1&amp;Stac=1749674</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Protection of personal data (European Commission)</TitleEn>
+      <TitleFr>Protection des données à caractère personnel (Commission européenne)</TitleFr>
+      <Title>Protection of personal data (European Commission)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://ec.europa.eu/justice/data-protection/index_en.htm</UrlEn>
+      <UrlFr>http://ec.europa.eu/justice/data-protection/index_fr.htm</UrlFr>
+      <Url>http://ec.europa.eu/justice/data-protection/index_en.htm</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2209</BibliographicNoticeId>
+      <Title>Federal and provincial initiatives to facilitate electronic commerce</Title>
+      <Author>Thibodeau, Maxime-Olivier</Author>
+      <Publication>Parliamentary Information and Research Service ; no. 2008-61-E</Publication>
+      <VolumePage>Ottawa : Library of Parliament</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>FC51 P722 no.2008-61-E 2012 July 18</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2210</BibliographicNoticeId>
+      <Title>Mesures gouvernementales pour faciliter le commerce électronique</Title>
+      <Author>Thibodeau, Maxime-Olivier</Author>
+      <Publication>Service d'information et de recherche parlementaires ; no 2008-61-F</Publication>
+      <VolumePage>Ottawa : Bibliothèque du Parlement</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>FC51 P7221 no2008-61-F 2012 18 juil.</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2211</BibliographicNoticeId>
+      <Title>Protection of personal information in the private sector [electronic resource]</Title>
+      <Author>Johansen, David, Nancy Homes, and Lindsay Beatty</Author>
+      <Publication>Topical information for parliamentarians ; TIPS-102E</Publication>
+      <VolumePage>Ottawa : Library of Parliament, 2007</VolumePage>
+      <PublicationDate>1 PDF file (4 p.)</PublicationDate>
+      <Classification>FC51 T66 TIPS-102E</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2212</BibliographicNoticeId>
+      <Title>Protection des renseignements personnels dans le secteur privé [ressource électronique]</Title>
+      <Author>Johansen, David, Nancy Homes, et Lindsay Beatty</Author>
+      <Publication>Capsule d'information pour les parlementaires ; TIPS-102F</Publication>
+      <VolumePage>Ottawa : Bibliothèque du Parlement, 2007</VolumePage>
+      <PublicationDate>fichier PDF (4 p.)</PublicationDate>
+      <Classification>FC51 T661 TIPS-102F</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2213</BibliographicNoticeId>
+      <Title>Privacy law in the private sector : an annotation of the legislation in Canada</Title>
+      <Author>Platt, Priscilla, Lise Jendlisz, and Daphne Intrator</Author>
+      <Publication>Aurora, Ont. : Canada Law Book, 2002-</Publication>
+      <VolumePage>2 v. (loose-leaf)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE1240 A6 P42</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2214</BibliographicNoticeId>
+      <Title>The law of privacy in Canada</Title>
+      <Author>McIsaac, Barbara, Rick Shields, and Kris Klein</Author>
+      <Publication>Scarborough, Ont. : Carswell, c2000-</Publication>
+      <VolumePage>2 v. (loose-leaf)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE1240 M24</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2215</BibliographicNoticeId>
+      <Title>Privacy and social media in the age of big data [electronic resource] : report of the Standing Committee on Access to Information, Privacy and Ethics</Title>
+      <Author>Canada. Parliament. House of Commons. Standing Committee on Access to ..</Author>
+      <Publication>Ottawa : House of Commons Canada, 2013</Publication>
+      <VolumePage>1 PDF file (viii, 99 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>J103 H7 41-1 A185 A14</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2216</BibliographicNoticeId>
+      <Title>Protection de la vie privée et médias sociaux à l'ère des mégadonnées [ressource électronique] : rapport du Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</Title>
+      <Author>Canada. Parlement. Chambre des communes. Comité permanent de l'accès à ..</Author>
+      <Publication>Ottawa : Chambre des communes Canada, 2013</Publication>
+      <VolumePage>1 fichier PDF (viii, 107 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>J103 H7 41-1 A185 A14f</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2217</BibliographicNoticeId>
+      <Title>Stoddart terms Bill C-12 "a lost cause" [electronic resource]</Title>
+      <Author>Guly, Christopher</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>33:9</VolumePage>
+      <PublicationDate>June 21, 2013</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1585</BibliographicNoticeId>
+      <Title>Upcoming PIPEDA [Personal Information Protection and Electronic Documents Act (Bill C-12)] amendments [Blog post]</Title>
+      <Author>Canton, David</Author>
+      <Publication>Slaw</Publication>
+      <VolumePage>1-10</VolumePage>
+      <PublicationDate>December 7, 2011</PublicationDate>
+      <Classification>Radar A040194</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1587</BibliographicNoticeId>
+      <Title>The other kind of cyberwar</Title>
+      <Author>Starks, Tim</Author>
+      <Publication>Congressional quarterly weekly report</Publication>
+      <VolumePage>69:2642-43</VolumePage>
+      <PublicationDate>Dec. 22, 2011</PublicationDate>
+      <Classification>JK1 C15</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1594</BibliographicNoticeId>
+      <Title>Data breaches [electronic resource] : worth noticing?</Title>
+      <Author>Lawford, John</Author>
+      <Publication>Public Interest Advocacy Centre</Publication>
+      <VolumePage>1 PDF file (116 p.)</VolumePage>
+      <PublicationDate>January 2012</PublicationDate>
+      <Classification>Radar A040345</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1630</BibliographicNoticeId>
+      <Title>Shifting the burden of software licensing agreements [electronic resource]</Title>
+      <Author>Gilstrap, Stephen S</Author>
+      <Publication>Yale law journal</Publication>
+      <VolumePage>121:1271-84</VolumePage>
+      <PublicationDate>Mar. 2012</PublicationDate>
+      <Classification>K29 A4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1785</BibliographicNoticeId>
+      <Title>Privacy law a bomb waiting to go off</Title>
+      <Author>Cardwell, Mark</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>36:44-6</VolumePage>
+      <PublicationDate>May 2012</PublicationDate>
+      <Classification>K3 A494</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1649</BibliographicNoticeId>
+      <Title>Privacy : a foreign concept?</Title>
+      <Author>Ali, Ambreen</Author>
+      <Publication>Congressional quarterly weekly report</Publication>
+      <VolumePage>70:638</VolumePage>
+      <PublicationDate>Apr. 2, 2012</PublicationDate>
+      <Classification>JK1 C15</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1835</BibliographicNoticeId>
+      <Title>Unwarranted access [electronic resource]?</Title>
+      <Author>Singer, Leo</Author>
+      <Publication>National</Publication>
+      <VolumePage>21:16-21</VolumePage>
+      <PublicationDate>June 2012</PublicationDate>
+      <Classification>K14 A85</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>4543568</Id>
+      <NumberCode>C-29</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>29</Number>
+      <LongTitleEn>An Act to amend the Personal Information Protection and Electronic Documents Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques</LongTitleFr>
+      <LongTitle>An Act to amend the Personal Information Protection and Electronic Documents Act</LongTitle>
+      <ShortTitleEn>Safeguarding Canadians' Personal Information Act</ShortTitleEn>
+      <ShortTitleFr>Loi protégeant les renseignements personnels des Canadiens</ShortTitleFr>
+      <ShortTitle>Safeguarding Canadians' Personal Information Act</ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2010-05-25T10:07:34</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>3</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2010-05-25T10:07:34</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
