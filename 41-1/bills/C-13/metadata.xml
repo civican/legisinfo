@@ -1,0 +1,1351 @@
+<Bills>
+  <Bill>
+    <Id>5145722</Id>
+    <NumberCode>C-13</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>13</Number>
+    <LongTitleEn>An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</LongTitleEn>
+    <LongTitleFr>Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures</LongTitleFr>
+    <LongTitle>An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</LongTitle>
+    <ShortTitleEn>Keeping Canada's Economy and Jobs Growing Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le soutien de la croissance de l'économie et de l'emploi au Canada</ShortTitleFr>
+    <ShortTitle>Keeping Canada's Economy and Jobs Growing Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2011-12-15T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35751</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jim</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Flaherty</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jim Flaherty</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>485</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Whitby—Oshawa</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Whitby—Oshawa</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Whitby—Oshawa</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2011-12-15T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>43</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2011-10-04T10:05:59</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2011-10-17T18:30:21</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2011-11-21T18:30:39</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2011-11-22T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2011-11-24T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2011-12-13T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2011-12-15T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for budget implementation bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 4 October 2011, the Minister of Finance introduced Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (Keeping Canada's Economy and Jobs Growing Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements income tax measures and related measures proposed in the 2011 budget. Among other things it:&lt;br/&gt;&lt;br/&gt;•	introduces the family caregiver tax credit for caregivers of infirm dependent relatives;&lt;br/&gt;•	introduces the children's arts tax credit on up to $500 per child of eligible fees associated with children's artistic, cultural, recreational and developmental activities;&lt;br/&gt;•	introduces a volunteer firefighters tax credit to allow eligible volunteer firefighters to claim a 15% non-refundable tax credit based on an amount of $3,000;&lt;br/&gt;•	eliminates the rule that limits the number of claimants for the child tax credit to one per domestic establishment;&lt;br/&gt;•	removes the $10,000 limit on eligible expenses that can be claimed under the medical expense tax credit in respect of a dependent relative;&lt;br/&gt;•	increases the advance payment threshold for the Canada child tax benefit to $20 per month and for the GST/HST credit to $50 per quarter;&lt;br/&gt;•	allows the tuition tax credit to be claimed for eligible occupational, trade and professional examination fees;&lt;br/&gt;•	allows the reallocation of assets in registered education savings plans for siblings without incurring tax penalties;&lt;br/&gt;•	extends to the end of 2013 the temporary accelerated capital cost allowance treatment for investment in machinery and equipment in the manufacturing and processing sector;&lt;br/&gt;•	expands eligibility for the accelerated capital cost allowance for clean energy generation and conservation equipment;&lt;br/&gt;•	extends eligibility for the mineral exploration tax credit by one year to flow-through share agreements entered into before March 31, 2012;&lt;br/&gt;•	expands the eligibility rules for qualifying environmental trusts;&lt;br/&gt;•	amends the deduction rates for intangible capital costs in the oil sands sector;&lt;br/&gt;•	introduces rules to strengthen the tax regime for charitable donations;&lt;br/&gt;•	introduces anti-avoidance rules for registered retirement savings plans and registered retirement income funds;&lt;br/&gt;•	introduces rules to limit tax deferral opportunities for individual pension plans;&lt;br/&gt;•	introduces rules to limit tax deferral opportunities for corporations with significant interests in partnerships; and&lt;br/&gt;•	extends the dividend stop-loss rules to dividends deemed to be received on the redemption of shares held by certain corporations.&lt;br/&gt;&lt;br/&gt;Part 1 also implements other selected income tax measures and related measures. Most of these measures were referred to in the 2011 budget as previously announced measures.  Among other things it&lt;br/&gt;•	clarifies that the "financially dependent" test applies for the purposes of provisions that permit rollovers of the assets of a deceased taxpayer's registered retirement savings plan or registered retirement income fund to an infirm child or grandchild's registered disability savings plan;&lt;br/&gt;•	clarifies the rules applicable to the scholarship exemption for post-secondary scholarships, fellowships and bursaries; and&lt;br/&gt;•	amends the pension-to-registered retirement savings plan transfer limits in situations where the accrued pension amount was reduced due to the insolvency of the employer and underfunding of the employer's registered pension plan.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Softwood Lumber Products Export Charge Act, 2006 to implement the softwood lumber ruling rendered by the London Court of International Arbitration on January 21, 2011.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Customs Tariff in order to simplify it and reduce the customs processing burden for Canadians by consolidating similar tariff items that have the same tariff rates and removing end-use provisions where appropriate. The amendments also simplify the structure of some provisions and remove obsolete provisions.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Customs Tariff to introduce new tariff items to facilitate the processing of low value non-commercial imports arriving by post or by courier.&lt;br/&gt;&lt;br/&gt;Part 5 amends the Canada Education Savings Act to make the additional amount of a Canada Education Savings grant that is available under subsection 5(4) of that Act available to more than one of the beneficiary's parents, if they share custody of the beneficiary, they are eligible individuals as defined in section 122.6 of the Income Tax Act and the beneficiary is a qualified dependant of each of them.&lt;br/&gt;&lt;br/&gt;Part 6 amends the Children's Special Allowances Act and a regulation made under that Act respecting payments relating to children under care.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Canada Student Financial Assistance Act to provide that the maximum aggregate amount of outstanding student loans is to be determined by regulation, to remove the power of the Minister of Human Resources and Skills Development to deny certificates of eligibility, and to change the limitation period for the Minister to take administrative measures. It also authorizes the Minister to forgive portions of family physicians', nurses' and nurse practitioners' student loans if they begin to work in under-served rural or remote communities.&lt;br/&gt;&lt;br/&gt;Part 8 amends Part IV of the Employment Insurance Act to provide a temporary measure to refund a portion of employer premiums for small business. An employer whose premiums were $10,000 or less in 2010 will be refunded the increase in 2011 premiums over those paid in 2010, to a maximum of $1,000.&lt;br/&gt;&lt;br/&gt;Part 9 provides for payments to be made to provinces, territories, municipalities, First Nations and other entities for municipal infrastructure improvements.&lt;br/&gt;&lt;br/&gt;Part 10 amends the Canadian Securities Regulation Regime Transition Office Act so that funding for the Canadian Securities Regulation Regime Transition Office may be fixed through an appropriation Act.&lt;br/&gt;&lt;br/&gt;Part 11 amends the Wage Earner Protection Program Act to extend in certain circumstances the period during which wages earned by individuals but not paid to them by their employers who are bankrupt or subject to receivership may be the subject of a payment under that Act.&lt;br/&gt;&lt;br/&gt;Part 12 amends the Canadian Human Rights Act to repeal certain provisions that provide for mandatory retirement. It also amends the Canada Labour Code to repeal a provision that denies employees the right to severance pay for involuntary termination if they are entitled to a pension. Finally, it amends the Conflict of Interest Act.&lt;br/&gt;&lt;br/&gt;Part 13 amends the Judges Act to permit the appointment of two additional judges to the Nunavut Court of Justice.&lt;br/&gt;&lt;br/&gt;Part 14 provides for the retroactive coming into force of section 9 of the Nordion and Theratronics Divestiture Authorization Act in order to ensure the validity of pension regulations made under that section.&lt;br/&gt;&lt;br/&gt;Part 15 amends the Canada Pension Plan to include amounts received by an employee under an employer-funded disability plan in contributory salary and wages.&lt;br/&gt;&lt;br/&gt;Part 16 amends the Jobs and Economic Growth Act to replace the reference to the Treasury Board Secretariat with a reference to the Chief Human Resources Officer in subsections 10(4) and 38.1(1) of the Public Servants Disclosure Protection Act.&lt;br/&gt;&lt;br/&gt;Part 17 amends the Department of Veterans Affairs Act to include a definition of dependant and to provide express regulation-making authority for the provision of certain benefits in non-institutional locations.&lt;br/&gt;&lt;br/&gt;Part 18 amends the Canada Elections Act to phase out quarterly allowances to registered parties.&lt;br/&gt;&lt;br/&gt;Part 19 amends the Special Retirement Arrangements Act to permit the reservation of pension contributions from any benefit that is or becomes payable to a person. &lt;br/&gt;&lt;br/&gt;Part 20 amends the Motor Vehicle Safety Act to allow residents of Canada to temporarily import a rental vehicle from the United States for up to 30 days, or for any other prescribed period, for non-commercial use. &lt;br/&gt;&lt;br/&gt;Part 21 amends the Federal-Provincial Fiscal Arrangements Act to clarify the legislative framework pertaining to payments under tax agreements entered into with provinces under Part III.1 of that Act.&lt;br/&gt;&lt;br/&gt;Part 22 amends the Department of Human Resources and Skills Development Act to change the residency requirements of certain commissioners.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La Bibliothèque du Parlement ne prépare pas de Résumés législatifs pour les projets de loi portant exécution du budget. Ce qui suit est un court résumé : &lt;br/&gt;&lt;br/&gt;Le 4 octobre 2011, le projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures (Loi sur le soutien de la croissance de l'économie et de l'emploi au Canada), a été déposé aux Communes par le ministre des Finance et lu pour la première fois.&lt;br/&gt;&lt;br/&gt;La partie 1 met en oeuvre des mesures concernant l'impôt sur le revenu proposées dans le budget du 4 mars 2010 afin, notamment :&lt;br/&gt;&lt;br/&gt;La partie 1 met en oeuvre des mesures concernant l'impôt sur le revenu proposées dans le budget de 2011 afin, notamment&lt;br/&gt;&lt;br/&gt;•	d'instaurer le crédit d'impôt pour aidants familiaux à l'intention des aidants naturels qui prennent soin d'un proche à charge ayant une déficience;&lt;br/&gt;•	d'instaurer le crédit d'impôt pour les activités artistiques des enfants, qui s'applique à un montant maximal de 500 $ par enfant de frais admissibles associés aux activités artistiques, culturelles, récréatives ou d'épanouissement des enfants;&lt;br/&gt;•	d'instaurer le crédit d'impôt pour les pompiers volontaires afin que les pompiers volontaires admissibles puissent demander un crédit d'impôt non remboursable de 15 % fondé sur une somme de 3 000 $;&lt;br/&gt;•	d'éliminer la règle qui limite le nombre de personnes pouvant demander le crédit d'impôt pour enfants à une personne par établissement domestique;&lt;br/&gt;•	d'abolir le plafond de 10 000 $ applicable aux dépenses admissibles pouvant être déduites au titre du crédit d'impôt pour frais médicaux à l'égard d'un proche à charge;&lt;br/&gt;•	de hausser le seuil des paiements anticipés à 20 $ par mois, dans le cas de la Prestation fiscale canadienne pour enfants, et à 50 $ par trimestre, dans le cas du crédit pour la TPS/TVH;&lt;br/&gt;•	de faire en sorte que les frais d'examen professionnel donnent droit au crédit d'impôt pour frais de scolarité;&lt;br/&gt;•	de permettre que les actifs de régimes enregistrés d'épargne-études soient répartis entre frères et soeurs sans entraîner l'application d'un impôt de pénalité;&lt;br/&gt;•	de prolonger jusqu'à la fin de 2013 l'application de la déduction temporaire pour amortissement accéléré aux investissements dans les machines et le matériel dans les secteurs de la fabrication et de la transformation;&lt;br/&gt;•	d'élargir l'admissibilité à la déduction pour amortissement accéléré visant le matériel de production d'énergie propre et de conservation de l'énergie;&lt;br/&gt;•	de prolonger d'une année l'admissibilité au crédit d'impôt pour exploration minière, de manière à inclure les conventions d'émission d'actions accréditives conclues avant le 31 mars 2012;&lt;br/&gt;•	d'élargir les règles d'admissibilité applicables aux fiducies pour l'environnement admissibles;&lt;br/&gt;•	de modifier les taux de déduction applicables aux coûts en capital relatifs aux actifs incorporels dans le secteur des sables bitumineux;&lt;br/&gt;•	d'instaurer des règles visant à renforcer le régime fiscal applicable aux dons de bienfaisance;&lt;br/&gt;•	d'instaurer des règles anti-évitement à l'égard des régimes enregistrés d'épargne-retraite et des fonds enregistrés de revenu de retraite;&lt;br/&gt;•	d'instaurer des règles limitant les possibilités de report d'impôt des régimes de retraite individuels;&lt;br/&gt;•	d'instaurer des règles limitant les possibilités de report d'impôt dans le cas des sociétés détenant une participation importante dans des sociétés de personnes;&lt;br/&gt;•	d'appliquer les règles sur la limitation des pertes sur dividendes aux dividendes réputés avoir été reçus lors du rachat d'actions détenues par certaines sociétés.&lt;br/&gt;&lt;br/&gt;Elle met aussi en oeuvre d'autres mesures concernant l'impôt sur le revenu et des mesures connexes. La plupart de ces mesures figuraient dans la liste des mesures annoncées précédemment du budget de 2011 et visent notamment :&lt;br/&gt;•	à préciser que le critère de la personne « financièrement à charge » s'applique dans le cadre des dispositions qui permettent que les actifs d'un régime enregistré d'épargne-retraite ou d'un fonds enregistré de revenu de retraite d'une personne décédée soient transférés au régime enregistré d'épargne-invalidité d'un enfant ou d'un petit-enfant ayant une déficience;&lt;br/&gt;•	à préciser les règles applicables à l'exemption pour bourses d'études ou de perfectionnement ;&lt;br/&gt;•	à modifier les règles concernant le plafond applicable aux transferts de prestations de retraite à un régime enregistré d'épargne-retraite dans le cas où le montant des prestations accumulées a été réduit en raison de l'insolvabilité de l'employeur et de la sous-capitalisation de son régime de pension agréé.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi de 2006 sur les droits d'exportation de produits de bois d'oeuvre pour mettre en oeuvre la décision rendue le 21 janvier 2011 par la Cour d'arbitrage international de Londres sur le bois d'oeuvre résineux.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie le Tarif des douanes pour le simplifier. Les modifications regroupent les numéros tarifaires similaires qui ont le même taux tarifaire et suppriment certaines dispositions concernant l'utilisation finale pour réduire le fardeau relatif à la procédure douanière pour les Canadiens. Les modifications simplifient la structure de certaines dispositions et suppriment des dispositions caduques.&lt;br/&gt;&lt;br/&gt;La partie 4 modifie le Tarif des douanes afin d'ajouter de nouveaux numéros tarifaires pour faciliter le traitement des importations non commerciales de faible valeur expédiées par la poste ou par messager.&lt;br/&gt;&lt;br/&gt;La partie 5 modifie la Loi canadienne sur l'épargne-études afin de permettre aux parents qui ont la garde partagée d'un bénéficiaire étant une personne à charge admissible pour chacun d'eux et qui sont des particuliers admissibles au sens de l'article 122.6 de la Loi de l'impôt sur le revenu d'avoir accès au montant additionnel de la subvention pour l'épargne-études visé au paragraphe 5(4).&lt;br/&gt;&lt;br/&gt;La partie 6 modifie la Loi sur les allocations spéciales pour enfants et un règlement en ce qui touche les paiements pour les enfants à charge.&lt;br/&gt;&lt;br/&gt;La partie 7 modifie la Loi fédérale sur l'aide financière aux étudiants pour prévoir l'établissement, par règlement, du montant total maximal des prêts d'études impayés, retirer au ministre des Ressources humaines et du Développement des compétences le pouvoir de refuser un certificat d'admissibilité et modifier le délai de prescription pour la prise de mesures administratives par le ministre. Aussi, elle autorise le ministre à dispenser du remboursement d'une somme à l'égard de son prêt d'études l'emprunteur qui commence à travailler dans une collectivité rurale ou éloignée mal desservie comme médecin de famille, infirmier ou infirmier praticien.&lt;br/&gt;&lt;br/&gt;La partie 8 modifie la partie IV de la Loi sur l'assurance-emploi afin d'offrir temporairement aux petites entreprises un remboursement d'une partie des cotisations patronales : l'employeur dont les cotisations étaient d'au plus 10 000 $ en 2010 est remboursé du montant — jusqu'à concurrence de 1 000 $ — de toute éventuelle augmentation des cotisations patronales pour 2011.&lt;br/&gt;&lt;br/&gt;La partie 9 autorise le paiement de sommes aux provinces, territoires, municipalités, Premières Nations et entités en ce qui touche l'amélioration des infrastructures municipales.&lt;br/&gt;&lt;br/&gt;La partie 10 modifie la Loi sur le Bureau de transition vers un régime canadien de réglementation des valeurs mobilières de façon à permettre que le montant du financement du Bureau de transition vers un régime canadien de réglementation des valeurs mobilières soit fixé par une loi de crédits.&lt;br/&gt;&lt;br/&gt;La partie 11 modifie la Loi sur le Programme de protection des salariés afin de prolonger dans certains cas la période durant laquelle le salaire qui a été gagné par une personne physique mais ne lui a pas été payé par son employeur en faillite ou mis sous séquestre peut donner lieu au versement de prestations au titre de cette loi.&lt;br/&gt;&lt;br/&gt;La partie 12 modifie la Loi canadienne sur les droits de la personne par l'abrogation de certaines dispositions prévoyant la retraite obligatoire. Elle modifie également le Code canadien du travail par l'abrogation d'une disposition qui enlève à tout employé admissible à une pension le droit à une indemnité de départ en cas de cessation d'emploi involontaire. Finalement, elle modifie la Loi sur les conflits d'intérêts.&lt;br/&gt;&lt;br/&gt;La partie 13 modifie la Loi sur les juges afin de permettre la nomination de deux juges supplémentaires à la Cour de justice du Nunavut.&lt;br/&gt;&lt;br/&gt;La partie 14 prévoit l'entrée en vigueur rétroactive de l'article 9 de la Loi autorisant l'aliénation de Nordion et de Theratronics afin d'assurer la validité des règlements de pension pris en vertu de cet article.&lt;br/&gt;&lt;br/&gt;La partie 15 modifie le Régime de pensions du Canada afin d'inclure les montants de prestations d'invalidité reçus par les employés en vertu d'un régime financé par l'employeur dans les traitements et salaires cotisables.&lt;br/&gt;&lt;br/&gt;La partie 16 modifie la Loi sur l'emploi et la croissance économique afin de substituer, aux paragraphes 10(4) et 38.1(1) de la Loi sur la protection des fonctionnaires divulgateurs d'actes répréhensibles, le dirigeant principal des ressources humaines au Secrétariat du Conseil du Trésor.&lt;br/&gt;&lt;br/&gt;La partie 17 modifie la Loi sur le ministère des Anciens Combattants afin d'ajouter une définition de personne à charge et de prévoir expressément le pouvoir réglementaire d'offrir certains avantages hors-établissement.&lt;br/&gt;&lt;br/&gt;La partie 18 modifie la Loi électorale du Canada en vue de supprimer progressivement le versement d'allocations trimestrielles aux partis enregistrés.&lt;br/&gt;&lt;br/&gt;La partie 19 modifie la Loi sur les régimes de retraite particuliers pour permettre la retenue de cotisations sur toute prestation qui est ou devient payable. &lt;br/&gt;&lt;br/&gt;La partie 20 modifie la Loi sur la sécurité automobile pour permettre aux résidents du Canada d'importer temporairement un véhicule de location en provenance des États-Unis pour un maximum de 30 jours, ou pour toute autre période réglementaire, à des fins non commerciales. &lt;br/&gt;&lt;br/&gt;La partie 21 modifie la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces afin de préciser le cadre législatif relatif aux paiements prévus par des accords en matière de taxe conclus avec des provinces en vertu de la partie III.1 de cette loi.&lt;br/&gt;&lt;br/&gt;La partie 22 modifie la Loi sur le ministère des Ressources humaines et du Développement des compétences en ce qui touche l'obligation de résidence de certains commissaires.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for budget implementation bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 4 October 2011, the Minister of Finance introduced Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (Keeping Canada's Economy and Jobs Growing Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements income tax measures and related measures proposed in the 2011 budget. Among other things it:&lt;br/&gt;&lt;br/&gt;•	introduces the family caregiver tax credit for caregivers of infirm dependent relatives;&lt;br/&gt;•	introduces the children's arts tax credit on up to $500 per child of eligible fees associated with children's artistic, cultural, recreational and developmental activities;&lt;br/&gt;•	introduces a volunteer firefighters tax credit to allow eligible volunteer firefighters to claim a 15% non-refundable tax credit based on an amount of $3,000;&lt;br/&gt;•	eliminates the rule that limits the number of claimants for the child tax credit to one per domestic establishment;&lt;br/&gt;•	removes the $10,000 limit on eligible expenses that can be claimed under the medical expense tax credit in respect of a dependent relative;&lt;br/&gt;•	increases the advance payment threshold for the Canada child tax benefit to $20 per month and for the GST/HST credit to $50 per quarter;&lt;br/&gt;•	allows the tuition tax credit to be claimed for eligible occupational, trade and professional examination fees;&lt;br/&gt;•	allows the reallocation of assets in registered education savings plans for siblings without incurring tax penalties;&lt;br/&gt;•	extends to the end of 2013 the temporary accelerated capital cost allowance treatment for investment in machinery and equipment in the manufacturing and processing sector;&lt;br/&gt;•	expands eligibility for the accelerated capital cost allowance for clean energy generation and conservation equipment;&lt;br/&gt;•	extends eligibility for the mineral exploration tax credit by one year to flow-through share agreements entered into before March 31, 2012;&lt;br/&gt;•	expands the eligibility rules for qualifying environmental trusts;&lt;br/&gt;•	amends the deduction rates for intangible capital costs in the oil sands sector;&lt;br/&gt;•	introduces rules to strengthen the tax regime for charitable donations;&lt;br/&gt;•	introduces anti-avoidance rules for registered retirement savings plans and registered retirement income funds;&lt;br/&gt;•	introduces rules to limit tax deferral opportunities for individual pension plans;&lt;br/&gt;•	introduces rules to limit tax deferral opportunities for corporations with significant interests in partnerships; and&lt;br/&gt;•	extends the dividend stop-loss rules to dividends deemed to be received on the redemption of shares held by certain corporations.&lt;br/&gt;&lt;br/&gt;Part 1 also implements other selected income tax measures and related measures. Most of these measures were referred to in the 2011 budget as previously announced measures.  Among other things it&lt;br/&gt;•	clarifies that the "financially dependent" test applies for the purposes of provisions that permit rollovers of the assets of a deceased taxpayer's registered retirement savings plan or registered retirement income fund to an infirm child or grandchild's registered disability savings plan;&lt;br/&gt;•	clarifies the rules applicable to the scholarship exemption for post-secondary scholarships, fellowships and bursaries; and&lt;br/&gt;•	amends the pension-to-registered retirement savings plan transfer limits in situations where the accrued pension amount was reduced due to the insolvency of the employer and underfunding of the employer's registered pension plan.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Softwood Lumber Products Export Charge Act, 2006 to implement the softwood lumber ruling rendered by the London Court of International Arbitration on January 21, 2011.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Customs Tariff in order to simplify it and reduce the customs processing burden for Canadians by consolidating similar tariff items that have the same tariff rates and removing end-use provisions where appropriate. The amendments also simplify the structure of some provisions and remove obsolete provisions.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Customs Tariff to introduce new tariff items to facilitate the processing of low value non-commercial imports arriving by post or by courier.&lt;br/&gt;&lt;br/&gt;Part 5 amends the Canada Education Savings Act to make the additional amount of a Canada Education Savings grant that is available under subsection 5(4) of that Act available to more than one of the beneficiary's parents, if they share custody of the beneficiary, they are eligible individuals as defined in section 122.6 of the Income Tax Act and the beneficiary is a qualified dependant of each of them.&lt;br/&gt;&lt;br/&gt;Part 6 amends the Children's Special Allowances Act and a regulation made under that Act respecting payments relating to children under care.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Canada Student Financial Assistance Act to provide that the maximum aggregate amount of outstanding student loans is to be determined by regulation, to remove the power of the Minister of Human Resources and Skills Development to deny certificates of eligibility, and to change the limitation period for the Minister to take administrative measures. It also authorizes the Minister to forgive portions of family physicians', nurses' and nurse practitioners' student loans if they begin to work in under-served rural or remote communities.&lt;br/&gt;&lt;br/&gt;Part 8 amends Part IV of the Employment Insurance Act to provide a temporary measure to refund a portion of employer premiums for small business. An employer whose premiums were $10,000 or less in 2010 will be refunded the increase in 2011 premiums over those paid in 2010, to a maximum of $1,000.&lt;br/&gt;&lt;br/&gt;Part 9 provides for payments to be made to provinces, territories, municipalities, First Nations and other entities for municipal infrastructure improvements.&lt;br/&gt;&lt;br/&gt;Part 10 amends the Canadian Securities Regulation Regime Transition Office Act so that funding for the Canadian Securities Regulation Regime Transition Office may be fixed through an appropriation Act.&lt;br/&gt;&lt;br/&gt;Part 11 amends the Wage Earner Protection Program Act to extend in certain circumstances the period during which wages earned by individuals but not paid to them by their employers who are bankrupt or subject to receivership may be the subject of a payment under that Act.&lt;br/&gt;&lt;br/&gt;Part 12 amends the Canadian Human Rights Act to repeal certain provisions that provide for mandatory retirement. It also amends the Canada Labour Code to repeal a provision that denies employees the right to severance pay for involuntary termination if they are entitled to a pension. Finally, it amends the Conflict of Interest Act.&lt;br/&gt;&lt;br/&gt;Part 13 amends the Judges Act to permit the appointment of two additional judges to the Nunavut Court of Justice.&lt;br/&gt;&lt;br/&gt;Part 14 provides for the retroactive coming into force of section 9 of the Nordion and Theratronics Divestiture Authorization Act in order to ensure the validity of pension regulations made under that section.&lt;br/&gt;&lt;br/&gt;Part 15 amends the Canada Pension Plan to include amounts received by an employee under an employer-funded disability plan in contributory salary and wages.&lt;br/&gt;&lt;br/&gt;Part 16 amends the Jobs and Economic Growth Act to replace the reference to the Treasury Board Secretariat with a reference to the Chief Human Resources Officer in subsections 10(4) and 38.1(1) of the Public Servants Disclosure Protection Act.&lt;br/&gt;&lt;br/&gt;Part 17 amends the Department of Veterans Affairs Act to include a definition of dependant and to provide express regulation-making authority for the provision of certain benefits in non-institutional locations.&lt;br/&gt;&lt;br/&gt;Part 18 amends the Canada Elections Act to phase out quarterly allowances to registered parties.&lt;br/&gt;&lt;br/&gt;Part 19 amends the Special Retirement Arrangements Act to permit the reservation of pension contributions from any benefit that is or becomes payable to a person. &lt;br/&gt;&lt;br/&gt;Part 20 amends the Motor Vehicle Safety Act to allow residents of Canada to temporarily import a rental vehicle from the United States for up to 30 days, or for any other prescribed period, for non-commercial use. &lt;br/&gt;&lt;br/&gt;Part 21 amends the Federal-Provincial Fiscal Arrangements Act to clarify the legislative framework pertaining to payments under tax agreements entered into with provinces under Part III.1 of that Act.&lt;br/&gt;&lt;br/&gt;Part 22 amends the Department of Human Resources and Skills Development Act to change the residency requirements of certain commissioners.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2011</StatuteYear>
+    <StatuteChapter>24</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-10-04T10:05:59</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>26</Number>
+          <Date>2011-10-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2011-10-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2011-10-04T10:05:59</EventStartDateTime>
+          <EventEndDateTime>2011-10-04T10:05:59</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-10-04T10:05:59</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-10-17T18:30:21</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>4381309</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>27</Number>
+          <Date>2011-10-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>28</Number>
+          <Date>2011-10-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>29</Number>
+          <Date>2011-10-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>30</Number>
+          <Date>2011-10-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>4373152</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5151776</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>39</DivisionNumber>
+          <DivisionVotesYeas>149</DivisionVotesYeas>
+          <DivisionVotesNays>129</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2011-10-17T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>30</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2011-10-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2011-10-17T18:30:21</EventStartDateTime>
+          <EventEndDateTime>2011-10-17T18:30:21</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-10-17T18:30:21</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>4353215</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>3449</PersonId>
+          <PersonOfficialFirstName>Ted</PersonOfficialFirstName>
+          <PersonOfficialLastName>Menzies</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ted Menzies</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>27</MeetingNumber>
+          <SpeechDateTime>2011-10-05T15:27:16</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>4353499</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>3242</PersonId>
+          <PersonOfficialFirstName>Peggy</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nash</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peggy Nash</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>27</MeetingNumber>
+          <SpeechDateTime>2011-10-05T15:54:02</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>4353958</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1817</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>McCallum</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John McCallum</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>27</MeetingNumber>
+          <SpeechDateTime>2011-10-05T16:23:57</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2011-11-04T12:59:16</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>4381309</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>44</Number>
+          <Date>2011-11-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2011-11-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2011-11-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2011-11-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2011-11-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>5211009</CommitteeReportId>
+          <CommitteeReportNumber>2</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2011-11-04T12:59:16</EventStartDateTime>
+          <EventEndDateTime>2011-11-04T12:59:16</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-04T12:59:16</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-16T19:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>46</Number>
+          <Date>2011-11-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>47</Number>
+          <Date>2011-11-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2011-11-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2011-11-16T19:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-16T19:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-16T19:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-21T18:30:39</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>50</Number>
+          <Date>2011-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>4865744</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5151778</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>62</DivisionNumber>
+          <DivisionVotesYeas>153</DivisionVotesYeas>
+          <DivisionVotesNays>127</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2011-11-21T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>50</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-11-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-11-21T18:30:39</EventStartDateTime>
+          <EventEndDateTime>2011-11-21T18:30:39</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-21T18:30:39</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-22T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>31</Number>
+          <Date>2011-11-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2011-11-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2011-11-22T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-22T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-22T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-24T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>33</Number>
+          <Date>2011-11-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2011-11-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2011-11-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2011-11-24T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-24T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-24T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>13052</PersonId>
+          <PersonOfficialFirstName>Irving</PersonOfficialFirstName>
+          <PersonOfficialLastName>Gerstein</PersonOfficialLastName>
+          <PersonMiddleName>Russell</PersonMiddleName>
+          <PersonName>Irving Gerstein</PersonName>
+          <SenateSystemAffiliationId>2810</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>33</MeetingNumber>
+          <SpeechDateTime>2011-11-24T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/033db_2011-11-24-e#32</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/033db_2011-11-24-f#32</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/033db_2011-11-24-e#32</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35209</PersonId>
+          <PersonOfficialFirstName>Pierrette</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ringuette</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierrette Ringuette</PersonName>
+          <SenateSystemAffiliationId>2753</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>33</MeetingNumber>
+          <SpeechDateTime>2011-11-24T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/033db_2011-11-24-e#32</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/033db_2011-11-24-f#33</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/033db_2011-11-24-e#32</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2011-12-08T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>39</Number>
+          <Date>2011-12-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2011-11-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2011-11-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2011-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2011-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2011-12-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2011-12-08T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-08T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-08T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-12-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>40</Number>
+          <Date>2011-12-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>41</Number>
+          <Date>2011-12-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-12-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-12-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>43</Number>
+          <Date>2011-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2011-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2011-12-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>5155334</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5264045</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5339192</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>38</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubject>
+      <DivisionVotesYeas>150</DivisionVotesYeas>
+      <DivisionVotesNays>107</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>257</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-10-06T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>39</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>2eC-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubject>
+      <DivisionVotesYeas>149</DivisionVotesYeas>
+      <DivisionVotesNays>129</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-10-17T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>56</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubject>
+      <DivisionVotesYeas>155</DivisionVotesYeas>
+      <DivisionVotesNays>117</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-11-16T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>57</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>116</DivisionVotesYeas>
+      <DivisionVotesNays>157</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-16T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>58</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>90</DivisionVotesYeas>
+      <DivisionVotesNays>183</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-16T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>59</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>117</DivisionVotesYeas>
+      <DivisionVotesNays>157</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>274</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-16T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>60</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>91</DivisionVotesYeas>
+      <DivisionVotesNays>182</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-16T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>61</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubject>
+      <DivisionVotesYeas>157</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-11-16T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>62</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-13, Loi portant exécution de certaines dispositions du budget de 2011 mis à jour le 6 juin 2011 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-13, An Act to implement certain provisions of the 2011 budget as updated on June 6, 2011 and other measures</DivisionSubject>
+      <DivisionVotesYeas>153</DivisionVotesYeas>
+      <DivisionVotesNays>127</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>280</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-11-21T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister of Finance Introduces the Keeping Canada's Economy &amp; Jobs Growing Act</TitleEn>
+      <TitleFr>Le ministre des Finances dépose la Loi sur le soutien de la croissance de l'économie et de l'emploi au Canada</TitleFr>
+      <Title>Minister of Finance Introduces the Keeping Canada's Economy &amp; Jobs Growing Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
