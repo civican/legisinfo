@@ -1,0 +1,2003 @@
+<Bills>
+  <Bill>
+    <Id>5169698</Id>
+    <NumberCode>C-18</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>18</Number>
+    <LongTitleEn>An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</LongTitleEn>
+    <LongTitleFr>Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois</LongTitleFr>
+    <LongTitle>An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</LongTitle>
+    <ShortTitleEn>Marketing Freedom for Grain Farmers Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le libre choix des producteurs de grains en matière de commercialisation</ShortTitleFr>
+    <ShortTitle>Marketing Freedom for Grain Farmers Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2011-12-15T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1209</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Gerry</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Ritz</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Gerry Ritz</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Agriculture and Agri-Food and Minister for the Canadian Wheat Board</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Agriculture et de l'Agroalimentaire et ministre de la Commission canadienne du blé</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Agriculture and Agri-Food and Minister for the Canadian Wheat Board</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>23</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Battlefords—Lloydminster</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Battlefords—Lloydminster</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Battlefords—Lloydminster</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2011-12-15T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>43</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2011-10-18T14:30:10</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2011-10-24T18:40:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2011-11-28T18:35:37</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2011-11-29T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2011-12-01T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2011-12-15T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2011-12-15T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 18 October 2011, the Minister of Agriculture and Agri-food and Minister for the Canadian Wheat Board introduced Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (Marketing freedom for grain farmers Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 of Bill C-18 amends the Canadian Wheat Board Act to change the governance structure of the Canadian Wheat Board and to make other changes in preparation for the implementation of Parts 2 and 3. &lt;br/&gt;&lt;br/&gt;Part 2 replaces the Canadian Wheat Board Act with a new Act that continues the Canadian Wheat Board and charges it with the marketing of grain through voluntary pooling. &lt;br/&gt;&lt;br/&gt;Part 3 provides for the possible continuation of the Board under other federal legislation, while Part 4 provides for its winding up if no such continuation occurs. &lt;br/&gt;&lt;br/&gt;Finally, Part 5 provides for the repeal of the new Act enacted by Part 2.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 18 octobre 2011, le ministre de l'Agriculture et de l'Agroalimentaire et ministre de la Commission canadienne du blé a introduit le projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines loi (Loi sur le libre choix des producteurs de grains en matière de commercialisation) à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 du projet de loi C-18 prévoit des modifications à la Loi sur la Commission canadienne du blé afin de changer la structure de gouvernance de la Commission et de faire d'autres modifications en préparation de la mise en oeuvre des parties 2 et 3. &lt;br/&gt;&lt;br/&gt;La partie 2 prévoit le remplacement de la Loi sur la Commission canadienne du blé par une nouvelle loi prorogeant la Commission canadienne du blé et la chargeant de la commercialisation de grains par voie de mise en commun volontaire. &lt;br/&gt;&lt;br/&gt;La partie 3 prévoit la possibilité de proroger la Commission en vertu d'une loi fédérale alors que la partie 4 en prévoit la liquidation dans le cas où elle ne serait pas ainsi prorogée. &lt;br/&gt;&lt;br/&gt;Enfin, la partie 5 prévoit l'abrogation de la nouvelle loi édictée par la partie 2.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 18 October 2011, the Minister of Agriculture and Agri-food and Minister for the Canadian Wheat Board introduced Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (Marketing freedom for grain farmers Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 of Bill C-18 amends the Canadian Wheat Board Act to change the governance structure of the Canadian Wheat Board and to make other changes in preparation for the implementation of Parts 2 and 3. &lt;br/&gt;&lt;br/&gt;Part 2 replaces the Canadian Wheat Board Act with a new Act that continues the Canadian Wheat Board and charges it with the marketing of grain through voluntary pooling. &lt;br/&gt;&lt;br/&gt;Part 3 provides for the possible continuation of the Board under other federal legislation, while Part 4 provides for its winding up if no such continuation occurs. &lt;br/&gt;&lt;br/&gt;Finally, Part 5 provides for the repeal of the new Act enacted by Part 2.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2011</StatuteYear>
+    <StatuteChapter>25</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-10-18T14:30:10</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>31</Number>
+          <Date>2011-10-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2011-10-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2011-10-18T14:30:10</EventStartDateTime>
+          <EventEndDateTime>2011-10-18T14:30:10</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-10-18T14:30:10</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-10-24T18:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>17024</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-18</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-18</CommitteeNameFr>
+          <CommitteeAcronym>CC18</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-18</CommitteeName>
+          <StudyActivityId>4532512</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>32</Number>
+          <Date>2011-10-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>33</Number>
+          <Date>2011-10-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>35</Number>
+          <Date>2011-10-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>4422079</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5174221</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - C-18</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - C-18</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - C-18</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>44</DivisionNumber>
+          <DivisionVotesYeas>151</DivisionVotesYeas>
+          <DivisionVotesNays>118</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2011-10-24T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>35</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2011-10-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2011-10-24T18:40:00</EventStartDateTime>
+          <EventEndDateTime>2011-10-24T18:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-10-24T18:40:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>4382200</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1209</PersonId>
+          <PersonOfficialFirstName>Gerry</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ritz</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gerry Ritz</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2011-10-19T15:36:50</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>4382352</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1174</PersonId>
+          <PersonOfficialFirstName>Pat</PersonOfficialFirstName>
+          <PersonOfficialLastName>Martin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pat Martin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2011-10-19T16:01:34</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>4382690</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>58890</PersonId>
+          <PersonOfficialFirstName>Frank</PersonOfficialFirstName>
+          <PersonOfficialLastName>Valeriote</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Frank Valeriote</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2011-10-19T16:30:34</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2011-11-04T12:44:06</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>17024</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-18</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-18</CommitteeNameFr>
+          <CommitteeAcronym>CC18</CommitteeAcronym>
+          <CommitteeName>Legislative Committee on Bill C-18</CommitteeName>
+          <StudyActivityId>4532512</StudyActivityId>
+          <OrganizationTypeId>46</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>44</Number>
+          <Date>2011-11-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>17024</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-18</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-18</CommitteeNameFr>
+          <CommitteeAcronym>CC18</CommitteeAcronym>
+          <Number>1</Number>
+          <Date>2011-10-31T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-18</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>17024</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-18</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-18</CommitteeNameFr>
+          <CommitteeAcronym>CC18</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2011-11-01T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-18</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>17024</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-18</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-18</CommitteeNameFr>
+          <CommitteeAcronym>CC18</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2011-11-02T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-18</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>17024</CommitteeOrganizationId>
+          <CommitteeNameEn>Legislative Committee on Bill C-18</CommitteeNameEn>
+          <CommitteeNameFr>Comité législatif chargé du projet de loi C-18</CommitteeNameFr>
+          <CommitteeAcronym>CC18</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2011-11-03T00:00:00</Date>
+          <CommitteeName>Legislative Committee on Bill C-18</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2011-11-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>5228470</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2011-11-04T12:44:06</EventStartDateTime>
+          <EventEndDateTime>2011-11-04T12:44:06</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-04T12:44:06</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-23T19:10:29</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>49</Number>
+          <Date>2011-11-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>52</Number>
+          <Date>2011-11-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2011-11-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2011-11-23T19:10:29</EventStartDateTime>
+          <EventEndDateTime>2011-11-23T19:10:29</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-23T19:10:29</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-28T18:35:37</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>55</Number>
+          <Date>2011-11-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>5017771</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5174223</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>77</DivisionNumber>
+          <DivisionVotesYeas>153</DivisionVotesYeas>
+          <DivisionVotesNays>120</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2011-11-28T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>55</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-11-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-11-28T18:35:37</EventStartDateTime>
+          <EventEndDateTime>2011-11-28T18:35:37</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-28T18:35:37</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>34</Number>
+          <Date>2011-11-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2011-11-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2011-11-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-12-01T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>36</Number>
+          <Date>2011-12-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2011-12-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2011-12-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2011-12-01T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-01T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-01T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>19501</PersonId>
+          <PersonOfficialFirstName>Donald Neil</PersonOfficialFirstName>
+          <PersonOfficialLastName>Plett</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Donald Neil Plett</PersonName>
+          <SenateSystemAffiliationId>2858</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>36</MeetingNumber>
+          <SpeechDateTime>2011-12-01T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/036db_2011-12-01-e#24</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/036db_2011-12-01-f#24</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/036db_2011-12-01-e#24</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35204</PersonId>
+          <PersonOfficialFirstName>Robert W.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Peterson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Robert W. Peterson</PersonName>
+          <SenateSystemAffiliationId>2777</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>36</MeetingNumber>
+          <SpeechDateTime>2011-12-01T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/036db_2011-12-01-e#24</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/036db_2011-12-01-f#24</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/036db_2011-12-01-e#24</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2011-12-12T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>40</Number>
+          <Date>2011-12-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2011-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2011-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2011-12-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2011-12-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2011-12-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2011-12-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2011-12-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2011-12-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-12T16:02:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-12-15T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>41</Number>
+          <Date>2011-12-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>42</Number>
+          <Date>2011-12-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>43</Number>
+          <Date>2011-12-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-12-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>43</Number>
+          <Date>2011-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2011-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2011-12-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>5174306</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5234480</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5285088</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5339113</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>41</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>156</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>277</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-10-20T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>42</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (subamendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (sous-amendement)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (subamendment)</DivisionSubject>
+      <DivisionVotesYeas>117</DivisionVotesYeas>
+      <DivisionVotesNays>151</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>268</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-10-24T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>43</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>117</DivisionVotesYeas>
+      <DivisionVotesNays>150</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>267</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-10-24T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>44</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>151</DivisionVotesYeas>
+      <DivisionVotesNays>118</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>269</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-10-24T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>63</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>159</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>280</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>64</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>65</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>66</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>67</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>68</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>69</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>70</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>71</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>72</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>73</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>74</DivisionNumber>
+      <DivisionSubjectEn>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>75</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>159</DivisionVotesYeas>
+      <DivisionVotesNays>124</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-11-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>76</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>119</DivisionVotesYeas>
+      <DivisionVotesNays>152</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2011-11-28T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>77</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-18, Loi réorganisant la Commission canadienne du blé et apportant des modifications corrélatives et connexes à certaines lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-18, An Act to reorganize the Canadian Wheat Board and to make consequential and related amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>153</DivisionVotesYeas>
+      <DivisionVotesNays>120</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2011-11-28T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>35</MeetingNumber>
+      <HansardNumber>4425466</HansardNumber>
+      <RulingStatementDateTime>2011-10-24T15:17:38</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>70</MeetingNumber>
+      <HansardNumber>6459803</HansardNumber>
+      <RulingStatementDateTime>2012-01-31T10:14:01</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <SenateRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>39</MeetingNumber>
+      <HansardNumber>0</HansardNumber>
+      <RulingStatementDateTime>2011-12-08T00:00:00</RulingStatementDateTime>
+      <ChamberOrganizationId>2</ChamberOrganizationId>
+      <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/039db_2011-12-08-e#58</UrlEn>
+      <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/039db_2011-12-08-f#58</UrlFr>
+    </SenateRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Introduces the Marketing Freedom for Grain Farmers Act</TitleEn>
+      <TitleFr>Le gouvernement Harper présente la Loi sur le libre choix des producteurs de grains en matière de commercialisation</TitleFr>
+      <Title>Harper Government Introduces the Marketing Freedom for Grain Farmers Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Marketing Freedom for Grain Farmers</TitleEn>
+      <TitleFr>Libre choix des producteurs de grains en matière de commercialisation</TitleFr>
+      <Title>Marketing Freedom for Grain Farmers</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Marketing Freedom for Grain Farmers Act Gives Farmers and Economy More Opportunities</TitleEn>
+      <TitleFr>La Loi sur le libre choix des producteurs de grains en matière de commercialisation crée d'autres débouchés pour les agriculteurs et l'économie</TitleFr>
+      <Title>Marketing Freedom for Grain Farmers Act Gives Farmers and Economy More Opportunities</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Western Canadian Grain Farmers One Step Closer to the Marketing Freedom they want and deserve</TitleEn>
+      <TitleFr>Les producteurs de grains de l'Ouest canadien se rapprochent un peu plus de la liberté de choix du mode de commercialisation qu'ils souhaitent et qu'ils méritent</TitleFr>
+      <Title>Western Canadian Grain Farmers One Step Closer to the Marketing Freedom they want and deserve</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Agricultural policy monitoring and evaluation 2012 : OECD countries (OECD, September 2012)</TitleEn>
+      <TitleFr>Politiques agricoles : suivi et évaluation 2012 : pays de l'OCDE (OCDE, septembre 2012)</TitleFr>
+      <Title>Agricultural policy monitoring and evaluation 2012 : OECD countries (OECD, September 2012)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.oecd-ilibrary.org/agriculture-and-food/agricultural-policy-monitoring-and-evaluation-2012_agr_pol-2012-en</UrlEn>
+      <UrlFr>http://www.oecd.org/fr/tad/politiquesagricoles/politiquesagricolessuivietevaluation2012.htm</UrlFr>
+      <Url>http://www.oecd-ilibrary.org/agriculture-and-food/agricultural-policy-monitoring-and-evaluation-2012_agr_pol-2012-en</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Attitudes towards the Canadian Wheat Board monopoly in Saskatchewan : a research brief (Michael Atkinson, et al. Johnson-Shoyama Graduate School of Public Policy, University of Saskatchewan, Working Paper, December 2011, 8 p.)</TitleEn>
+      <TitleFr>Attitudes towards the Canadian Wheat Board monopoly in Saskatchewan : a research brief (Michael Atkinson, et al. Johnson-Shoyama Graduate School of Public Policy, University of Saskatchewan, Working Paper, December 2011, 8 p.)</TitleFr>
+      <Title>Attitudes towards the Canadian Wheat Board monopoly in Saskatchewan : a research brief (Michael Atkinson, et al. Johnson-Shoyama Graduate School of Public Policy, University of Saskatchewan, Working Paper, December 2011, 8 p.)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.schoolofpublicpolicy.sk.ca/_documents/_other/Attitudes%20towards%20the%20Canadian%20Wheat%20Board%20monopoly%20in%20Saskatchewan_12-7-11.pdf</UrlEn>
+      <UrlFr>http://www.schoolofpublicpolicy.sk.ca/_documents/_other/Attitudes%20towards%20the%20Canadian%20Wheat%20Board%20monopoly%20in%20Saskatchewan_12-7-11.pdf</UrlFr>
+      <Url>http://www.schoolofpublicpolicy.sk.ca/_documents/_other/Attitudes%20towards%20the%20Canadian%20Wheat%20Board%20monopoly%20in%20Saskatchewan_12-7-11.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Challenges facing the grain handling and transportation system in Western Canada in a post Canadian Wheat Board environment (Murray Fulton, Johnson-Shoyama Graduate School of Public Policy, University of Saskatchewan, Working Paper, November 2011, 30 p.)</TitleEn>
+      <TitleFr>Challenges facing the grain handling and transportation system in Western Canada in a post Canadian Wheat Board environment (Murray Fulton, Johnson-Shoyama Graduate School of Public Policy, University of Saskatchewan, Working Paper, November 2011, 30 p.)</TitleFr>
+      <Title>Challenges facing the grain handling and transportation system in Western Canada in a post Canadian Wheat Board environment (Murray Fulton, Johnson-Shoyama Graduate School of Public Policy, University of Saskatchewan, Working Paper, November 2011, 30 p.)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.schoolofpublicpolicy.sk.ca/_documents/_publications_reports/working_paper_series/WPS7_MFulton_NOVEMBER2011.pdf</UrlEn>
+      <UrlFr>http://www.schoolofpublicpolicy.sk.ca/_documents/_publications_reports/working_paper_series/WPS7_MFulton_NOVEMBER2011.pdf</UrlFr>
+      <Url>http://www.schoolofpublicpolicy.sk.ca/_documents/_publications_reports/working_paper_series/WPS7_MFulton_NOVEMBER2011.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>L'effet CCB sur le commerce des grains québécois (Stéphane Arnato. Centre de référence en agriculture et agroalimentaire du Québec (CRAAQ), Perspectives 2012, 17 avril 2012)</TitleEn>
+      <TitleFr>L'effet CCB sur le commerce des grains québécois (Stéphane Arnato. Centre de référence en agriculture et agroalimentaire du Québec (CRAAQ), Perspectives 2012, 17 avril 2012)</TitleFr>
+      <Title>L'effet CCB sur le commerce des grains québécois (Stéphane Arnato. Centre de référence en agriculture et agroalimentaire du Québec (CRAAQ), Perspectives 2012, 17 avril 2012)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.craaq.qc.ca/documents/files/Evenements/EPER1201/DAmato.pdf</UrlEn>
+      <UrlFr>http://www.craaq.qc.ca/documents/files/Evenements/EPER1201/DAmato.pdf</UrlFr>
+      <Url>http://www.craaq.qc.ca/documents/files/Evenements/EPER1201/DAmato.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Pulling the plug on monopoly power : reform for the Canadian Wheat Board (Richard Pedde, and Al Loyns. C.D. Howe Institute, e-brief, June 23, 2011, 6 p.)</TitleEn>
+      <TitleFr>Pulling the plug on monopoly power : reform for the Canadian Wheat Board (Richard Pedde, and Al Loyns. C.D. Howe Institute, e-brief, June 23, 2011, 6 p.)</TitleFr>
+      <Title>Pulling the plug on monopoly power : reform for the Canadian Wheat Board (Richard Pedde, and Al Loyns. C.D. Howe Institute, e-brief, June 23, 2011, 6 p.)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://cdhowe.org/pdf/ebrief_118.pdf</UrlEn>
+      <UrlFr>http://cdhowe.org/pdf/ebrief_118.pdf</UrlFr>
+      <Url>http://cdhowe.org/pdf/ebrief_118.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Removal of the Canadian Wheat Board monopoly : future changes for farmers and the grain industry (Milton Boyd. Frontier Centre for Public Policy, Policy Series, No. 115, July 2011)</TitleEn>
+      <TitleFr>Removal of the Canadian Wheat Board monopoly : future changes for farmers and the grain industry (Milton Boyd. Frontier Centre for Public Policy, Policy Series, No. 115, July 2011)</TitleFr>
+      <Title>Removal of the Canadian Wheat Board monopoly : future changes for farmers and the grain industry (Milton Boyd. Frontier Centre for Public Policy, Policy Series, No. 115, July 2011)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.fcpp.org/files/1/PS115_WheatBrd.pdf</UrlEn>
+      <UrlFr>http://www.fcpp.org/files/1/PS115_WheatBrd.pdf</UrlFr>
+      <Url>http://www.fcpp.org/files/1/PS115_WheatBrd.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Removal of the Canadian Wheat Board's single-desk selling powers (Saskatchewan Chamber of Commerce, Issue in Focus, September 2011, 10 p.)</TitleEn>
+      <TitleFr>Removal of the Canadian Wheat Board's single-desk selling powers (Saskatchewan Chamber of Commerce, Issue in Focus, September 2011, 10 p.)</TitleFr>
+      <Title>Removal of the Canadian Wheat Board's single-desk selling powers (Saskatchewan Chamber of Commerce, Issue in Focus, September 2011, 10 p.)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.saskchamber.com/files/File/Research/2011/Issue%20in%20Focus/CWBOverviewOpp_Final_Sept29.pdf</UrlEn>
+      <UrlFr>http://www.saskchamber.com/files/File/Research/2011/Issue%20in%20Focus/CWBOverviewOpp_Final_Sept29.pdf</UrlFr>
+      <Url>http://www.saskchamber.com/files/File/Research/2011/Issue%20in%20Focus/CWBOverviewOpp_Final_Sept29.pdf</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1605</BibliographicNoticeId>
+      <Title>Wild day marks wheat board monopoly's end in House of Commons [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:10</VolumePage>
+      <PublicationDate>December 1, 2011</PublicationDate>
+      <Classification>Radar A040018</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1589</BibliographicNoticeId>
+      <Title>Ritz faces rough day in court; how it unfolded [Bill C-18]</Title>
+      <Author>Arnason,Robert</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:5</VolumePage>
+      <PublicationDate>December 15, 2011</PublicationDate>
+      <Classification>Radar A040025</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1590</BibliographicNoticeId>
+      <Title>Rule of law must apply in changing wheat board [Bill C-18]</Title>
+      <Author>
+      </Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:10</VolumePage>
+      <PublicationDate>December 15, 2011</PublicationDate>
+      <Classification>Radar A040026</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1591</BibliographicNoticeId>
+      <Title>Federal Court ruling on Canadian Wheat Board shakes up Parliament [Bill C-18]</Title>
+      <Author>Wilson,Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:10</VolumePage>
+      <PublicationDate>December 15, 2011</PublicationDate>
+      <Classification>Radar A040027</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1576</BibliographicNoticeId>
+      <Title>CWB lobby targets Senate [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:14</VolumePage>
+      <PublicationDate>November 24, 2011</PublicationDate>
+      <Classification>Radar A040012</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1577</BibliographicNoticeId>
+      <Title>Monopoly for foreign sales viable option [Bill C-18]</Title>
+      <Author>Fulton, Murray</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:11</VolumePage>
+      <PublicationDate>November 24, 2011</PublicationDate>
+      <Classification>Radar A040013</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1578</BibliographicNoticeId>
+      <Title>CWB on track for final OK [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:14</VolumePage>
+      <PublicationDate>November 24, 2011</PublicationDate>
+      <Classification>Radar A040014</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1572</BibliographicNoticeId>
+      <Title>Future of Canada's Arctic port questioned in post CWB industry [Bill C-18]</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:21</VolumePage>
+      <PublicationDate>November 10, 2011</PublicationDate>
+      <Classification>Radar A040002</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1573</BibliographicNoticeId>
+      <Title>Think-tank predicts bright future after single desk ends [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:4</VolumePage>
+      <PublicationDate>November 10, 2011</PublicationDate>
+      <Classification>Radar A040003</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1555</BibliographicNoticeId>
+      <Title>Tories push through contentious bill. [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:5</VolumePage>
+      <PublicationDate>October 27, 2011</PublicationDate>
+      <Classification>Radar A038797</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1556</BibliographicNoticeId>
+      <Title>Customer opinion mixed on CWB change. [Bill C-18]</Title>
+      <Author>Pratt, Sean</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:6</VolumePage>
+      <PublicationDate>October 27, 2011</PublicationDate>
+      <Classification>Radar A038798</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1557</BibliographicNoticeId>
+      <Title>Change at the CWB : who's right, legally speaking? [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:14</VolumePage>
+      <PublicationDate>November 3, 2011</PublicationDate>
+      <Classification>Radar A038800</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1558</BibliographicNoticeId>
+      <Title>Technical details ironed out before CWB turns private [Bill C-18]</Title>
+      <Author>
+      </Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:14</VolumePage>
+      <PublicationDate>November 3, 2011</PublicationDate>
+      <Classification>Radar A038801</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1559</BibliographicNoticeId>
+      <Title>Supply managed systems pulled into wheat board debate [Bill C-18]</Title>
+      <Author>Wilson, Barry</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:74</VolumePage>
+      <PublicationDate>November 3, 2011</PublicationDate>
+      <Classification>Radar A038802</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1560</BibliographicNoticeId>
+      <Title>Jailed anti-CWB protestors reunite [Bill C-18]</Title>
+      <Author>Glen, Barb</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:78</VolumePage>
+      <PublicationDate>November 3, 2011</PublicationDate>
+      <Classification>Radar A038803</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1561</BibliographicNoticeId>
+      <Title>Farm meetings mired down in opposing views about CWB [Bill C-18]</Title>
+      <Author>White, Ed</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:4</VolumePage>
+      <PublicationDate>November 3, 2011</PublicationDate>
+      <Classification>Radar A038804</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1566</BibliographicNoticeId>
+      <Title>Grain firms in wait and see mode [Bill C-18]</Title>
+      <Author>Pratt, Sean</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>89:4</VolumePage>
+      <PublicationDate>November 17, 2011</PublicationDate>
+      <Classification>Radar A040009</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1804</BibliographicNoticeId>
+      <Title>The negative consequences of agricultural marketing boards [electronic resource]</Title>
+      <Author>Dumais, Mario</Author>
+      <Publication>Montreal Economic Institute Research Paper</Publication>
+      <VolumePage>1 PDF file (32 p.)</VolumePage>
+      <PublicationDate>September 2012</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1805</BibliographicNoticeId>
+      <Title>Les conséquences négatives des offices de commercialisation agricole [ressource électronique]</Title>
+      <Author>Dumais, Mario</Author>
+      <Publication>Institut économique de Montréal, Les cahiers de recherche</Publication>
+      <VolumePage>1 fichier PDF (36 p.)</VolumePage>
+      <PublicationDate>sept. 2012</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
