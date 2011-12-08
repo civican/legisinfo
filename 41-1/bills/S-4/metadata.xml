@@ -1,0 +1,1359 @@
+<Bills>
+  <Bill>
+    <Id>5161708</Id>
+    <NumberCode>S-4</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>4</Number>
+    <LongTitleEn>An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la sécurité ferroviaire et la Loi sur les transports au Canada en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act</LongTitle>
+    <ShortTitleEn>Safer Railways Act</ShortTitleEn>
+    <ShortTitleFr>Loi améliorant la sécurité ferroviaire</ShortTitleFr>
+    <ShortTitle>Safer Railways Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2012-05-17T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>80759</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Sénat)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>59</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>1861</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Marjory</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>LeBreton</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Marjory LeBreton</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Leader of the Government in the Senate</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>leader du gouvernement au Sénat</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Leader of the Government in the Senate</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>30</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Leader of the Government in the Senate</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>leader du gouvernement au Sénat</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Leader of the Government in the Senate</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>0</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2012-05-17T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>81</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2011-12-08T10:13:00</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2012-04-05T13:28:55</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2012-05-01T17:43:23</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2011-10-06T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2011-11-02T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2011-12-07T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2012-05-17T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 6 October 2011, the Leader of the Government in the Senate, introduced Bill S-4, An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act (Safer Railways Act), in the Senate and it was given first reading.&lt;br/&gt;&lt;br/&gt;The bill amends the Railway Safety Act. Among other things it&lt;br/&gt;&lt;br/&gt;•	improves the oversight capacity of the Department of Transport and strengthen its enforcement powers by introducing administrative monetary penalties and increasing court-enforced penalties;&lt;br/&gt;&lt;br/&gt;•	enhances the role of safety management systems by including a provision for a railway executive accountable for safety and a non-punitive reporting system for employees of railway companies;&lt;br/&gt;&lt;br/&gt;•	clarifies the authority and responsibilities of the Minister of Transport with respect to railway matters; and&lt;br/&gt;&lt;br/&gt;•	expands regulation-making authorities and clarify the process for rule making by railway companies.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, il met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 6 octobre 2011, le Leader du gouvernement au Sénat a déposé le projet de loi C-20, Loi modifiant la Loi sur la sécurité ferroviaire et la Loi sur les transports au Canada en conséquence (Loi améliorant la sécurité ferroviaire) dans le Sénat en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi modifie la Loi sur la sécurité ferroviaire. Il a notamment pour effet&lt;br/&gt;&lt;br/&gt;•	d'améliorer la capacité de surveillance du ministère des Transports, et de renforcer ses pouvoirs d'exécution en introduisant des pénalités administratives pécuniaires et en augmentant les sanctions;&lt;br/&gt;&lt;br/&gt;•	d'accroître le rôle des systèmes de gestion de la sécurité, notamment en introduisant des dispositions concernant un administrateur responsable de la sécurité et, dans le cas des compagnies de chemin de fer, un système non punitif de production de rapports par les employés de chemin de fer;&lt;br/&gt;&lt;br/&gt;•	de clarifier l'autorité et les responsabilités du ministre des Transports relativement aux questions ferroviaires;&lt;br/&gt;&lt;br/&gt;•	d'élargir les pouvoirs habilitants en général, notamment dans des domaines comme la gestion de l'environnement et permettre d'éclaircir le processus de prise de règles par les compagnies de chemin de fer.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 6 October 2011, the Leader of the Government in the Senate, introduced Bill S-4, An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act (Safer Railways Act), in the Senate and it was given first reading.&lt;br/&gt;&lt;br/&gt;The bill amends the Railway Safety Act. Among other things it&lt;br/&gt;&lt;br/&gt;•	improves the oversight capacity of the Department of Transport and strengthen its enforcement powers by introducing administrative monetary penalties and increasing court-enforced penalties;&lt;br/&gt;&lt;br/&gt;•	enhances the role of safety management systems by including a provision for a railway executive accountable for safety and a non-punitive reporting system for employees of railway companies;&lt;br/&gt;&lt;br/&gt;•	clarifies the authority and responsibilities of the Minister of Transport with respect to railway matters; and&lt;br/&gt;&lt;br/&gt;•	expands regulation-making authorities and clarify the process for rule making by railway companies.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2012</StatuteYear>
+    <StatuteChapter>7</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-12-08T10:13:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>63</Number>
+          <Date>2011-12-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2011-12-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2011-12-08T10:13:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-08T10:13:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-08T10:13:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-04-05T13:28:55</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16765</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+          <StudyActivityId>7423659</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>95</Number>
+          <Date>2012-03-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>107</Number>
+          <Date>2012-04-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>7338164</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5314122</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - TRAN</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - TRAN</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - TRAN</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2012-04-05T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>107</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2012-04-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2012-04-05T13:28:55</EventStartDateTime>
+          <EventEndDateTime>2012-04-05T13:28:55</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-04-05T13:28:55</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>6942492</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>38633</PersonId>
+          <PersonOfficialFirstName>Denis</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lebel</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Denis Lebel</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2012-03-13T10:13:36</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>6943265</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>20816</PersonId>
+          <PersonOfficialFirstName>Olivia</PersonOfficialFirstName>
+          <PersonOfficialLastName>Chow</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Olivia Chow</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2012-03-13T10:42:59</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>6943799</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>192</PersonId>
+          <PersonOfficialFirstName>Denis</PersonOfficialFirstName>
+          <PersonOfficialLastName>Coderre</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Denis Coderre</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2012-03-13T11:09:55</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2012-04-25T14:23:47</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16765</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+          <StudyActivityId>7423659</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>110</Number>
+          <Date>2012-04-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16765</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2012-04-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2012-04-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>5510563</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2012-04-25T14:23:47</EventStartDateTime>
+          <EventEndDateTime>2012-04-25T14:23:47</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-04-25T14:23:47</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-05-01T12:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>114</Number>
+          <Date>2012-05-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2012-05-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2012-05-01T12:10:00</EventStartDateTime>
+          <EventEndDateTime>2012-05-01T12:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-05-01T12:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-05-01T17:43:23</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>114</Number>
+          <Date>2012-05-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>7550674</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5314124</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2012-05-01T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>114</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2012-05-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2012-05-01T17:43:23</EventStartDateTime>
+          <EventEndDateTime>2012-05-01T17:43:23</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-05-01T17:43:23</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-10-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>18</Number>
+          <Date>2011-10-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2011-10-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2011-10-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-10-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-10-06T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-02T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>19</Number>
+          <Date>2011-10-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>26</Number>
+          <Date>2011-11-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2011-11-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2011-11-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2011-11-02T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-02T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-02T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59547</PersonId>
+          <PersonOfficialFirstName>Nicole</PersonOfficialFirstName>
+          <PersonOfficialLastName>Eaton</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Nicole Eaton</PersonName>
+          <SenateSystemAffiliationId>2809</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>19</MeetingNumber>
+          <SpeechDateTime>2011-10-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/019db_2011-10-18-e#33</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/019db_2011-10-18-f#33</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/019db_2011-10-18-e#33</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>13038</PersonId>
+          <PersonOfficialFirstName>Terry M.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mercer</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Terry M. Mercer</PersonName>
+          <SenateSystemAffiliationId>2759</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>26</MeetingNumber>
+          <SpeechDateTime>2011-11-02T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/026db_2011-11-02-e#34</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/026db_2011-11-02-f#34</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/026db_2011-11-02-e#34</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2011-11-24T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité avec un amendement</NameFr>
+          <Name>Committee report presented with an amendment</Name>
+          <Number>33</Number>
+          <Date>2011-11-24T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2011-11-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2011-11-22T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2011-11-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec un amendement</EventNameFr>
+          <EventName>Committee report presented with an amendment</EventName>
+          <EventDateTime>2011-11-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2011-11-24T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-24T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-24T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-11-30T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>34</Number>
+          <Date>2011-11-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report adopted</NameEn>
+          <NameFr>Adoption du rapport de comité</NameFr>
+          <Name>Committee report adopted</Name>
+          <Number>35</Number>
+          <Date>2011-11-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2011-11-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2011-11-30T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-11-30T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-11-30T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2011-12-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>36</Number>
+          <Date>2011-12-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>38</Number>
+          <Date>2011-12-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2011-12-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with an amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec un amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with an amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2011-12-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2011-12-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2011-12-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>81</Number>
+          <Date>2012-05-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2012-05-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2012-05-17T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-05-17T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-05-17T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>5164274</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5311814</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the Senate</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par le Sénat</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the Senate</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5606352</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Rail Transportation (Transport Canada)</TitleEn>
+      <TitleFr>Transport ferroviaire (Transports Canada)</TitleFr>
+      <Title>Rail Transportation (Transport Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.tc.gc.ca/eng/policy/anre-menu-3020.htm</UrlEn>
+      <UrlFr>http://www.tc.gc.ca/fra/politique/anre-menu-3020.htm</UrlFr>
+      <Url>http://www.tc.gc.ca/eng/policy/anre-menu-3020.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada to improve rail safety for Canadians</TitleEn>
+      <TitleFr>Le gouvernement du Canada accroît la sécurité ferroviaire pour les Canadiens</TitleFr>
+      <Title>Government of Canada to improve rail safety for Canadians</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1669</BibliographicNoticeId>
+      <Title>Safety, security regulations big implications for rail industry [Bill S-4]</Title>
+      <Author>Plecash, Chris</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1132:24</VolumePage>
+      <PublicationDate>April 9, 2012</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>4579061</Id>
+      <NumberCode>C-33</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>33</Number>
+      <LongTitleEn>An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur la sécurité ferroviaire et la Loi sur les transports au Canada en conséquence</LongTitleFr>
+      <LongTitle>An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act</LongTitle>
+      <ShortTitleEn>Safer Railways Act</ShortTitleEn>
+      <ShortTitleFr>Loi améliorant la sécurité ferroviaire</ShortTitleFr>
+      <ShortTitle>Safer Railways Act</ShortTitle>
+      <StatusId>353</StatusId>
+      <StatusNameEn>At report stage in the House of Commons</StatusNameEn>
+      <StatusNameFr>À l'étape du rapport à la Chambre des communes</StatusNameFr>
+      <StatusName>At report stage in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2011-03-11T11:30:33</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>40</ParliamentNumber>
+      <SessionNumber>3</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2010-06-04T12:04:57</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime>2010-12-08T16:49:17</PassedHouseSecondReadingDateTime>
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
