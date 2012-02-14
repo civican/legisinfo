@@ -1,0 +1,764 @@
+<Bills>
+  <Bill>
+    <Id>5375610</Id>
+    <NumberCode>C-30</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>30</Number>
+    <LongTitleEn>An Act to enact the Investigating and Preventing Criminal Electronic Communications Act and to amend the Criminal Code and other Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur les enquêtes visant les communications électroniques criminelles et leur prévention et modifiant le Code criminel et d'autres lois</LongTitleFr>
+    <LongTitle>An Act to enact the Investigating and Preventing Criminal Electronic Communications Act and to amend the Criminal Code and other Acts</LongTitle>
+    <ShortTitleEn>Protecting Children from Internet Predators Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la protection des enfants contre les cyberprédateurs</ShortTitleFr>
+    <ShortTitle>Protecting Children from Internet Predators Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2012-02-14T10:04:35</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1836</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Vic</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Toews</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Vic Toews</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>499</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Provencher</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Provencher</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Provencher</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2012-02-14T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>80</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2012-02-14T10:04:35</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 14 February 2012, the Minister of Public Safety introduced Bill C-30, An Act to enact the Investigating and Preventing Criminal Electronic Communications act and to amend the Criminal Code and other Acts (Protecting Children from Internet Predators Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 enacts the Investigating and Preventing Criminal Electronic Communications Act, which requires telecommunications service providers to put in place and maintain certain capabilities that facilitate the lawful interception of information transmitted by telecommunications and to provide basic information about their subscribers to the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, the Commissioner of Competition and any police service constituted under the laws of a province.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Criminal Code in respect of authorizations to intercept private communications, warrants and orders and adds to that Act new investigative powers in relation to computer crime and the use of new technologies in the commission of crimes. Among other things, it&lt;br/&gt;•	provides that if an authorization is given under certain provisions of Part VI, the judge may at the same time issue a warrant or make an order that relates to the investigation in respect of which the authorization is given;&lt;br/&gt;•	provides that the rules respecting confidentiality that apply in respect of a request for an authorization to intercept private communications also apply in respect of a request for a related warrant or order;&lt;br/&gt;•	requires the Minister of Public Safety and Emergency Preparedness to report on the interceptions of private communications made without authorizations;&lt;br/&gt;•	provides that a person who has been the object of an interception made without an authorization must be notified of the interception within a specified period;&lt;br/&gt;•	permits a peace officer or a public officer, in certain circumstances, to install and make use of a number recorder without a warrant;&lt;br/&gt;•	extends to one year the maximum period of validity of a warrant for a tracking device and a number recorder if the warrant is issued in respect of a terrorism offence or an offence relating to a criminal organization;&lt;br/&gt;•	provides the power to make preservation demands and orders to compel the preservation of electronic evidence;&lt;br/&gt;•	provides new production orders to compel the production of data relating to the transmission of communications and the location of transactions, individuals or things;&lt;br/&gt;•	provides a warrant to obtain transmission data that will extend to all means of telecommunication the investigative powers that are currently restricted to data associated with telephones; and&lt;br/&gt;•	provides warrants that will enable the tracking of transactions, individuals and things and that are subject to legal thresholds appropriate to the interests at stake.&lt;br/&gt;&lt;br/&gt;It also amends offences in the Criminal Code relating to hate propaganda and its communication over the Internet, false information, indecent communications, harassing communications, devices used to obtain telecommunication services without payment and devices used to obtain the unauthorized use of computer systems or to commit mischief.&lt;br/&gt;&lt;br/&gt;Part 2 also amends the Competition Act to make applicable, for the purpose of enforcing certain provisions of that Act, the new provisions being added to the Criminal Code respecting demands and orders for the preservation of computer data and orders for the production of documents relating to the transmission of communications or financial data. It also modernizes the provisions of the Act relating to electronic evidence and provides for more effective enforcement in a technologically advanced environment.&lt;br/&gt;&lt;br/&gt;Lastly, it amends the Mutual Legal Assistance in Criminal Matters Act to make some of the new investigative powers being added to the Criminal Code available to Canadian authorities executing incoming requests for assistance and to allow the Commissioner of Competition to execute search warrants under the Mutual Legal Assistance in Criminal Matters Act.&lt;br/&gt;&lt;br/&gt;Part 3 contains coordinating amendments and coming-into-force provisions.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 14 février 2011, le ministre de la sécurité publique a déposé le projet de loi C-30, Loi édictant la Loi sur les enquêtes visant les communications électroniques criminelles et leur prévention et modifiant the Code criminel et d'autres lois (Loi sur la protection des enfants contre les cyberprédateurs), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 édicte la Loi sur les enquêtes visant les communications électroniques criminelles et leur prévention, laquelle exige des télécommunicateurs qu'ils disposent des moyens nécessaires pour faciliter l'interception licite de l'information transmise par télécommunication et qu'ils fournissent des renseignements de base sur leurs abonnés à la Gendarmerie royale du Canada, au Service canadien du renseignement de sécurité, au commissaire de la concurrence ou à tout service de police constitué sous le régime d'une loi provinciale. &lt;br/&gt;&lt;br/&gt;La partie 2 modifie certaines dispositions du Code criminel relatives aux autorisations d'intercepter des communications privées, aux mandats et aux ordonnances et ajoute de nouveaux pouvoirs d'enquête liés aux délits informatiques et à l'utilisation de nouvelles technologies pour perpétrer des infractions. Elle prévoit notamment ce qui suit :&lt;br/&gt;•	le fait que, lorsque le juge accorde une autorisation en vertu de certaines dispositions de la partie VI, il peut en même temps rendre certaines ordonnances et délivrer un mandat ayant trait à l'enquête à l'égard de laquelle l'autorisation est accordée;&lt;br/&gt;•	l'application des règles visant à assurer le secret de la demande d'autorisation d'interception de communication privée aux demandes d'ordonnance ou de mandat connexes;&lt;br/&gt;•	l'obligation, pour le ministre de la Sécurité publique et de la Protection civile, de faire rapport sur les interceptions de communications privées faites sans autorisation;&lt;br/&gt;•	le fait que toute personne qui a fait l'objet d'une interception de communication privée sans autorisation doit en être avisée à l'intérieur de certains délais;&lt;br/&gt;•	le fait que, dans certaines circonstances, un agent de la paix ou un fonctionnaire public peut, sans mandat, installer et utiliser un enregistreur de numéro;&lt;br/&gt;•	la prolongation jusqu'à un an de la période de validité maximale d'un mandat pour l'utilisation d'un dispositif de localisation ou d'un enregistreur de numéro lorsque la mandat vise une infraction de terrorisme ou une infraction liée à une organisation criminelle;&lt;br/&gt;•	le pouvoir de donner un ordre de préservation et de rendre une ordonnance au même effet qui rendront obligatoire la préservation de la preuve électronique;&lt;br/&gt;•	de nouvelles ordonnances de communication qui rendront obligatoire la communication de données concernant la transmission de communications et le lieu où se déroulent des opérations ou le lieu où se trouvent des personnes physiques ou des choses;&lt;br/&gt;•	un mandat visant à obtenir des données de transmission afin d'étendre à tout autre moyen de télécommunication les pouvoirs d'enquête actuellement restreints aux données relatives aux téléphones;&lt;br/&gt;•	des mandats, assujettis aux seuils juridiques appropriés aux intérêts en cause, qui permettront de localiser des opérations, des personnes physiques ou des choses.&lt;br/&gt;&lt;br/&gt;Elle modifie également le Code criminel relativement aux infractions liées à la propagande haineuse et à sa communication par Internet, aux faux renseignements, aux communications indécentes ou faites avec l'intention de harceler, aux dispositifs permettant l'obtention de services de télécommunication sans paiement et aux dispositifs permettant l'utilisation non autorisée d'un ordinateur ou la commission d'un méfait.&lt;br/&gt;&lt;br/&gt;Elle modifie aussi la Loi sur la concurrence afin de rendre applicables, pour assurer le contrôle d'application de certaines dispositions de cette loi, les nouvelles dispositions du Code criminel concernant les ordres et ordonnances de préservation de données informatiques et les ordonnances de communication de documents ayant trait à la transmission de communications ou à des données financières. Elle modernise les dispositions relatives à la preuve électronique et permet un contrôle d'application plus efficace de la loi dans un environnement technologique de pointe.&lt;br/&gt;&lt;br/&gt;Elle modifie enfin la Loi sur l'entraide juridique en matière criminelle afin de permettre aux autorités canadiennes qui reçoivent des demandes d'assistance d'utiliser certains des nouveaux pouvoirs d'enquête prévus au Code criminel et de permettre au commissaire de la concurrence d'exécuter des mandats de perquisition en vertu de la Loi sur l'entraide juridique en matière criminelle.&lt;br/&gt;&lt;br/&gt;La partie 3 comprend des dispositions de coordination et les dispositions d'entrée en vigueur.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 14 February 2012, the Minister of Public Safety introduced Bill C-30, An Act to enact the Investigating and Preventing Criminal Electronic Communications act and to amend the Criminal Code and other Acts (Protecting Children from Internet Predators Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 enacts the Investigating and Preventing Criminal Electronic Communications Act, which requires telecommunications service providers to put in place and maintain certain capabilities that facilitate the lawful interception of information transmitted by telecommunications and to provide basic information about their subscribers to the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, the Commissioner of Competition and any police service constituted under the laws of a province.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Criminal Code in respect of authorizations to intercept private communications, warrants and orders and adds to that Act new investigative powers in relation to computer crime and the use of new technologies in the commission of crimes. Among other things, it&lt;br/&gt;•	provides that if an authorization is given under certain provisions of Part VI, the judge may at the same time issue a warrant or make an order that relates to the investigation in respect of which the authorization is given;&lt;br/&gt;•	provides that the rules respecting confidentiality that apply in respect of a request for an authorization to intercept private communications also apply in respect of a request for a related warrant or order;&lt;br/&gt;•	requires the Minister of Public Safety and Emergency Preparedness to report on the interceptions of private communications made without authorizations;&lt;br/&gt;•	provides that a person who has been the object of an interception made without an authorization must be notified of the interception within a specified period;&lt;br/&gt;•	permits a peace officer or a public officer, in certain circumstances, to install and make use of a number recorder without a warrant;&lt;br/&gt;•	extends to one year the maximum period of validity of a warrant for a tracking device and a number recorder if the warrant is issued in respect of a terrorism offence or an offence relating to a criminal organization;&lt;br/&gt;•	provides the power to make preservation demands and orders to compel the preservation of electronic evidence;&lt;br/&gt;•	provides new production orders to compel the production of data relating to the transmission of communications and the location of transactions, individuals or things;&lt;br/&gt;•	provides a warrant to obtain transmission data that will extend to all means of telecommunication the investigative powers that are currently restricted to data associated with telephones; and&lt;br/&gt;•	provides warrants that will enable the tracking of transactions, individuals and things and that are subject to legal thresholds appropriate to the interests at stake.&lt;br/&gt;&lt;br/&gt;It also amends offences in the Criminal Code relating to hate propaganda and its communication over the Internet, false information, indecent communications, harassing communications, devices used to obtain telecommunication services without payment and devices used to obtain the unauthorized use of computer systems or to commit mischief.&lt;br/&gt;&lt;br/&gt;Part 2 also amends the Competition Act to make applicable, for the purpose of enforcing certain provisions of that Act, the new provisions being added to the Criminal Code respecting demands and orders for the preservation of computer data and orders for the production of documents relating to the transmission of communications or financial data. It also modernizes the provisions of the Act relating to electronic evidence and provides for more effective enforcement in a technologically advanced environment.&lt;br/&gt;&lt;br/&gt;Lastly, it amends the Mutual Legal Assistance in Criminal Matters Act to make some of the new investigative powers being added to the Criminal Code available to Canadian authorities executing incoming requests for assistance and to allow the Commissioner of Competition to execute search warrants under the Mutual Legal Assistance in Criminal Matters Act.&lt;br/&gt;&lt;br/&gt;Part 3 contains coordinating amendments and coming-into-force provisions.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-02-14T10:04:35</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>80</Number>
+          <Date>2012-02-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2012-02-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2012-02-14T10:04:35</EventStartDateTime>
+          <EventEndDateTime>2012-02-14T10:04:35</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-02-14T10:04:35</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>5380965</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>80</MeetingNumber>
+      <HansardNumber>6604519</HansardNumber>
+      <RulingStatementDateTime>2012-02-14T15:06:08</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Integrated Technological Crime Unit (Royal Canadian Mounted Police)</TitleEn>
+      <TitleFr>Groupe intégré de la criminalité technologique (Gendarmerie royale du Canada)</TitleFr>
+      <Title>Integrated Technological Crime Unit (Royal Canadian Mounted Police)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.rcmp-grc.gc.ca/qc/services/gict-itcu/accueil-gict-itcu-home-eng.htm</UrlEn>
+      <UrlFr>http://www.rcmp-grc.gc.ca/qc/services/gict-itcu/accueil-gict-itcu-home-fra.htm</UrlFr>
+      <Url>http://www.rcmp-grc.gc.ca/qc/services/gict-itcu/accueil-gict-itcu-home-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cybercrime (Council of Europe)</TitleEn>
+      <TitleFr>Cybercriminalité (Conseil de l'Europe)</TitleFr>
+      <Title>Cybercrime (Council of Europe)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.coe.int/t/dghl/cooperation/economiccrime/cybercrime/Default_en.asp</UrlEn>
+      <UrlFr>http://www.coe.int/t/dghl/cooperation/economiccrime/cybercrime/Default_en.asp</UrlFr>
+      <Url>http://www.coe.int/t/dghl/cooperation/economiccrime/cybercrime/Default_en.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Convention on Cybercrime (Council of Europe. C.E.T.S. No. 185, 23 November 2001)</TitleEn>
+      <TitleFr>Convention sur la cybercriminalité (Conseil de l'Europe. S.T.C.E. no. 185, 23 novembre 2001)</TitleFr>
+      <Title>Convention on Cybercrime (Council of Europe. C.E.T.S. No. 185, 23 November 2001)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?NT=185&amp;CL=ENG</UrlEn>
+      <UrlFr>http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?CL=FRE&amp;NT=185</UrlFr>
+      <Url>http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?NT=185&amp;CL=ENG</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Additional Protocol to the Convention on Cybercrime, Concerning the Criminalisation of Acts of a Racist and Xenophobic Nature Committed Through Computer Systems  (Council of Europe. C.E.T.S. No. 189, 28 January 2003)</TitleEn>
+      <TitleFr>Protocole additionnel à la Convention sur la cybercriminalité, relatif à l'incrimination d'actes de nature raciste et xénophobe commis par le biais de systèmes informatiques (Conseil de l'Europe. S.T.C.E. no. 189, 28 janvier 2003)</TitleFr>
+      <Title>Additional Protocol to the Convention on Cybercrime, Concerning the Criminalisation of Acts of a Racist and Xenophobic Nature Committed Through Computer Systems  (Council of Europe. C.E.T.S. No. 189, 28 January 2003)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?NT=189&amp;CM=4&amp;CL=ENG</UrlEn>
+      <UrlFr>http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?CL=FRE&amp;CM=4&amp;NT=189</UrlFr>
+      <Url>http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?NT=189&amp;CM=4&amp;CL=ENG</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Mutual legal assistance in criminal matters (Department of Justice Canada. Federal Prosecution Service. Federal Prosecution Service Deskbook. Part VIII. Chapter 43, 2004)</TitleEn>
+      <TitleFr>L'entraide juridique en matière pénale (Ministère de la Justice Canada. Service fédéral des poursuites. Guide du Service fédéral des poursuites. Partie VIII. Chapitre 43, 2004)</TitleFr>
+      <Title>Mutual legal assistance in criminal matters (Department of Justice Canada. Federal Prosecution Service. Federal Prosecution Service Deskbook. Part VIII. Chapter 43, 2004)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.ppsc-sppc.gc.ca/eng/fps-sfp/fpd/ch43.html</UrlEn>
+      <UrlFr>http://www.ppsc-sppc.gc.ca/fra/sfp-fps/fpd/ch43.html</UrlFr>
+      <Url>http://www.ppsc-sppc.gc.ca/eng/fps-sfp/fpd/ch43.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Summary of Submissions to the Lawful Access Consultation (Department of Justice Canada. 28 April 2003)</TitleEn>
+      <TitleFr>Résumé des mémoires présentés dans le cadre de la consultation sur l'accès légal (Ministère de la Justice, 28 avril 2003)</TitleFr>
+      <Title>Summary of Submissions to the Lawful Access Consultation (Department of Justice Canada. 28 April 2003)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/cons/la-al/sum-res/index.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/cons/al-la/res-sum/index.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/cons/la-al/sum-res/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Lawful access : consultation document (Government of Canada, August 25, 2002)</TitleEn>
+      <TitleFr>Accès légal : document de consultation (Gouvernement du Canada, 25 août 2002)</TitleFr>
+      <Title>Lawful access : consultation document (Government of Canada, August 25, 2002)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/cons/la-al/consult.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/cons/al-la/consult.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/cons/la-al/consult.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Measuring the extent of cyber-fraud in Canada : a discussion paper on potential methods and data sources (Sara M. Smyth and Rebecca Carleton. Public Safety Canada, August 2011)</TitleEn>
+      <TitleFr>Évaluation de l'ampleur de la cyberfraude : document de travail sur les méthodes potentielles et les sources de données (Sara M. Smyth et Rebecca Carleton. Sécurité publique Canada, août 2011)</TitleFr>
+      <Title>Measuring the extent of cyber-fraud in Canada : a discussion paper on potential methods and data sources (Sara M. Smyth and Rebecca Carleton. Public Safety Canada, August 2011)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://publications.gc.ca/collections/collection_2011/sp-ps/PS14-4-2011-eng.pdf</UrlEn>
+      <UrlFr>http://publications.gc.ca/collections/collection_2012/sp-ps/PS14-4-2011-fra.pdf</UrlFr>
+      <Url>http://publications.gc.ca/collections/collection_2011/sp-ps/PS14-4-2011-eng.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The spies we trust : third party service providers and law enforcement surveillance (Christopher Soghoian. Ph.D. Thesis. Department of Computer Science, Indiana University, August 2012)</TitleEn>
+      <TitleFr>The spies we trust : third party service providers and law enforcement surveillance (Christopher Soghoian. Ph.D. Thesis. Department of Computer Science, Indiana University, August 2012)</TitleFr>
+      <Title>The spies we trust : third party service providers and law enforcement surveillance (Christopher Soghoian. Ph.D. Thesis. Department of Computer Science, Indiana University, August 2012)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://files.dubfire.net/csoghoian-dissertation-final-8-1-2012.pdf</UrlEn>
+      <UrlFr>http://files.dubfire.net/csoghoian-dissertation-final-8-1-2012.pdf</UrlFr>
+      <Url>http://files.dubfire.net/csoghoian-dissertation-final-8-1-2012.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper government introduces Protecting Children from Internet Predators Act</TitleEn>
+      <TitleFr>Le Gouvernement Harper présente la Loi sur la protection des enfants contre les cyberprédateurs</TitleFr>
+      <Title>Harper government introduces Protecting Children from Internet Predators Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.publicsafety.gc.ca/media/nr/2012/nr20120214-eng.aspx?rss=true</UrlEn>
+      <UrlFr>http://www.securitepublique.gc.ca/media/nr/2012/nr20120214-fra.aspx?rss=true</UrlFr>
+      <Url>http://www.publicsafety.gc.ca/media/nr/2012/nr20120214-eng.aspx?rss=true</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1639</BibliographicNoticeId>
+      <Title>Spies, lies and the internet [electronic resource] : snooping on new media</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>402:66</VolumePage>
+      <PublicationDate>Apr. 7, 2012</PublicationDate>
+      <Classification>HG11 E26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1608</BibliographicNoticeId>
+      <Title>Conservatives  controversial internet surveillance bill C-30 could be "a long time in purgatory"</Title>
+      <Author>Vongdouangchanh, Bea</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>1127:1,18-19</VolumePage>
+      <PublicationDate>Mar. 5, 2012</PublicationDate>
+      <Classification>Radar A040646</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1612</BibliographicNoticeId>
+      <Title>Internet surveillance bill backlash : internet "guerilla war" take Canada across political Rubicon - "hugely disturbing" [Bill C-30]</Title>
+      <Author>Naumetz, Tim</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>no. 1126:1-6</VolumePage>
+      <PublicationDate>Feb. 27, 2012</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1702</BibliographicNoticeId>
+      <Title>Privacy in the balance : novel search technologies, reasonable expectations, and recalibrating Section 8</Title>
+      <Author>Johnson, Mathew</Author>
+      <Publication>Criminal Law Quarterly</Publication>
+      <VolumePage>58:442-509</VolumePage>
+      <PublicationDate>May 2012</PublicationDate>
+      <Classification>K3 R4</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1704</BibliographicNoticeId>
+      <Title>Still a fire-proof house? : an analysis of Canada's cyber security strategy</Title>
+      <Author>Platt, Victor</Author>
+      <Publication>International journal</Publication>
+      <VolumePage>67(1): 155-67</VolumePage>
+      <PublicationDate>Winter 2011-2012</PublicationDate>
+      <Classification>D839 I58</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1705</BibliographicNoticeId>
+      <Title>Cybercrime</Title>
+      <Author>Clough, Jonathan</Author>
+      <Publication>Commonwealth law bulletin</Publication>
+      <VolumePage>37(4): 671-80</VolumePage>
+      <PublicationDate>Dec. 2011</PublicationDate>
+      <Classification>K3 O3838</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1706</BibliographicNoticeId>
+      <Title>Cybersecurity and intelligence : the U.S. approach</Title>
+      <Author>Porteous, Holly</Author>
+      <Publication>Library of Parliament. Background Paper No. 2010-02-E</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>revised 15 June 2011</PublicationDate>
+      <Classification>J103.2 B32 no. 2011-36-E 2011 June 15</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1707</BibliographicNoticeId>
+      <Title>Cybersécurité et renseignement de sécurité : l'approche des États-Unis</Title>
+      <Author>Porteous, Holly</Author>
+      <Publication>Bibliothèque du Parlement. Étude générale no 2010-02-F</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>révisée le 15 juin 2011</PublicationDate>
+      <Classification>J103.2 B42 no2010-02-F 2011 15 juin</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1708</BibliographicNoticeId>
+      <Title>Cybercrime : issues</Title>
+      <Author>Valiquet, Dominique</Author>
+      <Publication>Library of Parliament. Background Paper No. 2011-36-E</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>5 April 2011</PublicationDate>
+      <Classification>J103.2 B32 no.2011-36-E 2011</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1709</BibliographicNoticeId>
+      <Title>Cybercriminalité : les enjeux</Title>
+      <Author>Valiquet, Dominique</Author>
+      <Publication>Bibliothèque du Parlement. Étude générale no 2011-36-F</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>5 avril 2011</PublicationDate>
+      <Classification>J103.2 B32 no.2011-36-F 2011</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1710</BibliographicNoticeId>
+      <Title>Cybersecurity and cybercrime [electronic resource] : dealing with a complex threat</Title>
+      <Author>Porteous, Holly, and Dominique Valiquet</Author>
+      <Publication>Current and Emerging Issues for the 41st Parliament</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>March 2011</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1711</BibliographicNoticeId>
+      <Title>La cybersécurité et la cybercriminalité [ressource électronique] : s'attaquer à une menace complexe</Title>
+      <Author>Porteous, Holly, et Dominique Valiquet</Author>
+      <Publication>Enjeux courants et émergents pour la 41e législature</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Mars 2011</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1712</BibliographicNoticeId>
+      <Title>What is cyberspace victimization, in Victimization in cyberspace : an application of routine activity and lifestyle exposure theories</Title>
+      <Author>Yucedal, Behzat</Author>
+      <Publication>Ph.D. Thesis. Department of Political Science. Kent State University</Publication>
+      <VolumePage>Chapter 2, p. 6-24</VolumePage>
+      <PublicationDate>August 2010</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1713</BibliographicNoticeId>
+      <Title>Updating Canada's communications surveillance laws : privacy and security in the digital age</Title>
+      <Author>Penney, Steven</Author>
+      <Publication>Canadian Criminal Law Review</Publication>
+      <VolumePage>12(2): 115-59</VolumePage>
+      <PublicationDate>February 2008</PublicationDate>
+      <Classification>K3 A392</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1714</BibliographicNoticeId>
+      <Title>Cybercrime : digital cops in a networked environment</Title>
+      <Author>Balkin, Jack M., et al</Author>
+      <Publication>New York University Press</Publication>
+      <VolumePage>viii, 268 p.</VolumePage>
+      <PublicationDate>2007</PublicationDate>
+      <Classification>HV6773.2 C93</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1715</BibliographicNoticeId>
+      <Title>Watching the Web : thoughts on expanding police surveillance opportunities under the Cyber-Crime Convention</Title>
+      <Author>Huey, Laura, and Richard S. Rosenberg</Author>
+      <Publication>Canadian Journal of Criminology &amp; Criminal Justice</Publication>
+      <VolumePage>46(5): 597-606</VolumePage>
+      <PublicationDate>October 2004</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1830</BibliographicNoticeId>
+      <Title>House Affairs likely to end probe of anonymous threats against Toews, opposition MPs say study's going nowhere [Bill C-30]</Title>
+      <Author>Ryckewaert, Laura</Author>
+      <Publication>Hill Times</Publication>
+      <VolumePage>1132:20</VolumePage>
+      <PublicationDate>April 9, 2012</PublicationDate>
+      <Classification>JL1 H55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1826</BibliographicNoticeId>
+      <Title>The new stalking offences in English law : will they provide effective protection from cyberstalking?</Title>
+      <Author>MacEwan, Neil</Author>
+      <Publication>Criminal law review</Publication>
+      <VolumePage>10:767-81</VolumePage>
+      <PublicationDate>2010</PublicationDate>
+      <Classification>K3 R55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1835</BibliographicNoticeId>
+      <Title>Unwarranted access [electronic resource]?</Title>
+      <Author>Singer, Leo</Author>
+      <Publication>National</Publication>
+      <VolumePage>21:16-21</VolumePage>
+      <PublicationDate>June 2012</PublicationDate>
+      <Classification>K14 A85</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2061</BibliographicNoticeId>
+      <Title>Cyberstalking and the law : a response to Neil MacEwan</Title>
+      <Author>Gillespie, Alisdair A</Author>
+      <Publication>Criminal law review</Publication>
+      <VolumePage>no.1:38-45</VolumePage>
+      <PublicationDate>2013</PublicationDate>
+      <Classification>K3 R55</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2811</BibliographicNoticeId>
+      <Title>Privacy in the age of the Internet : lawful access provisions and access to ISP and OSP subscriber information</Title>
+      <Author>Mayeda, Graham</Author>
+      <Publication>Alberta law review</Publication>
+      <VolumePage>53(3):709-746</VolumePage>
+      <PublicationDate>2016</PublicationDate>
+      <Classification>99128377502616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
