@@ -1,0 +1,2434 @@
+<Bills>
+  <Bill>
+    <Id>5383493</Id>
+    <NumberCode>C-31</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>31</Number>
+    <LongTitleEn>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</LongTitleFr>
+    <LongTitle>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</LongTitle>
+    <ShortTitleEn>Protecting Canada's Immigration System Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant à protéger le système d'immigration du Canada</ShortTitleFr>
+    <ShortTitle>Protecting Canada's Immigration System Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2012-06-28T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1302</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jason</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Kenney</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jason Kenney</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Citizenship, Immigration and Multiculturalism</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Citoyenneté, de l'Immigration et du Multiculturalisme</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Citizenship, Immigration and Multiculturalism</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>516</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Calgary Southeast</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Calgary-Sud-Est</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Calgary Southeast</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2012-06-28T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>99</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2012-02-16T10:09:25</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2012-04-23T19:00:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2012-06-11T18:14:30</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2012-06-11T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2012-06-13T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2012-06-27T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2012-06-28T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 16 February 2012, the Minister of Citizenship, Immigration and Multiculturalism introduced Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (Protecting Canada's Immigration System Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-31 amends the Immigration and Refugee Protection Act and the Balanced Refugee Reform Act to, among other things, provide for the expediting of the processing of refugee protection claims.&lt;br/&gt;&lt;br/&gt;The Immigration and Refugee Protection Act is also amended to authorize the Minister, in certain circumstances, to designate as an irregular arrival the arrival in Canada of a group of persons and to provide for the effects of such a designation in respect of those persons, including in relation to detention, conditions of release from detention and applications for permanent resident status. In addition, the enactment amends certain enforcement provisions of that Act, notably to expand the scope of the offence of human smuggling and to provide for minimum punishments in relation to that offence. Furthermore, the enactment amends that Act to expand sponsorship options in respect of foreign nationals and to require the provision of biometric information when an application for a temporary resident visa, study permit or work permit is made.&lt;br/&gt;&lt;br/&gt;In addition, the enactment amends the Marine Transportation Security Act to increase the penalties for persons who fail to provide information that is required to be reported before a vessel enters Canadian waters or to comply with ministerial directions and for persons who provide false or misleading information. It creates a new offence in respect of vessels that fail to comply with ministerial directions and authorizes the making of regulations respecting the disclosure of certain information for the purpose of protecting the safety or security of Canada or Canadians.&lt;br/&gt;&lt;br/&gt;Finally, the enactment amends the Department of Citizenship and Immigration Act to enhance the authority for the Minister of Citizenship and Immigration to enter into agreements and arrangements with foreign governments, and to provide services to the Canada Border Services Agency.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 16 février 2012, le ministre de la Citoyenneté, l'immigration et du Multiculturalisme a déposé le projet de loi C-31 : Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur la sûreté du transport marine et la Loi sur le ministère de la Citoyenneté et de l'Immigration (Loi visant à protéger le système d'immigration du Canada), à la Chambre des communs en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-31 modifie la Loi sur l'immigration et la protection des réfugiés et la Loi sur des mesures de réforme équitables concernant les réfugiés afin, notamment, de prévoir un traitement accéléré des demandes d'asile.&lt;br/&gt;&lt;br/&gt;Il modifie également la Loi sur l'immigration et la protection des réfugiés pour permettre au ministre, dans certaines circonstances, de désigner l'arrivée d'un groupe de personnes au Canada comme une arrivée irrégulière et pour prévoir les conséquences d'une telle désignation pour ces personnes, y compris en matière de détention, de conditions de mise en liberté et de demandes de statut de résident permanent. De plus, le texte modifie certaines dispositions de cette loi portant sur son exécution, notamment afin d'élargir la portée de l'infraction d'organisation d'entrée illégale de personnes au Canada et de prévoir des peines minimales à l'égard de cette infraction. Enfin, le texte modifie cette loi pour élargir les possibilités de parrainage d'étrangers et pour prévoir l'obligation de fournir des renseignements biométriques lorsqu'est présentée une demande de visa de résident temporaire ou de permis d'études ou de travail.&lt;br/&gt;&lt;br/&gt;Il modifie en outre la Loi sur la sûreté du transport maritime pour augmenter les peines infligées aux personnes qui omettent de fournir des renseignements exigés avant l'entrée d'un bâtiment dans les eaux canadiennes ou de se conformer aux injonctions ministérielles et à celles qui fournissent des renseignements faux ou trompeurs. Il crée une nouvelle infraction à l'endroit des bâtiments qui contreviennent aux injonctions ministérielles. Il modifie également cette loi pour autoriser la prise de règlements régissant la communication de certains renseignements afin de veiller à la sûreté ou à la sécurité du Canada ou des Canadiens.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 16 February 2012, the Minister of Citizenship, Immigration and Multiculturalism introduced Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (Protecting Canada's Immigration System Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-31 amends the Immigration and Refugee Protection Act and the Balanced Refugee Reform Act to, among other things, provide for the expediting of the processing of refugee protection claims.&lt;br/&gt;&lt;br/&gt;The Immigration and Refugee Protection Act is also amended to authorize the Minister, in certain circumstances, to designate as an irregular arrival the arrival in Canada of a group of persons and to provide for the effects of such a designation in respect of those persons, including in relation to detention, conditions of release from detention and applications for permanent resident status. In addition, the enactment amends certain enforcement provisions of that Act, notably to expand the scope of the offence of human smuggling and to provide for minimum punishments in relation to that offence. Furthermore, the enactment amends that Act to expand sponsorship options in respect of foreign nationals and to require the provision of biometric information when an application for a temporary resident visa, study permit or work permit is made.&lt;br/&gt;&lt;br/&gt;In addition, the enactment amends the Marine Transportation Security Act to increase the penalties for persons who fail to provide information that is required to be reported before a vessel enters Canadian waters or to comply with ministerial directions and for persons who provide false or misleading information. It creates a new offence in respect of vessels that fail to comply with ministerial directions and authorizes the making of regulations respecting the disclosure of certain information for the purpose of protecting the safety or security of Canada or Canadians.&lt;br/&gt;&lt;br/&gt;Finally, the enactment amends the Department of Citizenship and Immigration Act to enhance the authority for the Minister of Citizenship and Immigration to enter into agreements and arrangements with foreign governments, and to provide services to the Canada Border Services Agency.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2012</StatuteYear>
+    <StatuteChapter>17</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-02-16T10:09:25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>82</Number>
+          <Date>2012-02-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2012-02-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2012-02-16T10:09:25</EventStartDateTime>
+          <EventEndDateTime>2012-02-16T10:09:25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-02-16T10:09:25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-04-23T19:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+          <StudyActivityId>7523846</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>90</Number>
+          <Date>2012-03-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>94</Number>
+          <Date>2012-03-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>97</Number>
+          <Date>2012-03-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>98</Number>
+          <Date>2012-03-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>99</Number>
+          <Date>2012-03-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>108</Number>
+          <Date>2012-04-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>7526017</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5389068</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - CIMM</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - CIMM</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - CIMM</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>183</DivisionNumber>
+          <DivisionVotesYeas>146</DivisionVotesYeas>
+          <DivisionVotesNays>121</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2012-04-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>108</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2012-04-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2012-04-23T19:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-04-23T19:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-04-23T19:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>6841714</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1302</PersonId>
+          <PersonOfficialFirstName>Jason</PersonOfficialFirstName>
+          <PersonOfficialLastName>Kenney</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jason Kenney</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2012-03-06T15:04:02</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>6842167</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>59325</PersonId>
+          <PersonOfficialFirstName>Don</PersonOfficialFirstName>
+          <PersonOfficialLastName>Davies</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Don Davies</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2012-03-06T15:35:37</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>6842694</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>30552</PersonId>
+          <PersonOfficialFirstName>Kevin</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lamoureux</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Kevin Lamoureux</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2012-03-06T16:06:40</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2012-05-14T15:26:25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+          <StudyActivityId>7523846</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>123</Number>
+          <Date>2012-05-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2012-04-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2012-04-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2012-04-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2012-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2012-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2012-05-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2012-05-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2012-05-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>39</Number>
+          <Date>2012-05-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2012-05-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2012-05-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2012-05-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2012-05-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2012-05-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16744</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2012-05-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2012-05-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>5567292</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2012-05-14T15:26:25</EventStartDateTime>
+          <EventEndDateTime>2012-05-14T15:26:25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-05-14T15:26:25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-06-04T20:35:52</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>126</Number>
+          <Date>2012-05-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>132</Number>
+          <Date>2012-06-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>133</Number>
+          <Date>2012-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2012-06-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2012-06-04T20:35:52</EventStartDateTime>
+          <EventEndDateTime>2012-06-04T20:35:52</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-04T20:35:52</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-06-11T18:14:30</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>137</Number>
+          <Date>2012-06-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>138</Number>
+          <Date>2012-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>7645166</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5389070</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>277</DivisionNumber>
+          <DivisionVotesYeas>159</DivisionVotesYeas>
+          <DivisionVotesNays>132</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2012-06-11T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>138</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2012-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2012-06-11T18:14:30</EventStartDateTime>
+          <EventEndDateTime>2012-06-11T18:14:30</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-11T18:14:30</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-06-11T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>88</Number>
+          <Date>2012-06-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2012-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2012-06-11T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-06-11T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-11T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-06-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>90</Number>
+          <Date>2012-06-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2012-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2012-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2012-06-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-06-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59283</PersonId>
+          <PersonOfficialFirstName>Yonah</PersonOfficialFirstName>
+          <PersonOfficialLastName>Martin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Yonah Martin</PersonName>
+          <SenateSystemAffiliationId>2813</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2012-06-13T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/090db_2012-06-13-e#33</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/090db_2012-06-13-f#33</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/090db_2012-06-13-e#33</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1415</PersonId>
+          <PersonOfficialFirstName>Mobina S.B.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Jaffer</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mobina S.B. Jaffer</PersonName>
+          <SenateSystemAffiliationId>168</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2012-06-13T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/090db_2012-06-13-e#33</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/090db_2012-06-13-f#33</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/090db_2012-06-13-e#33</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2012-06-21T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>95</Number>
+          <Date>2012-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2012-06-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2012-06-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2012-06-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2012-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2012-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-06-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>96</Number>
+          <Date>2012-06-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>97</Number>
+          <Date>2012-06-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>98</Number>
+          <Date>2012-06-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2012-06-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2012-06-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-06-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>99</Number>
+          <Date>2012-06-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2012-06-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2012-06-28T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2012-06-28T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-06-28T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>5391960</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5581460</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5667849</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>5697417</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>152</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubject>
+      <DivisionVotesYeas>152</DivisionVotesYeas>
+      <DivisionVotesNays>118</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>270</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-03-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>182</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>146</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>267</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-04-23T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>183</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubject>
+      <DivisionVotesYeas>146</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>267</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-04-23T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>228</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubject>
+      <DivisionVotesYeas>157</DivisionVotesYeas>
+      <DivisionVotesNays>125</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-05-29T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>237</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>238</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>239</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>240</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>241</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>242</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>243</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>244</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>245</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>246</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>247</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>133</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>248</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>249</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>149</DivisionVotesYeas>
+      <DivisionVotesNays>134</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>250</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>251</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>38</DivisionVotesYeas>
+      <DivisionVotesNays>244</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>252</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>38</DivisionVotesYeas>
+      <DivisionVotesNays>246</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>253</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>254</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>153</DivisionVotesYeas>
+      <DivisionVotesNays>131</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>255</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>256</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>148</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>257</DivisionNumber>
+      <DivisionSubjectEn>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>258</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubject>
+      <DivisionVotesYeas>149</DivisionVotesYeas>
+      <DivisionVotesNays>136</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>285</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-06-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>276</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>130</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>289</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2012-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>277</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-31, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés, la Loi sur la sûreté du transport maritime et la Loi sur le ministère de la Citoyenneté et de l'Immigration</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-31, An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act, the Marine Transportation Security Act and the Department of Citizenship and Immigration Act</DivisionSubject>
+      <DivisionVotesYeas>159</DivisionVotesYeas>
+      <DivisionVotesNays>132</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>291</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2012-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amendments to the Protecting Canada's Immigration System Act</TitleEn>
+      <TitleFr>Modifications à la Loi visant à protéger le système d'immigration du Canada</TitleFr>
+      <Title>Amendments to the Protecting Canada's Immigration System Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/releases/2012/2012-05-09.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/communiques/2012/2012-05-09.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/releases/2012/2012-05-09.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Introduces the Protecting Canada's Immigration System Act</TitleEn>
+      <TitleFr>Le gouvernement Harper présente la Loi visant à protéger le système d'immigration du Canada</TitleFr>
+      <Title>Harper Government Introduces the Protecting Canada's Immigration System Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/releases/2012/2012-02-16.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/communiques/2012/2012-02-16.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/releases/2012/2012-02-16.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Overview of Reforms to Canada's Refugee System</TitleEn>
+      <TitleFr>Aperçu des mesures de réforme visant le système d'octroi de l'asile du Canada</TitleFr>
+      <Title>Overview of Reforms to Canada's Refugee System</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Designated Countries of Origin</TitleEn>
+      <TitleFr>Pays d'origine désignés</TitleFr>
+      <Title>Designated Countries of Origin</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16i.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16i.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16i.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Summary of Changes to Canada's Refugee System in the Protecting Canada's Immigration System Act</TitleEn>
+      <TitleFr>Résumé des changements apportés au système canadien d'octroi de l'asile dans la Loi visant à protéger le système d'immigration du Canada</TitleFr>
+      <Title>Summary of Changes to Canada's Refugee System in the Protecting Canada's Immigration System Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16f.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16f.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16f.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Overview: Ending the Abuse of Canada's Immigration System by Human Smugglers</TitleEn>
+      <TitleFr>Aperçu – Faire cesser le recours abusif au système d'immigration du Canada par les passeurs de clandestins</TitleFr>
+      <Title>Overview: Ending the Abuse of Canada's Immigration System by Human Smugglers</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16d.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16d.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16d.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Protecting our Streets and Communities from Criminal and National Security Threats</TitleEn>
+      <TitleFr>Protéger nos rues et nos collectivités des menaces criminelles et des risques pour la sécurité nationale</TitleFr>
+      <Title>Protecting our Streets and Communities from Criminal and National Security Threats</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16e.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16e.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16e.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Tougher Penalties for Ship Owners and Operators who Fail to Comply with Canada's Marine Security Legislation</TitleEn>
+      <TitleFr>Des pénalités plus sévères pour les propriétaires et exploitants de navires qui ne se conforment pas à la législation canadienne en matière de sûreté maritime</TitleFr>
+      <Title>Tougher Penalties for Ship Owners and Operators who Fail to Comply with Canada's Marine Security Legislation</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16c.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16c.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16c.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Deterring Abuse of the Refugee System</TitleEn>
+      <TitleFr>Mesures pour dissuader le recours abusif au statut de réfugié</TitleFr>
+      <Title>Deterring Abuse of the Refugee System</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16k.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16k.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16k.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Designating Human Smuggling Events</TitleEn>
+      <TitleFr>Désignation des opérations de passage de clandestins</TitleFr>
+      <Title>Designating Human Smuggling Events</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16a.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16a.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16a.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cracking down on Human Smugglers who Abuse Canada's Immigration System</TitleEn>
+      <TitleFr>Sévir contre les passeurs de clandestins qui abusent du système d'immigration du Canada</TitleFr>
+      <Title>Cracking down on Human Smugglers who Abuse Canada's Immigration System</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16b.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16b.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16b.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Better Tools to Successfully Prosecute and Impose Mandatory Prison Sentences on Human Smugglers</TitleEn>
+      <TitleFr>De meilleurs outils pour poursuivre en justice les passeurs de clandestins et leur imposer des peines d'emprisonnement obligatoires</TitleFr>
+      <Title>Better Tools to Successfully Prosecute and Impose Mandatory Prison Sentences on Human Smugglers</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16j.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16j.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16j.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Biometrics in Canada's Temporary Resident Program</TitleEn>
+      <TitleFr>La biométrie dans le programme des résidents temporaires du Canada</TitleFr>
+      <Title>Biometrics in Canada's Temporary Resident Program</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16h.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16h.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16h.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Five reasons why we need biometrics</TitleEn>
+      <TitleFr>Cinq raisons pour lesquelles nous avons besoin de données biométriques</TitleFr>
+      <Title>Five reasons why we need biometrics</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16g.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2012/2012-02-16g.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2012/2012-02-16g.asp</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3252</BibliographicNoticeId>
+      <Title>Quand voyager mène au renvoi : analyse critique de la législation canadienne sur la perte du statut de résident permanent liée à la perte de l'asile</Title>
+      <Author>Mayrand, He´le`ne</Author>
+      <Publication>Dalhousie Law Journal</Publication>
+      <VolumePage>42 (1):183-212</VolumePage>
+      <PublicationDate>Spring 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1829</BibliographicNoticeId>
+      <Title>Le droit des professionnels et des gens de métier qui ont le statut de résident permanent de gagner leur vie au Québec en vertu de l'article 6 (2) (b) de la "Charte canadienne des droits et libertés"</Title>
+      <Author>Houle, France</Author>
+      <Publication>Cahiers de droit</Publication>
+      <VolumePage>53:79-108</VolumePage>
+      <PublicationDate>mars 2012</PublicationDate>
+      <Classification>K3 A55</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1842</BibliographicNoticeId>
+      <Title>On the "LAM" : in pursuit of the meaning of paragraph 5(1) (c) of the Citizenship Act</Title>
+      <Author>Aboughoushe, Adam</Author>
+      <Publication>University of British Columbia law review</Publication>
+      <VolumePage>44:423-58</VolumePage>
+      <PublicationDate>May 2011</PublicationDate>
+      <Classification>K25 N58</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1844</BibliographicNoticeId>
+      <Title>Continuity in Canadian immigration policy 1947 to present [electronic resource] : taking a fresh look at Mackenzie King's 1947 immigration policy statement</Title>
+      <Author>Vineberg, Robert</Author>
+      <Publication>Journal of international migration and integration</Publication>
+      <VolumePage>12:199-216</VolumePage>
+      <PublicationDate>May 2011</PublicationDate>
+      <Classification>JV6001 J68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1847</BibliographicNoticeId>
+      <Title>Canadian immigrants' access to a first job in their intended occupation [electronic resource]</Title>
+      <Author>Grenier, Gilles</Author>
+      <Publication>Journal of international migration and integration</Publication>
+      <VolumePage>12:275-303</VolumePage>
+      <PublicationDate>Aug. 2011</PublicationDate>
+      <Classification>JV6001 J68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1854</BibliographicNoticeId>
+      <Title>Enriching foreign qualifications through Canadian post-secondary education : who participates and why?</Title>
+      <Author>Adamuti-Trache, Maria</Author>
+      <Publication>Journal of international migration and integration</Publication>
+      <VolumePage>12:1-18</VolumePage>
+      <PublicationDate>Nov. 2011</PublicationDate>
+      <Classification>JV6001 J68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1831</BibliographicNoticeId>
+      <Title>Immigration : a skill question</Title>
+      <Author>Warnica, Richard</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>125:18-20</VolumePage>
+      <PublicationDate>Apr. 23, 2012</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1832</BibliographicNoticeId>
+      <Title>Immigration choisie : ce qui se fait ailleurs</Title>
+      <Author>Berthereau, Jessica</Author>
+      <Publication>Enjeux, les échos</Publication>
+      <VolumePage>287:39-41</VolumePage>
+      <PublicationDate>févr. 2012</PublicationDate>
+      <Classification>HC271 E66</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1857</BibliographicNoticeId>
+      <Title>Learning from Britain's mistakes : best practices and legislative revision in Canadian immigration law</Title>
+      <Author>Jenkins, David</Author>
+      <Publication>University of British Columbia law review</Publication>
+      <VolumePage>62:47-53</VolumePage>
+      <PublicationDate>Jan. 2012</PublicationDate>
+      <Classification>K25 N58</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1858</BibliographicNoticeId>
+      <Title>Not wanted</Title>
+      <Author>Olsen, Tyler</Author>
+      <Publication>This magazine</Publication>
+      <VolumePage>45:16-21</VolumePage>
+      <PublicationDate>Nov./Dec. 2011</PublicationDate>
+      <Classification>L11 T45</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1853</BibliographicNoticeId>
+      <Title>A new international law of citizenship</Title>
+      <Author>Spiro, Peter J</Author>
+      <Publication>American journal of international law</Publication>
+      <VolumePage>105:694-746</VolumePage>
+      <PublicationDate>Oct. 2011</PublicationDate>
+      <Classification>JX1 A54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1991</BibliographicNoticeId>
+      <Title>Enter at your own risk (commentary) [electronic resource] : government changes to comprehensive care for newly arrived Canadian refugees</Title>
+      <Author>Srya, Neil</Author>
+      <Publication>CMAJ : Canadian Medical Association journal</Publication>
+      <VolumePage>184:1875-76</VolumePage>
+      <PublicationDate>Nov. 20, 2012</PublicationDate>
+      <Classification>R11 C36</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1787</BibliographicNoticeId>
+      <Title>Un grave recul dans les droits des réfugiés</Title>
+      <Author>Idir, Mouloud</Author>
+      <Publication>Relations</Publication>
+      <VolumePage>757:5-6</VolumePage>
+      <PublicationDate>juin 2012</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>0</BibliographicNoticeId>
+      <Title>No longer a place of refuge [electronic resource] : health consequences of mandatory detention for refugees</Title>
+      <Author>Wales, Joshua</Author>
+      <Publication>Canadian family physician</Publication>
+      <VolumePage>59:609-10</VolumePage>
+      <PublicationDate>June 2013</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2226</BibliographicNoticeId>
+      <Title>Désormais plus un lieu de refuge [ressource électronique] : les conséquences pour la santé de la détention obligatoire des réfugiés</Title>
+      <Author>Wales, Joshua</Author>
+      <Publication>Canadian family physician</Publication>
+      <VolumePage>59:e257-59</VolumePage>
+      <PublicationDate>juin 2013</PublicationDate>
+      <Classification>PNC</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2175</BibliographicNoticeId>
+      <Title>L'expérience des demandeurs d'asile détenus au Canada [ressource électronique]</Title>
+      <Author>Cleveland, Janet</Author>
+      <Publication>Criminologie</Publication>
+      <VolumePage>46:107-29</VolumePage>
+      <PublicationDate>printemps 2013</PublicationDate>
+      <Classification>HV6002 A28</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2261</BibliographicNoticeId>
+      <Title>Migrant smuggling in Canadian waters [electronic resource]</Title>
+      <Author>Anderson, Darryl</Author>
+      <Publication>Canadian naval review</Publication>
+      <VolumePage>9:5-10 No. 2</VolumePage>
+      <PublicationDate>2013</PublicationDate>
+      <Classification>V55 C2 C366</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2293</BibliographicNoticeId>
+      <Title>Immigration: changing migration management</Title>
+      <Author>Boyd, Monica</Author>
+      <Publication>Diplomat &amp; international Canada</Publication>
+      <VolumePage>24:41-2</VolumePage>
+      <PublicationDate>Oct./Dec. 2013</PublicationDate>
+      <Classification>FC242 D56</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2717</BibliographicNoticeId>
+      <Title>Designated inhospitality : the treatment of asylum seekers who arrive by boat in Canada and Australia</Title>
+      <Author>Taylor, Luke</Author>
+      <Publication>McGill law journal</Publication>
+      <VolumePage>60(2):333-79</VolumePage>
+      <PublicationDate>Jan. 2015</PublicationDate>
+      <Classification>K13 C475</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>5089199</Id>
+      <NumberCode>C-4</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>4</Number>
+      <LongTitleEn>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur des mesures de réforme équitables concernant les réfugiés et la Loi sur la sûreté du transport maritime</LongTitleFr>
+      <LongTitle>An Act to amend the Immigration and Refugee Protection Act, the Balanced Refugee Reform Act and the Marine Transportation Security Act</LongTitle>
+      <ShortTitleEn>Preventing Human Smugglers from Abusing Canada's Immigration System Act</ShortTitleEn>
+      <ShortTitleFr>Loi visant à empêcher les passeurs d'utiliser abusivement le système d'immigration canadien</ShortTitleFr>
+      <ShortTitle>Preventing Human Smugglers from Abusing Canada's Immigration System Act</ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2011-06-16T12:15:32</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2011-06-16T12:15:32</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
