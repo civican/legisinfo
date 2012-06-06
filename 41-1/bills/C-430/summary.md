@@ -1,0 +1,164 @@
+# Bill C-430: An Act to amend the Competition Act and the Food and Drugs Act (child protection against advertising exploitation)
+
+- **Current Status**: Outside the Order of Precedence
+- **Sponsor**: Peter Julian
+- **Latest Activity**: Introduction and first reading (at 2012-06-06T14:00:00)
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
