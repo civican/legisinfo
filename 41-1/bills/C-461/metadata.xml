@@ -1,0 +1,840 @@
+<Bills>
+  <Bill>
+    <Id>5813278</Id>
+    <NumberCode>C-461</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>461</Number>
+    <LongTitleEn>An Act to amend the Access to Information Act and the Privacy Act (disclosure of information)</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur l'accès à l'information et la Loi sur la protection des renseignements personnels (communication de renseignements)</LongTitleFr>
+    <LongTitle>An Act to amend the Access to Information Act and the Privacy Act (disclosure of information)</LongTitle>
+    <ShortTitleEn>CBC and Public Service Disclosure and Transparency Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la communication de renseignements et la transparence de la SRC et de la fonction publique</ShortTitleFr>
+    <ShortTitle>CBC and Public Service Disclosure and Transparency Act</ShortTitle>
+    <StatusId>353</StatusId>
+    <StatusNameEn>At report stage in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'étape du rapport à la Chambre des communes</StatusNameFr>
+    <StatusName>At report stage in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2013-06-06T10:06:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>4</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Private Member's Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant d'un député</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Private Member's Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>59203</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Brent</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Rathgeber</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>Brent</SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Brent Rathgeber</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Member of Parliament</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>député</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Member of Parliament</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>2</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Member of Parliament</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>député(e)</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Member of Parliament</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>524</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Edmonton—St. Albert</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Edmonton—St. Albert</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Edmonton—St. Albert</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60124</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Committee report presented</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Présentation du rapport de comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60049</LatestBillEventStageId>
+    <LatestBillEventTypeName>Committee report presented</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+      <CommitteeAcronym>ETHI</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2013-06-06T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>264</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2012-11-05T15:07:40</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2013-03-27T18:40:33</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>true</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId>6254383</ReinstatedAsBillDocumentId>
+    <ReinstatedAsBillNumberCode>C-461</ReinstatedAsBillNumberCode>
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-11-05T15:07:40</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>176</Number>
+          <Date>2012-11-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2012-11-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2012-11-05T15:07:40</EventStartDateTime>
+          <EventEndDateTime>2012-11-05T15:07:40</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-11-05T15:07:40</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-03-27T18:40:33</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+          <StudyActivityId>7954814</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>209</Number>
+          <Date>2013-02-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>229</Number>
+          <Date>2013-03-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>230</Number>
+          <Date>2013-03-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>7952001</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5817486</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - ETHI</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - ETHI</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - ETHI</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>653</DivisionNumber>
+          <DivisionVotesYeas>155</DivisionVotesYeas>
+          <DivisionVotesNays>127</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2013-03-27T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>230</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60112</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Placed in the Order of Precedence</EventNameEn>
+          <EventNameFr>Ajouté à l'Ordre de priorité</EventNameFr>
+          <EventName>Placed in the Order of Precedence</EventName>
+          <EventDateTime>2012-11-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2013-03-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2013-03-27T18:40:33</EventStartDateTime>
+          <EventEndDateTime>2013-03-27T18:40:33</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-03-27T18:40:33</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>7887995</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59203</PersonId>
+          <PersonOfficialFirstName>Brent</PersonOfficialFirstName>
+          <PersonOfficialLastName>Rathgeber</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Brent Rathgeber</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>209</MeetingNumber>
+          <SpeechDateTime>2013-02-12T18:19:14</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>7888020</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71447</PersonId>
+          <PersonOfficialFirstName>Pierre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nantel</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre Nantel</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>209</MeetingNumber>
+          <SpeechDateTime>2013-02-12T18:39:21</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>7888023</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>59346</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Andrews</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Andrews</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>209</MeetingNumber>
+          <SpeechDateTime>2013-02-12T18:49:33</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-06-06T10:06:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+          <StudyActivityId>7954814</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>264</Number>
+          <Date>2013-06-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <Number>77</Number>
+          <Date>2013-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <Number>80</Number>
+          <Date>2013-05-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <Number>81</Number>
+          <Date>2013-05-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <Number>82</Number>
+          <Date>2013-05-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <Number>83</Number>
+          <Date>2013-06-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16746</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Access to Information, Privacy and Ethics</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</CommitteeNameFr>
+          <CommitteeAcronym>ETHI</CommitteeAcronym>
+          <Number>84</Number>
+          <Date>2013-06-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Access to Information, Privacy and Ethics</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2013-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6204084</CommitteeReportId>
+          <CommitteeReportNumber>7</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2013-06-06T10:06:00</EventStartDateTime>
+          <EventEndDateTime>2013-06-06T10:06:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-06T10:06:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>5820708</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6212282</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>653</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-461, An Act to amend the Access to Information Act and the Privacy Act (disclosure of information)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-461, Loi modifiant la Loi sur l'accès à l'information et la Loi sur la protection des renseignements personnels (communication de renseignements)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-461, An Act to amend the Access to Information Act and the Privacy Act (disclosure of information)</DivisionSubject>
+      <DivisionVotesYeas>155</DivisionVotesYeas>
+      <DivisionVotesNays>127</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-03-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government Response to the Report of the Standing Committee on Access to Information, Privacy and Ethics: Exclusions and Exceptions: Study on Section 68.1 of the Access to Information Act and the Resulting Court Actions Concerning the Canadian Broadcasting Corporation</TitleEn>
+      <TitleFr>Réponse du gouvernement au Rapport du Comité permanent de l'accès à l'information , de la protection des renseignements personnels et de l'éthique : Exclusions et exceptions : Étude sur l'article 68.1 de la Loi sur l'accès à l'information et les poursuites concernant Radio-canada qui en découlent</TitleFr>
+      <Title>Government Response to the Report of the Standing Committee on Access to Information, Privacy and Ethics: Exclusions and Exceptions: Study on Section 68.1 of the Access to Information Act and the Resulting Court Actions Concerning the Canadian Broadcasting Corporation</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5556751&amp;Language=E&amp;Mode=1&amp;Parl=41&amp;Ses=1</UrlEn>
+      <UrlFr>http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5556751&amp;Mode=1&amp;Parl=41&amp;Ses=1&amp;Language=F</UrlFr>
+      <Url>http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5556751&amp;Language=E&amp;Mode=1&amp;Parl=41&amp;Ses=1</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Report Cards 2011-2012: Canadian Broadcasting Corporation (Office of the Information Commissioner of Canada)</TitleEn>
+      <TitleFr>Rapport spécial 2011-2012: Société Radio-Canada (Commissariat à l'information du Canada)</TitleFr>
+      <Title>Report Cards 2011-2012: Canadian Broadcasting Corporation (Office of the Information Commissioner of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.oic-ci.gc.ca/eng/special-report-report-cards-2011-2012_rapport-special-fiches-de-rendements.aspx</UrlEn>
+      <UrlFr>http://www.oic-ci.gc.ca/fra/special_report_2011-2012_rapport_special_cbc-src.aspx</UrlFr>
+      <Url>http://www.oic-ci.gc.ca/eng/special-report-report-cards-2011-2012_rapport-special-fiches-de-rendements.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legal opinion on the scope of the Guidelines for interpreting section 68.1 of the Access to Information Act (Trudel, Pierre, August 25, 2011)</TitleEn>
+      <TitleFr>Opinion juridique sur la portée des «Lignes directrices quant à l'interprétation de l'article 68.1 de la Loi sur l'accès à l'information (Trudel, Pierre, 25 août, 2011)</TitleFr>
+      <Title>Legal opinion on the scope of the Guidelines for interpreting section 68.1 of the Access to Information Act (Trudel, Pierre, August 25, 2011)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://cbc.radio-canada.ca/_files/cbcrc/documents/ati/reports-rapports/legal-opinion-guidelines-en.pdf</UrlEn>
+      <UrlFr>http://cbc.radio-canada.ca/_files/cbcrc/documents/ati/reports-rapports/opinion-juridique-lignes-directrices-fr.pdf</UrlFr>
+      <Url>http://cbc.radio-canada.ca/_files/cbcrc/documents/ati/reports-rapports/legal-opinion-guidelines-en.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Rates of pay – Policies and guidelines (Canada. Treasury Board of Canada Secretariat)</TitleEn>
+      <TitleFr>Taux de rémunération – Politiques et lignes directrices (Canada. Secrétariat du Conseil du Trésor du Canada)</TitleFr>
+      <Title>Rates of pay – Policies and guidelines (Canada. Treasury Board of Canada Secretariat)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/ratesofpay/siglist-eng.asp</UrlEn>
+      <UrlFr>http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/ratesofpay/siglist-fra.asp</UrlFr>
+      <Url>http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/ratesofpay/siglist-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canadian Broadcasting Corporation v. Canada (Information Commissioner), 2011 FCA 326</TitleEn>
+      <TitleFr>Société Radio-Canada c. Canada (Commissaire à l'information), 2011 CAF 326</TitleFr>
+      <Title>Canadian Broadcasting Corporation v. Canada (Information Commissioner), 2011 FCA 326</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://canlii.ca/t/fnzhg</UrlEn>
+      <UrlFr>http://canlii.ca/t/fnzhf</UrlFr>
+      <Url>http://canlii.ca/t/fnzhg</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>CBC/Radio-Canada's open letter on access to information (ATI) issues (CBC/Radio-Canada, December 1, 2010)</TitleEn>
+      <TitleFr>Lettre ouverte de CBC/Radio-Canada concernant les enjeux de l'AAI (CBC/Radio-Canada, 1 décembre 2010)</TitleFr>
+      <Title>CBC/Radio-Canada's open letter on access to information (ATI) issues (CBC/Radio-Canada, December 1, 2010)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://cbc.radio-canada.ca/en/media-centre/2010/12/01/</UrlEn>
+      <UrlFr>http://cbc.radio-canada.ca/fr/centre-de-presse/2010/12/01/</UrlFr>
+      <Url>http://cbc.radio-canada.ca/en/media-centre/2010/12/01/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Guidelines for the interpretation of section 68.1 of the Access to Information Act (CBC/Radio-Canada)</TitleEn>
+      <TitleFr>Lignes directrices quant à l'interprétation de l'article 68.1 de la Loi sur L'Accès à L'Information (CBC/Radio-Canada)</TitleFr>
+      <Title>Guidelines for the interpretation of section 68.1 of the Access to Information Act (CBC/Radio-Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://cbc.radio-canada.ca/_files/cbcrc/documents/ati/reports-rapports/ati-guidelines-en.pdf</UrlEn>
+      <UrlFr>http://cbc.radio-canada.ca/_files/cbcrc/documents/ati/reports-rapports/ati-guidelines-fr.pdf</UrlFr>
+      <Url>http://cbc.radio-canada.ca/_files/cbcrc/documents/ati/reports-rapports/ati-guidelines-en.pdf</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>1948</BibliographicNoticeId>
+      <Title>Digging for dirt on the CBC : Michel Drapeau has asked for information from the CBC that its top brass says no one deserves to know.  Are they right?</Title>
+      <Author>Patriquin, Martin</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>123:14-5</VolumePage>
+      <PublicationDate>January 3, 2011</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2103</BibliographicNoticeId>
+      <Title>Exclusions and exemptions : study on section 68.1 of the Access to Information Act and the resulting court actions concerning the Canadian Broadcasting Corporation : report of the Standing Committee on Access to Information, Privacy and Ethics</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : House of Commons Canada</Publication>
+      <VolumePage>vii, 39, 39, vii p.</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>J103 H7 41-1 A185 A12</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2104</BibliographicNoticeId>
+      <Title>Exclusions et exceptions : étude sur l'article 68.1 de la Loi sur l'accès à l'information et les poursuites concernant Radio-Canada qui en découlent : rapport du Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Chambre des communes Canada</Publication>
+      <VolumePage>vii, 39, 39, vii p.</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>J103 H7 41-1 A185 A12</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
