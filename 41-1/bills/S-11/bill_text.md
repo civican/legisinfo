@@ -1,4 +1,2 @@
 # Bill S-11: An Act respecting food commodities, including their inspection, their safety, their labelling and advertising, their import, export and interprovincial trade, the establishment of standards for them, the registration or licensing of persons who perform certain activities related to them, the establishment of standards governing establishments where those activities are performed and the registration of establishments where those activities are performed
 
-**Sponsor**: LEADER OF THE GOVERNMENT IN THE SENATE
-
