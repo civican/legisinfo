@@ -1,0 +1,1393 @@
+<Bills>
+  <Bill>
+    <Id>5839600</Id>
+    <NumberCode>C-48</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>48</Number>
+    <LongTitleEn>An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise, la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces, la Loi sur la taxe sur les produits et services des premières nations et des textes connexes</LongTitleFr>
+    <LongTitle>An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</LongTitle>
+    <ShortTitleEn>Technical Tax Amendments Act, 2012</ShortTitleEn>
+    <ShortTitleFr>Loi de 2012 apportant des modifications techniques concernant l'impôt et les taxes</ShortTitleFr>
+    <ShortTitle>Technical Tax Amendments Act, 2012</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2013-06-26T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35751</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jim</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Flaherty</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jim Flaherty</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>485</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Whitby—Oshawa</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Whitby—Oshawa</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Whitby—Oshawa</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2013-06-26T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>181</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2012-11-21T15:15:25</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2013-03-08T13:34:37</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2013-05-29T15:10:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2013-05-29T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2013-06-06T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2013-06-25T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2013-06-26T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for bills that implement treaties, conventions, agreements or administrative arrangements bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 21 November 2012, the Minister of Finance introduced Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation (Technical Tax Amendments Act, 2012), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 of this enactment implements, in accordance with proposals announced in the March 4, 2010 Budget and released for comment on August 27, 2010, amendments to the provisions of the Income Tax Act governing the taxation of non-resident trusts and their beneficiaries and of Canadian taxpayers who hold interests in offshore investment fund property.&lt;br/&gt;&lt;br/&gt;Parts 2 and 3 implement various technical amendments in respect of the Income Tax Act and the Income Tax Regulations relating to the taxation of Canadian multinational corporations with foreign affiliates. The amendments in Part 2 are based on draft proposals released on December 18, 2009. Among other things, Part 2 includes the amendments to the foreign affiliate surplus rules in the Income Tax Regulations that are consequential to the foreign affiliate changes to the Income Tax Act announced in the March 19, 2007 Budget. The amendments in Part 3 are based on draft proposals released on August 19, 2011. Among other things, Part 3 includes revisions to the measures proposed in a package of draft legislation released on February 27, 2004 dealing primarily with reorganizations of, and distributions from, foreign affiliates.&lt;br/&gt;&lt;br/&gt;Part 4 deals with provisions of the Income Tax Act that are not amended in Parts 1, 2, 3 or 5 in which the following private law concepts are used: right and interest, real and personal property, life estate and remainder interest, tangible and intangible property and joint and several liability. It enacts amendments, released for comments on July 16, 2010, to ensure that those provisions are bijural, in other words, that they reflect both the common law and the civil law in both linguistic versions. Similar amendments are made in Parts 1, 2, 3 and 5 to ensure that any provision of the Act enacted or amended by those Parts are also bijural.&lt;br/&gt;Part 5 implements a number of income tax measures proposed in the March 4, 2010 Budget and released for comment on May 7, 2010 and August 27, 2010. Most notably, it enacts amendments&lt;br/&gt;(a) relating to specified leasing property;&lt;br/&gt;(b) to provide that conversions of specified investment flow-through (SIFT) trusts and partnerships into corporations are subject to the same loss utilization restrictions as are transactions between corporations;&lt;br/&gt;(c) to prevent foreign tax credit generators; and&lt;br/&gt;(d) implementing a regime for information reporting of tax avoidance transactions.&lt;br/&gt;&lt;br/&gt;Part 5 also implements certain income tax measures that were previously announced. Most notably, it enacts amendments announced&lt;br/&gt;(a) on January 27, 2009, relating to the Apprenticeship Completion Grant;&lt;br/&gt;(b) on May 3, 2010, to clarify that computers continue to be eligible for the Atlantic investment tax credit;&lt;br/&gt;(c) on July 16, 2010, relating to technical changes to the Income Tax Act which include amendments relating to the income tax treatment of restrictive covenants;&lt;br/&gt;(d) on August 27, 2010, relating to the introduction of the Fairness for the Self-Employed Act;&lt;br/&gt;(e) on November 5, 2010 and October 31, 2011, relating to technical changes to the Income Tax Act;&lt;br/&gt;(f) on December 16, 2010, relating to changes to the income tax rules concerning real estate investment trusts; and&lt;br/&gt;(g) on March 16, 2011, relating to the deductibility of contingent amounts, withholding tax applicable to certain interest payments made to non-residents, and certain life insurance corporation reserves.&lt;br/&gt;&lt;br/&gt;Finally, Part 5 implements certain further technical income tax measures. Most notably, it enacts amendments relating to&lt;br/&gt;(a) labour-sponsored venture capital corporations;&lt;br/&gt;(b) the allocation of income of airline corporations; and&lt;br/&gt;(c) the tax treatment of shares owned by short-term residents.&lt;br/&gt;&lt;br/&gt;Part 6 amends the Excise Tax Act to implement technical and housekeeping amendments that include relieving the goods and services tax and the harmonized sales tax on the administrative service of collecting and distributing the levy on blank media imposed under the Copyright Act announced on October 31, 2011.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Federal-Provincial Fiscal Arrangements Act to clarify, for greater certainty, the authority of the Minister of Finance and of the Minister of National Revenue to amend administration agreements if the change in question is explicitly contemplated by the language of the agreement and to confirm any amendments that may have been made to those agreements. Part 7 also amends the Federal-Provincial Fiscal Arrangements Act and the First Nations Goods and Services Tax Act to enable the First Nations goods and services tax, imposed under a tax administration agreement between the federal government and an Aboriginal government, to be administered through a provincial administration system, if the province also administers the federal goods and services tax.&lt;br/&gt;&lt;br/&gt;Part 8 contains coordinating amendments in respect of those provisions of the Income Tax Act that are amended by this Act and also by the Jobs and Growth Act, 2012 or that need coordination with the Pooled Registered Pension Plans Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La Bibliothèque du Parlement ne prépare pas de Résumés législatifs pour les projets de loi qui mettent en œuvre des traités, des conventions, des ententes ou des projets de loi portant sur des ententes administratives. Ce qui suit est un court résumé :  &lt;br/&gt;&lt;br/&gt;Le 21 novembre 2012, le projet de loi C-48, Loi modifiant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise, la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces, la Loi sur la taxe sur les produits et services des premières nations et des textes connexes  (Loi de 2012 apportant des modifications techniques concernant l'impôt et les taxes), a été déposé aux Communes par le ministre des Finance et lu pour la première fois.&lt;br/&gt;&lt;br/&gt;La partie 1 met en oeuvre, conformément aux propositions annoncées dans le budget du 4 mars 2010 et rendues publiques à des fins de consultation le 27 août 2010, des modifications aux dispositions de la Loi de l'impôt sur le revenu régissant l'imposition des fiducies non-résidentes, de leurs bénéficiaires et des contribuables canadiens qui détiennent des participations dans des biens de fonds de placement non-résidents.&lt;br/&gt;&lt;br/&gt;Les parties 2 et 3 apportent diverses modifications techniques aux dispositions de la Loi de l'impôt sur le revenu et du Règlement de l'impôt sur le revenu concernant l'imposition des sociétés multinationales canadiennes ayant des sociétés étrangères affiliées. Les modifications figurant dans la partie 2 s'inspirent des propositions législatives rendues publiques le 18 décembre 2009 et comprennent notamment les modifications aux règles sur les surplus des sociétés étrangères affiliées, énoncées dans le Règlement de l'impôt sur le revenu, qui font suite aux changements aux dispositions de la Loi de l'impôt sur le revenu concernant ces sociétés, annoncés dans le budget du 19 mars 2007. Les modifications qui se trouvent dans la partie 3 sont fondées sur les propositions rendues publiques le 19 août 2011 et comprennent notamment des révisions aux mesures — concernant principalement la réorganisation de sociétés étrangères affiliées et les distributions en provenant — qui figuraient dans les propositions législatives rendues publiques le 27 février 2004.&lt;br/&gt;&lt;br/&gt;La partie 4 porte sur des dispositions de la Loi de l'impôt sur le revenu qui ne sont pas modifiées dans les parties 1, 2, 3 ou 5 et dans lesquelles les concepts de droit privé ci-après sont utilisés : droit, bien immeuble ou meuble, domaine viager et résiduel, bien corporel ou incorporel et responsabilité solidaire. Les modifications, rendues publiques à des fins de consultation le 16 juillet 2010, ont pour objectif de rendre ces dispositions bijuridiques de manière à refléter le droit civil et la common law dans les deux versions linguistiques. Les dispositions figurant dans les parties 1, 2, 3 et 5 font l'objet de modifications connexes de façon à rendre bijuridique toute disposition de la loi qui est édictée ou modifiée par ces parties.&lt;br/&gt;&lt;br/&gt;La partie 5 met en oeuvre des mesures relatives à l'impôt sur le revenu proposées dans le budget du 4 mars 2010 et rendues publiques à des fins de consultation les 7 mai 2010 et 27 août 2010 afin, notamment :&lt;br/&gt;a) de mettre en oeuvre des modifications concernant les biens de location déterminés;&lt;br/&gt;b) de faire en sorte que les conversions d'entités intermédiaires de placement déterminées — fiducies et sociétés de personnes — en sociétés soient assujetties aux mêmes restrictions en matière d'utilisation des pertes que les opérations entre sociétés;&lt;br/&gt;c) de faire obstacle aux générateurs de crédit pour impôt étranger;&lt;br/&gt;d) de mettre en place un régime de déclaration des opérations d'évitement fiscal.&lt;br/&gt;En outre, elle met en oeuvre certaines mesures relatives à l'impôt sur le revenu qui ont déjà été annoncées, notamment les mesures annoncées :&lt;br/&gt;a) le 27 janvier 2009 portant sur la Subvention à l'achèvement de la formation d'apprenti;&lt;br/&gt;b) le 3 mai 2010 précisant que les ordinateurs continuent de donner droit au crédit d'impôt à l'investissement dans la région de l'Atlantique;&lt;br/&gt;c) le 16 juillet 2010 concernant des modifications techniques à la Loi de l'impôt sur le revenu, qui comprennent les modifications relatives au traitement fiscal des clauses restrictives;&lt;br/&gt;d) le 27 août 2010 par suite de la mise en oeuvre de la Loi sur l'équité pour les travailleurs indépendants;&lt;br/&gt;e) le 5 novembre 2010 et le 31 octobre 2011 concernant des modifications techniques à la Loi de l'impôt sur le revenu;&lt;br/&gt;f) le 16 décembre 2010 concernant des modifications apportées aux règles fiscales relatives aux fiducies de placement immobilier;&lt;br/&gt;g) le 16 mars 2011 concernant la déductibilité des montants éventuels, la retenue d'impôt applicable à certains paiements d'intérêt à des non-résidents et certaines provisions de compagnies d'assurance-vie.&lt;br/&gt;&lt;br/&gt;Enfin, elle met en oeuvre d'autres mesures techniques relatives à l'impôt sur le revenu, notamment des modifications concernant :&lt;br/&gt;a) les sociétés à capital de risque de travailleurs;&lt;br/&gt;b) l'attribution du revenu des compagnies aériennes;&lt;br/&gt;c) le traitement fiscal des actions appartenant à des résidents temporaires.&lt;br/&gt;&lt;br/&gt;La partie 6 modifie la Loi sur la taxe d'accise afin de mettre en oeuvre des changements techniques et de forme dont celui, annoncé le 31 octobre 2011, qui vise à exempter de la taxe sur les produits et services et de la taxe de vente harmonisée le service administratif qui consiste à percevoir et à distribuer la redevance sur les supports vierges imposée en vertu de la Loi sur le droit d'auteur.&lt;br/&gt;&lt;br/&gt;La partie 7 modifie la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces afin de préciser le pouvoir du ministre des Finances et du ministre du Revenu national de modifier des accords d'application dans le cas où le libellé des accords le prévoit expressément et de confirmer toute modification qui peut avoir été apportée à ces accords. En outre, elle modifie la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et la Loi sur la taxe sur les produits et services des premières nations afin que l'administration de la taxe sur les produits et services des premières nations, imposée en vertu d'un accord d'application conclu entre le gouvernement fédéral et un gouvernement autochtone, relève du régime d'administration d'une province qui administre aussi la taxe fédérale sur les produits et services.&lt;br/&gt;&lt;br/&gt;La partie 8 contient des dispositions de coordination relatives aux dispositions de la Loi de l'impôt sur le revenu qui sont modifiées à la fois par la présente loi et par la Loi de 2012 sur l'emploi et la croissance ou qui doivent être coordonnées avec la Loi sur les régimes de pension agréés collectifs.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for bills that implement treaties, conventions, agreements or administrative arrangements bills. The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 21 November 2012, the Minister of Finance introduced Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation (Technical Tax Amendments Act, 2012), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 of this enactment implements, in accordance with proposals announced in the March 4, 2010 Budget and released for comment on August 27, 2010, amendments to the provisions of the Income Tax Act governing the taxation of non-resident trusts and their beneficiaries and of Canadian taxpayers who hold interests in offshore investment fund property.&lt;br/&gt;&lt;br/&gt;Parts 2 and 3 implement various technical amendments in respect of the Income Tax Act and the Income Tax Regulations relating to the taxation of Canadian multinational corporations with foreign affiliates. The amendments in Part 2 are based on draft proposals released on December 18, 2009. Among other things, Part 2 includes the amendments to the foreign affiliate surplus rules in the Income Tax Regulations that are consequential to the foreign affiliate changes to the Income Tax Act announced in the March 19, 2007 Budget. The amendments in Part 3 are based on draft proposals released on August 19, 2011. Among other things, Part 3 includes revisions to the measures proposed in a package of draft legislation released on February 27, 2004 dealing primarily with reorganizations of, and distributions from, foreign affiliates.&lt;br/&gt;&lt;br/&gt;Part 4 deals with provisions of the Income Tax Act that are not amended in Parts 1, 2, 3 or 5 in which the following private law concepts are used: right and interest, real and personal property, life estate and remainder interest, tangible and intangible property and joint and several liability. It enacts amendments, released for comments on July 16, 2010, to ensure that those provisions are bijural, in other words, that they reflect both the common law and the civil law in both linguistic versions. Similar amendments are made in Parts 1, 2, 3 and 5 to ensure that any provision of the Act enacted or amended by those Parts are also bijural.&lt;br/&gt;Part 5 implements a number of income tax measures proposed in the March 4, 2010 Budget and released for comment on May 7, 2010 and August 27, 2010. Most notably, it enacts amendments&lt;br/&gt;(a) relating to specified leasing property;&lt;br/&gt;(b) to provide that conversions of specified investment flow-through (SIFT) trusts and partnerships into corporations are subject to the same loss utilization restrictions as are transactions between corporations;&lt;br/&gt;(c) to prevent foreign tax credit generators; and&lt;br/&gt;(d) implementing a regime for information reporting of tax avoidance transactions.&lt;br/&gt;&lt;br/&gt;Part 5 also implements certain income tax measures that were previously announced. Most notably, it enacts amendments announced&lt;br/&gt;(a) on January 27, 2009, relating to the Apprenticeship Completion Grant;&lt;br/&gt;(b) on May 3, 2010, to clarify that computers continue to be eligible for the Atlantic investment tax credit;&lt;br/&gt;(c) on July 16, 2010, relating to technical changes to the Income Tax Act which include amendments relating to the income tax treatment of restrictive covenants;&lt;br/&gt;(d) on August 27, 2010, relating to the introduction of the Fairness for the Self-Employed Act;&lt;br/&gt;(e) on November 5, 2010 and October 31, 2011, relating to technical changes to the Income Tax Act;&lt;br/&gt;(f) on December 16, 2010, relating to changes to the income tax rules concerning real estate investment trusts; and&lt;br/&gt;(g) on March 16, 2011, relating to the deductibility of contingent amounts, withholding tax applicable to certain interest payments made to non-residents, and certain life insurance corporation reserves.&lt;br/&gt;&lt;br/&gt;Finally, Part 5 implements certain further technical income tax measures. Most notably, it enacts amendments relating to&lt;br/&gt;(a) labour-sponsored venture capital corporations;&lt;br/&gt;(b) the allocation of income of airline corporations; and&lt;br/&gt;(c) the tax treatment of shares owned by short-term residents.&lt;br/&gt;&lt;br/&gt;Part 6 amends the Excise Tax Act to implement technical and housekeeping amendments that include relieving the goods and services tax and the harmonized sales tax on the administrative service of collecting and distributing the levy on blank media imposed under the Copyright Act announced on October 31, 2011.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Federal-Provincial Fiscal Arrangements Act to clarify, for greater certainty, the authority of the Minister of Finance and of the Minister of National Revenue to amend administration agreements if the change in question is explicitly contemplated by the language of the agreement and to confirm any amendments that may have been made to those agreements. Part 7 also amends the Federal-Provincial Fiscal Arrangements Act and the First Nations Goods and Services Tax Act to enable the First Nations goods and services tax, imposed under a tax administration agreement between the federal government and an Aboriginal government, to be administered through a provincial administration system, if the province also administers the federal goods and services tax.&lt;br/&gt;&lt;br/&gt;Part 8 contains coordinating amendments in respect of those provisions of the Income Tax Act that are amended by this Act and also by the Jobs and Growth Act, 2012 or that need coordination with the Pooled Registered Pension Plans Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2013</StatuteYear>
+    <StatuteChapter>34</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2012-11-21T15:15:25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>182</Number>
+          <Date>2012-11-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2012-11-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2012-11-21T15:15:25</EventStartDateTime>
+          <EventEndDateTime>2012-11-21T15:15:25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2012-11-21T15:15:25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-03-08T13:34:37</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>7927933</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>198</Number>
+          <Date>2013-01-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>212</Number>
+          <Date>2013-02-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>215</Number>
+          <Date>2013-02-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>222</Number>
+          <Date>2013-03-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>7927752</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5850440</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2013-03-08T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>222</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2013-03-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2013-03-08T13:34:37</EventStartDateTime>
+          <EventEndDateTime>2013-03-08T13:34:37</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-03-08T13:34:37</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>7855568</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59115</PersonId>
+          <PersonOfficialFirstName>Shelly</PersonOfficialFirstName>
+          <PersonOfficialLastName>Glover</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Shelly Glover</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>198</MeetingNumber>
+          <SpeechDateTime>2013-01-28T12:04:37</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>7855601</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>3242</PersonId>
+          <PersonOfficialFirstName>Peggy</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nash</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peggy Nash</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>198</MeetingNumber>
+          <SpeechDateTime>2013-01-28T12:28:44</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>7855657</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>74</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brison</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Brison</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>198</MeetingNumber>
+          <SpeechDateTime>2013-01-28T12:59:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-03-27T16:45:44</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>7927933</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without an amendment</Name>
+          <Number>230</Number>
+          <Date>2013-03-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>110</Number>
+          <Date>2013-03-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16749</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>112</Number>
+          <Date>2013-03-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without an amendment</EventName>
+          <EventDateTime>2013-03-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6056255</CommitteeReportId>
+          <CommitteeReportNumber>16</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2013-03-27T16:45:44</EventStartDateTime>
+          <EventEndDateTime>2013-03-27T16:45:44</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-03-27T16:45:44</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-05-21T18:19:01</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>252</Number>
+          <Date>2013-05-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2013-05-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2013-05-21T18:19:01</EventStartDateTime>
+          <EventEndDateTime>2013-05-21T18:19:01</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-05-21T18:19:01</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-05-29T15:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>252</Number>
+          <Date>2013-05-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>256</Number>
+          <Date>2013-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>257</Number>
+          <Date>2013-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>258</Number>
+          <Date>2013-05-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8041509</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>5850442</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>702</DivisionNumber>
+          <DivisionVotesYeas>277</DivisionVotesYeas>
+          <DivisionVotesNays>1</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2013-05-29T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>258</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2013-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2013-05-29T15:10:00</EventStartDateTime>
+          <EventEndDateTime>2013-05-29T15:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-05-29T15:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-05-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>167</Number>
+          <Date>2013-05-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2013-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2013-05-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-05-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-05-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-06-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>169</Number>
+          <Date>2013-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>171</Number>
+          <Date>2013-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2013-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2013-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2013-06-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-06-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-06T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>77765</PersonId>
+          <PersonOfficialFirstName>Douglas John</PersonOfficialFirstName>
+          <PersonOfficialLastName>Black</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Douglas John Black</PersonName>
+          <SenateSystemAffiliationId>3567</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>169</MeetingNumber>
+          <SpeechDateTime>2013-06-04T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/169db_2013-06-04-e#36</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/169db_2013-06-04-f#36</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/169db_2013-06-04-e#36</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1877</PersonId>
+          <PersonOfficialFirstName>Wilfred P.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Moore</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Wilfred P. Moore</PersonName>
+          <SenateSystemAffiliationId>124</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>171</MeetingNumber>
+          <SpeechDateTime>2013-06-06T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/411/debates/171db_2013-06-06-e#48</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/411/debates/171db_2013-06-06-f#48</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/411/debates/171db_2013-06-06-e#48</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-06-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>174</Number>
+          <Date>2013-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2013-06-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2013-06-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2013-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2013-06-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-06-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-13T10:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-06-25T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>175</Number>
+          <Date>2013-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>176</Number>
+          <Date>2013-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>180</Number>
+          <Date>2013-06-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2013-06-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2013-06-25T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-06-25T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-25T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>181</Number>
+          <Date>2013-06-26T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2013-06-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2013-06-26T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-06-26T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-26T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>5852716</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6185693</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6249914</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>630</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-48, Loi modifiant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise, la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces, la Loi sur la taxe sur les produits et services des premières nations et des textes connexes</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</DivisionSubject>
+      <DivisionVotesYeas>151</DivisionVotesYeas>
+      <DivisionVotesNays>123</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>274</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-03-07T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>696</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-48, Loi modifiant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise, la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces, la Loi sur la taxe sur les produits et services des premières nations et des textes connexes</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</DivisionSubject>
+      <DivisionVotesYeas>144</DivisionVotesYeas>
+      <DivisionVotesNays>110</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>254</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-05-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>702</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-48, Loi modifiant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise, la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces, la Loi sur la taxe sur les produits et services des premières nations et des textes connexes</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-48, An Act to amend the Income Tax Act, the Excise Tax Act, the Federal-Provincial Fiscal Arrangements Act, the First Nations Goods and Services Tax Act and related legislation</DivisionSubject>
+      <DivisionVotesYeas>277</DivisionVotesYeas>
+      <DivisionVotesNays>1</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-05-29T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister of Finance Introduces the Technical Tax Amendments Act, 2012</TitleEn>
+      <TitleFr>Le ministre des Finances dépose la Loi de 2012 apportant des modifications techniques concernant l'impôt et les taxes</TitleFr>
+      <Title>Minister of Finance Introduces the Technical Tax Amendments Act, 2012</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n12/12-148-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n12/12-148-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n12/12-148-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Explanatory Notes Relating to the Income Tax Act, the Excise Tax Act and Related Acts and Regulations</TitleEn>
+      <TitleFr>Notes explicatives concernant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise et des textes connexes</TitleFr>
+      <Title>Explanatory Notes Relating to the Income Tax Act, the Excise Tax Act and Related Acts and Regulations</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/drleg-apl/nwmm-amvm-1012n-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/drleg-apl/nwmm-amvm-1012n-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/drleg-apl/nwmm-amvm-1012n-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (October 31, 2011) - Government of Canada Releases Income Tax and Sales Tax Technical Amendments for Public Comment</TitleEn>
+      <TitleFr>Consultations publiques (octobre 31, 2011) - Le gouvernement du Canada rend publiques, aux fins de consultations, des modifications techniques concernant l'impôt sur le revenu et la taxe de vente</TitleFr>
+      <Title>Public consultations (October 31, 2011) - Government of Canada Releases Income Tax and Sales Tax Technical Amendments for Public Comment</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n11/11-108-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n11/11-108-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n11/11-108-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (August 2011) - Government of Canada Releases Draft Foreign Affiliate Rules</TitleEn>
+      <TitleFr>Consultations publiques (Août 2011) - Le gouvernement du Canada publie un projet de règles concernant les sociétés étrangères affiliées</TitleFr>
+      <Title>Public consultations (August 2011) - Government of Canada Releases Draft Foreign Affiliate Rules</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n11/11-070-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n11/11-070-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n11/11-070-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (March 2011) - Department of Finance Releases Draft Income Tax Proposals</TitleEn>
+      <TitleFr>Consultations publiques (mars 2011) - Le ministère des Finances publie des propositions relatives à l'impôt sur le revenu</TitleFr>
+      <Title>Public consultations (March 2011) - Department of Finance Releases Draft Income Tax Proposals</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n11/11-024-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n11/11-024-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n11/11-024-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (December 2010) - Government of Canada Announces Amendments to the Real Estate Investment Trust Rules</TitleEn>
+      <TitleFr>Consultations publiques (décembre 2010) - Le gouvernement du Canada annonce des modifications aux régles sur les fiducies de placement immobolier</TitleFr>
+      <Title>Public consultations (December 2010) - Government of Canada Announces Amendments to the Real Estate Investment Trust Rules</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n10/10-125-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n10/10-125-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n10/10-125-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (Novermber 2010) - Government of Canada Releases Income Tax Technical Amendments for Public Comment</TitleEn>
+      <TitleFr>Consultationst publiques (novembre 2010) -  Le gouvernement du Canada rend publiques, aux fins de consultations, des modifications techniques proposées régime de l'impôt sur le revenu</TitleFr>
+      <Title>Public consultations (Novermber 2010) - Government of Canada Releases Income Tax Technical Amendments for Public Comment</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n10/10-105-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n10/10-105-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n10/10-105-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (August 2010) - Government of Canada Releases Consultation Draft of Legislative Tax Proposals</TitleEn>
+      <TitleFr>Consultations publiques (août 2010) - Le gouvernement du Canada publie des propositions législatives fiscales aux fins de consultation</TitleFr>
+      <Title>Public consultations (August 2010) - Government of Canada Releases Consultation Draft of Legislative Tax Proposals</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n10/10-074-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n10/10-074-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n10/10-074-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public consultations (July 2010) - Government of Canada Releases Revised Income Tax Technical Proposals</TitleEn>
+      <TitleFr>Consultations publiques (juillet 2010) - Le gouvernement du Canada publie des propositions techniques révisées concernant l'impôt sur le revenu</TitleFr>
+      <Title>Public consultations (July 2010) - Government of Canada Releases Revised Income Tax Technical Proposals</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n10/10-068-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n10/10-068-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n10/10-068-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public Consultations (December 2009) - Government of Canada Releases Draft Foreign Affiliate Regulations</TitleEn>
+      <TitleFr>Consultations publiques (décembre 2009) - Le gouvernement du Canada publie un projet de règlement concernant les sociétés étrangères affiliées</TitleFr>
+      <Title>Public Consultations (December 2009) - Government of Canada Releases Draft Foreign Affiliate Regulations</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n08/09-120-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n08/09-120-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n08/09-120-eng.asp</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2295</BibliographicNoticeId>
+      <Title>Are you ready for the upstream loan rules?</Title>
+      <Author>Buttenham, Ken J</Author>
+      <Publication>Canadian tax journal</Publication>
+      <VolumePage>61:747-68 No. 3</VolumePage>
+      <PublicationDate>2013</PublicationDate>
+      <Classification>HJ2242 C357</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2874</BibliographicNoticeId>
+      <Title>When do the stop-loss rules apply : transactions involving foreign affiliates after the 2012 technical bill</Title>
+      <Author>Jim Samuel</Author>
+      <Publication>Canadian Tax Journal</Publication>
+      <VolumePage>64(3):561-600</VolumePage>
+      <PublicationDate>2016</PublicationDate>
+      <Classification>Radar 22127265</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
