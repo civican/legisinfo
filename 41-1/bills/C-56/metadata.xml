@@ -1,0 +1,727 @@
+<Bills>
+  <Bill>
+    <Id>6004372</Id>
+    <NumberCode>C-56</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>56</Number>
+    <LongTitleEn>An Act to amend the Copyright Act and the Trade-marks Act and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur le droit d'auteur, la Loi sur les marques de commerce et d'autres lois en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Copyright Act and the Trade-marks Act and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Combating Counterfeit Products Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant à combattre la contrefaçon de produits</ShortTitleFr>
+    <ShortTitle>Combating Counterfeit Products Act</ShortTitle>
+    <StatusId>352</StatusId>
+    <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+    <StatusName>At consideration in committee in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60030</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Second reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Deuxième lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Second reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2013-06-12T23:59:59</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35422</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Christian</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Paradis</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Christian Paradis</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Industry and Minister of State (Agriculture)</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Industrie et ministre d'État (Agriculture)</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Industry and Minister of State (Agriculture)</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>371</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Mégantic—L'Érable</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Mégantic—L'Érable</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Mégantic—L'Érable</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60121</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Second reading and referral to committee</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Deuxième lecture et renvoi en comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Second reading and referral to committee</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16753</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+      <CommitteeAcronym>INDU</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2013-06-12T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>268</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2013-03-01T12:07:14</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2013-06-12T23:59:59</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 1 March 2013, the Minister of Industry and Minister of State (Agriculture) introduced Bill C-56, An Act to amend the Copyright Act and the Trade-marks Act and to make consequential amendments to other Acts (Combating Counterfeit Products Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Counterfeit trademark goods, commonly described as "knock-offs," closely resemble the legitimate product and bear an imitation or non-genuine trademark. The retail value of counterfeit goods seized by the RCMP increased from $7.6 million in 2005 to $38 million in 2012.&lt;br/&gt;&lt;br/&gt;Bill C-56 amends the Copyright Act and the Trade-marks Act to add new civil and criminal remedies and new border measures in both Acts, in order to strengthen the enforcement of copyright and trade-mark rights and to curtail commercial activity involving infringing copies and counterfeit trade-marked goods. More specifically, it&lt;br/&gt;&lt;br/&gt;•	creates new civil causes of action with respect to activities that sustain commercial activity in infringing copies and counterfeit trade-marked goods;&lt;br/&gt;•	creates new criminal offences for trade-mark counterfeiting that are analogous to existing offences in the Copyright Act;&lt;br/&gt;•	creates new criminal offences prohibiting the possession or export of infringing copies or counterfeit trade-marked goods, packaging or labels;&lt;br/&gt;•	enacts new border enforcement measures enabling customs officers to detain goods that they suspect infringe copyright or trade-mark rights and allowing them to share information relating to the detained goods with rights owners who have filed a request for assistance, in order to give the rights owners a reasonable opportunity to pursue a remedy in court;&lt;br/&gt;•	exempts the importation and exportation of copies and goods by an individual for their personal use from the application of the border measures; and&lt;br/&gt;•	adds the offences set out in the Copyright Act and the Trade-marks Act to the list of offences set out in the Criminal Code for the investigation of which police may seek judicial authorization to use a wiretap.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Trade-marks Act to, among other things, expand the scope of what can be registered as a trade-mark, allow the Registrar of Trade-marks to correct errors that appear in the trade-mark register, and streamline and modernize the trade-mark application and opposition process.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement un résumé législatif du projet de loi. Une version préliminaire est à la disposition des parlementaires et de leurs employés, qui peuvent en obtenir une copie en soumettant une demande ou en communiquant avec la Bibliothèque du Parlement. Nous vous en proposons aussi le résumé suivant.&lt;br/&gt;&lt;br/&gt;Le 1 mars 2013, le ministre de l'Industrie et ministre d'État (Agriculture) a introduit le projet de loi C-56, Loi modifiant la Loi sur le droit d'auteur, la Loi sur les marques de commerce et d'autres lois en conséquence (Loi visant à combattre la contrefaçon de produits) à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Les marchandises de marque contrefaites sont très similaires en apparence aux produits légitimes et portent une marque de commerce fausse ou d'imitation.  La valeur au détail des produits contrefaits saisis par la Gendarmerie royale du Canada est passée de 7,6 millions de dollars en 2005 à 38 millions de dollars en 2012.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-56 modifie la Loi sur le droit d'auteur et la Loi sur les marques de commerce afin d'instaurer des recours civils et criminels supplémentaires ainsi que de nouvelles mesures frontalières. Ces modifications visent à renforcer la mise en oeuvre des droits d'auteur et des droits relatifs aux marques de commerce et à contrer le commerce d'exemplaires produits en violation du droit d'auteur et de produits de marque contrefaits. Plus particulièrement, le texte :&lt;br/&gt;&lt;br/&gt;•	crée de nouvelles causes d'action visant les activités qui favorisent le commerce d'exemplaires produits en violation du droit d'auteur et de produits de marque contrefaits;&lt;br/&gt;•	crée de nouvelles infractions criminelles relatives à la contrefaçon des marques de commerce qui sont analogues aux infractions déjà prévues à la Loi sur le droit d'auteur;&lt;br/&gt;•	crée de nouvelles infractions criminelles interdisant la possession et l'exportation d'exemplaires produits en violation du droit d'auteur, d'une part, et de produits de marque, d'emballages et d'étiquettes contrefaits, d'autre part;&lt;br/&gt;•	instaure de nouvelles mesures frontalières d'exécution de la loi qui, à la fois, permettent aux agents des douanes de retenir tout produit dont ils soupçonnent qu'il viole les droits d'auteur ou les droits relatifs à une marque de commerce, et permettent le partage de renseignements relatifs aux produits retenus entre les agents des douanes et les titulaires de droits qui ont présenté une demande d'aide, en vue de donner l'occasion à ces derniers d'exercer des recours devant les tribunaux;&lt;br/&gt;•	prévoit que les mesures frontalières ne s'appliquent pas à l'importation ni à l'exportation d'exemplaires ou de produits par des particuliers pour leur usage personnel;&lt;br/&gt;•	ajoute les infractions prévues à la Loi sur le droit d'auteur et à la Loi sur les marques de commerce à la liste — figurant au Code criminel — des infractions à l'égard desquelles les policiers peuvent demander une autorisation judiciaire pour employer l'écoute électronique dans le cadre d'enquêtes.&lt;br/&gt;&lt;br/&gt;Il modifie en outre la Loi sur les marques de commerce pour, notamment, élargir ce qui constitue une marque de commerce enregistrable et conférer au registraire des marques de commerce le pouvoir de corriger les erreurs figurant au registre. Finalement, il rationalise et modernise le processus de demande d'enregistrement de marques de commerce et d'opposition à celles-ci.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 1 March 2013, the Minister of Industry and Minister of State (Agriculture) introduced Bill C-56, An Act to amend the Copyright Act and the Trade-marks Act and to make consequential amendments to other Acts (Combating Counterfeit Products Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Counterfeit trademark goods, commonly described as "knock-offs," closely resemble the legitimate product and bear an imitation or non-genuine trademark. The retail value of counterfeit goods seized by the RCMP increased from $7.6 million in 2005 to $38 million in 2012.&lt;br/&gt;&lt;br/&gt;Bill C-56 amends the Copyright Act and the Trade-marks Act to add new civil and criminal remedies and new border measures in both Acts, in order to strengthen the enforcement of copyright and trade-mark rights and to curtail commercial activity involving infringing copies and counterfeit trade-marked goods. More specifically, it&lt;br/&gt;&lt;br/&gt;•	creates new civil causes of action with respect to activities that sustain commercial activity in infringing copies and counterfeit trade-marked goods;&lt;br/&gt;•	creates new criminal offences for trade-mark counterfeiting that are analogous to existing offences in the Copyright Act;&lt;br/&gt;•	creates new criminal offences prohibiting the possession or export of infringing copies or counterfeit trade-marked goods, packaging or labels;&lt;br/&gt;•	enacts new border enforcement measures enabling customs officers to detain goods that they suspect infringe copyright or trade-mark rights and allowing them to share information relating to the detained goods with rights owners who have filed a request for assistance, in order to give the rights owners a reasonable opportunity to pursue a remedy in court;&lt;br/&gt;•	exempts the importation and exportation of copies and goods by an individual for their personal use from the application of the border measures; and&lt;br/&gt;•	adds the offences set out in the Copyright Act and the Trade-marks Act to the list of offences set out in the Criminal Code for the investigation of which police may seek judicial authorization to use a wiretap.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Trade-marks Act to, among other things, expand the scope of what can be registered as a trade-mark, allow the Registrar of Trade-marks to correct errors that appear in the trade-mark register, and streamline and modernize the trade-mark application and opposition process.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-03-01T12:07:14</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>217</Number>
+          <Date>2013-03-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2013-03-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2013-03-01T12:07:14</EventStartDateTime>
+          <EventEndDateTime>2013-03-01T12:07:14</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-03-01T12:07:14</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-06-12T23:59:59</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16753</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>259</Number>
+          <Date>2013-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>268</Number>
+          <Date>2013-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8078893</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6012902</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - INDU</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - INDU</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - INDU</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2013-06-12T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>268</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2013-06-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2013-06-12T23:59:59</EventStartDateTime>
+          <EventEndDateTime>2013-06-12T23:59:59</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-12T23:59:59</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8049511</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>71786</PersonId>
+          <PersonOfficialFirstName>Kellie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Leitch</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Kellie Leitch</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>259</MeetingNumber>
+          <SpeechDateTime>2013-05-31T00:24:06</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8078025</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>30428</PersonId>
+          <PersonOfficialFirstName>Dan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Harris</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Dan Harris</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>268</MeetingNumber>
+          <SpeechDateTime>2013-06-12T18:45:46</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8078100</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1760</PersonId>
+          <PersonOfficialFirstName>Geoff</PersonOfficialFirstName>
+          <PersonOfficialLastName>Regan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Geoff Regan</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>268</MeetingNumber>
+          <SpeechDateTime>2013-06-12T19:15:52</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16753</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>6013262</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>754</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-56, An Act to amend the Copyright Act and the Trade-marks Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-56, Loi modifiant la Loi sur le droit d'auteur, la Loi sur les marques de commerce et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-56, An Act to amend the Copyright Act and the Trade-marks Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>144</DivisionVotesYeas>
+      <DivisionVotesNays>123</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>267</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-06-12T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>2012 Intellectual Property (IP) Crime Statistics (Royal Canadian Mounted Police)</TitleEn>
+      <TitleFr>Statistiques de 2012 sur la criminalité liée à la propriété intellectuelle (Gendarmerie royale du Canada)</TitleFr>
+      <Title>2012 Intellectual Property (IP) Crime Statistics (Royal Canadian Mounted Police)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.rcmp-grc.gc.ca/fep-pelf/ipr-dpi/report-rapport-2012-eng.htm</UrlEn>
+      <UrlFr>http://www.rcmp-grc.gc.ca/fep-pelf/ipr-dpi/report-rapport-2012-fra.htm</UrlFr>
+      <Url>http://www.rcmp-grc.gc.ca/fep-pelf/ipr-dpi/report-rapport-2012-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Protecting Canadians from Counterfeit Goods</TitleEn>
+      <TitleFr>Le gouvernement Harper protège les Canadiens contre les produits contrefaits</TitleFr>
+      <Title>Harper Government Protecting Canadians from Counterfeit Goods</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-eng.do?mthd=tp&amp;crtr.page=1&amp;nid=723359</UrlEn>
+      <UrlFr>http://news.gc.ca/web/article-fra.do?mthd=tp&amp;crtr.page=1&amp;nid=723359</UrlFr>
+      <Url>http://news.gc.ca/web/article-eng.do?mthd=tp&amp;crtr.page=1&amp;nid=723359</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Combating Counterfeit Products Coming into Canada</TitleEn>
+      <TitleFr>Fiche d'information: Lutter contre l'entrée au Canada de produits contrefaits</TitleFr>
+      <Title>Backgrounder: Combating Counterfeit Products Coming into Canada</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.ic.gc.ca/eic/site/064.nsf/eng/07280.html</UrlEn>
+      <UrlFr>http://www.ic.gc.ca/eic/site/064.nsf/fra/07280.html</UrlFr>
+      <Url>http://www.ic.gc.ca/eic/site/064.nsf/eng/07280.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Frequently Asked Questions</TitleEn>
+      <TitleFr>Foire aux questions</TitleFr>
+      <Title>Frequently Asked Questions</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.ic.gc.ca/eic/site/064.nsf/eng/07281.html</UrlEn>
+      <UrlFr>http://www.ic.gc.ca/eic/site/064.nsf/fra/07281.html</UrlFr>
+      <Url>http://www.ic.gc.ca/eic/site/064.nsf/eng/07281.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Fact sheet – What the Combating Counterfeit Products Act Means for Consumers and the Public</TitleEn>
+      <TitleFr>Fiche technique – Ce que la Loi visant à combattre la contrefaçon de produits signifie pour les consommateurs et le public</TitleFr>
+      <Title>Fact sheet – What the Combating Counterfeit Products Act Means for Consumers and the Public</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.ic.gc.ca/eic/site/064.nsf/eng/07284.html</UrlEn>
+      <UrlFr>http://www.ic.gc.ca/eic/site/064.nsf/fra/07284.html</UrlFr>
+      <Url>http://www.ic.gc.ca/eic/site/064.nsf/eng/07284.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>0</BibliographicNoticeId>
+      <Title>Project STRIDER : a national intellectual property crime threat assessment, 2005 to 2008</Title>
+      <Author>Royal Canadian Mounted Police. Criminal Intelligence Directorate</Author>
+      <Publication>Ottawa : RCMP, 2010</Publication>
+      <VolumePage>1 PDF file (21 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>HF1040.9.C2</Classification>
+      <LanguageId>3</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2182</BibliographicNoticeId>
+      <Title>Projet STRIDER : évaluation nationale des menaces concernant la criminalité liée à la propriété intellectuelle, 2005 à 2008</Title>
+      <Author>Gendarmerie royale du Canada. Direction des renseignements criminels</Author>
+      <Publication>Ottawa : GRC, 2010</Publication>
+      <VolumePage>1 fichier PDF (22 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>HF1040.9.C2</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2183</BibliographicNoticeId>
+      <Title>Counterfeiting and piracy are theft : report of the Standing Committee on Industry, Science and Technology</Title>
+      <Author>Canada. Parliament. House of Commons. Standing Committee on Industry, Science ..</Author>
+      <Publication>Ottawa : House of Commons, 2007</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE2781</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2184</BibliographicNoticeId>
+      <Title>La contrefaçon et le piratage : copier, c'est voler : rapport du Comité permanent de l'industrie, des sciences et de la technologie</Title>
+      <Author>Canada. Parlement. Chambre des communes. Comité permanent de l'industrie ..</Author>
+      <Publication>Ottawa : Chambre des communes, 2007</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE2781</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2185</BibliographicNoticeId>
+      <Title>Report on counterfeiting and privacy in Canada : a road map for change</Title>
+      <Author>Canadian Anti-Counterfeiting Network</Author>
+      <Publication>[Toronto] : The Canadian Anti-Counterfeiting Network, 2007</Publication>
+      <VolumePage>1 PDF file (68 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE2773.9 C2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2186</BibliographicNoticeId>
+      <Title>Rapport sur la contrefaçon et le piratage au Canada] : des pistes d'intervention prometteuses</Title>
+      <Author>Réseau anti-contrefaçon canadien</Author>
+      <Publication>[Toronto, Ont.] : Réseau anti-contrefaçon canadien, 2007</Publication>
+      <VolumePage>1 fichier PDF (66 p.)</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>KE2773.9 C2</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
