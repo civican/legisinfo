@@ -1,0 +1,370 @@
+<Bills>
+  <Bill>
+    <Id>6038237</Id>
+    <NumberCode>C-57</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>57</Number>
+    <LongTitleEn>An Act to enact the Aviation Industry Indemnity Act, to amend the Aeronautics Act, the Canada Marine Act, the Marine Liability Act and the Canada Shipping Act, 2001 and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur l'indemnisation de l'industrie aérienne et modifiant la Loi sur l'aéronautique, la Loi maritime du Canada, la Loi sur la responsabilité en matière maritime, la Loi de 2001 sur la marine marchande du Canada et d'autres lois en conséquence</LongTitleFr>
+    <LongTitle>An Act to enact the Aviation Industry Indemnity Act, to amend the Aeronautics Act, the Canada Marine Act, the Marine Liability Act and the Canada Shipping Act, 2001 and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Safeguarding Canada's Seas and Skies Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant la protection des mers et ciel canadiens</ShortTitleFr>
+    <ShortTitle>Safeguarding Canada's Seas and Skies Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2013-03-18T15:14:13</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>38633</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Denis</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Lebel</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Denis Lebel</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Transport, Infrastructure and Communities and Minister of the Economic Development Agency of Canada for the Regions of Quebec</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Transports, de l'Infrastructure et des Collectivités et ministre de l'Agence de développement économique du Canada pour les régions du Québec</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Transport, Infrastructure and Communities and Minister of the Economic Development Agency of Canada for the Regions of Quebec</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>388</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Roberval—Lac-Saint-Jean</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Roberval—Lac-Saint-Jean</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Roberval—Lac-Saint-Jean</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2013-03-18T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>223</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2013-03-18T15:14:13</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 18 March 2013, the Minister of Transport, Infrastructure and Communities and Minister of the Economic Development Agency of Canada for the Regions of Quebec introduced Bill C-57, An Act to enact the Aviation Industry Indemnity Act, to amend the Aeronautics Act, the Canada Marine Act, the Marine Liability Act and the Canada Shipping Act, 2001 and to make consequential amendments to other Acts (Aviation Industry Indemnity Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 of Bill C-57 enacts the Aviation Industry Indemnity Act, which authorizes the Minister of Transport to undertake to indemnify certain aviation industry participants for loss, damage or liability caused by events that are commonly referred to in the insurance industry as "war risks". The Minister may undertake to indemnify all aviation industry participants, or may specify that an undertaking applies only to specific participants or classes of participant or applies only in specific circumstances. The Act also requires that the Minister, at least once every two years, assess whether it is feasible for aviation industry participants to obtain insurance coverage for events or other similar coverage, and that the Minister report regularly to Parliament on his or her activities under the Act. Part 1 also makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Aeronautics Act to provide certain persons with powers to investigate aviation accidents or incidents involving civilians and aircraft or aeronautical installations operated by or on behalf of the Department of National Defence, the Canadian Forces or a visiting force. It also establishes privilege in respect of on-board recordings, communication records and certain statements, and permits, among other things, access to an on-board recording if certain criteria are met. Finally, it makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Marine Act in relation to the effective day of the appointment of a director of a port authority.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Marine Liability Act to implement the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 2010. Among other things, it gives force of law to many provisions of the Convention, clarifies the liability of the Ship-source Oil Pollution Fund with respect to the Convention and confers powers, duties and functions on the Fund's Administrator.&lt;br/&gt;&lt;br/&gt;Part 5 amends the Canada Shipping Act, 2001 to introduce new requirements for operators of oil handling facilities, including the requirement to notify the Minister of their operations and to submit plans to the Minister. It extends civil and criminal immunity to the agents or mandataries of response organizations engaged in response operations. It also introduces new enforcement measures for Part 8 of the Act, including by applying the administrative monetary penalties regime contained in Part 11 of that Act to Part 8.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement un résumé législatif du projet de loi. Une version préliminaire est à la disposition des parlementaires et de leurs employés, qui peuvent en obtenir une copie en soumettant une demande ou en communiquant avec la Bibliothèque du Parlement. Nous vous en proposons aussi le résumé suivant.&lt;br/&gt;&lt;br/&gt;Le 18 mars 2013, le ministre des Transports, de l'Infrastructure et des Collectivités et ministre de l'Agence de développement économique du Canada pour les régions du Québec a introduit le projet de loi C-57, Loi édictant la Loi sur l'indemnisation de l'industrie aérienne et modifiant la Loi sur l'aéronautique, la Loi maritime du Canada, la Loi sur la responsabilité en matière maritime, la Loi de 2001 sur la marine marchande du Canada et d'autres lois en conséquence (Loi sur l'indemnisation de l'industrie aérienne) à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 du projet de loi C-57 édicte la Loi sur l'indemnisation de l'industrie aérienne, qui autorise le ministre des Transports à s'engager à indemniser certains participants de l'industrie aérienne des pertes ou des dommages qu'ils subissent ou dont ils sont responsables, qui sont causés par des événements communément appelés « risques de guerre » dans l'industrie de l'assurance. Le ministre peut s'engager à indemniser tous les participants de l'industrie aérienne ou il peut préciser que l'engagement ne s'applique qu'à certains participants ou à certaines catégories de participants ou que dans certaines circonstances. Par ailleurs, la loi exige que le ministre évalue, au moins une fois tous les deux ans, la faisabilité pour les participants de l'industrie aérienne d'obtenir une couverture d'assurance contre certains événements ou tout autre type de couverture semblable et qu'il dépose à intervalles réguliers un rapport au Parlement faisant état des activités qu'il a exercées en vertu de la loi. La partie 1 modifie également d'autres lois en conséquence.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi sur l'aéronautique pour accorder des pouvoirs à certaines personnes afin qu'elles puissent procéder à des enquêtes sur tout accident ou incident mettant en cause à la fois un civil et un aéronef ou une installation utilisée à des fins aéronautiques exploité par ou pour le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada. Elle prévoit que les enregistrements de bord, les enregistrements contrôle et certaines déclarations sont protégés et permet notamment que les enregistrements de bord soient mis à la disposition de certaines personnes si certaines conditions sont remplies. Elle apporte également des modifications corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie la Loi maritime du Canada en ce qui a trait à la date de prise d'effet des nominations des administrateurs d'administration portuaire.&lt;br/&gt;&lt;br/&gt;La partie 4 modifie la Loi sur la responsabilité en matière maritime afin de mettre en oeuvre la Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses. Entre autres, elle donne force de loi à plusieurs dispositions de cette convention, clarifie, dans le cadre de celle-ci, les responsabilités de la Caisse d'indemnisation des dommages dus à la pollution par les hydrocarbures causée par les navires et confère des attributions à son administrateur.&lt;br/&gt;&lt;br/&gt;Le partie 5 modifie la Loi de 2001 sur la marine marchande du Canada afin d'imposer de nouvelles exigences aux exploitants d'installation de manutention d'hydrocarbures, telles que la notification au ministre de leurs activités et la présentation de plans au ministre. Elle étend aux mandataires des organismes d'intervention l'immunité civile et pénale dans le cadre des interventions. Elle prévoit, en outre, de nouvelles mesures de contrôle d'application pour la partie 8 de cette loi, notamment en rendant applicable à la partie 8 de la loi le régime de sanctions administratives prévu à la partie 11 de la loi.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 18 March 2013, the Minister of Transport, Infrastructure and Communities and Minister of the Economic Development Agency of Canada for the Regions of Quebec introduced Bill C-57, An Act to enact the Aviation Industry Indemnity Act, to amend the Aeronautics Act, the Canada Marine Act, the Marine Liability Act and the Canada Shipping Act, 2001 and to make consequential amendments to other Acts (Aviation Industry Indemnity Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 of Bill C-57 enacts the Aviation Industry Indemnity Act, which authorizes the Minister of Transport to undertake to indemnify certain aviation industry participants for loss, damage or liability caused by events that are commonly referred to in the insurance industry as "war risks". The Minister may undertake to indemnify all aviation industry participants, or may specify that an undertaking applies only to specific participants or classes of participant or applies only in specific circumstances. The Act also requires that the Minister, at least once every two years, assess whether it is feasible for aviation industry participants to obtain insurance coverage for events or other similar coverage, and that the Minister report regularly to Parliament on his or her activities under the Act. Part 1 also makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Aeronautics Act to provide certain persons with powers to investigate aviation accidents or incidents involving civilians and aircraft or aeronautical installations operated by or on behalf of the Department of National Defence, the Canadian Forces or a visiting force. It also establishes privilege in respect of on-board recordings, communication records and certain statements, and permits, among other things, access to an on-board recording if certain criteria are met. Finally, it makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Marine Act in relation to the effective day of the appointment of a director of a port authority.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Marine Liability Act to implement the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 2010. Among other things, it gives force of law to many provisions of the Convention, clarifies the liability of the Ship-source Oil Pollution Fund with respect to the Convention and confers powers, duties and functions on the Fund's Administrator.&lt;br/&gt;&lt;br/&gt;Part 5 amends the Canada Shipping Act, 2001 to introduce new requirements for operators of oil handling facilities, including the requirement to notify the Minister of their operations and to submit plans to the Minister. It extends civil and criminal immunity to the agents or mandataries of response organizations engaged in response operations. It also introduces new enforcement measures for Part 8 of the Act, including by applying the administrative monetary penalties regime contained in Part 11 of that Act to Part 8.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-03-18T15:14:13</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>223</Number>
+          <Date>2013-03-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2013-03-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2013-03-18T15:14:13</EventStartDateTime>
+          <EventEndDateTime>2013-03-18T15:14:13</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-03-18T15:14:13</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>6039414</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper government announces first steps towards World-Class Tanker Safety System</TitleEn>
+      <TitleFr>Le gouvernement Harper annonce les premières étapes qui mèneront au système de sécurité de classe mondiale pour les navires-citernes</TitleFr>
+      <Title>Harper government announces first steps towards World-Class Tanker Safety System</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.tc.gc.ca/eng/mediaroom/releases-2013-h031e-7089.htm</UrlEn>
+      <UrlFr>http://www.tc.gc.ca/fra/medias/communiques-2013-h031f-7089.htm</UrlFr>
+      <Url>http://www.tc.gc.ca/eng/mediaroom/releases-2013-h031e-7089.htm</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
