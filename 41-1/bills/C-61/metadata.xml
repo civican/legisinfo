@@ -1,0 +1,409 @@
+<Bills>
+  <Bill>
+    <Id>6118444</Id>
+    <NumberCode>C-61</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>61</Number>
+    <LongTitleEn>An Act to amend the Canada-Newfoundland Atlantic Accord Implementation Act, the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and other Acts and to provide for certain other measures</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et d'autres lois, et comportant d'autres mesures</LongTitleFr>
+    <LongTitle>An Act to amend the Canada-Newfoundland Atlantic Accord Implementation Act, the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and other Acts and to provide for certain other measures</LongTitle>
+    <ShortTitleEn>Offshore Health and Safety Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la santé et la sécurité dans la zone extracôtière</ShortTitleFr>
+    <ShortTitle>Offshore Health and Safety Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2013-05-02T10:02:59</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>58866</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Joe</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Oliver</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>Joe</SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Joe Oliver</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Natural Resources</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Ressources naturelles</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Natural Resources</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>414</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Eglinton—Lawrence</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Eglinton—Lawrence</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Eglinton—Lawrence</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2013-06-07T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>265</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2013-05-02T10:02:59</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 2 May 2013, the Minister of Natural Resources introduced Bill C-61, An Act to amend the Canada-Newfoundland Atlantic Accord Implementation Act, the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and other Acts and to provide for certain other measures (Offshore Health and Safety Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;This enactment amends the Canada-Newfoundland Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act (the "Accord Acts") in order to increase the level of safety and transparency of offshore petroleum activities.&lt;br/&gt;&lt;br/&gt;The main purpose of the amendments is to establish a new occupational health and safety regime in the offshore areas.  In addition, it amends the Accord Acts to, most notably,&lt;br/&gt;•	ensure that occupational health and safety officers, special officers, conservation officers and operational safety officers have the same powers for the administration and enforcement of the Accord Acts;&lt;br/&gt;•	clarify that the new occupational health and safety regime applies to the transportation of persons who are in transit to, from or between workplaces in the offshore areas;&lt;br/&gt;•	require that any occupational health and safety regulations that apply to the transportation of persons who are in transit to, from or between workplaces in the offshore areas be made on the recommendation of the Minister of Transport; and&lt;br/&gt;•	authorize each of the Canada–Newfoundland and Labrador Offshore Petroleum Board and the Canada-Nova Scotia Offshore Petroleum Board to publicly disclose information related to occupational health and safety if it considers it to be in the public interest.&lt;br/&gt;&lt;br/&gt;It amends the Hazardous Materials Information Review Act to enable health and safety officers to get privileged information and to enable employers subject to the Accord Acts to apply to the Chief Screening Officer for exemptions from disclosure requirements in the same manner as employers under the Canada Labour Code. It also amends the Access to Information Act to prohibit the disclosure of certain information.&lt;br/&gt;&lt;br/&gt;It amends the Canada Labour Code to closely follow the Accord Acts with respect to the time frame for the institution of proceedings, and with respect to prohibitions on the sharing of information and on testimony.&lt;br/&gt;&lt;br/&gt;It also amends certain Acts and regulations to make terminological changes that are required as a result of certain amendments to the Canada-Newfoundland Atlantic Accord Implementation Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement un résumé législatif du projet de loi. Une version préliminaire est à la disposition des parlementaires et de leurs employés, qui peuvent en obtenir une copie en soumettant une demande ou en communiquant avec la Bibliothèque du Parlement. Nous vous en proposons aussi le résumé suivant.&lt;br/&gt;&lt;br/&gt;Le 2 mai 2013, le ministre des Ressources naturelles a introduit le projet de loi C-61, Loi modifiant la Loi de mise en oeuvre de l'Accord atlantique Canada — Terre-Neuve et la Loi de mise en oeuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et d'autres lois, et comportant d'autres mesures (Loi sur la santé et la sécurité dans la zone extracôtière) à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi de mise en oeuvre de l'Accord atlantique Canada — Terre-Neuve et la Loi de mise en oeuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers (les lois de mise en oeuvre) afin d'accroître le niveau de sécurité et de transparence des activités pétrolières extracôtières. &lt;br/&gt;&lt;br/&gt;Ces modifications visent avant tout à établir un nouveau régime de santé et de sécurité au travail dans les zones extracôtières. En outre, les lois de mise en oeuvre sont notamment modifiées afin :&lt;br/&gt;•	de veiller à ce que les agents de santé et de sécurité au travail, les agents spéciaux, les agents du contrôle de l'exploitation et les agents de la sécurité soient investis des mêmes pouvoirs pour l'exécution et le contrôle d'application de ces lois;&lt;br/&gt;•	de préciser que le nouveau régime de santé et de sécurité au travail s'applique au transport de personnes à destination ou en provenance de lieux de travail se trouvant dans les zones extracôtières, et entre ces lieux;&lt;br/&gt;•	d'exiger que le ministre des Transports recommande les règlements relatifs à la santé et à la sécurité au travail applicables au transport de personnes à destination ou en provenance de lieux de travail se trouvant dans les zones extracôtières, et entre ces lieux;&lt;br/&gt;•	d'autoriser l'Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers et l'Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers à rendre publics des renseignements relatifs à la santé et à la sécurité au travail s'ils sont d'avis qu'il serait dans l'intérêt public de le faire.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur le contrôle des renseignements relatifs aux matières dangereuses pour permettre aux agents de santé et de sécurité d'obtenir des renseignements protégés et aux employeurs visés par les lois de mise en oeuvre de demander à l'agent de contrôle en chef des exemptions aux exigences de communication, de la même façon que les employeurs régis par le Code canadien du travail. Il modifie également la Loi sur l'accès à l'information afin d'interdire la communication de certains renseignements.&lt;br/&gt;&lt;br/&gt;En outre, il modifie le Code canadien du travail pour en harmoniser les dispositions avec celles des lois de mise en oeuvre en ce qui a trait aux délais d'introduction d'instance, aux interdictions relatives à la communication de renseignements et aux témoignages.&lt;br/&gt;&lt;br/&gt;Finalement, le texte modifie la terminologie se trouvant dans d'autres lois et règlements pour qu'elle soit conforme aux modifications apportées à la terminologie se trouvant dans la Loi de mise en oeuvre de l'Accord atlantique Canada — Terre-Neuve.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 2 May 2013, the Minister of Natural Resources introduced Bill C-61, An Act to amend the Canada-Newfoundland Atlantic Accord Implementation Act, the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and other Acts and to provide for certain other measures (Offshore Health and Safety Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;This enactment amends the Canada-Newfoundland Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act (the "Accord Acts") in order to increase the level of safety and transparency of offshore petroleum activities.&lt;br/&gt;&lt;br/&gt;The main purpose of the amendments is to establish a new occupational health and safety regime in the offshore areas.  In addition, it amends the Accord Acts to, most notably,&lt;br/&gt;•	ensure that occupational health and safety officers, special officers, conservation officers and operational safety officers have the same powers for the administration and enforcement of the Accord Acts;&lt;br/&gt;•	clarify that the new occupational health and safety regime applies to the transportation of persons who are in transit to, from or between workplaces in the offshore areas;&lt;br/&gt;•	require that any occupational health and safety regulations that apply to the transportation of persons who are in transit to, from or between workplaces in the offshore areas be made on the recommendation of the Minister of Transport; and&lt;br/&gt;•	authorize each of the Canada–Newfoundland and Labrador Offshore Petroleum Board and the Canada-Nova Scotia Offshore Petroleum Board to publicly disclose information related to occupational health and safety if it considers it to be in the public interest.&lt;br/&gt;&lt;br/&gt;It amends the Hazardous Materials Information Review Act to enable health and safety officers to get privileged information and to enable employers subject to the Accord Acts to apply to the Chief Screening Officer for exemptions from disclosure requirements in the same manner as employers under the Canada Labour Code. It also amends the Access to Information Act to prohibit the disclosure of certain information.&lt;br/&gt;&lt;br/&gt;It amends the Canada Labour Code to closely follow the Accord Acts with respect to the time frame for the institution of proceedings, and with respect to prohibitions on the sharing of information and on testimony.&lt;br/&gt;&lt;br/&gt;It also amends certain Acts and regulations to make terminological changes that are required as a result of certain amendments to the Canada-Newfoundland Atlantic Accord Implementation Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-05-02T10:02:59</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>245</Number>
+          <Date>2013-05-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2013-05-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2013-05-02T10:02:59</EventStartDateTime>
+          <EventEndDateTime>2013-05-02T10:02:59</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-05-02T10:02:59</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>265</Number>
+          <Date>2013-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-06-07T13:20:01</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8069749</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>58866</PersonId>
+          <PersonOfficialFirstName>Joe</PersonOfficialFirstName>
+          <PersonOfficialLastName>Oliver</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Joe Oliver</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>265</MeetingNumber>
+          <SpeechDateTime>2013-06-07T13:20:14</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>6128834</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Federal–Provincial Cooperation Strengthens Occupational Health and Safety Practices</TitleEn>
+      <TitleFr>La collaboration fédérale-provinciale renforce les pratiques de santé et sécurité au travail</TitleFr>
+      <Title>Federal–Provincial Cooperation Strengthens Occupational Health and Safety Practices</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.nrcan.gc.ca/media-room/news-release/2013/7082</UrlEn>
+      <UrlFr>http://www.rncan.gc.ca/salle-medias/communiques/2013/7083</UrlFr>
+      <Url>http://www.nrcan.gc.ca/media-room/news-release/2013/7082</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
