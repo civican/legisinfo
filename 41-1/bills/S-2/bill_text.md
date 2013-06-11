@@ -1,4 +1,2 @@
 # Bill S-2: An Act respecting family homes situated on First Nation reserves and matrimonial interests or rights in or to structures and lands situated on those reserves
 
-**Sponsor**: THE LEADER OF THE GOVERNMENT IN THE SENATE
-
