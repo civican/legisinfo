@@ -1,0 +1,1987 @@
+<Bills>
+  <Bill>
+    <Id>6258538</Id>
+    <NumberCode>C-4</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>4</Number>
+    <LongTitleEn>A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</LongTitleEn>
+    <LongTitleFr>Loi n&lt;Sup&gt;o&lt;/Sup&gt; 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</LongTitleFr>
+    <LongTitle>A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</LongTitle>
+    <ShortTitleEn>Economic Action Plan 2013 Act No. 2</ShortTitleEn>
+    <ShortTitleFr>Loi n&lt;Sup&gt;o&lt;/Sup&gt; 2 sur le plan d'action économique de 2013</ShortTitleFr>
+    <ShortTitle>Economic Action Plan 2013 Act No. 2</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2013-12-12T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35751</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jim</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Flaherty</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jim Flaherty</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>485</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Whitby—Oshawa</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Whitby—Oshawa</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Whitby—Oshawa</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2013-12-12T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>27</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2013-10-22T10:04:12</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2013-10-29T17:25:48</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2013-12-09T19:05:04</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2013-12-09T20:30:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2013-12-10T00:02:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2013-12-12T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2013-12-12T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On November 5, 2013, the following motion was adopted by the Senate:&lt;br /&gt;&lt;br /&gt;That, in accordance with rule 10-11(1), the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1013"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject-matter of all of Bill C-4, A second Act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures, introduced in the House of Commons on October 22, 2013, in advance of the said bill coming before the Senate;&lt;br /&gt;&lt;br /&gt;That the Standing Senate Committee on National Finance be authorized to sit for the purposes of its study of the subject-matter of Bill C-4 even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; and&lt;br /&gt;&lt;br /&gt;That, in addition, and notwithstanding any normal practice:&lt;br /&gt;&lt;br /&gt;1. The following committees be separately authorized to examine the subject-matter of the following elements contained in Bill C-4 in advance of it coming before the Senate:&lt;br /&gt;&lt;br /&gt;(a) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1003"&gt;Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 2, 3, 9, and 13 of Part 3;&lt;br /&gt;&lt;br /&gt;(b) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1005"&gt;Standing Senate Committee on Energy, the Environment and Natural Resources&lt;/a&gt;: those elements contained in Divisions 7 and 14 of Part 3;&lt;br /&gt;&lt;br /&gt;(c) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1019"&gt;Standing Senate Committee on Transport and Communications&lt;/a&gt;: those elements contained in Division 8 of Part 3;&lt;br /&gt;&lt;br /&gt;(d) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1008"&gt;Standing Senate Committee on Foreign Affairs and International Trade&lt;/a&gt;: those elements contained in Divisions 4 and 16 of Part 3; &lt;br /&gt;&lt;br /&gt;(e) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1047"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 5, 10 and 11 of Part 3; and&lt;br /&gt;&lt;br /&gt;(f) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1011"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt;: those elements contained in Division 19, of Part 3;&lt;br /&gt;&lt;br /&gt;2. The various committees listed in point one that are authorized to examine the subject-matter of particular elements of Bill C-4 submit their final reports to the Senate no later than November 29, 2013; &lt;br /&gt;&lt;br /&gt;3. As the reports from the various committees authorized to examine the subject-matter of particular elements of Bill C-4 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; and&lt;br /&gt;&lt;br /&gt;4. The Standing Senate Committee on National Finance be simultaneously authorized to take any reports tabled under point three into consideration during its study of the subject-matter of all of Bill C-4.&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 5 novembre 2013, la motion suivante a été adoptée par le Sénat:&lt;br /&gt;&lt;br /&gt;Que, conformément à l'article 10-11(1) du Règlement, le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1013"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à examiner la teneur complète du projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en œuvre d'autres mesures, déposé à la Chambre des communes le 22 octobre 2013, avant que ce projet de loi soit présenté au Sénat;&lt;br /&gt;&lt;br /&gt;Que le Comité sénatorial permanent des finances nationales soit autorisé à siéger pour les fins de son examen de la teneur du projet de loi C-4 même si le Sénat siège à ce moment-là, l'application de l'article 12-18(1) du Règlement étant suspendue à cet égard;&lt;br /&gt;&lt;br /&gt;Que, de plus, et nonobstant toute pratique habituelle :&lt;br /&gt;&lt;br /&gt;1. Les comités suivants soient individuellement autorisés à examiner la teneur des éléments suivants du projet de loi C-4 avant qu'il soit présenté au Sénat :&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;a) le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1003"&gt;Comité sénatorial permanent des banques et du commerce&lt;/a&gt; : les éléments des Sections 2, 3, 9 et 13 de la Partie 3;&lt;br /&gt;&lt;br /&gt;b) le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1005"&gt;Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles&lt;/a&gt; : les éléments des Sections 7 et 14 de la Partie 3;&lt;br /&gt;&lt;br /&gt;c) le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1019"&gt;Comité sénatorial permanent des transports et des communications&lt;/a&gt; : les éléments de la Section 8 de la Partie 3; &lt;br /&gt;&lt;br /&gt;d) le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1008"&gt;Comité sénatorial permanent des affaires étrangères et du commerce international&lt;/a&gt; : les éléments des Sections 4 et 16 de la partie 3;&lt;br /&gt;&lt;br /&gt;e) le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1047"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; : les éléments des Sections 5, 10 et 11 de la Partie 3;&lt;br /&gt;&lt;br /&gt;f) le &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=F&amp;amp;comm_id=1011"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; : les éléments de la Section 19 de la Partie 3;&lt;br /&gt;&lt;br /&gt;2. Chacun des différents comités indiqués au point numéro un, qui sont autorisés à examiner la teneur de certains éléments du projet de loi C-4, soumette son rapport final au Sénat au plus tard le 29 novembre 2013; &lt;br /&gt;&lt;br /&gt;3. Au fur et à mesure que les rapports des comités autorisés à examiner la teneur de certains éléments du projet de loi C-4 seront déposés au Sénat, l'étude de ces rapports soit inscrite à l'ordre du jour de la prochaine séance; &lt;br /&gt;&lt;br /&gt;4. Le Comité sénatorial permanent des finances nationales soit simultanément autorisé à prendre en considération les rapports déposés conformément au point numéro trois au cours de son examen de la teneur complète du projet de loi C-4.&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On November 5, 2013, the following motion was adopted by the Senate:&lt;br /&gt;&lt;br /&gt;That, in accordance with rule 10-11(1), the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1013"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject-matter of all of Bill C-4, A second Act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures, introduced in the House of Commons on October 22, 2013, in advance of the said bill coming before the Senate;&lt;br /&gt;&lt;br /&gt;That the Standing Senate Committee on National Finance be authorized to sit for the purposes of its study of the subject-matter of Bill C-4 even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; and&lt;br /&gt;&lt;br /&gt;That, in addition, and notwithstanding any normal practice:&lt;br /&gt;&lt;br /&gt;1. The following committees be separately authorized to examine the subject-matter of the following elements contained in Bill C-4 in advance of it coming before the Senate:&lt;br /&gt;&lt;br /&gt;(a) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1003"&gt;Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 2, 3, 9, and 13 of Part 3;&lt;br /&gt;&lt;br /&gt;(b) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1005"&gt;Standing Senate Committee on Energy, the Environment and Natural Resources&lt;/a&gt;: those elements contained in Divisions 7 and 14 of Part 3;&lt;br /&gt;&lt;br /&gt;(c) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1019"&gt;Standing Senate Committee on Transport and Communications&lt;/a&gt;: those elements contained in Division 8 of Part 3;&lt;br /&gt;&lt;br /&gt;(d) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1008"&gt;Standing Senate Committee on Foreign Affairs and International Trade&lt;/a&gt;: those elements contained in Divisions 4 and 16 of Part 3; &lt;br /&gt;&lt;br /&gt;(e) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1047"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 5, 10 and 11 of Part 3; and&lt;br /&gt;&lt;br /&gt;(f) the &lt;a href="http://www.parl.gc.ca/SenCommitteeBusiness/CommitteeStudies.aspx?parl=41&amp;amp;ses=2&amp;amp;Language=E&amp;amp;comm_id=1011"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt;: those elements contained in Division 19, of Part 3;&lt;br /&gt;&lt;br /&gt;2. The various committees listed in point one that are authorized to examine the subject-matter of particular elements of Bill C-4 submit their final reports to the Senate no later than November 29, 2013; &lt;br /&gt;&lt;br /&gt;3. As the reports from the various committees authorized to examine the subject-matter of particular elements of Bill C-4 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; and&lt;br /&gt;&lt;br /&gt;4. The Standing Senate Committee on National Finance be simultaneously authorized to take any reports tabled under point three into consideration during its study of the subject-matter of all of Bill C-4.&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 22 October 2013, the Minister of Finance introduced Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (Economic Action Plan 2013 Act, No. 2), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements certain income tax measures proposed in the March 21, 2013 budget. Among other things, it &lt;br/&gt;&lt;br/&gt;•	increases the lifetime capital gains exemption to $800,000 and indexes the new limit to inflation;&lt;br/&gt;•	streamlines the process for pension plan administrators to refund a contribution made to a Registered Pension Plan as a result of a reasonable error;&lt;br/&gt;•	extends the reassessment period for reportable tax avoidance transactions and tax shelters when information returns are not filed properly and on time;&lt;br/&gt;•	phases out the federal Labour-Sponsored Venture Capital Corporations tax credit;&lt;br/&gt;•	ensures that derivative transactions cannot be used to convert fully taxable ordinary income into capital gains taxed at a lower rate;&lt;br/&gt;•	ensures that the tax consequences of disposing of a property cannot be avoided by entering into transactions that are economically equivalent to a disposition of the property;&lt;br/&gt;•	ensures that the tax attributes of trusts cannot be inappropriately transferred among arm's length persons;&lt;br/&gt;•	responds to the Sommerer decision to restore the intended tax treatment with respect to non-resident trusts;&lt;br/&gt;•	expands eligibility for the accelerated capital cost allowance for clean energy generation equipment to include a broader range of biogas production equipment and equipment used to treat gases from waste;&lt;br/&gt;•	imposes a penalty in instances where information on tax preparers and billing arrangements is missing, incomplete or inaccurate on Scientific Research and Experimental Development tax incentive program claim forms;&lt;br/&gt;•	phases out the accelerated capital cost allowance for capital assets used in new mines and certain mine expansions, and reduces the deduction rate for pre-production mine development expenses;&lt;br/&gt;•	adjusts the five-year phase-out of the additional deduction for credit unions;&lt;br/&gt;•	eliminates unintended tax benefits in respect of two types of leveraged life insurance arrangements;&lt;br/&gt;•	clarifies the restricted farm loss rules and increases the restricted farm loss deduction limit;&lt;br/&gt;•	enhances corporate anti-loss trading rules to address planning that avoids those rules;&lt;br/&gt;•	extends, in certain circumstances, the reassessment period for taxpayers who have failed to correctly report income from a specified foreign property on their annual income tax return;&lt;br/&gt;•	extends the application of Canada's thin capitalization rules to Canadian resident trusts and non-resident entities; and&lt;br/&gt;•	introduces new administrative monetary penalties and criminal offences to deter the use, possession, sale and development of electronic suppression of sales software that is designed to falsify records for the purpose of tax evasion.&lt;br/&gt;&lt;br/&gt;Part 1 also implements other selected income tax measures. Most notably, it&lt;br/&gt;(a) implements measures announced on July 25, 2012, including measures that&lt;br/&gt;•	relate to the taxation of specified investment flow-through entities, real estate investment trusts and publicly-traded corporations, and&lt;br/&gt;•	respond to the Lewin decision;&lt;br/&gt;(b) implements measures announced on December 21, 2012, including measures that relate to&lt;br/&gt;•	the computation of adjusted taxable income for the purposes of the alternative minimum tax,&lt;br/&gt;•	the prohibited investment and advantage rules for registered plans, and&lt;br/&gt;•	the corporate reorganization rules; and&lt;br/&gt;(c) clarifies that information may be provided to the Department of Employment and Social Development for a program for temporary foreign workers.&lt;br/&gt;&lt;br/&gt;Part 2 implements certain goods and services tax and harmonized sales tax (GST/HST) measures proposed in the March 21, 2013 budget by&lt;br/&gt;•	introducing new administrative monetary penalties and criminal offences to deter the use, possession, sale and development of electronic suppression of sales software that is designed to falsify records for the purpose of tax evasion; and&lt;br/&gt;•	clarifying that the GST/HST provision, exempting supplies by a public sector body (PSB) of a property or a service if all or substantially all of the supplies of the property or service by the PSB are made for free, does not apply to supplies of paid parking.&lt;br/&gt;&lt;br/&gt;Part 3 enacts and amends several Acts in order to implement various measures.&lt;br/&gt;Division 1 of Part 3 amends the Employment Insurance Act to extend and expand a temporary measure to refund a portion of employer premiums for small businesses. It also amends that Act to modify the Employment Insurance premium rate-setting mechanism, including setting the 2015 and 2016 rates and requiring that the rate be set on a seven-year break-even basis by the Canada Employment Insurance Commission beginning with the 2017 rate. The Division repeals the Canada Employment Insurance Financing Board Act and related provisions of other Acts. Lastly, it makes technical amendments to the Employment Insurance (Fishing) Regulations.&lt;br/&gt;&lt;br/&gt;Division 2 of Part 3 amends the Trust and Loan Companies Act, the Bank Act and the Insurance Companies Act to remove the prohibition against federal and provincial Crown agents and federal and provincial government employees being directors of a federally regulated financial institution. It also amends the Office of the Superintendent of Financial Institutions Act and the Financial Consumer Agency of Canada Act to remove the obligation of certain persons to give the Minister of Finance notice of their intent to borrow money from a federally regulated financial institution or from a corporation that has deposit insurance under the Canada Deposit Insurance Corporation Act.&lt;br/&gt;&lt;br/&gt;Division 3 of Part 3 amends the Trust and Loan Companies Act, the Bank Act, the Insurance Companies Act and the Cooperative Credit Associations Act to clarify the rules for certain indirect acquisitions of foreign financial institutions.&lt;br/&gt;&lt;br/&gt;Division 4 of Part 3 amends the Criminal Code to update the definition "passport" in subsection 57(5) and also amends the Department of Foreign Affairs, Trade and Development Act to update the reference to the Minister in paragraph 11(1)(a).&lt;br/&gt;&lt;br/&gt;Division 5 of Part 3 amends the Canada Labour Code to amend the definition of "danger" in subsection 122(1), to modify the refusal to work process, to remove all references to health and safety officers and to confer on the Minister of Labour their powers, duties and functions. It also makes consequential amendments to the National Energy Board Act, the Hazardous Materials Information Review Act and the Non-smokers' Health Act.&lt;br/&gt;&lt;br/&gt;Division 6 of Part 3 amends the Department of Human Resources and Skills Development Act to change the name of the Department to the Department of Employment and Social Development and to reflect that name change in the title of that Act and of its responsible Minister. In addition, the Division amends Part 6 of that Act to extend that Minister's powers with respect to certain Acts, programs and activities and to allow the Minister of Labour to administer or enforce electronically the Canada Labour Code. The Division also adds the title of a Minister to the Salaries Act. Finally, it makes consequential amendments to several other Acts to reflect the name change.&lt;br/&gt;&lt;br/&gt;Division 7 of Part 3 authorizes Her Majesty in right of Canada to hold, dispose of or otherwise deal with the Dominion Coal Blocks in any manner.&lt;br/&gt;&lt;br/&gt;Division 8 of Part 3 authorizes the amalgamation of four Crown corporations that own or operate international bridges and gives the resulting amalgamated corporation certain powers. It also makes consequential amendments and repeals certain Acts.&lt;br/&gt;&lt;br/&gt;Division 9 of Part 3 amends the Financial Administration Act to provide that agent corporations designated by the Minister of Finance may, subject to any terms and conditions of the designation, pledge any securities or cash that they hold, or give deposits, as security for the payment or performance of obligations arising out of derivatives that they enter into or guarantee for the management of financial risks.&lt;br/&gt;&lt;br/&gt;Division 10 of Part 3 amends the National Research Council Act to reduce the number of members of the National Research Council of Canada and to create the position of Chairperson of the Council.&lt;br/&gt;&lt;br/&gt;Division 11 of Part 3 amends the Veterans Review and Appeal Board Act to reduce the permanent number of members of the Veterans Review and Appeal Board.&lt;br/&gt;&lt;br/&gt;Division 12 of Part 3 amends the Canada Pension Plan Investment Board Act to allow for the appointment of up to three directors who are not residents of Canada.&lt;br/&gt;&lt;br/&gt;Division 13 of Part 3 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to extend to the whole Act the protection for communications that are subject to solicitor-client privilege and to provide that information disclosed by the Financial Transactions and Reports Analysis Centre of Canada under subsection 65(1) of that Act may be used by a law enforcement agency referred to in that subsection only as evidence of a contravention of Part 1 of that Act.&lt;br/&gt;&lt;br/&gt;Division 14 of Part 3 enacts the Mackenzie Gas Project Impacts Fund Act, which establishes the Mackenzie Gas Project Impacts Fund. The Division also repeals the Mackenzie Gas Project Impacts Act.&lt;br/&gt;&lt;br/&gt;Division 15 of Part 3 amends the Conflict of Interest Act to allow the Governor in Council to designate a person or class of persons as public office holders and to designate a person who is a public office holder or a class of persons who are public office holders as reporting public office holders, for the purposes of that Act.&lt;br/&gt;&lt;br/&gt;Division 16 of Part 3 amends the Immigration and Refugee Protection Act to establish a new regime that provides that a foreign national who wishes to apply for permanent residence as a member of a certain economic class may do so only if they have submitted an expression of interest to the Minister and have subsequently been issued an invitation to apply.&lt;br/&gt;&lt;br/&gt;Division 17 of Part 3 modernizes the collective bargaining and recourse systems provided by the Public Service Labour Relations Act regime. It amends the dispute resolution process for collective bargaining by removing the choice of dispute resolution method and substituting conciliation, which involves the possibility of the use of a strike as the method by which the parties may resolve impasses. In those cases where 80% or more of the positions in a bargaining unit are considered necessary for providing an essential service, the dispute resolution mechanism is to be arbitration. The collective bargaining process is further streamlined through amendments to the provision dealing with essential services. The employer has the exclusive right to determine that a service is essential and the numbers of positions that will be required to provide that service. Bargaining agents are to be consulted as part of the essential services process. The collective bargaining process is also amended by extending the timeframe within which a notice to bargain collectively may be given before the expiry of a collective agreement or arbitral award.&lt;br/&gt;&lt;br/&gt;In addition, the Division amends the factors that arbitration boards and public interest commissions must take into account when making awards or reports, respectively. It also amends the processes for the making of those awards and reports and removes the compensation analysis and research function from the mandate of the Public Service Labour Relations Board.&lt;br/&gt;&lt;br/&gt;The Division streamlines the recourse process set out for grievances and complaints in Part 2 of the Public Service Labour Relations Act and for staffing complaints under the Public Service Employment Act.&lt;br/&gt;&lt;br/&gt;The Division also establishes a single forum for employees to challenge decisions relating to discrimination in the public service. Grievances and complaints are to be heard by the Public Service Labour Relations Board under the grievance process set out in the Public Service Labour Relations Act. The process for the review of those grievances or complaints is to be the same as the one that currently exists under the Canadian Human Rights Act. However, grievances and complaints related specifically to staffing complaints are to be heard by the Public Service Staffing Tribunal. Grievances relating to discrimination are required to be submitted within one year or any longer period that the Public Service Labour Relations Board considers appropriate, to reflect what currently exists under the Canadian Human Rights Act.&lt;br/&gt;&lt;br/&gt;Furthermore, the Division amends the grievance recourse process in several ways. With the sole exception of grievances relating to issues of discrimination, employees included in a bargaining unit may only present or refer an individual grievance to adjudication if they have the approval of and are represented by their bargaining agent. Also, the process as it relates to policy grievances is streamlined, including by defining more clearly an adjudicator's remedial power when dealing with a policy grievance.&lt;br/&gt;&lt;br/&gt;In addition, the Division provides for a clearer apportionment of the expenses of adjudication relating to the interpretation of a collective agreement. They are to be borne in equal parts by the employer and the bargaining agent. If a grievance relates to a deputy head's direct authority, such as with respect to discipline, termination of employment or demotion, the expenses are to be borne in equal parts by the deputy head and the bargaining agent. The expenses of adjudication for employees who are not represented by a bargaining agent are to be borne by the Public Service Labour Relations Board.&lt;br/&gt;&lt;br/&gt;Finally, the Division amends the recourse process for staffing complaints under the Public Service Employment Act by ensuring that the right to complain is triggered only in situations when more than one employee participates in an exercise to select employees that are to be laid off. And, candidates who are found not to meet the qualifications set by a deputy head may only complain with respect to their own assessment.&lt;br/&gt;&lt;br/&gt;Division 18 of Part 3 establishes the Public Service Labour Relations and Employment Board to replace the Public Service Labour Relations Board and the Public Service Staffing Tribunal. The new Board will deal with matters that were previously dealt with by those former Boards under the Public Service Labour Relations Act and the Public Service Employment Act, respectively, which will permit proceedings under those Acts to be consolidated.&lt;br/&gt;&lt;br/&gt;Division 19 of Part 3 adds declaratory provisions to the Supreme Court Act, respecting the criteria for appointing judges to the Supreme Court of Canada.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement un résumé législatif du projet de loi. Une version préliminaire est à la disposition des parlementaires et de leurs employés, qui peuvent en obtenir une copie en soumettant une demande ou en communiquant avec la Bibliothèque du Parlement. À l'heure actuelle, le résumé suivant est disponible.&lt;br/&gt;&lt;br/&gt;Le 22 octobre 2013, le projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (Loi no 2 sur le plan d'action économique de 2013) a été déposé aux Communes par le ministre des Finance et lu pour la première fois.&lt;br/&gt;&lt;br/&gt;La partie 1 met en oeuvre des mesures relatives à l'impôt sur le revenu qui ont été proposées dans le budget du 21 mars 2013 pour, notamment :&lt;br/&gt;&lt;br/&gt;•	augmenter l'exonération cumulative des gains en capital à 800 000 $ pour ensuite indexer cette somme à l'inflation;&lt;br/&gt;•	simplifier le processus de remboursement par les administrateurs de régimes de pension d'une cotisation versée à un régime de pension agréé par suite d'une erreur raisonnable;&lt;br/&gt;•	prolonger la période d'établissement de nouvelles cotisations à l'égard d'opérations d'évitement fiscal à déclarer et d'abris fiscaux à l'égard desquels une déclaration de renseignements n'est pas produite selon les modalités et dans les délais prévus;&lt;br/&gt;•	éliminer graduellement le crédit d'impôt fédéral relatif à une société à capital de risque de travailleurs; &lt;br/&gt;•	faire en sorte que les opérations sur produits dérivés ne puissent servir à convertir un revenu ordinaire pleinement imposable en gains en capital, lesquels sont assujettis à un taux d'imposition moindre;&lt;br/&gt;•	veiller à ce que les conséquences fiscales découlant de la disposition d'un bien ne puissent être évitées au moyen de la conclusion d'une opération qui, sur le plan économique, équivaut à une disposition du bien;&lt;br/&gt;•	faire en sorte que les attributs fiscaux de fiducies ne puissent faire l'objet de transferts injustifiés entre personnes sans lien de dépendance;&lt;br/&gt;•	donner suite à la décision rendue dans l'affaire Sommerer, afin de rétablir le traitement fiscal prévu à l'égard des fiducies non-résidentes;&lt;br/&gt;•	faire en sorte qu'un plus large éventail de matériel de production de biogaz et de matériel servant à traiter les gaz générés par les déchets donne droit à la déduction pour amortissement accéléré applicable au matériel de production d'énergie propre;&lt;br/&gt;•	imposer une pénalité dans le cas où les renseignements sur les préparateurs de demandes et les modalités de facturation devant figurer dans les formulaires du Programme d'encouragements fiscaux pour la recherche scientifique et le développement expérimental sont manquants, incomplets ou inexacts;&lt;br/&gt;•	éliminer graduellement la déduction pour amortissement accéléré applicable aux immobilisations utilisées pour l'exploitation de nouvelles mines ou pour certains agrandissements de mines, et réduire le taux de la déduction applicable aux frais d'aménagement préalables à la production;&lt;br/&gt;•	rajuster l'élimination graduelle sur cinq ans du crédit supplémentaire accordé aux caisses de crédit;&lt;br/&gt;•	éliminer les avantages fiscaux non envisagés découlant de deux types de stratagèmes d'assurance-vie avec effet de levier;&lt;br/&gt;•	préciser les règles sur les pertes agricoles restreintes et hausser la limite de déduction de ces pertes;&lt;br/&gt;•	améliorer les règles sur le commerce de pertes de sociétés afin de déjouer les stratagèmes de planification visant à s'y soustraire;&lt;br/&gt;•	prolonger, dans certaines circonstances, la période d'établissement de nouvelles cotisations à l'égard de contribuables ayant omis d'indiquer correctement un revenu provenant d'un bien étranger déterminé dans leur déclaration de revenu annuelle;&lt;br/&gt;•	étendre l'application des règles canadiennes sur la capitalisation restreinte aux fiducies résidant au Canada et aux entités non-résidentes;&lt;br/&gt;•	établir de nouvelles pénalités pécuniaires administratives et de nouvelles infractions criminelles à titre de moyens de dissuasion contre l'utilisation, la possession, la vente et le développement de logiciels de suppression électronique des ventes conçus dans le but de falsifier des registres à des fins d'évasion fiscale.&lt;br/&gt;&lt;br/&gt;En outre, elle met en oeuvre d'autres mesures relatives à l'impôt sur le revenu pour, notamment :&lt;br/&gt;a) mettre en oeuvre des mesures annoncées le 25 juillet 2012 qui :&lt;br/&gt;•	portent sur le régime d'imposition des entités intermédiaires de placement déterminées, des fiducies de placement immobilier et des sociétés cotées en bourse,&lt;br/&gt;•	font suite à la décision rendue dans l'affaire Lewin;&lt;br/&gt;b) mettre en oeuvre des mesures annoncées le 21 décembre 2012, dont des modifications concernant :&lt;br/&gt;•	le calcul, pour l'application de l'impôt minimum de remplacement, du revenu imposable modifié,&lt;br/&gt;•	les règles sur les placements interdits et les avantages applicables aux régimes enregistrés,&lt;br/&gt;•	les règles sur la réorganisation de sociétés;&lt;br/&gt;c) préciser que des renseignements peuvent être fournis au ministère de l'Emploi et du Développement social relativement à un programme pour travailleurs étrangers temporaires.&lt;br/&gt;&lt;br/&gt;La partie 2 met en oeuvre certaines mesures relatives à la taxe sur les produits et services et à la taxe de vente harmonisée (TPS/TVH) qui ont été proposées dans le budget du 21 mars 2013 pour, notamment :&lt;br/&gt;•	établir de nouvelles pénalités pécuniaires administratives et de nouvelles infractions criminelles à titre de moyens de dissuasion contre l'utilisation, la possession, la vente et le développement de logiciels de suppression électronique des ventes conçus dans le but de falsifier des registres à des fins d'évasion fiscale;&lt;br/&gt;•	préciser que la disposition qui a pour effet d'exonérer de la TPS/TVH les fournitures de biens ou de services effectuées par un organisme du secteur public, si la totalité ou la presque totalité de ces fournitures sont effectuées à titre gratuit, ne s'applique pas aux fournitures de stationnement payant.&lt;br/&gt;&lt;br/&gt;La partie 3 met en oeuvre diverses mesures, notamment par l'édiction et la modification de plusieurs lois.&lt;br/&gt;La section 1 de la partie 3 modifie la Loi sur l'assurance-emploi afin de prolonger et bonifier temporairement aux petites entreprises le remboursement d'une partie des cotisations patronales. Elle modifie également cette loi afin de changer le mécanisme d'établissement du taux de cotisation à l'assurance-emploi pour, notamment, fixer ce taux pour les années 2015 et 2016 et exiger que ce taux soit fixé selon un seuil d'équilibre sur une période de sept ans par la Commission de l'assurance-emploi du Canada, à compter de 2017. La section abroge la Loi sur l'Office de financement de l'assurance-emploi du Canada et des dispositions connexes d'autres lois. Enfin, elle apporte des modifications de nature technique au Règlement sur l'assurance-emploi (pêche).&lt;br/&gt;&lt;br/&gt;La section 2 de la partie 3 modifie la Loi sur les sociétés de fiducie et de prêt, la Loi sur les banques et la Loi sur les sociétés d'assurances afin de supprimer l'interdiction faite aux mandataires et employés de Sa Majesté du chef du Canada ou d'une province de siéger comme administrateur au conseil d'administration d'une institution financière sous réglementation fédérale. Elle modifie également la Loi sur le Bureau du surintendant des institutions financières et la Loi sur l'Agence de la consommation en matière financière du Canada afin de supprimer l'obligation pour certaines personnes d'informer préalablement le ministre des Finances de leur intention de contracter un emprunt auprès d'une institution financière sous réglementation fédérale ou d'une personne morale qui bénéficie de l'assurance-dépôts dans le cadre de la Loi sur la Société d'assurance-dépôts du Canada.&lt;br/&gt;&lt;br/&gt;La section 3 de la partie 3 modifie la Loi sur les sociétés de fiducie et de prêt, la Loi sur les banques, la Loi sur les sociétés d'assurances et la Loi sur les associations coopératives de crédit afin de clarifier les règles pour certaines acquisitions indirectes d'institutions financières étrangères.&lt;br/&gt;&lt;br/&gt;La section 4 de la partie 3 modifie le Code criminel pour mettre à jour la définition de « passeport » au paragraphe 57(5); elle modifie également la Loi sur le ministère des Affaires étrangères, du Commerce et du Développement pour mettre à jour le renvoi au ministre au paragraphe 11(1).&lt;br/&gt;&lt;br/&gt;La section 5 de la partie 3 modifie le Code canadien du travail afin de modifier la définition de « danger » au paragraphe 122(1), de modifier le processus de refus de travail, de supprimer toute mention des agents de santé et de sécurité et d'en conférer les attributions au ministre du Travail. Elle apporte également des modifications corrélatives à la Loi sur l'Office national de l'énergie, à la Loi sur le contrôle des renseignements relatifs aux matières dangereuses et à la Loi sur la santé des non-fumeurs.&lt;br/&gt;&lt;br/&gt;La section 6 de la partie 3 modifie la Loi sur le ministère des Ressources humaines et du Développement des compétences afin de remplacer le nom du ministère par celui du ministère de l'Emploi et du Développement social, le nom du ministre par celui du ministre de l'Emploi et du Développement social ainsi que le titre de cette loi en conséquence. Elle modifie également la partie 6 de cette loi afin d'étendre les attributions du ministre relativement à certaines lois, à certains programmes et à certaines activités et afin de permettre au ministre du Travail de mettre en oeuvre ou d'exécuter le Code canadien du travail par voie électronique. Elle ajoute aussi le nom d'un ministre dans la Loi sur les traitements. Enfin, elle apporte des modifications corrélatives à d'autres lois pour refléter ces changements.&lt;br/&gt;&lt;br/&gt;La section 7 de la partie 3 autorise Sa Majesté du chef du Canada à posséder la Réserve fédérale de charbon, à en disposer ou à effectuer toute autre opération à son égard.&lt;br/&gt;La section 8 de la partie 3 autorise la fusion de quatre sociétés d'État qui possèdent ou exploitent des ponts internationaux et confère certains pouvoirs à la société issue de la fusion. Elle comporte également des modifications corrélatives et prévoit l'abrogation de certaines lois.&lt;br/&gt;&lt;br/&gt;La section 9 de la partie 3 modifie la Loi sur la gestion des finances publiques afin de permettre à une société mandataire désignée par le ministre des Finances, sous réserve des modalités qui sont précisées dans la désignation, de donner en gage les valeurs mobilières ou les liquidités qu'elle possède ou de faire des dépôts pour garantir le paiement d'une somme ou l'exécution d'obligations découlant de contrats dérivés conclus ou garantis par la société et destinés à la gestion des risques financiers.&lt;br/&gt;&lt;br/&gt;La section 10 de la partie 3 modifie la Loi sur le Conseil national de recherches afin de réduire le nombre de membres du Conseil national de recherches du Canada et de créer la charge de premier conseiller.&lt;br/&gt;&lt;br/&gt;La section 11 de la partie 3 modifie la Loi sur le Tribunal des anciens combattants (révision et appel) afin de réduire le nombre de membres titulaires du Tribunal des anciens combattants (révision et appel).&lt;br/&gt;&lt;br/&gt;La section 12 de la partie 3 modifie la Loi sur l'Office d'investissement du régime de pensions du Canada afin de permettre la nomination d'au plus trois administrateurs résidant à l'extérieur du Canada.&lt;br/&gt;&lt;br/&gt;La section 13 de la partie 3 modifie la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes afin d'étendre à toutes les communications visées par la Loi la protection du secret professionnel du conseiller juridique et de prévoir que les renseignements communiqués par le Centre d'analyse des opérations et déclarations financières du Canada au titre du paragraphe 65(1) de cette loi ne peuvent être utilisés par un organisme visé à ce paragraphe qu'à titre de preuve de la contravention à la partie 1 de cette loi.&lt;br/&gt;&lt;br/&gt;La section 14 de la partie 3 édicte la Loi sur le Fonds relatif aux répercussions du projet gazier Mackenzie prévoyant la création du Fonds relatif aux répercussions du projet gazier Mackenzie et abroge la Loi relative aux répercussions du projet gazier Mackenzie.&lt;br/&gt;La section 15 de la partie 3 modifie la Loi sur les conflits d'intérêts afin de permettre au gouverneur en conseil de désigner, pour l'application de cette loi, toute personne comme titulaire de charge publique et tout titulaire de charge publique comme titulaire de charge publique principal, à titre individuel ou au titre de son appartenance à une catégorie déterminée.&lt;br/&gt;&lt;br/&gt;La section 16 de la partie 3 modifie la Loi sur l'immigration et la protection des réfugiés afin d'établir un nouveau régime prévoyant que l'étranger qui désire présenter une demande de résidence permanente comme membre d'une certaine catégorie établie au sein de la catégorie « immigration économique » ne peut le faire que s'il a soumis une déclaration d'intérêt au ministre et qu'une invitation à présenter une demande lui a par la suite été formulée.&lt;br/&gt;&lt;br/&gt;La section 17 de la partie 3 modernise les processus de négociation collective et les recours prévus par la Loi sur les relations de travail dans la fonction publique. Elle modifie le mode de règlement des différends relatif aux négociations collectives en substituant le droit de choisir ce mode par la conciliation, ce qui entraîne, lorsqu'il y a impasse, la possibilité d'une grève pour résoudre le différend. Dans les cas où au moins quatre-vingts pour cent des postes au sein de l'unité de négociation sont considérés comme nécessaires à la fourniture de services essentiels, le mode de règlement des différends sera l'arbitrage. Le processus de négociation collective est également simplifié par des modifications aux dispositions portant sur les services essentiels. L'employeur aura le droit exclusif de déterminer si un service est essentiel et le nombre de postes nécessaires afin de fournir ce service. Dans le cadre de ce processus, les agents négociateurs seront consultés. Le processus de négociation collective est également modifié par la prolongation du délai dans lequel l'avis de négocier collectivement peut être donné avant l'expiration de la convention collective ou de la décision arbitrale.&lt;br/&gt;&lt;br/&gt;De plus, la section modifie les facteurs sur lesquels doivent se fonder les conseils d'arbitrage et les commissions d'intérêt public pour respectivement rendre leurs décisions arbitrales ou établir leurs rapports. Elle modifie le processus décisionnel relatif à ces décisions et rapports. Elle retire également les services d'analyse et de recherche en matière de rémunération du mandat de la Commission des relations de travail dans la fonction publique.&lt;br/&gt;La section simplifie le processus de recours prévu pour les griefs et les plaintes sous le régime de la partie 2 de la Loi sur les relations de travail dans la fonction publique ainsi que pour les plaintes en matière de dotation au titre de la Loi sur l'emploi dans la fonction publique.&lt;br/&gt;&lt;br/&gt;La section prévoit un seul recours pour les fonctionnaires qui désirent contester des décisions relatives à la discrimination dans la fonction publique. Les griefs et les plaintes seront entendus par la Commission des relations de travail dans la fonction publique selon la procédure de grief prévue par la Loi sur les relations de travail dans la fonction publique. Le réexamen de tels griefs ou de telles plaintes suivra la même procédure que celle qui existe présentement sous le régime de la Loi canadienne sur les droits de la personne. Cependant, les griefs et les plaintes qui portent spécifiquement sur la dotation seront entendus par le Tribunal de la dotation de la fonction publique. Les griefs alléguant la discrimination devront être soumis dans un délai d'un an ou dans le délai supérieur que la Commission des relations de travail dans la fonction publique estime indiqué, dans le but de refléter ce qui existe actuellement dans la Loi canadienne sur les droits de la personne.&lt;br/&gt;La section modifie la procédure de grief de plusieurs façons. À l'exception des griefs portant sur des questions de discrimination, les fonctionnaires d'une unité de négociation ne pourront présenter ou renvoyer à l'arbitrage un grief individuel que s'ils ont obtenu l'approbation de l'agent négociateur et s'ils sont représentés par cet agent. En outre, la procédure relative aux griefs de principe est simplifiée, notamment en clarifiant les pouvoirs de redressement des arbitres à l'égard de ces griefs.&lt;br/&gt;&lt;br/&gt;En outre, elle clarifie le partage des frais dans le cadre d'un arbitrage portant sur l'interprétation d'une convention collective. Ces frais seront partagés en parts égales entre l'employeur et l'agent négociateur. Pour les griefs qui relèvent de l'autorité d'un administrateur général, tels que ceux portant sur une mesure disciplinaire, le licenciement ou la rétrogradation, les frais seront répartis, à parts égales, entre l'administrateur général et l'agent négociateur. Les frais d'arbitrage touchant un fonctionnaire non représenté par un agent négociateur seront absorbés par la Commission des relations de travail dans la fonction publique.&lt;br/&gt;&lt;br/&gt;Enfin, la section modifie le processus de recours en ce qui a trait aux plaintes de dotation sous le régime de la Loi sur l'emploi dans la fonction publique et précise que le droit de déposer une plainte n'existe que dans les situations où plusieurs fonctionnaires participent à un processus pour choisir les fonctionnaires qui seront mis en disponibilité. De plus, les candidats qui ne satisfont pas aux qualifications essentielles énoncées par l'administrateur général ne pourront déposer une plainte qu'en ce qui a trait à leur propre évaluation.&lt;br/&gt;La section 18 de la partie 3 crée la Commission des relations de travail et de l'emploi dans la fonction publique. Cette nouvelle Commission remplace la Commission des relations de travail dans la fonction publique et le Tribunal de la dotation de la fonction publique. Elle sera chargée des affaires dont l'ancienne Commission et l'ancien Tribunal étaient chargés au titre de la Loi sur les relations de travail dans la fonction publique et la Loi sur l'emploi dans la fonction publique, respectivement, ce qui permettra la jonction des instances régies par ces lois.&lt;br/&gt;&lt;br/&gt;La section 19 de la partie 3 ajoute à la Loi sur la Cour suprême des dispositions déclaratoires portant sur les critères de nomination des juges de la Cour suprême du Canada.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 22 October 2013, the Minister of Finance introduced Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (Economic Action Plan 2013 Act, No. 2), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements certain income tax measures proposed in the March 21, 2013 budget. Among other things, it &lt;br/&gt;&lt;br/&gt;•	increases the lifetime capital gains exemption to $800,000 and indexes the new limit to inflation;&lt;br/&gt;•	streamlines the process for pension plan administrators to refund a contribution made to a Registered Pension Plan as a result of a reasonable error;&lt;br/&gt;•	extends the reassessment period for reportable tax avoidance transactions and tax shelters when information returns are not filed properly and on time;&lt;br/&gt;•	phases out the federal Labour-Sponsored Venture Capital Corporations tax credit;&lt;br/&gt;•	ensures that derivative transactions cannot be used to convert fully taxable ordinary income into capital gains taxed at a lower rate;&lt;br/&gt;•	ensures that the tax consequences of disposing of a property cannot be avoided by entering into transactions that are economically equivalent to a disposition of the property;&lt;br/&gt;•	ensures that the tax attributes of trusts cannot be inappropriately transferred among arm's length persons;&lt;br/&gt;•	responds to the Sommerer decision to restore the intended tax treatment with respect to non-resident trusts;&lt;br/&gt;•	expands eligibility for the accelerated capital cost allowance for clean energy generation equipment to include a broader range of biogas production equipment and equipment used to treat gases from waste;&lt;br/&gt;•	imposes a penalty in instances where information on tax preparers and billing arrangements is missing, incomplete or inaccurate on Scientific Research and Experimental Development tax incentive program claim forms;&lt;br/&gt;•	phases out the accelerated capital cost allowance for capital assets used in new mines and certain mine expansions, and reduces the deduction rate for pre-production mine development expenses;&lt;br/&gt;•	adjusts the five-year phase-out of the additional deduction for credit unions;&lt;br/&gt;•	eliminates unintended tax benefits in respect of two types of leveraged life insurance arrangements;&lt;br/&gt;•	clarifies the restricted farm loss rules and increases the restricted farm loss deduction limit;&lt;br/&gt;•	enhances corporate anti-loss trading rules to address planning that avoids those rules;&lt;br/&gt;•	extends, in certain circumstances, the reassessment period for taxpayers who have failed to correctly report income from a specified foreign property on their annual income tax return;&lt;br/&gt;•	extends the application of Canada's thin capitalization rules to Canadian resident trusts and non-resident entities; and&lt;br/&gt;•	introduces new administrative monetary penalties and criminal offences to deter the use, possession, sale and development of electronic suppression of sales software that is designed to falsify records for the purpose of tax evasion.&lt;br/&gt;&lt;br/&gt;Part 1 also implements other selected income tax measures. Most notably, it&lt;br/&gt;(a) implements measures announced on July 25, 2012, including measures that&lt;br/&gt;•	relate to the taxation of specified investment flow-through entities, real estate investment trusts and publicly-traded corporations, and&lt;br/&gt;•	respond to the Lewin decision;&lt;br/&gt;(b) implements measures announced on December 21, 2012, including measures that relate to&lt;br/&gt;•	the computation of adjusted taxable income for the purposes of the alternative minimum tax,&lt;br/&gt;•	the prohibited investment and advantage rules for registered plans, and&lt;br/&gt;•	the corporate reorganization rules; and&lt;br/&gt;(c) clarifies that information may be provided to the Department of Employment and Social Development for a program for temporary foreign workers.&lt;br/&gt;&lt;br/&gt;Part 2 implements certain goods and services tax and harmonized sales tax (GST/HST) measures proposed in the March 21, 2013 budget by&lt;br/&gt;•	introducing new administrative monetary penalties and criminal offences to deter the use, possession, sale and development of electronic suppression of sales software that is designed to falsify records for the purpose of tax evasion; and&lt;br/&gt;•	clarifying that the GST/HST provision, exempting supplies by a public sector body (PSB) of a property or a service if all or substantially all of the supplies of the property or service by the PSB are made for free, does not apply to supplies of paid parking.&lt;br/&gt;&lt;br/&gt;Part 3 enacts and amends several Acts in order to implement various measures.&lt;br/&gt;Division 1 of Part 3 amends the Employment Insurance Act to extend and expand a temporary measure to refund a portion of employer premiums for small businesses. It also amends that Act to modify the Employment Insurance premium rate-setting mechanism, including setting the 2015 and 2016 rates and requiring that the rate be set on a seven-year break-even basis by the Canada Employment Insurance Commission beginning with the 2017 rate. The Division repeals the Canada Employment Insurance Financing Board Act and related provisions of other Acts. Lastly, it makes technical amendments to the Employment Insurance (Fishing) Regulations.&lt;br/&gt;&lt;br/&gt;Division 2 of Part 3 amends the Trust and Loan Companies Act, the Bank Act and the Insurance Companies Act to remove the prohibition against federal and provincial Crown agents and federal and provincial government employees being directors of a federally regulated financial institution. It also amends the Office of the Superintendent of Financial Institutions Act and the Financial Consumer Agency of Canada Act to remove the obligation of certain persons to give the Minister of Finance notice of their intent to borrow money from a federally regulated financial institution or from a corporation that has deposit insurance under the Canada Deposit Insurance Corporation Act.&lt;br/&gt;&lt;br/&gt;Division 3 of Part 3 amends the Trust and Loan Companies Act, the Bank Act, the Insurance Companies Act and the Cooperative Credit Associations Act to clarify the rules for certain indirect acquisitions of foreign financial institutions.&lt;br/&gt;&lt;br/&gt;Division 4 of Part 3 amends the Criminal Code to update the definition "passport" in subsection 57(5) and also amends the Department of Foreign Affairs, Trade and Development Act to update the reference to the Minister in paragraph 11(1)(a).&lt;br/&gt;&lt;br/&gt;Division 5 of Part 3 amends the Canada Labour Code to amend the definition of "danger" in subsection 122(1), to modify the refusal to work process, to remove all references to health and safety officers and to confer on the Minister of Labour their powers, duties and functions. It also makes consequential amendments to the National Energy Board Act, the Hazardous Materials Information Review Act and the Non-smokers' Health Act.&lt;br/&gt;&lt;br/&gt;Division 6 of Part 3 amends the Department of Human Resources and Skills Development Act to change the name of the Department to the Department of Employment and Social Development and to reflect that name change in the title of that Act and of its responsible Minister. In addition, the Division amends Part 6 of that Act to extend that Minister's powers with respect to certain Acts, programs and activities and to allow the Minister of Labour to administer or enforce electronically the Canada Labour Code. The Division also adds the title of a Minister to the Salaries Act. Finally, it makes consequential amendments to several other Acts to reflect the name change.&lt;br/&gt;&lt;br/&gt;Division 7 of Part 3 authorizes Her Majesty in right of Canada to hold, dispose of or otherwise deal with the Dominion Coal Blocks in any manner.&lt;br/&gt;&lt;br/&gt;Division 8 of Part 3 authorizes the amalgamation of four Crown corporations that own or operate international bridges and gives the resulting amalgamated corporation certain powers. It also makes consequential amendments and repeals certain Acts.&lt;br/&gt;&lt;br/&gt;Division 9 of Part 3 amends the Financial Administration Act to provide that agent corporations designated by the Minister of Finance may, subject to any terms and conditions of the designation, pledge any securities or cash that they hold, or give deposits, as security for the payment or performance of obligations arising out of derivatives that they enter into or guarantee for the management of financial risks.&lt;br/&gt;&lt;br/&gt;Division 10 of Part 3 amends the National Research Council Act to reduce the number of members of the National Research Council of Canada and to create the position of Chairperson of the Council.&lt;br/&gt;&lt;br/&gt;Division 11 of Part 3 amends the Veterans Review and Appeal Board Act to reduce the permanent number of members of the Veterans Review and Appeal Board.&lt;br/&gt;&lt;br/&gt;Division 12 of Part 3 amends the Canada Pension Plan Investment Board Act to allow for the appointment of up to three directors who are not residents of Canada.&lt;br/&gt;&lt;br/&gt;Division 13 of Part 3 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to extend to the whole Act the protection for communications that are subject to solicitor-client privilege and to provide that information disclosed by the Financial Transactions and Reports Analysis Centre of Canada under subsection 65(1) of that Act may be used by a law enforcement agency referred to in that subsection only as evidence of a contravention of Part 1 of that Act.&lt;br/&gt;&lt;br/&gt;Division 14 of Part 3 enacts the Mackenzie Gas Project Impacts Fund Act, which establishes the Mackenzie Gas Project Impacts Fund. The Division also repeals the Mackenzie Gas Project Impacts Act.&lt;br/&gt;&lt;br/&gt;Division 15 of Part 3 amends the Conflict of Interest Act to allow the Governor in Council to designate a person or class of persons as public office holders and to designate a person who is a public office holder or a class of persons who are public office holders as reporting public office holders, for the purposes of that Act.&lt;br/&gt;&lt;br/&gt;Division 16 of Part 3 amends the Immigration and Refugee Protection Act to establish a new regime that provides that a foreign national who wishes to apply for permanent residence as a member of a certain economic class may do so only if they have submitted an expression of interest to the Minister and have subsequently been issued an invitation to apply.&lt;br/&gt;&lt;br/&gt;Division 17 of Part 3 modernizes the collective bargaining and recourse systems provided by the Public Service Labour Relations Act regime. It amends the dispute resolution process for collective bargaining by removing the choice of dispute resolution method and substituting conciliation, which involves the possibility of the use of a strike as the method by which the parties may resolve impasses. In those cases where 80% or more of the positions in a bargaining unit are considered necessary for providing an essential service, the dispute resolution mechanism is to be arbitration. The collective bargaining process is further streamlined through amendments to the provision dealing with essential services. The employer has the exclusive right to determine that a service is essential and the numbers of positions that will be required to provide that service. Bargaining agents are to be consulted as part of the essential services process. The collective bargaining process is also amended by extending the timeframe within which a notice to bargain collectively may be given before the expiry of a collective agreement or arbitral award.&lt;br/&gt;&lt;br/&gt;In addition, the Division amends the factors that arbitration boards and public interest commissions must take into account when making awards or reports, respectively. It also amends the processes for the making of those awards and reports and removes the compensation analysis and research function from the mandate of the Public Service Labour Relations Board.&lt;br/&gt;&lt;br/&gt;The Division streamlines the recourse process set out for grievances and complaints in Part 2 of the Public Service Labour Relations Act and for staffing complaints under the Public Service Employment Act.&lt;br/&gt;&lt;br/&gt;The Division also establishes a single forum for employees to challenge decisions relating to discrimination in the public service. Grievances and complaints are to be heard by the Public Service Labour Relations Board under the grievance process set out in the Public Service Labour Relations Act. The process for the review of those grievances or complaints is to be the same as the one that currently exists under the Canadian Human Rights Act. However, grievances and complaints related specifically to staffing complaints are to be heard by the Public Service Staffing Tribunal. Grievances relating to discrimination are required to be submitted within one year or any longer period that the Public Service Labour Relations Board considers appropriate, to reflect what currently exists under the Canadian Human Rights Act.&lt;br/&gt;&lt;br/&gt;Furthermore, the Division amends the grievance recourse process in several ways. With the sole exception of grievances relating to issues of discrimination, employees included in a bargaining unit may only present or refer an individual grievance to adjudication if they have the approval of and are represented by their bargaining agent. Also, the process as it relates to policy grievances is streamlined, including by defining more clearly an adjudicator's remedial power when dealing with a policy grievance.&lt;br/&gt;&lt;br/&gt;In addition, the Division provides for a clearer apportionment of the expenses of adjudication relating to the interpretation of a collective agreement. They are to be borne in equal parts by the employer and the bargaining agent. If a grievance relates to a deputy head's direct authority, such as with respect to discipline, termination of employment or demotion, the expenses are to be borne in equal parts by the deputy head and the bargaining agent. The expenses of adjudication for employees who are not represented by a bargaining agent are to be borne by the Public Service Labour Relations Board.&lt;br/&gt;&lt;br/&gt;Finally, the Division amends the recourse process for staffing complaints under the Public Service Employment Act by ensuring that the right to complain is triggered only in situations when more than one employee participates in an exercise to select employees that are to be laid off. And, candidates who are found not to meet the qualifications set by a deputy head may only complain with respect to their own assessment.&lt;br/&gt;&lt;br/&gt;Division 18 of Part 3 establishes the Public Service Labour Relations and Employment Board to replace the Public Service Labour Relations Board and the Public Service Staffing Tribunal. The new Board will deal with matters that were previously dealt with by those former Boards under the Public Service Labour Relations Act and the Public Service Employment Act, respectively, which will permit proceedings under those Acts to be consolidated.&lt;br/&gt;&lt;br/&gt;Division 19 of Part 3 adds declaratory provisions to the Supreme Court Act, respecting the criteria for appointing judges to the Supreme Court of Canada.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2013</StatuteYear>
+    <StatuteChapter>40</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-10-22T10:04:12</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>5</Number>
+          <Date>2013-10-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2013-10-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2013-10-22T10:04:12</EventStartDateTime>
+          <EventEndDateTime>2013-10-22T10:04:12</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-10-22T10:04:12</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-10-29T17:25:48</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>8113764</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>6</Number>
+          <Date>2013-10-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>7</Number>
+          <Date>2013-10-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>8</Number>
+          <Date>2013-10-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>9</Number>
+          <Date>2013-10-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>10</Number>
+          <Date>2013-10-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8110339</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6261860</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>7</DivisionNumber>
+          <DivisionVotesYeas>151</DivisionVotesYeas>
+          <DivisionVotesNays>124</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2013-10-29T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>10</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2013-10-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2013-10-29T17:25:48</EventStartDateTime>
+          <EventEndDateTime>2013-10-29T17:25:48</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-10-29T17:25:48</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8105750</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59287</PersonId>
+          <PersonOfficialFirstName>Andrew</PersonOfficialFirstName>
+          <PersonOfficialLastName>Saxton</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Andrew Saxton</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>6</MeetingNumber>
+          <SpeechDateTime>2013-10-23T16:02:18</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8105787</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>3242</PersonId>
+          <PersonOfficialFirstName>Peggy</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nash</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peggy Nash</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>6</MeetingNumber>
+          <SpeechDateTime>2013-10-23T16:29:53</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8105825</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>74</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brison</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Brison</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>6</MeetingNumber>
+          <SpeechDateTime>2013-10-23T17:02:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-11-28T10:47:39</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>8113764</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without an amendment</Name>
+          <Number>26</Number>
+          <Date>2013-11-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2013-11-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2013-11-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2013-11-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2013-11-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without an amendment</EventName>
+          <EventDateTime>2013-11-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6327146</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2013-11-28T10:47:39</EventStartDateTime>
+          <EventEndDateTime>2013-11-28T10:47:39</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-11-28T10:47:39</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-03T18:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>28</Number>
+          <Date>2013-12-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>29</Number>
+          <Date>2013-12-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2013-12-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2013-12-03T18:40:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-03T18:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-03T18:40:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-09T19:05:04</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>32</Number>
+          <Date>2013-12-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>33</Number>
+          <Date>2013-12-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8188181</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6261862</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>41</DivisionNumber>
+          <DivisionVotesYeas>145</DivisionVotesYeas>
+          <DivisionVotesNays>122</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2013-12-09T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>33</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2013-12-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2013-12-09T19:05:04</EventStartDateTime>
+          <EventEndDateTime>2013-12-09T19:05:04</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-09T19:05:04</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>12</Number>
+          <Date>2013-11-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2013-11-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2013-11-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2013-11-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>5</Number>
+          <Date>2013-11-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2013-11-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2013-11-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2013-11-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2013-11-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2013-11-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2013-12-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2013-11-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Subject-matter of bill referred to the Standing Senate Committee on National Finance AND certain other Senate Committees --- (See explanatory note below)</AdditionalInformationEn>
+          <AdditionalInformationFr>La teneur du projet de loi a été renvoyée au Comité sénatorial permanent des finances nationales ET certains autres comités du Sénat --- (Voir la note explicative ci-dessous)</AdditionalInformationFr>
+          <AdditionalInformation>Subject-matter of bill referred to the Standing Senate Committee on National Finance AND certain other Senate Committees --- (See explanatory note below)</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-03T14:17:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-09T20:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>24</Number>
+          <Date>2013-12-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2013-12-09T20:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2013-12-09T20:30:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-09T20:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-09T20:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-12-10T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report on subject matter of bill tabled</NameEn>
+          <NameFr>Dépôt du rapport de comité sur l'objet du projet de loi</NameFr>
+          <Name>Committee report on subject matter of bill tabled</Name>
+          <Number>25</Number>
+          <Date>2013-12-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60305</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report on subject matter of bill tabled</EventNameEn>
+          <EventNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventNameFr>
+          <EventName>Committee report on subject matter of bill tabled</EventName>
+          <EventDateTime>2013-12-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60305</EventTypeId>
+          <EventTypeNameEn>Committee report on subject matter of bill tabled</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventTypeNameFr>
+          <EventTypeName>Committee report on subject matter of bill tabled</EventTypeName>
+          <EventStartDateTime>2013-12-10T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-10T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-10T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-10T00:02:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>25</Number>
+          <Date>2013-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2013-12-10T00:02:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2013-12-10T00:04:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2013-12-10T00:02:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-10T00:02:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-10T00:04:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>3674</PersonId>
+          <PersonOfficialFirstName>JoAnne L.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Buth</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>JoAnne L. Buth</PersonName>
+          <SenateSystemAffiliationId>3552</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>25</MeetingNumber>
+          <SpeechDateTime>2013-12-10T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/025db_2013-12-10-e#41</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/025db_2013-12-10-f#42</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/025db_2013-12-10-e#41</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>12690</PersonId>
+          <PersonOfficialFirstName>Joseph A.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Day</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Joseph A. Day</PersonName>
+          <SenateSystemAffiliationId>170</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>25</MeetingNumber>
+          <SpeechDateTime>2013-12-10T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/025db_2013-12-10-e#41</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/025db_2013-12-10-f#42</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/025db_2013-12-10-e#41</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-12-11T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>26</Number>
+          <Date>2013-12-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2013-12-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2013-12-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2013-12-11T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-11T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-11T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-11T00:07:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>26</Number>
+          <Date>2013-12-11T00:00:00</Date>
+          <AdditionalInformationEn>Debate on committee report on subject-matter of the bill</AdditionalInformationEn>
+          <AdditionalInformationFr>Débat sur le rapport de comité sur la teneur du projet de loi</AdditionalInformationFr>
+          <AdditionalInformation>Debate on committee report on subject-matter of the bill</AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2013-12-11T00:07:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2013-12-11T00:07:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-11T00:07:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-11T00:07:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-12T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>27</Number>
+          <Date>2013-12-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2013-12-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2013-12-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-12T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>27</Number>
+          <Date>2013-12-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2013-12-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2013-12-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-12T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6263082</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6379258</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6388214</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>5</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubject>
+      <DivisionVotesYeas>144</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>260</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-10-24T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>6</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>151</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>275</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-10-29T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>7</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubject>
+      <DivisionVotesYeas>151</DivisionVotesYeas>
+      <DivisionVotesNays>124</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>275</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-10-29T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>18</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubject>
+      <DivisionVotesYeas>134</DivisionVotesYeas>
+      <DivisionVotesNays>113</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>247</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>19</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>141</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>20</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>35</DivisionVotesYeas>
+      <DivisionVotesNays>229</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>21</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>92</DivisionVotesYeas>
+      <DivisionVotesNays>172</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>22</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>94</DivisionVotesYeas>
+      <DivisionVotesNays>171</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>265</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>23</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>266</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>24</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>25</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>93</DivisionVotesYeas>
+      <DivisionVotesNays>171</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>26</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>6</DivisionVotesYeas>
+      <DivisionVotesNays>257</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>263</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>27</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>28</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>29</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>92</DivisionVotesYeas>
+      <DivisionVotesNays>172</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>30</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>120</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>263</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>31</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>264</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>32</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>144</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>265</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>33</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>122</DivisionVotesYeas>
+      <DivisionVotesNays>143</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>265</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>34</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubject>
+      <DivisionVotesYeas>144</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>265</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-12-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>41</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-4, A second act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures</DivisionSubject>
+      <DivisionVotesYeas>145</DivisionVotesYeas>
+      <DivisionVotesNays>122</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>267</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2013-12-09T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Focused on Job Creation and Economic Growth with Economic Action Plan 2013 Act, No. 2</TitleEn>
+      <TitleFr>Le gouvernement Harper met l'accent sur la création d'emplois et la croissance économique dans la Loi no 2 sur le plan d'action économique de 2013</TitleFr>
+      <Title>Harper Government Focused on Job Creation and Economic Growth with Economic Action Plan 2013 Act, No. 2</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.fin.gc.ca/n13/13-137-eng.asp</UrlEn>
+      <UrlFr>http://www.fin.gc.ca/n13/13-137-fra.asp</UrlFr>
+      <Url>http://www.fin.gc.ca/n13/13-137-eng.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's Economic Action Plan</TitleEn>
+      <TitleFr>Plan d'action économique du Canada</TitleFr>
+      <Title>Canada's Economic Action Plan</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://plandaction.gc.ca/en</UrlEn>
+      <UrlFr>http://plandaction.gc.ca/fr</UrlFr>
+      <Url>http://plandaction.gc.ca/en</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada takes steps to clarify certain eligibility criteria for Supreme court justices</TitleEn>
+      <TitleFr>Le gouvernement du Canada prend des mesures pour clarifier les critères d'admissibilité relatifs à la nomination des juges à la Cour suprême</TitleFr>
+      <Title>Government of Canada takes steps to clarify certain eligibility criteria for Supreme court justices</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=advSrch&amp;crtr.mnthndVl=11&amp;crtr.mnthStrtVl=1&amp;crtr.page=1&amp;nid=782979&amp;crtr.yrndVl=2014&amp;crtr.kw=+Supreme+court+justices&amp;crtr.yrStrtVl=2002&amp;crtr.dyStrtVl=1&amp;crtr.dyndVl=21&amp;_ga=1.255251211.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=advSrch&amp;crtr.mnthndVl=11&amp;crtr.mnthStrtVl=1&amp;crtr.page=1&amp;nid=782979&amp;crtr.yrndVl=2014&amp;crtr.kw=+Supreme+court+justices&amp;crtr.yrStrtVl=2002&amp;crtr.dyStrtVl=1&amp;crtr.dyndVl=21&amp;_ga=1.267770765.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=advSrch&amp;crtr.mnthndVl=11&amp;crtr.mnthStrtVl=1&amp;crtr.page=1&amp;nid=782979&amp;crtr.yrndVl=2014&amp;crtr.kw=+Supreme+court+justices&amp;crtr.yrStrtVl=2002&amp;crtr.dyStrtVl=1&amp;crtr.dyndVl=21&amp;_ga=1.255251211.2078202319.1410971187</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2698</BibliographicNoticeId>
+      <Title>The other shoe to drop : Marc Nadon and judicial appointment politics in post-Charter Canada</Title>
+      <Author>Bateman, Thomas M.J.</Author>
+      <Publication>Journal of parliamentary and political law</Publication>
+      <VolumePage>9:169-87</VolumePage>
+      <PublicationDate>March 2015</PublicationDate>
+      <Classification>KE4212 C2 A35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2297</BibliographicNoticeId>
+      <Title>PM moves to fast track Nadon issue</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>33:1, 11</VolumePage>
+      <PublicationDate>Nov. 1, 2013</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2298</BibliographicNoticeId>
+      <Title>As risk of tie hovers over SCC : experts worry about the fallout</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>33:2, 27</VolumePage>
+      <PublicationDate>Nov. 1, 2013</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2365</BibliographicNoticeId>
+      <Title>Fairness at work : federal labour standards for the 21st century : technical annex</Title>
+      <Author>Commission on the Review of Federal Labour Standards</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>178 p.</VolumePage>
+      <PublicationDate>2008</PublicationDate>
+      <Classification>KE3244 C2 A352</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2366</BibliographicNoticeId>
+      <Title>Équité au travail : des normes du travail fédérales pour le XXIe siècle : annexe technique</Title>
+      <Author>Commission sur l'examen des normes du travail fédérales</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>178 p.</VolumePage>
+      <PublicationDate>2008</PublicationDate>
+      <Classification>KE3244 C2 A452</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2367</BibliographicNoticeId>
+      <Title>Five deaths a day : workplace fatalities in Canada, 1993-2005</Title>
+      <Author>Sharpe, Andrew and Jill Hardt</Author>
+      <Publication>Ottawa : Center for the study of living standards</Publication>
+      <VolumePage>136 p.</VolumePage>
+      <PublicationDate>December 2006</PublicationDate>
+      <Classification>HD7262.5 C2 S43</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2368</BibliographicNoticeId>
+      <Title>Success is no accident : declining workplace safety among federal jurisdiction employers</Title>
+      <Author>Macdonald, David</Author>
+      <Publication>Canadian Centre for Policy Alternatives</Publication>
+      <VolumePage>1 PDF file (28 p.)</VolumePage>
+      <PublicationDate>2010</PublicationDate>
+      <Classification>Intranet</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+      <CommitteeAcronym>NFFN</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
