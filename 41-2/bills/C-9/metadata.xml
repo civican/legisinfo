@@ -1,0 +1,1273 @@
+<Bills>
+  <Bill>
+    <Id>6266869</Id>
+    <NumberCode>C-9</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>9</Number>
+    <LongTitleEn>An Act respecting the election and term of office of chiefs and councillors of certain First Nations and the composition of council of those First Nations</LongTitleEn>
+    <LongTitleFr>Loi concernant l'élection et le mandat des chefs et des conseillers de certaines premières nations et la composition de leurs conseils respectifs</LongTitleFr>
+    <LongTitle>An Act respecting the election and term of office of chiefs and councillors of certain First Nations and the composition of council of those First Nations</LongTitle>
+    <ShortTitleEn>First Nations Elections Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur les élections au sein de premières nations</ShortTitleFr>
+    <ShortTitle>First Nations Elections Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2014-04-11T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>40463</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bernard</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Valcourt</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bernard Valcourt</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Aboriginal Affairs and Northern Development</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Affaires autochtones et du développement du Nord canadien</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Aboriginal Affairs and Northern Development</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>327</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Madawaska—Restigouche</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Madawaska—Restigouche</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Madawaska—Restigouche</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2014-04-10T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>52</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>Note concerning the date of Royal Assent: When the date of a written declaration differs from that of Royal Assent, the date shown in LEGISInfo corresponds to the date on which the two Houses of Parliament have been notified of the written declaration.               Section 5 of the Royal Assent Act,  S.C. 2002, c. 15, states: "Where royal assent is signified by written declaration, the Act is deemed to be assented to on the day on which the two Houses of Parliament have been notified of the declaration."</LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>Note concernant la date de la sanction royale : En cas d'écart entre la date de la déclaration écrite et celle de la sanction royale, la date indiquée dans LEGISInfo correspond à la date à laquelle les deux chambres du Parlement ont été avisées de la déclaration écrite.               L'article 5 de la Loi sur la sanction royale,  L.C. 2002, ch. 15, se lit comme suit : « La déclaration écrite porte sanction royale le jour où les deux chambres du Parlement en ont été avisées. »</LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>Note concerning the date of Royal Assent: When the date of a written declaration differs from that of Royal Assent, the date shown in LEGISInfo corresponds to the date on which the two Houses of Parliament have been notified of the written declaration.               Section 5 of the Royal Assent Act,  S.C. 2002, c. 15, states: "Where royal assent is signified by written declaration, the Act is deemed to be assented to on the day on which the two Houses of Parliament have been notified of the declaration."</LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2013-10-29T10:06:47</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2013-10-29T10:15:13</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2013-12-10T16:21:22</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2013-12-10T17:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2014-02-27T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2014-04-08T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2014-04-11T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On October 29, 2013, pursuant to Order made by the House of Commons on October 21, 2013, the Bill was deemed approved at all stages completed in the previous session (previously Bill S-6 in the 1st Session of the 41st Parliament).&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 29 octobre 2013, conformément à l'ordre adopté par la Chambre des communes le 21 octobre 2013, le projet de loi est réputé approuvé à toutes les étapes franchies lors de la session précédente (ancien projet de loi S-6 de la 1re session de la 41e législature).&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On October 29, 2013, pursuant to Order made by the House of Commons on October 21, 2013, the Bill was deemed approved at all stages completed in the previous session (previously Bill S-6 in the 1st Session of the 41st Parliament).&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 29 October 2013, the Minister of Aboriginal Affairs and Northern Development introduced Bill C-9, An Act respecting the election and term of office of chiefs and councillors of certain First Nations and the composition of council of those First Nations (First Nations Elections Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;In October 2010, the Minister of Aboriginal Affairs and Northern Development and the leaders of these organizations launched a national engagement exercise on electoral reform. These organizations met with other First Nation leaders across the country between October 2010 and March 2011 to present their recommendations and seek advice on improving the election process for First Nations.&lt;br/&gt;&lt;br/&gt;Bill C-9 establishes a regime, alternative to the one under the Indian Act, to govern the election of chiefs and councillors of certain First Nations. Among other things it&lt;br/&gt;&lt;br/&gt;•	provides that chiefs and councillors hold office for four years;&lt;br/&gt;•	provides that the election of a chief or councillor may be contested before a competent court; and&lt;br/&gt;•	sets out offences and penalties in relation to the election of a chief or councillor.&lt;br/&gt;&lt;br/&gt;This enactment also allows First Nations to withdraw from the regime by adopting a written code that sets out the rules regarding the election of the members of their council.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, il met à votre disposition le sommaire suivant. &lt;br/&gt; &lt;br/&gt;Le 29 octobre 2013, le ministre des Affaires autochtones et du développement du Nord canadien a déposé le projet de loi C-9, Loi concernant l'élection et le mandat des chefs et des conseillers de certaines premières nations et la composition de leurs conseils respectifs (Loi sur les élections au sein de premières nations) à la Chambres des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;En octobre 2010, le ministre des Affaires autochtones et du développement du Nord canadien ainsi que les chefs des deux organisations ont lancé un processus de discussion national concernant une réforme électorale. Ces organisations ont rencontré d'autres dirigeants des Premières Nations de partout au pays entre octobre 2010 et mars 2011 afin de formuler des recommandations et d'obtenir des conseils en vue de l'amélioration du processus électoral des Premières Nations. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-9 établit un régime de rechange à celui prévu par la Loi sur les Indiens pour régir l'élection des chefs et des conseillers au sein de certaines premières nations. Il  prévoit notamment :&lt;br/&gt;&lt;br/&gt;•	la durée du mandat des chefs et des conseillers, à savoir quatre ans;&lt;br/&gt;•	la possibilité de contester l'élection d'un chef ou d'un conseiller devant un tribunal compétent;&lt;br/&gt;•	des infractions et des peines relativement à une telle élection.&lt;br/&gt;&lt;br/&gt;Le texte prévoit également la possibilité pour les premières nations de se retirer de ce régime en adoptant un code écrit prévoyant des règles sur l'élection des membres de leur conseil.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 29 October 2013, the Minister of Aboriginal Affairs and Northern Development introduced Bill C-9, An Act respecting the election and term of office of chiefs and councillors of certain First Nations and the composition of council of those First Nations (First Nations Elections Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;In October 2010, the Minister of Aboriginal Affairs and Northern Development and the leaders of these organizations launched a national engagement exercise on electoral reform. These organizations met with other First Nation leaders across the country between October 2010 and March 2011 to present their recommendations and seek advice on improving the election process for First Nations.&lt;br/&gt;&lt;br/&gt;Bill C-9 establishes a regime, alternative to the one under the Indian Act, to govern the election of chiefs and councillors of certain First Nations. Among other things it&lt;br/&gt;&lt;br/&gt;•	provides that chiefs and councillors hold office for four years;&lt;br/&gt;•	provides that the election of a chief or councillor may be contested before a competent court; and&lt;br/&gt;•	sets out offences and penalties in relation to the election of a chief or councillor.&lt;br/&gt;&lt;br/&gt;This enactment also allows First Nations to withdraw from the regime by adopting a written code that sets out the rules regarding the election of the members of their council.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2014</StatuteYear>
+    <StatuteChapter>5</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-10-29T10:06:47</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>10</Number>
+          <Date>2013-10-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2013-10-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2013-10-29T10:06:47</EventStartDateTime>
+          <EventEndDateTime>2013-10-29T10:06:47</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-10-29T10:06:47</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-10-29T10:15:13</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20168</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+          <StudyActivityId>8113253</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>10</Number>
+          <Date>2013-10-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8111932</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6271291</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - AANO</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - AANO</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - AANO</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2013-10-29T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>10</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2013-10-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2013-10-29T10:15:13</EventStartDateTime>
+          <EventEndDateTime>2013-10-29T10:15:13</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-10-29T10:15:13</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2013-11-25T16:40:32</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20168</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+          <StudyActivityId>8113253</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>23</Number>
+          <Date>2013-11-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20168</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2013-11-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20168</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2013-11-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20168</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du développement du Grand Nord</CommitteeNameFr>
+          <CommitteeAcronym>AANO</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2013-11-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Aboriginal Affairs and Northern Development</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2013-11-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6305524</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2013-11-25T16:40:32</EventStartDateTime>
+          <EventEndDateTime>2013-11-25T16:40:32</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-11-25T16:40:32</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-10T11:05:13</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>34</Number>
+          <Date>2013-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2013-12-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2013-12-10T11:05:13</EventStartDateTime>
+          <EventEndDateTime>2013-12-10T11:05:13</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-10T11:05:13</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-10T16:21:22</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>34</Number>
+          <Date>2013-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8193933</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6271293</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2013-12-10T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>34</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2013-12-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2013-12-10T16:21:22</EventStartDateTime>
+          <EventEndDateTime>2013-12-10T16:21:22</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-10T16:21:22</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2013-12-10T17:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>25</Number>
+          <Date>2013-12-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2013-12-10T17:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2013-12-10T17:00:00</EventStartDateTime>
+          <EventEndDateTime>2013-12-10T17:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2013-12-10T17:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-02-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16093</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Indigenous Peoples</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des peuples autochtones</CommitteeNameFr>
+          <CommitteeAcronym>APPA</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Indigenous Peoples</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>29</Number>
+          <Date>2014-01-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>39</Number>
+          <Date>2014-02-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2014-02-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2014-02-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2014-02-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-02-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-02-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>15222</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Tannas</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Tannas</PersonName>
+          <SenateSystemAffiliationId>3577</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>29</MeetingNumber>
+          <SpeechDateTime>2014-01-29T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/029db_2014-01-29-e#23</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/029db_2014-01-29-f#24</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/029db_2014-01-29-e#23</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35192</PersonId>
+          <PersonOfficialFirstName>Lillian Eva</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dyck</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lillian Eva Dyck</PersonName>
+          <SenateSystemAffiliationId>2776</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2014-02-27T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/039db_2014-02-27-e#35</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/039db_2014-02-27-f#36</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/039db_2014-02-27-e#35</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-04-01T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16093</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Indigenous Peoples</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des peuples autochtones</CommitteeNameFr>
+          <CommitteeAcronym>APPA</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Indigenous Peoples</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>46</Number>
+          <Date>2014-04-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16093</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Indigenous Peoples</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des peuples autochtones</CommitteeNameFr>
+          <CommitteeAcronym>APPA</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2014-03-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Indigenous Peoples</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16093</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Indigenous Peoples</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des peuples autochtones</CommitteeNameFr>
+          <CommitteeAcronym>APPA</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2014-03-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Indigenous Peoples</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16093</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Indigenous Peoples</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des peuples autochtones</CommitteeNameFr>
+          <CommitteeAcronym>APPA</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2014-04-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Indigenous Peoples</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2014-04-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-04-01T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-04-01T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-04-01T09:38:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-04-08T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>48</Number>
+          <Date>2014-04-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>50</Number>
+          <Date>2014-04-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-04-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-04-08T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-04-08T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-04-08T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>52</Number>
+          <Date>2014-04-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2014-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Note concerning the date of Royal Assent: When the date of a written declaration differs from that of Royal Assent, the date shown in LEGISInfo corresponds to the date on which the two Houses of Parliament have been notified of the written declaration.               Section 5 of the Royal Assent Act,  S.C. 2002, c. 15, states: "Where royal assent is signified by written declaration, the Act is deemed to be assented to on the day on which the two Houses of Parliament have been notified of the declaration."</AdditionalInformationEn>
+          <AdditionalInformationFr>Note concernant la date de la sanction royale : En cas d'écart entre la date de la déclaration écrite et celle de la sanction royale, la date indiquée dans LEGISInfo correspond à la date à laquelle les deux chambres du Parlement ont été avisées de la déclaration écrite.               L'article 5 de la Loi sur la sanction royale,  L.C. 2002, ch. 15, se lit comme suit : « La déclaration écrite porte sanction royale le jour où les deux chambres du Parlement en ont été avisées. »</AdditionalInformationFr>
+          <AdditionalInformation>Note concerning the date of Royal Assent: When the date of a written declaration differs from that of Royal Assent, the date shown in LEGISInfo corresponds to the date on which the two Houses of Parliament have been notified of the written declaration.               Section 5 of the Royal Assent Act,  S.C. 2002, c. 15, states: "Where royal assent is signified by written declaration, the Act is deemed to be assented to on the day on which the two Houses of Parliament have been notified of the declaration."</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2014-04-11T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-04-11T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-04-11T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6271769</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6383493</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6540209</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <MeetingNumber>34</MeetingNumber>
+      <HansardNumber>8191324</HansardNumber>
+      <RulingStatementDateTime>2013-12-10T10:31:15</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government re-introduces First Nations Elections Act in the House of Commons</TitleEn>
+      <TitleFr>Le gouvernement Harper présente à nouveau la Loi sur les élections au sein de premières nations à la Chambre des communes</TitleFr>
+      <Title>Harper Government re-introduces First Nations Elections Act in the House of Commons</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.aadnc-aandc.gc.ca/eng/1383061296885/1383061356548</UrlEn>
+      <UrlFr>http://www.aadnc-aandc.gc.ca/fra/1383061296885/1383061356548</UrlFr>
+      <Url>http://www.aadnc-aandc.gc.ca/eng/1383061296885/1383061356548</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Frequently Asked Questions – First Nations Elections Act</TitleEn>
+      <TitleFr>Foire aux questions – Projet de loi sur les élections au sein de premières nations</TitleFr>
+      <Title>Frequently Asked Questions – First Nations Elections Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Fact Sheet – Understanding First Nation Elections</TitleEn>
+      <TitleFr>Fiche d'information - Comprendre les élections des Premières Nations</TitleFr>
+      <Title>Fact Sheet – Understanding First Nation Elections</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+      <Url>
+      </Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2342</BibliographicNoticeId>
+      <Title>National Engagement on Electoral Reform : building a better election system for First Nations communities</Title>
+      <Author>Atlantic Policy Congress of First Nation Chiefs</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2011</PublicationDate>
+      <Classification>Legisinfo C-9, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2307</BibliographicNoticeId>
+      <Title>First Nations elections : the choice is inherently theirs : report of the Standing Senate Committee on Aboriginal Peoples</Title>
+      <Author>Canada. Parliament. Senate. Standing Committee on Aboriginal Peoples.</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>iv, 59, 66, iv p. ;</VolumePage>
+      <PublicationDate>2010</PublicationDate>
+      <Classification>J103 H7 40-3 A183 A12</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2309</BibliographicNoticeId>
+      <Title>Élections chez les Premières nations : une question de choix fondamental : rapport du Comité sénatorial permanent des peuples autochtones</Title>
+      <Author>Canada Parlement Sénat Comité sénatorial permanent des peuples autochtones</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>iv, 66, 59, iv p. ;</VolumePage>
+      <PublicationDate>2010</PublicationDate>
+      <Classification>J103 H7 40-3 A183 A12</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2299</BibliographicNoticeId>
+      <Title>Political stability and the well-being of First Nations in Saskatchewan: implications for the proposed "First Nations Elections Act"</Title>
+      <Author>Nathcher, David C</Author>
+      <Publication>Journal of Aboriginal economic development</Publication>
+      <VolumePage>8:97-110</VolumePage>
+      <PublicationDate>Fall 2013</PublicationDate>
+      <Classification>: E98 E2 J68</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2319</BibliographicNoticeId>
+      <Title>Improving the system for First Nations elections : discussion paper</Title>
+      <Author>
+      </Author>
+      <Publication>[Dartmouth, N.S.?] : [Atlantic Policy Congress of First Nations Chiefs]</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2010</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills>
+      <Id>5307346</Id>
+      <NumberCode>S-6</NumberCode>
+      <NumberPrefix>S</NumberPrefix>
+      <Number>6</Number>
+      <LongTitleEn>An Act respecting the election and term of office of chiefs and councillors of certain First Nations and the composition of council of those First Nations</LongTitleEn>
+      <LongTitleFr>Loi concernant l'élection et le mandat des chefs et des conseillers de certaines premières nations et la composition de leurs conseils respectifs</LongTitleFr>
+      <LongTitle>An Act respecting the election and term of office of chiefs and councillors of certain First Nations and the composition of council of those First Nations</LongTitle>
+      <ShortTitleEn>First Nations Elections Act</ShortTitleEn>
+      <ShortTitleFr>Loi sur les élections au sein de premières nations</ShortTitleFr>
+      <ShortTitle>First Nations Elections Act</ShortTitle>
+      <StatusId>352</StatusId>
+      <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+      <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+      <StatusName>At consideration in committee in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60030</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>Second reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Deuxième lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>Second reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2013-06-17T13:20:00</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>Senate Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Sénat)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>Senate Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>false</IsHouseBill>
+      <IsSenateBill>true</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2012-05-04T12:10:25</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime>2013-06-17T13:20:00</PassedHouseSecondReadingDateTime>
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime>2011-12-06T00:00:00</PassedSenateFirstReadingDateTime>
+      <PassedSenateSecondReadingDateTime>2012-02-02T00:00:00</PassedSenateSecondReadingDateTime>
+      <PassedSenateThirdReadingDateTime>2012-04-24T00:08:00</PassedSenateThirdReadingDateTime>
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
