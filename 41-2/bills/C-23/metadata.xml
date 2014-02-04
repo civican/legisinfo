@@ -1,0 +1,2134 @@
+<Bills>
+  <Bill>
+    <Id>6398775</Id>
+    <NumberCode>C-23</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>23</Number>
+    <LongTitleEn>An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</LongTitle>
+    <ShortTitleEn>Fair Elections Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur l'intégrité des élections</ShortTitleFr>
+    <ShortTitle>Fair Elections Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2014-06-19T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>25524</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Pierre</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Poilievre</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Pierre Poilievre</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of State (Democratic Reform)</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre d'État (Réforme démocratique)</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of State (Democratic Reform)</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>442</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Nepean—Carleton</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Nepean—Carleton</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Nepean—Carleton</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2014-06-19T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>75</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2014-02-04T08:52:56</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2014-02-10T18:15:04</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2014-05-13T17:25:58</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2014-05-14T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2014-05-29T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2014-06-12T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2014-06-19T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 4 February 2014, the Minister of State (Democratic Reform) introduced Bill C-23An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (Fair Elections Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-23 amends the Canada Elections Act ("the Act") to require the Chief Electoral Officer to issue interpretation notes and guidelines on the application of that Act to registered parties, registered associations, nomination contestants, candidates and leadership contestants. It also requires the Chief Electoral Officer, on request, to issue a written opinion on the application of provisions of the Act to an activity or practice that a registered party, registered association, nomination contestant, candidate or leadership contestant proposes to engage in.&lt;br/&gt;&lt;br/&gt;The enactment also modifies the Chief Electoral Officer's power under section 17 of the Act so that the power may only be exercised to allow electors to exercise their right to vote or to allow votes to be counted. It also limits the Chief Electoral Officer's power to provide information to the public and requires the Chief Electoral Officer to ensure that the information is accessible to electors with disabilities.&lt;br/&gt;&lt;br/&gt;The enactment further amends the Act to permit the Chief Electoral Officer to seek approval from parliamentary committees to test an alternative voting process (but where such a pilot project is to test a form of electronic voting, the Chief Electoral Officer must first obtain the approval of the Senate and House of Commons). The enactment also eliminates the mandatory retirement of the Chief Electoral Officer at age 65 and replaces it with a 10-year term. It provides for the establishment of an Advisory Committee of Political Parties to provide advice to the Chief Electoral Officer on matters relating to elections and political financing. The enactment also amends the Act to provide for the appointment of field liaison officers, based on merit, to provide support to returning officers and provide a link between returning officers and the Office of the Chief Electoral Officer. It also enables the Chief Electoral Officer to temporarily suspend a returning officer during an election period and provides for the appointment of additional election officers at polling stations. Finally, it empowers registered parties and registered associations, in addition to candidates, to provide names of individuals for election officer positions and changes the deadline for providing those names from the 17th day before polling day to the 24th day before polling day. &lt;br/&gt;&lt;br/&gt;The enactment also adds to the Act Part 16.1, which deals with voter contact calling services. Among other things, that Part requires that calling service providers and other interested parties file registration notices with the Canadian Radio-television and Telecommunications Commission, provide identifying information to the Commission and keep copies of scripts and recordings used to make calls. That Part also requires that the Canadian Radio-television and Telecommunications Commission establish and maintain a registry, to be known as the Voter Contact Registry, in which the documents it receives in relation to voter contact calling services are to be kept.&lt;br/&gt;&lt;br/&gt;The enactment also replaces Part 18 of the Act with a new, comprehensive set of rules on political financing that corrects a number of deficiencies in the Act. Notably, the enactment&lt;br/&gt;&lt;br/&gt;•	increases the annual contribution limits for contributions to registered parties, registered associations, candidates and nomination and leadership contestants to $1,500 per year and by $25 per year after the first year;&lt;br/&gt;•	increases the amount that candidates and leadership contestants may contribute to their own campaigns to $5,000 and $25,000, respectively;&lt;br/&gt;•	permits registered parties and registered associations to make transfers to candidates before their nomination is confirmed by the returning officer;&lt;br/&gt;•	requires a registered party's auditor to complete a compliance audit in relation to its election expenses return indicating that the party has complied with the political financing rules;&lt;br/&gt;•	requires registered parties, registered associations and candidates to disclose details of expenses for voter contact calling services in their returns;&lt;br/&gt;•	reforms the rules governing unpaid claims, making it an offence for claims to remain unpaid after three years and strengthening the reporting of unpaid claims;&lt;br/&gt;•	reforms the reporting requirements of leadership contestants;&lt;br/&gt;•	permits higher spending limits for registered parties and candidates if an election period is longer than the 36-day minimum;&lt;br/&gt;•	includes new rules on political loans;&lt;br/&gt;•	defines "capital asset" for the purposes of reporting the distribution cost of advertising or promotional material transmitted to the public using a capital asset, so that the expense is reported as the corresponding rental value for the period in which it was used, and for the purpose of the disposal of the campaign surplus; and&lt;br/&gt;•	exempts from what constitutes an election expense the commercial value of services provided to a registered party for the purpose of soliciting monetary contributions only from individuals who have made at least one contribution of $20 or more to the registered party or to one of its registered associations, nomination contestants or candidates in the last five years.&lt;br/&gt;&lt;br/&gt;With respect to voter identification, the enactment amends the Act to require the same voter identification for voting at the office of the returning officer in an elector's own riding as it requires for voting at ordinary polls. It also prohibits the use of the voter information card as proof of identity, eliminates the ability of an elector to prove their identity through vouching and requires an elector whose name was crossed off the electors' list in error to take a written oath before receiving a ballot.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Act to provide an extra day of advance polling on the eighth day before polling day, creating a block of four consecutive advance polling days between the tenth and seventh days before polling day. It requires a separate ballot box for each day of advance polling and details procedures for the opening and closing of ballot boxes during an advance poll. Finally, it gives returning officers the authority to recover ballot boxes on the Chief Electoral Officer's direction if the integrity of the vote is at risk.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Act to, among other things, establish a process to communicate polling station locations to electors, candidates and political parties, to provide that only an elector's year of birth is to be displayed on the lists of electors used at the polls, instead of the full date of birth, to permit candidates' representatives to move to any polling station in the electoral district after being sworn in at any polling station in the district and to establish a procedure for judicial recounts.&lt;br/&gt;&lt;br/&gt;The enactment further amends the Act to change how the Commissioner of Canada Elections is appointed. It establishes that the Commissioner is to be appointed by the Director of Public Prosecutions for a seven-year term, subject to removal for cause, that the Commissioner is to be housed within the Director's office but is to conduct investigations independently from the Director, and that the Commissioner is to be a deputy head for the purposes of hiring staff for his or her office and for managing human resources.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Act to add the offence of impersonating or causing another person to impersonate a candidate, a candidate's representative, a representative of a registered party or registered association, the Chief Electoral Officer, a member of the Chief Electoral Officer's staff, an election officer or a person authorized to act on the Chief Electoral Officer's or an election officer's behalf. It also adds the offences of providing false information in the course of an investigation and obstructing a person conducting an investigation. In addition, it creates offences in relation to registration on the lists of electors, registration on polling day, registration at an advance polling station and obligations to keep scripts and recordings used in the provision of voter contact calling services.&lt;br/&gt;&lt;br/&gt;The enactment further amends the Act to provide for increases in the amount of penalties. For the more serious offences, it raises the maximum fine from $2,000 to $20,000 on summary conviction and from $5,000 to $50,000 on conviction on indictment. For most strict liability offences, it raises the maximum fine from $1,000 to $2,000. For registered parties, it raises the maximum fine from $25,000 to $50,000 on summary conviction for strict liability political financing offences and from $25,000 to $100,000 on summary conviction for political financing offences that are committed intentionally. For third parties that are groups or corporations that fail to register as third parties, it raises the maximum fine to $50,000 for strict liability offences and to $100,000 for offences that are committed intentionally and for offences applying primarily to broadcasters, it raises the maximum fine from $25,000 to $50,000.&lt;br/&gt;&lt;br/&gt;The enactment amends the Electoral Boundaries Readjustment Act to authorize the Chief Electoral Officer to provide administrative support to electoral boundary commissions. It amends the Telecommunications Act to create new offences relating to voter contact calling services and to allow the Canadian Radio-television and Telecommunications Commission to use the inspection and investigation regime in that Act to administer and enforce part of the voter contact calling services regime in the Canada Elections Act. It amends the Conflict of Interest Act to have that Act apply to the Chief Electoral Officer. &lt;br/&gt;&lt;br/&gt;It also amends the Director of Public Prosecutions Act to provide that the Director of Public Prosecutions reports on the activities of the Commissioner of Canada Elections.&lt;br/&gt;Finally, the enactment includes transitional provisions that, among other things, provide for the transfer of staff and appropriations from the Office of the Chief Electoral Officer to the Office of the Director of Public Prosecutions to support the Commissioner of Canada Elections&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement un résumé législatif du projet de loi. Une version préliminaire est à la disposition des parlementaires et de leurs employés, qui peuvent en obtenir une copie en soumettant une demande ou en communiquant avec la Bibliothèque du Parlement. À l'heure actuelle, le résumé suivant est disponible.&lt;br/&gt;&lt;br/&gt;Le 4 février 2014, le Ministre d'État (Réforme démocratique) a déposé le projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (Loi sur l'intégrité des élections), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-23 modifie la Loi électorale du Canada afin de prévoir l'obligation pour le directeur général des élections d'établir des lignes directrices et des notes d'interprétation concernant l'application de la loi aux partis enregistrés, aux associations enregistrées, aux candidats à l'investiture, aux candidats et aux candidats à la direction. Il prévoit également que, sur demande, le directeur général des élections a l'obligation de donner un avis écrit sur l'application de dispositions de la loi à une activité ou à une pratique à laquelle un parti enregistré, une association enregistrée, un candidat à l'investiture, un candidat ou un candidat à la direction a l'intention de se livrer.&lt;br/&gt;&lt;br/&gt;Le texte modifie le pouvoir du directeur général des élections d'adapter les dispositions de la Loi électorale du Canada en vertu de l'article 17 de cette loi pour prévoir que ce pouvoir ne peut être exercé que pour permettre aux électeurs d'exercer leur droit de vote ou pour permettre le dépouillement du scrutin. Il limite le pouvoir du directeur général des élections de communiquer des renseignements au public et lui impose l'obligation de rendre ces renseignements accessibles aux électeurs handicapés.&lt;br/&gt;&lt;br/&gt;Le texte modifie par ailleurs la Loi électorale du Canada afin de permettre au directeur général des élections de mettre à l'essai un nouveau processus de vote avec l'agrément préalable de comités parlementaires ou, s'agissant d'un nouveau processus de vote électronique, avec l'agrément préalable du Sénat et de la Chambre des communes. Par ailleurs, le texte remplace la limite d'âge de soixante-cinq ans pour l'exercice de la charge de directeur général des élections par un mandat de dix ans. Il prévoit la constitution d'un comité consultatif des partis politiques qui fournit des avis au directeur général des élections sur toute question liée aux élections et au financement politique. Le texte prévoit aussi la nomination fondée sur le mérite d'agents de liaison locaux qui ont la responsabilité de soutenir les directeurs du scrutin dans leurs fonctions et de servir d'intermédiaires entre ces derniers et le bureau du directeur général des élections. Il prévoit en outre que le directeur général des élections peut suspendre temporairement un directeur du scrutin en période électorale et nommer des fonctionnaires électoraux supplémentaires dans les bureaux de vote. Enfin, il habilite les partis enregistrés et les associations enregistrées, en plus des candidats, à fournir les noms de personnes pour ces postes de fonctionnaires électoraux. Les noms doivent désormais être proposés au plus tard le 24e jour précédant le jour du scrutin, plutôt que le 17e jour précédant celui-ci.&lt;br/&gt;&lt;br/&gt;Le texte ajoute à la Loi électorale du Canada une nouvelle partie 16.1 qui porte sur les services d'appels aux électeurs. Cette partie exige notamment des fournisseurs de services d'appel et d'autres intéressés qu'ils déposent des avis d'enregistrement auprès du Conseil de la radiodiffusion et des télécommunications canadiennes, qu'ils lui communiquent des renseignements d'identification et qu'ils conservent des copies des scripts et enregistrements utilisés pour faire les appels. Elle prévoit que le Conseil de la radiodiffusion et des télécommunications canadiennes a l'obligation d'établir et de tenir le Registre de communication avec les électeurs, dans lequel sont conservés les documents qu'il reçoit en matière de services d'appels aux électeurs.&lt;br/&gt;&lt;br/&gt;Le texte remplace la partie 18 de la Loi électorale du Canada par un ensemble nouveau et complet de règles sur le financement politique qui corrige des lacunes de cette loi. Il prévoit notamment :&lt;br/&gt;•	que le plafond des contributions aux partis enregistrés, aux associations enregistrées, aux candidats à l'investiture, aux candidats et aux candidats à la direction est porté à 1 500 $ par an, puis augmentera de 25 $ par année;&lt;br/&gt;•	que la contribution que les candidats et les candidats à la direction peuvent apporter à leur propre campagne passe respectivement à 5 000 $ et à 25 000 $;&lt;br/&gt;•	que la cession de fonds par les partis enregistrés et les associations enregistrées à des candidats est permise avant la confirmation de leur candidature par le directeur du scrutin;&lt;br/&gt;•	que le vérificateur du parti enregistré a l'obligation de s'assurer du respect des règles relatives au financement politique en effectuant une vérification de conformité des comptes des dépenses électorales;&lt;br/&gt;•	que les partis enregistrés, les associations enregistrées et les candidats ont l'obligation de divulguer, dans leur compte des dépenses électorales, leur rapport financier ou leur compte de campagne électorale, selon le cas, les détails des dépenses relatives aux services d'appels aux électeurs;&lt;br/&gt;•	que les règles régissant les créances impayées sont modifiées de sorte que le non-paiement des créances dans un délai de trois ans constitue une infraction et les règles relatives à la déclaration des créances impayées sont resserrées;&lt;br/&gt;•	que les exigences relatives aux rapports des candidats à la direction sont modifiées;&lt;br/&gt;•	que les plafonds de dépenses des partis enregistrés et des candidats sont augmentés lorsque la période électorale est plus longue que la période minimale de trente-six jours;&lt;br/&gt;•	de nouvelles règles sur les prêts liés à la politique;&lt;br/&gt;•	que la notion de « bien immobilisé » est définie pour les fins du rapport des coûts de distribution du matériel publicitaire ou promotionnel diffusé au public au moyen d'un bien immobilisé de façon à ce que la dépense soit rapportée à la valeur de location correspondant à la période durant laquelle le bien a été utilisé, ainsi que pour les fins de la disposition de l'excédent de campagne;&lt;br/&gt;•	que la valeur commerciale des services fournis à un parti enregistré pour permettre à ce dernier de solliciter des contributions monétaires uniquement auprès de particuliers qui ont apporté au parti ou aux associations enregistrées, aux candidats à l'investiture ou aux candidats du parti au moins une contribution monétaire de 20 $ ou plus au cours des cinq dernières années est exclue des dépenses électorales.&lt;br/&gt;&lt;br/&gt;En ce qui concerne l'identification des électeurs, le texte modifie la Loi électorale du Canada pour exiger des électeurs qu'ils présentent les mêmes documents au bureau du directeur du scrutin de leur circonscription qu'au bureau de vote ordinaire. De plus, l'utilisation de la carte d'information de l'électeur comme preuve d'identité est interdite et la preuve d'identité d'un électeur par un répondant est éliminée. Enfin, l'électeur dont le nom a été biffé de la liste électorale par erreur doit prêter serment par écrit avant de recevoir son bulletin de vote.&lt;br/&gt;&lt;br/&gt;Le texte modifie aussi la Loi électorale du Canada pour ajouter une journée de vote par anticipation le 8e jour précédant le scrutin, créant ainsi un bloc de quatre jours consécutifs de vote par anticipation commençant le 10e jour précédant le jour du scrutin et se terminant le 7e jour précédant le jour du scrutin. Cette loi est en outre modifiée pour préciser la procédure à suivre pour ouvrir et fermer les urnes pendant le vote par anticipation et exiger l'utilisation d'une urne électorale différente pour chaque jour de vote par anticipation. Les directeurs du scrutin ont de plus le pouvoir de recouvrer des urnes conformément aux instructions du directeur général des élections si celui-ci l'estime souhaitable pour assurer l'intégrité du vote.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi électorale du Canada pour établir un processus de communication de l'emplacement des bureaux de vote aux électeurs, aux candidats et aux partis politiques et pour permettre aux représentants d'un candidat de se rendre dans n'importe quel bureau de vote de la circonscription après avoir prêté serment dans un bureau de vote de la circonscription. Cette loi est en outre modifiée pour que seule l'année de naissance de l'électeur figure sur la liste électorale utilisée au bureau de vote, et non la date complète. Enfin, une procédure pour les dépouillements judiciaires est établie.&lt;br/&gt;&lt;br/&gt;Le texte modifie en outre la Loi électorale du Canada pour changer le mode de nomination du commissaire aux élections fédérales. Il prévoit que celui-ci est nommé à titre inamovible pour un mandat de sept ans par le directeur des poursuites pénales, sous réserve de révocation motivée. Il prévoit que le commissaire occupe son poste au sein du Bureau du directeur des poursuites pénales, mais mène ses enquêtes de façon indépendante de ce dernier. Le texte prévoit que le commissaire est un administrateur général pour les fins de l'embauche du personnel et de la gestion des ressources humaines de son bureau.&lt;br/&gt;&lt;br/&gt;Le texte modifie également la Loi électorale du Canada pour créer une nouvelle infraction dans le cas où une personne se présente ou fait en sorte que quelqu'un se présente faussement comme un candidat, le représentant d'un candidat, le représentant d'un parti enregistré ou d'une association enregistrée, le directeur général des élections, un membre du personnel du directeur général des élections, un fonctionnaire électoral ou une personne autorisée à agir au nom du directeur général des élections ou d'un fonctionnaire électoral, ou dans le cas où une personne fournit de faux renseignements à l'occasion d'une enquête ou entrave l'action d'une personne menant une enquête. De plus, le texte crée des infractions relatives à l'inscription sur la liste électorale, le jour du scrutin ou à un bureau de vote par anticipation, et aux obligations de conserver les scripts et les enregistrements utilisés pour fournir des services d'appels aux électeurs.&lt;br/&gt;Le texte modifie la Loi électorale du Canada pour hausser les amendes liées aux infractions : pour les infractions les plus graves, l'amende maximale passe de 2 000 $ à 20 000 $ en cas de déclaration de culpabilité par procédure sommaire et de 5 000 $ à 50 000 $ en cas de mise en accusation; pour la plupart des infractions de responsabilité stricte, l'amende maximale passe de 1 000 $ à 2 000 $; en ce qui a trait aux partis enregistrés, l'amende maximale passe de 25 000 $ à 50 000 $ en cas de déclaration de culpabilité par procédure sommaire pour les infractions aux règles de financement politique qui sont de responsabilité stricte, et de 25 000 $ à 100 000 $ en cas de déclaration de culpabilité par procédure sommaire pour les infractions aux règles de financement politique exigeant une intention; en ce qui a trait aux tiers qui sont des groupes ou des personnes morales et qui omettent de s'enregistrer à titre de tiers, l'amende maximale est portée à 50 000 $ en cas d'infraction de responsabilité stricte et à 100 000 $ en cas d'infraction exigeant une intention; pour les infractions concernant principalement un radiodiffuseur, l'amende maximale passe de 25 000 $ à 50 000 $.&lt;br/&gt;Le texte modifie la Loi sur la révision des limites des circonscriptions électorales en vue d'autoriser le directeur général des élections à offrir du soutien administratif aux commissions de délimitation des circonscriptions électorales. Il modifie la Loi sur les télécommunications pour créer des infractions relatives à la prestation de services d'appels aux électeurs et afin de permettre au Conseil de la radiodiffusion et des télécommunications canadiennes d'utiliser les pouvoirs d'inspection et d'enquête qui sont prévus dans cette loi pour l'exécution et le contrôle d'application d'une partie du régime portant sur les services d'appels aux électeurs de la Loi électorale du Canada. Il modifie la Loi sur les conflits d'intérêts pour que celle-ci s'applique au directeur général des élections et la Loi sur le directeur des poursuites pénales pour prévoir que le directeur des poursuites pénales fait rapport sur les activités du commissaire aux élections fédérales.&lt;br/&gt;&lt;br/&gt;Enfin, le texte contient des dispositions transitoires prévoyant notamment le transfert de personnel et de crédits du bureau du directeur général des élections au Bureau du directeur des poursuites pénales pour appuyer le commissaire aux élections fédérales.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 4 February 2014, the Minister of State (Democratic Reform) introduced Bill C-23An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (Fair Elections Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-23 amends the Canada Elections Act ("the Act") to require the Chief Electoral Officer to issue interpretation notes and guidelines on the application of that Act to registered parties, registered associations, nomination contestants, candidates and leadership contestants. It also requires the Chief Electoral Officer, on request, to issue a written opinion on the application of provisions of the Act to an activity or practice that a registered party, registered association, nomination contestant, candidate or leadership contestant proposes to engage in.&lt;br/&gt;&lt;br/&gt;The enactment also modifies the Chief Electoral Officer's power under section 17 of the Act so that the power may only be exercised to allow electors to exercise their right to vote or to allow votes to be counted. It also limits the Chief Electoral Officer's power to provide information to the public and requires the Chief Electoral Officer to ensure that the information is accessible to electors with disabilities.&lt;br/&gt;&lt;br/&gt;The enactment further amends the Act to permit the Chief Electoral Officer to seek approval from parliamentary committees to test an alternative voting process (but where such a pilot project is to test a form of electronic voting, the Chief Electoral Officer must first obtain the approval of the Senate and House of Commons). The enactment also eliminates the mandatory retirement of the Chief Electoral Officer at age 65 and replaces it with a 10-year term. It provides for the establishment of an Advisory Committee of Political Parties to provide advice to the Chief Electoral Officer on matters relating to elections and political financing. The enactment also amends the Act to provide for the appointment of field liaison officers, based on merit, to provide support to returning officers and provide a link between returning officers and the Office of the Chief Electoral Officer. It also enables the Chief Electoral Officer to temporarily suspend a returning officer during an election period and provides for the appointment of additional election officers at polling stations. Finally, it empowers registered parties and registered associations, in addition to candidates, to provide names of individuals for election officer positions and changes the deadline for providing those names from the 17th day before polling day to the 24th day before polling day. &lt;br/&gt;&lt;br/&gt;The enactment also adds to the Act Part 16.1, which deals with voter contact calling services. Among other things, that Part requires that calling service providers and other interested parties file registration notices with the Canadian Radio-television and Telecommunications Commission, provide identifying information to the Commission and keep copies of scripts and recordings used to make calls. That Part also requires that the Canadian Radio-television and Telecommunications Commission establish and maintain a registry, to be known as the Voter Contact Registry, in which the documents it receives in relation to voter contact calling services are to be kept.&lt;br/&gt;&lt;br/&gt;The enactment also replaces Part 18 of the Act with a new, comprehensive set of rules on political financing that corrects a number of deficiencies in the Act. Notably, the enactment&lt;br/&gt;&lt;br/&gt;•	increases the annual contribution limits for contributions to registered parties, registered associations, candidates and nomination and leadership contestants to $1,500 per year and by $25 per year after the first year;&lt;br/&gt;•	increases the amount that candidates and leadership contestants may contribute to their own campaigns to $5,000 and $25,000, respectively;&lt;br/&gt;•	permits registered parties and registered associations to make transfers to candidates before their nomination is confirmed by the returning officer;&lt;br/&gt;•	requires a registered party's auditor to complete a compliance audit in relation to its election expenses return indicating that the party has complied with the political financing rules;&lt;br/&gt;•	requires registered parties, registered associations and candidates to disclose details of expenses for voter contact calling services in their returns;&lt;br/&gt;•	reforms the rules governing unpaid claims, making it an offence for claims to remain unpaid after three years and strengthening the reporting of unpaid claims;&lt;br/&gt;•	reforms the reporting requirements of leadership contestants;&lt;br/&gt;•	permits higher spending limits for registered parties and candidates if an election period is longer than the 36-day minimum;&lt;br/&gt;•	includes new rules on political loans;&lt;br/&gt;•	defines "capital asset" for the purposes of reporting the distribution cost of advertising or promotional material transmitted to the public using a capital asset, so that the expense is reported as the corresponding rental value for the period in which it was used, and for the purpose of the disposal of the campaign surplus; and&lt;br/&gt;•	exempts from what constitutes an election expense the commercial value of services provided to a registered party for the purpose of soliciting monetary contributions only from individuals who have made at least one contribution of $20 or more to the registered party or to one of its registered associations, nomination contestants or candidates in the last five years.&lt;br/&gt;&lt;br/&gt;With respect to voter identification, the enactment amends the Act to require the same voter identification for voting at the office of the returning officer in an elector's own riding as it requires for voting at ordinary polls. It also prohibits the use of the voter information card as proof of identity, eliminates the ability of an elector to prove their identity through vouching and requires an elector whose name was crossed off the electors' list in error to take a written oath before receiving a ballot.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Act to provide an extra day of advance polling on the eighth day before polling day, creating a block of four consecutive advance polling days between the tenth and seventh days before polling day. It requires a separate ballot box for each day of advance polling and details procedures for the opening and closing of ballot boxes during an advance poll. Finally, it gives returning officers the authority to recover ballot boxes on the Chief Electoral Officer's direction if the integrity of the vote is at risk.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Act to, among other things, establish a process to communicate polling station locations to electors, candidates and political parties, to provide that only an elector's year of birth is to be displayed on the lists of electors used at the polls, instead of the full date of birth, to permit candidates' representatives to move to any polling station in the electoral district after being sworn in at any polling station in the district and to establish a procedure for judicial recounts.&lt;br/&gt;&lt;br/&gt;The enactment further amends the Act to change how the Commissioner of Canada Elections is appointed. It establishes that the Commissioner is to be appointed by the Director of Public Prosecutions for a seven-year term, subject to removal for cause, that the Commissioner is to be housed within the Director's office but is to conduct investigations independently from the Director, and that the Commissioner is to be a deputy head for the purposes of hiring staff for his or her office and for managing human resources.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Act to add the offence of impersonating or causing another person to impersonate a candidate, a candidate's representative, a representative of a registered party or registered association, the Chief Electoral Officer, a member of the Chief Electoral Officer's staff, an election officer or a person authorized to act on the Chief Electoral Officer's or an election officer's behalf. It also adds the offences of providing false information in the course of an investigation and obstructing a person conducting an investigation. In addition, it creates offences in relation to registration on the lists of electors, registration on polling day, registration at an advance polling station and obligations to keep scripts and recordings used in the provision of voter contact calling services.&lt;br/&gt;&lt;br/&gt;The enactment further amends the Act to provide for increases in the amount of penalties. For the more serious offences, it raises the maximum fine from $2,000 to $20,000 on summary conviction and from $5,000 to $50,000 on conviction on indictment. For most strict liability offences, it raises the maximum fine from $1,000 to $2,000. For registered parties, it raises the maximum fine from $25,000 to $50,000 on summary conviction for strict liability political financing offences and from $25,000 to $100,000 on summary conviction for political financing offences that are committed intentionally. For third parties that are groups or corporations that fail to register as third parties, it raises the maximum fine to $50,000 for strict liability offences and to $100,000 for offences that are committed intentionally and for offences applying primarily to broadcasters, it raises the maximum fine from $25,000 to $50,000.&lt;br/&gt;&lt;br/&gt;The enactment amends the Electoral Boundaries Readjustment Act to authorize the Chief Electoral Officer to provide administrative support to electoral boundary commissions. It amends the Telecommunications Act to create new offences relating to voter contact calling services and to allow the Canadian Radio-television and Telecommunications Commission to use the inspection and investigation regime in that Act to administer and enforce part of the voter contact calling services regime in the Canada Elections Act. It amends the Conflict of Interest Act to have that Act apply to the Chief Electoral Officer. &lt;br/&gt;&lt;br/&gt;It also amends the Director of Public Prosecutions Act to provide that the Director of Public Prosecutions reports on the activities of the Commissioner of Canada Elections.&lt;br/&gt;Finally, the enactment includes transitional provisions that, among other things, provide for the transfer of staff and appropriations from the Office of the Chief Electoral Officer to the Office of the Director of Public Prosecutions to support the Commissioner of Canada Elections&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2014</StatuteYear>
+    <StatuteChapter>12</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-02-04T08:52:56</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>41</Number>
+          <Date>2014-02-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2014-02-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2014-02-04T08:52:56</EventStartDateTime>
+          <EventEndDateTime>2014-02-04T08:52:56</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-02-04T08:52:56</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-02-10T18:15:04</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+          <StudyActivityId>8224003</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>42</Number>
+          <Date>2014-02-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>43</Number>
+          <Date>2014-02-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>44</Number>
+          <Date>2014-02-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>45</Number>
+          <Date>2014-02-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8223854</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6405096</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - PROC</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - PROC</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - PROC</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>57</DivisionNumber>
+          <DivisionVotesYeas>152</DivisionVotesYeas>
+          <DivisionVotesNays>128</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2014-02-10T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>45</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2014-02-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2014-02-10T18:15:04</EventStartDateTime>
+          <EventEndDateTime>2014-02-10T18:15:04</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-02-10T18:15:04</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8216601</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>25524</PersonId>
+          <PersonOfficialFirstName>Pierre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Poilievre</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre Poilievre</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>42</MeetingNumber>
+          <SpeechDateTime>2014-02-05T15:33:27</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8217012</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>75006</PersonId>
+          <PersonOfficialFirstName>Craig</PersonOfficialFirstName>
+          <PersonOfficialLastName>Scott</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Craig Scott</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>42</MeetingNumber>
+          <SpeechDateTime>2014-02-05T16:03:50</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8217354</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25456</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Simms</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Simms</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>42</MeetingNumber>
+          <SpeechDateTime>2014-02-05T16:35:48</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-05-05T15:57:44</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+          <StudyActivityId>8224003</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>80</Number>
+          <Date>2014-05-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2014-02-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2014-03-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2014-03-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2014-03-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2014-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2014-04-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2014-04-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2014-04-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2014-04-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2014-04-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2014-04-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2014-04-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2014-04-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2014-04-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2014-04-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2014-04-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2014-04-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2014-04-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20155</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2014-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2014-05-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6560866</CommitteeReportId>
+          <CommitteeReportNumber>11</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-05-05T15:57:44</EventStartDateTime>
+          <EventEndDateTime>2014-05-05T15:57:44</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-05T15:57:44</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-12T21:00:16</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>82</Number>
+          <Date>2014-05-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>84</Number>
+          <Date>2014-05-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2014-05-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2014-05-12T21:00:16</EventStartDateTime>
+          <EventEndDateTime>2014-05-12T21:00:16</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-12T21:00:16</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-13T17:25:58</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>85</Number>
+          <Date>2014-05-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8357908</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6405098</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>139</DivisionNumber>
+          <DivisionVotesYeas>146</DivisionVotesYeas>
+          <DivisionVotesNays>123</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2014-05-13T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>85</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-05-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-05-13T17:25:58</EventStartDateTime>
+          <EventEndDateTime>2014-05-13T17:25:58</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-13T18:08:34</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-04-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>49</Number>
+          <Date>2014-04-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report on subject matter of bill tabled</NameEn>
+          <NameFr>Dépôt du rapport de comité sur l'objet du projet de loi</NameFr>
+          <Name>Committee report on subject matter of bill tabled</Name>
+          <Number>53</Number>
+          <Date>2014-04-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2014-04-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2014-04-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2014-04-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2014-04-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2014-04-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2014-04-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2014-04-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60305</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report on subject matter of bill tabled</EventNameEn>
+          <EventNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventNameFr>
+          <EventName>Committee report on subject matter of bill tabled</EventName>
+          <EventDateTime>2014-04-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Report deposited with the Clerk of the Senate on April 15, 2014</AdditionalInformationEn>
+          <AdditionalInformationFr>Le rapport a été déposé auprès du greffier du Sénat le 15 avril 2014</AdditionalInformationFr>
+          <AdditionalInformation>Report deposited with the Clerk of the Senate on April 15, 2014</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60305</EventTypeId>
+          <EventTypeNameEn>Committee report on subject matter of bill tabled</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventTypeNameFr>
+          <EventTypeName>Committee report on subject matter of bill tabled</EventTypeName>
+          <EventStartDateTime>2014-04-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-04-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-04-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevé</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2014-04-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2014-05-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-01T10:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-14T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>60</Number>
+          <Date>2014-05-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2014-05-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2014-05-14T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-14T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-14T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>62</Number>
+          <Date>2014-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>63</Number>
+          <Date>2014-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>64</Number>
+          <Date>2014-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2014-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2014-05-29T00:02:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2014-05-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-29T00:02:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>62706</PersonId>
+          <PersonOfficialFirstName>Linda</PersonOfficialFirstName>
+          <PersonOfficialLastName>Frum</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Linda Frum</PersonName>
+          <SenateSystemAffiliationId>2853</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>62</MeetingNumber>
+          <SpeechDateTime>2014-05-27T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/062db_2014-05-27-e#44</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/062db_2014-05-27-f#44</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/062db_2014-05-27-e#44</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1877</PersonId>
+          <PersonOfficialFirstName>Wilfred P.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Moore</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Wilfred P. Moore</PersonName>
+          <SenateSystemAffiliationId>124</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>63</MeetingNumber>
+          <SpeechDateTime>2014-05-28T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/063db_2014-05-28-e#21</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/063db_2014-05-28-f#21</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/063db_2014-05-28-e#21</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-06-05T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>67</Number>
+          <Date>2014-06-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2014-06-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2014-06-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2014-06-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-06-05T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-05T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-05T10:35:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-12T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>68</Number>
+          <Date>2014-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>69</Number>
+          <Date>2014-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>70</Number>
+          <Date>2014-06-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-06-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-06-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-12T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>75</Number>
+          <Date>2014-06-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2014-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2014-06-19T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-19T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-19T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6404810</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6564757</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6594057</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6684613</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>56</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>111</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>247</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-02-06T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>57</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>152</DivisionVotesYeas>
+      <DivisionVotesNays>128</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>280</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-02-10T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>121</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>102</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>238</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-05-08T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>122</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>148</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>123</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>124</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>122</DivisionVotesYeas>
+      <DivisionVotesNays>148</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>270</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>125</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>148</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>126</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>148</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>127</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>121</DivisionVotesYeas>
+      <DivisionVotesNays>150</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>128</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>129</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>122</DivisionVotesYeas>
+      <DivisionVotesNays>150</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>130</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>131</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>3</DivisionVotesYeas>
+      <DivisionVotesNays>268</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>132</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>133</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>134</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>147</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>135</DivisionNumber>
+      <DivisionSubjectEn>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>148</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>136</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>148</DivisionVotesYeas>
+      <DivisionVotesNays>124</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>272</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-05-12T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>138</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>123</DivisionVotesYeas>
+      <DivisionVotesNays>146</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>269</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>139</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-23, Loi modifiant la Loi électorale du Canada et d'autres lois et modifiant certaines lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-23, An Act to amend the Canada Elections Act and other Acts and to make consequential amendments to certain Acts</DivisionSubject>
+      <DivisionVotesYeas>146</DivisionVotesYeas>
+      <DivisionVotesNays>123</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>269</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-05-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <MeetingNumber>45</MeetingNumber>
+      <HansardNumber>8224523</HansardNumber>
+      <RulingStatementDateTime>2014-02-10T15:24:18</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <MeetingNumber>55</MeetingNumber>
+      <HansardNumber>8253651</HansardNumber>
+      <RulingStatementDateTime>2014-03-03T15:20:47</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <MeetingNumber>82</MeetingNumber>
+      <HansardNumber>8345438</HansardNumber>
+      <RulingStatementDateTime>2014-05-07T16:25:14</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Introduces Fair Elections Act</TitleEn>
+      <TitleFr>Le gouvernement Harper présente la Loi sur l'intégrité des élections</TitleFr>
+      <Title>Harper Government Introduces Fair Elections Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/harper-government-introduces-fair-elections-act</UrlEn>
+      <UrlFr>http://www.democraticreform.gc.ca/fra/content/le-gouvernement-harper-presente-la-loi-sur-lintegrite-des-elections</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/harper-government-introduces-fair-elections-act</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Protecting Voters from Rogue Callers</TitleEn>
+      <TitleFr>Fiche d'information : Protection des électeurs contre les appels frauduleux</TitleFr>
+      <Title>Backgrounder: Protecting Voters from Rogue Callers</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-protecting-voters-rogue-callers</UrlEn>
+      <UrlFr>Fiche d'information : Protection des électeurs contre les appels frauduleux</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-protecting-voters-rogue-callers</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: An Independent Commissioner: sharper teeth, a longer reach and a freer hand</TitleEn>
+      <TitleFr>Fiche d'information : Un commissaire autonome : des pouvoirs accrus, un plus grand rayon d'action et une plus grande marge de manœuvre</TitleFr>
+      <Title>Backgrounder: An Independent Commissioner: sharper teeth, a longer reach and a freer hand</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-independent-commissioner-sharper-teeth-longer-reach-and-freer-hand</UrlEn>
+      <UrlFr>http://www.democraticreform.gc.ca/fra/content/fiche-dinformation-un-commissaire-autonome-des-pouvoirs-accrus-un-plus-grand-rayon-daction</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-independent-commissioner-sharper-teeth-longer-reach-and-freer-hand</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Fair Elections Act – Cracking down on Voter Fraud</TitleEn>
+      <TitleFr>Fiche d'information : Loi sur l'intégrité des élections – Réprimer la fraude électorale</TitleFr>
+      <Title>Backgrounder: Fair Elections Act – Cracking down on Voter Fraud</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-cracking-down-voter-fraud</UrlEn>
+      <UrlFr>Fiche d'information : Loi sur l'intégrité des élections – Réprimer la fraude électorale</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-cracking-down-voter-fraud</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Fair Elections Act – Easy-to-Follow Rules for All</TitleEn>
+      <TitleFr>Fiche d'information : Loi sur l'intégrité des élections – Des règles faciles à respecter</TitleFr>
+      <Title>Backgrounder: Fair Elections Act – Easy-to-Follow Rules for All</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-easy-follow-rules-all</UrlEn>
+      <UrlFr>http://www.democraticreform.gc.ca/fra/content/fiche-dinformation-loi-sur-lintegrite-des-elections-des-regles-faciles-respecter</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-easy-follow-rules-all</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Fair Elections Act – Keep Big Money Out of Politics</TitleEn>
+      <TitleFr>Fiche d'information : Loi sur l'intégrité des élections – Mettre fin à l'influence de l'argent en politique</TitleFr>
+      <Title>Backgrounder: Fair Elections Act – Keep Big Money Out of Politics</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-keep-big-money-out-politics</UrlEn>
+      <UrlFr>http://www.democraticreform.gc.ca/fra/content/fiche-dinformation-loi-sur-lintegrite-des-elections-mettre-fin-linfluence-de-largent-en</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-keep-big-money-out-politics</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Fair Elections Act – Respecting Democratic Elections &amp; Defending Freedom of Speech</TitleEn>
+      <TitleFr>Fiche d'information : Loi sur l'intégrité des élections – garantir des élections démocratiques et défendre la liberté d'expression</TitleFr>
+      <Title>Backgrounder: Fair Elections Act – Respecting Democratic Elections &amp; Defending Freedom of Speech</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-respecting-democratic-elections-defending-freedom-speech</UrlEn>
+      <UrlFr>http://www.democraticreform.gc.ca/fra/content/fiche-dinformation-loi-sur-lintegrite-des-elections-garantir-des-elections-democratiques-et</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-respecting-democratic-elections-defending-freedom-speech</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Fair Elections Act – Better Customer Service for Voters</TitleEn>
+      <TitleFr>Fiche d'information: Loi sur l'intégrité des élections – Meilleur service à la clientèle pour les électeurs</TitleFr>
+      <Title>Backgrounder: Fair Elections Act – Better Customer Service for Voters</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-better-customer-service-voters</UrlEn>
+      <UrlFr>http://www.democraticreform.gc.ca/fra/content/fiche-dinformation-loi-sur-lintegrite-des-elections-meilleur-service-la-clientele-pour-les</UrlFr>
+      <Url>http://www.democraticreform.gc.ca/eng/content/backgrounder-fair-elections-act-better-customer-service-voters</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Responding to Changing Needs – Recommendations from the Chief Electoral Officer of Canada Following the 40th General Election (Elections Canada)</TitleEn>
+      <TitleFr>Faire face à l'évolution des besoins – Recommandations du directeur général des élections du Canada à la suite de la 40e élection générale (Élections Canada)</TitleFr>
+      <Title>Responding to Changing Needs – Recommendations from the Chief Electoral Officer of Canada Following the 40th General Election (Elections Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.elections.ca/content.aspx?section=res&amp;document=index&amp;dir=rep/off/r40&amp;lang=e</UrlEn>
+      <UrlFr>http://www.elections.ca/content.aspx?section=res&amp;document=index&amp;dir=rep/off/r40&amp;lang=f</UrlFr>
+      <Url>http://www.elections.ca/content.aspx?section=res&amp;document=index&amp;dir=rep/off/r40&amp;lang=e</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Response to the Chief Electoral Officer's Recommendations for Legislative Reforms Following the 40th General Election (House of Commons Standing Committee on Procedure and House Affairs, 2012)</TitleEn>
+      <TitleFr>Réponse aux Recommandations du Directeur Général des Élections Concernant la Réforme Législative à la suite de la 40e Élection Générale (Comité permanent de la procédure et des affaires de la Chambre, 2012)</TitleFr>
+      <Title>Response to the Chief Electoral Officer's Recommendations for Legislative Reforms Following the 40th General Election (House of Commons Standing Committee on Procedure and House Affairs, 2012)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5339250&amp;Language=E&amp;Mode=1&amp;Parl=41&amp;Ses=1</UrlEn>
+      <UrlFr>http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5339250&amp;Mode=1&amp;Parl=41&amp;Ses=1&amp;Language=F</UrlFr>
+      <Url>http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=5339250&amp;Language=E&amp;Mode=1&amp;Parl=41&amp;Ses=1</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2686</BibliographicNoticeId>
+      <Title>Voting becomes harder to do for First Nations</Title>
+      <Author>Narine, Shari</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>32(12):9</VolumePage>
+      <PublicationDate>9 Mar. 2015</PublicationDate>
+      <Classification>E78 C2 A75</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+      <CommitteeAcronym>LCJC</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
