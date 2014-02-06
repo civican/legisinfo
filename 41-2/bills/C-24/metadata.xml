@@ -1,0 +1,1669 @@
+<Bills>
+  <Bill>
+    <Id>6401990</Id>
+    <NumberCode>C-24</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>24</Number>
+    <LongTitleEn>An Act to amend the Citizenship Act and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Citizenship Act and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Strengthening Canadian Citizenship Act</ShortTitleEn>
+    <ShortTitleFr>Loi renforçant la citoyenneté canadienne</ShortTitleFr>
+    <ShortTitle>Strengthening Canadian Citizenship Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2014-06-19T00:05:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>71576</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Chris</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Alexander</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Chris Alexander</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Citizenship and Immigration</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Citoyenneté et de l'Immigration</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Citizenship and Immigration</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>397</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Ajax—Pickering</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Ajax—Pickering</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Ajax—Pickering</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2014-06-19T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>75</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2014-02-06T10:05:03</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2014-05-29T15:10:02</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2014-06-16T15:10:48</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2014-06-16T23:59:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2014-06-17T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2014-06-19T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2014-06-19T00:05:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 6 February 2014, the Minister of Citizenship and Immigration introduced Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts (Strengthening Canadian Citizenship Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-24 amends the Citizenship Act to, among other things, update eligibility requirements for Canadian citizenship, strengthen security and fraud provisions and amend provisions governing the processing of applications and the review of decisions.&lt;br/&gt;&lt;br/&gt;Amendments to the eligibility requirements include&lt;br/&gt;•	clarifying the meaning of being resident in Canada;&lt;br/&gt;•	modifying the period during which a permanent resident must reside in Canada before they may apply for citizenship;&lt;br/&gt;•	expediting access to citizenship for persons who are serving in, or have served in, the Canadian Armed Forces;&lt;br/&gt;•	requiring that an applicant for citizenship demonstrate, in one of Canada's official languages, knowledge of Canada and of the responsibilities and privileges of citizenship;&lt;br/&gt;•	specifying the age as of which an applicant for citizenship must demonstrate the knowledge referred to in paragraph (d) and must demonstrate an adequate knowledge of one of Canada's official languages;&lt;br/&gt;•	requiring that an applicant meet any applicable requirement under the Income Tax Act to file a return of income;&lt;br/&gt;•	conferring citizenship on certain individuals and their descendants who may not have acquired citizenship under prior legislation;&lt;br/&gt;•	extending an exception to the first-generation limit to citizenship by descent to children born to or adopted abroad by parents who were themselves born to or adopted abroad by Crown servants; and&lt;br/&gt;•	requiring, for a grant of citizenship for an adopted person, that the adoption not have circumvented international adoption law.&lt;br/&gt;&lt;br/&gt;Amendments to the security and fraud provisions include&lt;br/&gt;•	expanding the prohibition against granting citizenship to include persons who are charged outside Canada for an offence that, if committed in Canada, would constitute an indictable offence under an Act of Parliament or who are serving a sentence outside Canada for such an offence;&lt;br/&gt;•	expanding the prohibition against granting citizenship to include persons who, while they were permanent residents, engaged in certain actions contrary to the national interest of Canada, and permanently barring those persons from acquiring citizenship;&lt;br/&gt;•	aligning the grounds related to security and organized criminality on which a person may be denied citizenship with those grounds in the Immigration and Refugee Protection Act and extending the period during which a person is barred from acquiring citizenship on that basis;&lt;br/&gt;•	expanding the prohibition against granting citizenship to include persons who, in the course of their application, misrepresent material facts and prohibiting new applications by those persons for a specified period;&lt;br/&gt;•	increasing the period during which a person is barred from applying for citizenship after having been convicted of certain offences;&lt;br/&gt;•	increasing the maximum penalties for offences related to citizenship, including fraud and trafficking in documents of citizenship;&lt;br/&gt;•	providing for the regulation of citizenship consultants;&lt;br/&gt;•	establishing a hybrid model for revoking a person's citizenship in which the Minister will decide the majority of cases and the Federal Court will decide the cases related to inadmissibility based on security grounds, on grounds of violating human or international rights or on grounds of organized criminality;&lt;br/&gt;•	increasing the period during which a person is barred from applying for citizenship after their citizenship has been revoked;&lt;br/&gt;•	providing for the revocation of citizenship of dual citizens who, while they were Canadian citizens, engaged in certain actions contrary to the national interest of Canada, and permanently barring these individuals from reacquiring citizenship; and&lt;br/&gt;•	authorizing regulations to be made respecting the disclosure of information.&lt;br/&gt;&lt;br/&gt;Amendments to the provisions governing the processing of applications and the review of decisions include&lt;br/&gt;•	requiring that an application must be complete to be accepted for processing;&lt;br/&gt;•	expanding the grounds and period for the suspension of applications and providing for the circumstances in which applications may be treated as abandoned;&lt;br/&gt;•	limiting the role of citizenship judges in the decision-making process, subject to the Minister periodically exercising his or her power to continue the period of application of that limitation;&lt;br/&gt;•	giving the Minister the power to make regulations concerning the making and processing of applications;&lt;br/&gt;•	providing for the judicial review of any matter under the Act and permitting, in certain circumstances, further appeals to the Federal Court of Appeal; and&lt;br/&gt;•	transferring to the Minister the discretionary power to grant citizenship in special cases.&lt;br/&gt;&lt;br/&gt;Finally, the enactment makes consequential amendments to the Federal Courts Act and the Immigration and Refugee Protection Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement un résumé législatif du projet de loi. Une version préliminaire est à la disposition des parlementaires et de leurs employés, qui peuvent en obtenir une copie en soumettant une demande ou en communiquant avec la Bibliothèque du Parlement. À l'heure actuelle, le résumé suivant est disponible.&lt;br/&gt;&lt;br/&gt;Le 6 février 2014, le ministre de la Citoyenneté et de l'Immigration a déposé le projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence (Loi renforçant la citoyenneté canadienne), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-24 modifie la Loi sur la citoyenneté pour notamment y mettre à jour les conditions d'admissibilité en vue d'obtenir la citoyenneté canadienne, renforcer les dispositions touchant la sécurité et la fraude et modifier les dispositions régissant l'examen des demandes et la révision des décisions.&lt;br/&gt;&lt;br/&gt;Les modifications apportées aux conditions d'admissibilité visent notamment :&lt;br/&gt;•	à clarifier le sens de résidence au Canada;&lt;br/&gt;•	à modifier la période pendant laquelle un résident permanent doit habiter au Canada avant de pouvoir présenter une demande de citoyenneté;&lt;br/&gt;•	à offrir un accès accéléré à la citoyenneté aux personnes qui servent ou qui ont servi dans les Forces armées canadiennes;&lt;br/&gt;•	à exiger de l'auteur d'une demande de citoyenneté qu'il démontre, dans l'une des langues officielles du Canada, une connaissance du Canada et des responsabilités et avantages conférés par la citoyenneté;&lt;br/&gt;•	à prévoir l'âge à compter duquel l'exigence mentionnée à l'alinéa d) et celle d'avoir une connaissance suffisante de l'une des langues officielles s'appliquent à l'auteur d'une demande de citoyenneté;&lt;br/&gt;•	à exiger qu'un demandeur remplisse les exigences applicables prévues par la Loi de l'impôt sur le revenu de présenter des déclarations de revenus;&lt;br/&gt;•	à conférer la citoyenneté à certaines personnes et à leurs descendants qui pourraient ne pas l'avoir obtenue en vertu de la législation antérieure;&lt;br/&gt;•	à prolonger l'exception à la limite de transmission de la citoyenneté à la première génération aux enfants nés ou adoptés à l'étranger par des parents qui sont eux-mêmes nés ou ont été adoptés à l'étranger par des fonctionnaires de la Couronne;&lt;br/&gt;•	à exiger, lorsque l'attribution de la citoyenneté vise une personne adoptée, que l'adoption n'ait pas contourné le droit applicable aux adoptions internationales.&lt;br/&gt;&lt;br/&gt;Les modifications apportées aux dispositions sur la sécurité et la fraude visent notamment :&lt;br/&gt;•	à élargir la portée de l'interdiction de recevoir la citoyenneté aux personnes inculpées à l'étranger pour une infraction qui, si elle avait été commise au Canada, constituerait un acte criminel prévu sous le régime d'une loi fédérale ou aux personnes purgeant une peine à l'étranger pour une telle infraction;&lt;br/&gt;•	à élargir la portée de l'interdiction de recevoir la citoyenneté aux personnes qui, alors qu'elles étaient des résidents permanents, ont commis des gestes particuliers contraires à l'intérêt national du Canada, et à interdire définitivement à ces personnes d'obtenir la citoyenneté;&lt;br/&gt;•	à harmoniser les motifs relatifs à la sécurité et à la criminalité organisée pour lesquels une personne peut se voir refuser la citoyenneté avec ceux prévus dans la Loi sur l'immigration et la protection des réfugiés à cet égard et à prolonger la période durant laquelle la citoyenneté peut être refusée sur ces motifs;&lt;br/&gt;•	à élargir la portée de l'interdiction de recevoir la citoyenneté aux personnes qui, pendant le traitement de leur demande, font de fausses déclarations relativement à des faits essentiels ainsi qu'à interdire la présentation de nouvelles demandes par ces personnes durant une période donnée;&lt;br/&gt;•	à prolonger la période durant laquelle une personne ne peut présenter de nouveau la demande de citoyenneté après avoir été condamnée pour certaines infractions;&lt;br/&gt;•	à accroître le maximum des peines pour des infractions relatives à la citoyenneté, notamment pour la fraude et le trafic de documents de citoyenneté;&lt;br/&gt;•	à mettre en place un régime réglementaire visant les consultants en citoyenneté;&lt;br/&gt;•	à établir un modèle hybride pour la révocation de la citoyenneté d'une personne en vertu duquel la majorité des cas relèveront du ministre, alors que les cas liés à une interdiction de territoire pour raison de sécurité, pour atteinte aux droits humains ou internationaux ou pour criminalité organisée relèveront de la Cour fédérale;&lt;br/&gt;•	à accroître la période durant laquelle une personne ne peut présenter de demande de citoyenneté après que sa citoyenneté a été révoquée;&lt;br/&gt;•	à prévoir la révocation de la citoyenneté des personnes ayant la double citoyenneté et qui, alors qu'elles étaient des citoyens canadiens, ont commis des gestes particuliers contraires à l'intérêt national du Canada, et à interdire définitivement à ces personnes d'être réintégrées dans la citoyenneté;&lt;br/&gt;•	à autoriser la prise de règlements en matière de communication de renseignements.&lt;br/&gt;&lt;br/&gt;Les modifications apportées aux dispositions sur l'examen des demandes et la révision des décisions visent notamment :&lt;br/&gt;•	à prévoir que toute demande doit être complète afin d'être reçue aux fins d'examen;&lt;br/&gt;•	à élargir les cas où l'examen d'une demande peut être suspendu et à modifier la durée de la suspension, ainsi qu'à prévoir les cas où une demande peut être considérée comme abandonnée;&lt;br/&gt;•	à restreindre le rôle des juges de la citoyenneté dans le processus décisionnel sous réserve de l'exercice périodique par le ministre de son pouvoir de prolonger la période d'application de la restriction;&lt;br/&gt;•	à accorder au ministre le pouvoir de prendre des règlements concernant la présentation et l'examen des demandes;&lt;br/&gt;•	à mettre en place un régime de contrôle judiciaire de toute question relevant de l'application de la loi, et à permettre, dans certaines circonstances, l'appel à la Cour d'appel fédérale;&lt;br/&gt;•	à transférer au ministre le pouvoir discrétionnaire d'attribuer la citoyenneté dans des cas particuliers.&lt;br/&gt;&lt;br/&gt;Enfin, le texte apporte des modifications corrélatives à la Loi sur les Cours fédérales et à la Loi sur l'immigration et la protection des réfugiés.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A Legislative Summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. A pre-release version of this publication is available to parliamentarians and their staff, and can be obtained by submitting a request or contacting the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 6 February 2014, the Minister of Citizenship and Immigration introduced Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts (Strengthening Canadian Citizenship Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-24 amends the Citizenship Act to, among other things, update eligibility requirements for Canadian citizenship, strengthen security and fraud provisions and amend provisions governing the processing of applications and the review of decisions.&lt;br/&gt;&lt;br/&gt;Amendments to the eligibility requirements include&lt;br/&gt;•	clarifying the meaning of being resident in Canada;&lt;br/&gt;•	modifying the period during which a permanent resident must reside in Canada before they may apply for citizenship;&lt;br/&gt;•	expediting access to citizenship for persons who are serving in, or have served in, the Canadian Armed Forces;&lt;br/&gt;•	requiring that an applicant for citizenship demonstrate, in one of Canada's official languages, knowledge of Canada and of the responsibilities and privileges of citizenship;&lt;br/&gt;•	specifying the age as of which an applicant for citizenship must demonstrate the knowledge referred to in paragraph (d) and must demonstrate an adequate knowledge of one of Canada's official languages;&lt;br/&gt;•	requiring that an applicant meet any applicable requirement under the Income Tax Act to file a return of income;&lt;br/&gt;•	conferring citizenship on certain individuals and their descendants who may not have acquired citizenship under prior legislation;&lt;br/&gt;•	extending an exception to the first-generation limit to citizenship by descent to children born to or adopted abroad by parents who were themselves born to or adopted abroad by Crown servants; and&lt;br/&gt;•	requiring, for a grant of citizenship for an adopted person, that the adoption not have circumvented international adoption law.&lt;br/&gt;&lt;br/&gt;Amendments to the security and fraud provisions include&lt;br/&gt;•	expanding the prohibition against granting citizenship to include persons who are charged outside Canada for an offence that, if committed in Canada, would constitute an indictable offence under an Act of Parliament or who are serving a sentence outside Canada for such an offence;&lt;br/&gt;•	expanding the prohibition against granting citizenship to include persons who, while they were permanent residents, engaged in certain actions contrary to the national interest of Canada, and permanently barring those persons from acquiring citizenship;&lt;br/&gt;•	aligning the grounds related to security and organized criminality on which a person may be denied citizenship with those grounds in the Immigration and Refugee Protection Act and extending the period during which a person is barred from acquiring citizenship on that basis;&lt;br/&gt;•	expanding the prohibition against granting citizenship to include persons who, in the course of their application, misrepresent material facts and prohibiting new applications by those persons for a specified period;&lt;br/&gt;•	increasing the period during which a person is barred from applying for citizenship after having been convicted of certain offences;&lt;br/&gt;•	increasing the maximum penalties for offences related to citizenship, including fraud and trafficking in documents of citizenship;&lt;br/&gt;•	providing for the regulation of citizenship consultants;&lt;br/&gt;•	establishing a hybrid model for revoking a person's citizenship in which the Minister will decide the majority of cases and the Federal Court will decide the cases related to inadmissibility based on security grounds, on grounds of violating human or international rights or on grounds of organized criminality;&lt;br/&gt;•	increasing the period during which a person is barred from applying for citizenship after their citizenship has been revoked;&lt;br/&gt;•	providing for the revocation of citizenship of dual citizens who, while they were Canadian citizens, engaged in certain actions contrary to the national interest of Canada, and permanently barring these individuals from reacquiring citizenship; and&lt;br/&gt;•	authorizing regulations to be made respecting the disclosure of information.&lt;br/&gt;&lt;br/&gt;Amendments to the provisions governing the processing of applications and the review of decisions include&lt;br/&gt;•	requiring that an application must be complete to be accepted for processing;&lt;br/&gt;•	expanding the grounds and period for the suspension of applications and providing for the circumstances in which applications may be treated as abandoned;&lt;br/&gt;•	limiting the role of citizenship judges in the decision-making process, subject to the Minister periodically exercising his or her power to continue the period of application of that limitation;&lt;br/&gt;•	giving the Minister the power to make regulations concerning the making and processing of applications;&lt;br/&gt;•	providing for the judicial review of any matter under the Act and permitting, in certain circumstances, further appeals to the Federal Court of Appeal; and&lt;br/&gt;•	transferring to the Minister the discretionary power to grant citizenship in special cases.&lt;br/&gt;&lt;br/&gt;Finally, the enactment makes consequential amendments to the Federal Courts Act and the Immigration and Refugee Protection Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2014</StatuteYear>
+    <StatuteChapter>22</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-02-06T10:05:03</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>43</Number>
+          <Date>2014-02-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2014-02-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2014-02-06T10:05:03</EventStartDateTime>
+          <EventEndDateTime>2014-02-06T10:05:03</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-02-06T10:05:03</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-29T15:10:02</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+          <StudyActivityId>8386278</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>53</Number>
+          <Date>2014-02-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>91</Number>
+          <Date>2014-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>92</Number>
+          <Date>2014-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8386264</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6408406</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - CIMM</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - CIMM</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - CIMM</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>158</DivisionNumber>
+          <DivisionVotesYeas>140</DivisionVotesYeas>
+          <DivisionVotesNays>101</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2014-05-29T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>92</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2014-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2014-05-29T15:10:02</EventStartDateTime>
+          <EventEndDateTime>2014-05-29T15:10:02</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-29T15:10:02</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8250182</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>71576</PersonId>
+          <PersonOfficialFirstName>Chris</PersonOfficialFirstName>
+          <PersonOfficialLastName>Alexander</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Chris Alexander</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>53</MeetingNumber>
+          <SpeechDateTime>2014-02-27T15:28:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8250440</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71490</PersonId>
+          <PersonOfficialFirstName>Lysane</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blanchette-Lamothe</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lysane Blanchette-Lamothe</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>53</MeetingNumber>
+          <SpeechDateTime>2014-02-27T15:59:36</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8250733</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1817</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>McCallum</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John McCallum</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>53</MeetingNumber>
+          <SpeechDateTime>2014-02-27T16:33:11</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-06-04T16:24:16</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+          <StudyActivityId>8386278</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>96</Number>
+          <Date>2014-06-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2014-06-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2014-06-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2014-06-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6634456</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-06-04T16:24:16</EventStartDateTime>
+          <EventEndDateTime>2014-06-04T16:24:16</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-04T16:24:16</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-10T18:20:19</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>98</Number>
+          <Date>2014-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>99</Number>
+          <Date>2014-06-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Concurrence at report stage</NameEn>
+          <NameFr>Adoption à l'étape du rapport</NameFr>
+          <Name>Concurrence at report stage</Name>
+          <Number>100</Number>
+          <Date>2014-06-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2014-06-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2014-06-10T18:20:19</EventStartDateTime>
+          <EventEndDateTime>2014-06-10T18:20:19</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-10T18:58:31</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-16T15:10:48</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>102</Number>
+          <Date>2014-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>104</Number>
+          <Date>2014-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8422124</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6408408</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>210</DivisionNumber>
+          <DivisionVotesYeas>137</DivisionVotesYeas>
+          <DivisionVotesNays>118</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2014-06-16T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>104</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-06-16T15:10:48</EventStartDateTime>
+          <EventEndDateTime>2014-06-16T15:10:48</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-16T15:10:48</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>65</Number>
+          <Date>2014-06-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2014-06-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2014-06-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2014-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>39</Number>
+          <Date>2014-06-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2014-06-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-17T19:01:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-16T23:59:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>72</Number>
+          <Date>2014-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2014-06-16T23:59:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2014-06-16T23:59:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-16T23:59:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-16T23:59:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-17T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>73</Number>
+          <Date>2014-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2014-06-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2014-06-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2014-06-17T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-17T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-17T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>59547</PersonId>
+          <PersonOfficialFirstName>Nicole</PersonOfficialFirstName>
+          <PersonOfficialLastName>Eaton</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Nicole Eaton</PersonName>
+          <SenateSystemAffiliationId>2809</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>73</MeetingNumber>
+          <SpeechDateTime>2014-06-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/073db_2014-06-17-e#41</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/073db_2014-06-17-f#41</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/073db_2014-06-17-e#41</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1103</PersonId>
+          <PersonOfficialFirstName>Art</PersonOfficialFirstName>
+          <PersonOfficialLastName>Eggleton</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Art Eggleton</PersonName>
+          <SenateSystemAffiliationId>2774</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>73</MeetingNumber>
+          <SpeechDateTime>2014-06-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/073db_2014-06-17-e#41</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/073db_2014-06-17-f#41</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/073db_2014-06-17-e#41</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-06-18T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>74</Number>
+          <Date>2014-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2014-06-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-06-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-19T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>75</Number>
+          <Date>2014-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-06-19T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-19T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-19T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>75</Number>
+          <Date>2014-06-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2014-06-19T00:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2014-06-19T00:05:00</EventStartDateTime>
+          <EventEndDateTime>2014-06-19T00:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-19T00:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6410225</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6676424</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6684615</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>154</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>143</DivisionVotesYeas>
+      <DivisionVotesNays>113</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>256</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-05-28T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>157</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>101</DivisionVotesYeas>
+      <DivisionVotesNays>140</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>241</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-05-29T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>158</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>140</DivisionVotesYeas>
+      <DivisionVotesNays>101</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>241</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-05-29T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>169</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>134</DivisionVotesYeas>
+      <DivisionVotesNays>102</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>236</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-06-09T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>199</DivisionNumber>
+      <DivisionSubjectEn>Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>125</DivisionVotesYeas>
+      <DivisionVotesNays>145</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>270</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2014-06-10T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>200</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>145</DivisionVotesYeas>
+      <DivisionVotesNays>125</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>270</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-06-10T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>210</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-24, Loi modifiant la Loi sur la citoyenneté et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-24, An Act to amend the Citizenship Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>137</DivisionVotesYeas>
+      <DivisionVotesNays>118</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>255</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-06-16T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Strengthening Canadian Citizenship Act</TitleEn>
+      <TitleFr>Loi renforçant la citoyenneté canadienne</TitleFr>
+      <Title>Strengthening Canadian Citizenship Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=tp&amp;crtr.page=2&amp;nid=814249&amp;crtr.tp1D=1&amp;_ga=1.262043790.2098061473.1391089645</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=tp&amp;crtr.page=2&amp;nid=814249&amp;crtr.tp1D=1&amp;_ga=1.258314377.2098061473.1391089645</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=tp&amp;crtr.page=2&amp;nid=814249&amp;crtr.tp1D=1&amp;_ga=1.262043790.2098061473.1391089645</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Strengthening and Modernizing the Citizenship Act: Reinforcing the value of Canadian citizenship while continuing to move toward a faster and more efficient system</TitleEn>
+      <TitleFr>Renforcer et moderniser la Loi sur la citoyenneté – Renforcer la valeur de la citoyenneté canadienne tout en poursuivant la mise en place d'un système plus rapide et plus efficace</TitleFr>
+      <Title>Strengthening and Modernizing the Citizenship Act: Reinforcing the value of Canadian citizenship while continuing to move toward a faster and more efficient system</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/releases/2014/2014-02-06.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/communiques/2014/2014-02-06.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/releases/2014/2014-02-06.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Blueprint for Citizenship Improvements</TitleEn>
+      <TitleFr>Projet pour améliorer le programme de citoyenneté</TitleFr>
+      <Title>Blueprint for Citizenship Improvements</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Reinforcing the Value of Canadian Citizenship</TitleEn>
+      <TitleFr>Renforcer la valeur de la citoyenneté canadienne</TitleFr>
+      <Title>Reinforcing the Value of Canadian Citizenship</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06a.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06a.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06a.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cracking Down on Citizenship Fraud</TitleEn>
+      <TitleFr>Sévir contre la fraude en matière de citoyenneté</TitleFr>
+      <Title>Cracking Down on Citizenship Fraud</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06b.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06b.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06b.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Protecting and Promoting Canada's Interests and Values</TitleEn>
+      <TitleFr>Protéger et promouvoir les valeurs et les intérêts canadiens</TitleFr>
+      <Title>Protecting and Promoting Canada's Interests and Values</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06c.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06c.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06c.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Extending citizenship to "Lost Canadians"</TitleEn>
+      <TitleFr>Élargir l'attribution de la citoyenneté aux « Canadiens dépossédés de leur citoyenneté »</TitleFr>
+      <Title>Extending citizenship to "Lost Canadians"</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06d.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06d.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06d.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>A comparative view</TitleEn>
+      <TitleFr>Tableau comparatif</TitleFr>
+      <Title>A comparative view</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06e.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06e.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06e.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Graphic: Shortening Processing Times</TitleEn>
+      <TitleFr>Graphique : Réduire les délais de traitement</TitleFr>
+      <Title>Graphic: Shortening Processing Times</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06f.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06f.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06f.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Graphic: Reducing Canada's Citizenship Backlog</TitleEn>
+      <TitleFr>Graphique : Réduire l'arriéré du Canada en matière de citoyenneté</TitleFr>
+      <Title>Graphic: Reducing Canada's Citizenship Backlog</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06g.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06g.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06g.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Graphic: Reducing Processing Times</TitleEn>
+      <TitleFr>Graphique : Raccourcir les délais de traitement</TitleFr>
+      <Title>Graphic: Reducing Processing Times</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06h.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06h.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06h.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Graphic: streamlining Citizenship Revocationss</TitleEn>
+      <TitleFr>Graphique : Simplifier les révocations de la citoyenneté</TitleFr>
+      <Title>Graphic: streamlining Citizenship Revocationss</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06i.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06i.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06i.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Graphic:  Changes to Canada's Citizenship Fees: A Comparative View—Reducing the Burden on Canadian Taxpayers</TitleEn>
+      <TitleFr>Graphique : Modification des frais de citoyenneté du Canada – Une comparaison – Réduire le fardeau des contribuables canadiens</TitleFr>
+      <Title>Graphic:  Changes to Canada's Citizenship Fees: A Comparative View—Reducing the Burden on Canadian Taxpayers</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06j.asp</UrlEn>
+      <UrlFr>http://www.cic.gc.ca/francais/ministere/media/documents-info/2014/2014-02-06j.asp</UrlFr>
+      <Url>http://www.cic.gc.ca/english/department/media/backgrounders/2014/2014-02-06j.asp</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-24 Strengthening Canadian Citizenship Act (Canadian Bar Association)</TitleEn>
+      <TitleFr>Projet de loi C-24, Loi renforçant la citoyenneté canadienne (L'Association du Barreau canadien)</TitleFr>
+      <Title>Bill C-24 Strengthening Canadian Citizenship Act (Canadian Bar Association)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.cba.org/cba/submissions/pdf/14-22-eng.pdf</UrlEn>
+      <UrlFr>http://www.cba.org/ABC/memoires/PDF/14-22-fr.pdf</UrlFr>
+      <Url>http://www.cba.org/cba/submissions/pdf/14-22-eng.pdf</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2696</BibliographicNoticeId>
+      <Title>Legislation : the democratic and constitutional challenges of the Citizenship Bill (Bill C-24 of 2014) : the effect of impulsive legislative action on the parliamentary process</Title>
+      <Author>Gerami, Arghavan</Author>
+      <Publication>Journal of parliamentary and political law</Publication>
+      <VolumePage>9:153-67</VolumePage>
+      <PublicationDate>March 2015</PublicationDate>
+      <Classification>KE4212 C2 A35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2704</BibliographicNoticeId>
+      <Title>Vers une compréhension nationaliste de la naturalisation au Canada? : analyse des changements récents en matière d'octroi de la citoyenneté dans le contexte canadien</Title>
+      <Author>Winter, Elke</Author>
+      <Publication>Canadian journal of law and society</Publication>
+      <VolumePage>30:73-90</VolumePage>
+      <PublicationDate>avril 2015</PublicationDate>
+      <Classification>HM34 C35</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2598</BibliographicNoticeId>
+      <Title>A tale of two citizenships : citizenship revocation for 'traitors and terrorists'</Title>
+      <Author>Forcese, Craig</Author>
+      <Publication>Queen's law journal</Publication>
+      <VolumePage>39:551-85</VolumePage>
+      <PublicationDate>Spring 2014</PublicationDate>
+      <Classification>K17 U44</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2533</BibliographicNoticeId>
+      <Title>Speaking notes for Christopher Alexander, Canada's Citizenship and Immigration Minister for a keynote address entitled "Strengthening the value of Canadian citizenship' to the Canadian Club of Vancouver</Title>
+      <Author>Alexander, Chris</Author>
+      <Publication>Ottawa : Citizenship and Immigration Canada</Publication>
+      <VolumePage>1 online resource (12 unnumbered pages)</VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>PN6128.4 A559 A1 20140218</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2534</BibliographicNoticeId>
+      <Title>Notes pour une allocution prononcée par le Ministre de la Citoyenneté et de l'Immigration du Canada, Chris Alexander, pour un discours d'ouverture intitulé « Renforcer la valeur de la citoyenneté canadienne » devant le Canadian Club de Vancouver</Title>
+      <Author>Alexander, Chris</Author>
+      <Publication>Ottawa : Citoyenneté et Immigration Canada</Publication>
+      <VolumePage>1 ressource en ligne (14 pages non numérotées)</VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>PN6128.4 A559 A2 20140218</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2430</BibliographicNoticeId>
+      <Title>Lawyers pan citizenship reforms</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>33:2</VolumePage>
+      <PublicationDate>Feb. 28, 2014</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2784</BibliographicNoticeId>
+      <Title>Neutrality law, anti-terrorism, and foreign fighters : legal solutions to the recruitment of Canadians to foreign insurgencies</Title>
+      <Author>Forcese, Craig</Author>
+      <Publication>University of British Columbia law review</Publication>
+      <VolumePage>48(2):303-60</VolumePage>
+      <PublicationDate>July 2015</PublicationDate>
+      <Classification>K25 N58</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2952</BibliographicNoticeId>
+      <Title>Amarjeet Sohi : from political prisoner to parliamentarian</Title>
+      <Author>Omar Mouallem</Author>
+      <Publication>AlbertaViews</Publication>
+      <VolumePage>20(1):36-43</VolumePage>
+      <PublicationDate>February 2017</PublicationDate>
+      <Classification>Radar 22787566</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3092</BibliographicNoticeId>
+      <Title>Twenty-first century banishment : citizenship stripping in common law nations</Title>
+      <Author>Sangeetha Pillai and George Williams</Author>
+      <Publication>International and comparative law quarterly</Publication>
+      <VolumePage>66(3):521-555</VolumePage>
+      <PublicationDate>July 2017</PublicationDate>
+      <Classification>Radar 24948373</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3089</BibliographicNoticeId>
+      <Title>Citizenship revocation, the privilege to have rights and the production of the alien</Title>
+      <Author>Audrey Macklin</Author>
+      <Publication>Queen's law journal</Publication>
+      <VolumePage>40(1):1-54</VolumePage>
+      <PublicationDate>Fall 2014</PublicationDate>
+      <Classification>Radar 24949251</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3153</BibliographicNoticeId>
+      <Title>Beyond allegiance : toward a right to Canadian citizenship status</Title>
+      <Author>Michael Sullivan</Author>
+      <Publication>American review of Canadian studies</Publication>
+      <VolumePage>48(3):327-343</VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 29020822</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+      <CommitteeAcronym>SOCI</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
