@@ -1,0 +1,1556 @@
+<Bills>
+  <Bill>
+    <Id>6477802</Id>
+    <NumberCode>C-30</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>30</Number>
+    <LongTitleEn>An Act to amend the Canada Grain Act and the Canada Transportation Act and to provide for other measures</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur les grains du Canada et la Loi sur les transports au Canada et prévoyant d'autres mesures</LongTitleFr>
+    <LongTitle>An Act to amend the Canada Grain Act and the Canada Transportation Act and to provide for other measures</LongTitle>
+    <ShortTitleEn>Fair Rail for Grain Farmers Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le transport ferroviaire équitable pour les producteurs de grain</ShortTitleFr>
+    <ShortTitle>Fair Rail for Grain Farmers Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2014-05-29T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1209</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Gerry</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Ritz</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Gerry Ritz</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Agriculture and Agri-Food</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Agriculture et de l'Agroalimentaire</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Agriculture and Agri-Food</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>23</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Battlefords—Lloydminster</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Battlefords—Lloydminster</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Battlefords—Lloydminster</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2014-05-29T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>64</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2014-03-26T15:16:56</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2014-03-28T13:27:14</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2014-05-05T15:56:16</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2014-05-06T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2014-05-13T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2014-05-27T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2014-05-29T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 26 March 2014, the Minister of Agriculture and Agri-food introduced Bill C-30, An Act to amend the Canada Grain Act and the Canada Transportation Act and to provide for other measures (Fair Rail for Grain Farmers Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-30 amends the Canada Grain Act to permit the regulation of contracts relating to grain and the arbitration of disputes respecting the provisions of those contracts. It also amends the Canada Transportation Act with respect to railway transportation in order to, among other things,&lt;br/&gt;&lt;br/&gt;•	require the Canadian National Railway Company and the Canadian Pacific Railway Company to move the minimum amount of grain specified in the Canada Transportation Act or by order of the Governor in Council; and&lt;br/&gt;•	facilitate the movement of grain by rail.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 26 mars 2014, le ministre de l'Agriculture et de l'agroalimentaire a déposé le projet de loi C-30, Loi modifiant la Loi sur les grains du Canada et la Loi sur les transports au Canada et prévoyant d'autres mesures (Loi sur le transport ferroviaire équitable pour les producteurs de grain), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-30 modifie la Loi sur les grains du Canada afin de permettre la réglementation des contrats portant sur les grains ainsi que l'arbitrage des litiges relatifs aux dispositions de ces contrats. Le texte modifie également la Loi sur les transports au Canada relativement au transport ferroviaire afin, notamment :&lt;br/&gt;&lt;br/&gt;•	d'exiger de la Compagnie des chemins de fer nationaux du Canada et de la Compagnie de chemin de fer Canadien Pacifique de transporter la quantité minimum de grains indiquée dans cette loi ou précisée par décret;&lt;br/&gt;•	de faciliter le mouvement du grain par rail.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 26 March 2014, the Minister of Agriculture and Agri-food introduced Bill C-30, An Act to amend the Canada Grain Act and the Canada Transportation Act and to provide for other measures (Fair Rail for Grain Farmers Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-30 amends the Canada Grain Act to permit the regulation of contracts relating to grain and the arbitration of disputes respecting the provisions of those contracts. It also amends the Canada Transportation Act with respect to railway transportation in order to, among other things,&lt;br/&gt;&lt;br/&gt;•	require the Canadian National Railway Company and the Canadian Pacific Railway Company to move the minimum amount of grain specified in the Canada Transportation Act or by order of the Governor in Council; and&lt;br/&gt;•	facilitate the movement of grain by rail.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2014</StatuteYear>
+    <StatuteChapter>8</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-03-26T15:16:56</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>62</Number>
+          <Date>2014-03-26T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2014-03-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2014-03-26T15:16:56</EventStartDateTime>
+          <EventEndDateTime>2014-03-26T15:16:56</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-03-26T15:16:56</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-03-28T13:27:14</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+          <StudyActivityId>8285637</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>64</Number>
+          <Date>2014-03-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8285549</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6484436</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - AGRI</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - AGRI</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - AGRI</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2014-03-28T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>64</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2014-03-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2014-03-28T13:27:14</EventStartDateTime>
+          <EventEndDateTime>2014-03-28T13:27:14</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-03-28T13:27:14</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8285299</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35580</PersonId>
+          <PersonOfficialFirstName>Pierre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lemieux</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre Lemieux</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>64</MeetingNumber>
+          <SpeechDateTime>2014-03-28T12:16:38</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8285344</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71357</PersonId>
+          <PersonOfficialFirstName>Ruth Ellen</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brosseau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ruth Ellen Brosseau</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>64</MeetingNumber>
+          <SpeechDateTime>2014-03-28T12:34:30</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8285458</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1265</PersonId>
+          <PersonOfficialFirstName>Ralph</PersonOfficialFirstName>
+          <PersonOfficialLastName>Goodale</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ralph Goodale</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>64</MeetingNumber>
+          <SpeechDateTime>2014-03-28T12:53:29</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-04-08T10:04:56</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+          <StudyActivityId>8285637</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>71</Number>
+          <Date>2014-04-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2014-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2014-04-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2014-04-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2014-04-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2014-04-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2014-04-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6521760</CommitteeReportId>
+          <CommitteeReportNumber>2</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-04-08T10:04:56</EventStartDateTime>
+          <EventEndDateTime>2014-04-08T10:04:56</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-04-08T10:04:56</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-01T11:34:28</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>78</Number>
+          <Date>2014-05-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2014-05-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2014-05-01T11:34:28</EventStartDateTime>
+          <EventEndDateTime>2014-05-01T11:34:28</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-01T11:34:28</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+          <StudyActivityId>8332679</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>78</Number>
+          <Date>2014-05-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60132</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Recommittal of bill to committee adopted</EventNameEn>
+          <EventNameFr>Adoption du renvoi du projet de loi en comité</EventNameFr>
+          <EventName>Recommittal of bill to committee adopted</EventName>
+          <EventDateTime>2014-05-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-01T12:51:37</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>true</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-05-05T15:54:41</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+          <StudyActivityId>8332679</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>80</Number>
+          <Date>2014-05-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20170</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Agriculture and Agri-Food</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'agriculture et de l'agroalimentaire</CommitteeNameFr>
+          <CommitteeAcronym>AGRI</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2014-05-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Agriculture and Agri-Food</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2014-05-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6561984</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-05-05T15:54:41</EventStartDateTime>
+          <EventEndDateTime>2014-05-05T15:54:41</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-05T15:54:41</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-05T15:56:16</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>80</Number>
+          <Date>2014-05-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8337158</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6484438</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>12</DecisionMethodId>
+          <DecisionMethodNameEn>By unanimous consent</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Du consentement unanime</DecisionMethodNameFr>
+          <DecisionMethodName>By unanimous consent</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2014-05-05T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>80</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-05-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6561984</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-05-05T15:56:16</EventStartDateTime>
+          <EventEndDateTime>2014-05-05T15:56:16</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-05T15:56:16</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>56</Number>
+          <Date>2014-05-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2014-05-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2014-05-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-06T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>58</Number>
+          <Date>2014-05-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>59</Number>
+          <Date>2014-05-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2014-05-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2014-05-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2014-05-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>19501</PersonId>
+          <PersonOfficialFirstName>Donald Neil</PersonOfficialFirstName>
+          <PersonOfficialLastName>Plett</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Donald Neil Plett</PersonName>
+          <SenateSystemAffiliationId>2858</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>58</MeetingNumber>
+          <SpeechDateTime>2014-05-08T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/058db_2014-05-08-e#43</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/058db_2014-05-08-f#43</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/058db_2014-05-08-e#43</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>13038</PersonId>
+          <PersonOfficialFirstName>Terry M.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mercer</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Terry M. Mercer</PersonName>
+          <SenateSystemAffiliationId>2759</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>59</MeetingNumber>
+          <SpeechDateTime>2014-05-13T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/059db_2014-05-13-e#46</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/059db_2014-05-13-f#46</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/059db_2014-05-13-e#46</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-05-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>62</Number>
+          <Date>2014-05-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2014-05-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2014-05-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2014-05-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2014-05-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16094</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Agriculture and Forestry</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'agriculture et des forêts</CommitteeNameFr>
+          <CommitteeAcronym>AGFO</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2014-05-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Agriculture and Forestry</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2014-05-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-05-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-05-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>62</Number>
+          <Date>2014-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-05-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-05-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>64</Number>
+          <Date>2014-05-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2014-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2014-05-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-05-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-05-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6484900</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6524871</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6565068</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6630225</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <MeetingNumber>78</MeetingNumber>
+      <HansardNumber>8330723</HansardNumber>
+      <RulingStatementDateTime>2014-05-01T10:10:50</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Introduces Legislation to Address Rail Capacity Challenges</TitleEn>
+      <TitleFr>Le gouvernement Harper présente des mesures législatives pour régler les problèmes de capacité ferroviaire</TitleFr>
+      <Title>Harper Government Introduces Legislation to Address Rail Capacity Challenges</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=829579</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=829579&amp;_ga=1.198021164.2098061473.1391089645</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=829579</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper government acts to get grain moving in Western Canada</TitleEn>
+      <TitleFr>Le gouvernement Harper agit pour faire accélérer le transport du grain dans l'Ouest canadien</TitleFr>
+      <Title>Harper government acts to get grain moving in Western Canada</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=advSrch&amp;crtr.page=2&amp;crtr.dpt1D=6695&amp;nid=822889&amp;_ga=1.223703832.2098061473.1391089645</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=advSrch&amp;crtr.page=2&amp;crtr.dpt1D=6695&amp;nid=822889&amp;_ga=1.223703832.2098061473.1391089645</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=advSrch&amp;crtr.page=2&amp;crtr.dpt1D=6695&amp;nid=822889&amp;_ga=1.223703832.2098061473.1391089645</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Order in Council on grain transportation</TitleEn>
+      <TitleFr>Décret au sujet du transport du grain</TitleFr>
+      <Title>Order in Council on grain transportation</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&amp;Page=secretariats&amp;txtOICID=&amp;txtFromDate=2014-03-05&amp;txtToDate=2014-03-010&amp;txtPrecis=Grain&amp;txtDepartment=Transport+Canada&amp;txtAct=&amp;txtChapterNo=&amp;txtChapterYear=&amp;txtBillNo=&amp;rdoComingIntoForce=&amp;DoSearch=Search+%2F+L</UrlEn>
+      <UrlFr>http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=fra&amp;Page=secretariats&amp;txtOICID=&amp;txtFromDate=2014-01-01&amp;txtToDate=&amp;txtPrecis=grains&amp;txtDepartment=&amp;txtAct=&amp;txtChapterNo=&amp;txtChapterYear=&amp;txtBillNo=&amp;rdoComingIntoForce=&amp;DoSearch=Recherche+%2F+Liste</UrlFr>
+      <Url>http://www.pco-bcp.gc.ca/oic-ddc.asp?lang=eng&amp;Page=secretariats&amp;txtOICID=&amp;txtFromDate=2014-03-05&amp;txtToDate=2014-03-010&amp;txtPrecis=Grain&amp;txtDepartment=Transport+Canada&amp;txtAct=&amp;txtChapterNo=&amp;txtChapterYear=&amp;txtBillNo=&amp;rdoComingIntoForce=&amp;DoSearch=Search+%2F+L</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Crop Logistics Working Group</TitleEn>
+      <TitleFr>Groupe de travail sur la logistique du transport des récoltes</TitleFr>
+      <Title>Crop Logistics Working Group</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.agr.gc.ca/eng/industry-markets-and-trade/statistics-and-market-information/by-product-sector/crops/initiatives-supporting-producers/crop-logistics-working-group/?id=1323987063552</UrlEn>
+      <UrlFr>http://www.agr.gc.ca/fra/industrie-marches-et-commerce/statistiques-et-information-sur-les-marches/par-produit-secteur/cultures/initiatives-au-service-des-producteurs/groupe-de-travail-sur-la-logistique-du-transport-des-recoltes/?id=1323987063552</UrlFr>
+      <Url>http://www.agr.gc.ca/eng/industry-markets-and-trade/statistics-and-market-information/by-product-sector/crops/initiatives-supporting-producers/crop-logistics-working-group/?id=1323987063552</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government to Further Address Grain Logistics System Challenges</TitleEn>
+      <TitleFr>Le gouvernement Harper continue à relever les défis liés au système de logistique des grains</TitleFr>
+      <Title>Harper Government to Further Address Grain Logistics System Challenges</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=813309&amp;_ga=1.257799176.2098061473.1391089645</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=813309&amp;_ga=1.257799176.2098061473.1391089645</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=813309&amp;_ga=1.257799176.2098061473.1391089645</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government Invests in Agriculture Supply Chain</TitleEn>
+      <TitleFr>Le gouvernement Harper investit dans la chaîne d'approvisionnement agricole</TitleFr>
+      <Title>Harper Government Invests in Agriculture Supply Chain</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=810399</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=810399&amp;_ga=1.30774588.2098061473.1391089645</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=810399</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-30 Passes Third Reading in the House of Commons</TitleEn>
+      <TitleFr>Le projet de loi C-30 adopté en troisième lecture à la Chambre des communes</TitleFr>
+      <Title>Bill C-30 Passes Third Reading in the House of Commons</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=845719&amp;_ga=1.180062564.1725713778.1398861821</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=845719</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=845719&amp;_ga=1.180062564.1725713778.1398861821</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2503</BibliographicNoticeId>
+      <Title>Grain targets hurt service, says short line</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>92: 5</VolumePage>
+      <PublicationDate>April 24, 2014</PublicationDate>
+      <Classification>S1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2519</BibliographicNoticeId>
+      <Title>Small shippers feel rail legislation created winners, losers</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>92: 14</VolumePage>
+      <PublicationDate>May 22, 2014</PublicationDate>
+      <Classification>S1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2520</BibliographicNoticeId>
+      <Title>Rail regulations working, says watchdog</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>92: 1-2</VolumePage>
+      <PublicationDate>May 22, 2014</PublicationDate>
+      <Classification>S1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2449</BibliographicNoticeId>
+      <Title>Rail service bill praised, panned</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>92:1-2</VolumePage>
+      <PublicationDate>April 3, 2014</PublicationDate>
+      <Classification>S1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2450</BibliographicNoticeId>
+      <Title>Grain targets good first step, but not a solution : critics</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>92:15</VolumePage>
+      <PublicationDate>April 3, 2014</PublicationDate>
+      <Classification>S1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2483</BibliographicNoticeId>
+      <Title>Farmers not sold on proposal for grain delivery dispute arbitration</Title>
+      <Author>Cross, Brian</Author>
+      <Publication>Western producer</Publication>
+      <VolumePage>92:1-2</VolumePage>
+      <PublicationDate>April 17, 2014</PublicationDate>
+      <Classification>S1 W47</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2464</BibliographicNoticeId>
+      <Title>Differential effects of rail deregulation on US grain producers</Title>
+      <Author>Vachal, Kimberly</Author>
+      <Publication>Journal of policy reform</Publication>
+      <VolumePage>Volume 9, number 2:145-155</VolumePage>
+      <PublicationDate>June 2006</PublicationDate>
+      <Classification>Legisinfo C-30, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2465</BibliographicNoticeId>
+      <Title>The wheat king</Title>
+      <Author>Smith, John G.</Author>
+      <Publication>Canadian transportation &amp; logistics</Publication>
+      <VolumePage>Volume 114, number 4:14-16, 18</VolumePage>
+      <PublicationDate>April 2011</PublicationDate>
+      <Classification>info C-30, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2466</BibliographicNoticeId>
+      <Title>Changes planned for grain</Title>
+      <Author>Bohi, Charles W.</Author>
+      <Publication>Trains</Publication>
+      <VolumePage>Volume 72, number 2:8</VolumePage>
+      <PublicationDate>February 2012</PublicationDate>
+      <Classification>Legisinfo C-30, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2467</BibliographicNoticeId>
+      <Title>A spreadsheet decision support optimization model for railcar storage at Canadian Pacific Railway</Title>
+      <Author>Espey, R.L. and J. Balakrishnan</Author>
+      <Publication>Journal of the operational research society</Publication>
+      <VolumePage>Volume 63, number 2:139-150</VolumePage>
+      <PublicationDate>February 2012.</PublicationDate>
+      <Classification>Legisinfo C-30, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2468</BibliographicNoticeId>
+      <Title>Canada agribusiness report Q1 2014 : includes 5-year forecasts to 2017</Title>
+      <Author>
+      </Author>
+      <Publication>London : Business Monitor International</Publication>
+      <VolumePage>1 PDF (123 p.)</VolumePage>
+      <PublicationDate>December 2013</PublicationDate>
+      <Classification>Legisinfo C-30, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2469</BibliographicNoticeId>
+      <Title>Canada agribusiness report Q2 2014 : includes 5-year forecasts to 2018</Title>
+      <Author>
+      </Author>
+      <Publication>London : Business Monitor International</Publication>
+      <VolumePage>1 PDF (107 p.)</VolumePage>
+      <PublicationDate>March 2014</PublicationDate>
+      <Classification>Legisinfo C-30, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2470</BibliographicNoticeId>
+      <Title>Monitoring the Canadian Grain Handling and Transportation System : annual report</Title>
+      <Author>Government of Canada</Author>
+      <Publication>Edmonton, Alta. : Quorum Corporation</Publication>
+      <VolumePage>79 p.</VolumePage>
+      <PublicationDate>2012-2013 Crop Year</PublicationDate>
+      <Classification>HE2321 G7 C3 A1</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2471</BibliographicNoticeId>
+      <Title>Railway to riches?</Title>
+      <Author>Sorensen, Chris</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>124:38-39</VolumePage>
+      <PublicationDate>Nov. 21, 2011</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
