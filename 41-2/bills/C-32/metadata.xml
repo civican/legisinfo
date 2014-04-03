@@ -1,0 +1,1518 @@
+<Bills>
+  <Bill>
+    <Id>6503398</Id>
+    <NumberCode>C-32</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>32</Number>
+    <LongTitleEn>An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Charte canadienne des droits des victimes et modifiant certaines lois</LongTitleFr>
+    <LongTitle>An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</LongTitle>
+    <ShortTitleEn>Victims Bill of Rights Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la Charte des droits des victimes</ShortTitleFr>
+    <ShortTitle>Victims Bill of Rights Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2015-04-23T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>82</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Peter</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>MacKay</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>Gordon</SponsorPersonMiddleName>
+    <SponsorPersonName>Peter Gordon MacKay</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice and Attorney General of Canada</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice et procureur général du Canada</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice and Attorney General of Canada</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>313</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Central Nova</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Nova-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Central Nova</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2015-04-23T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>135</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2014-04-03T10:05:01</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2014-06-20T12:04:06</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2015-02-23T18:50:11</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2015-02-24T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2015-03-24T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2015-04-22T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2015-04-23T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 3 April 2014, the Minister of Justice and Attorney General of introduced Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts (Victims Bill of Rights Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-32 enacts the Canadian Victims Bill of Rights, which specifies that victims of crime have the following rights:&lt;br/&gt;(a) the right to information about the criminal justice system, the programs and services that are available to victims of crime and the complaint procedures that are available to them when their rights have been infringed or denied;&lt;br/&gt;(b) the right to information about the status of the investigation and the criminal proceedings, as well as information about reviews while the offender is subject to the corrections process, or about hearings after the accused is found not criminally responsible on account of mental disorder or unfit to stand trial, and information about the decisions made at those reviews and hearings;&lt;br/&gt;(c) the right to have their security and privacy considered by the appropriate authorities in the criminal justice system;&lt;br/&gt;(d) the right to protection from intimidation and retaliation;&lt;br/&gt;(e) the right to request testimonial aids;&lt;br/&gt;(f) the right to convey their views about decisions to be made by authorities in the criminal justice system that affect the victim's rights under this Act and to have those views considered;&lt;br/&gt;(g) the right to present a victim impact statement and to have it considered;&lt;br/&gt;(h) the right to have the courts consider making, in all cases, a restitution order against the offender; and&lt;br/&gt;(i) the right to have a restitution order entered as a civil court judgment that is enforceable against the offender if the amount owing under the restitution order is not paid.&lt;br/&gt;The Canadian Victims Bill of Rights also specifies&lt;br/&gt;(a) the periods during which the rights apply;&lt;br/&gt;(b) the individuals who may exercise the rights;&lt;br/&gt;(c) the complaint mechanism for victims and the requirements for federal departments to create complaint mechanisms; and&lt;br/&gt;(d) how the Canadian Victims Bill of Rights is to be interpreted.&lt;br/&gt;This enactment amends the Criminal Code to&lt;br/&gt;(a) align the definition of "victim" with the definition of "victim" in the Canadian Victims Bill of Rights;&lt;br/&gt;(b) protect the privacy and security interests of complainants and witnesses in proceedings involving certain sexual offences and ensure that they are informed of their right to be represented by legal counsel;&lt;br/&gt;(c) broaden the conduct to which the offence of intimidation of justice system participants applies;&lt;br/&gt;(d) expand the list of factors that a court may take into consideration when determining whether an exclusion order is in the interest of the proper administration of justice;&lt;br/&gt;(e) make testimonial aids more accessible to vulnerable witnesses;&lt;br/&gt;(f) enable witnesses to testify using a pseudonym in appropriate cases;&lt;br/&gt;(g) make publication bans for victims under the age of 18 mandatory on application;&lt;br/&gt;(h) provide that an order for judicial interim release must indicate that the safety and security of every victim was taken into consideration;&lt;br/&gt;(i) require the court to inquire of the prosecutor if reasonable steps have been taken to inform the victims of any plea agreement entered into by the accused and the prosecutor in certain circumstances;&lt;br/&gt;(j) add victim impact statement forms to assist victims to convey their views at sentencing proceedings and at hearings held by Review Boards;&lt;br/&gt;(k) provide that the acknowledgment of the harm done to the victims and to the community is a sentencing objective;&lt;br/&gt;(l) clarify the provisions relating to victim impact statements;&lt;br/&gt;(m) allow for community impact statements to be considered for all offences;&lt;br/&gt;(n) provide that victims may request a copy of a judicial interim release order, probation order or a conditional sentence order;&lt;br/&gt;(o) specify that the victim surcharge must be paid within the reasonable time established by the lieutenant governor of the province in which it is imposed;&lt;br/&gt;(p) provide a form for requesting a restitution order; and&lt;br/&gt;(q) provide that courts must consider the making of a restitution order in all cases, and that, in multiple victim cases, a restitution order may specify the amounts owed to each victim and designate the priority of payment among the victims.&lt;br/&gt;The enactment amends the Canada Evidence Act to provide that no person is incompetent, or uncompellable, to testify for the prosecution by reason only that they are married to the accused. It also amends that Act to add a new subsection to govern the questioning of witnesses over the age of 14 years in certain circumstances.&lt;br/&gt;This enactment amends the Corrections and Conditional Release Act to&lt;br/&gt;(a) align the definition of "victim" with the definition of "victim" in the Canadian Victims Bill of Rights;&lt;br/&gt;(b) permit victims to have access to information about the offender's progress in relation to the offender's correctional plan;&lt;br/&gt;(c) permit victims to be shown a current photograph of the offender at the time of the offender's conditional release or the expiration of the offender's sentence;&lt;br/&gt;(d) permit the disclosure of information to victims concerning an offender's deportation before the expiration of the offender's sentence;&lt;br/&gt;(e) permit the disclosure to victims of an offender's release date, destination and conditions of release, unless the disclosure would have a negative impact on public safety;&lt;br/&gt;(f) allow victims to designate a representative to receive information under the Act and to waive their right to information under the Act;&lt;br/&gt;(g) require that the Correctional Service of Canada inform victims about its victim-offender mediation services;&lt;br/&gt;(h) permit victims who do not attend a parole hearing to listen to an audio recording of the hearing;&lt;br/&gt;(i) provide for the provision to victims of decisions of the Parole Board of Canada regarding the offender; and&lt;br/&gt;(j) require, when victims have provided a statement describing the harm, property damage or loss suffered by them as the result of the commission of an offence, that the Parole Board of Canada impose victim non-contact or geographic restrictions as conditions of release, where reasonable and necessary, to protect the victims in relation to an offender who is the subject of a long-term supervision order.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 3 avril 2014, le ministre de la Justice et procureur général du Canada a déposé le projet de loi C-32, Loi édictant la Charte canadienne des droits des victimes et modifiant certaines lois (Loi sur la Charte des droits des victimes), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-32 édicte la Charte canadienne des droits des victimes (la Charte), qui prévoit que les victimes d'actes criminels ont les droits suivants :&lt;br/&gt;a) le droit d'obtenir des renseignements sur le système de justice pénale, sur les programmes et services à leur disposition et sur le mécanisme de plainte dont elles peuvent se prévaloir lorsque leurs droits ont été violés ou niés;&lt;br/&gt;b) le droit d'obtenir des renseignements sur l'état d'avancement de l'enquête et sur la procédure criminelle ainsi que sur l'examen du dossier du délinquant pendant que celui-ci est régi par le processus correctionnel, sur les audiences tenues après que l'accusé a été déclaré inapte à subir son procès ou non responsable criminellement pour cause de troubles mentaux et sur les décisions rendues;&lt;br/&gt;c) le droit à ce que leur sécurité et leur vie privée soient prises en considération par les autorités compétentes du système de justice pénale;&lt;br/&gt;d) le droit d'être protégées contre l'intimidation et les représailles;&lt;br/&gt;e) le droit de demander des mesures visant à faciliter leur témoignage;&lt;br/&gt;f) le droit de donner leur point de vue en ce qui concerne les décisions des autorités compétentes du système de justice pénale en ce qui touche les droits qui leur sont conférés par la présente loi et le droit à ce qu'il soit pris en considération;&lt;br/&gt;g) le droit de présenter une déclaration et à ce qu'elle soit prise en considération;&lt;br/&gt;h) le droit à ce que le tribunal envisage systématiquement la possibilité de rendre une ordonnance de dédommagement contre le délinquant;&lt;br/&gt;i) le droit de faire enregistrer cette ordonnance au tribunal civil à titre de jugement exécutoire contre le délinquant en cas de défaut de paiement.&lt;br/&gt;La Charte prévoit en outre ce qui suit :&lt;br/&gt;a) les périodes pendant lesquelles les droits s'appliquent;&lt;br/&gt;b) les particuliers pouvant exercer ces droits;&lt;br/&gt;c) le mécanisme de plainte pour les victimes et l'obligation, pour les ministères fédéraux, de créer de tels mécanismes;&lt;br/&gt;d) la façon de l'interpréter.&lt;br/&gt;Le texte modifie le Code criminel aux fins suivantes :&lt;br/&gt;a) harmoniser la définition de « victime » avec celle de la Charte;&lt;br/&gt;b) protéger la vie privée et la sécurité des plaignants et des témoins dans les instances concernant certaines infractions sexuelles et veiller à ce qu'ils soient informés de leur droit d'être représentés par un conseiller juridique;&lt;br/&gt;c) ajouter des actes auxquels l'infraction d'intimidation des personnes associées au système judiciaire s'applique;&lt;br/&gt;d) ajouter à la liste des facteurs pouvant être pris en considération par le tribunal pour décider si une ordonnance d'exclusion est dans l'intérêt de la bonne administration de la justice;&lt;br/&gt;e) rendre plus facilement accessibles aux témoins vulnérables les dispositions visant à aider les personnes à témoigner;&lt;br/&gt;f) autoriser les témoignages à l'aide d'un pseudonyme lorsque les circonstances s'y prêtent;&lt;br/&gt;g) rendre obligatoires, sur demande, les ordonnances d'interdiction de publication pour les victimes âgées de moins de dix-huit ans;&lt;br/&gt;h) veiller à ce que les ordonnances de mise en liberté provisoire mentionnent que la sécurité des victimes d'une infraction a été prise en considération;&lt;br/&gt;i) obliger le tribunal à se renseigner auprès du poursuivant pour savoir si des mesures raisonnables ont été prises pour informer les victimes de la conclusion d'un accord entre l'accusé et le poursuivant dans certaines circonstances;&lt;br/&gt;j) prévoir des formulaires de déclaration pour aider les victimes à donner leur point de vue lors des procédures relatives à la détermination de la peine ou des audiences tenues par les commissions d'examen;&lt;br/&gt;k) prévoir que la reconnaissance du tort causé aux victimes et à la collectivité soit un objectif de la détermination de la peine;&lt;br/&gt;l) apporter des précisions aux dispositions relatives aux déclarations des victimes;&lt;br/&gt;m) permettre que les déclarations au nom d'une collectivité soient prises en considération pour toutes les infractions;&lt;br/&gt;n) prévoir que les victimes peuvent demander une copie des ordonnances de mise en liberté provisoire, de probation ou de sursis;&lt;br/&gt;o) préciser que la suramende compensatoire pour les victimes doit être payée dans un délai raisonnable fixé par le lieutenant-gouverneur de la province où elle est imposée;&lt;br/&gt;p) prévoir un formulaire pour présenter une demande pour obtenir une ordonnance de dédommagement;&lt;br/&gt;q) prévoir que le tribunal envisage systématiquement la possibilité de rendre une ordonnance de dédommagement et, dans les cas où il y a plusieurs victimes, que l'ordonnance peut préciser la somme à verser à chacune et l'ordre de priorité selon lequel elles seront payées.&lt;br/&gt;Le texte modifie la Loi sur la preuve au Canada afin de préciser qu'une personne n'est pas inhabile à témoigner ni non contraignable pour le poursuivant pour la seule raison qu'elle est mariée à l'accusé et d'ajouter un nouveau paragraphe qui traite de l'interrogatoire des témoins âgés de plus de quatorze ans dans certaines circonstances.&lt;br/&gt;Le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition aux fins suivantes :&lt;br/&gt;a) harmoniser la définition de « victime » avec celle de la Charte;&lt;br/&gt;b) permettre aux victimes d'avoir accès à des renseignements sur les progrès accomplis par le délinquant dans son plan correctionnel;&lt;br/&gt;c) permettre aux victimes de voir une photographie du délinquant prise au moment de sa mise en liberté sous condition ou de l'expiration de sa peine;&lt;br/&gt;d) autoriser la communication aux victimes de renseignements portant sur l'expulsion du délinquant avant la fin de sa peine;&lt;br/&gt;e) autoriser la communication aux victimes de la date et des conditions de la mise en liberté du délinquant et de sa destination, sauf si la communication avait une incidence négative sur la sécurité publique;&lt;br/&gt;f) permettre aux victimes de désigner un représentant pour recevoir des renseignements sous le régime de la loi et de renoncer à leur droit d'être informées;&lt;br/&gt;g) obliger le Service correctionnel du Canada à informer les victimes de ses services de médiation entre les victimes et les délinquants;&lt;br/&gt;h) permettre aux victimes qui n'assistent pas à une audience de libération conditionnelle de pouvoir écouter l'enregistrement sonore de cette audience;&lt;br/&gt;i) prévoir la remise aux victimes des décisions de la Commission des libérations conditionnelles du Canada relatives au délinquant;&lt;br/&gt;j) dans le cas où la victime a fourni une déclaration à l'égard des dommages ou des pertes qu'elle a subis par suite de la perpétration d'une infraction, obliger la Commission des libérations conditionnelles du Canada à imposer, lorsque cela est raisonnable et nécessaire, des interdictions de communication avec les victimes ou des restrictions géographiques comme conditions de mise en liberté afin de protéger la victime d'un délinquant faisant l'objet d'une ordonnance de surveillance de longue durée.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 3 April 2014, the Minister of Justice and Attorney General of introduced Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts (Victims Bill of Rights Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-32 enacts the Canadian Victims Bill of Rights, which specifies that victims of crime have the following rights:&lt;br/&gt;(a) the right to information about the criminal justice system, the programs and services that are available to victims of crime and the complaint procedures that are available to them when their rights have been infringed or denied;&lt;br/&gt;(b) the right to information about the status of the investigation and the criminal proceedings, as well as information about reviews while the offender is subject to the corrections process, or about hearings after the accused is found not criminally responsible on account of mental disorder or unfit to stand trial, and information about the decisions made at those reviews and hearings;&lt;br/&gt;(c) the right to have their security and privacy considered by the appropriate authorities in the criminal justice system;&lt;br/&gt;(d) the right to protection from intimidation and retaliation;&lt;br/&gt;(e) the right to request testimonial aids;&lt;br/&gt;(f) the right to convey their views about decisions to be made by authorities in the criminal justice system that affect the victim's rights under this Act and to have those views considered;&lt;br/&gt;(g) the right to present a victim impact statement and to have it considered;&lt;br/&gt;(h) the right to have the courts consider making, in all cases, a restitution order against the offender; and&lt;br/&gt;(i) the right to have a restitution order entered as a civil court judgment that is enforceable against the offender if the amount owing under the restitution order is not paid.&lt;br/&gt;The Canadian Victims Bill of Rights also specifies&lt;br/&gt;(a) the periods during which the rights apply;&lt;br/&gt;(b) the individuals who may exercise the rights;&lt;br/&gt;(c) the complaint mechanism for victims and the requirements for federal departments to create complaint mechanisms; and&lt;br/&gt;(d) how the Canadian Victims Bill of Rights is to be interpreted.&lt;br/&gt;This enactment amends the Criminal Code to&lt;br/&gt;(a) align the definition of "victim" with the definition of "victim" in the Canadian Victims Bill of Rights;&lt;br/&gt;(b) protect the privacy and security interests of complainants and witnesses in proceedings involving certain sexual offences and ensure that they are informed of their right to be represented by legal counsel;&lt;br/&gt;(c) broaden the conduct to which the offence of intimidation of justice system participants applies;&lt;br/&gt;(d) expand the list of factors that a court may take into consideration when determining whether an exclusion order is in the interest of the proper administration of justice;&lt;br/&gt;(e) make testimonial aids more accessible to vulnerable witnesses;&lt;br/&gt;(f) enable witnesses to testify using a pseudonym in appropriate cases;&lt;br/&gt;(g) make publication bans for victims under the age of 18 mandatory on application;&lt;br/&gt;(h) provide that an order for judicial interim release must indicate that the safety and security of every victim was taken into consideration;&lt;br/&gt;(i) require the court to inquire of the prosecutor if reasonable steps have been taken to inform the victims of any plea agreement entered into by the accused and the prosecutor in certain circumstances;&lt;br/&gt;(j) add victim impact statement forms to assist victims to convey their views at sentencing proceedings and at hearings held by Review Boards;&lt;br/&gt;(k) provide that the acknowledgment of the harm done to the victims and to the community is a sentencing objective;&lt;br/&gt;(l) clarify the provisions relating to victim impact statements;&lt;br/&gt;(m) allow for community impact statements to be considered for all offences;&lt;br/&gt;(n) provide that victims may request a copy of a judicial interim release order, probation order or a conditional sentence order;&lt;br/&gt;(o) specify that the victim surcharge must be paid within the reasonable time established by the lieutenant governor of the province in which it is imposed;&lt;br/&gt;(p) provide a form for requesting a restitution order; and&lt;br/&gt;(q) provide that courts must consider the making of a restitution order in all cases, and that, in multiple victim cases, a restitution order may specify the amounts owed to each victim and designate the priority of payment among the victims.&lt;br/&gt;The enactment amends the Canada Evidence Act to provide that no person is incompetent, or uncompellable, to testify for the prosecution by reason only that they are married to the accused. It also amends that Act to add a new subsection to govern the questioning of witnesses over the age of 14 years in certain circumstances.&lt;br/&gt;This enactment amends the Corrections and Conditional Release Act to&lt;br/&gt;(a) align the definition of "victim" with the definition of "victim" in the Canadian Victims Bill of Rights;&lt;br/&gt;(b) permit victims to have access to information about the offender's progress in relation to the offender's correctional plan;&lt;br/&gt;(c) permit victims to be shown a current photograph of the offender at the time of the offender's conditional release or the expiration of the offender's sentence;&lt;br/&gt;(d) permit the disclosure of information to victims concerning an offender's deportation before the expiration of the offender's sentence;&lt;br/&gt;(e) permit the disclosure to victims of an offender's release date, destination and conditions of release, unless the disclosure would have a negative impact on public safety;&lt;br/&gt;(f) allow victims to designate a representative to receive information under the Act and to waive their right to information under the Act;&lt;br/&gt;(g) require that the Correctional Service of Canada inform victims about its victim-offender mediation services;&lt;br/&gt;(h) permit victims who do not attend a parole hearing to listen to an audio recording of the hearing;&lt;br/&gt;(i) provide for the provision to victims of decisions of the Parole Board of Canada regarding the offender; and&lt;br/&gt;(j) require, when victims have provided a statement describing the harm, property damage or loss suffered by them as the result of the commission of an offence, that the Parole Board of Canada impose victim non-contact or geographic restrictions as conditions of release, where reasonable and necessary, to protect the victims in relation to an offender who is the subject of a long-term supervision order.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2015</StatuteYear>
+    <StatuteChapter>13</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-04-03T10:05:01</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>68</Number>
+          <Date>2014-04-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2014-04-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2014-04-03T10:05:01</EventStartDateTime>
+          <EventEndDateTime>2014-04-03T10:05:01</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-04-03T10:05:01</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-06-20T12:04:06</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>8429028</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>72</Number>
+          <Date>2014-04-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>90</Number>
+          <Date>2014-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>95</Number>
+          <Date>2014-06-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>98</Number>
+          <Date>2014-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>103</Number>
+          <Date>2014-06-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>108</Number>
+          <Date>2014-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8428996</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6508720</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - JUST</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - JUST</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - JUST</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2014-06-20T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>108</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2014-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2014-06-20T12:04:06</EventStartDateTime>
+          <EventEndDateTime>2014-06-20T12:04:06</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-06-20T12:04:06</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8311357</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>82</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>MacKay</PersonOfficialLastName>
+          <PersonMiddleName>Gordon</PersonMiddleName>
+          <PersonName>Peter Gordon MacKay</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>72</MeetingNumber>
+          <SpeechDateTime>2014-04-09T16:06:58</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8311828</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25478</PersonId>
+          <PersonOfficialFirstName>Françoise</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boivin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Françoise Boivin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>72</MeetingNumber>
+          <SpeechDateTime>2014-04-09T16:37:25</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8312054</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1785</PersonId>
+          <PersonOfficialFirstName>Irwin</PersonOfficialFirstName>
+          <PersonOfficialLastName>Cotler</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Irwin Cotler</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>72</MeetingNumber>
+          <SpeechDateTime>2014-04-09T17:07:13</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-12-03T10:40:21</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>8429028</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>154</Number>
+          <Date>2014-12-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2014-10-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2014-10-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2014-10-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2014-10-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2014-11-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2014-11-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>52</Number>
+          <Date>2014-11-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>54</Number>
+          <Date>2014-11-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20184</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>56</Number>
+          <Date>2014-12-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2014-12-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>6787554</CommitteeReportId>
+          <CommitteeReportNumber>10</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-12-03T10:40:21</EventStartDateTime>
+          <EventEndDateTime>2014-12-03T10:40:21</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-12-03T10:40:21</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-02-04T18:25:12</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>159</Number>
+          <Date>2014-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>160</Number>
+          <Date>2014-12-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>169</Number>
+          <Date>2015-02-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2015-02-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2015-02-04T18:25:12</EventStartDateTime>
+          <EventEndDateTime>2015-02-04T18:25:12</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-02-04T18:25:12</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-02-23T18:50:11</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>176</Number>
+          <Date>2015-02-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>177</Number>
+          <Date>2015-02-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8588874</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6508722</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>339</DivisionNumber>
+          <DivisionVotesYeas>263</DivisionVotesYeas>
+          <DivisionVotesNays>0</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2015-02-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>177</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2015-02-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2015-02-23T18:50:11</EventStartDateTime>
+          <EventEndDateTime>2015-02-23T18:50:11</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-02-23T18:50:11</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-02-24T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>120</Number>
+          <Date>2015-02-24T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2015-02-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2015-02-24T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-02-24T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-02-24T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-03-24T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>122</Number>
+          <Date>2015-02-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>126</Number>
+          <Date>2015-03-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2015-03-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2015-03-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2015-03-24T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-03-24T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-03-24T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>64770</PersonId>
+          <PersonOfficialFirstName>Pierre-Hugues</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boisvenu</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre-Hugues Boisvenu</PersonName>
+          <SenateSystemAffiliationId>2865</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>122</MeetingNumber>
+          <SpeechDateTime>2015-02-26T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/122db_2015-02-26-e#25</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/122db_2015-02-26-f#25</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/122db_2015-02-26-e#25</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1858</PersonId>
+          <PersonOfficialFirstName>Joan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Fraser</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Joan Fraser</PersonName>
+          <SenateSystemAffiliationId>142</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>126</MeetingNumber>
+          <SpeechDateTime>2015-03-24T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/126db_2015-03-24-e#43</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/126db_2015-03-24-f#43</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/126db_2015-03-24-e#43</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2015-04-02T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>132</Number>
+          <Date>2015-04-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>64</Number>
+          <Date>2015-03-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>65</Number>
+          <Date>2015-03-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>66</Number>
+          <Date>2015-04-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>67</Number>
+          <Date>2015-04-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2015-04-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2015-04-02T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-04-02T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-04-02T10:31:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-04-22T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>133</Number>
+          <Date>2015-04-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>134</Number>
+          <Date>2015-04-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2015-04-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2015-04-22T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-04-22T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-04-22T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>135</Number>
+          <Date>2015-04-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2015-04-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2015-04-23T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-04-23T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-04-23T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6510370</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6815638</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>7850450</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>7935412</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>220</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-32, Loi édictant la Charte canadienne des droits des victimes et modifiant certaines lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubject>
+      <DivisionVotesYeas>137</DivisionVotesYeas>
+      <DivisionVotesNays>105</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>242</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2014-06-18T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>321</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-32, Loi édictant la Charte canadienne des droits des victimes et modifiant certaines lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubject>
+      <DivisionVotesYeas>141</DivisionVotesYeas>
+      <DivisionVotesNays>115</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>256</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-02-04T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>322</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-32, Loi édictant la Charte canadienne des droits des victimes et modifiant certaines lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubject>
+      <DivisionVotesYeas>273</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-02-04T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>339</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-32, Loi édictant la Charte canadienne des droits des victimes et modifiant certaines lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-32, An Act to enact the Canadian Victims Bill of Rights and to amend certain Acts</DivisionSubject>
+      <DivisionVotesYeas>263</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>263</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-02-23T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Enhancing victims' rights : Canada's Federal Ombudsman for Victims of Crime Reacts to Victims Bill of Rights (Office of the Federal Ombudsman for Victims of Crime)</TitleEn>
+      <TitleFr>Renforcer les droits des victimes: L'ombudsman fédérale des victimes d'actes criminels répond à la Charte canadienne des droits des victimes (Bureau de l'ombudsman fédéral des victimes d'actes criminels)</TitleFr>
+      <Title>Enhancing victims' rights : Canada's Federal Ombudsman for Victims of Crime Reacts to Victims Bill of Rights (Office of the Federal Ombudsman for Victims of Crime)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.victimsfirst.gc.ca/media/news-nouv/nr-cp/2014/20140404.html</UrlEn>
+      <UrlFr>http://www.victimesdabord.gc.ca/media/nouv-news/cp-nr/2014/20140404.html</UrlFr>
+      <Url>http://www.victimsfirst.gc.ca/media/news-nouv/nr-cp/2014/20140404.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Have your say : Tell us what you think of the Victims' Bill of Rights (Office of the Federal Ombudsman for Victims of Crime)</TitleEn>
+      <TitleFr>À vous la parole: Dites-nous ce que vous pensez de la Déclaration des droits des victimes (Bureau de l'ombudsman fédéral des victimes d'actes criminels)</TitleFr>
+      <Title>Have your say : Tell us what you think of the Victims' Bill of Rights (Office of the Federal Ombudsman for Victims of Crime)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.victimsfirst.gc.ca/survey-sondage.html</UrlEn>
+      <UrlFr>http://www.victimesdabord.gc.ca/sondage-survey.html</UrlFr>
+      <Url>http://www.victimsfirst.gc.ca/survey-sondage.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Victims of Crime (Parole Board of Canada)</TitleEn>
+      <TitleFr>Victimes d'actes criminels (Commission des libérations conditionnelles du Canada)</TitleFr>
+      <Title>Victims of Crime (Parole Board of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://pbc-clcc.gc.ca/victims/victims-eng.shtml</UrlEn>
+      <UrlFr>http://pbc-clcc.gc.ca/victims/victims-fra.shtml</UrlFr>
+      <Url>http://pbc-clcc.gc.ca/victims/victims-eng.shtml</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>PM announces historic legislation to create a Canadian Victims Bill of Rights</TitleEn>
+      <TitleFr>Le PM annonce un projet de loi historique qui créera une Charte canadienne des droits des victimes</TitleFr>
+      <Title>PM announces historic legislation to create a Canadian Victims Bill of Rights</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.pm.gc.ca/eng/news/2014/04/03/pm-announces-historic-legislation-create-canadian-victims-bill-rights</UrlEn>
+      <UrlFr>http://www.pm.gc.ca/fra/nouvelles/2014/04/03/pm-annonce-projet-de-loi-historique-qui-creera-charte-canadienne-des-droits-des</UrlFr>
+      <Url>http://www.pm.gc.ca/eng/news/2014/04/03/pm-announces-historic-legislation-create-canadian-victims-bill-rights</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Overview of the Canadian Victims Bill of Rights</TitleEn>
+      <TitleFr>Aperçu de la Charte canadienne des droits des victimes</TitleFr>
+      <Title>Overview of the Canadian Victims Bill of Rights</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://pm.gc.ca/eng/news/2014/04/03/overview-canadian-victims-bill-rights</UrlEn>
+      <UrlFr>http://pm.gc.ca/fra/nouvelles/2014/04/03/apercu-de-la-charte-canadienne-des-droits-des-victimes</UrlFr>
+      <Url>http://pm.gc.ca/eng/news/2014/04/03/overview-canadian-victims-bill-rights</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Right to protection</TitleEn>
+      <TitleFr>Droit à la protection</TitleFr>
+      <Title>Right to protection</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://pm.gc.ca/eng/news/2014/04/03/right-protection</UrlEn>
+      <UrlFr>http://pm.gc.ca/fra/nouvelles/2014/04/03/droit-la-protection</UrlFr>
+      <Url>http://pm.gc.ca/eng/news/2014/04/03/right-protection</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Right to participation</TitleEn>
+      <TitleFr>Droit à la participation</TitleFr>
+      <Title>Right to participation</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://pm.gc.ca/eng/news/2014/04/03/right-participation</UrlEn>
+      <UrlFr>http://pm.gc.ca/fra/nouvelles/2014/04/03/droit-de-participation</UrlFr>
+      <Url>http://pm.gc.ca/eng/news/2014/04/03/right-participation</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Right to restitution</TitleEn>
+      <TitleFr>Droit au dédommagement</TitleFr>
+      <Title>Right to restitution</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://pm.gc.ca/eng/news/2014/04/03/right-restitution</UrlEn>
+      <UrlFr>http://pm.gc.ca/fra/node/35660</UrlFr>
+      <Url>http://pm.gc.ca/eng/news/2014/04/03/right-restitution</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Victim Surcharge</TitleEn>
+      <TitleFr>Suramende compensatoire</TitleFr>
+      <Title>Victim Surcharge</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://pm.gc.ca/eng/news/2014/04/03/victim-surcharge</UrlEn>
+      <UrlFr>http://pm.gc.ca/fra/nouvelles/2014/04/03/suramende-compensatoire</UrlFr>
+      <Url>http://pm.gc.ca/eng/news/2014/04/03/victim-surcharge</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2472</BibliographicNoticeId>
+      <Title>Fed's bill for victims falls short due to scant funding, critics say</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>33:1,5</VolumePage>
+      <PublicationDate>April 18, 2014</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2451</BibliographicNoticeId>
+      <Title>Spousal competency and compellability in criminal proceedings : proposals for reform</Title>
+      <Author>Bessner, Ronda</Author>
+      <Publication>Canadian criminal law review</Publication>
+      <VolumePage>18:7-37</VolumePage>
+      <PublicationDate>March 2014</PublicationDate>
+      <Classification>K3 A392</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2804</BibliographicNoticeId>
+      <Title>Looking the gift horse in the mouth : an examination of the Canadian approach to criminal restitution in cases of sexual violence</Title>
+      <Author>Lawrence, Michelle S.</Author>
+      <Publication>Canadian criminal law review</Publication>
+      <VolumePage>20(2):209-227</VolumePage>
+      <PublicationDate>March 2016</PublicationDate>
+      <Classification>99107771702616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
