@@ -1,2 +1,2 @@
-# Bill C-442: An Act respecting a National Lyme Disease Strategy
+# Bill C-442: An Act respecting a Federal Framework on Lyme Disease
 
