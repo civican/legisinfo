@@ -1,0 +1,1486 @@
+<Bills>
+  <Bill>
+    <Id>6761928</Id>
+    <NumberCode>S-7</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>7</Number>
+    <LongTitleEn>An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Zero Tolerance for Barbaric Cultural Practices Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la tolérance zéro face aux pratiques culturelles barbares</ShortTitleFr>
+    <ShortTitle>Zero Tolerance for Barbaric Cultural Practices Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2015-06-18T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>80759</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Sénat)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>2841</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>58761</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Claude</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Carignan</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Claude Carignan</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Leader of the Government in the Senate</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>leader du gouvernement au Sénat</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Leader of the Government in the Senate</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>30</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Leader of the Government in the Senate</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>leader du gouvernement au Sénat</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Leader of the Government in the Senate</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>0</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2015-06-18T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>155</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2015-01-29T10:05:03</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2015-03-23T18:15:13</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2015-06-16T17:45:29</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2014-11-05T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2014-11-27T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2014-12-16T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2015-06-18T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 5 November 2014, the Leader of the Government in the Senate introduced Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts (Zero Tolerance for Barbaric Cultural Practices Act) in the Senate and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 amends the Immigration and Refugee Protection Act to specify that a permanent resident or foreign national is inadmissible on grounds of practising polygamy in Canada.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Civil Marriage Act to provide for the legal requirements for a free and enlightened consent to marriage and for any previous marriage to be dissolved or declared null before a new marriage is contracted. Those requirements are currently provided for in the Federal Law—Civil Law Harmonization Act, No. 1 only in respect of Quebec and under the common law in the other provinces. It also amends the Civil Marriage Act to provide for the requirement of a minimum age of 16 years for marriage. This requirement is currently provided for in the Federal Law—Civil Law Harmonization Act, No. 1 only in respect of Quebec.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Criminal Code to&lt;br/&gt;(a) clarify that it is an offence for an officiant to knowingly solemnize a marriage in contravention of federal law;&lt;br/&gt;(b) provide that it is an offence to celebrate, aid or participate in a marriage rite or ceremony knowing that one of the persons being married is doing so against their will or is under the age of 16 years;&lt;br/&gt;(c) provide that it is an offence to remove a child from Canada with the intention that an act be committed outside Canada that, if it were committed in Canada, would constitute the offence of celebrating, aiding or participating in a marriage rite or ceremony knowing that the child is doing so against their will or is under the age of 16 years;&lt;br/&gt;(d) provide that a judge may order a person to enter into a recognizance with conditions to keep the peace and be of good behaviour for the purpose of preventing the person from committing an offence relating to the marriage of a person against their will or the marriage of a person under the age of 16 years or relating to the removal of a child from Canada with the intention of committing an act that, if it were committed in Canada, would be such an offence; and&lt;br/&gt;(e) provide that the defence of provocation is restricted to circumstances in which the victim engaged in conduct that would constitute an indictable offence under the Criminal Code that is punishable by five years or more in prison.&lt;br/&gt;Finally, the enactment also makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le  5 novembre 2014, le Leader du gouvernement au Sénat a déposé le projet de loi S-7, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence (Loi sur la tolérance zéro face aux pratiques culturelles barbares) dans le Sénat en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 modifie la Loi sur l'immigration et la protection des réfugiés de façon à prévoir l'interdiction de territoire d'un résident permanent ou d'un étranger pour pratique de la polygamie au Canada.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi sur le mariage civil afin d'y prévoir l'exigence légale du consentement libre et éclairé au mariage ainsi que celle de la dissolution ou de l'annulation de tout mariage antérieur avant qu'un nouveau mariage puisse être contracté. Ces deux exigences sont actuellement prévues par la Loi d'harmonisation no 1 du droit fédéral avec le droit civil, à l'égard du Québec seulement, et par la common law dans les autres provinces. Cette partie modifie en outre la Loi sur le mariage civil pour y prévoir un âge minimal pour le mariage, fixé à seize ans. Cette exigence est actuellement prévue par la Loi d'harmonisation no 1 du droit fédéral avec le droit civil, à l'égard du Québec seulement.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie le Code criminel afin : &lt;br/&gt;a) de clarifier que le fait, pour un célébrant, de célébrer sciemment un mariage en violation du droit fédéral constitue une infraction;&lt;br/&gt;b) d'ériger en infraction le fait de célébrer un rite ou une cérémonie de mariage, d'y aider ou d'y participer, sachant que l'une des personnes qui se marient le fait contre son gré ou n'a pas atteint l'âge de seize ans;&lt;br/&gt;c) de prévoir que constitue une infraction le fait de faire passer à l'étranger un enfant avec l'intention qu'y soit commis un acte qui, s'il était commis au Canada, constituerait l'infraction de célébrer un rite ou une cérémonie de mariage, d'y aider ou d'y participer, sachant que l'enfant se marie contre son gré ou est âgé de moins de seize ans;&lt;br/&gt;d) de prévoir qu'un juge peut ordonner qu'une personne contracte l'engagement, assorti de conditions, de ne pas troubler l'ordre public et d'observer une bonne conduite en vue de l'empêcher de commettre l'infraction relative au mariage d'une personne contre son gré ou d'une personne âgée de moins de seize ans ou l'infraction de faire passer à l'étranger un enfant avec l'intention qu'y soit commis un acte qui, s'il était commis au Canada, constituerait l'une de ces infractions;&lt;br/&gt;e) de limiter la défense de provocation aux situations où la victime a eu une conduite qui constituerait un acte criminel prévu au Code criminel passible d'un emprisonnement de cinq ans ou plus.&lt;br/&gt;Enfin, le texte apporte des modifications corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 5 November 2014, the Leader of the Government in the Senate introduced Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts (Zero Tolerance for Barbaric Cultural Practices Act) in the Senate and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 amends the Immigration and Refugee Protection Act to specify that a permanent resident or foreign national is inadmissible on grounds of practising polygamy in Canada.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Civil Marriage Act to provide for the legal requirements for a free and enlightened consent to marriage and for any previous marriage to be dissolved or declared null before a new marriage is contracted. Those requirements are currently provided for in the Federal Law—Civil Law Harmonization Act, No. 1 only in respect of Quebec and under the common law in the other provinces. It also amends the Civil Marriage Act to provide for the requirement of a minimum age of 16 years for marriage. This requirement is currently provided for in the Federal Law—Civil Law Harmonization Act, No. 1 only in respect of Quebec.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Criminal Code to&lt;br/&gt;(a) clarify that it is an offence for an officiant to knowingly solemnize a marriage in contravention of federal law;&lt;br/&gt;(b) provide that it is an offence to celebrate, aid or participate in a marriage rite or ceremony knowing that one of the persons being married is doing so against their will or is under the age of 16 years;&lt;br/&gt;(c) provide that it is an offence to remove a child from Canada with the intention that an act be committed outside Canada that, if it were committed in Canada, would constitute the offence of celebrating, aiding or participating in a marriage rite or ceremony knowing that the child is doing so against their will or is under the age of 16 years;&lt;br/&gt;(d) provide that a judge may order a person to enter into a recognizance with conditions to keep the peace and be of good behaviour for the purpose of preventing the person from committing an offence relating to the marriage of a person against their will or the marriage of a person under the age of 16 years or relating to the removal of a child from Canada with the intention of committing an act that, if it were committed in Canada, would be such an offence; and&lt;br/&gt;(e) provide that the defence of provocation is restricted to circumstances in which the victim engaged in conduct that would constitute an indictable offence under the Criminal Code that is punishable by five years or more in prison.&lt;br/&gt;Finally, the enactment also makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2015</StatuteYear>
+    <StatuteChapter>29</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-01-29T10:05:03</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>165</Number>
+          <Date>2015-01-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2015-01-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2015-01-29T10:05:03</EventStartDateTime>
+          <EventEndDateTime>2015-01-29T10:05:03</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-01-29T10:05:03</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-03-23T18:15:13</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+          <StudyActivityId>8619753</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>173</Number>
+          <Date>2015-02-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>185</Number>
+          <Date>2015-03-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>187</Number>
+          <Date>2015-03-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8619355</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6844716</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - CIMM</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - CIMM</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - CIMM</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2015-03-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>187</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2015-03-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2015-03-23T18:15:13</EventStartDateTime>
+          <EventEndDateTime>2015-03-23T18:15:13</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-03-23T18:15:13</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8579239</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>71576</PersonId>
+          <PersonOfficialFirstName>Chris</PersonOfficialFirstName>
+          <PersonOfficialLastName>Alexander</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Chris Alexander</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>173</MeetingNumber>
+          <SpeechDateTime>2015-02-17T10:17:08</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8579417</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71490</PersonId>
+          <PersonOfficialFirstName>Lysane</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blanchette-Lamothe</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lysane Blanchette-Lamothe</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>173</MeetingNumber>
+          <SpeechDateTime>2015-02-17T10:47:06</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8579697</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1817</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>McCallum</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John McCallum</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>173</MeetingNumber>
+          <SpeechDateTime>2015-02-17T11:19:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2015-05-13T13:57:39</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+          <StudyActivityId>8619753</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without an amendment</Name>
+          <Number>213</Number>
+          <Date>2015-05-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2015-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2015-04-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2015-04-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2015-05-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2015-05-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20174</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Citizenship and Immigration</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la citoyenneté et de l'immigration</CommitteeNameFr>
+          <CommitteeAcronym>CIMM</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2015-05-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Citizenship and Immigration</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without an amendment</EventName>
+          <EventDateTime>2015-05-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>7973504</CommitteeReportId>
+          <CommitteeReportNumber>5</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2015-05-13T13:57:39</EventStartDateTime>
+          <EventEndDateTime>2015-05-13T13:57:39</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-13T13:57:39</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-06-15T19:30:26</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>219</Number>
+          <Date>2015-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>230</Number>
+          <Date>2015-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>231</Number>
+          <Date>2015-06-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2015-06-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2015-06-15T19:30:26</EventStartDateTime>
+          <EventEndDateTime>2015-06-15T19:30:26</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-06-15T19:30:26</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-06-16T17:45:29</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>232</Number>
+          <Date>2015-06-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8753222</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6844718</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>456</DivisionNumber>
+          <DivisionVotesYeas>185</DivisionVotesYeas>
+          <DivisionVotesNays>86</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2015-06-16T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>232</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2015-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2015-06-16T17:45:29</EventStartDateTime>
+          <EventEndDateTime>2015-06-16T17:45:29</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-06-16T17:45:29</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-11-05T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>93</Number>
+          <Date>2014-11-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2014-11-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2014-11-05T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-11-05T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-11-05T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-11-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>95</Number>
+          <Date>2014-11-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>99</Number>
+          <Date>2014-11-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>100</Number>
+          <Date>2014-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2014-11-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2014-11-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2014-11-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-11-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-11-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>58945</PersonId>
+          <PersonOfficialFirstName>Salma</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ataullahjan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Salma Ataullahjan</PersonName>
+          <SenateSystemAffiliationId>2869</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2014-11-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/095db_2014-11-18-e#18</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/095db_2014-11-18-f#18</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/095db_2014-11-18-e#18</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1415</PersonId>
+          <PersonOfficialFirstName>Mobina S.B.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Jaffer</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mobina S.B. Jaffer</PersonName>
+          <SenateSystemAffiliationId>168</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>99</MeetingNumber>
+          <SpeechDateTime>2014-11-26T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/099db_2014-11-26-e#31</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/099db_2014-11-26-f#31</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/099db_2014-11-26-e#31</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2014-12-11T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>107</Number>
+          <Date>2014-12-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2014-12-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2014-12-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16088</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>RIDR</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2014-12-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2014-12-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2014-12-11T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-12-11T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-12-11T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2014-12-16T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>108</Number>
+          <Date>2014-12-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>109</Number>
+          <Date>2014-12-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>110</Number>
+          <Date>2014-12-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2014-12-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2014-12-16T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2014-12-16T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2014-12-16T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>155</Number>
+          <Date>2015-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2015-06-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2015-06-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-06-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-06-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6761929</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>6836396</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the Senate</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par le Sénat</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the Senate</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8057595</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>352</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi S-7, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>134</DivisionVotesYeas>
+      <DivisionVotesNays>109</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>243</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-03-12T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>435</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi S-7, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>138</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>254</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-06-09T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>454</DivisionNumber>
+      <DivisionSubjectEn>Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi S-7, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>115</DivisionVotesYeas>
+      <DivisionVotesNays>151</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>266</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2015-06-15T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>455</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi S-7, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>182</DivisionVotesYeas>
+      <DivisionVotesNays>84</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>266</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-06-15T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>456</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi S-7, Loi modifiant la Loi sur l'immigration et la protection des réfugiés, la Loi sur le mariage civil, le Code criminel et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill S-7, An Act to amend the Immigration and Refugee Protection Act, the Civil Marriage Act and the Criminal Code and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>185</DivisionVotesYeas>
+      <DivisionVotesNays>86</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>271</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-06-16T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Protecting Canadians from Barbaric Cultural Practices</TitleEn>
+      <TitleFr>Protéger les Canadiens contre les pratiques culturelles barbares</TitleFr>
+      <Title>Protecting Canadians from Barbaric Cultural Practices</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=tp&amp;crtr.page=2&amp;nid=900399&amp;crtr.tp1D=1&amp;_ga=1.19806011.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=tp&amp;crtr.page=2&amp;nid=900399&amp;crtr.tp1D=1&amp;_ga=1.19806011.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=tp&amp;crtr.page=2&amp;nid=900399&amp;crtr.tp1D=1&amp;_ga=1.19806011.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Zero Tolerance for Barbaric Cultural Practices Act: An Overview</TitleEn>
+      <TitleFr>Aperçu de la Loi sur la tolérance zéro face aux pratiques culturelles barbares</TitleFr>
+      <Title>Zero Tolerance for Barbaric Cultural Practices Act: An Overview</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=900339&amp;_ga=1.91683609.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=900339&amp;_ga=1.28849983.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=900339&amp;_ga=1.91683609.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Zero Tolerance for Barbaric Cultural Practices Act - Addressing Polygamy</TitleEn>
+      <TitleFr>Loi sur la tolérance zéro face aux pratiques culturelles barbares - S'attaquer à la polygamie</TitleFr>
+      <Title>Zero Tolerance for Barbaric Cultural Practices Act - Addressing Polygamy</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=900349&amp;_ga=1.21369656.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=900349&amp;_ga=1.89135000.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=900349&amp;_ga=1.21369656.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Key Federal Initiatives Protecting and Supporting Vulnerable Women and Girls</TitleEn>
+      <TitleFr>Principales initiatives fédérales pour la protection et le soutien des filles et des femmes vulnérables</TitleFr>
+      <Title>Key Federal Initiatives Protecting and Supporting Vulnerable Women and Girls</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=900319&amp;_ga=1.100676610.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=900319&amp;_ga=1.100014237.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=900319&amp;_ga=1.100676610.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Comparative overview of proposed changes in the Zero Tolerance for Barbaric Cultural Practices Act</TitleEn>
+      <TitleFr>Comparaison sommaire des changements proposés dans la Loi sur la tolérance zéro face aux pratiques culturelles barbares</TitleFr>
+      <Title>Comparative overview of proposed changes in the Zero Tolerance for Barbaric Cultural Practices Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=900359&amp;_ga=1.30218428.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=900359&amp;_ga=1.30218428.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=900359&amp;_ga=1.30218428.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Polygamy in Canada: Legal and Social Implications for Women and Children (Status of Women Canada, 2005)</TitleEn>
+      <TitleFr>La polygamie au Canada : conséquences juridiques et sociales pour les femmes et les enfants (Condition féminine Canada, 2005)</TitleFr>
+      <Title>Polygamy in Canada: Legal and Social Implications for Women and Children (Status of Women Canada, 2005)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://publications.gc.ca/collections/Collection/SW21-132-2005E.pdf</UrlEn>
+      <UrlFr>http://publications.gc.ca/collections/Collection/SW21-132-2005F.pdf</UrlFr>
+      <Url>http://publications.gc.ca/collections/Collection/SW21-132-2005E.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Annotated Bibliography on Comparative and International Law relating to Forced Marriage (Department of Justice Canada, 2007)</TitleEn>
+      <TitleFr>Bibliographie annotée de droit comparé et de droit international concernant le mariage forcé (Ministère de la Justice du Canada, 2007)</TitleFr>
+      <Title>Annotated Bibliography on Comparative and International Law relating to Forced Marriage (Department of Justice Canada, 2007)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/mar/pdf/mar.pdf</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/pr-rp/lf-fl/famil/mar/mar.pdf</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/mar/pdf/mar.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Report on the Practice of Forced Marriage in Canada: Interviews with Frontline Workers: Exploratory Research Conducted in Montreal and Toronto in 2008 (Department of Justice Canada, 2008)</TitleEn>
+      <TitleFr>Rapport sur la pratique des mariages forcés au Canada : entrevues avec des intervenant(e)s de première ligne :  Une recherche exploratoire menée à Montréal et à Toronto en 2008 (Ministère de la Justice du Canada, 2008)</TitleFr>
+      <Title>Report on the Practice of Forced Marriage in Canada: Interviews with Frontline Workers: Exploratory Research Conducted in Montreal and Toronto in 2008 (Department of Justice Canada, 2008)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/fm-mf/fm_eng.pdf</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/mf-fm/mf_fra.pdf</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/fm-mf/fm_eng.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Preliminary Examination of so-called "Honour Killings" in Canada (Department of Justice Canada, 2010)</TitleEn>
+      <TitleFr>Enquête préliminaire sur les crimes dits « d'honneur » au Canada (Ministère de la Justice du Canada, 2010)</TitleFr>
+      <Title>Preliminary Examination of so-called "Honour Killings" in Canada (Department of Justice Canada, 2010)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/hk-ch/hk_eng.pdf</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/ch-hk/index.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/hk-ch/hk_eng.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Who if when to marry : The incidence of forced marriage in Ontario (South Asian Legal Clinic of Ontario, 2013)</TitleEn>
+      <TitleFr>Who if when to marry : The incidence of forced marriage in Ontario (South Asian Legal Clinic of Ontario, 2013)</TitleFr>
+      <Title>Who if when to marry : The incidence of forced marriage in Ontario (South Asian Legal Clinic of Ontario, 2013)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.salc.on.ca/SALCO%20-%20Who,%20If,%20When%20to%20Marry%20%20-The%20Incidence%20of%20Forced%20Marriage%20in%20Ontario%20(Sep%202013).pdf</UrlEn>
+      <UrlFr>http://www.salc.on.ca/SALCO%20-%20Who,%20If,%20When%20to%20Marry%20%20-The%20Incidence%20of%20Forced%20Marriage%20in%20Ontario%20(Sep%202013).pdf</UrlFr>
+      <Url>http://www.salc.on.ca/SALCO%20-%20Who,%20If,%20When%20to%20Marry%20%20-The%20Incidence%20of%20Forced%20Marriage%20in%20Ontario%20(Sep%202013).pdf</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3122</BibliographicNoticeId>
+      <Title>Canada's problem with polygamy</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>425(9070)</VolumePage>
+      <PublicationDate>December 7, 2017</PublicationDate>
+      <Classification>Radar 26431993</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2723</BibliographicNoticeId>
+      <Title>Lawyers warn bill [S-7] on fast track could have unanticipated fallout</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>35:1-2</VolumePage>
+      <PublicationDate>May 22, 2015</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2657</BibliographicNoticeId>
+      <Title>Dishonour, provocation and culture: through the beholders eye?</Title>
+      <Author>Fournier, Pascale, Pascal McDougall and Anna R. Dekker</Author>
+      <Publication>Canadian Criminal Law Review</Publication>
+      <VolumePage>16(2): 161-193 (1 online resource)</VolumePage>
+      <PublicationDate>May 2012</PublicationDate>
+      <Classification>Legisinfo S-7, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
