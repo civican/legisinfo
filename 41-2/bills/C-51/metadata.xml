@@ -1,0 +1,2126 @@
+<Bills>
+  <Bill>
+    <Id>6842344</Id>
+    <NumberCode>C-51</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>51</Number>
+    <LongTitleEn>An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Anti-terrorism Act, 2015</ShortTitleEn>
+    <ShortTitleFr>Loi antiterroriste de 2015</ShortTitleFr>
+    <ShortTitle>Anti-terrorism Act, 2015</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2015-06-18T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>35389</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Steven</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Blaney</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Steven Blaney</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique et de la Protection civile</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>364</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Lévis—Bellechasse</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Lévis—Bellechasse</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Lévis—Bellechasse</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2015-06-18T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>155</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2015-01-30T12:07:53.817</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2015-02-23T18:40:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2015-05-06T18:10:46</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2015-05-07T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2015-05-14T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2015-06-09T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2015-06-18T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 30 January 2015, Minister of Public Safety and Emergency Preparedness introduced Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (Security of Canada Information Sharing Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Part 1 enacts the Security of Canada Information Sharing Act, which authorizes Government of Canada institutions to disclose information to Government of Canada institutions that have jurisdiction or responsibilities in respect of activities that undermine the security of Canada. It also makes related amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Secure Air Travel Act in order to provide a new legislative framework for identifying and responding to persons who may engage in an act that poses a threat to transportation security or who may travel by air for the purpose of committing a terrorism offence. That Act authorizes the Minister of Public Safety and Emergency Preparedness to establish a list of such persons and to direct air carriers to take any necessary actions to prevent the commission of such acts. In addition, that Act establishes powers and prohibitions governing the collection, use and disclosure of information in support of its administration and enforcement. That Act includes an administrative recourse process for listed persons who have been denied transportation in accordance with a direction from the Minister of Public Safety and Emergency Preparedness and provides appeal procedures for persons affected by any decision or action taken under that Act. That Act also specifies punishment for contraventions of listed provisions and authorizes the Minister of Transport to conduct inspections and issue compliance orders. Finally, this Part makes consequential amendments to the Aeronautics Act and the Canada Evidence Act.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Criminal Code to, with respect to recognizances to keep the peace relating to a terrorist activity or a terrorism offence, extend their duration, provide for new thresholds, authorize a judge to impose sureties and require a judge to consider whether it is desirable to include in a recognizance conditions regarding passports and specified geographic areas. With respect to all recognizances to keep the peace, the amendments also allow hearings to be conducted by video conference and orders to be transferred to a judge in a territorial division other than the one in which the order was made and increase the maximum sentences for breach of those recognizances.&lt;br/&gt;&lt;br/&gt;It further amends the Criminal Code to provide for an offence of knowingly advocating or promoting the commission of terrorism offences in general. It also provides a judge with the power to order the seizure of terrorist propaganda or, if the propaganda is in electronic form, to order the deletion of the propaganda from a computer system.&lt;br/&gt;Finally, it amends the Criminal Code to provide for the increased protection of witnesses, in particular of persons who play a role in respect of proceedings involving security information or criminal intelligence information, and makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Canadian Security Intelligence Service Act to permit the Canadian Security Intelligence Service to take, within and outside Canada, measures to reduce threats to the security of Canada, including measures that are authorized by the Federal Court. It authorizes the Federal Court to make an assistance order to give effect to a warrant issued under that Act. It also creates new reporting requirements for the Service and requires the Security Intelligence Review Committee to review the Service's performance in taking measures to reduce threats to the security of Canada.&lt;br/&gt;&lt;br/&gt;Part 5 amends Divisions 8 and 9 of Part 1 of the Immigration and Refugee Protection Act to, among other things,&lt;br/&gt;•	define obligations related to the provision of information in proceedings under that Division 9;&lt;br/&gt;•	authorize the judge, on the request of the Minister, to exempt the Minister from providing the special advocate with certain relevant information that has not been filed with the Federal Court, if the judge is satisfied that the information does not enable the person named in a certificate to be reasonably informed of the case made by the Minister, and authorize the judge to ask the special advocate to make submissions with respect to the exemption; and&lt;br/&gt;•	allow the Minister to appeal, or to apply for judicial review of, any decision requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to national security or endanger the safety of any person.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 30 janvier 2015, Ministre de la Sécurité publique et de la Protection civile a déposé le projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois (Loi sur la communication d'information ayant trait à la sécurité du Canada), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 édicte la Loi sur la communication d'information ayant trait à la sécurité du Canada, laquelle autorise les institutions fédérales à communiquer de l'information à des institutions fédérales qui sont compétentes ou qui ont des attributions à l'égard d'activités portant atteinte à la sécurité du Canada, et apporte des modifications connexes à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 2 édicte la Loi sur la sûreté des déplacements aériens qui constitue un nouveau cadre législatif en vue de l'identification des personnes qui pourraient participer à un acte qui menacerait la sûreté des transports ou qui pourraient se déplacer en aéronef dans le but de commettre une infraction de terrorisme et en vue de l'intervention à leur égard. Le ministre de la Sécurité publique et de la Protection civile est autorisé à établir une liste de telles personnes et à enjoindre aux transporteurs aériens de prendre toute mesure pour prévenir la commission de tels actes. Cette loi établit aussi les pouvoirs et les interdictions régissant la collecte, l'utilisation et la communication de renseignements afin d'assister le ministre de la Sécurité publique et de la Protection civile dans son application et son exécution. Elle prévoit un processus de recours administratif pour les personnes inscrites qui ont fait l'objet d'un refus de transport au titre d'une directive du ministre de la Sécurité publique et de la Protection civile ainsi qu'un processus d'appel pour les personnes touchées par une décision ou une mesure prise au titre de cette loi. Celle-ci prévoit en outre les peines pour les infractions aux dispositions énumérées et autorise le ministre des Transports à mener des inspections et à prendre des mesures d'exécution. De plus, elle modifie la Loi sur l'aéronautique et la Loi sur la preuve au Canada en conséquence.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie le Code criminel pour, en ce qui a trait à tout engagement de ne pas troubler l'ordre public se rapportant à une activité terroriste et à une infraction de terrorisme, prolonger sa durée, prévoir de nouveaux seuils d'application, permettre au juge d'exiger une caution et l'obliger à décider s'il est souhaitable d'assortir cet engagement de conditions relatives aux passeports et aux régions désignées. En ce qui a trait à tout engagement de ne pas troubler l'ordre public, les modifications prévoient également la possibilité de tenir des audiences par vidéoconférence et de transférer une ordonnance à un juge d'une circonscription territoriale autre que celle où elle a été rendue de même qu'une hausse des peines maximales en cas de manquement à l'engagement.&lt;br/&gt;De plus, elle modifie le Code criminel afin d'ériger en infraction le fait de sciemment préconiser ou fomenter la perpétration d'infractions de terrorisme en général. Elle prévoit en outre qu'un juge peut décerner un mandat autorisant la saisie de propagande terroriste ou, si celle-ci est sous forme électronique, ordonner sa suppression d'un ordinateur.&lt;br/&gt;Enfin, elle modifie le Code criminel afin d'améliorer la protection accordée aux témoins, particulièrement aux personnes qui jouent un rôle dans le cadre d'une instance mettant en cause des renseignements en matière de sécurité ou de criminalité, et apporte des modifications corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 4 modifie la Loi sur le Service canadien du renseignement de sécurité afin de permettre au Service canadien du renseignement de sécurité de prendre, au Canada ou à l'extérieur du Canada, des mesures pour réduire les menaces envers la sécurité du Canada, notamment des mesures autorisées par la Cour fédérale. Elle autorise la Cour fédérale à rendre des ordonnances d'assistance pour l'exécution des mandats décernés en vertu de cette loi. De plus, elle impose au Service de nouvelles obligations de faire rapport. Elle exige que le comité de surveillance des activités de renseignement de sécurité examine la façon dont le Service prend des mesures pour réduire les menaces envers la sécurité du Canada.&lt;br/&gt;&lt;br/&gt;La partie 5 modifie les sections 8 et 9 de la partie 1 de la Loi sur l'immigration et la protection des réfugiés afin, notamment :&lt;br/&gt;•	de préciser les obligations se rapportant à la fourniture de renseignements dans le cadre des instances visées à cette section 9;&lt;br/&gt;•	d'autoriser le juge, sur demande du ministre, à exempter le ministre de l'obligation de fournir à l'avocat spécial certains renseignements pertinents mais qui n'ont pas été déposés auprès de la Cour fédérale, si le juge est convaincu que ces renseignements ne permettent pas à la personne visée par le certificat d'être suffisamment informée de la thèse du ministre, ainsi que d'autoriser le juge à demander à l'avocat spécial de présenter ses observations à l'égard de cette exemption;&lt;br/&gt;•	d'autoriser le ministre à interjeter appel — ou à demander le contrôle judiciaire — de toute décision exigeant la divulgation de renseignements ou autres éléments de preuve qui porterait atteinte, selon le ministre, à la sécurité nationale ou à la sécurité d'autrui.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 30 January 2015, Minister of Public Safety and Emergency Preparedness introduced Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (Security of Canada Information Sharing Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Part 1 enacts the Security of Canada Information Sharing Act, which authorizes Government of Canada institutions to disclose information to Government of Canada institutions that have jurisdiction or responsibilities in respect of activities that undermine the security of Canada. It also makes related amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Secure Air Travel Act in order to provide a new legislative framework for identifying and responding to persons who may engage in an act that poses a threat to transportation security or who may travel by air for the purpose of committing a terrorism offence. That Act authorizes the Minister of Public Safety and Emergency Preparedness to establish a list of such persons and to direct air carriers to take any necessary actions to prevent the commission of such acts. In addition, that Act establishes powers and prohibitions governing the collection, use and disclosure of information in support of its administration and enforcement. That Act includes an administrative recourse process for listed persons who have been denied transportation in accordance with a direction from the Minister of Public Safety and Emergency Preparedness and provides appeal procedures for persons affected by any decision or action taken under that Act. That Act also specifies punishment for contraventions of listed provisions and authorizes the Minister of Transport to conduct inspections and issue compliance orders. Finally, this Part makes consequential amendments to the Aeronautics Act and the Canada Evidence Act.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Criminal Code to, with respect to recognizances to keep the peace relating to a terrorist activity or a terrorism offence, extend their duration, provide for new thresholds, authorize a judge to impose sureties and require a judge to consider whether it is desirable to include in a recognizance conditions regarding passports and specified geographic areas. With respect to all recognizances to keep the peace, the amendments also allow hearings to be conducted by video conference and orders to be transferred to a judge in a territorial division other than the one in which the order was made and increase the maximum sentences for breach of those recognizances.&lt;br/&gt;&lt;br/&gt;It further amends the Criminal Code to provide for an offence of knowingly advocating or promoting the commission of terrorism offences in general. It also provides a judge with the power to order the seizure of terrorist propaganda or, if the propaganda is in electronic form, to order the deletion of the propaganda from a computer system.&lt;br/&gt;Finally, it amends the Criminal Code to provide for the increased protection of witnesses, in particular of persons who play a role in respect of proceedings involving security information or criminal intelligence information, and makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Canadian Security Intelligence Service Act to permit the Canadian Security Intelligence Service to take, within and outside Canada, measures to reduce threats to the security of Canada, including measures that are authorized by the Federal Court. It authorizes the Federal Court to make an assistance order to give effect to a warrant issued under that Act. It also creates new reporting requirements for the Service and requires the Security Intelligence Review Committee to review the Service's performance in taking measures to reduce threats to the security of Canada.&lt;br/&gt;&lt;br/&gt;Part 5 amends Divisions 8 and 9 of Part 1 of the Immigration and Refugee Protection Act to, among other things,&lt;br/&gt;•	define obligations related to the provision of information in proceedings under that Division 9;&lt;br/&gt;•	authorize the judge, on the request of the Minister, to exempt the Minister from providing the special advocate with certain relevant information that has not been filed with the Federal Court, if the judge is satisfied that the information does not enable the person named in a certificate to be reasonably informed of the case made by the Minister, and authorize the judge to ask the special advocate to make submissions with respect to the exemption; and&lt;br/&gt;•	allow the Minister to appeal, or to apply for judicial review of, any decision requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to national security or endanger the safety of any person.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2015</StatuteYear>
+    <StatuteChapter>20</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-01-30T12:07:53.817</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>166</Number>
+          <Date>2015-01-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2015-01-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2015-01-30T12:07:53.817</EventStartDateTime>
+          <EventEndDateTime>2015-01-30T12:07:53.817</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-01-30T12:07:53.817</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-02-23T18:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>8591059</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>174</Number>
+          <Date>2015-02-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>175</Number>
+          <Date>2015-02-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>177</Number>
+          <Date>2015-02-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8588869</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6848649</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - SECU</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - SECU</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - SECU</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>338</DivisionNumber>
+          <DivisionVotesYeas>176</DivisionVotesYeas>
+          <DivisionVotesNays>87</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2015-02-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>177</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2015-02-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2015-02-23T18:40:00</EventStartDateTime>
+          <EventEndDateTime>2015-02-23T18:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-02-23T18:40:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8583180</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35389</PersonId>
+          <PersonOfficialFirstName>Steven</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blaney</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Steven Blaney</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>174</MeetingNumber>
+          <SpeechDateTime>2015-02-18T15:28:30</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8583504</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>26684</PersonId>
+          <PersonOfficialFirstName>Thomas</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mulcair</PersonOfficialLastName>
+          <PersonMiddleName>J.</PersonMiddleName>
+          <PersonName>Thomas J. Mulcair</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>174</MeetingNumber>
+          <SpeechDateTime>2015-02-18T16:00:04</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8583813</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>58733</PersonId>
+          <PersonOfficialFirstName>Justin</PersonOfficialFirstName>
+          <PersonOfficialLastName>Trudeau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Justin Trudeau</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>174</MeetingNumber>
+          <SpeechDateTime>2015-02-18T16:44:08</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2015-04-02T09:32:14</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>8591059</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>195</Number>
+          <Date>2015-04-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>53</Number>
+          <Date>2015-03-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>54</Number>
+          <Date>2015-03-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>55</Number>
+          <Date>2015-03-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>56</Number>
+          <Date>2015-03-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>57</Number>
+          <Date>2015-03-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>58</Number>
+          <Date>2015-03-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>59</Number>
+          <Date>2015-03-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>60</Number>
+          <Date>2015-03-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>61</Number>
+          <Date>2015-03-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>20193</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>62</Number>
+          <Date>2015-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2015-04-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>7905124</CommitteeReportId>
+          <CommitteeReportNumber>10</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2015-04-02T09:32:14</EventStartDateTime>
+          <EventEndDateTime>2015-04-02T09:32:14</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-04-02T09:32:14</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-05-04T18:50:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>200</Number>
+          <Date>2015-04-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>206</Number>
+          <Date>2015-05-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2015-05-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2015-05-04T18:50:00</EventStartDateTime>
+          <EventEndDateTime>2015-05-04T18:50:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-04T18:50:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-05-06T18:10:46</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>207</Number>
+          <Date>2015-05-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>208</Number>
+          <Date>2015-05-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8684027</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>6848651</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>395</DivisionNumber>
+          <DivisionVotesYeas>183</DivisionVotesYeas>
+          <DivisionVotesNays>96</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2015-05-06T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>208</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2015-05-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2015-05-06T18:10:46</EventStartDateTime>
+          <EventEndDateTime>2015-05-06T18:10:46</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-06T18:10:46</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>126</Number>
+          <Date>2015-03-24T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2015-03-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2015-04-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2015-04-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2015-04-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2015-04-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2015-05-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2015-05-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2015-03-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-26T16:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-05-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>139</Number>
+          <Date>2015-05-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2015-05-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2015-05-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-05-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-05-14T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>141</Number>
+          <Date>2015-05-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>142</Number>
+          <Date>2015-05-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2015-05-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2015-05-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2015-05-14T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-05-14T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-14T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>17249</PersonId>
+          <PersonOfficialFirstName>Bob</PersonOfficialFirstName>
+          <PersonOfficialLastName>Runciman</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bob Runciman</PersonName>
+          <SenateSystemAffiliationId>2863</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>141</MeetingNumber>
+          <SpeechDateTime>2015-05-13T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/141db_2015-05-13-e#28</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/141db_2015-05-13-f#28</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/141db_2015-05-13-e#28</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35214</PersonId>
+          <PersonOfficialFirstName>Claudette</PersonOfficialFirstName>
+          <PersonOfficialLastName>Tardif</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Claudette Tardif</PersonName>
+          <SenateSystemAffiliationId>2780</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>142</MeetingNumber>
+          <SpeechDateTime>2015-05-14T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/412/debates/142db_2015-05-14-e#43</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/412/debates/142db_2015-05-14-f#43</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/412/debates/142db_2015-05-14-e#43</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2015-05-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>144</Number>
+          <Date>2015-05-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2015-05-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>with observations</AdditionalInformationEn>
+          <AdditionalInformationFr>avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>with observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2015-05-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-05-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-05-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-06-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>145</Number>
+          <Date>2015-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>146</Number>
+          <Date>2015-06-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>147</Number>
+          <Date>2015-06-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>148</Number>
+          <Date>2015-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>149</Number>
+          <Date>2015-06-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2015-06-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2015-06-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-06-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-06-09T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>155</Number>
+          <Date>2015-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2015-06-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2015-06-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2015-06-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-06-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>6932136</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>7917897</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>7965854</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8056977</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>336</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>132</DivisionVotesYeas>
+      <DivisionVotesNays>111</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>243</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-02-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>337</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>87</DivisionVotesYeas>
+      <DivisionVotesNays>176</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>263</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2015-02-23T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>338</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>176</DivisionVotesYeas>
+      <DivisionVotesNays>87</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>263</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-02-23T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>389</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>134</DivisionVotesYeas>
+      <DivisionVotesNays>104</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>238</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-04-30T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>391</DivisionNumber>
+      <DivisionSubjectEn>Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>79</DivisionVotesYeas>
+      <DivisionVotesNays>169</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>248</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2015-05-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>392</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>169</DivisionVotesYeas>
+      <DivisionVotesNays>79</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>248</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-05-04T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>394</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>95</DivisionVotesYeas>
+      <DivisionVotesNays>183</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2015-05-06T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>395</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-51, Loi édictant la Loi sur la communication d'information ayant trait à la sécurité du Canada et la Loi sur la sûreté des déplacements aériens, modifiant le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur l'immigration et la protection des réfugiés et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-51, An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>183</DivisionVotesYeas>
+      <DivisionVotesNays>96</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>279</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2015-05-06T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>41</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <MeetingNumber>187</MeetingNumber>
+      <HansardNumber>8617807</HansardNumber>
+      <RulingStatementDateTime>2015-03-23T15:21:30</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-51: A Legal Primer.  (Clayton Ruby and Nader R. Hasan.  Canadian Centre for Policy Alternatives)</TitleEn>
+      <TitleFr>Bill C-51: A Legal Primer.  (Clayton Ruby and Nader R. Hasan.  Canadian Centre for Policy Alternatives)</TitleFr>
+      <Title>Bill C-51: A Legal Primer.  (Clayton Ruby and Nader R. Hasan.  Canadian Centre for Policy Alternatives)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.policyalternatives.ca/publications/monitor/bill-c-51-legal-primer</UrlEn>
+      <UrlFr>https://www.policyalternatives.ca/publications/monitor/bill-c-51-legal-primer</UrlFr>
+      <Url>https://www.policyalternatives.ca/publications/monitor/bill-c-51-legal-primer</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-51: the Good, the Bad…and the Truly Ugly.  (Craig Forcese, Kent Roach.  The Walrus)</TitleEn>
+      <TitleFr>Bill C-51: the Good, the Bad…and the Truly Ugly.  (Craig Forcese, Kent Roach.  The Walrus)</TitleFr>
+      <Title>Bill C-51: the Good, the Bad…and the Truly Ugly.  (Craig Forcese, Kent Roach.  The Walrus)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://thewalrus.ca/bill-c-51-the-good-the-bad-and-the-truly-ugly/</UrlEn>
+      <UrlFr>http://thewalrus.ca/bill-c-51-the-good-the-bad-and-the-truly-ugly/</UrlFr>
+      <Url>http://thewalrus.ca/bill-c-51-the-good-the-bad-and-the-truly-ugly/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Des mesures anti-terroristes qui vont trop loin (Craig Forcese, Jean Leclaire et Kent Roach. Droit-Inc.)</TitleEn>
+      <TitleFr>Des mesures anti-terroristes qui vont trop loin (Craig Forcese, Jean Leclaire et Kent Roach. Droit-Inc.)</TitleFr>
+      <Title>Des mesures anti-terroristes qui vont trop loin (Craig Forcese, Jean Leclaire et Kent Roach. Droit-Inc.)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.droit-inc.com/article14714-Des-mesures-anti-terroristes-qui-vont-trop-loin</UrlEn>
+      <UrlFr>http://www.droit-inc.com/article14714-Des-mesures-anti-terroristes-qui-vont-trop-loin</UrlFr>
+      <Url>http://www.droit-inc.com/article14714-Des-mesures-anti-terroristes-qui-vont-trop-loin</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Blaney comments on the passage of Anti-terrorism Act, 2015 by the Senate</TitleEn>
+      <TitleFr>Le ministre Blaney commente l'adoption de la Loi antiterroriste de 2015 par le Sénat</TitleFr>
+      <Title>Minister Blaney comments on the passage of Anti-terrorism Act, 2015 by the Senate</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do;jsessionid=8e40b356e5562d52d48bd08801a168135e2513aabf45b4b4708497143875ae5f.e38RbhaLb3qNe38Pc3f0?mthd=index&amp;crtr.page=1&amp;nid=986029</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=986029&amp;_ga=1.131420239.1356017961.1432149353</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do;jsessionid=8e40b356e5562d52d48bd08801a168135e2513aabf45b4b4708497143875ae5f.e38RbhaLb3qNe38Pc3f0?mthd=index&amp;crtr.page=1&amp;nid=986029</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>PM announces anti-terrorism measures to protect Canadians</TitleEn>
+      <TitleFr>Le PM annonce des mesures pour renforcer la sécurité nationale et protéger les Canadiens</TitleFr>
+      <Title>PM announces anti-terrorism measures to protect Canadians</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://www.pm.gc.ca/eng/news/2015/01/30/pm-announces-anti-terrorism-measures-protect-canadians</UrlEn>
+      <UrlFr>http://www.pm.gc.ca/fra/nouvelles/2015/01/30/pm-annonce-des-mesures-renforcer-la-securite-nationale-et-proteger-les</UrlFr>
+      <Url>http://www.pm.gc.ca/eng/news/2015/01/30/pm-announces-anti-terrorism-measures-protect-canadians</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Criminalizing the Advocacy or Promotion of Terrorism Offences in General</TitleEn>
+      <TitleFr>Criminalisation de la préconisation ou de la fomentation d'actes de terrorisme en général</TitleFr>
+      <Title>Criminalizing the Advocacy or Promotion of Terrorism Offences in General</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926049&amp;_ga=1.92265369.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926049&amp;_ga=1.92265369.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926049&amp;_ga=1.92265369.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Seizure of Terrorist Propaganda</TitleEn>
+      <TitleFr>Saisie de propagande terroriste</TitleFr>
+      <Title>Seizure of Terrorist Propaganda</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926039&amp;_ga=1.84932506.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926039&amp;_ga=1.53885099.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926039&amp;_ga=1.84932506.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Strengthening Prevention Powers</TitleEn>
+      <TitleFr>Renforcer les pouvoirs de prévention</TitleFr>
+      <Title>Strengthening Prevention Powers</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926009&amp;_ga=1.100545693.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926009&amp;_ga=1.63755308.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926009&amp;_ga=1.100545693.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Security of Canada Information Sharing Act</TitleEn>
+      <TitleFr>Loi sur la sécurité de l'échange de renseignements au Canada</TitleFr>
+      <Title>Security of Canada Information Sharing Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926879&amp;_ga=1.53885867.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926879&amp;_ga=1.53885867.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926879&amp;_ga=1.53885867.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amending the Canadian Security Intelligence Service Act to give CSIS the mandate to intervene to disrupt terror plots while they are in the planning stages</TitleEn>
+      <TitleFr>Modification de la Loi sur le Service canadien du renseignement de sécurité visant à accorder au SCRS le mandat d'intervenir afin de perturber les complots terroristes pendant qu'ils sont au stade de la planification</TitleFr>
+      <Title>Amending the Canadian Security Intelligence Service Act to give CSIS the mandate to intervene to disrupt terror plots while they are in the planning stages</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926869&amp;_ga=1.88019739.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926869&amp;_ga=1.63387436.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926869&amp;_ga=1.88019739.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Passenger Protect Program</TitleEn>
+      <TitleFr>Programme de protection des passagers</TitleFr>
+      <Title>Passenger Protect Program</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926839&amp;_ga=1.32915389.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926839&amp;_ga=1.32915389.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926839&amp;_ga=1.32915389.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Division 9 of the Immigration and Refugee Protection Act</TitleEn>
+      <TitleFr>Section 9 de la Loi sur l'immigration et la protection des réfugiés</TitleFr>
+      <Title>Division 9 of the Immigration and Refugee Protection Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=926859&amp;_ga=1.99938333.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=926859&amp;_ga=1.252655626.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=926859&amp;_ga=1.99938333.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Witness Protection</TitleEn>
+      <TitleFr>Protection des témoins</TitleFr>
+      <Title>Witness Protection</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=925979&amp;_ga=1.92608286.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=925979&amp;_ga=1.97008668.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=925979&amp;_ga=1.92608286.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government welcomes the Royal Assent of the Anti-terrorism Act, 2015</TitleEn>
+      <TitleFr>Le gouvernement Harper souligne que la Loi antiterroriste de 2015 a reçu la sanction royale</TitleFr>
+      <Title>Harper Government welcomes the Royal Assent of the Anti-terrorism Act, 2015</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=2&amp;nid=988629</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=2&amp;nid=988629&amp;_ga=1.3724085.481883208.1434460321</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=2&amp;nid=988629</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cyber-security [Briefing]: The terrorist in the data. Economist 417 (8966): 19-21, November 28, 2015.</TitleEn>
+      <TitleFr>Cyber-security [Briefing]: The terrorist in the data. Economist 417 (8966): 19-21, November 28, 2015.</TitleFr>
+      <Title>Cyber-security [Briefing]: The terrorist in the data. Economist 417 (8966): 19-21, November 28, 2015.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://crs.parl.gc.ca/ContentProxy/Document.aspx?Objectid=16091131</UrlEn>
+      <UrlFr>http://crs.parl.gc.ca/ContentProxy/Document.aspx?Objectid=16091131</UrlFr>
+      <Url>http://crs.parl.gc.ca/ContentProxy/Document.aspx?Objectid=16091131</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2667</BibliographicNoticeId>
+      <Title>2014 public report on the terrorist threat to Canada</Title>
+      <Author>Ottawa, Ontario: Public Safety Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>HV6433 C2 A12</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2668</BibliographicNoticeId>
+      <Title>Rapport public de 2014 sur la menace terroriste pour le Canada</Title>
+      <Author>Ottawa, Ontario : Sécurité publique Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2669</BibliographicNoticeId>
+      <Title>The use of the Internet for terrorist purposes</Title>
+      <Author>New York:  United Nations Office on Drugs and Crime</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>142 p. (1 PDF file)</VolumePage>
+      <PublicationDate>2012</PublicationDate>
+      <Classification>HV6431 U54</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2670</BibliographicNoticeId>
+      <Title>Counter-terrorism legal training curriculum. Module 4, Human rights and criminal justice responses to terrorism</Title>
+      <Author>New York : United Nations Office on Drugs and Crime</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>220 p .(1 online resource)</VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>Legisinfo C-51, 41-2</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2671</BibliographicNoticeId>
+      <Title>Programme de formation juridique contre le terrorisme. Module 4, Les droits de l'homme et les réponses de la justice pénale au terrorisme</Title>
+      <Author>New York : Office des Nations Unies contre la drogue et le crime</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>220 p. (1 ressource en ligne)</VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>Legisinfo C-51, 41-2</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2685</BibliographicNoticeId>
+      <Title>Canada's anti-terrorism bill : let feardom ring</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>414:XXX</VolumePage>
+      <PublicationDate>Mar. 21, 2015</PublicationDate>
+      <Classification>: HG11 E26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2703</BibliographicNoticeId>
+      <Title>C-51 : an analysis without the hype or hysteria</Title>
+      <Author>Newark, Scott</Author>
+      <Publication>Inside policy : the magazine of the Macdonald-Laurier Institute</Publication>
+      <VolumePage>1:11-15</VolumePage>
+      <PublicationDate>Apr. 2015</PublicationDate>
+      <Classification>Intranet</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2721</BibliographicNoticeId>
+      <Title>American lessons for Bill C-51</Title>
+      <Author>Penney, Jon</Author>
+      <Publication>Policy options</Publication>
+      <VolumePage>36(3):36-9</VolumePage>
+      <PublicationDate>May/June 2015</PublicationDate>
+      <Classification>JL1 P64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2719</BibliographicNoticeId>
+      <Title>Stop the spying, says [Kitchenuhmaykoosib] chief</Title>
+      <Author>Narine, Shari</Author>
+      <Publication>Windspeaker</Publication>
+      <VolumePage>33(2):6</VolumePage>
+      <PublicationDate>May 2015</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2768</BibliographicNoticeId>
+      <Title>Chief justice shows where line is drawn</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>35:1</VolumePage>
+      <PublicationDate>July 3</PublicationDate>
+      <Classification>K12 A969</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2750</BibliographicNoticeId>
+      <Title>Intelligence agencies : spies and lies</Title>
+      <Author>
+      </Author>
+      <Publication>Economist 415</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>June 20, 2015</PublicationDate>
+      <Classification>HG11 E26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2789</BibliographicNoticeId>
+      <Title>Justice minister's blogs reveal her views on major legal issues : sun appears to be setting on Harper's 'tough on crime' agenda</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers Weekly</Publication>
+      <VolumePage>35(27):1, 2</VolumePage>
+      <PublicationDate>2015</PublicationDate>
+      <Classification>9991555202616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2790</BibliographicNoticeId>
+      <Title>Tall order for vet [Ralph] Goodale in revamping bill</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Lawyers Weekly</Publication>
+      <VolumePage>35(27):1, 5</VolumePage>
+      <PublicationDate>November 20, 2015</PublicationDate>
+      <Classification>9991551902616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2791</BibliographicNoticeId>
+      <Title>Numérique : les failles de la loi sur le renseignement [en France]</Title>
+      <Author>Castelluccia, Claude et Daniel Le Métayer</Author>
+      <Publication>La Recherche</Publication>
+      <VolumePage>505:61-5</VolumePage>
+      <PublicationDate>2015</PublicationDate>
+      <Classification>9991553802616</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2830</BibliographicNoticeId>
+      <Title>Bill C-51 : a threat to the rule of law?</Title>
+      <Author>Ryan Patrick Alford</Author>
+      <Publication>National journal of constitutional law</Publication>
+      <VolumePage>36(1):113-139</VolumePage>
+      <PublicationDate>July 2016</PublicationDate>
+      <Classification>Radar 21311774</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2802</BibliographicNoticeId>
+      <Title>The state of surveillance</Title>
+      <Author>de Grandpré, Hugo</Author>
+      <Publication>National</Publication>
+      <VolumePage>24(3):10-18</VolumePage>
+      <PublicationDate>Summer 2015</PublicationDate>
+      <Classification>99104382802616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2803</BibliographicNoticeId>
+      <Title>L'État de surveillance</Title>
+      <Author>de Grandpré</Author>
+      <Publication>National</Publication>
+      <VolumePage>24(3):10-18</VolumePage>
+      <PublicationDate>Été 2015</PublicationDate>
+      <Classification>99104382702616</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2796</BibliographicNoticeId>
+      <Title>Of warrants and watchers : the snoopers' charter</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>(418)8973:50-1</VolumePage>
+      <PublicationDate>January 23, 2016</PublicationDate>
+      <Classification>9996578702616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2797</BibliographicNoticeId>
+      <Title>Secrecy, security and digital literacy in an era of meta-data : why the Canadian Westminster model falls short</Title>
+      <Author>Roy, Jeffrey</Author>
+      <Publication>Intelligence and national security</Publication>
+      <VolumePage>31(1):95-117</VolumePage>
+      <PublicationDate>2016</PublicationDate>
+      <Classification>9996569702616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2793</BibliographicNoticeId>
+      <Title>Criminalizing terrorist babble : Canada's dubious new terrorist speech crime</Title>
+      <Author>Forcese, Craig and Kent Roach</Author>
+      <Publication>Alberta Law Review</Publication>
+      <VolumePage>53(1):35-84</VolumePage>
+      <PublicationDate>October 2015</PublicationDate>
+      <Classification>9995284002616</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2877</BibliographicNoticeId>
+      <Title>Judge rips CSIS over data cache</Title>
+      <Author>Cristin Schmitz</Author>
+      <Publication>Lawyers weekly</Publication>
+      <VolumePage>36(27):1,2</VolumePage>
+      <PublicationDate>November 18, 2016</PublicationDate>
+      <Classification>Radar 22284632</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2980</BibliographicNoticeId>
+      <Title>No evidence? : no problem</Title>
+      <Author>Matthew Behrens</Author>
+      <Publication>CCPA monitor</Publication>
+      <VolumePage>23(6):37-40</VolumePage>
+      <PublicationDate>March/April 2017</PublicationDate>
+      <Classification>Radar 23594258</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2990</BibliographicNoticeId>
+      <Title>Editorial - Repealing C-51's problematic aspects is not enough</Title>
+      <Author>Kent Roach</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>64 (1&amp;2):1-4</VolumePage>
+      <PublicationDate>March 2017</PublicationDate>
+      <Classification>Radar 23993606</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2991</BibliographicNoticeId>
+      <Title>The new threat threshold</Title>
+      <Author>Kyle Curlew</Author>
+      <Publication>Briarpatch</Publication>
+      <VolumePage>45(5):4-7</VolumePage>
+      <PublicationDate>March/April 2017</PublicationDate>
+      <Classification>Radar 23831766</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2992</BibliographicNoticeId>
+      <Title>Parliamentary and judicial implications of Americanizing Canada's counter-terrorism initiatives</Title>
+      <Author>Amanda DiPaolo and Jamie Gillies</Author>
+      <Publication>Journal of parliamentary and political law</Publication>
+      <VolumePage>11(1):21-39</VolumePage>
+      <PublicationDate>March 2017</PublicationDate>
+      <Classification>Radar 24015813</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2944</BibliographicNoticeId>
+      <Title>Blanket securty</Title>
+      <Author>Kent Roach and Craig Forcese</Author>
+      <Publication>Literary review of Canada</Publication>
+      <VolumePage>24(10):22-24</VolumePage>
+      <PublicationDate>December 2016</PublicationDate>
+      <Classification>Radar 22641418</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2879</BibliographicNoticeId>
+      <Title>Shaken and stirred</Title>
+      <Author>Edward Carr</Author>
+      <Publication>Economist</Publication>
+      <VolumePage>421(9015):1-12</VolumePage>
+      <PublicationDate>November 12, 2016</PublicationDate>
+      <Classification>Radar 22291135</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2880</BibliographicNoticeId>
+      <Title>La législation française en matière de terrorisme</Title>
+      <Author>Cassuto, Thomas</Author>
+      <Publication>Cahiers français</Publication>
+      <VolumePage>395:39-43</VolumePage>
+      <PublicationDate>novembre-décembre 2016</PublicationDate>
+      <Classification>Radar 22354100</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2941</BibliographicNoticeId>
+      <Title>Two tales of two rights : R. v. Spencer and the bridging of privacy and free speech</Title>
+      <Author>David M. Tortell</Author>
+      <Publication>National journal of constitutional law</Publication>
+      <VolumePage>36(2):253-285</VolumePage>
+      <PublicationDate>November 2016</PublicationDate>
+      <Classification>Radar 22530666</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3103</BibliographicNoticeId>
+      <Title>Staying left of bang : reforming Canada's approach to anti-terrorism investigation</Title>
+      <Author>Craig Forcese</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>64(3 &amp; 4):487-508</VolumePage>
+      <PublicationDate>August 2017</PublicationDate>
+      <Classification>Radar 25230672</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+      <CommitteeAcronym>SECD</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
