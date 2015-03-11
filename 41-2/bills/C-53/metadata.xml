@@ -1,0 +1,632 @@
+<Bills>
+  <Bill>
+    <Id>7865843</Id>
+    <NumberCode>C-53</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>53</Number>
+    <LongTitleEn>An Act to amend the Criminal Code and the Corrections and Conditional Release Act and to make related and consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code criminel et la Loi sur le système correctionnel et la mise en liberté sous condition et apportant des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Criminal Code and the Corrections and Conditional Release Act and to make related and consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Life Means Life Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur les peines de prison à vie purgées en entier</ShortTitleFr>
+    <ShortTitle>Life Means Life Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2015-03-11T15:16:05</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>82</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Peter</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>MacKay</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>Gordon</SponsorPersonMiddleName>
+    <SponsorPersonName>Peter Gordon MacKay</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>313</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Central Nova</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Nova-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Central Nova</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2015-06-19T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>235</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2015-03-11T15:16:05</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 11 March 2015, Minister of Justice introduced Bill C-53, An Act to amend the Criminal Code and the Corrections and Conditional Release Act and to make related and consequential amendments to other Acts (Life Means Life Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-53 amends the Criminal Code to make a life sentence of imprisonment without eligibility for parole mandatory for high treason and for planned and deliberate murders that are referred to in subsection 231(4), (5) or (6.01) of that Act or in which the accused's behaviour, associated with the offence, is of such a brutal nature as to compel the conclusion that the accused's behaviour in the future is unlikely to be inhibited by normal standards of behavioural restraint.&lt;br/&gt;&lt;br/&gt;The bill also amends the Criminal Code to give a judge the discretion to impose a life sentence of imprisonment without eligibility for parole for any other first degree murder and for any second degree murder if the accused was previously convicted either of murder or of an offence referred to in section 4 or 6 of the Crimes Against Humanity and War Crimes Act that had as its basis an intentional killing. The enactment provides that the court's decision is to be based on the accused's age and character, the nature of the offence, the circumstances surrounding its commission and any jury recommendation.&lt;br/&gt;&lt;br/&gt;The bill also amends the Corrections and Conditional Release Act to allow an offender who is sentenced to life without parole to apply for executive release after serving 35 years of their sentence. Executive release is granted or denied by the Governor in Council.&lt;br/&gt;&lt;br/&gt;Finally, the bill makes related and consequential amendments to the National Defence Act, the Crimes Against Humanity and War Crimes Act and the International Transfer of Offenders Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 11 mars 2015, le Ministre de la justice a déposé le projet de loi C-53, Loi modifiant le Code criminel et la Loi sur le système correctionnel et la mise en liberté sous condition et apportant des modifications connexes et corrélatives à d'autres lois (Loi sur les peines de prison à vie purgées en entier), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Projet de loi C-53 modifie le Code criminel pour prévoir une peine d'emprisonnement à perpétuité sans possibilité de libération conditionnelle pour la haute trahison et pour le meurtre commis avec préméditation et de propos délibéré s'il est visé aux paragraphes 231(4), (5) ou (6.01) de cette loi ou si le comportement de son auteur, associé à la perpétration de l'infraction, est d'une nature si brutale que l'on ne peut s'empêcher de conclure qu'il y a peu de chance pour qu'à l'avenir ce comportement soit inhibé par les normes ordinaires de restriction du comportement.&lt;br/&gt;&lt;br/&gt;Il modifie aussi cette loi pour donner au juge le pouvoir discrétionnaire d'imposer une peine d'emprisonnement sans possibilité de libération conditionnelle pour tout autre meurtre au premier degré et tout meurtre au deuxième degré lorsque l'accusé a déjà été condamné auparavant pour meurtre ou a déjà été déclaré coupable d'une infraction visée aux articles 4 ou 6 de la Loi sur les crimes contre l'humanité et les crimes de guerre qui avait à son origine le meurtre intentionnel. Il prévoit également que le tribunal doit se fonder, pour rendre sa décision, sur l'âge et le caractère de l'accusé, la nature de l'infraction et les circonstances de sa perpétration, ainsi que sur toute recommandation du jury.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition pour permettre à un accusé condamné à perpétuité sans possibilité de libération conditionnelle de présenter une demande de libération sur décret après avoir purgé trente-cinq ans de sa peine. La libération sur décret est accordée ou non par le gouverneur en conseil.&lt;br/&gt;&lt;br/&gt;Enfin, le texte apporte des modifications connexes et corrélatives à la Loi sur la défense nationale, à la Loi sur les crimes contre l'humanité et les crimes de guerre et à la Loi sur le transfèrement international des délinquants.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 11 March 2015, Minister of Justice introduced Bill C-53, An Act to amend the Criminal Code and the Corrections and Conditional Release Act and to make related and consequential amendments to other Acts (Life Means Life Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-53 amends the Criminal Code to make a life sentence of imprisonment without eligibility for parole mandatory for high treason and for planned and deliberate murders that are referred to in subsection 231(4), (5) or (6.01) of that Act or in which the accused's behaviour, associated with the offence, is of such a brutal nature as to compel the conclusion that the accused's behaviour in the future is unlikely to be inhibited by normal standards of behavioural restraint.&lt;br/&gt;&lt;br/&gt;The bill also amends the Criminal Code to give a judge the discretion to impose a life sentence of imprisonment without eligibility for parole for any other first degree murder and for any second degree murder if the accused was previously convicted either of murder or of an offence referred to in section 4 or 6 of the Crimes Against Humanity and War Crimes Act that had as its basis an intentional killing. The enactment provides that the court's decision is to be based on the accused's age and character, the nature of the offence, the circumstances surrounding its commission and any jury recommendation.&lt;br/&gt;&lt;br/&gt;The bill also amends the Corrections and Conditional Release Act to allow an offender who is sentenced to life without parole to apply for executive release after serving 35 years of their sentence. Executive release is granted or denied by the Governor in Council.&lt;br/&gt;&lt;br/&gt;Finally, the bill makes related and consequential amendments to the National Defence Act, the Crimes Against Humanity and War Crimes Act and the International Transfer of Offenders Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-03-11T15:16:05</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>184</Number>
+          <Date>2015-03-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2015-03-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2015-03-11T15:16:05</EventStartDateTime>
+          <EventEndDateTime>2015-03-11T15:16:05</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-03-11T15:16:05</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>234</Number>
+          <Date>2015-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>235</Number>
+          <Date>2015-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-06-19T10:07:44</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8756907</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>31086</PersonId>
+          <PersonOfficialFirstName>Bob</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dechert</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bob Dechert</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>234</MeetingNumber>
+          <SpeechDateTime>2015-06-18T16:04:58</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8757126</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25478</PersonId>
+          <PersonOfficialFirstName>Françoise</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boivin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Françoise Boivin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>234</MeetingNumber>
+          <SpeechDateTime>2015-06-18T16:51:18</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8757172</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71270</PersonId>
+          <PersonOfficialFirstName>Sean</PersonOfficialFirstName>
+          <PersonOfficialLastName>Casey</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Sean Casey</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>41</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>234</MeetingNumber>
+          <SpeechDateTime>2015-06-18T17:23:46</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>7873470</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Government of Canada Introduces Legislation to Keep Canada's Most Heinous Criminals Behind Bars for Life</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose un projet de loi pour garder les criminels les plus haineux derrière les barreaux pour le reste de leur vie</TitleFr>
+      <Title>The Government of Canada Introduces Legislation to Keep Canada's Most Heinous Criminals Behind Bars for Life</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=947329&amp;_ga=1.92196889.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=947329&amp;_ga=1.92196889.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=947329&amp;_ga=1.92196889.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Life Means Life Act</TitleEn>
+      <TitleFr>Loi sur les peines de prison à vie purgées en entier</TitleFr>
+      <Title>Life Means Life Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=947319&amp;_ga=1.87547035.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=947319&amp;_ga=1.88594328.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=947319&amp;_ga=1.87547035.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>History of Parole in Canada (Parole Board of Canada)</TitleEn>
+      <TitleFr>Historique de la libération conditionnelle au Canada (Commission des libérations conditionnelles du Canada)</TitleFr>
+      <Title>History of Parole in Canada (Parole Board of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://pbc-clcc.gc.ca/about/hist-eng.shtml</UrlEn>
+      <UrlFr>http://pbc-clcc.gc.ca/about/hist-fra.shtml</UrlFr>
+      <Url>http://pbc-clcc.gc.ca/about/hist-eng.shtml</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Throwing Away the Key: The Expansion of Life Without Parole Sentences in the United States (The Sentencing Project)</TitleEn>
+      <TitleFr>Throwing Away the Key: The Expansion of Life Without Parole Sentences in the United States (The Sentencing Project)</TitleFr>
+      <Title>Throwing Away the Key: The Expansion of Life Without Parole Sentences in the United States (The Sentencing Project)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://wwwv.sentencingproject.org/doc/publications/inc_federalsentencingreporter.pdf</UrlEn>
+      <UrlFr>http://wwwv.sentencingproject.org/doc/publications/inc_federalsentencingreporter.pdf</UrlFr>
+      <Url>http://wwwv.sentencingproject.org/doc/publications/inc_federalsentencingreporter.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>No exit: The expanding use of life sentences in America (July 2009,  The Sentencing Project)</TitleEn>
+      <TitleFr>No exit: The expanding use of life sentences in America (July 2009,  The Sentencing Project)</TitleFr>
+      <Title>No exit: The expanding use of life sentences in America (July 2009,  The Sentencing Project)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.sentencingproject.org/doc/publications/publications/inc_NoExitSept2009.pdf</UrlEn>
+      <UrlFr>http://www.sentencingproject.org/doc/publications/publications/inc_NoExitSept2009.pdf</UrlFr>
+      <Url>http://www.sentencingproject.org/doc/publications/publications/inc_NoExitSept2009.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>British courts can impose whole-life prison sentences (BBC News, 3 February 2015)</TitleEn>
+      <TitleFr>British courts can impose whole-life prison sentences (BBC News, 3 February 2015)</TitleFr>
+      <Title>British courts can impose whole-life prison sentences (BBC News, 3 February 2015)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://m.bbc.com/news/uk-31110814</UrlEn>
+      <UrlFr>http://m.bbc.com/news/uk-31110814</UrlFr>
+      <Url>http://m.bbc.com/news/uk-31110814</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2687</BibliographicNoticeId>
+      <Title>Community outcomes for offenders serving a life sentence</Title>
+      <Author>Axford, Marsha &amp; Matthew Young</Author>
+      <Publication>Ottawa : Correctional Service of Canada, No R-264</Publication>
+      <VolumePage>27 p. (1 online resource)</VolumePage>
+      <PublicationDate>May 2012</PublicationDate>
+      <Classification>HV9308 A3575</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2688</BibliographicNoticeId>
+      <Title>Résultats dans la collectivité des personnes purgeant une peine d'emprisonnement à perpétuité</Title>
+      <Author>Axford, Marsha et Matthew Young</Author>
+      <Publication>Ottawa : Service correctionnel Canada, No R-264</Publication>
+      <VolumePage>31 p. (1 ressource en ligne)</VolumePage>
+      <PublicationDate>mai 2012</PublicationDate>
+      <Classification>HV9308 A4575</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2689</BibliographicNoticeId>
+      <Title>Offenders serving life and indeterminate sentences : snapshot (2009) and changing profile (1998 to 2008)</Title>
+      <Author>Young, Matthew M.</Author>
+      <Publication>Ottawa, Ontario : Research Branch, Correctional Service of Canada</Publication>
+      <VolumePage>47 p. (1 online resource)</VolumePage>
+      <PublicationDate>December 2010</PublicationDate>
+      <Classification>HV8708 C2 A35</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2690</BibliographicNoticeId>
+      <Title>Délinquants purgeant une peine d'emprisonnement à perpétuité ou une peine d'une durée indéterminée : profil (2009) et évolution du profil (de 1998 à 2008)</Title>
+      <Author>Young, Matthew M.</Author>
+      <Publication>Ottawa, Ontario : Direction de la recherche, Service correctionnel du Canada</Publication>
+      <VolumePage>54 p. (1 ressource en ligne)</VolumePage>
+      <PublicationDate>Décembre 2010</PublicationDate>
+      <Classification>HV8708 C2 A45</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2691</BibliographicNoticeId>
+      <Title>Corrections and conditional release statistical overview (Correctional Service of Canada)</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Solicitor General Canada</Publication>
+      <VolumePage>Electronic document</VolumePage>
+      <PublicationDate>Annual [1998]-</PublicationDate>
+      <Classification>HV9507 A125</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2692</BibliographicNoticeId>
+      <Title>Aperçu statistique, le système correctionnel et la mise en liberté sous condition (Service correctionnel Canada)</Title>
+      <Author>
+      </Author>
+      <Publication>Ottawa : Solliciteur général Canada</Publication>
+      <VolumePage>Document électronique</VolumePage>
+      <PublicationDate>Annuel [1998]-</PublicationDate>
+      <Classification>HV9507 A225</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2693</BibliographicNoticeId>
+      <Title>You do the crime, you do the time</Title>
+      <Author>Geddes, John</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>128(13/14):19-20</VolumePage>
+      <PublicationDate>Apr. 13, 2015</PublicationDate>
+      <Classification>FC1 M26</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
