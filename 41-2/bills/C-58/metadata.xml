@@ -1,0 +1,474 @@
+<Bills>
+  <Bill>
+    <Id>7902232</Id>
+    <NumberCode>C-58</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>58</Number>
+    <LongTitleEn>An Act to amend the Canadian Forces Members and Veterans Re-establishment and Compensation Act and to make consequential amendments to another Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes et une autre loi en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Canadian Forces Members and Veterans Re-establishment and Compensation Act and to make consequential amendments to another Act</LongTitle>
+    <ShortTitleEn>Support for Veterans and Their Families Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le soutien aux vétérans et à leur famille</ShortTitleFr>
+    <ShortTitle>Support for Veterans and Their Families Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2015-03-30T15:13:35.51</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>41</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>72773</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Erin</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>O'Toole</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Erin O'Toole</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Veterans Affairs</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Anciens Combattants</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Veterans Affairs</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>409</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Durham</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Durham</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Durham</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2015-03-30T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>192</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2015-03-30T15:13:35.51</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 30 March 2015, the Minister of Veteran Affairs introduced Bill C-58, An Act to amend the Canadian Forces Members and Veterans Re-establishment and Compensation Act and to make consequential amendments to another Act (Support for Veterans and Their Families Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-58 amends the Canadian Forces Members and Veterans Re-establishment and Compensation Act to&lt;br/&gt;&lt;br/&gt;•	add a purpose statement to the Act;&lt;br/&gt;•	improve the transition process of Canadian Forces members and veterans to civilian life by allowing the Minister of Veterans Affairs to make decisions in respect of applications made by those members for services, assistance and compensation under the Act before their release from the Canadian Forces and to provide members and veterans with information and guidance before and after their release;&lt;br/&gt;•	establish the retirement income security benefit to provide eligible veterans and survivors with a continued financial benefit after the age of 65 years;&lt;br/&gt;•	establish the critical injury benefit to provide eligible Canadian Forces members and veterans with lump-sum compensation for severe, sudden and traumatic injuries or acute diseases that are service related, regardless of whether they result in permanent disability; and&lt;br/&gt;•	establish the family caregiver relief benefit to provide eligible veterans who require a high level of ongoing care from an informal caregiver with an annual grant to recognize that caregiver's support.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Veterans Review and Appeal Board Act as a consequence of the establishment of the critical injury benefit.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 30 mars 2015, le Ministre des anciens combattants a déposé le projet de loi C-58, Loi modifiant la Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes et une autre loi en conséquence (Loi sur le soutien aux vétérans et à leur famille), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-58 modifie la Loi sur les mesures de réinsertion et d'indemnisation des militaires et vétérans des Forces canadiennes pour : &lt;br/&gt;&lt;br/&gt;•	y ajouter une disposition en énonçant l'objet;&lt;br/&gt;•	améliorer le processus de transition à la vie civile des militaires et des vétérans des Forces canadiennes en prévoyant que les décisions relatives aux demandes de services, d'assistance ou d'indemnisation présentées par des militaires au titre de la loi peuvent être rendues par le ministre des Anciens Combattants avant leur libération des Forces canadiennes et en prévoyant que ce ministre peut les renseigner et les conseiller tant avant qu'après leur libération;&lt;br/&gt;•	instaurer l'allocation de sécurité du revenu de retraite afin de permettre aux vétérans et survivants admissibles de bénéficier d'une aide financière continue après l'âge de soixante-cinq ans;&lt;br/&gt;•	instaurer l'indemnité pour blessure grave afin de permettre aux militaires et vétérans des Forces canadiennes admissibles de bénéficier d'une indemnité forfaitaire pour une maladie aiguë ou une blessure traumatique, grave et soudaine liées au service, peu importe qu'elles entraînent ou non une invalidité permanente;&lt;br/&gt;•	instaurer l'allocation pour relève d'un aidant familial afin de permettre aux vétérans admissibles ayant besoin de recevoir un niveau élevé de soins continus d'un aidant naturel d'obtenir une subvention annuelle pour reconnaître le soutien offert par ce dernier.&lt;br/&gt;&lt;br/&gt;En raison de l'instauration de l'indemnité pour blessure grave, le texte apporte aussi des modifications corrélatives à la Loi sur le Tribunal des anciens combattants (révision et appel).&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 30 March 2015, the Minister of Veteran Affairs introduced Bill C-58, An Act to amend the Canadian Forces Members and Veterans Re-establishment and Compensation Act and to make consequential amendments to another Act (Support for Veterans and Their Families Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-58 amends the Canadian Forces Members and Veterans Re-establishment and Compensation Act to&lt;br/&gt;&lt;br/&gt;•	add a purpose statement to the Act;&lt;br/&gt;•	improve the transition process of Canadian Forces members and veterans to civilian life by allowing the Minister of Veterans Affairs to make decisions in respect of applications made by those members for services, assistance and compensation under the Act before their release from the Canadian Forces and to provide members and veterans with information and guidance before and after their release;&lt;br/&gt;•	establish the retirement income security benefit to provide eligible veterans and survivors with a continued financial benefit after the age of 65 years;&lt;br/&gt;•	establish the critical injury benefit to provide eligible Canadian Forces members and veterans with lump-sum compensation for severe, sudden and traumatic injuries or acute diseases that are service related, regardless of whether they result in permanent disability; and&lt;br/&gt;•	establish the family caregiver relief benefit to provide eligible veterans who require a high level of ongoing care from an informal caregiver with an annual grant to recognize that caregiver's support.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Veterans Review and Appeal Board Act as a consequence of the establishment of the critical injury benefit.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2015-03-30T15:13:35.51</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>192</Number>
+          <Date>2015-03-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2015-03-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2015-03-30T15:13:35.51</EventStartDateTime>
+          <EventEndDateTime>2015-03-30T15:13:35.51</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2015-03-30T15:13:35.51</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>41</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>7907037</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Harper Government announces new benefit for Canadian Armed Forces members and Veterans</TitleEn>
+      <TitleFr>Le gouvernement Harper annonce une nouvelle prestation à l'intention des membres et des vétérans des Forces armées canadiennes</TitleFr>
+      <Title>Harper Government announces new benefit for Canadian Armed Forces members and Veterans</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=957009&amp;_ga=1.30331708.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=957009&amp;_ga=1.30331708.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=957009&amp;_ga=1.30331708.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada announces enhanced lifetime support for injured Veterans and their families</TitleEn>
+      <TitleFr>Le gouvernement du Canada offre un soutien financier amélioré aux vétérans blessés et à leurs familles</TitleFr>
+      <Title>Government of Canada announces enhanced lifetime support for injured Veterans and their families</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=945849&amp;_ga=1.58004393.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=945849&amp;_ga=1.93133726.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=945849&amp;_ga=1.58004393.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada announces new benefits and services for Veterans and families</TitleEn>
+      <TitleFr>Le gouvernement annonce de nouveaux avantages et services pour les vétérans et leurs familles</TitleFr>
+      <Title>Government of Canada announces new benefits and services for Veterans and families</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=951849&amp;_ga=1.21442616.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=951849&amp;_ga=1.96460703.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=951849&amp;_ga=1.21442616.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister O'Toole strengthens benefits for reservists</TitleEn>
+      <TitleFr>Le ministre O'Toole améliore les avantages offerts aux réservistes</TitleFr>
+      <Title>Minister O'Toole strengthens benefits for reservists</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=948869&amp;_ga=1.255669131.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=948869&amp;_ga=1.255669131.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=948869&amp;_ga=1.255669131.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Retirement Income Security Benefit</TitleEn>
+      <TitleFr>Allocation de sécurité du revenu de retraite</TitleFr>
+      <Title>Retirement Income Security Benefit</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=945859&amp;_ga=1.256840712.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=945859&amp;_ga=1.25098169.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=945859&amp;_ga=1.256840712.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed new Critical Injury Benefit for Canadian Armed Forces members and Veterans</TitleEn>
+      <TitleFr>Nouvelle indemnité pour blessure grave proposée à l'intention des membres et des vétérans des Forces armées canadiennes</TitleFr>
+      <Title>Proposed new Critical Injury Benefit for Canadian Armed Forces members and Veterans</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=957019&amp;_ga=1.54450219.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=957019&amp;_ga=1.54450219.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=957019&amp;_ga=1.54450219.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Respect for reservists - Enhancing benefits for Reserve Force Veterans</TitleEn>
+      <TitleFr>Respect envers les réservistes - Augmentation des prestations offertes aux vétérans de la Force de réserve</TitleFr>
+      <Title>Respect for reservists - Enhancing benefits for Reserve Force Veterans</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=948839&amp;_ga=1.259979145.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=948839&amp;_ga=1.259388425.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=948839&amp;_ga=1.259979145.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Family Caregiver Relief Benefit</TitleEn>
+      <TitleFr>Allocation de secours pour les aidants familiaux</TitleFr>
+      <Title>Family Caregiver Relief Benefit</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=951749&amp;_ga=1.258874121.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=951749&amp;_ga=1.260390542.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=951749&amp;_ga=1.258874121.2078202319.1410971187</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Expansion of Permanent Impairment Allowance Eligibility</TitleEn>
+      <TitleFr>Changement aux critères d'admissibilité de l'allocation pour déficience permanente</TitleFr>
+      <Title>Expansion of Permanent Impairment Allowance Eligibility</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=951779&amp;_ga=1.256916360.2078202319.1410971187</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=951779&amp;_ga=1.256916360.2078202319.1410971187</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=951779&amp;_ga=1.256916360.2078202319.1410971187</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
