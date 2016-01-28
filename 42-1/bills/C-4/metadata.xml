@@ -1,0 +1,1658 @@
+<Bills>
+  <Bill>
+    <Id>8073132</Id>
+    <NumberCode>C-4</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>4</Number>
+    <LongTitleEn>An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</LongTitleFr>
+    <LongTitle>An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2017-06-19T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88984</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Patty</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Hajdu</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Patty Hajdu</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Employment, Workforce Development and Labour</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Employment, Workforce Development and Labour</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>820</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Thunder Bay—Superior North</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Thunder Bay—Supérieur-Nord</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Thunder Bay—Superior North</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2017-06-19T16:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>134</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2016-01-28T10:08:52</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2016-03-07T19:05:07</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2016-10-19T18:00:49</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2016-10-20T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2016-12-15T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2017-04-12T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2017-06-19T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 28 January 2016, the Minister of Employment, Workforce Development and Labour introduced Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act, in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-4 amends the Canada Labour Code, the Parliamentary Employment and Staff Relations Act and the Public Service Labour Relations Act to restore the procedures for the certification and the revocation of certification of bargaining agents that existed before June 16, 2015.&lt;br/&gt;&lt;br/&gt;It also amends the Income Tax Act to remove from that Act the requirement that labour organizations and labour trusts provide annually to the Minister of National Revenue certain information returns containing specific information that would be made available to the public.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 28 janvier 2016, le Ministre de l'Emploi, du Développement de la main d'œuvre et du Travail a déposé le projet de loi C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu, à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-4 modifie le Code canadien du travail, la Loi sur les relations de travail au Parlement et la Loi sur les relations de travail dans la fonction publique afin de rétablir les procédures d'accréditation d'un syndicat à titre d'agent négociateur et de révocation d'une telle accréditation qui existaient avant le 16 juin 2015.&lt;br/&gt;&lt;br/&gt;De plus, il modifie la Loi de l'impôt sur le revenu afin d'éliminer l'obligation pour les organisations ouvrières et les fiducies de syndicat de fournir annuellement au ministre du Revenu national certaines déclarations de renseignements contenant de l'information précise qui serait communiquée au public.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 28 January 2016, the Minister of Employment, Workforce Development and Labour introduced Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act, in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-4 amends the Canada Labour Code, the Parliamentary Employment and Staff Relations Act and the Public Service Labour Relations Act to restore the procedures for the certification and the revocation of certification of bargaining agents that existed before June 16, 2015.&lt;br/&gt;&lt;br/&gt;It also amends the Income Tax Act to remove from that Act the requirement that labour organizations and labour trusts provide annually to the Minister of National Revenue certain information returns containing specific information that would be made available to the public.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2017</StatuteYear>
+    <StatuteChapter>12</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-01-28T10:08:52</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>11</Number>
+          <Date>2016-01-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-01-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-01-28T10:08:52</EventStartDateTime>
+          <EventEndDateTime>2016-01-28T10:08:52</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-01-28T10:08:52</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-03-07T19:05:07</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+          <StudyActivityId>8821718</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>15</Number>
+          <Date>2016-02-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>17</Number>
+          <Date>2016-02-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>18</Number>
+          <Date>2016-02-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>26</Number>
+          <Date>2016-02-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>27</Number>
+          <Date>2016-03-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>8820103</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8075195</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - HUMA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - HUMA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - HUMA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>17</DivisionNumber>
+          <DivisionVotesYeas>219</DivisionVotesYeas>
+          <DivisionVotesNays>90</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2016-03-07T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>27</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2016-03-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2016-03-07T19:05:07</EventStartDateTime>
+          <EventEndDateTime>2016-03-07T19:05:07</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-03-07T19:05:07</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8778791</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89037</PersonId>
+          <PersonOfficialFirstName>MaryAnn</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mihychuk</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>MaryAnn Mihychuk</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>15</MeetingNumber>
+          <SpeechDateTime>2016-02-03T15:40:09</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8779047</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88535</PersonId>
+          <PersonOfficialFirstName>Gérard</PersonOfficialFirstName>
+          <PersonOfficialLastName>Deltell</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gérard Deltell</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>15</MeetingNumber>
+          <SpeechDateTime>2016-02-03T16:10:15</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>8779242</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89090</PersonId>
+          <PersonOfficialFirstName>Sheri</PersonOfficialFirstName>
+          <PersonOfficialLastName>Benson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Sheri Benson</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>15</MeetingNumber>
+          <SpeechDateTime>2016-02-03T16:46:42</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2016-05-12T11:59:32</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+          <StudyActivityId>8821718</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without an amendment</Name>
+          <Number>54</Number>
+          <Date>2016-05-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2016-03-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2016-04-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2016-05-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2016-05-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without an amendment</EventName>
+          <EventDateTime>2016-05-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>8248410</CommitteeReportId>
+          <CommitteeReportNumber>2</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2016-05-12T11:59:32</EventStartDateTime>
+          <EventEndDateTime>2016-05-12T11:59:32</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-05-12T11:59:32</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-09-23T10:35:49</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>80</Number>
+          <Date>2016-09-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2016-09-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2016-09-23T10:35:49</EventStartDateTime>
+          <EventEndDateTime>2016-09-23T10:35:49</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-09-23T10:35:49</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-10-19T18:00:49</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>80</Number>
+          <Date>2016-09-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>81</Number>
+          <Date>2016-09-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>90</Number>
+          <Date>2016-10-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>92</Number>
+          <Date>2016-10-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>93</Number>
+          <Date>2016-10-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9166707</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8075197</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>127</DivisionNumber>
+          <DivisionVotesYeas>204</DivisionVotesYeas>
+          <DivisionVotesNays>79</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2016-10-19T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>93</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2016-10-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2016-10-19T18:00:49</EventStartDateTime>
+          <EventEndDateTime>2016-10-19T18:00:49</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-10-19T18:00:49</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-10-20T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>64</Number>
+          <Date>2016-10-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-10-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-10-20T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-10-20T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-10-20T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-15T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>68</Number>
+          <Date>2016-11-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>70</Number>
+          <Date>2016-11-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>77</Number>
+          <Date>2016-11-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>80</Number>
+          <Date>2016-12-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading</NameEn>
+          <NameFr>Deuxième lecture</NameFr>
+          <Name>Second reading</Name>
+          <Number>89</Number>
+          <Date>2016-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2016-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2016-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2016-12-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>76747</PersonId>
+          <PersonOfficialFirstName>Diane</PersonOfficialFirstName>
+          <PersonOfficialLastName>Bellemare</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Diane Bellemare</PersonName>
+          <SenateSystemAffiliationId>3562</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent</CaucusShortNameEn>
+          <CaucusShortNameFr>Indépendant</CaucusShortNameFr>
+          <CaucusShortName>Independent</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>68</MeetingNumber>
+          <SpeechDateTime>2016-11-01T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/068db_2016-11-01-e#54</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/068db_2016-11-01-f#54</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/068db_2016-11-01-e#54</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35189</PersonId>
+          <PersonOfficialFirstName>James S.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Cowan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>James S. Cowan</PersonName>
+          <SenateSystemAffiliationId>2773</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>70</MeetingNumber>
+          <SpeechDateTime>2016-11-03T00:00:00</SpeechDateTime>
+          <UrlEn>http://www.parl.gc.ca/Content/Sen/Chamber/421/Debates/070db_2016-11-03-e.htm#38</UrlEn>
+          <UrlFr>http://www.parl.gc.ca/Content/Sen/Chamber/421/Debates/070db_2016-11-03-f.htm#38</UrlFr>
+          <Url>http://www.parl.gc.ca/Content/Sen/Chamber/421/Debates/070db_2016-11-03-e.htm#38</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-02-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>95</Number>
+          <Date>2017-02-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2017-02-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2017-02-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2017-02-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2017-02-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-02-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-02-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-02-09T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-04-12T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>96</Number>
+          <Date>2017-02-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>99</Number>
+          <Date>2017-02-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>101</Number>
+          <Date>2017-03-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>102</Number>
+          <Date>2017-03-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>103</Number>
+          <Date>2017-03-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>108</Number>
+          <Date>2017-04-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>109</Number>
+          <Date>2017-04-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>110</Number>
+          <Date>2017-04-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>111</Number>
+          <Date>2017-04-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>112</Number>
+          <Date>2017-04-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2017-04-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2017-04-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-04-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-04-12T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>134</Number>
+          <Date>2017-06-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2017-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2017-06-19T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-06-19T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-19T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2017-04-12T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>112</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2017-05-05T10:10:48</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>171</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2017-05-17T17:05:05</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>179</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2017-05-17T18:00:27</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>179</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2017-05-17T18:01:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>179</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2017-05-30T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>124</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2017-06-14T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>132</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>The Senate does not insist on its amendment(s)</EventNameEn>
+        <EventNameFr>Le Sénat n'insiste pas sur ses amendements</EventNameFr>
+        <EventName>The Senate does not insist on its amendment(s)</EventName>
+        <Date>2017-06-14T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>132</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8075510</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8512669</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9068202</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>16</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>91</DivisionVotesYeas>
+      <DivisionVotesNays>220</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>311</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-03-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>17</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubject>
+      <DivisionVotesYeas>219</DivisionVotesYeas>
+      <DivisionVotesNays>90</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>309</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-03-07T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>124</DivisionNumber>
+      <DivisionSubjectEn>Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act (recommittal to a committee)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu (nouveau renvoi à un comité)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act (recommittal to a committee)</DivisionSubject>
+      <DivisionVotesYeas>85</DivisionVotesYeas>
+      <DivisionVotesNays>210</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>295</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-10-18T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>127</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubject>
+      <DivisionVotesYeas>204</DivisionVotesYeas>
+      <DivisionVotesNays>79</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-10-19T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>281</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-4, Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubject>
+      <DivisionVotesYeas>197</DivisionVotesYeas>
+      <DivisionVotesNays>84</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>281</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-05-17T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>282</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-4,Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement, la Loi sur les relations de travail dans la fonction publique et la Loi de l'impôt sur le revenu</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-4, An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act</DivisionSubject>
+      <DivisionVotesYeas>212</DivisionVotesYeas>
+      <DivisionVotesNays>79</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>291</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-05-17T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>42</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>172</MeetingNumber>
+      <HansardNumber>9507999</HansardNumber>
+      <RulingStatementDateTime>2017-05-08T15:18:03</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada restoring fairness and balance in the Canadian labour policy landscape</TitleEn>
+      <TitleFr>Le gouvernement du Canada rétablit la justice et l'équilibre des politiques du travail au Canada</TitleFr>
+      <Title>Government of Canada restoring fairness and balance in the Canadian labour policy landscape</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?crtr.sj1D=&amp;crtr.mnthndVl=1&amp;mthd=advSrch&amp;crtr.dpt1D=&amp;nid=1030079&amp;crtr.lc1D=&amp;crtr.tp1D=&amp;crtr.yrStrtVl=2016&amp;crtr.kw=&amp;crtr.dyStrtVl=28&amp;crtr.aud1D=&amp;crtr.mnthStrtVl=1&amp;crtr.page=4&amp;crtr.yrndVl=2016&amp;crtr.dyndVl=29&amp;_ga=1.187817198.717906146.1475841827</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?crtr.sj1D=&amp;crtr.mnthndVl=1&amp;mthd=advSrch&amp;crtr.dpt1D=&amp;nid=1030079&amp;crtr.lc1D=&amp;crtr.tp1D=&amp;crtr.yrStrtVl=2016&amp;crtr.kw=&amp;crtr.dyStrtVl=28&amp;crtr.aud1D=&amp;crtr.mnthStrtVl=1&amp;crtr.page=4&amp;crtr.yrndVl=2016&amp;crtr.dyndVl=29&amp;_ga=1.187817198.717906146.1475841827</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?crtr.sj1D=&amp;crtr.mnthndVl=1&amp;mthd=advSrch&amp;crtr.dpt1D=&amp;nid=1030079&amp;crtr.lc1D=&amp;crtr.tp1D=&amp;crtr.yrStrtVl=2016&amp;crtr.kw=&amp;crtr.dyStrtVl=28&amp;crtr.aud1D=&amp;crtr.mnthStrtVl=1&amp;crtr.page=4&amp;crtr.yrndVl=2016&amp;crtr.dyndVl=29&amp;_ga=1.187817198.717906146.1475841827</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement by the Honourable Patty Hajdu, Minister of Employment, Workforce Development and Labour (1)</TitleEn>
+      <TitleFr>Déclaration de la ministre de l'Emploi, du Développement de la main-d'œuvre et du Travail, l'honorable Patty Hajdu (1)</TitleFr>
+      <Title>Statement by the Honourable Patty Hajdu, Minister of Employment, Workforce Development and Labour (1)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2017/05/statement_by_thehonourablepattyhajduministerofemploymentworkforc.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2017/05/declaration_de_laministredelemploidudeveloppementdelamain-duvree.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2017/05/statement_by_thehonourablepattyhajduministerofemploymentworkforc.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Federal Liberals Reverse Conservative Labour Legislation – Does the Certification Model Have an Effect on Union Density? Human Capital Law and Policy, April 2016.</TitleEn>
+      <TitleFr>Federal Liberals Reverse Conservative Labour Legislation – Does the Certification Model Have an Effect on Union Density? Human Capital Law and Policy, April 2016. (Disponible en anglais seulement)</TitleFr>
+      <Title>Federal Liberals Reverse Conservative Labour Legislation – Does the Certification Model Have an Effect on Union Density? Human Capital Law and Policy, April 2016.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.bcbc.com/content/2289/HCLPv6n2.pdf</UrlEn>
+      <UrlFr>http://www.bcbc.com/content/2289/HCLPv6n2.pdf</UrlFr>
+      <Url>http://www.bcbc.com/content/2289/HCLPv6n2.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Collective Bargaining Information (Government of Canada)</TitleEn>
+      <TitleFr>information sur les conventions collectives (gouvernement du Canada)</TitleFr>
+      <Title>Collective Bargaining Information (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/services/collective-bargaining-data.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/services/donnees-conventions-collectives.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/services/collective-bargaining-data.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement by the Honourable Patty Hajdu, Minister of Employment, Workforce Development and Labour (2)</TitleEn>
+      <TitleFr>Déclaration de la ministre de l'Emploi, du Développement de la main-d'oeuvre et du Travail, l'honorable Patty Hajdu (2)</TitleFr>
+      <Title>Statement by the Honourable Patty Hajdu, Minister of Employment, Workforce Development and Labour (2)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2017/06/statement_by_thehonourablepattyhajduministerofemploymentworkforc.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2017/06/declaration_de_laministredelemploidudeveloppementdelamain-duvree.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2017/06/statement_by_thehonourablepattyhajduministerofemploymentworkforc.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
