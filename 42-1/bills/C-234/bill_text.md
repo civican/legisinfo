@@ -1,0 +1,56 @@
+# Bill C-234: An Act to amend the Canada Labour Code (replacement workers)
+
+## Summary
+
+This enactment amends the `Canada Labour Code` to make it an offence for employers to hire replacement workers to perform the duties of employees who are on strike or locked out.
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+### Section 1
+
+Section 87.6 of the `Canada Labour Code` is replaced by the following:
+
+### Section 87.6
+
+At the end of a strike or lockout not prohibited by this Part, the employer must reinstate employees in the bargaining unit who were on strike or locked out in preference to any **other** person, **unless the employer has good and sufficient cause not to reinstate those employees**.
+
+### Section 2
+
+Subsection 94(2.1) of the Act is replaced by the following:
+
+**(2.1)** **For the duration of a strike or lockout declared in accordance with this Part,** no employer or person acting on behalf of an employer shall
+
+  use the services of a person to perform the duties of an employee **who is a member of** the bargaining unit on strike or locked out, **if that person** was hired **during the period commencing** on the **day** on which notice to bargain collectively was given **and ending on the last day of the strike or lockout;**
+
+  use the services of a person employed by another employer, or the services of a contractor, to perform the duties of an employee who is a member of the bargaining unit on strike or locked out;
+
+  subject to section 87.4, use, in the establishment where the strike or lockout has been declared, the services of an employee who is a member of the bargaining unit on strike or locked out;
+
+  use, in another establishment of the employer, the services of an employee who is a member of the bargaining unit on strike or locked out;
+
+  use, in the establishment where the strike or lockout has been declared, the services of an employee employed in another establishment of the employer; or
+
+  use, in the establishment where the strike or lockout has been declared, the services of an employee usually employed in that establishment to perform the duties of an employee who is a member of the bargaining unit on strike or locked out.
+
+**(2.2)** The application of subsection (2.1) does not have the effect of preventing the employer from taking any necessary measures to avoid the destruction of, or serious damage to, the employer's property.
+
+**(2.3)** The measures referred to in subsection (2.2) shall exclusively be conservation measures and not measures to allow the continuation of the production of goods or services otherwise prohibited by subsection (2.1).
+
+**(2.4)** The prohibitions set out in subsection (2.1) do not apply to
+
+  a person employed as a manager, superintendent or foreman or as a representative of the employer in relations between employers and employees; or
+
+  a person serving as a director or officer of a corporation, unless the person has been designated to serve in that capacity for the person's employer by the employees or by a certified association.
+
+### Section 3
+
+Paragraph 99(1)(b.3) of the Act is replaced by the following:
+
+in respect of a failure to comply with subsection 94(2.1), by order, require the employer to stop using, for the duration of the dispute, the services of **a** person **described in any of paragraphs 94(2.1)(a) to (f)**;
+
+### Section 4
+
+Section 100 of the Act is amended by adding the following after subsection (4):
+
+**(5)** Every person who contravenes or fails to comply with subsection 94(2.1) is guilty of an offence and liable, on summary conviction, to a fine not exceeding ten thousand dollars for each day or part of a day during which the offence continues.
+
