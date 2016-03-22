@@ -31,21 +31,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(2)** Subparagraph 5(1)(c)(i) of the Act is replaced by the following:
 
-    been physically present in Canada for at least **1,095** days during the **five** years immediately before the date of his or her application, **and**
+    been physically present in Canada for at least 1,095 days during the five years immediately before the date of his or her application, and
 
   **(3)** Subparagraph 5(1)(c)(ii) of the Act is repealed.
 
   **(4)** Subparagraph 5(1)(c)(iii) of the Act is replaced by the following:
 
-    met any applicable requirement under the `Income Tax Act` to file a return of income in respect of **three** taxation years that are fully or partially within the **five** years immediately before the date of his or her application;
+    met any applicable requirement under the `Income Tax Act` to file a return of income in respect of three taxation years that are fully or partially within the five years immediately before the date of his or her application;
 
   **(5)** Paragraph 5(1)(c.1) of the Act is repealed.
 
   **(6)** Paragraphs 5(1)(d) and (e) of the Act are replaced by the following:
 
-    if under **55** years of age at the date of his or her application, has an adequate knowledge of one of the official languages of Canada;
+    if under 55 years of age at the date of his or her application, has an adequate knowledge of one of the official languages of Canada;
 
-    if under **55** years of age at the date of his or her application, demonstrates in one of the official languages of Canada that he or she has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship; and
+    if under 55 years of age at the date of his or her application, demonstrates in one of the official languages of Canada that he or she has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship; and
 
   **(7)** Section 5 of the Act is amended by adding the following after subsection (1):
 
@@ -67,6 +67,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(12)** Subsection 5(3) of the Act is amended by adding "and" at the end of paragraph (b) and by repealing paragraph (b.1).
 
+  **(13)** Section 5 of the Act is amended by adding the following after subsection (3):
+
+    **(3.1)** For the purposes of this section, if an applicant for citizenship is a disabled person, the Minister shall take into consideration the measures that are reasonable to accommodate the needs of that person.
+
+  **(14)** Subsection 5(4) of the Act is replaced by the following:
+
+    **(4)** Despite any other provision of this Act, the Minister may, in his or her discretion, grant citizenship to any person to alleviate cases of statelessness or of special and unusual hardship or to reward services of an exceptional value to Canada.
+
 ### Section 2
 
 Subsections 9(2.1) and (2.2) of the Act are replaced by the following:
@@ -75,30 +83,9 @@ Subsections 9(2.1) and (2.2) of the Act are replaced by the following:
 
 **(2.2)** If an application for renunciation is made and the Minister subsequently provides the applicant with a notice referred to in subsection 10(3) or commences an action under subsection 10.1(1) for a declaration in respect of the applicant, the processing of that application is suspended until the Minister provides the applicant with his or her decision under subsection 10(5) or a final judgment has been rendered in that action, as the case may be.
 
-
-> **Explanatory Note**:
-> Existing text of subsections 9(2.1) and (2.2):
-> *Existing Text*:
-> > No application for renunciation may be made if the Minister has provided the applicant with a notice referred to in subsection 10(3) or has commenced an action under subsection 10.1(1) or (2) for a declaration in respect of the applicant until the Minister provides the applicant with his or her decision under subsection 10(5) or a final judgment has been rendered in that action, as the case may be.
-> > If an application for renunciation is made and the Minister subsequently provides the applicant with a notice referred to in subsection 10(3) or commences an action under subsection 10.1(1) or (2) for a declaration in respect of the applicant, the processing of that application is suspended until the Minister provides the applicant with his or her decision under subsection 10(5) or a final judgment has been rendered in that action, as the case may be.
-
 ### Section 3
 
 Subsection 10(2) of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 10(2):
-> *Existing Text*:
-> > The Minister may revoke a person's citizenship if the person, before or after the coming into force of this subsection and while the person was a citizen,
-> > was convicted under section 47 of the `Criminal Code` of treason and sentenced to imprisonment for life or was convicted of high treason under that section;
-> > was convicted of a terrorism offence as defined in section 2 of the `Criminal Code` — or an offence outside Canada that, if committed in Canada, would constitute a terrorism offence as defined in that section — and sentenced to at least five years of imprisonment;
-> > was convicted of an offence under any of sections 73 to 76 of the `National Defence Act` and sentenced to imprisonment for life because the person acted traitorously;
-> > was convicted of an offence under section 78 of the `National Defence Act` and sentenced to imprisonment for life;
-> > was convicted of an offence under section 130 of the `National Defence Act` in respect of an act or omission that is punishable under section 47 of the `Criminal Code` and sentenced to imprisonment for life;
-> > was convicted under the `National Defence Act` of a terrorism offence as defined in subsection 2(1) of that Act and sentenced to at least five years of imprisonment;
-> > was convicted of an offence described in section 16 or 17 of the `Security of Information Act` and sentenced to imprisonment for life; or
-> > was convicted of an offence under section 130 of the `National Defence Act` in respect of an act or omission that is punishable under section 16 or 17 of the `Security of Information Act` and sentenced to imprisonment for life.
 
 ### Section 4
 
@@ -106,26 +93,9 @@ Subsections 10.1(2) and (3) of the Act are replaced by the following:
 
 **(3)** A declaration made under subsection (1) has the effect of revoking a person's citizenship or renunciation of citizenship.
 
-
-> **Explanatory Note**:
-> Existing text of subsections 10.1(2) and (3):
-> *Existing Text*:
-> > If the Minister has reasonable grounds to believe that a person, before or after the coming into force of this subsection and while the person was a citizen, served as a member of an armed force of a country or as a member of an organized armed group and that country or group was engaged in an armed conflict with Canada, the person's citizenship may be revoked only if the Minister — after giving notice to the person — seeks a declaration, in an action that the Minister commences, that the person so served, before or after the coming into force of this subsection and while they were a citizen, and the Court makes such a declaration.
-> > Each of the following has the effect of revoking a person's citizenship or renunciation of citizenship:
-> > a declaration made under subsection (1);
-> > a declaration made under subsection (2).
-
 ### Section 5
 
 Sections 10.3 and 10.4 of the Act are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of sections 10.3 and 10.4:
-> *Existing Text*:
-> > A person whose citizenship is revoked under subsection 10(2) or paragraph 10.1(3)(b) becomes a foreign national within the meaning of subsection 2(1) of the `Immigration and Refugee Protection Act`.
-> > Subsections 10(2) and 10.1(2) do not operate so as to authorize any decision, action or declaration that conflicts with any international human rights instrument regarding statelessness to which Canada is signatory.
-> > If an instrument referred to in subsection (1) prohibits the deprivation of citizenship that would render a person stateless, a person who claims that subsection 10(2) or 10.1(2) would operate in the manner described in subsection (1) must prove, on a balance of probabilities, that the person is not a citizen of any country of which the Minister has reasonable grounds to believe the person is a citizen.
 
 ### Section 6
 
@@ -135,39 +105,15 @@ Section 10.6 of the Act is replaced by the following:
 
 Despite paragraph 27(1)(c) of the `Federal Courts Act`, no appeal may be made from an interlocutory judgment made with respect to a declaration referred to in subsection 10.1(1) or 10.5(1).
 
-
-> **Explanatory Note**:
-> Existing text of section 10.6:
-> *Existing Text*:
-> > Despite paragraph 27(1)(c) of the `Federal Courts Act`, no appeal may be made from an interlocutory judgment made with respect to a declaration referred to in subsection 10.1(1) or (2) or 10.5(1).
-
 ### Section 7
 
 Subsection 11(1) of the Act is amended by striking out "and" at the end of paragraph (d), by adding "and" at the end of paragraph (c) and by repealing paragraph (e).
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 11(1):
-> *Existing Text*:
-> > The Minister shall grant citizenship to any person who, having ceased to be a citizen,
-> > 
-> > intends, if granted citizenship,
-> > to continue to reside in Canada,
-> > to enter into, or continue in, employment outside Canada in or with the Canadian Armed Forces, the federal public administration or the public service of a province, otherwise than as a locally engaged person, or
-> > to reside with his or her spouse or common-law partner or parent, who is a Canadian citizen or permanent resident and is employed outside Canada in or with the Canadian Armed Forces, the federal public administration or the public service of a province, otherwise than as a locally engaged person.
 
 ### Section 8
 
 Paragraph 14(1)(a) of the Act is replaced by the following:
 
-**subparagraph** 5(1)(c)(i), in the case of an application for citizenship under subsection 5(1);
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 14(1):
-> *Existing Text*:
-> > If an application is accepted for processing and later referred to a citizenship judge because the Minister is not satisfied that the applicant meets the requirements of the following provisions, the citizenship judge shall determine whether the applicant meets those requirements within 60 days after the day on which the application is referred:
-> > subparagraphs 5(1)(c)(i) and (ii), in the case of an application for citizenship under subsection 5(1);
+subparagraph 5(1)(c)(i), in the case of an application for citizenship under subsection 5(1);
 
 ### Section 9
 
@@ -179,25 +125,25 @@ Paragraph 14(1)(a) of the Act is replaced by the following:
 
     has been under a probation order;
 
-    **has been** a paroled inmate; or
+    has been a paroled inmate; or
 
   **(2)** Paragraph 21(c) of the Act is replaced by the following:
 
-    **has served a term** of **imprisonment**.
+    has served a term of imprisonment.
 
 ### Section 10
 
   **(1)** The portion of paragraph 22(1)(a) of the English version of the Act before subparagraph (iii) is replaced by the following:
 
-    while the person, **under** any enactment in force in Canada,
+    while the person, under any enactment in force in Canada,
 
     is under a probation order,
 
-    **is** a paroled inmate, or
+    is a paroled inmate, or
 
   **(2)** Subparagraph 22(1)(a)(iii) of the Act is replaced by the following:
 
-    **is serving a term** of **imprisonment**;
+    is serving a term of imprisonment;
 
   **(3)** Subsection 22(1) of the Act is amended by adding "or" at the end of paragraph (e.2) and by replacing paragraphs (f) and (g) with the following:
 
@@ -211,35 +157,17 @@ The Act is amended by adding the following after section 23.1:
 
 The Minister may seize and detain any document that is provided to him or her for the purposes of this Act if he or she has reasonable grounds to believe that it was fraudulently or improperly obtained or used or that the measure is necessary to prevent its fraudulent or improper use.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 12
 
 Subsection 27(1) of the Act is amended by adding the following after paragraph (i.1):
 
 prescribing the procedures to be followed in relation to a document that may be seized under section 23.2, including in relation to its seizure, storage, return and disposition;
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 27(1):
-> *Existing Text*:
-> > The Governor in Council may make regulations
-
 ### Section 13
 
 The portion of paragraph 27.2(c) of the Act before subparagraph (i) is replaced by the following:
 
 with regard to the requirements of paragraphs 5(1)(d) and (e),
-
-
-> **Explanatory Note**:
-> Relevant portion of section 27.2:
-> *Existing Text*:
-> > The Minister may make regulations
-> > 
-> > with regard to the requirements of paragraphs 5(1)(d) and (e) and 5(2)(c) and (d),
 
 
 ## Transitional Provisions
@@ -298,31 +226,13 @@ Subsection 22(6) of the `Citizenship Act` applies to a person who made an applic
 
 Subparagraph 40(1)(d)(iii) of the `Immigration and Refugee Protection Act` is replaced by the following:
 
-**subsection** 10.1(3) of the `Citizenship Act`, in the circumstances set out in section 10.2 of that Act.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 40(1):
-> *Existing Text*:
-> > A permanent resident or a foreign national is inadmissible for misrepresentation
-> > 
-> > on ceasing to be a citizen under
-> > 
-> > Paragraph 10.1(3)(a) of the `Citizenship Act`, in the circumstances set out in section 10.2 of that Act.
+subsection 10.1(3) of the `Citizenship Act`, in the circumstances set out in section 10.2 of that Act.
 
 ### Section 26
 
 Paragraph 46(2)(c) of the Act is replaced by the following:
 
-**subsection** 10.1(3) of the `Citizenship Act`, other than in the circumstances set out in section 10.2 of that Act.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 46(2):
-> *Existing Text*:
-> > A person becomes a permanent resident if he or she ceases to be a citizen under
-> > 
-> > paragraph 10.1(3)(a) of the `Citizenship Act`, other than in the circumstances set out in section 10.2 of that Act.
+subsection 10.1(3) of the `Citizenship Act`, other than in the circumstances set out in section 10.2 of that Act.
 
 
 ## Coming into Force
