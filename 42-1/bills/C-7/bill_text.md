@@ -1,12 +1,14 @@
-# Bill C-7: An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain 
+# Bill C-7: An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures
 
 **Sponsor**: PRESIDENT OF THE TREASURY BOARD
+
+His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures*".
 
 ## Summary
 
 This enactment amends the `Public Service Labour Relations Act` to provide for a labour relations regime for members of the Royal Canadian Mounted Police and reservists. It provides a process for an employee organization to acquire collective bargaining rights for members and reservists and includes provisions that regulate collective bargaining, arbitration, unfair labour practices and grievances. It also amends the `Royal Canadian Mounted Police Act` to bar grievances related to the interpretation and application of a collective agreement or arbitral award, which are to be filed in accordance with the `Public Service Labour Relations Act`.
 
-It changes the title of the `Public Service Labour Relations Act` and the `Public Service Labour Relations and Employment Board Act` and the name of the Public Service Labour Relations and Employment Board. It also amends that latter Act to increase the maximum number of full-time members of the Board and to require the Chairperson, when making recommendations for appointment, to take into account the need for two members with knowledge of police organizations. It also removes the exclusion of Royal Canadian Mounted Police members from the workers' compensation scheme under the `Government Employees Compensation Act`.
+It changes the title of the `Public Service Labour Relations Act` and the `Public Service Labour Relations and Employment Board Act` and the name of the Public Service Labour Relations and Employment Board. It also amends that latter Act to increase the maximum number of full-time members of the Board and to require the Chairperson, when making recommendations for appointment, to take into account the need for two members with knowledge of police organizations.
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -23,25 +25,25 @@ Section 1 of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `**Federal** Public **Sector** Labour Relations Act`.
+This Act may be cited as the `Federal Public Sector Labour Relations Act`.
 
 ### Section 3
 
   **(1)** The definitions **Board**, **council of employee organizations** and **employee organization** in subsection 2(1) of the Act are replaced by the following:
 
-    **Board** means the **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`. (***Commission***)
+    **Board** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`. (***Commission***)
 
-    **council of employee organizations** means a council formed by two or more employee organizations **within the meaning of paragraph (a) of the definition ***employee organization*** or by two or more employee organizations within the meaning of paragraph (b) of that definition**.  (***regroupement d'organisations syndicales***)
+    **council of employee organizations** means a council formed by two or more employee organizations within the meaning of paragraph (a) of the definition ***employee organization*** or by two or more employee organizations within the meaning of paragraph (b) of that definition.  (***regroupement d'organisations syndicales***)
 
     **employee organization** means
 
-    **in respect of employees who are not RCMP members or reservists**, an organization of employees **that has as one of its** purposes the regulation of relations between the employer and its employees for the purposes of Parts 1 and 2; **and**
+    in respect of employees who are not RCMP members or reservists, an organization of employees that has as one of its purposes the regulation of relations between the employer and its employees for the purposes of Parts 1 and 2; and
 
-    **in respect of employees who are RCMP members or reservists, an organization of those employees that has as one of its purposes the regulation of relations between the employer and its employees for the purposes of Parts 1, 2 and 2.1.** (***organisation syndicale***)
+    in respect of employees who are RCMP members or reservists, an organization of those employees that has as one of its purposes the regulation of relations between the employer and its employees for the purposes of Parts 1, 2 and 2.1. (***organisation syndicale***)
 
   **(2)** Paragraph (d) of the definition **employee** in subsection 2(1) of the Act is replaced by the following:
 
-    a person who is **an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`**;
+    a person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`;
 
   **(3)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -53,11 +55,11 @@ This Act may be cited as the `**Federal** Public **Sector** Labour Relations Act
 
   **(4)** Subsection 2(4) of the Act is replaced by the following:
 
-    **(4)** For the purposes of paragraph (f) of the definition ***employee*** in subsection (1) **and paragraph (e) of the definition ***employee*** in subsection 206(1)**, a person employed in the part of the public service to which the Public Service Commission has the exclusive right to make appointments is employed on a casual basis if the person was appointed under section 50 of the `Public Service Employment Act`.
+    **(4)** For the purposes of paragraph (f) of the definition ***employee*** in subsection (1) and paragraph (e) of the definition ***employee*** in subsection 206(1), a person employed in the part of the public service to which the Public Service Commission has the exclusive right to make appointments is employed on a casual basis if the person was appointed under section 50 of the `Public Service Employment Act`.
 
   **(5)** Section 2 of the Act is amended by adding the following after subsection (5):
 
-    **(6)** **Unless** the context otherwise requires, **a reference to an employee organization includes a reference to** a council of employee organizations, and a reference to an employee organization within the meaning of paragraph (a) or (b), as the case may be, of the definition ***employee organization*** in subsection 2(1) includes a reference to a council formed by two or more employee organizations within the meaning of that paragraph.
+    **(6)** Unless the context otherwise requires, a reference to an employee organization includes a reference to a council of employee organizations, and a reference to an employee organization within the meaning of paragraph (a) or (b), as the case may be, of the definition ***employee organization*** in subsection 2(1) includes a reference to a council formed by two or more employee organizations within the meaning of that paragraph.
 
 ### Section 4
 
@@ -69,13 +71,13 @@ Section 13 of the Act is replaced by the following:
 
 ### Section 13
 
-The Board is to provide adjudication services that consist of the hearing of applications and complaints made under this Part **and Division 1 of Part 2.1**, the referral of grievances to adjudication in accordance with Part 2 **and Division 2 of Part 2.1** and the hearing of matters brought before the Board under Part 3.
+The Board is to provide adjudication services that consist of the hearing of applications and complaints made under this Part and Division 1 of Part 2.1, the referral of grievances to adjudication in accordance with Part 2 and Division 2 of Part 2.1 and the hearing of matters brought before the Board under Part 3.
 
 ### Section 6
 
 Paragraph 39(m) of the Act is replaced by the following:
 
-any other matter that is incidental or conducive to the attainment of the objects of this Part **or Division 1 of Part 2.1**.
+any other matter that is incidental or conducive to the attainment of the objects of this Part or Division 1 of Part 2.1.
 
 ### Section 7
 
@@ -83,7 +85,7 @@ Section 54 of the Act is replaced by the following:
 
 ### Section 54
 
-Subject to section 55, an employee organization **within the meaning of paragraph (a) of the definition ***employee organization*** in subsection 2(1)** that seeks to be certified as bargaining agent for a group of employees that it considers constitutes a unit **that is** appropriate for collective bargaining may apply to the Board, in accord-ance with the regulations, for certification as bargaining agent for the proposed bargaining unit. The Board must notify the employer of the application without delay.
+Subject to section 55, an employee organization within the meaning of paragraph (a) of the definition ***employee organization*** in subsection 2(1) that seeks to be certified as bargaining agent for a group of employees that it considers constitutes a unit that is appropriate for collective bargaining may apply to the Board, in accord-ance with the regulations, for certification as bargaining agent for the proposed bargaining unit. The Board must notify the employer of the application without delay.
 
 ### Section 8
 
@@ -91,7 +93,7 @@ The portion of section 56 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 56
 
-After being notified of an application for certification made in accordance with this Part **or Division 1 of Part 2.1**, the employer **is not authorized**, except under a collective agreement or with the consent of the Board, **to** alter the terms and conditions of employment that are applicable to the employees in the proposed bargaining unit and that may be included in a collective agreement until
+After being notified of an application for certification made in accordance with this Part or Division 1 of Part 2.1, the employer is not authorized, except under a collective agreement or with the consent of the Board, to alter the terms and conditions of employment that are applicable to the employees in the proposed bargaining unit and that may be included in a collective agreement until
 
 ### Section 9
 
@@ -99,11 +101,11 @@ After being notified of an application for certification made in accordance with
 
 ### Section 59
 
-      **(1)** After being notified of an application for certification made in accordance with this Part **or Division 1 of Part 2.1**, the employer may apply to the Board for an order declaring that any position of an employee in the proposed bargaining unit is a managerial or confidential position on the grounds that
+      **(1)** After being notified of an application for certification made in accordance with this Part or Division 1 of Part 2.1, the employer may apply to the Board for an order declaring that any position of an employee in the proposed bargaining unit is a managerial or confidential position on the grounds that
 
   **(2)** Paragraph 59(1)(e) of the Act is replaced by the following:
 
-    the occupant of the position has substantial management duties, responsibilities and authority over employees or has duties and responsibilities dealing formally on behalf of the employer with grievances presented in accordance with the grievance process provided for under Part 2 **or Division 2 of Part 2.1**;
+    the occupant of the position has substantial management duties, responsibilities and authority over employees or has duties and responsibilities dealing formally on behalf of the employer with grievances presented in accordance with the grievance process provided for under Part 2 or Division 2 of Part 2.1;
 
 ### Section 10
 
@@ -111,7 +113,7 @@ Subsection 64(1) of the Act is replaced by the following:
 
 ### Section 64
 
-  **(1)** If the Board is satisfied on the basis of the results of a secret ballot representation vote that a majority of the employees in a proposed bargaining unit who have cast a ballot have voted to have the applicant employee organization represent them as their bargaining agent, the Board must, subject to this Part **and Division 1 of Part 2.1**, certify the employee organization as the bargaining agent for the unit.
+  **(1)** If the Board is satisfied on the basis of the results of a secret ballot representation vote that a majority of the employees in a proposed bargaining unit who have cast a ballot have voted to have the applicant employee organization represent them as their bargaining agent, the Board must, subject to this Part and Division 1 of Part 2.1, certify the employee organization as the bargaining agent for the unit.
 
 ### Section 11
 
@@ -123,19 +125,19 @@ Section 70 of the Act is amended by adding the following after subsection (2):
 
 Subsection 79(2) of the Act is replaced by the following:
 
-**(2)** If any question arises in respect of the merger, amalgamation or transfer of jurisdiction concerning the rights, privileges and duties of an employee organization under this Part **or Division 1 of Part 2.1** or under a collective agreement or an arbitral award in respect of a bargaining unit or an employee in a bargaining unit, the Board, on application by the employer or any person or employee organization concerned, must determine what rights, privileges and duties have been acquired or are retained.
+**(2)** If any question arises in respect of the merger, amalgamation or transfer of jurisdiction concerning the rights, privileges and duties of an employee organization under this Part or Division 1 of Part 2.1 or under a collective agreement or an arbitral award in respect of a bargaining unit or an employee in a bargaining unit, the Board, on application by the employer or any person or employee organization concerned, must determine what rights, privileges and duties have been acquired or are retained.
 
 ### Section 13
 
 Subsection 100(2) of the Act is replaced by the following:
 
-**(2)** The circumstances set out in subsection (1) apply in addition to the circumstances in which a certification may be revoked under sections 94 to 99 **and section 238.17**.
+**(2)** The circumstances set out in subsection (1) apply in addition to the circumstances in which a certification may be revoked under sections 94 to 99 and section 238.17.
 
 ### Section 14
 
 Subsection 101(2) of the Act is replaced by the following:
 
-**(2)** If the certification of an employee organization is revoked by the Board under section 96, any of sections 98 to 100 **or section 238.17**, the Board must, on application by the employee organization or any employee organization that is substituted in the place of a bargaining agent under paragraph 67(c), determine any question as to any right or duty of the employee organization or of the substituted employee organization.
+**(2)** If the certification of an employee organization is revoked by the Board under section 96, any of sections 98 to 100 or section 238.17, the Board must, on application by the employee organization or any employee organization that is substituted in the place of a bargaining agent under paragraph 67(c), determine any question as to any right or duty of the employee organization or of the substituted employee organization.
 
 ### Section 15
 
@@ -143,7 +145,7 @@ The portion of section 113 of the Act before paragraph (a) is replaced by the fo
 
 ### Section 113
 
-A collective agreement **that applies to a bargaining unit — other than a bargaining unit determined under section 238.14 — must** not, directly or indirectly, alter or eliminate any existing term or condition of employment or establish any new term or condition of employment if
+A collective agreement that applies to a bargaining unit — other than a bargaining unit determined under section 238.14 — must not, directly or indirectly, alter or eliminate any existing term or condition of employment or establish any new term or condition of employment if
 
 ### Section 16
 
@@ -151,7 +153,7 @@ Section 114 of the Act is replaced by the following:
 
 ### Section 114
 
-Subject to and for the purposes of this Part **and Division 1 of Part 2.1**, a collective agreement is binding on the employer, the bargaining agent and every employee in the bargaining unit on and after the day on which it has effect. To the extent that the collective agreement deals with matters referred to in section 12 of the `Financial Administration Act`, the collective agreement is also binding, on and after that day, on every deputy head responsible for any portion of the federal public administration that employs employees in the bargaining unit.
+Subject to and for the purposes of this Part and Division 1 of Part 2.1, a collective agreement is binding on the employer, the bargaining agent and every employee in the bargaining unit on and after the day on which it has effect. To the extent that the collective agreement deals with matters referred to in section 12 of the `Financial Administration Act`, the collective agreement is also binding, on and after that day, on every deputy head responsible for any portion of the federal public administration that employs employees in the bargaining unit.
 
 ### Section 17
 
@@ -159,7 +161,7 @@ Subsection 144(1) of the Act is replaced by the following:
 
 ### Section 144
 
-  **(1)** Subject to **sections** 150 **and 238.22**, after establishing the arbitration board, the Chairperson must without delay refer the matters in dispute to the board.
+  **(1)** Subject to sections 150 and 238.22, after establishing the arbitration board, the Chairperson must without delay refer the matters in dispute to the board.
 
 ### Section 18
 
@@ -167,7 +169,7 @@ The portion of subsection 150(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 150
 
-  **(1)** **An** arbitral award **that applies to a bargaining unit — other than a bargaining unit determined under section 238.14 — must** not, directly or indirectly, alter or eliminate any existing term or condition of employment, or establish any new term or condition of employment, if
+  **(1)** An arbitral award that applies to a bargaining unit — other than a bargaining unit determined under section 238.14 — must not, directly or indirectly, alter or eliminate any existing term or condition of employment, or establish any new term or condition of employment, if
 
 ### Section 19
 
@@ -175,7 +177,7 @@ Section 154 of the Act is replaced by the following:
 
 ### Section 154
 
-Subject to and for the purposes of this Part **and Division 1 of Part 2.1**, as of the day on which it is made, the arbitral award binds the employer and the bargaining agent that are parties to it and the employees in the bargaining unit in respect of which the bargaining agent has been certified. To the extent that it deals with matters referred to in section 12 of the `Financial Administration Act`, the arbitral award is also binding, on and after that day, on every deputy head responsible for any portion of the federal public administration that employs employees in the bargaining unit.
+Subject to and for the purposes of this Part and Division 1 of Part 2.1, as of the day on which it is made, the arbitral award binds the employer and the bargaining agent that are parties to it and the employees in the bargaining unit in respect of which the bargaining agent has been certified. To the extent that it deals with matters referred to in section 12 of the `Financial Administration Act`, the arbitral award is also binding, on and after that day, on every deputy head responsible for any portion of the federal public administration that employs employees in the bargaining unit.
 
 ### Section 20
 
@@ -183,9 +185,9 @@ Subsections 158.1(1) and (2) of the Act are replaced by the following:
 
 ### Section 158.1
 
-  **(1)** Within seven days after the day on which an arbitral award is made, the Chairperson may direct the arbitration board to review the arbitral award, or any part of it, if in the Chairperson's opinion, the arbitral award, or any part of it, does not represent a reasonable application of the factors referred to in section 148 **and, if applicable, the factor referred to in section 238.21,** based on a full consideration of the written submissions provided to the arbitration board.
+  **(1)** Within seven days after the day on which an arbitral award is made, the Chairperson may direct the arbitration board to review the arbitral award, or any part of it, if in the Chairperson's opinion, the arbitral award, or any part of it, does not represent a reasonable application of the factors referred to in section 148 and, if applicable, the factor referred to in section 238.21, based on a full consideration of the written submissions provided to the arbitration board.
 
-  **(2)** On application by either party to an arbitral award, made within seven days after the day on which the arbitral award is made, the Chairperson may, within seven days after the day on which the application is made, direct the arbitration board to review the arbitral award, or any part of it, if in the Chairperson's opinion, the arbitral award, or any part of it, does not represent a reasonable application of the factors referred to in section 148 **and, if applicable, the factor referred to in section 238.21,** based on a full consideration of the written submissions provided to the arbitration board.
+  **(2)** On application by either party to an arbitral award, made within seven days after the day on which the arbitral award is made, the Chairperson may, within seven days after the day on which the application is made, direct the arbitration board to review the arbitral award, or any part of it, if in the Chairperson's opinion, the arbitral award, or any part of it, does not represent a reasonable application of the factors referred to in section 148 and, if applicable, the factor referred to in section 238.21, based on a full consideration of the written submissions provided to the arbitration board.
 
 ### Section 21
 
@@ -193,77 +195,77 @@ Subsections 158.1(1) and (2) of the Act are replaced by the following:
 
 ### Section 186
 
-      **(1)** **No** employer, **and**, whether or not **they are** acting on the **employer's** behalf, **no** person who occupies a managerial or confidential position **and no person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer**, shall
+      **(1)** No employer, and, whether or not they are acting on the employer's behalf, no person who occupies a managerial or confidential position and no person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer, shall
 
   **(2)** The portion of subsection 186(2) of the Act before subparagraph (a)(i) is replaced by the following:
 
-    **(2)** **No** employer, **no** person acting on the **employer's** behalf, **and**, whether or not **they are** acting on the **employer's** behalf, **no** person who occupies a managerial or confidential position **and no person who is an **officer** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer**, shall
+    **(2)** No employer, no person acting on the employer's behalf, and, whether or not they are acting on the employer's behalf, no person who occupies a managerial or confidential position and no person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer, shall
 
-      refuse to employ or to continue to employ, or suspend, lay off, **discharge for the promotion of economy and efficiency in the Royal Canadian Mounted Police** or otherwise discriminate against any person with respect to employment, pay or any other term or condition of employment, or intimidate, threaten or otherwise discipline any person, because the person
+      refuse to employ or to continue to employ, or suspend, lay off, discharge for the promotion of economy and efficiency in the Royal Canadian Mounted Police or otherwise discriminate against any person with respect to employment, pay or any other term or condition of employment, or intimidate, threaten or otherwise discipline any person, because the person
 
   **(3)** Subparagraphs 186(2)(a)(ii) to (iv) of the Act are replaced by the following:
 
-    has testified or otherwise participated, or may testify or otherwise participate, in a proceeding under this Part or Part 2 **or 2.1**,
+    has testified or otherwise participated, or may testify or otherwise participate, in a proceeding under this Part or Part 2 or 2.1,
 
-    has made an application or filed a complaint under this Part **or Division 1 of Part 2.1** or presented a grievance under Part 2 **or Division 2 of Part 2.1**, or
+    has made an application or filed a complaint under this Part or Division 1 of Part 2.1 or presented a grievance under Part 2 or Division 2 of Part 2.1, or
 
-    has exercised any right under this Part or Part 2 **or 2.1**;
+    has exercised any right under this Part or Part 2 or 2.1;
 
   **(4)** Paragraph 186(2)(b) of the Act is replaced by the following:
 
-    impose, or propose the imposition of, any condition on an appointment, or in an employee's terms and conditions of employment, that seeks to restrain an employee or a person seeking employment from becoming a member of an employee organization or exercising any right under this Part or Part 2 **or 2.1**; or
+    impose, or propose the imposition of, any condition on an appointment, or in an employee's terms and conditions of employment, that seeks to restrain an employee or a person seeking employment from becoming a member of an employee organization or exercising any right under this Part or Part 2 or 2.1; or
 
   **(5)** Subparagraphs 186(2)(c)(i) to (iii) of the Act are replaced by the following:
 
-    testifying or otherwise participating in a proceeding under this Part or Part 2 **or 2.1**,
+    testifying or otherwise participating in a proceeding under this Part or Part 2 or 2.1,
 
-    making a disclosure that the person may be required to make in a proceeding under this Part or Part 2 **or 2.1**, or
+    making a disclosure that the person may be required to make in a proceeding under this Part or Part 2 or 2.1, or
 
-    making an application or filing a complaint under this Part **or Division 1 of Part 2.1** or presenting a grievance under Part 2 **or Division 2 of Part 2.1**.
+    making an application or filing a complaint under this Part or Division 1 of Part 2.1 or presenting a grievance under Part 2 or Division 2 of Part 2.1.
 
   **(6)** Paragraph 186(4)(a) of the Act is replaced by the following:
 
-    if the employer or person is acting in accordance with this Part **or Division 1 of Part 2.1**, or a regulation, a collective agreement or an arbitral award; or
+    if the employer or person is acting in accordance with this Part or Division 1 of Part 2.1, or a regulation, a collective agreement or an arbitral award; or
 
   **(7)** Subsection 186(6) of the Act is replaced by the following:
 
-    **(6)** The employer or a person does not commit an unfair labour practice under any of paragraphs (1)(a) or (b) or (2)(a) to (c) by reason only of any act or thing done or omitted in relation to a person who occupies, or is proposed to occupy, a managerial or confidential position **or to a person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer**.
+    **(6)** The employer or a person does not commit an unfair labour practice under any of paragraphs (1)(a) or (b) or (2)(a) to (c) by reason only of any act or thing done or omitted in relation to a person who occupies, or is proposed to occupy, a managerial or confidential position or to a person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer.
 
 ### Section 22
 
   **(1)** Paragraph 188(d) of the Act is replaced by the following:
 
-    expel or suspend an employee from membership in the employee organization, or take disciplinary action against, or impose any form of penalty on, an employee by reason of that employee having exercised any right under this Part or Part 2 **or 2.1** or having refused to perform an act that is contrary to this Part **or Division 1 of Part 2.1**; or
+    expel or suspend an employee from membership in the employee organization, or take disciplinary action against, or impose any form of penalty on, an employee by reason of that employee having exercised any right under this Part or Part 2 or 2.1 or having refused to perform an act that is contrary to this Part or Division 1 of Part 2.1; or
 
   **(2)** Subparagraphs 188(e)(i) to (iii) of the Act are replaced by the following:
 
-    testified or otherwise participated or may testify or otherwise participate in a proceeding under this Part or Part 2 **or 2.1**,
+    testified or otherwise participated or may testify or otherwise participate in a proceeding under this Part or Part 2 or 2.1,
 
-    made an application or filed a complaint under this Part **or Division 1 of Part 2.1** or presented a grievance under Part 2 **or Division 2 of Part 2.1**, or
+    made an application or filed a complaint under this Part or Division 1 of Part 2.1 or presented a grievance under Part 2 or Division 2 of Part 2.1, or
 
-    exercised any right under this Part or Part 2 **or 2.1**.
+    exercised any right under this Part or Part 2 or 2.1.
 
 ### Section 23
 
   **(1)** Paragraph 189(1)(b) of the Act is replaced by the following:
 
-    to refrain from exercising any other right under this Part or Part 2 **or 2.1**.
+    to refrain from exercising any other right under this Part or Part 2 or 2.1.
 
   **(2)** Subsection 189(2) of the Act is replaced by the following:
 
-    **(2)** A person does not commit an unfair labour practice referred to in subsection (1) by reason of any act or thing done or omitted in relation to a person who occupies, or **who** is proposed to occupy, a managerial or confidential position **or to a person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer**.
+    **(2)** A person does not commit an unfair labour practice referred to in subsection (1) by reason of any act or thing done or omitted in relation to a person who occupies, or who is proposed to occupy, a managerial or confidential position or to a person who is an ***officer*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or who occupies a position held by such an officer.
 
 ### Section 24
 
 Subsection 191(2) of the Act is replaced by the following:
 
-**(2)** The Board may refuse to determine a complaint made under subsection 190(1) in respect of a matter that, in the Board's opinion, could be referred to adjudication under Part 2 **or Division 2 of Part 2.1** by the complainant.
+**(2)** The Board may refuse to determine a complaint made under subsection 190(1) in respect of a matter that, in the Board's opinion, could be referred to adjudication under Part 2 or Division 2 of Part 2.1 by the complainant.
 
 ### Section 25
 
 Subparagraph 192(1)(b)(i) of the English version of the Act is replaced by the following:
 
-employ, continue to employ or permit to return to the duties of their employment any person whom the employer or any person acting on the **employer's** behalf has refused to employ or continue to employ, has suspended, transferred, laid off, **discharged for the promotion of economy and efficiency in the Royal Canadian Mounted Police** or otherwise discriminated against, or discharged contrary to that paragraph,
+employ, continue to employ or permit to return to the duties of their employment any person whom the employer or any person acting on the employer's behalf has refused to employ or continue to employ, has suspended, transferred, laid off, discharged for the promotion of economy and efficiency in the Royal Canadian Mounted Police or otherwise discriminated against, or discharged contrary to that paragraph,
 
 ### Section 26
 
@@ -282,7 +284,7 @@ Subsection 202(3) of the Act is replaced by the following:
 
 **(3)** Every employee organization that contravenes section 199.1 is guilty of an offence and liable on summary conviction to a fine of not more than $10,000.
 
-****(4)**** A prosecution for an offence under **any of subsections** (1) **to (3)** may be brought against an employee organization and in the name of that organization and, for the purposes of the prosecution, the employee organization is deemed to be a person.
+**(4)** A prosecution for an offence under any of subsections (1) to (3) may be brought against an employee organization and in the name of that organization and, for the purposes of the prosecution, the employee organization is deemed to be a person.
 
 ### Section 28
 
@@ -290,7 +292,7 @@ Section 203 of the Act is replaced by the following:
 
 ### Section 203
 
-Every officer or representative of an employee organization who contravenes subsection 194(1) **or section 199.1** is guilty of an offence and liable on summary conviction to a fine of not more than $10,000.
+Every officer or representative of an employee organization who contravenes subsection 194(1) or section 199.1 is guilty of an offence and liable on summary conviction to a fine of not more than $10,000.
 
 ### Section 29
 
@@ -314,7 +316,7 @@ a ***member*** as defined in subsection 2(1) of the `Royal Canadian Mounted Poli
 
 a person who is employed under a program designated by the employer as a student employment program. (***fonctionnaire***)
 
-**individual grievance** means a grievance presented in accordance with section 208 **or 238.24**. (***grief individuel***)
+**individual grievance** means a grievance presented in accordance with section 208 or 238.24. (***grief individuel***)
 
 ### Section 30
 
@@ -322,7 +324,7 @@ The portion of subsection 209(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 209
 
-  **(1)** An employee **who is not a **member** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`** may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the grievance is related to
+  **(1)** An employee who is not a ***member*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the grievance is related to
 
 ### Section 31
 
@@ -330,13 +332,13 @@ Section 214 of the Act is replaced by the following:
 
 ### Section 214
 
-If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209 **or 238.25** may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
+If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209 or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
 
 ### Section 32
 
 Paragraph 237(1)(h) of the Act is replaced by the following:
 
-the specification of the time within which and the persons to whom notices and other documents must be sent or given under this Part **or Division 2 of Part 2.1**, and when the notices are deemed to have been sent, given or received; and
+the specification of the time within which and the persons to whom notices and other documents must be sent or given under this Part or Division 2 of Part 2.1, and when the notices are deemed to have been sent, given or received; and
 
 ### Section 33
 
@@ -352,7 +354,7 @@ The Act is amended by adding the following after section 238:
 
   **(1)** In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
 
-  **(2)** In Division 2 of this Part, ***RCMP member*** has the meaning assigned by the definition **member** in subsection 2(1) of the `Royal Canadian Mounted Police Act`.
+  **(2)** In Division 2 of this Part, ***RCMP member*** has the meaning assigned by the definition ***member*** in subsection 2(1) of the `Royal Canadian Mounted Police Act`.
 
 ### Section 238.02
 
@@ -368,7 +370,7 @@ The Act is amended by adding the following after section 238:
 
 ### Section 238.03
 
-Nothing in this Act is to be construed as affecting the right or authority of the Treasury Board **to determine categories of ***members*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`.**
+Nothing in this Act is to be construed as affecting the right or authority of the Treasury Board to determine categories of ***members*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`.
 
 ### Section 238.04
 
@@ -512,9 +514,9 @@ A collective agreement that applies to the bargaining unit determined under sect
 
 doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition;
 
-the term or condition is one that has been or may be established under **the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`**, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`; or
+the term or condition is one that has been or may be established under the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`; or
 
-**the term or condition relates to**
+the term or condition relates to
 
 law enforcement techniques,
 
@@ -552,11 +554,11 @@ In addition to the factors set out in subsection 148(2), the arbitration board m
 
     doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition;
 
-    the term or condition is one that has been or may be established under **the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`**, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`;
+    the term or condition is one that has been or may be established under the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`;
 
-    doing so would affect the organization of the public service, **the categories of ***members*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`** or the assignment of duties to, and the classification of, positions and persons employed in the public service; or
+    doing so would affect the organization of the public service, the categories of ***members*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or the assignment of duties to, and the classification of, positions and persons employed in the public service; or
 
-    **the term or condition relates to**
+    the term or condition relates to
 
     law enforcement techniques,
 
@@ -693,11 +695,11 @@ respecting the measures that are to be taken by an adjudicator or the Board, as 
 
   **(1)** Subparagraph 240(a)(i) of the Act is replaced by the following:
 
-    "arbitration" is to be read as a reference to adjudication under Part 2 **or  Division 2 of Part 2.1**,
+    "arbitration" is to be read as a reference to adjudication under Part 2 or  Division 2 of Part 2.1,
 
   **(2)** Subparagraph 240(a)(v) of the Act is replaced by the following:
 
-    a "trade union" is to be read as a reference to an employee organization within the meaning of subsection 2(1) **and includes, unless the context otherwise requires, a council of employee organizations within the meaning of that subsection**;
+    a "trade union" is to be read as a reference to an employee organization within the meaning of subsection 2(1) and includes, unless the context otherwise requires, a council of employee organizations within the meaning of that subsection;
 
 
 ## `Public Service Labour Relations and Employment Board Act`
@@ -712,14 +714,14 @@ Section 1 of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `**Federal** Public **Sector** Labour Relations and Employment Board Act`.
+This Act may be cited as the `Federal Public Sector Labour Relations and Employment Board Act`.
 
 ### Section 37
 
 The heading "Establishment and Composition" before section 4 of the Act is replaced by the following:
 
 
-### **Continuance** and Composition
+### Continuance and Composition
 
 ### Section 38
 
@@ -727,11 +729,11 @@ The heading "Establishment and Composition" before section 4 of the Act is repla
 
 ### Section 4
 
-      **(1)** **The** Public Service Labour Relations and Employment Board **is continued under the name of the Federal Public Sector Labour Relations and Employment Board**.
+      **(1)** The Public Service Labour Relations and Employment Board is continued under the name of the Federal Public Sector Labour Relations and Employment Board.
 
   **(2)** Paragraph 4(2)(c) of the Act is replaced by the following:
 
-    not more than **12** other members who are to hold office on a full-time basis; and
+    not more than 12 other members who are to hold office on a full-time basis; and
 
 ### Section 39
 
@@ -744,11 +746,7 @@ Section 6 of the Act is amended by adding the following after subsection (1):
 
 ### Section 40
 
-Subsection 3(1) of the `Government Employees Compensation Act` is replaced by the following:
-
-### Section 3
-
-  **(1)** This Act does not apply to any person who is a member of the regular force of the Canadian Forces.
+[*Deleted*]
 
 
 ## `Royal Canadian Mounted Police Act`
@@ -759,7 +757,7 @@ Subsection 3(1) of the `Government Employees Compensation Act` is replaced by th
 
 ### Section 31
 
-      **(1)** Subject to subsections (**1.01**) to (3), if a member is aggrieved by a decision, act or omission in the administration of the affairs of the Force in respect of which no other process for redress is provided by this Act, the regulations or the Commissioner's standing orders, the member is entitled to present the grievance in writing at each of the levels, up to and including the final level, in the grievance process provided for by this Part.
+      **(1)** Subject to subsections (1.01) to (3), if a member is aggrieved by a decision, act or omission in the administration of the affairs of the Force in respect of which no other process for redress is provided by this Act, the regulations or the Commissioner's standing orders, the member is entitled to present the grievance in writing at each of the levels, up to and including the final level, in the grievance process provided for by this Part.
 
   **(2)** Section 31 of the Act is amended by adding the following after subsection (1):
 
@@ -770,7 +768,7 @@ Subsection 3(1) of the `Government Employees Compensation Act` is replaced by th
 
 ### Section 42
 
-Subsection 34(1) of the `Royal Canadian Mounted Police Superannuation Act` is repealed.
+[*Deleted*]
 
 
 ## Consequential Amendments
@@ -782,7 +780,7 @@ Subsection 34(1) of the `Royal Canadian Mounted Police Superannuation Act` is re
 
 Item 11 of the schedule to the `Canada Evidence Act` is replaced by the following:
 
-The **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`, for the purposes of a grievance process under the `**Federal** Public **Sector** Labour Relations Act` with respect to an employee of the Canadian Security Intelligence Service, with the exception of any information provided to the Board by the employee
+The Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`, for the purposes of a grievance process under the `Federal Public Sector Labour Relations Act` with respect to an employee of the Canadian Security Intelligence Service, with the exception of any information provided to the Board by the employee
 
 
 ### `Canadian Security Intelligence Service Act`
@@ -791,7 +789,7 @@ The **Federal** Public **Sector** Labour Relations and Employment Board **referr
 
 Subsection 8(3) of the `Canadian Security Intelligence Service Act` is replaced by the following:
 
-**(3)** When a grievance is referred to adjudication, the adjudication shall not be heard or determined by any person, other than a full-time member of the **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`.
+**(3)** When a grievance is referred to adjudication, the adjudication shall not be heard or determined by any person, other than a full-time member of the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`.
 
 
 ### `Federal Courts Act`
@@ -800,7 +798,7 @@ Subsection 8(3) of the `Canadian Security Intelligence Service Act` is replaced 
 
 Paragraph 28(1)(i) of the `Federal Courts Act` is replaced by the following:
 
-the **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`;
+the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`;
 
 
 ### `Financial Administration Act`
@@ -809,7 +807,7 @@ the **Federal** Public **Sector** Labour Relations and Employment Board **referr
 
 Subparagraph 11.1(1)(g)(i) of the `Financial Administration Act` is replaced by the following:
 
-the manner in which deputy heads in the core public administration may deal with grievances under the `**Federal** Public **Sector** Labour Relations Act` to which they are a party, and the manner in which they may deal with them if the grievances are referred to adjudication under subsection 209(1) **or 238.25(1)** of that Act, and
+the manner in which deputy heads in the core public administration may deal with grievances under the `Federal Public Sector Labour Relations Act` to which they are a party, and the manner in which they may deal with them if the grievances are referred to adjudication under subsection 209(1) or 238.25(1) of that Act, and
 
 
 ### `Parliamentary Employment and Staff Relations Act`
@@ -818,7 +816,7 @@ the manner in which deputy heads in the core public administration may deal with
 
 The definition **Board** in section 3 of the `Parliamentary Employment and Staff Relations Act` is replaced by the following:
 
-**Board** means the **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`; (***Commission***)
+**Board** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`; (***Commission***)
 
 ### Section 48
 
@@ -826,7 +824,7 @@ The portion of section 9 of the Act before paragraph (a) is replaced by the foll
 
 ### Section 9
 
-Unless otherwise provided in this Part, the provisions of the `**Federal** Public **Sector** Labour Relations and Employment Board Act` and the `**Federal** Public **Sector** Labour Relations Act` respecting the Board apply also in respect of this Part except that, for the purpose of that application,
+Unless otherwise provided in this Part, the provisions of the `Federal Public Sector Labour Relations and Employment Board Act` and the `Federal Public Sector Labour Relations Act` respecting the Board apply also in respect of this Part except that, for the purpose of that application,
 
 
 ### `Status of the Artist Act`
@@ -835,7 +833,7 @@ Unless otherwise provided in this Part, the provisions of the `**Federal** Publi
 
 Paragraph 9(3)(a) of the `Status of the Artist Act` is replaced by the following:
 
-employees, within the meaning of the `**Federal** Public **Sector** Labour Relations Act`, including those determined to be employees by the **Federal** Public **Sector** Labour Relations and Employment Board, and members of a bargaining unit that is certified by that Board; or
+employees, within the meaning of the `Federal Public Sector Labour Relations Act`, including those determined to be employees by the Federal Public Sector Labour Relations and Employment Board, and members of a bargaining unit that is certified by that Board; or
 
 
 ### `Public Service Employment Act`
@@ -844,7 +842,7 @@ employees, within the meaning of the `**Federal** Public **Sector** Labour Relat
 
 The definition **Board** in subsection 2(1) of the `Public Service Employment Act` is replaced by the following:
 
-**Board** means the **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`. (***Commission des relations de travail et de l'emploi***)
+**Board** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`. (***Commission des relations de travail et de l'emploi***)
 
 
 ### `Public Servants Disclosure Protection Act`
@@ -853,7 +851,7 @@ The definition **Board** in subsection 2(1) of the `Public Service Employment Ac
 
 Paragraph 51(a) of the `Public Servants Disclosure Protection Act` is replaced by the following:
 
-the presentation of an individual grievance under subsection 208(1) **or section 238.24** of the `**Federal** Public **Sector** Labour Relations Act`; or
+the presentation of an individual grievance under subsection 208(1) or section 238.24 of the `Federal Public Sector Labour Relations Act`; or
 
 
 ### `Public Sector Equitable Compensation Act`
@@ -862,7 +860,7 @@ the presentation of an individual grievance under subsection 208(1) **or section
 
 The definition **Board** in subsection 2(1) of the `Public Sector Equitable Compensation Act` is replaced by the following:
 
-**Board** means the **Federal** Public **Sector** Labour Relations and Employment Board **referred to in** subsection 4(1) of the `**Federal** Public **Sector** Labour Relations and Employment Board Act`. (***Commission***)
+**Board** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`. (***Commission***)
 
 ### Section 53
 
@@ -870,7 +868,7 @@ Section 16 of the Act is replaced by the following:
 
 ### Section 16
 
-The provisions of a collective agreement between an employer and a bargaining agent in relation to equitable compensation may not be inconsistent with **sections** 113 **and 238.19** of the `**Federal** Public **Sector** Labour Relations Act`.
+The provisions of a collective agreement between an employer and a bargaining agent in relation to equitable compensation may not be inconsistent with sections 113 and 238.19 of the `Federal Public Sector Labour Relations Act`.
 
 ### Section 54
 
@@ -878,7 +876,7 @@ Section 17 of the Act is replaced by the following:
 
 ### Section 17
 
-If arbitration has been chosen under subsection 104(1) of the `**Federal** Public **Sector** Labour Relations Act` as, or is, by reason of subsection 104(2) **or section 238.18** of that Act, the process for the resolution of disputes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
+If arbitration has been chosen under subsection 104(1) of the `Federal Public Sector Labour Relations Act` as, or is, by reason of subsection 104(2) or section 238.18 of that Act, the process for the resolution of dis­putes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
 
 ### Section 55
 
@@ -886,7 +884,7 @@ Subsection 19(1) of the Act is replaced by the following:
 
 ### Section 19
 
-  **(1)** The body seized of a request for arbitration under the `**Federal** Public **Sector** Labour Relations Act` that includes equitable compensation matters shall, subject to **sections** 150 **and 238.22** of that Act, make an arbitral award that sets out a plan to resolve those matters within a reasonable time.
+  **(1)** The body seized of a request for arbitration under the `Federal Public Sector Labour Relations Act` that includes equitable compensation matters shall, subject to sections 150 and 238.22 of that Act, make an arbitral award that sets out a plan to resolve those matters within a reasonable time.
 
 
 ### `Public Service Labour Relations Regulations`
@@ -896,7 +894,7 @@ Subsection 19(1) of the Act is replaced by the following:
 The title of the `Public Service Labour Relations Regulations` is replaced by the following:
 
 
-### **Federal** Public **Sector** Labour Relations Regulations
+### Federal Public Sector Labour Relations Regulations
 
 
 ## Terminology
@@ -1114,11 +1112,11 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(1)** The following definitions apply in this section and sections `64` to `66`.
 
-    **former Act**  means the `Public Service Labour Relations Act`, as it read immediately before the coming into force of section `2`. (**ancienne loi**)
+    **former Act**  means the `Public Service Labour Relations Act`, as it read immediately before the coming into force of section `2`. (***ancienne loi***)
 
-    **member**  has the same meaning as in subsection 2(1) of the `Royal Canadian Mounted Police Act`. (**membre**)
+    **member**  has the same meaning as in subsection 2(1) of the `Royal Canadian Mounted Police Act`. (***membre***)
 
-    **reservist**  means a person who is appointed as a reservist under regulations made under subsection 11(1) of the `Royal Canadian Mounted Police Act`. (**réserviste**)
+    **reservist**  means a person who is appointed as a reservist under regulations made under subsection 11(1) of the `Royal Canadian Mounted Police Act`. (***réserviste***)
 
   **(2)** Unless the context requires otherwise, words and expressions used in sections `64` to `66` have the same meaning as in subsection 2(1) of the former Act.
 
@@ -1195,9 +1193,9 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
   **(1)** The following definitions apply in this section.
 
-    **other Act** means the Act enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, as amended from time to time. (**autre loi**)
+    **other Act** means the Act enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, as amended from time to time. (***autre loi***)
 
-    **published date** means the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`. (**date publiée**)
+    **published date** means the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`. (***date publiée***)
 
   **(2)** If subsection `3`(3) and section 30 of this Act come into force before the published date, then, on the published date,
 
@@ -1215,7 +1213,7 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
 ### Section 238.01
 
-    In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
+    In this Part, ****RCMP Commissioner**** means the Commissioner of the Royal Canadian Mounted Police.
 
     subsection 238.02(3) of the other Act is replaced by the following:
 
@@ -1237,7 +1235,7 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
 ### Section 238.01
 
-    In this Part, **RCMP Commissioner** means the Commissioner of the Royal Canadian Mounted Police.
+    In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
 
     subsection 238.02(3) of the other Act is replaced by the following:
 
@@ -1247,9 +1245,9 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
   **(1)** The following definitions apply in this section.
 
-    **other Act** means the `Economic Action Plan 2013 Act, No. 2`. (**autre loi**)
+    **other Act** means the `Economic Action Plan 2013 Act, No. 2`. (***autre loi***)
 
-    **published date** means the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`. (**date publiée**)
+    **published date** means the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`. (***date publiée***)
 
   **(2)** If the published date is before the day on which subsection `41`(2) of this Act comes into force, and if that subsection `41`(2) comes into force before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the following:
 
@@ -1265,9 +1263,9 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
     subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the following:
 
-    **(3)** A complaint must not be dealt with by the Commission under section 40 if it is made by an **employee**, as defined in subsection 206(1) of the `Federal Public Sector Labour Relations Act`, other than an **RCMP member**, as defined in subsection 238.01(2) of that Act, against their **employer**, as defined in subsection 2(1) of that Act, and it alleges that the employer has engaged in a discriminatory practice set out in section 7, 8, 10 or 14.
+    **(3)** A complaint must not be dealt with by the Commission under section 40 if it is made by an ***employee***, as defined in subsection 206(1) of the `Federal Public Sector Labour Relations Act`, other than an ***RCMP member***, as defined in subsection 238.01(2) of that Act, against their ***employer***, as defined in subsection 2(1) of that Act, and it alleges that the employer has engaged in a discriminatory practice set out in section 7, 8, 10 or 14.
 
-    **(3.1)** A complaint made by an **employee**, as defined in subsection 206(1) of the `Federal Public Sector Labour Relations Act`, who is an **RCMP member**, as defined in subsection 238.01(2) of that Act, against their **employer**, as defined in subsection 2(1) of that Act, or a complaint made by the bargaining agent for the bargaining unit determined under section 238.14 of that Act, must not be dealt with by the Commission under section 40 if it relates to the interpretation or application, in respect of the employee or of the members of the bargaining unit, as the case may be, of a provision of a collective agreement or arbitral award and alleges that the employer has engaged in a discriminatory practice set out in section 7, 8, 10 or 14.
+    **(3.1)** A complaint made by an ***employee***, as defined in subsection 206(1) of the `Federal Public Sector Labour Relations Act`, who is an ***RCMP member***, as defined in subsection 238.01(2) of that Act, against their ***employer***, as defined in subsection 2(1) of that Act, or a complaint made by the bargaining agent for the bargaining unit determined under section 238.14 of that Act, must not be dealt with by the Commission under section 40 if it relates to the interpretation or application, in respect of the employee or of the members of the bargaining unit, as the case may be, of a provision of a collective agreement or arbitral award and alleges that the employer has engaged in a discriminatory practice set out in section 7, 8, 10 or 14.
 
     on the published date, subsections 40.1(3) and (3.1) of the `Canadian Human Rights Act` are replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
@@ -1293,9 +1291,9 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
   **(1)** The following definitions apply in this section.
 
-    **first Act** means the `Economic Action Plan 2013 Act, No. 2`. (**première loi**)
+    **first Act** means the `Economic Action Plan 2013 Act, No. 2`. (***première loi***)
 
-    **second Act** means the Act enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, as amended from time to time. (**deuxième loi**)
+    **second Act** means the Act enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, as amended from time to time. (***deuxième loi***)
 
   **(2)** On the first day on which all of subsections 325(2) and (3) of the first Act and sections `33` and `51` of this Act are in force,
 
@@ -1413,5 +1411,5 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
 ### Section 74
 
-Sections `40` and `42` come into force on a day to be fixed by order of the Governor in Council.
+[*Deleted*]
 
