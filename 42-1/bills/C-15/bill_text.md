@@ -261,7 +261,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     where the stock dividend is a dividend,
 
-    **in the case of a shareholder that is an individual**, the amount of the stock dividend, **and**
+    in the case of a shareholder that is an individual, the amount of the stock dividend, and
 
     in any other case, the total of all amounts each of which is
 
@@ -271,7 +271,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     exceeds
 
-    the amount of the dividend that the shareholder may deduct under subsection 112(1) in computing the shareholder's taxable income, except any portion of the dividend that, if paid as a separate dividend, would not be subject to subsection 55(2) because **the amount of the separate dividend would not exceed the amount of the** income earned or realized by any corporation — after 1971 and before the safe-income determination time for the transaction, event or series of transactions or events as part of which the dividend **is** received — that could reasonably be considered to **contribute** to the capital gain **that could be realized on a disposition at fair market value, immediately before the dividend, of the share on which the dividend is received, and**
+    the amount of the dividend that the shareholder may deduct under subsection 112(1) in computing the shareholder's taxable income, except any portion of the dividend that, if paid as a separate dividend, would not be subject to subsection 55(2) because the amount of the separate dividend would not exceed the amount of the income earned or realized by any corporation — after 1971 and before the safe-income determination time for the transaction, event or series of transactions or events as part of which the dividend is received — that could reasonably be considered to contribute to the capital gain that could be realized on a disposition at fair market value, immediately before the dividend, of the share on which the dividend is received, and
 
     the amount determined by the formula
 
@@ -291,7 +291,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subparagraph 53(1)(b)(ii) of the Act is replaced by the following:
 
-    the portion of the total determined under subparagraph (i) that relates to dividends in respect of which the taxpayer was permitted a deduction under subsection 112(1) in computing the taxpayer's taxable income, except any portion of the dividend that, if paid as a separate dividend, would not be subject to subsection 55(2) because the **amount of the separate dividend would not exceed the amount of the** income earned or realized by any corporation — after 1971 and before the safe-income determination time for the transaction, event or series of transactions or events as part of which the dividend **is** received — that could reasonably be considered to **contribute** to **the** capital gain **that could** be **realized on a disposition at fair market value, immediately before the dividend, of the share on which the dividend is received**;
+    the portion of the total determined under subparagraph (i) that relates to dividends in respect of which the taxpayer was permitted a deduction under subsection 112(1) in computing the taxpayer's taxable income, except any portion of the dividend that, if paid as a separate dividend, would not be subject to subsection 55(2) because the amount of the separate dividend would not exceed the amount of the income earned or realized by any corporation — after 1971 and before the safe-income determination time for the transaction, event or series of transactions or events as part of which the dividend is received — that could reasonably be considered to contribute to the capital gain that could be realized on a disposition at fair market value, immediately before the dividend, of the share on which the dividend is received;
 
   **(2)** Subsection (1) applies to dividends received after April 20, 2015.
 
@@ -299,11 +299,11 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Paragraph (j) of the definition **proceeds of disposition** in section 54 of the Act is replaced by the following:
 
-    any amount that would otherwise be proceeds of disposition of a share to the extent that the amount is deemed by subsection 84(2) or (3) to be a dividend received **except to the extent the dividend** is deemed
+    any amount that would otherwise be proceeds of disposition of a share to the extent that the amount is deemed by subsection 84(2) or (3) to be a dividend received except to the extent the dividend is deemed
 
-    by paragraph 55(2)(**b**) **to be proceeds of disposition of the share**, or
+    by paragraph 55(2)(b) to be proceeds of disposition of the share, or
 
-    **by** subparagraph 88(2)(b)(ii) not to be a dividend, or
+    by subparagraph 88(2)(b)(ii) not to be a dividend, or
 
   **(2)** Subsection (1) applies to dividends received after April 20, 2015.
 
@@ -311,13 +311,13 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subsection 55(2) of the Act is replaced by the following:
 
-    **(2)** **If this** subsection **applies** to a taxable dividend received by a dividend **recipient,** notwithstanding any other **provision** of this Act, the amount of the dividend (other than the portion of it, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend **by** a corporation where the payment is part of the series **referred** to in subsection **(2.1))** is **deemed**
+    **(2)** If this subsection applies to a taxable dividend received by a dividend recipient, notwithstanding any other provision of this Act, the amount of the dividend (other than the portion of it, if any, subject to tax under Part IV that is not refunded as a consequence of the payment of a dividend by a corporation where the payment is part of the series referred to in subsection (2.1)) is deemed
 
-      not to be a dividend received by the **dividend recipient**;
+      not to be a dividend received by the dividend recipient;
 
-      **if** the **dividend is received on** a **redemption, acquisition or cancellation of a** share**, by the** corporation **that issued the share, to which subsection 84(2) or (3) applies**, to be proceeds of disposition of the share **that is redeemed, acquired or cancelled** except to the extent that **the dividend** is otherwise included in computing **those** proceeds; and
+      if the dividend is received on a redemption, acquisition or cancellation of a share, by the corporation that issued the share, to which subsection 84(2) or (3) applies, to be proceeds of disposition of the share that is redeemed, acquired or cancelled except to the extent that the dividend is otherwise included in computing those proceeds; and
 
-      **if paragraph (b) does** not **apply to** the **dividend**, to be a gain of the **dividend recipient**, for the year in which the dividend was received, from the disposition of a capital property.
+      if paragraph (b) does not apply to the dividend, to be a gain of the dividend recipient, for the year in which the dividend was received, from the disposition of a capital property.
 
     **(2.1)** Subsection (2) applies to a taxable dividend received by a corporation resident in Canada (in subsections (2) to (2.2) and (2.4) referred to as the ***dividend recipient***) as part of a transaction or event or a series of transactions or events if
 
@@ -361,23 +361,23 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(2)** The portion of paragraph 55(3)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    **in the case of a dividend that is received on a redemption, acquisition or cancellation of a share, by the corporation that issued the share, to which subsection 84(2) or (3) applies,** if, as part of a transaction or event or a series of transactions or events as a part of which the dividend **is** received, there was not at any particular time
+    in the case of a dividend that is received on a redemption, acquisition or cancellation of a share, by the corporation that issued the share, to which subsection 84(2) or (3) applies, if, as part of a transaction or event or a series of transactions or events as a part of which the dividend is received, there was not at any particular time
 
   **(3)** Subparagraph 55(3.01)(d)(i) of the Act is replaced by the following:
 
-    **subparagraph (j)(i)** of the definition ***proceeds of disposition*** in section 54, and
+    subparagraph (j)(i) of the definition ***proceeds of disposition*** in section 54, and
 
   **(4)** Paragraph 55(5)(f) of the Act is replaced by the following:
 
-    **unless subsection (2.3) applies, if** a corporation has received a dividend any portion of which is a taxable dividend (**such a portion referred to as the ***taxable part*** in this paragraph), as part of a transaction or event or series of transactions or events**
+    unless subsection (2.3) applies, if a corporation has received a dividend any portion of which is a taxable dividend (such a portion referred to as the ***taxable part*** in this paragraph), as part of a transaction or event or series of transactions or events
 
-    **a portion of the dividend is deemed to be a separate taxable dividend equal to the lesser of**
+    a portion of the dividend is deemed to be a separate taxable dividend equal to the lesser of
 
     the taxable part, and
 
     the amount of the income earned or realized by any corporation — after 1971 and before the safe-income determination time for the transaction, event or series — that could reasonably be considered to contribute to the capital gain that could be realized on a disposition at fair market value, immediately before the dividend, of the share on which the dividend is received, and
 
-    the amount, if any, by which the taxable **part** exceeds the portion **referred to in** subparagraph (i) is deemed to be a separate taxable dividend.
+    the amount, if any, by which the taxable part exceeds the portion referred to in subparagraph (i) is deemed to be a separate taxable dividend.
 
   **(5)** Subsections (1) to (4) apply to dividends received after April 20, 2015 except that, for dividends received after April 20, 2015 and before April 18, 2016, paragraph 55(5)(f) of the Act, as enacted by subsection (4), is to be read as follows:
 
@@ -391,11 +391,11 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subparagraph 56(3)(a)(i) of the Act is replaced by the following:
 
-    in an educational program in respect of which the **taxpayer is a ***qualifying student*** (as defined in** subsection 118.6(**1**)) in the taxation year, **in** the immediately preceding taxation year or **in** the following taxation year, or
+    in an educational program in respect of which the taxpayer is a ***qualifying student*** (as defined in subsection 118.6(1)) in the taxation year, in the immediately preceding taxation year or in the following taxation year, or
 
   **(2)** Paragraph 56(3.1)(b) of the Act is replaced by the following:
 
-    if an award is received in connection with an educational program in respect of which the taxpayer **is a qualifying student because of subparagraph (a)(ii)** of the **definition ***qualifying student***** in subsection 118.6(**1**) **in** the taxation year, **in** the immediately preceding taxation year or **in** the following taxation year (in this paragraph referred to as the ***claim year***), the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of the award may not exceed the amount that is the total of amounts, each of which is the cost of materials related to the program or a fee paid to a ***designated educational institution*** in respect of the program, as defined in subsection 118.6(1), in respect of the claim year.
+    if an award is received in connection with an educational program in respect of which the taxpayer is a qualifying student because of subparagraph (a)(ii) of the definition ***qualifying student*** in subsection 118.6(1) in the taxation year, in the immediately preceding taxation year or in the following taxation year (in this paragraph referred to as the ***claim year***), the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of the award may not exceed the amount that is the total of amounts, each of which is the cost of materials related to the program or a fee paid to a ***designated educational institution*** in respect of the program, as defined in subsection 118.6(1), in respect of the claim year.
 
   **(3)** Subsection (1) applies to the 2017 and subsequent taxation years and
 
@@ -413,15 +413,15 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Paragraph (a) of the definition **Canadian exploration expense** in subsection 66.1(6) of the Act is replaced by the following:
 
-    any expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas (other than a mineral resource) in Canada, including **such an** expense **that is**
+    any expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas (other than a mineral resource) in Canada, including such an expense that is
 
-    a geological, geophysical or geochemical expense, **or**
+    a geological, geophysical or geochemical expense, or
 
-    **an expense for environmental studies or community consultations (including studies or consultations that are undertaken to obtain a right, licence or privilege for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas),**
+    an expense for environmental studies or community consultations (including studies or consultations that are undertaken to obtain a right, licence or privilege for the purpose of determining the existence, location, extent or quality of an accumulation of petroleum or natural gas),
 
   **(2)** The portion of paragraph (f) of the definition **Canadian exploration expense** in subsection 66.1(6) of the Act before subparagraph (i) is replaced by the following:
 
-    any expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada including **such an expense for environmental studies or community consultations (including, notwithstanding subparagraph (v), studies or consultations that are undertaken to obtain a right, licence or privilege for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada) and** any expense incurred in the course of
+    any expense incurred by the taxpayer (other than an expense incurred in drilling or completing an oil or gas well or in building a temporary access road to, or preparing a site in respect of, any such well) for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada including such an expense for environmental studies or community consultations (including, notwithstanding subparagraph (v), studies or consultations that are undertaken to obtain a right, licence or privilege for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada) and any expense incurred in the course of
 
   **(3)** Subsections (1) and (2) apply in respect of expenses incurred after February 2015.
 
@@ -437,7 +437,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subparagraph 82(1)(b)(i) of the Act is replaced by the following:
 
-    the product of the amount determined under paragraph (a) in respect of the taxpayer for the taxation year multiplied by 17 %, and
+    the product of the amount determined under paragraph (a) in respect of the taxpayer for the taxation year multiplied by 17%, and
 
   **(2)** Subsection (1) applies to the 2016 and subsequent taxation years.
 
@@ -445,15 +445,15 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Clause (a)(i)(A) of the definition **capital dividend account** in subsection 89(1) of the Act is replaced by the following:
 
-    the amount of the corporation's capital gain — computed without reference to **subclause 52(3)(a)(ii)(A)(II)** and **subparagraph** 53(1)(b)(ii) — from the disposition (other than a disposition under paragraph 40(3.1)(a) or subsection 40(12) or a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period beginning at the beginning of its first taxation year that began after the corporation last became a private corporation and that ended after 1971 and ending immediately before the particular time (in this definition referred to as the ***period***)
+    the amount of the corporation's capital gain — computed without reference to subclause 52(3)(a)(ii)(A)(II) and subparagraph 53(1)(b)(ii) — from the disposition (other than a disposition under paragraph 40(3.1)(a) or subsection 40(12) or a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period beginning at the beginning of its first taxation year that began after the corporation last became a private corporation and that ended after 1971 and ending immediately before the particular time (in this definition referred to as the ***period***)
 
   **(2)** Clause (a)(ii)(A) of the definition **capital dividend account** in subsection 89(1) of the Act is replaced by the following:
 
-    the amount of the corporation's capital loss — computed without reference to **subclause 52(3)(a)(ii)(A)(II)** and **subparagraph** 53(1)(b)(ii) — from the disposition (other than a disposition under subsection 40(3.12) or a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period
+    the amount of the corporation's capital loss — computed without reference to subclause 52(3)(a)(ii)(A)(II) and subparagraph 53(1)(b)(ii) — from the disposition (other than a disposition under subsection 40(3.12) or a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period
 
   **(3)** Subparagraph (b)(iii) of the definition **paid-up capital** in subsection 89(1) of the Act is replaced by the following:
 
-    where the particular time is after March 31, 1977, an amount equal to the paid-up capital in respect of that class of shares at the particular time, computed without reference to the provisions of this Act except subsections 51(3) and 66.3(2) and (4), sections 84.1 and 84.2, subsections 85(2.1), 85.1(2.1) and (8), 86(2.1), 87(3) and (9), paragraph 128.1(1)(c.3), subsections 128.1(2) and (3), **section 135.2, subsections** 138(11.7), 139.1(6) and (7), 192(4.1) and 194(4.1) and sections 212.1 and 212.3,
+    where the particular time is after March 31, 1977, an amount equal to the paid-up capital in respect of that class of shares at the particular time, computed without reference to the provisions of this Act except subsections 51(3) and 66.3(2) and (4), sections 84.1 and 84.2, subsections 85(2.1), 85.1(2.1) and (8), 86(2.1), 87(3) and (9), paragraph 128.1(1)(c.3), subsections 128.1(2) and (3), section 135.2, subsections 138(11.7), 139.1(6) and (7), 192(4.1) and 194(4.1) and sections 212.1 and 212.3,
 
   **(4)** Subsections (1) and (2) apply to dispositions made after April 20, 2015.
 
@@ -463,7 +463,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Paragraph 94(4)(b) of the Act is replaced by the following:
 
-    subsections (8.1) and (8.2), paragraph (14)(a), subsections 70(6) and 73(1), the definition ***Canadian partnership*** in subsection 102(1), paragraph 107.4(1)(c), the definition ***qualified disability trust*** in subsection 122(3), paragraph (a) of the definition ***mutual fund trust*** in subsection 132(6) and **the definition ***eligible trust*** in subsection 135.2(1)**;
+    subsections (8.1) and (8.2), paragraph (14)(a), subsections 70(6) and 73(1), the definition ***Canadian partnership*** in subsection 102(1), paragraph 107.4(1)(c), the definition ***qualified disability trust*** in subsection 122(3), paragraph (a) of the definition ***mutual fund trust*** in subsection 132(6) and the definition ***eligible trust*** in subsection 135.2(1);
 
   **(2)** Subsection (1) is deemed to have come into force on July 1, 2015, except that, for taxation years that end before 2016, paragraph 94(4)(b) of the Act, as enacted by subsection (1), is to be read without reference to "the definition **qualified disability trust** in subsection 122(3),".
 
@@ -473,13 +473,13 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     in computing the income from a business other than an active business for a taxation year of a foreign affiliate of a taxpayer
 
-    there shall be included the income of the affiliate for the year from the insurance of **specified Canadian risks** (which, for the purposes of this paragraph, includes income for the year from the reinsurance of **specified Canadian risks**), unless more than 90 % of the gross premium revenue of the affiliate for the year from the insurance of risks (net of reinsurance ceded) was in respect of the insurance of risks (other than **specified Canadian** risks) of persons with whom the affiliate deals at arm's length,
+    there shall be included the income of the affiliate for the year from the insurance of specified Canadian risks (which, for the purposes of this paragraph, includes income for the year from the reinsurance of specified Canadian risks), unless more than 90 % of the gross premium revenue of the affiliate for the year from the insurance of risks (net of reinsurance ceded) was in respect of the insurance of risks (other than specified Canadian risks) of persons with whom the affiliate deals at arm's length,
 
-    **if subparagraph (i)** applies to include income of the affiliate from the insurance of **specified Canadian** risks,
+    if subparagraph (i) applies to include income of the affiliate from the insurance of specified Canadian risks,
 
-    the insurance of those risks **is** deemed to be a separate business, other than an active business, carried on by the affiliate, and
+    the insurance of those risks is deemed to be a separate business, other than an active business, carried on by the affiliate, and
 
-    any income of the affiliate that pertains to or is incident to that business **is** deemed to be income from a business other than an active business,
+    any income of the affiliate that pertains to or is incident to that business is deemed to be income from a business other than an active business,
 
     there shall be included the income of the affiliate for the year in respect of the ceding of specified Canadian risks — except to the extent that the income is included because of subparagraph (i) or (ii) — which, for the purposes of this paragraph, includes
 
@@ -493,7 +493,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     any income of the affiliate that pertains to or is incident to that business is deemed to be income from a business other than an active business;
 
-    for the purposes of paragraph (a.2), one or more risks insured by a foreign affiliate of a taxpayer that, if this Act were read without reference to this paragraph, would not be **specified Canadian** risks (in this paragraph referred to as the ***foreign policy pool***) are deemed to be **specified Canadian** risks if
+    for the purposes of paragraph (a.2), one or more risks insured by a foreign affiliate of a taxpayer that, if this Act were read without reference to this paragraph, would not be specified Canadian risks (in this paragraph referred to as the ***foreign policy pool***) are deemed to be specified Canadian risks if
 
     the affiliate, or a person or partnership that does not deal at arm's length with the affiliate, enters into one or more agreements or arrangements in respect of the foreign policy pool,
 
@@ -505,7 +505,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     any other similar criteria, and
 
-    10 % or more of the tracked policy pool consists of **specified Canadian** risks;
+    10 % or more of the tracked policy pool consists of specified Canadian risks;
 
   **(2)** Subsection 95(2) of the Act is amended by adding the following after paragraph (a.22):
 
@@ -523,9 +523,9 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Clauses 110.7(1)(b)(ii)(A) and (B) of the Act are replaced by the following:
 
-    $**11.00** multiplied by the number of days in the year included in the qualifying period in which the taxpayer resided in the particular area, and
+    $11.00 multiplied by the number of days in the year included in the qualifying period in which the taxpayer resided in the particular area, and
 
-    $**11.00** multiplied by the number of days in the year included in that portion of the qualifying period throughout which the taxpayer maintained and resided in a self-contained domestic establishment in the particular area (except any day included in computing a deduction claimed under this paragraph by another person who resided on that day in the establishment).
+    $11.00 multiplied by the number of days in the year included in that portion of the qualifying period throughout which the taxpayer maintained and resided in a self-contained domestic establishment in the particular area (except any day included in computing a deduction claimed under this paragraph by another person who resided on that day in the establishment).
 
   **(2)** Subsection (1) applies to the 2016 and subsequent taxation years.
 
@@ -533,7 +533,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subsection 112(2.3) of the Act is replaced by the following:
 
-    **(2.3)** No deduction may be made under subsection (1) or (2) or 138(6) in computing the taxable income of a particular corporation in respect of a dividend received on a share of the capital stock of a corporation **where there is, in respect of the share,** a dividend rental arrangement of the particular corporation, **a partnership of which the particular corporation is directly or indirectly a member or a trust under which the particular corporation is a beneficiary**.
+    **(2.3)** No deduction may be made under subsection (1) or (2) or 138(6) in computing the taxable income of a particular corporation in respect of a dividend received on a share of the capital stock of a corporation where there is, in respect of the share, a dividend rental arrangement of the particular corporation, a partnership of which the particular corporation is directly or indirectly a member or a trust under which the particular corporation is a beneficiary.
 
     **(2.31)** Subsection (2.3) does not apply to a dividend received on a share where there is, in respect of the share, a dividend rental arrangement of a person or partnership (referred to in this subsection and subsection (2.32) as the ***taxpayer***) throughout a particular period during which the synthetic equity arrangement referred to in paragraph (c) of the definition ***dividend rental arrangement*** in subsection 248(1) is in effect if
 
@@ -627,7 +627,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** The portion of the description of B in subsection 118.031(2) of the Act before the formula is replaced by the following:
 
-    is the total of all amounts each of which is, in respect of a qualifying child of the individual for the taxation year, the lesser of $**250** and the amount determined by the formula
+    is the total of all amounts each of which is, in respect of a qualifying child of the individual for the taxation year, the lesser of $250 and the amount determined by the formula
 
   **(2)** Section 118.031 of the Act, as amended by subsection (1), is repealed.
 
@@ -639,13 +639,13 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Paragraphs (b) and (c) of the definition **designated educational institution** in subsection 118.6(1) of the Act are replaced by the following:
 
-    a university outside Canada at which the individual referred to in **the definition ***qualifying student*** in this** subsection was enrolled in a course, of not less than three consecutive weeks duration, leading to a degree, or
+    a university outside Canada at which the individual referred to in the definition ***qualifying student*** in this subsection was enrolled in a course, of not less than three consecutive weeks duration, leading to a degree, or
 
-    if the individual referred to in **the definition ***qualifying student*** in this** subsection resided, throughout the  year referred to in that **definition**, in Canada near the boundary between Canada and the United States, an educational institution in the United States to which the individual commuted that is a university, college or other educational institution providing courses at a post-secondary school level; (***établissement d'enseignement agréé***)
+    if the individual referred to in the definition ***qualifying student*** in this subsection resided, throughout the  year referred to in that definition, in Canada near the boundary between Canada and the United States, an educational institution in the United States to which the individual commuted that is a university, college or other educational institution providing courses at a post-secondary school level; (***établissement d'enseignement agréé***)
 
   **(2)** Paragraph (b) of the definition **qualifying educational program** in subsection 118.6(1) of the Act is replaced by the following:
 
-    a benefit, if any, received by the student because of a loan made to the student in accordance with the requirements of the `Canada Student Loans Act`, **the `Apprentice Loans Act`** or `An Act respecting financial assistance for education expenses,` R.S.Q., c. A-13.3, or because of financial assistance given to the student in accordance with the requirements of the `Canada Student Financial Assistance Act`, or
+    a benefit, if any, received by the student because of a loan made to the student in accordance with the requirements of the `Canada Student Loans Act`, the `Apprentice Loans Act` or `An Act respecting financial assistance for education expenses,` R.S.Q., c. A-13.3, or because of financial assistance given to the student in accordance with the requirements of the `Canada Student Financial Assistance Act`, or
 
   **(3)** Subsection 118.6(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -669,7 +669,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(5)** The portion of subsection 118.6(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **For** the **purposes of subparagraph (a)(i) of the definition ***qualifying student***** in subsection (1), the reference to "full-time student" is to be read as "student" if
+    **(3)** For the purposes of subparagraph (a)(i) of the definition ***qualifying student*** in subsection (1), the reference to "full-time student" is to be read as "student" if
 
   **(6)** Subsections (1) and (3) to (5) apply to the 2017 and subsequent taxation years.
 
@@ -683,7 +683,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(2)** The description of E in subsection 118.61(1) of the Act is replaced by the following:
 
-    is the tuition tax **credit** transferred for the year by the individual to the individual's spouse, common-law partner, parent or grandparent.
+    is the tuition tax credit transferred for the year by the individual to the individual's spouse, common-law partner, parent or grandparent.
 
   **(3)** The portion of subsection 118.61(4) of the Act before the formula is replaced by the following:
 
@@ -695,7 +695,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** The description of A in section 118.8 of the Act is replaced by the following:
 
-    is the tuition tax **credit** transferred for the year by the spouse or common-law partner to the individual;
+    is the tuition tax credit transferred for the year by the spouse or common-law partner to the individual;
 
   **(2)** Subparagraph (b)(i) of the description of C in section 118.8 of the Act is replaced by the following:
 
@@ -709,7 +709,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
 ### Section 118.81
 
-    In this subdivision, the tuition tax **credit** transferred for a taxation year by a person to an individual is the lesser of
+    In this subdivision, the tuition tax credit transferred for a taxation year by a person to an individual is the lesser of
 
   **(2)** Subparagraph (i) of the description of A in paragraph 118.81(a) of the Act is replaced by the following:
 
@@ -723,7 +723,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
 ### Section 118.9
 
-    If for a taxation year a parent or grandparent of an individual (other than an individual in respect of whom the individual's spouse or common-law partner deducts an amount under section 118 or 118.8 for the year) is the only person designated in writing by the individual for the year for the purpose of this section, there may be deducted in computing the tax payable under this Part for the year by the parent or grandparent, as the case may be, the tuition tax **credit** transferred for the year by the individual to the parent or grandparent, as the case may be.
+    If for a taxation year a parent or grandparent of an individual (other than an individual in respect of whom the individual's spouse or common-law partner deducts an amount under section 118 or 118.8 for the year) is the only person designated in writing by the individual for the year for the purpose of this section, there may be deducted in computing the tax payable under this Part for the year by the parent or grandparent, as the case may be, the tuition tax credit transferred for the year by the individual to the parent or grandparent, as the case may be.
 
   **(2)** Subsection (1) applies to the 2017 and subsequent taxation years.
 
@@ -808,15 +808,15 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
 ### Section 122.61
 
-      **(1)** **If** a person and, **if** the Minister so demands, the person's cohabiting spouse or common-law partner at the end of a taxation year have filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
+      **(1)** If a person and, if the Minister so demands, the person's cohabiting spouse or common-law partner at the end of a taxation year have filed a return of income for the year, an overpayment on account of the person's liability under this Part for the year is deemed to have arisen during a month in relation to which the year is the base taxation year, equal to the amount determined by the formula
 
         is the amount determined by the formula
 
         is the total of
 
-        the product obtained by multiplying $**6,400** by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month **who have not reached the age of six years at the beginning of the month**, and
+        the product obtained by multiplying $6,400 by the number of qualified dependants in respect of whom the person was an eligible individual at the beginning of the month who have not reached the age of six years at the beginning of the month, and
 
-        the product obtained by multiplying $**5,400** by the number of qualified dependants, **other than those qualified dependants referred to in paragraph (a)**, in respect of whom the person was an eligible individual at the beginning of the month,
+        the product obtained by multiplying $5,400 by the number of qualified dependants, other than those qualified dependants referred to in paragraph (a), in respect of whom the person was an eligible individual at the beginning of the month,
 
         is
 
@@ -846,17 +846,17 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         is the amount determined by the formula
 
-        is, **if** the person is, at the beginning of the month, an eligible individual in respect of
+        is, if the person is, at the beginning of the month, an eligible individual in respect of
 
-        only one qualified dependant, $**2,308**, and
+        only one qualified dependant, $2,308, and
 
         two or more qualified dependants, the total of
 
-        $**2,308** for the first qualified dependant,
+        $2,308 for the first qualified dependant,
 
-        $**2,042** for the second qualified dependant, and
+        $2,042 for the second qualified dependant, and
 
-        $**1,943** for each of the third and subsequent qualified dependants,
+        $1,943 for each of the third and subsequent qualified dependants,
 
         is the amount determined by the formula
 
@@ -878,7 +878,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         is the amount determined by the formula
 
-        is the product obtained by multiplying **$2,730** by the number of qualified dependants in respect of whom both
+        is the product obtained by multiplying $2,730 by the number of qualified dependants in respect of whom both
 
         an amount may be deducted under section 118.3 for the taxation year that includes the month, and
 
@@ -940,7 +940,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** The portion of the description of B in subsection 122.8(2) of the Act before the formula is replaced by the following:
 
-    is the total of all amounts each of which is, in respect of a qualifying child of the individual for the year, the lesser of $**500** and the amount determined by the formula
+    is the total of all amounts each of which is, in respect of a qualifying child of the individual for the year, the lesser of $500 and the amount determined by the formula
 
   **(2)** Subdivision A.3 of Division E of Part I of the Act, as amended by subsection (1), is repealed.
 
@@ -1025,7 +1025,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subsection 125(1.1) of the Act is amended by adding "and" at the end of paragraph (a) and by replacing paragraphs (b) to (e) with the following:
 
-    that proportion of 17.5 % that the number of days in the taxation year that are **after 2015** is of the number of days in the taxation year.
+    that proportion of 17.5 % that the number of days in the taxation year that are after 2015 is of the number of days in the taxation year.
 
   **(2)** Subsection (1) applies to the 2016 and subsequent taxation years.
 
@@ -1033,13 +1033,13 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Paragraph (a) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act is replaced by the following:
 
-    that is a Canadian exploration expense incurred by a corporation after March **2016** and before **2018** (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before **2018**) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition ***mineral resource*** in subsection 248(1),
+    that is a Canadian exploration expense incurred by a corporation after March 2016 and before 2018 (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before 2018) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition ***mineral resource*** in subsection 248(1),
 
   **(2)** Paragraphs (c) and (d) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act are replaced by the following:
 
-    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March **2016** and before April **2017**, and
+    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March 2016 and before April 2017, and
 
-    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March **2016** and before April **2017**;
+    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March 2016 and before April 2017;
 
   **(3)** Subsections (1) and (2) apply to expenses renounced under a flow-through share agreement entered into after March 2016.
 
@@ -1067,19 +1067,19 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(3)** Paragraphs 127.4(6)(a) and (a.1) of the Act are replaced by the following:
 
-    **15 %** of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, **if the share is a share of a prescribed labour-sponsored venture capital corporation (other than a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation)**,
+    15 % of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if the share is a share of a prescribed labour-sponsored venture capital corporation (other than a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation),
 
     5 % of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if
 
-    the taxation year for which a claim is made under subsection (2) in respect of the original acquisition is 2016, **and**
+    the taxation year for which a claim is made under subsection (2) in respect of the original acquisition is 2016, and
 
-    **the share is a share of a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation,**
+    the share is a share of a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation,
 
-    **nil, if**
+    nil, if
 
     the taxation year for which a claim is made under subsection (2) in respect of the original acquisition is after 2016, and
 
-    **the share is a share of a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation,**
+    the share is a share of a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation,
 
   **(4)** Subsection (1) applies to the 2016 taxation year.
 
@@ -1230,7 +1230,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         non-resident,
 
-        a partnership (other than a partnership that is, throughout its fiscal period that includes that time), or
+        a partnership (other than a partnership that is, throughout its fiscal period that includes that time, **a Canadian partnership**), or
 
         exempt because of subsection 149(1) from tax under this Part on the person's taxable income;
 
@@ -1428,21 +1428,21 @@ Subparagraphs (a)(i) to (iii) of the definition **repayment period** in subsecti
 
 at the beginning of the third calendar year within the participation period if, in each of the second and third calendar years within the participation period,
 
-**for calendar years before 2017**, the person would not be entitled to claim an amount under subsection 118.6(2) (**as it read in the year**) in respect of at least three months **in the year**, if that subsection were read without reference to paragraph (b) of the description of B in that subsection, **and**
+for calendar years before 2017, the person would not be entitled to claim an amount under subsection 118.6(2) (as it read in the year) in respect of at least three months in the year, if that subsection were read without reference to paragraph (b) of the description of B in that subsection, and
 
-**for calendar years after 2016, the person would not be a ***qualifying student*** (as defined in subsection 118.6(1)) in respect of at least three months in the year, if that definition were read without reference to its subparagraph (a)(ii),**
+for calendar years after 2016, the person would not be a ***qualifying student*** (as defined in subsection 118.6(1)) in respect of at least three months in the year, if that definition were read without reference to its subparagraph (a)(ii),
 
 at the beginning of the fourth calendar year within the participation period if, in each of the third and fourth calendar years within the participation period,
 
-**for calendar years before 2017**, the person would not be entitled to claim an amount under subsection 118.6(2) (**as it read in the year**) in respect of at least three months **in the year**, if that subsection were read without reference to paragraph (b) of the description of B in that subsection, **and**
+for calendar years before 2017, the person would not be entitled to claim an amount under subsection 118.6(2) (as it read in the year) in respect of at least three months in the year, if that subsection were read without reference to paragraph (b) of the description of B in that subsection, and
 
-**for calendar years after 2016, the person would not be a ***qualifying student*** (as defined in subsection 118.6(1)) in respect of at least three months in the year, if that definition were read without reference to its subparagraph (a)(ii),**
+for calendar years after 2016, the person would not be a ***qualifying student*** (as defined in subsection 118.6(1)) in respect of at least three months in the year, if that definition were read without reference to its subparagraph (a)(ii),
 
-at the beginning of the fifth calendar year within the participation period if, in each of the fourth and fifth calendar years within **the participation** period,
+at the beginning of the fifth calendar year within the participation period if, in each of the fourth and fifth calendar years within the participation period,
 
-**for calendar years before 2017**, the person would not be entitled to claim an amount under subsection 118.6(2) (**as it read in the year**) in respect of at least three months **in the year**, if that subsection were read without reference to paragraph (b) of the description of B in that subsection, and
+for calendar years before 2017, the person would not be entitled to claim an amount under subsection 118.6(2) (as it read in the year) in respect of at least three months in the year, if that subsection were read without reference to paragraph (b) of the description of B in that subsection, and
 
-**for calendar years after 2016, the person would not be a ***qualifying student*** (as defined in subsection 118.6(1)) in respect of at least three months in the year, if that definition were read without reference to its subparagraph (a)(ii), and**
+for calendar years after 2016, the person would not be a ***qualifying student*** (as defined in subsection 118.6(1)) in respect of at least three months in the year, if that definition were read without reference to its subparagraph (a)(ii), and
 
 ### Section 40
 
@@ -1456,7 +1456,7 @@ at the beginning of the fifth calendar year within the participation period if, 
 
   **(1)** Paragraph 152(1)(b) of the Act is replaced by the following:
 
-    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(2) or (3), **122.9(2)**, 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(2) or (3), 122.9(2), 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(2)** Paragraph 152(1)(b) of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -1464,7 +1464,7 @@ at the beginning of the fifth calendar year within the participation period if, 
 
   **(3)** Paragraph 152(4.2)(b) of the Act is replaced by the following:
 
-    redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(2) or (3), **122.9(2)**, 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+    redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(2) or (3), 122.9(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
 
   **(4)** Paragraph 152(4.2)(b) of the Act, as enacted by subsection (3), is replaced by the following:
 
@@ -1480,17 +1480,17 @@ at the beginning of the fifth calendar year within the participation period if, 
 
     salary, wages or other remuneration, other than
 
-    amounts described in subsection 212(5.1), **and**
+    amounts described in subsection 212(5.1), and
 
     amounts paid at any time by an employer to an employee if, at that time, the employer is a qualifying non-resident employer and the employee is a qualifying non-resident employee,
 
   **(2)** Subsection 153(1.3) of the Act is replaced by the following:
 
-    **(1.3)** A joint election made or expected to be made under section 60.03 **is** not to be **considered** a basis on which the Minister may **determine** a lesser amount under subsection (1.1).
+    **(1.3)** A joint election made or expected to be made under section 60.03 is not to be considered a basis on which the Minister may determine a lesser amount under subsection (1.1).
 
   **(3)** Subsection 153(6) of the Act is replaced by the following:
 
-    **(6)** **The following definitions apply** in this section.
+    **(6)** The following definitions apply in this section.
 
       **designated financial institution** means a corporation that
 
@@ -1498,7 +1498,7 @@ at the beginning of the fifth calendar year within the participation period if, 
 
       is authorized under the laws of Canada or a province to carry on the business of offering its serv-ices as a trustee to the public; or
 
-      is authorized under the laws of Canada or a province to accept deposits from the public and carries on the business of lending money on the security of real property or immovables or investing in indebtedness on the security of mortgages on real property or of hypothecs on immovables. (****institution financière désignée****)
+      is authorized under the laws of Canada or a province to accept deposits from the public and carries on the business of lending money on the security of real property or immovables or investing in indebtedness on the security of mortgages on real property or of hypothecs on immovables. (**institution financière désignée**)
 
       **qualifying non-resident employee**, at any time in respect of a payment referred to in paragraph (1)(a), means an employee who
 
@@ -1544,11 +1544,11 @@ at the beginning of the fifth calendar year within the participation period if, 
 
       **(1)** Every person is liable to a penalty who
 
-        fails to report an amount, equal **to or greater than $500**, required to be included in computing the person's income in a return filed under section 150 for a taxation year (**in this subsection and subsection (1.1) referred to as the ***unreported amount*****);
+        fails to report an amount, equal to or greater than $500, required to be included in computing the person's income in a return filed under section 150 for a taxation year (in this subsection and subsection (1.1) referred to as the ***unreported amount***);
 
-        had failed to report an amount, **equal to or greater than $500**, required to be included **in computing the person's income** in any return filed under section 150 for any of the three preceding taxation years; and
+        had failed to report an amount, equal to or greater than $500, required to be included in computing the person's income in any return filed under section 150 for any of the three preceding taxation years; and
 
-        is **not** liable to a penalty under subsection (2) in respect of **the unreported** amount.
+        is not liable to a penalty under subsection (2) in respect of the unreported amount.
 
       **(1.1)** The amount of the penalty to which the person is liable under subsection (1) is equal to the lesser of
 
@@ -1582,7 +1582,7 @@ at the beginning of the fifth calendar year within the participation period if, 
 
   **(1)** Paragraphs (b) and (c) of the definition **labour-sponsored funds tax credit** in subsection 211.7(1) of the Act are replaced by the following:
 
-    in any other case, the amount that would be determined under subsection 127.4(6) in respect of the share if **this Act** were read without reference to **its** paragraphs (b) and (d). (***crédit d'impôt relatif à un fonds de travailleurs***)
+    in any other case, the amount that would be determined under subsection 127.4(6) in respect of the share if this Act were read without reference to its paragraphs (b) and (d). (***crédit d'impôt relatif à un fonds de travailleurs***)
 
   **(2)** Subsection (1) applies to the 2016 and subsequent taxation years.
 
@@ -1590,7 +1590,7 @@ at the beginning of the fifth calendar year within the participation period if, 
 
   **(1)** Subparagraph 217(5)(a)(i) of the Act is replaced by the following:
 
-    such of the **amounts** that would have been deductible under any of section 118.2, subsections 118.3(2) and (3) and sections 118.8 and 118.9 in computing the person's tax payable under Part I for the year if the person had been resident in Canada throughout the year, as can reasonably be considered wholly applicable, and
+    such of the amounts that would have been deductible under any of section 118.2, subsections 118.3(2) and (3) and sections 118.8 and 118.9 in computing the person's tax payable under Part I for the year if the person had been resident in Canada throughout the year, as can reasonably be considered wholly applicable, and
 
   **(2)** Subsection (1) applies to the 2017 and subsequent taxation years.
 
@@ -1768,11 +1768,11 @@ Section 2.1 of the `Children's Special Allowances Act` is repealed.
 
   **(1)** Subparagraph 3.1(1)(a)(ii) of the Act is replaced by the following:
 
-    a special allowance supplement in the amount of $160, in respect of every month as of January 1, 2015 **but before July 1, 2016**; and
+    a special allowance supplement in the amount of $160, in respect of every month as of January 1, 2015 but before July 1, 2016; and
 
   **(2)** Paragraph 3.1(1)(b) of the Act is replaced by the following:
 
-    is six years of age or older, a special allowance supplement in the amount of $60, in respect of every month as of January 1, 2015 **but before July 1, 2016**.
+    is six years of age or older, a special allowance supplement in the amount of $60, in respect of every month as of January 1, 2015 but before July 1, 2016.
 
   **(3)** Section 3.1 of the Act is repealed.
 
@@ -1782,13 +1782,13 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 8
 
-  **(1)** The amount of special allowance to be paid in respect of a child for **a** month is one twelfth of the total of
+  **(1)** The amount of special allowance to be paid in respect of a child for a month is one twelfth of the total of
 
-    **if the child has not reached the age of six years at the beginning of the month**, the amount expressed in dollars in paragraph (a) of the description of **E** in subsection 122.61(1) of the `Income Tax Act`,
+    if the child has not reached the age of six years at the beginning of the month, the amount expressed in dollars in paragraph (a) of the description of E in subsection 122.61(1) of the `Income Tax Act`,
 
-    **if the child is six years of age or older at the beginning of the month**, the amount expressed in dollars in paragraph (**b**) of the description of **E** in subsection **122.61(1) of the `Income Tax Act`**, and
+    if the child is six years of age or older at the beginning of the month, the amount expressed in dollars in paragraph (b) of the description of E in subsection 122.61(1) of the `Income Tax Act`, and
 
-    if an amount may be deducted under section 118.3 of **the**`Income Tax Act` in respect of the child **for the taxation year that includes the month**, the amount expressed in dollars in the description of N in subsection 122.61(1) of that Act.
+    if an amount may be deducted under section 118.3 of the`Income Tax Act` in respect of the child for the taxation year that includes the month, the amount expressed in dollars in the description of N in subsection 122.61(1) of that Act.
 
 
 #### Universal Child Care Benefit Act
@@ -1797,11 +1797,11 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** The portion of subsection 4(1.1) of the `Universal Child Care Benefit Act` before paragraph (a) is replaced by the following:
 
-    **(1.1)** In respect of every month as of January 1, 2015 **but before July 1, 2016**, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is under **the** age of six years and is a qualified dependant of the eligible individual,
+    **(1.1)** In respect of every month as of January 1, 2015 but before July 1, 2016, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is under the age of six years and is a qualified dependant of the eligible individual,
 
   **(2)** The portion of subsection 4(1.2) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.2)** In respect of every month as of January 1, 2015 **but before July 1, 2016**, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is six years of age or older and is a qualified dependant of the eligible individual,
+    **(1.2)** In respect of every month as of January 1, 2015 but before July 1, 2016, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is six years of age or older and is a qualified dependant of the eligible individual,
 
 
 #### Coming into Force
@@ -1821,7 +1821,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 200
 
-      **(1)** **Subject to subsection (1.1)**, every person who makes a payment described in subsection 153(1) of the Act (**including** an **amount paid that is described** in **subparagraph 153(1)(a)(ii)** of **the Act**) shall make an information return in prescribed form in respect of the payment unless an information return in respect of the payment has been made under sections 202, 214, 237 or 238.
+      **(1)** Subject to subsection (1.1), every person who makes a payment described in subsection 153(1) of the Act (including an amount paid that is described in subparagraph 153(1)(a)(ii) of the Act) shall make an information return in prescribed form in respect of the payment unless an information return in respect of the payment has been made under sections 202, 214, 237 or 238.
 
       **(1.1)** Subsection (1) does not apply in respect of
 
@@ -1837,7 +1837,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 210
 
-    Every person who makes a payment described in section 153 of the Act (**including an amount paid that is described in subparagraph 153(1)(a)(ii) of the Act**), or who pays or credits, or is deemed by any of Part I, XIII and XIII.2 of the Act to have paid or credited, an amount described in that section, Part XIII or XIII.2 of the Act, shall, on demand by registered letter from the Minister, make an information return in prescribed form containing the information required in the return and shall file the return with the Minister within such reasonable time as is stipulated in the registered letter.
+    Every person who makes a payment described in section 153 of the Act (including an amount paid that is described in subparagraph 153(1)(a)(ii) of the Act), or who pays or credits, or is deemed by any of Part I, XIII and XIII.2 of the Act to have paid or credited, an amount described in that section, Part XIII or XIII.2 of the Act, shall, on demand by registered letter from the Minister, make an information return in prescribed form containing the information required in the return and shall file the return with the Minister within such reasonable time as is stipulated in the registered letter.
 
   **(2)** Subsection (1) applies in respect of payments made after 2015.
 
@@ -1853,7 +1853,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 8201
 
-    For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsections 100(1.3) and 112(2), the definition ***qualified Canadian transit organization*** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the **definitions** ***Canadian banking business*** **and ***tax-indifferent investor***** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the ***person***) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person's business is conducted, and
+    For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsections 100(1.3) and 112(2), the definition ***qualified Canadian transit organization*** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definitions ***Canadian banking business*** and ***tax-indifferent investor*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the ***person***) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person's business is conducted, and
 
   **(2)** Subsection (1) is deemed to have come into force on April 22, 2015.
 
@@ -2100,7 +2100,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
     is the total of all amounts, each of which is included in the amount determined under the description of A and is
 
-    a permitted deduction for the specified year or a preceding specified year of the qualifying taxpayer, **other than a returned commission included in paragraph (b), or**
+    a permitted deduction for the specified year or a preceding specified year of the qualifying taxpayer, other than a returned commission included in paragraph (b), or
 
     if a particular amount, included in the amount determined under the description of A, is any part of the value of the consideration for a supply made to the qualifying taxpayer of a financial service that includes the issuance, renewal, variation or transfer of ownership of a policy of reinsurance in respect of one or more particular insurance policies issued by the qualifying taxpayer, an amount (in this description referred to as a ***returned commission***) included in the particular amount that
 
@@ -2112,15 +2112,15 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(2)** Paragraph (a) of the definition **loading** in section 217 of the Act is replaced by the following:
 
-    if the financial service includes the issuance, renewal, variation or transfer of ownership of an insurance policy but not of any other qualifying instrument, **the total of**
+    if the financial service includes the issuance, renewal, variation or transfer of ownership of an insurance policy but not of any other qualifying instrument, the total of
 
-    the estimate of the net premium of the insurance policy, **and**
+    the estimate of the net premium of the insurance policy, and
 
     if the insurance policy is a policy of reinsurance, the margin for risk transfer of the insurance policy;
 
   **(3)** The description of A in paragraph (c) of the definition **loading** in section 217 of the Act is replaced by the following:
 
-    is **the total of**
+    is the total of
 
     the estimate of the net premium of the insurance policy, and
 
@@ -2128,7 +2128,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(4)** Paragraph (k) of the definition **permitted deduction** in section 217 of the Act is replaced by the following:
 
-    consideration (other than interest referred to in paragraph (g), dividends referred to in paragraph (h) or **consideration referred to in paragraph (k.1)**) for a specified non-arm's length supply made to the qualifying taxpayer **less the total of all amounts, each of which is a part of the value of the consideration and is** loading;
+    consideration (other than interest referred to in paragraph (g), dividends referred to in paragraph (h) or consideration referred to in paragraph (k.1)) for a specified non-arm's length supply made to the qualifying taxpayer less the total of all amounts, each of which is a part of the value of the consideration and is loading;
 
     consideration (other than interest referred to in paragraph (g) or dividends referred to in paragraph (h)) for a specified non-arm's length supply made to the qualifying taxpayer of a financial service of issuing, renewing, varying or transferring the ownership of a policy of reinsurance, issued by an insurer to the qualifying taxpayer, in respect of one or more particular insurance policies issued by the qualifying taxpayer, if
 
@@ -2150,7 +2150,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
     each fee paid by the qualifying taxpayer to the insurer or an affiliate
 
-    is commensurate with the ***arm's length transfer price***, as defined in subsection 247(1) of the `**Income Tax Act**`, for the provision of the property and services to which the fee relates, and
+    is commensurate with the ***arm's length transfer price***, as defined in subsection 247(1) of the `Income Tax Act`, for the provision of the property and services to which the fee relates, and
 
     is allowed as a deduction, an allowance or an allocation for a reserve under the `Income Tax Act` in computing the qualifying taxpayer's income for a specified year, or would be so allowed if the conditions set out in subparagraphs (a)(i) to (iii) of the description of A in the definition ***qualifying consideration*** applied to the qualifying taxpayer, and
 
@@ -2158,7 +2158,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(5)** Paragraph (a) of the description of B in the definition **qualifying consideration** in section 217 of the Act is replaced by the following:
 
-    an amount that is a permitted deduction for the specified year or a preceding specified year of the qualifying taxpayer, other than an amount **that is** included in paragraph (b) or **that is a returned commission included in paragraph (c)**,
+    an amount that is a permitted deduction for the specified year or a preceding specified year of the qualifying taxpayer, other than an amount that is included in paragraph (b) or that is a returned commission included in paragraph (c),
 
   **(6)** The description of B in the definition **qualifying consideration** in section 217 of the Act is amended by adding "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -2188,7 +2188,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** Subparagraph 217.1(4)(b)(ii) of the Act is replaced by the following:
 
-    a permitted deduction of the qualifying taxpayer for the specified year or a preceding specified year of the qualifying taxpayer, other than a permitted deduction of the qualifying taxpayer that is included under **paragraph (a) of** the description of B in the definition ***external charge*** in section 217 in calculating an external charge of the qualifying taxpayer for the specified year or a preceding specified year of the qualifying taxpayer,
+    a permitted deduction of the qualifying taxpayer for the specified year or a preceding specified year of the qualifying taxpayer, other than a permitted deduction of the qualifying taxpayer that is included under paragraph (a) of the description of B in the definition ***external charge*** in section 217 in calculating an external charge of the qualifying taxpayer for the specified year or a preceding specified year of the qualifying taxpayer,
 
   **(2)** Subsection (1) applies to any specified year of a person that ends after November 16, 2005.
 
@@ -2224,7 +2224,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** Section 21 of Part II of Schedule VI to the Act is replaced by the following:
 
-    A supply of an insulin infusion pump, insulin syringe, **insulin pen** or **insulin pen needle**.
+    A supply of an insulin infusion pump, insulin syringe, insulin pen or insulin pen needle.
 
   **(2)** Subsection (1) applies to
 
@@ -2280,7 +2280,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** Paragraph 23(8)(c) of the Act is replaced by the following:
 
-    diesel fuel for use in the generation of electricity, **unless** the **diesel fuel** is used in **or by** a vehicle, **including a conveyance attached to** the **vehicle**, of **any mode of transportation**.
+    diesel fuel for use in the generation of electricity, unless the diesel fuel is used in or by a vehicle, including a conveyance attached to the vehicle, of any mode of transportation.
 
   **(2)** Subsection (1) applies to diesel fuel delivered to a purchaser, or imported, after June 2016.
 
@@ -2296,7 +2296,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** Paragraph 68.01(1)(b) of the Act is replaced by the following:
 
-    to a purchaser who applies for the payment and who uses the diesel fuel to generate electricity, **unless** the **diesel fuel** is used in **or by** a vehicle, **including a conveyance attached to** the **vehicle**, of **any mode of transportation**.
+    to a purchaser who applies for the payment and who uses the diesel fuel to generate electricity, unless the diesel fuel is used in or by a vehicle, including a conveyance attached to the vehicle, of any mode of transportation.
 
   **(2)** Subsection (1) applies in respect of diesel fuel used after June 2016.
 
@@ -2358,7 +2358,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** Paragraph 5(1)(b) of the `Regulations Respecting Excise Licences and Registrations` is replaced by the following:
 
-    in the case of a tobacco licence, be sufficient to ensure payment of the amount of duty referred to in paragraph 160(b) of the Act up to a maximum amount of $**5** million.
+    in the case of a tobacco licence, be sufficient to ensure payment of the amount of duty referred to in paragraph 160(b) of the Act up to a maximum amount of $5 million.
 
   **(2)** Subsection (1) comes into force on the later of June 22, 2016 and the day on which this Act receives royal assent.
 
@@ -2369,7 +2369,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(1)** Subsection 4.1(2) of the `Stamping and Marking of Tobacco Products Regulations` is replaced by the following:
 
-    **(2)** Subject to subsection (3), if the amount referred to in paragraph (1)(a) is greater than $**5** million, the amount of security for the purpose of subsection 25.1(3) of the Act is $**5** million.
+    **(2)** Subject to subsection (3), if the amount referred to in paragraph (1)(a) is greater than $5 million, the amount of security for the purpose of subsection 25.1(3) of the Act is $5 million.
 
   **(2)** Subsection (1) comes into force on the later of June 22, 2016 and the day on which this Act receives royal assent.
 
@@ -2393,21 +2393,21 @@ The `Federal Balanced Budget Act`, section 41 of chapter 36 of the Statutes of C
 
 Paragraph 11(1)(b) of the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` is replaced by the following:
 
-has determined, based on an assessment of the veteran under subsection 10(1), that the veteran would not benefit from vocational rehabilitation as a result of **their having a diminished earning capacity that is due to** the physical or mental health problem in respect of which the rehabilitation services were approved.
+has determined, based on an assessment of the veteran under subsection 10(1), that the veteran would not benefit from vocational rehabilitation as a result of their having a diminished earning capacity that is due to the physical or mental health problem in respect of which the rehabilitation services were approved.
 
 ### Section 81
 
 The portion of subsection 18(4) of the Act before paragraph (b) is replaced by the following:
 
-**(4)** If the Minister determines that the veteran **has a diminished earning capacity that** is **due** to the physical or mental health problem for which the rehabilitation plan was developed, the earnings loss benefit continues to be payable to the veteran after the plan has been completed or cancelled until the earlier of
+**(4)** If the Minister determines that the veteran has a diminished earning capacity that is due to the physical or mental health problem for which the rehabilitation plan was developed, the earnings loss benefit continues to be payable to the veteran after the plan has been completed or cancelled until the earlier of
 
-  the day on which the Minister determines that the veteran no longer **has a diminished earning capacity that is due** to that health problem, and
+  the day on which the Minister determines that the veteran no longer has a diminished earning capacity that is due to that health problem, and
 
 ### Section 82
 
 The description of A in subsection 19(1) of the Act is replaced by the following:
 
-is **90**% of the veteran's imputed income for a month; and
+is 90% of the veteran's imputed income for a month; and
 
 ### Section 83
 
@@ -2415,7 +2415,7 @@ Subsection 20(1) of the Act is replaced by the following:
 
 ### Section 20
 
-  **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive an earnings loss benefit, require a veteran who, as a result of a determination **that they have a diminished earning capacity**, is in receipt of an earnings loss benefit under section 18 — or would, but for their level of income, be in receipt of it — to undergo a medical examination or an assessment by a person specified by the Minister.
+  **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive an earnings loss benefit, require a veteran who, as a result of a determination that they have a diminished earning capacity, is in receipt of an earnings loss benefit under section 18 — or would, but for their level of income, be in receipt of it — to undergo a medical examination or an assessment by a person specified by the Minister.
 
 ### Section 84
 
@@ -2423,41 +2423,41 @@ Subsection 23(1) of the Act is replaced by the following:
 
 ### Section 23
 
-  **(1)** Subject to the regulations, the monthly amount of an earnings loss benefit under section 22 that is payable in respect of a member or a veteran is **90**% of the member's or veteran's imputed income for a month.
+  **(1)** Subject to the regulations, the monthly amount of an earnings loss benefit under section 22 that is payable in respect of a member or a veteran is 90% of the member's or veteran's imputed income for a month.
 
 ### Section 85
 
   **(1)** Subparagraph 38(1)(b)(ii) of the Act is replaced by the following:
 
-    the disability award is not yet payable **in ac-****cordance with** section 53.
+    the disability award is not yet payable in ac-cordance with section 53.
 
   **(2)** Subsections 38(2) and (3) of the Act are replaced by the following:
 
-    **(2)** The Minister shall determine the amount of the **career impact** allowance that may be paid to the veteran in a year, **taking into account the potential impact of the** permanent **and severe** impairment **on the veteran's career advancement opportunities**. The minimum **career impact** allowance shall be the amount set out in item 1, column 2, of Schedule 2, and the maximum **career impact** allowance shall be the amount set out in item 2, column 2.
+    **(2)** The Minister shall determine the amount of the career impact allowance that may be paid to the veteran in a year, taking into account the potential impact of the permanent and severe impairment on the veteran's career advancement opportunities. The minimum career impact allowance shall be the amount set out in item 1, column 2, of Schedule 2, and the maximum career impact allowance shall be the amount set out in item 2, column 2.
 
-    **(3)** The Minister may, on application, increase the **career impact** allowance that may be paid under subsection (2) by the amount set out in item 2.1, column 2, of Schedule 2, if the Minister determines that the veteran **has a diminished earning capacity**.
+    **(3)** The Minister may, on application, increase the career impact allowance that may be paid under subsection (2) by the amount set out in item 2.1, column 2, of Schedule 2, if the Minister determines that the veteran has a diminished earning capacity.
 
 ### Section 86
 
 Subsection 40(2) of the English version of the Act is replaced by the following:
 
-**(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may cancel the **career impact** allowance.
+**(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may cancel the career impact allowance.
 
 ### Section 87
 
   **(1)** Paragraph 41(b) of the Act is replaced by the following:
 
-    respecting what constitutes a barrier to re-establishment in civilian life and **a diminished earning capacity**;
+    respecting what constitutes a barrier to re-establishment in civilian life and a diminished earning capacity;
 
   **(2)** Paragraph 41(g) of the French version of the Act is replaced by the following:
 
-    **concernant**, pour l'application de l'article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l'existence et l'ampleur d'une telle déficience chez le vétéran.
+    concernant, pour l'application de l'article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l'existence et l'ampleur d'une telle déficience chez le vétéran.
 
 ### Section 88
 
 The description of B in subsection 52(1) of the Act is replaced by the following:
 
-is the amount set out in column 3 of Schedule 3 that corresponds to **what was, immediately before** the disability award **becomes payable**, the member's or veteran's extent of disability, **as** set out in column 2 of that Schedule, in respect of the aggregate of all of the member's or veteran's disability assessments and deemed disability assessments under this Act.
+is the amount set out in column 3 of Schedule 3 that corresponds to what was, immediately before the disability award becomes payable, the member's or veteran's extent of disability, as set out in column 2 of that Schedule, in respect of the aggregate of all of the member's or veteran's disability assessments and deemed disability assessments under this Act.
 
 ### Section 89
 
@@ -2465,7 +2465,7 @@ Section 53 of the Act is replaced by the following:
 
 ### Section 53
 
-A disability award under section 45, 47 or 48 becomes payable **when both of the following conditions are met:**
+A disability award under section 45, 47 or 48 becomes payable when both of the following conditions are met:
 
 in the opinion of the Minister, the disability has stabilized;
 
@@ -2499,13 +2499,13 @@ Schedule 2 to the Act is amended by replacing the references after the heading "
 
 The portion of item 2.1 of Schedule 2 to the Act in column 1 is replaced by the following:
 
-**Career impact** allowance supplement for **diminished earning capacity**
+Career impact allowance supplement for diminished earning capacity
 
 ### Section 95
 
 The portion of item 3 of Schedule 2 to the Act in column 2 is replaced by the following:
 
-**360,000.00** (lump sum)
+360,000.00 (lump sum)
 
 ### Section 96
 
@@ -2640,7 +2640,7 @@ An amount paid or payable under any of sections `100` to `103` is deemed, for th
 
 Subparagraph (f)(iii) of the definition **student** in section 2 of the `Children of Deceased Veterans Education Assistance Act` is replaced by the following:
 
-the member's or veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments under that Act and, if applicable, the `Pension Act`, is equal to or greater than the lowest extent of disability set out in column 2 of Schedule 3 to the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` in respect of **a rate of award of 50 %**. (***étudiant***)
+the member's or veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments under that Act and, if applicable, the `Pension Act`, is equal to or greater than the lowest extent of disability set out in column 2 of Schedule 3 to the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` in respect of a rate of award of 50 %. (***étudiant***)
 
 
 ##### `Pension Act`
@@ -2649,7 +2649,7 @@ the member's or veteran's extent of disability, in respect of the aggregate of a
 
 Subsection 72(1.1) of the `Pension Act` is replaced by the following:
 
-**(1.1)** A member of the forces who is eligible for a **career impact** allowance under the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` is not eligible to be awarded an exceptional incapacity allowance.
+**(1.1)** A member of the forces who is eligible for a career impact allowance under the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` is not eligible to be awarded an exceptional incapacity allowance.
 
 
 ##### `Income Tax Act`
@@ -2658,7 +2658,7 @@ Subsection 72(1.1) of the `Pension Act` is replaced by the following:
 
 Paragraph 6(1)(f.1) of the `Income Tax Act` is replaced by the following:
 
-the total of all amounts received by the taxpayer in the year on account of an earnings loss benefit, a supplementary retirement benefit or a **career impact** allowance payable to the taxpayer under Part 2 of the `Canadian Forces Members and Veterans Re-establishment and Compensation Act`;
+the total of all amounts received by the taxpayer in the year on account of an earnings loss benefit, a supplementary retirement benefit or a career impact allowance payable to the taxpayer under Part 2 of the `Canadian Forces Members and Veterans Re-establishment and Compensation Act`;
 
 
 #### Coordinating Amendments
@@ -2698,11 +2698,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 20
 
-      **(1)** Subject to subsections (2) and (4), companies shall not carry on business after **March 29, 2019**.
+      **(1)** Subject to subsections (2) and (4), companies shall not carry on business after March 29, 2019.
 
   **(2)** Subsection 20(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **March 29, 2019 or** on any day within the six-month period before that **date** or on any day within an extension **ordered** under subsection (2), companies may continue to carry on business until the end of the **180th day** after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 #### `Bank Act`
@@ -2713,11 +2713,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 21
 
-      **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after **March 29, 2019**.
+      **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after March 29, 2019.
 
   **(2)** Subsection 21(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **March 29, 2019 or** on any day within the six-month period before that **date** or on any day within an extension **ordered** under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the **180th day** after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
 
 ### Section 119
 
@@ -2725,11 +2725,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 670
 
-      **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after **March 29, 2019**.
+      **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after March 29, 2019.
 
   **(2)** Subsection 670(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **March 29, 2019 or** on any day within the six-month period before that **date** or on any day within an extension **ordered** under subsection (2), bank holding companies may continue to carry on business until the end of the **180th day** after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), bank holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 #### `Insurance Companies Act`
@@ -2740,11 +2740,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 21
 
-      **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after **March 29, 2019**.
+      **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after March 29, 2019.
 
   **(2)** Subsection 21(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **March 29, 2019 or** on any day within the six-month period before that **date** or on any day within an extension **ordered** under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the **180th day** after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
 
 ### Section 121
 
@@ -2752,11 +2752,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 707
 
-      **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after **March 29, 2019**.
+      **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after March 29, 2019.
 
   **(2)** Subsection 707(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **March 29, 2019 or** on any day within the six-month period before that **date** or on any day within an extension **ordered** under subsection (2), insurance holding companies may continue to carry on business until the end of the **180th day** after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 #### `Cooperative Credit Associations Act`
@@ -2767,11 +2767,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 22
 
-      **(1)** Subject to subsections (2) and (4), associations shall not carry on business after **March 29, 2019**.
+      **(1)** Subject to subsections (2) and (4), associations shall not carry on business after March 29, 2019.
 
   **(2)** Subsection 22(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **March 29, 2019 or** on any day within the six-month period before that **date** or on any day within an extension **ordered** under subsection (2), associations may continue to carry on business until the end of the **180th day** after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), associations may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 ### Amendments to the `Bank Act` (Federal Credit Unions)
@@ -2782,11 +2782,11 @@ the total of all amounts received by the taxpayer in the year on account of an e
 
 ### Section 35.1
 
-      **(1)** Sous réserve des autres dispositions de la présente partie, le ministre **ne** peut délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(2) **que** s'il estime qu'elle s'est conformée aux règlements relatifs aux exigences de notification et de divulgation.
+      **(1)** Sous réserve des autres dispositions de la présente partie, le ministre ne peut délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(2) que s'il estime qu'elle s'est conformée aux règlements relatifs aux exigences de notification et de divulgation.
 
   **(2)** The portion of subsection 35.1(2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Sous réserve des autres dispositions de la présente partie, le ministre **ne** peut délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes des paragraphes 33(3) ou (4) **que** si :
+    **(2)** Sous réserve des autres dispositions de la présente partie, le ministre ne peut délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes des paragraphes 33(3) ou (4) que si :
 
   **(3)** Section 35.1 of the Act is amended by adding the following after subsection (3):
 
@@ -2810,7 +2810,7 @@ For the purpose of supporting a federal credit union during the period that begi
 
 Subsection 229(1.1) of the Act is replaced by the following:
 
-**(1.1)** In the case of an application made under subsection 223(1.2) or (1.3), the Minister shall not issue letters patent of amalgamation unless the Minister has issued, under subsection **35(1)**, letters patent continuing as a federal credit union each applicant that was a local cooperative credit society.
+**(1.1)** In the case of an application made under subsection 223(1.2) or (1.3), the Minister shall not issue letters patent of amalgamation unless the Minister has issued, under subsection 35(1), letters patent continuing as a federal credit union each applicant that was a local cooperative credit society.
 
 
 ### Bank Recapitalization Regime (Bail-in)
@@ -2844,7 +2844,7 @@ Subsection 229(1.1) of the Act is replaced by the following:
 
   **(2)** Paragraph 10(1)(f) of the Act is replaced by the following:
 
-    acquire assets **and assume liabilities** of a member institution from **its** liquidator or receiver;
+    acquire assets and assume liabilities of a member institution from its liquidator or receiver;
 
   **(3)** Section 10 of the Act is amended by adding the following after subsection (3):
 
@@ -2858,7 +2858,7 @@ Subsection 229(1.1) of the Act is replaced by the following:
 
   **(2)** Subsection 29(3) of the Act is replaced by the following:
 
-    **(3)** The Corporation is entitled to all information obtained by or produced by or for the person, whether in the course of conducting **the** examination or inspection or otherwise, regarding the affairs of the member institution or any of its affiliates or of any person dealing with the member institution or any of its affiliates.
+    **(3)** The Corporation is entitled to all information obtained by or produced by or for the person, whether in the course of conducting the examination or inspection or otherwise, regarding the affairs of the member institution or any of its affiliates or of any person dealing with the member institution or any of its affiliates.
 
 ### Section 129
 
@@ -2866,7 +2866,7 @@ Subsection 30(1) of the Act is replaced by the following:
 
 ### Section 30
 
-  **(1)** **If**, in the **Corporation's** opinion, a member institution is in breach of **a provision** of **this Act or** the **regulations, a by-law** of the Corporation or **a condition** of its policy of deposit insurance, the Corporation may send a report of the facts to the chief executive officer or chairperson of the board of directors of the member institution. The report **may be sent** by registered mail or **delivered** by hand and a copy of **it must be provided** to the Minister.
+  **(1)** If, in the Corporation's opinion, a member institution is in breach of a provision of this Act or the regulations, a by-law of the Corporation or a condition of its policy of deposit insurance, the Corporation may send a report of the facts to the chief executive officer or chairperson of the board of directors of the member institution. The report may be sent by registered mail or delivered by hand and a copy of it must be provided to the Minister.
 
 ### Section 130
 
@@ -2874,21 +2874,21 @@ Sections 39.11 and 39.12 of the Act are replaced by the following:
 
 ### Section 39.11
 
-On receipt of a report made by the Superintendent **under** section 39.1, the Corporation may
+On receipt of a report made by the Superintendent under section 39.1, the Corporation may
 
-after **determining that** a transaction referred to in section 39.2 is reasonably likely to be expeditiously **carried out** after the making of the order, request the Minister to recommend that one or more orders be made under subsection 39.13(1); **or**
+after determining that a transaction referred to in section 39.2 is reasonably likely to be expeditiously carried out after the making of the order, request the Minister to recommend that one or more orders be made under subsection 39.13(1); or
 
 in the case of a domestic systemically important bank, request the Minister to recommend that one or more orders be made under subsection 39.13(1) and that an order be made under subsection 39.13(1.3).
 
 ### Section 39.12
 
-**If** a request referred to in section 39.11 is made by the Corporation, the Minister may, if **he or she** is of the opinion that it is in the public interest to do so, recommend to the Governor in Council that one or more orders be made under subsection 39.13(1) in respect of the federal member institution **and, in the case of a domestic systemically important bank, that an order be made under subsection 39.13(1.3) in respect of that institution**.
+If a request referred to in section 39.11 is made by the Corporation, the Minister may, if he or she is of the opinion that it is in the public interest to do so, recommend to the Governor in Council that one or more orders be made under subsection 39.13(1) in respect of the federal member institution and, in the case of a domestic systemically important bank, that an order be made under subsection 39.13(1.3) in respect of that institution.
 
 ### Section 131
 
   **(1)** Paragraph 39.13(1)(a) of the Act is replaced by the following:
 
-    vest in the Corporation the shares and subordinated debt of the federal member institution **that are specified in the order**;
+    vest in the Corporation the shares and subordinated debt of the federal member institution that are specified in the order;
 
   **(2)** Subsection 39.13(1) of the Act is amended by striking out "or" at the end of paragraph (b), by adding "or" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -2902,17 +2902,17 @@ in the case of a domestic systemically important bank, request the Minister to r
 
   **(4)** The portion of subsection 39.13(2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Le décret **pris au titre de l'alinéa (1)a)** :
+    **(2)** Le décret pris au titre de l'alinéa (1)a) :
 
   **(5)** Paragraphs 39.13(2)(a) and (b) of the Act are replaced by the following:
 
-    vests in the Corporation the shares and subordinated debt **that are subject to the order**, free from any adverse claim, including any claim that a transfer was wrongful or that a particular adverse person was the owner of or had an interest **or right** in **respect of** the shares or subordinated debt, even though the Corporation knows of the adverse claim;
+    vests in the Corporation the shares and subordinated debt that are subject to the order, free from any adverse claim, including any claim that a transfer was wrongful or that a particular adverse person was the owner of or had an interest or right in respect of the shares or subordinated debt, even though the Corporation knows of the adverse claim;
 
-    extinguishes any such adverse claim to the extent that the claim is a claim that a person other than the Corporation is the owner of or has an interest **or right** in **respect of** the shares or subordinated debt;
+    extinguishes any such adverse claim to the extent that the claim is a claim that a person other than the Corporation is the owner of or has an interest or right in respect of the shares or subordinated debt;
 
   **(6)** Paragraph 39.13(2)(d) of the Act is replaced by the following:
 
-    does not prevent a secured creditor or assignee or successor in interest of the person who was the holder of the shares or subordinated debt immediately before the making of the order from being entitled to receive compensation under section **39.23**; and
+    does not prevent a secured creditor or assignee or successor in interest of the person who was the holder of the shares or subordinated debt immediately before the making of the order from being entitled to receive compensation under section 39.23; and
 
   **(7)** Subsection 39.13(2) of the Act is amended by striking out "and" at the end of paragraph (c), by adding "and" at the end of paragraph (d) and by adding the following after paragraph (d):
 
@@ -2920,21 +2920,21 @@ in the case of a domestic systemically important bank, request the Minister to r
 
   **(8)** Paragraph 39.13(3)(c) of the Act is replaced by the following:
 
-    gives the Corporation the right to recover, out of the assets of the federal member institution **and** in priority to all other claims, all the costs, charges and expenses properly incurred by the Corporation in **furtherance of the order, including those related to its operation of the institution**.
+    gives the Corporation the right to recover, out of the assets of the federal member institution and in priority to all other claims, all the costs, charges and expenses properly incurred by the Corporation in furtherance of the order, including those related to its operation of the institution.
 
   **(9)** Subsection 39.13(4) of the Act is replaced by the following:
 
-    **(4)** For greater certainty, shares and subordinated debt **that are subject to** an **order made** under paragraph (1)(a) and that, immediately before the making of **the** order, are vested in a trustee in bankruptcy under the `Bankruptcy and Insolvency Act` are vested in the Corporation.
+    **(4)** For greater certainty, shares and subordinated debt that are subject to an order made under paragraph (1)(a) and that, immediately before the making of the order, are vested in a trustee in bankruptcy under the `Bankruptcy and Insolvency Act` are vested in the Corporation.
 
-    **(**4.1**)** **For greater certainty**, an order made under paragraph (1)**(a) or** (b) prevents any person, other than the Corporation, who is the holder of shares or subordinated debt or **other debts or liabilities** of the federal member institution or **who is a party** to or **a beneficiary of a contract with** the **institution**, and any secured creditor or assignee or successor in interest of such **a** person, from exercising any voting or other rights arising from the **person's** status in any manner that **could** defeat or interfere with the rights, powers, privileges and immunities of the Corporation as **holder of shares or subordinated debt or as** receiver, **as the case may be**.
+    **(4.1)** For greater certainty, an order made under paragraph (1)(a) or (b) prevents any person, other than the Corporation, who is the holder of shares or subordinated debt or other debts or liabilities of the federal member institution or who is a party to or a beneficiary of a contract with the institution, and any secured creditor or assignee or successor in interest of such a person, from exercising any voting or other rights arising from the person's status in any manner that could defeat or interfere with the rights, powers, privileges and immunities of the Corporation as holder of shares or subordinated debt or as receiver, as the case may be.
 
   **(10)** Paragraph 39.13(5)(b) of the English version of the Act is replaced by the following:
 
-    an asset of the federal member institution that is acquired from the Corporation, as receiver, shall, except to the extent that it is an asset referred to in **subparagraph** (3)(b)(iii), be acquired free of any adverse claim of the federal member institution or any other person, and
+    an asset of the federal member institution that is acquired from the Corporation, as receiver, shall, except to the extent that it is an asset referred to in subparagraph (3)(b)(iii), be acquired free of any adverse claim of the federal member institution or any other person, and
 
   **(11)** Subsection 39.13(6) of the Act is replaced by the following:
 
-    **(6)** An order **made** under this section **and any action taken or decision made** in **furtherance** of **such an order are** for all purposes final and conclusive and shall not be questioned or reviewed in any court.
+    **(6)** An order made under this section and any action taken or decision made in furtherance of such an order are for all purposes final and conclusive and shall not be questioned or reviewed in any court.
 
 ### Section 132
 
@@ -2946,13 +2946,13 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
 ### Section 39.14
 
-      **(1)** **If** an order is made under paragraph 39.13(1)(a) or (b) in respect of a federal member institution, the powers, duties, functions, rights and privileges of the directors of the federal member institution and those of its officers **who** are responsible for its management are suspended **except to** the **extent that is specified in writing by** the Corporation. The Corporation may exercise those powers, rights and privileges and perform those duties and functions.
+      **(1)** If an order is made under paragraph 39.13(1)(a) or (b) in respect of a federal member institution, the powers, duties, functions, rights and privileges of the directors of the federal member institution and those of its officers who are responsible for its management are suspended except to the extent that is specified in writing by the Corporation. The Corporation may exercise those powers, rights and privileges and perform those duties and functions.
 
   **(2)** Subsection 39.14(2) of the Act is replaced by the following:
 
     **(1.2)** If an order is made under paragraph 39.13(1)(a) or (b) in respect of a federal member institution, the powers, rights and privileges of its shareholders to vote or give approvals are suspended and the Corporation may exercise those powers, rights and privileges.
 
-    **(2)** The Corporation may appoint one or more persons to assist it in the management of any federal member institution or in carrying out the Corporation's functions as **holder of shares or subordinated debt** or **as** receiver and may delegate to those persons any of the powers, duties, functions, rights or privileges of the directors and officers of the federal member institution.
+    **(2)** The Corporation may appoint one or more persons to assist it in the management of any federal member institution or in carrying out the Corporation's functions as holder of shares or subordinated debt or as receiver and may delegate to those persons any of the powers, duties, functions, rights or privileges of the directors and officers of the federal member institution.
 
   **(3)** Subsection 39.14(3) of the Act is repealed.
 
@@ -2970,19 +2970,19 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
   **(1)** Paragraphs 39.15(1)(d) to (f) of the Act are replaced by the following:
 
-    **except** in the normal course of clearing and settlement **processes, including** the consolidation of accounts **in respect** of **those processes** or the services referred to in paragraph (5)(c), no creditor has any right of set-off **or compensation** against the federal member institution;
+    except in the normal course of clearing and settlement processes, including the consolidation of accounts in respect of those processes or the services referred to in paragraph (5)(c), no creditor has any right of set-off or compensation against the federal member institution;
 
-    no person may terminate or amend any agreement with the federal member institution or claim an accelerated payment, or forfeiture of the term, under such **an** agreement by reason only of
+    no person may terminate or amend any agreement with the federal member institution or claim an accelerated payment, or forfeiture of the term, under such an agreement by reason only of
 
     the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors,
 
-    a **non-monetary** default, before the order was made, by the federal member institution **or any of** its **affiliates** in the performance of obligations under the agreement,
+    a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under the agreement,
 
-    a monetary default, before the order was made, under the agreement by the federal member institution or any of its affiliates that is remedied within 60 days after the day on which the order is made**,**
+    a monetary default, before the order was made, under the agreement by the federal member institution or any of its affiliates that is remedied within 60 days after the day on which the order is made,
 
     the making of the order or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order,
 
-    the **assignment** or **assumption of** the agreement to **or** by **a** bridge institution **or a third party**,
+    the assignment or assumption of the agreement to or by a bridge institution or a third party,
 
     the transfer to a third party of all or part of the assets or liabilities of the federal member institution or any of its affiliates,
 
@@ -2992,15 +2992,15 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
     no person may terminate the federal member institution's membership in an organization by reason only of
 
-    the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support **or guarantors,**
+    the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors,
 
-    **a non-monetary** default, **before the order was made**, by the federal member institution **or any of its affiliates** in the performance of obligations under the rules of the organization,
+    a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under the rules of the organization,
 
     a monetary default, before the order was made, under the rules of the organization by the federal member institution or any of its affiliates that is remedied within 60 days after the day on which the order is made,
 
     the making of the order or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order,
 
-    **the transfer of** the federal member institution's membership to **a** bridge institution **or a third party**,
+    the transfer of the federal member institution's membership to a bridge institution or a third party,
 
     the transfer to a third party of all or part of the assets or liabilities of the federal member institution or any of its affiliates,
 
@@ -3012,13 +3012,13 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
     the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors,
 
-    **a non-monetary** default, **before the order was made**, by the federal member institution **or any of its affiliates** in the performance of obligations **under the agreement**,
+    a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under the agreement,
 
     a monetary default, before the order was made, under the agreement by the federal member institution or any of its affiliates that is remedied within 60 days after the day on which the order is made,
 
     the making of the order or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order,
 
-    the **assignment** or **assumption of** the agreement to **or** by **a** bridge **institution or a third party**,
+    the assignment or assumption of the agreement to or by a bridge institution or a third party,
 
     the transfer to a third party of all or part of the assets or liabilities of the federal member institution or any of its affiliates,
 
@@ -3030,13 +3030,13 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
     the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors,
 
-    **a non-monetary** default, **before the order was made**, by the federal member institution **or any of** its **affiliates** in the performance of obligations **under the rules of the organization**,
+    a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under the rules of the organization,
 
     a monetary default, before the order was made, under the rules of the organization by the federal member institution or any of its affiliates that is remedied by the institution within 60 days after the day on which the order is made,
 
     the making of the order or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order,
 
-    **the transfer of** the federal member institution's membership to **a** bridge institution **or a third party**,
+    the transfer of the federal member institution's membership to a bridge institution or a third party,
 
     the transfer to a third party of all or part of the assets or liabilities of the federal member institution or any of its affiliates,
 
@@ -3046,31 +3046,31 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
   **(4)** Subsections 39.15(3) and (3.1) of the Act are replaced by the following:
 
-    **(3)** Subsections (1) **to (2.1)** do not apply so as to prevent a member of the Canadian Payments Association from acting or ceasing to act as a clearing agent for a federal member institution in accordance with the `Canadian Payments Act` and the by-laws and rules of that Association.
+    **(3)** Subsections (1) to (2.1) do not apply so as to prevent a member of the Canadian Payments Association from acting or ceasing to act as a clearing agent for a federal member institution in accordance with the `Canadian Payments Act` and the by-laws and rules of that Association.
 
-    **(3.1)** **Despite subsection (3), if** a clearing agent that **is** a member of the Canadian Payments Association acts **in that capacity** for a federal member institution at the time an order is made **under subsection 39.13(1) in** respect **of** the institution, the clearing agent shall **continue to** act **in that capacity** for the institution **after the order is made**, if the Corporation **has given an undertaking** to **provide the financial assistance that** the institution **needs in order to discharge its obligations** to **the clearing agent** as **they become due**.
+    **(3.1)** Despite subsection (3), if a clearing agent that is a member of the Canadian Payments Association acts in that capacity for a federal member institution at the time an order is made under subsection 39.13(1) in respect of the institution, the clearing agent shall continue to act in that capacity for the institution after the order is made, if the Corporation has given an undertaking to provide the financial assistance that the institution needs in order to discharge its obligations to the clearing agent as they become due.
 
-    **(3.2)** Subsections (1) to (2.1) do not apply so as to prevent **a clearing house**
+    **(3.2)** Subsections (1) to (2.1) do not apply so as to prevent a clearing house
 
-      from acting or ceasing to act **in that capacity** for a federal member institution; or
+      from acting or ceasing to act in that capacity for a federal member institution; or
 
       from exercising its rights under its ***settlement rules***, as defined in subsection 8(5) of the `Payment Clearing and Settlement Act`.
 
-    **(3.3)** **Despite subsection (3.2), a clearing house** that acts in that capacity for a federal member institution at the time an order is made **under subsection 39.13(1) in** respect **of** the institution shall **continue to** act **in that capacity** for the institution and subsections (1) to (2.1) apply in respect of the clearing house**,** if the Corporation **has given an undertaking** to **provide the financial assistance that the institution needs in order to discharge its obligations to the clearing house as they become due.**
+    **(3.3)** Despite subsection (3.2), a clearing house that acts in that capacity for a federal member institution at the time an order is made under subsection 39.13(1) in respect of the institution shall continue to act in that capacity for the institution and subsections (1) to (2.1) apply in respect of the clearing house, if the Corporation has given an undertaking to provide the financial assistance that the institution needs in order to discharge its obligations to the clearing house as they become due.
 
   **(5)** Paragraph 39.15(6)(b) of the Act is replaced by the following:
 
     the Superintendent, on the application of the federal member institution, exempted the security agreement from the application of those paragraphs and that subsection before the making of an order under subsection 39.13(1) and the Corporation does not undertake
 
-    to ensure that the obligations secured by the security interest will be assumed by a bridge institution **or a third party**, or
+    to ensure that the obligations secured by the security interest will be assumed by a bridge institution or a third party, or
 
     to provide the federal member institution with the financial assistance that it needs to discharge the obligations secured by the security interest as they become due.
 
   **(6)** Subsection 39.15(7) of the Act is replaced by the following:
 
-    **(7)** Nothing in subsection (1), (2) or **(2.1)** prevents the following actions from being taken in accordance with the provisions of an eligible financial contract:
+    **(7)** Nothing in subsection (1), (2) or (2.1) prevents the following actions from being taken in accordance with the provisions of an eligible financial contract:
 
-      the termination **or amendment** of the contract;
+      the termination or amendment of the contract;
 
       the accelerated payment or forfeiture of the term under the contract;
 
@@ -3078,7 +3078,7 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
       the netting or setting off or compensation of an amount payable under or in connection with the contract; or
 
-      **except in respect of the actions referred to in paragraphs (c) and (d)**, any dealing with financial collateral, including
+      except in respect of the actions referred to in paragraphs (c) and (d), any dealing with financial collateral, including
 
       the sale or foreclosure or, in Quebec, the surrender of financial collateral, and
 
@@ -3086,17 +3086,17 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
   **(7)** The portion of subsection 39.15(7.01) of the Act before paragraph (b) is replaced by the following:
 
-    **(7.01)** If an order directing the incorporation of a bridge institution is made, the actions referred to in **paragraphs** (7)**(a), (b) and (e)** are not to be taken during the period beginning on the coming into force of the order and ending on the following business day at 5:00 p.m. at the location of the Corporation's head office, by reason only of
+    **(7.01)** If an order directing the incorporation of a bridge institution is made, the actions referred to in paragraphs (7)(a), (b) and (e) are not to be taken during the period beginning on the coming into force of the order and ending on the following business day at 5:00 p.m. at the location of the Corporation's head office, by reason only of
 
       the insolvency or deteriorated financial condition of the federal member institution, any of its affiliates or any of its providers of credit support or guarantors in respect of the institution's obligations under the eligible financial contract;
 
   **(8)** Subsections 39.15(7.02) to (7.1) of the Act are replaced by the following:
 
-    **(7.1)** If an order made **under subsection 39.13(1) does not direct** the incorporation of a bridge institution, or **if it directs** the **incorporation** of **a bridge institution** and the Corporation undertakes, **before** the **time referred to** in subsection **(7.01)**, to **assign** the eligible financial contract to the bridge institution, the actions referred to in **paragraphs** (7)**(a), (b) and (e)** are not to be taken by reason only of
+    **(7.1)** If an order made under subsection 39.13(1) does not direct the incorporation of a bridge institution, or if it directs the incorporation of a bridge institution and the Corporation undertakes, before the time referred to in subsection (7.01), to assign the eligible financial contract to the bridge institution, the actions referred to in paragraphs (7)(a), (b) and (e) are not to be taken by reason only of
 
       the insolvency or deteriorated financial condition of the federal member institution, any of its affiliates or any of its providers of credit support or guarantors in respect of the institution's obligations under the eligible financial contract;
 
-      the **assignment** or **assumption of** the eligible financial contract to **or** by **a** bridge institution **or a third party**;
+      the assignment or assumption of the eligible financial contract to or by a bridge institution or a third party;
 
       the making of the order or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order;
 
@@ -3114,7 +3114,7 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
   **(9)** Paragraph 39.15(7.11)(b) of the Act is replaced by the following:
 
-    provides, in substance, that, by reason of the occurrence of any circumstance described in any of paragraphs (7.01)(a) to (c) and (7.1)(a) to **(e)**, the federal member institution ceases to have the rights — or, in the case of a bridge institution, does not have the rights — to use or deal with assets that the federal member institution or bridge institution would otherwise have.
+    provides, in substance, that, by reason of the occurrence of any circumstance described in any of paragraphs (7.01)(a) to (c) and (7.1)(a) to (e), the federal member institution ceases to have the rights — or, in the case of a bridge institution, does not have the rights — to use or deal with assets that the federal member institution or bridge institution would otherwise have.
 
   **(10)** Section 39.15 of the Act is amended by adding the following after subsection (7.11):
 
@@ -3122,7 +3122,7 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
   **(11)** The portion of subsection 39.15(7.2) of the Act before paragraph (a) is replaced by the following:
 
-    **(7.2)** **Subject to subsection (7.21)**, the Corporation may assign to a bridge institution **or a third party** eligible financial contracts — including any claim under such contracts — that are between a federal member institution and an entity or any of the following entities **if** the Corporation assigns all of those eligible financial contracts to the bridge institution **or the third party**:
+    **(7.2)** Subject to subsection (7.21), the Corporation may assign to a bridge institution or a third party eligible financial contracts — including any claim under such contracts — that are between a federal member institution and an entity or any of the following entities if the Corporation assigns all of those eligible financial contracts to the bridge institution or the third party:
 
   **(12)** Subsection 39.15(7.3) of the Act is replaced by the following:
 
@@ -3136,11 +3136,11 @@ Sections 39.131 and 39.132 of the Act are repealed.
 
       its creditworthiness is at least as good as the federal member institution's creditworthiness was immediately before the order was made under subsection 39.13(1).
 
-    **(7.3)** If **any of** the eligible financial contracts are assigned to **or assumed by** a bridge institution **or a third party**,
+    **(7.3)** If any of the eligible financial contracts are assigned to or assumed by a bridge institution or a third party,
 
       the Corporation shall assign all of the federal member institution's obligations arising from the eligible financial contracts, and the bridge institution or the third party shall assume those obligations; and
 
-      the federal member institution's interest or right in property that secures its obligations under **the** eligible financial **contracts** is transferred to the bridge institution **or the third party**.
+      the federal member institution's interest or right in property that secures its obligations under the eligible financial contracts is transferred to the bridge institution or the third party.
 
   **(13)** Subsection 39.15(9) of the Act is amended by adding the following in alphabetical order:
 
@@ -3160,19 +3160,19 @@ Section 39.152 of the Act is replaced by the following:
 
 ### Section 39.152
 
-  **(1)** Subject to subsection (2), if an agreement with a federal member institution is assigned to or assumed by a bridge institution **or a third party**,
+  **(1)** Subject to subsection (2), if an agreement with a federal member institution is assigned to or assumed by a bridge institution or a third party,
 
     a person is prohibited from terminating or amending the agreement, or claiming an accelerated payment or forfeiture of the term under the agreement, by reason only of
 
     the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors,
 
-    the making of an order under subsection 39.13(1) or**any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order**,
+    the making of an order under subsection 39.13(1) or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order,
 
-    a non-monetary default, **before the order was made**, by the federal member institution **or any of its affiliates** in the performance of obligations under the agreement,
+    a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under the agreement,
 
-    a monetary default, **before** the **order was made**, under the agreement by the federal member institution **or any of its affiliates** that is remedied within 60 days **after** the **day on which** the agreement **is assigned** or **assumed**,
+    a monetary default, before the order was made, under the agreement by the federal member institution or any of its affiliates that is remedied within 60 days after the day on which the agreement is assigned or assumed,
 
-    the **assignment or assumption of the** agreement to or by a bridge institution **or a third party**,
+    the assignment or assumption of the agreement to or by a bridge institution or a third party,
 
     the transfer to a third party of all or part of the assets or liabilities of the federal member institution or any of its affiliates,
 
@@ -3180,21 +3180,21 @@ Section 39.152 of the Act is replaced by the following:
 
     a conversion of any of the federal member institution's shares or liabilities in accordance with the contractual terms of those shares or liabilities; and
 
-    any stipulation in the agreement that has the effect of providing for or permitting anything that, in substance, is contrary to any of subparagraphs (a)(i) to **(viii)** or provides, in substance, that the bridge institution **or the third party** does not have the rights to use or deal with assets that the bridge institution **or the third party** would otherwise have by reason of the occurrence of any circumstance described in those subparagraphs, is of no force or effect.
+    any stipulation in the agreement that has the effect of providing for or permitting anything that, in substance, is contrary to any of subparagraphs (a)(i) to (viii) or provides, in substance, that the bridge institution or the third party does not have the rights to use or deal with assets that the bridge institution or the third party would otherwise have by reason of the occurrence of any circumstance described in those subparagraphs, is of no force or effect.
 
-  **(2)** Subparagraphs (1)(a)(iii) and **(iv)** do not apply to an ***eligible financial contract***, as defined in subsection 39.15(9).
+  **(2)** Subparagraphs (1)(a)(iii) and (iv) do not apply to an ***eligible financial contract***, as defined in subsection 39.15(9).
 
-  **(3)** If a bridge institution **or a third party** becomes a member of an organization in place of a federal member institution, it is prohibited for the organization to terminate the membership **of the** bridge **institution or of the third party** by reason only of
+  **(3)** If a bridge institution or a third party becomes a member of an organization in place of a federal member institution, it is prohibited for the organization to terminate the membership of the bridge institution or of the third party by reason only of
 
     the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors;
 
-    the making of an order under subsection 39.13(1) **or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order**;
+    the making of an order under subsection 39.13(1) or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order;
 
-    a **non-monetary** default, **before the order was made**, by the federal member institution **or any of its affiliates** in the performance of obligations under the rules of the organization;
+    a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under the rules of the organization;
 
     a monetary default, before the order was made, under the rules of the organization by the federal member institution or any of its affiliates that is remedied within 60 days after the day on which the order is made;
 
-    the**transfer of** the federal member institution's membership to **a** bridge institution **or a third party**;
+    the transfer of the federal member institution's membership to a bridge institution or a third party;
 
     the transfer to a third party of all or part of the assets or liabilities of the federal member institution or any of its affiliates;
 
@@ -3220,9 +3220,9 @@ Section 39.152 of the Act is replaced by the following:
 
       paragraph 39.15(1)(e) or (f) or subsection 39.15(2) or (2.1) continues to apply to the extent that it produced its effects by reason of
 
-      the insolvency **or deteriorated financial condition of the** federal member **institution or any of its affiliates, providers of credit support or guarantors,**
+      the insolvency or deteriorated financial condition of the federal member institution or any of its affiliates, providers of credit support or guarantors,
 
-      the making of the order under subsection 39.13(1) **or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order**,
+      the making of the order under subsection 39.13(1) or any change of control or ownership of the federal member institution or any of its affiliates that is related to the making of the order,
 
       a non-monetary default, before the order was made, by the federal member institution or any of its affiliates in the performance of obligations under an agreement or the rules of an organization,
 
@@ -3232,7 +3232,7 @@ Section 39.152 of the Act is replaced by the following:
 
       a conversion of any of the federal member institution's shares or liabilities in accordance with contractual terms of those shares or liabilities; and
 
-      **subject to subsections 39.15(7.101) and (7.102)**, subsections 39.15(7.01), **(7.1)** and (7.11) **to** (7.2) **continue** to apply and — only for the purpose of interpreting those subsections **39.15(7.01), (7.1) and (7.11) to (7.2)** — subsections 39.15(7) and (9) **continue to apply**.
+      subject to subsections 39.15(7.101) and (7.102), subsections 39.15(7.01), (7.1) and (7.11) to (7.2) continue to apply and — only for the purpose of interpreting those subsections 39.15(7.01), (7.1) and (7.11) to (7.2) — subsections 39.15(7) and (9) continue to apply.
 
     **(3)** The Governor in Council may, by order, declare that paragraph (2)(a) ceases to apply in respect of the federal member institution if the Governor in Council considers that all or substantially all of the institution's assets have been transferred to a bridge institution or a third party.
 
@@ -3311,19 +3311,19 @@ The Act is amended by adding the following after section 39.191:
 
 ### Section 39.2
 
-      **(1)** **If** an order **is** made under paragraph 39.13(1)(a), the Corporation may, in addition to any other of its rights and powers, carry out, or cause the federal member institution to carry out,
+      **(1)** If an order is made under paragraph 39.13(1)(a), the Corporation may, in addition to any other of its rights and powers, carry out, or cause the federal member institution to carry out,
 
   **(2)** Paragraphs 39.2(1)(c) and (d) of the Act are replaced by the following:
 
-    a transaction or series of transactions that involves the sale or other disposition by the federal member institution of all or part of its assets or the assumption **by another person** of all or part of its liabilities, or both; **and**
+    a transaction or series of transactions that involves the sale or other disposition by the federal member institution of all or part of its assets or the assumption by another person of all or part of its liabilities, or both; and
 
     any other transaction or series of transactions the purpose of which is to restructure the business of the federal member institution.
 
   **(3)** Subsections 39.2(2) to (5) of the Act are replaced by the following:
 
-    **(2)** **If** an order **is** made under paragraph 39.13(1)(b), the Corporation, as receiver, may, in addition to any other of its rights and powers, carry out
+    **(2)** If an order is made under paragraph 39.13(1)(b), the Corporation, as receiver, may, in addition to any other of its rights and powers, carry out
 
-      a transaction or series of transactions that involves the sale or other disposition of all or part of the assets of the federal member institution or the assumption by another person of all or part of its liabilities, or both; **and**
+      a transaction or series of transactions that involves the sale or other disposition of all or part of the assets of the federal member institution or the assumption by another person of all or part of its liabilities, or both; and
 
       any other transaction or series of transactions the purpose of which is to restructure the business of the federal member institution.
 
@@ -3337,9 +3337,9 @@ The Act is amended by adding the following after section 39.191:
 
     **(2.5)** As soon as feasible after the conversion, the Corporation shall cause a notice of it to be published in the `Canada Gazette` and on the federal member institution's website.
 
-    **(3)** **If** the Corporation considers that a transaction or series of transactions referred to in **this section** has been substantially completed **and that no other such transactions are expected** in **respect** of the **federal member** institution, it shall cause a notice to that effect to be published in the `Canada Gazette`**and on the institution's website**. The **notice must specify** the date on which the **notice is to take effect**.
+    **(3)** If the Corporation considers that a transaction or series of transactions referred to in this section has been substantially completed and that no other such transactions are expected in respect of the federal member institution, it shall cause a notice to that effect to be published in the `Canada Gazette`and on the institution's website. The notice must specify the date on which the notice is to take effect.
 
-    **(4)** No restriction on the **rights** of the federal member institution, **including the** right to amalgamate, to sell or otherwise dispose of any of its assets or to provide for the assumption of any of its liabilities, other than a restriction provided for in an Act of Parliament, applies so as to prevent the Corporation, the federal member institution or any other person from carrying out a transaction **referred to** in **this section**.
+    **(4)** No restriction on the rights of the federal member institution, including the right to amalgamate, to sell or otherwise dispose of any of its assets or to provide for the assumption of any of its liabilities, other than a restriction provided for in an Act of Parliament, applies so as to prevent the Corporation, the federal member institution or any other person from carrying out a transaction referred to in this section.
 
   **(4)** Section 39.2 of the Act is amended by adding the following after subsection (8):
 
@@ -3379,13 +3379,13 @@ Subsection 39.201(3) of the Act is repealed.
 
 ### Section 39.22
 
-      **(1)** The Corporation shall apply for a winding-up order in respect of a federal member institution under the `Winding-up and Restructuring Act` if a **notice has** not **been published under subsection** 39.2**(3)** in **respect** of **the institution** on or before
+      **(1)** The Corporation shall apply for a winding-up order in respect of a federal member institution under the `Winding-up and Restructuring Act` if a notice has not been published under subsection 39.2(3) in respect of the institution on or before
 
-        the **60th day** after the **day on which** the order **is made** under subsection 39.13(1); or
+        the 60th day after the day on which the order is made under subsection 39.13(1); or
 
   **(2)** Paragraph 39.22(1)(b) of the English version of the Act is replaced by the following:
 
-    the **day on which** any extension of that period **ends**.
+    the day on which any extension of that period ends.
 
   **(3)** Section 39.22 of the Act is amended by adding the following after subsection (1):
 
@@ -3397,7 +3397,7 @@ Subsection 39.201(3) of the Act is repealed.
 
   **(4)** Subsection 39.22(3) of the Act is replaced by the following:
 
-    **(3)** The Governor in Council may, **by order made** on the recommendation of the Minister, grant one or more extensions of the period set out in subsection (1) — **of up to** 30 days **each** — but the last extension must expire not later than 180 days after the **day on which** the order **is made** under subsection 39.13(1).
+    **(3)** The Governor in Council may, by order made on the recommendation of the Minister, grant one or more extensions of the period set out in subsection (1) — of up to 30 days each — but the last extension must expire not later than 180 days after the day on which the order is made under subsection 39.13(1).
 
     **(4)** The Governor in Council may, by order made on the recommendation of the Minister, grant one or more extensions of the applicable period set out in subsection (1.1) — of up to one year each — but the last extension must expire not later than five years after the day on which the order is made under subsection 39.13(1).
 
@@ -3417,7 +3417,7 @@ Sections 39.23 to 39.37 of the Act are replaced by the following:
 
     any shares or other interest or right received by another person as a result of an order made under subsection 39.13(1) or retained by another person; and
 
-    any common shares received by another person as a result of a conversion of shares or liabilities in accordance with the contractual terms of those shares or liabilities.
+    any common shares received by another person as a result of a conversion of shares or liabilities in accord­ance with the contractual terms of those shares or liabilities.
 
 ### Section 39.24
 
@@ -3431,7 +3431,7 @@ Payment of the compensation by the Corporation under section 39.23 discharges th
 
 In the circumstances prescribed by the regulations, the Governor in Council shall, by order, appoint as assessor a judge who is in receipt of a salary under the `Judges Act` to review a decision made by the Corporation under subsection 39.23(1) and determine the amount of compensation, if any, to be paid to a prescribed person.
 
-### Section **39.27**
+### Section 39.27
 
   **(1)** An assessor may sit at any place and shall arrange for the sittings and hearings that may be required.
 
@@ -3471,13 +3471,13 @@ Section 39.3712 of the Act is repealed.
 
 Subsection 39.3721(2) of the Act is replaced by the following:
 
-**(2)** The board of directors of the bridge institution **shall ensure that the directions are implemented in a prompt and efficient manner and** shall, after implementing a direction, notify the Corporation without delay that **it** has been implemented.
+**(2)** The board of directors of the bridge institution shall ensure that the directions are implemented in a prompt and efficient manner and shall, after implementing a direction, notify the Corporation without delay that it has been implemented.
 
 ### Section 145
 
 Subsection 39.3722(2) of the Act is replaced by the following:
 
-**(2)** The board of directors of a bridge institution may, with the **prior** approval of the Corporation, make, amend or repeal any by-law.
+**(2)** The board of directors of a bridge institution may, with the prior approval of the Corporation, make, amend or repeal any by-law.
 
 ### Section 146
 
@@ -3489,11 +3489,11 @@ Section 39.3723 of the Act is repealed.
 
 ### Section 39.38
 
-      **(1)** The Minister may, with the approval of the Governor in Council, enter into an agreement with an appropriate provincial minister providing for the application of any of sections 39.1 to **39.28** to provincial member institutions incorporated under the laws of that province.
+      **(1)** The Minister may, with the approval of the Governor in Council, enter into an agreement with an appropriate provincial minister providing for the application of any of sections 39.1 to 39.28 to provincial member institutions incorporated under the laws of that province.
 
   **(2)** Subsection 39.38(2) of the English version of the Act is replaced by the following:
 
-    **(2)** **If** an agreement has been entered into with an appropriate provincial minister, the Governor in Council may make orders, which **are to be consistent** with the agreement, providing for the application of any of sections 39.1 to **39.28** to provincial member institutions incorporated under the laws of that province and adapting any of the provisions of those sections in their application to those provincial member institutions.
+    **(2)** If an agreement has been entered into with an appropriate provincial minister, the Governor in Council may make orders, which are to be consistent with the agreement, providing for the application of any of sections 39.1 to 39.28 to provincial member institutions incorporated under the laws of that province and adapting any of the provisions of those sections in their application to those provincial member institutions.
 
 ### Section 148
 
@@ -3501,11 +3501,11 @@ Section 39.3723 of the Act is repealed.
 
 ### Section 45.1
 
-      **(1)** **Her Majesty in right of Canada, any servant or agent of Her Majesty**, the Corporation, its directors, officers and employees and any **person** acting on behalf of the Corporation are not liable to any member institution, depositor with, or creditor or shareholder of, any member institution, or to any other person, for any damages, payment, compensation, **contribution** or indemnity that any such member institution, depositor, creditor, shareholder or other person may suffer or claim by reason of anything done or omitted to be done, in good faith, in the exercise, execution or performance — **or the purported exercise, execution** or **performance** — of any powers, duties and functions **under** this Act.
+      **(1)** Her Majesty in right of Canada, any servant or agent of Her Majesty, the Corporation, its directors, officers and employees and any person acting on behalf of the Corporation are not liable to any member institution, depositor with, or creditor or shareholder of, any member institution, or to any other person, for any damages, payment, compensation, contribution or indemnity that any such member institution, depositor, creditor, shareholder or other person may suffer or claim by reason of anything done or omitted to be done, in good faith, in the exercise, execution or performance — or the purported exercise, execution or performance — of any powers, duties and functions under this Act.
 
   **(2)** Subsection 45.1(2) of the Act is replaced by the following:
 
-    **(2)** Nothing in subsection (1) shall be construed to relieve the Corporation from the obligation to make payment in respect of a deposit insured under this Act **or to pay compensation under section 39.23**.
+    **(2)** Nothing in subsection (1) shall be construed to relieve the Corporation from the obligation to make payment in respect of a deposit insured under this Act or to pay compensation under section 39.23.
 
 ### Section 149
 
@@ -3513,7 +3513,7 @@ Section 45.11 of the Act is replaced by the following:
 
 ### Section 45.11
 
-  **(1)** Directors and officers of **a federal member institution in respect of which an order is made under paragraph 39.13(1)(a) or (b) or of** a bridge institution are not liable for any damages, payment, compensation, **contribution** or indemnity that any person may suffer or claim by reason of anything done or omitted to be done **during the period set out in subsection (3)**, in good faith, in the exercise, execution or performance of any powers, duties and functions as directors or officers of the institution.
+  **(1)** Directors and officers of a federal member institution in respect of which an order is made under paragraph 39.13(1)(a) or (b) or of a bridge institution are not liable for any damages, payment, compensation, contribution or indemnity that any person may suffer or claim by reason of anything done or omitted to be done during the period set out in subsection (3), in good faith, in the exercise, execution or performance of any powers, duties and functions as directors or officers of the institution.
 
   **(2)** Section 119 of the `Financial Administration Act` and the regulations made under that section apply to the directors and officers referred to in subsection (1) in respect of anything done or omitted to be done in the exercise, execution or performance of their powers, duties and functions during the period set out in subsection (3), as if the federal member institution or the bridge institution were a ***Crown corporation*** within the meaning of section 83 of that Act.
 
@@ -3537,23 +3537,23 @@ Section 45.11 of the Act is replaced by the following:
 
 ### Section 45.3
 
-      **(1)** Subject to subsection 12(1) of the `Privacy Act`, any information with respect to the affairs of a federal **member** institution **in respect of which an order is made under paragraph 39.13(1)(a) or (b)**, a bridge institution, **a subsidiary of either of those institutions** or any person dealing with **such an institution or subsidiary** is confidential, shall be treated accordingly and shall not be disclosed.
+      **(1)** Subject to subsection 12(1) of the `Privacy Act`, any information with respect to the affairs of a federal member institution in respect of which an order is made under paragraph 39.13(1)(a) or (b), a bridge institution, a subsidiary of either of those institutions or any person dealing with such an institution or subsidiary is confidential, shall be treated accordingly and shall not be disclosed.
 
-      **(2)** The prohibition applies only during the period **set out in subsection 45.11(3)**.
+      **(2)** The prohibition applies only during the period set out in subsection 45.11(3).
 
   **(2)** Paragraph 45.3(3)(d) of the Act is replaced by the following:
 
-    to the Corporation for the purposes of fulfilling its functions under this Act or as a shareholder of the federal **member** institution **or the** bridge institution;
+    to the Corporation for the purposes of fulfilling its functions under this Act or as a shareholder of the federal member institution or the bridge institution;
 
   **(3)** Paragraphs 45.3(4)(a) and (b) of the Act are replaced by the following:
 
-    in the normal conduct of the business of the federal **member** institution, **the** bridge institution **or a subsidiary of either of those institutions**;
+    in the normal conduct of the business of the federal member institution, the bridge institution or a subsidiary of either of those institutions;
 
-    for the purposes of selling the shares or assets of the federal **member** institution, **the** bridge institution **or a subsidiary of either of those institutions**;
+    for the purposes of selling the shares or assets of the federal member institution, the bridge institution or a subsidiary of either of those institutions;
 
   **(4)** Paragraph 45.3(4)(f) of the Act is replaced by the following:
 
-    in any other circumstance that the board of directors of the federal **member** institution, **the** bridge institution **or a subsidiary of either of those institutions** considers necessary.
+    in any other circumstance that the board of directors of the federal member institution, the bridge institution or a subsidiary of either of those institutions considers necessary.
 
 ### Section 151
 
@@ -3561,7 +3561,7 @@ The portion of section 47 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 47
 
-A person is guilty of an offence if the person prepares, signs, approves or concurs in any account, statement, return, report or other document required to be submitted to the Corporation under **the provisions of** this Act, **the regulations or** the by-laws or **under** an application to become a member institution or a policy of deposit insurance that
+A person is guilty of an offence if the person prepares, signs, approves or concurs in any account, statement, return, report or other document required to be submitted to the Corporation under the provisions of this Act, the regulations or the by-laws or under an application to become a member institution or a policy of deposit insurance that
 
 ### Section 152
 
@@ -3569,13 +3569,13 @@ A person is guilty of an offence if the person prepares, signs, approves or conc
 
 ### Section 49
 
-    **A** member institution is guilty of an offence **if it** fails or neglects
+    A member institution is guilty of an offence if it fails or neglects
 
   **(2)** Paragraphs 49(a) and (b) of the Act are replaced by the following:
 
-    within the time limited for so doing, to provide the Corporation with any account, statement, return, report or other document respecting the affairs of the member institution that is required to be submitted to the Corporation **under the provisions of** this Act, **the regulations or** the by-laws or **under** the policy of deposit insurance of the member institution; or
+    within the time limited for so doing, to provide the Corporation with any account, statement, return, report or other document respecting the affairs of the member institution that is required to be submitted to the Corporation under the provisions of this Act, the regulations or the by-laws or under the policy of deposit insurance of the member institution; or
 
-    to respond, within a reasonable time, to a request for information or explanations respecting the member institution made by or on behalf of the Corporation **under the provisions of** this Act, **the regulations or** the by-laws or **under** the policy of deposit insurance of the member institution.
+    to respond, within a reasonable time, to a request for information or explanations respecting the member institution made by or on behalf of the Corporation under the provisions of this Act, the regulations or the by-laws or under the policy of deposit insurance of the member institution.
 
   **(3)** The portion of section 49 of the English version of the Act after paragraph (b) is repealed.
 
@@ -3585,7 +3585,7 @@ Section 50 of the Act is replaced by the following:
 
 ### Section 50
 
-**A** member institution or other person is guilty of an offence **if they**, without reasonable cause, **contravene** a provision of this Act, other than section 47, 48 or 49, **or a provision of the regulations** or the by-laws.
+A member institution or other person is guilty of an offence if they, without reasonable cause, contravene a provision of this Act, other than section 47, 48 or 49, or a provision of the regulations or the by-laws.
 
 ### Section 154
 
@@ -3593,7 +3593,7 @@ Section 51 of the Act is replaced by the following:
 
 ### Section 51
 
-**If** a member institution or other person has been convicted of an offence under this Act, the court may, in addition to any fine or term of imprisonment that may be imposed, order the member institution or person to rectify the contravention of **a provision of** this Act, **the regulations or** the by-laws or the policy of deposit insurance in respect of which the member institution or person was convicted.
+If a member institution or other person has been convicted of an offence under this Act, the court may, in addition to any fine or term of imprisonment that may be imposed, order the member institution or person to rectify the contravention of a provision of this Act, the regulations or the by-laws or the policy of deposit insurance in respect of which the member institution or person was convicted.
 
 ### Section 155
 
@@ -3601,11 +3601,11 @@ Section 51 of the Act is replaced by the following:
 
 ### Section 52
 
-      **(1)** Le tribunal peut également, s'il est convaincu que l'institution membre ou la personne **condamnée pour l'infraction** a tiré des avantages financiers de l'infraction, lui ordonner de payer, malgré toute disposition de la présente loi établissant un plafond à cet égard, une amende supplémentaire jusqu'à concurrence de ces avantages.
+      **(1)** Le tribunal peut également, s'il est convaincu que l'institution membre ou la personne condamnée pour l'infraction a tiré des avantages financiers de l'infraction, lui ordonner de payer, malgré toute disposition de la présente loi établissant un plafond à cet égard, une amende supplémentaire jusqu'à concurrence de ces avantages.
 
   **(2)** Subsection 52(2) of the Act is replaced by the following:
 
-    **(2)** If a member institution or other person does not comply with any provision of this Act, **the regulations or** the by-laws or the policy of deposit insurance that applies in respect of the member institution or person, the Corporation may apply to a superior court for an order directing the member institution or person to comply with or restraining the member institution or person from acting in breach of the provision **or the policy** and, on the application, the court may so order and make any further order **that** it thinks fit.
+    **(2)** If a member institution or other person does not comply with any provision of this Act, the regulations or the by-laws or the policy of deposit insurance that applies in respect of the member institution or person, the Corporation may apply to a superior court for an order directing the member institution or person to comply with or restraining the member institution or person from acting in breach of the provision or the policy and, on the application, the court may so order and make any further order that it thinks fit.
 
 
 #### `Bank Act`
@@ -3622,7 +3622,7 @@ Section 2 of the `Bank Act` is amended by adding the following in alphabetical o
 
 ### Section 415.2
 
-      **(1)** The Governor in Council may make regulations respecting a bank's activities in relation to derivatives **and eligible financial contracts**.
+      **(1)** The Governor in Council may make regulations respecting a bank's activities in relation to derivatives and eligible financial contracts.
 
   **(2)** Section 415.2 of the Act is amended by adding the following after subsection (2):
 
@@ -3633,7 +3633,7 @@ Section 2 of the `Bank Act` is amended by adding the following in alphabetical o
 The heading of Part X of the Act is replaced by the following:
 
 
-## Capital, Liquidity and **Capacity to Absorb Losses**
+## Capital, Liquidity and Capacity to Absorb Losses
 
 ### Section 159
 
@@ -3661,7 +3661,7 @@ The Act is amended by adding the following before section 485:
 
     **(1.4)** If an order is made under subsection (1.2), the Superintendent shall, in writing and without delay, inform the bank that is subject to the order and shall, as soon as feasible, cause the order to be published in the `Canada Gazette` and on the website of the Office of the Superintendent of Financial Institutions.
 
-    **(2)** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the maintenance by banks of adequate capital and adequate and appropriate forms of liquidity **and the maintenance by domestic systemically important banks of the minimum capacity to absorb losses**.
+    **(2)** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the maintenance by banks of adequate capital and adequate and appropriate forms of liquidity and the maintenance by domestic systemically important banks of the minimum capacity to absorb losses.
 
   **(2)** Subsection 485(4) of the Act is replaced by the following:
 
@@ -3681,7 +3681,7 @@ The Act is amended by adding the following before section 485:
 
     **(3.2)** Before making an order under subsection (3.1) or varying or revoking such an order, the Superintendent shall consult with the other members of the committee established under subsection 18(1) of the `Office of the Superintendent of Financial Institutions Act`.
 
-    **(4)** A bank shall comply with an order made under subsection (3) **or (3.1)** within **the** time **that is specified in** the **order**.
+    **(4)** A bank shall comply with an order made under subsection (3) or (3.1) within the time that is specified in the order.
 
 ### Section 161
 
@@ -3716,23 +3716,23 @@ Subsections 85(3) and (4) of the `Financial Administration Act` are repealed.
 
   **(1)** The portion of paragraph 3(i) of the `Winding-up and Restructuring Act` before subparagraph (ii) is replaced by the following:
 
-    if, in the case of a company that is a ***federal member institution***, **as defined in section 2 of** the `Canada Deposit Insurance Corporation Act`, in **respect** of which **an** order **has** been **made** under paragraph 39.13(1)(a) of that Act **but** in **respect** of which **no order has been made under** subsection **39.13(1.3)** of that **Act**, a **notice has** not **been published under subsection** 39.2**(3)** of that Act **in respect of the institution** on or before
+    if, in the case of a company that is a ***federal member institution***, as defined in section 2 of the `Canada Deposit Insurance Corporation Act`, in respect of which an order has been made under paragraph 39.13(1)(a) of that Act but in respect of which no order has been made under subsection 39.13(1.3) of that Act, a notice has not been published under subsection 39.2(3) of that Act in respect of the institution on or before
 
-    the **60th day** after the **day on which** the order **was made under paragraph 39.13(1)(a)** of **that Act**, or
+    the 60th day after the day on which the order was made under paragraph 39.13(1)(a) of that Act, or
 
   **(2)** Subparagraph 3(i)(ii) of the English version of the Act is replaced by the following:
 
-    the **day on which** any extension of that period **ends**;
+    the day on which any extension of that period ends;
 
   **(3)** The portion of paragraph 3(j) of the Act before subparagraph (ii) is replaced by the following:
 
-    if, in the case of a company that is a ***federal member institution***, **as defined in section 2 of** the `Canada Deposit Insurance Corporation Act`, in respect of which **an** order has been **made** under paragraph 39.13(1)(b) of that Act **but** in **respect** of **which no order has been made under subsection 39.13(1.3)** of that **Act**, a **notice has** not **been published under** subsection 39.2**(3)** of that Act in **respect** of the **institution** on or before
+    if, in the case of a company that is a ***federal member institution***, as defined in section 2 of the `Canada Deposit Insurance Corporation Act`, in respect of which an order has been made under paragraph 39.13(1)(b) of that Act but in respect of which no order has been made under subsection 39.13(1.3) of that Act, a notice has not been published under subsection 39.2(3) of that Act in respect of the institution on or before
 
-    the **60th day** after the **day on which** the order **was made under paragraph 39.13(1)(b)** of **that Act**, or
+    the 60th day after the day on which the order was made under paragraph 39.13(1)(b) of that Act, or
 
   **(4)** Subparagraph 3(j)(ii) of the English version of the Act is replaced by the following:
 
-    the **day on which** any extension of that period **ends**;
+    the day on which any extension of that period ends;
 
   **(5)** Section 3 of the Act is amended by adding the following after paragraph (j):
 
@@ -3751,7 +3751,7 @@ Subsection 8(3.1) of the `Payment Clearing and Settlement Act` is replaced by th
 
 **(3.1)** Despite subsections (1) to (3) and the settlement rules,
 
-  no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.01), (7.1), (7.11), **(7.12)** or **(7.2)** or section 39.152 of that Act; **and**
+  no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act; and
 
   a ***clearing house***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, shall comply with subsection 39.15(3.3) of that Act, shall take any action required by subsection 39.15(7.12) of that Act and shall not take any action prevented by that subsection 39.15(7.12).
 
@@ -3759,13 +3759,13 @@ Subsection 8(3.1) of the `Payment Clearing and Settlement Act` is replaced by th
 
 Subsection 13(1.2) of the Act is replaced by the following:
 
-**(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.01), (7.1), (7.11), **(7.12)** or **(7.2)** or section 39.152 of that Act.
+**(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 ### Section 167
 
 Subsection 13.1(1.1) of the Act is replaced by the following:
 
-**(1.1)** Despite subsection (1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.01), (7.1), (7.11), **(7.12)** or **(7.2)** or section 39.152 of that Act.
+**(1.1)** Despite subsection (1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 
 #### Coming into Force
@@ -3786,7 +3786,7 @@ Subsection 13.1(1.1) of the Act is replaced by the following:
 
 Paragraph 18(1)(c) of the `Office of the Superintendent of Financial Institutions Act` is replaced by the following:
 
-the **Chief Executive Officer** of the Canada Deposit Insurance Corporation; and
+the Chief Executive Officer of the Canada Deposit Insurance Corporation; and
 
 
 #### `Canadian Payments Act`
@@ -3795,7 +3795,7 @@ the **Chief Executive Officer** of the Canada Deposit Insurance Corporation; and
 
 Paragraph 43(2)(c) of the `Canadian Payments Act` is replaced by the following:
 
-the **Chief Executive Officer** of the Canada Deposit Insurance Corporation or any **other** officer of that Corporation authorized in writing by the **Chief Executive Officer**,
+the Chief Executive Officer of the Canada Deposit Insurance Corporation or any other officer of that Corporation authorized in writing by the Chief Executive Officer,
 
 
 #### `National Housing Act`
@@ -3808,13 +3808,13 @@ The definition **Chairperson of the Canada Deposit Insurance Corporation** in se
 
 Subsection 21.1(3) of the Act is replaced by the following:
 
-**(3)** The Minister of Finance may disclose to the Superintendent, the Governor of the Bank of Canada, the **Chief Executive Officer** of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada any information or copies of any books or records received under subsection (2).
+**(3)** The Minister of Finance may disclose to the Superintendent, the Governor of the Bank of Canada, the Chief Executive Officer of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada any information or copies of any books or records received under subsection (2).
 
 ### Section 173
 
 Paragraph 21.2(7)(c) of the Act is replaced by the following:
 
-the **Chief Executive Officer** of the Canada Deposit Insurance Corporation; and
+the Chief Executive Officer of the Canada Deposit Insurance Corporation; and
 
 
 #### `Trust and Loan Companies Act`
@@ -3823,7 +3823,7 @@ the **Chief Executive Officer** of the Canada Deposit Insurance Corporation; and
 
 Paragraph 527.9(2)(b) of the `Trust and Loan Companies Act` is replaced by the following:
 
-is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the **Chief Executive Officer** of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 
 #### `Bank Act`
@@ -3832,7 +3832,7 @@ is of the opinion — after considering measures other than an order under t
 
 Paragraph 973.2(2)(b) of the `Bank Act` is replaced by the following:
 
-is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the **Chief Executive Officer** of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 
 #### `Insurance Companies Act`
@@ -3841,7 +3841,7 @@ is of the opinion — after considering measures other than an order under t
 
 Paragraph 1016.7(2)(b) of the `Insurance Companies Act` is replaced by the following:
 
-is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the **Chief Executive Officer** of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 
 #### `Cooperative Credit Associations Act`
@@ -3850,7 +3850,7 @@ is of the opinion — after considering measures other than an order under t
 
 Paragraph 459.9(2)(b) of the `Cooperative Credit Associations Act` is replaced by the following:
 
-is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the **Chief Executive Officer** of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 
 #### `Payment Clearing and Settlement Act`
@@ -3859,7 +3859,7 @@ is of the opinion — after considering measures other than an order under t
 
 Paragraph 18(2)(b) of the `Payment Clearing and Settlement Act` is replaced by the following:
 
-to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the **Chief Executive Officer** of the Canada Deposit Insurance Corporation or any **other** officer of that Corporation authorized in writing by the **Chief Executive Officer**.
+to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Chief Executive Officer of the Canada Deposit Insurance Corporation or any other officer of that Corporation authorized in writing by the Chief Executive Officer.
 
 
 #### `Protection of Residential Mortgage or Hypothecary Insurance Act`
@@ -3868,7 +3868,7 @@ to the Deputy Minister of Finance or any officer of the Department of Finance au
 
 Subsection 15(3) of the `Protection of Residential Mortgage or Hypothecary Insurance Act` is replaced by the following:
 
-**(3)** The Minister and the Superintendent may disclose to each other any information or copies of any books or records received under subsection (2) and may also disclose them to the Governor of the Bank of Canada, the **Chief Executive Officer** of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada.
+**(3)** The Minister and the Superintendent may disclose to each other any information or copies of any books or records received under subsection (2) and may also disclose them to the Governor of the Bank of Canada, the Chief Executive Officer of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada.
 
 
 ### `Federal-Provincial Fiscal Arrangements Act`
@@ -3877,13 +3877,13 @@ Subsection 15(3) of the `Protection of Residential Mortgage or Hypothecary Insur
 
   **(1)** Paragraph (a) of the definition **gross expenditure base** in subsection 4(1) of the `Federal-Provincial Fiscal Arrangements Act` is replaced by the following:
 
-    for the fiscal year beginning on April 1, **2015**, an amount equal to
+    for the fiscal year beginning on April 1, 2015, an amount equal to
 
-    **$1,065,524,388** in respect of Yukon,
+    $1,065,524,388 in respect of Yukon,
 
-    **$1,551,787,629** in respect of the Northwest Territories, and
+    $1,551,787,629 in respect of the Northwest Territories, and
 
-    **$1,579,969,113** in respect of Nunavut; and
+    $1,579,969,113 in respect of Nunavut; and
 
   **(2)** Subsection 4(2) of the Act is replaced by the following:
 
@@ -3953,7 +3953,7 @@ the payment, by Her Majesty, of any amount in extraordinary circumstances, inclu
 
   **(3)** Paragraph 49(1)(b) of the French version of the Act is replaced by the following:
 
-    des mesures qu'il a prises **pendant l'exercice en cause** à l'égard de la gestion de la dette publique.
+    des mesures qu'il a prises pendant l'exercice en cause à l'égard de la gestion de la dette publique.
 
   **(4)** Paragraph 49(2)(a) of the Act is replaced by the following:
 
@@ -4004,7 +4004,7 @@ Section 2.2 of the `Old Age Security Act` is repealed.
 
   **(2)** The portion of subsection 12.1(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **Subject to subsection (2.1), for** the purpose of calculating the amount payable under subsection (1) or (2) for any month in a payment quarter beginning after September 30, 2011, the amount to be determined for A in that subsection is the amount obtained by multiplying
+    **(3)** Subject to subsection (2.1), for the purpose of calculating the amount payable under subsection (1) or (2) for any month in a payment quarter beginning after September 30, 2011, the amount to be determined for A in that subsection is the amount obtained by multiplying
 
 ### Section 190
 
@@ -4014,7 +4014,7 @@ Section 2.2 of the `Old Age Security Act` is repealed.
 
   **(2)** The portion of subsection 22.1(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **Subject to subsection (3.1), for** the purpose of calculating the amount payable under any of subsections (1) to (3) for any month in a payment quarter beginning after September 30, 2011, the amount to be determined for A in that subsection is the amount obtained by multiplying
+    **(4)** Subject to subsection (3.1), for the purpose of calculating the amount payable under any of subsections (1) to (3) for any month in a payment quarter beginning after September 30, 2011, the amount to be determined for A in that subsection is the amount obtained by multiplying
 
 
 #### Coming into Force
@@ -4030,7 +4030,7 @@ Sections `189` and `190` come into force, or are deemed to have come into force,
 
 The definition **negligible** in subsection 2(1) of the `Special Import Measures Act` is replaced by the following:
 
-**negligible** means, in respect of the volume of goods of a country, less than 3 % of the total volume of goods that are released into Canada from all countries and that are of the same description as the goods. **However, if** the total volume of goods of three or more countries — each of whose exports of goods into Canada is less than 3 % of the total volume of goods **that are released into Canada from all countries and that are of the same description** — is more than 7 % of the total volume of goods **that are released into Canada from all countries and that are of the same description**, the volume of goods of any of those countries is not negligible; (**négligeable**)
+**negligible** means, in respect of the volume of goods of a country, less than 3 % of the total volume of goods that are released into Canada from all countries and that are of the same description as the goods. However, if the total volume of goods of three or more countries — each of whose exports of goods into Canada is less than 3 % of the total volume of goods that are released into Canada from all countries and that are of the same description — is more than 7 % of the total volume of goods that are released into Canada from all countries and that are of the same description, the volume of goods of any of those countries is not negligible; (**négligeable**)
 
 ### Section 193
 
@@ -4050,15 +4050,15 @@ the day on which the last order was made, if one or more orders continuing the o
 
 ### Section 8
 
-      **(1)** **Subject to subsection (1.3), if** the President makes a preliminary determination of dumping or subsidizing in an investigation under this Act and considers that the imposition of provisional duty is necessary to prevent injury, retardation or threat of injury, the importer in Canada of dumped or subsidized goods that are of the same description as any goods to which the preliminary determination applies and that are released during the period **beginning** on the day on which the preliminary determination is made and ending on the earlier of
+      **(1)** Subject to subsection (1.3), if the President makes a preliminary determination of dumping or subsidizing in an investigation under this Act and considers that the imposition of provisional duty is necessary to prevent injury, retardation or threat of injury, the importer in Canada of dumped or subsidized goods that are of the same description as any goods to which the preliminary determination applies and that are released during the period beginning on the day on which the preliminary determination is made and ending on the earlier of
 
   **(2)** The portion of subsection 8(1.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.1)** **Subject to subsection (1.3)**, if an order or finding of the Tribunal under subsection 43(1), 76.02(4) respecting a review under subsection 76.02(1), or 91(3), other than an order or finding described in any of sections 3 to 6, is referred back to the Tribunal under subsection 77.015(3) or (4) or 77.019(5), or under subsection 77.15(3) or (4) or 77.19(4), the importer of dumped or subsidized goods that are of the same description as any goods to which the order or finding applies and that are released during the period beginning on the day on which the preliminary determination is made under subsection 38(1) and ending on the day on which the Tribunal makes an order or finding, on the referral back, with respect to goods of that description, shall, within the time prescribed under the `Customs Act` for the payment of duties, at the option of the importer,
+    **(1.1)** Subject to subsection (1.3), if an order or finding of the Tribunal under subsection 43(1), 76.02(4) respecting a review under subsection 76.02(1), or 91(3), other than an order or finding described in any of sections 3 to 6, is referred back to the Tribunal under subsection 77.015(3) or (4) or 77.019(5), or under subsection 77.15(3) or (4) or 77.19(4), the importer of dumped or subsidized goods that are of the same description as any goods to which the order or finding applies and that are released during the period beginning on the day on which the preliminary determination is made under subsection 38(1) and ending on the day on which the Tribunal makes an order or finding, on the referral back, with respect to goods of that description, shall, within the time prescribed under the `Customs Act` for the payment of duties, at the option of the importer,
 
   **(3)** The portion of subsection 8(1.2) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.2)** **Subject to subsection (1.3),** if an order or finding of the Tribunal under subsection 43(1), 76.02(4) respecting a review under subsection 76.02(1), or 91(3), other than an order or finding described in any of sections 3 to 6, is referred back to the Tribunal by the Federal Court of Appeal, the importer of dumped or subsidized goods that are of the same description as any goods to which the order or finding applies and that are released during the period beginning on the day on which the preliminary determination is made under subsection 38(1) and ending on the day on which the Tribunal makes an order or finding, on the referral back, with respect to goods of that description, shall, within the time prescribed under the `Customs Act` for the payment of duties, at the option of the importer,
+    **(1.2)** Subject to subsection (1.3), if an order or finding of the Tribunal under subsection 43(1), 76.02(4) respecting a review under subsection 76.02(1), or 91(3), other than an order or finding described in any of sections 3 to 6, is referred back to the Tribunal by the Federal Court of Appeal, the importer of dumped or subsidized goods that are of the same description as any goods to which the order or finding applies and that are released during the period beginning on the day on which the preliminary determination is made under subsection 38(1) and ending on the day on which the Tribunal makes an order or finding, on the referral back, with respect to goods of that description, shall, within the time prescribed under the `Customs Act` for the payment of duties, at the option of the importer,
 
   **(4)** Section 8 of the Act is amended by adding the following after subsection (1.2):
 
@@ -4076,7 +4076,7 @@ Section 30.1 of the Act is replaced by the following:
 
 ### Section 30.1
 
-For the purposes of **subsection 8(1.3)**, **paragraph** 35(1)(a), **subparagraph** 38(1)(a)(i), **subsection 38(1.1), subparagraph** 41(1)(a)(ii) and paragraphs 41.1(1)(a) and (2)(a), the margin of dumping in relation to goods of a particular country is the weighted average of the margins of dumping determined in accordance with section 30.2.
+For the purposes of subsection 8(1.3), paragraph 35(1)(a), subparagraph 38(1)(a)(i), subsection 38(1.1), subparagraph 41(1)(a)(ii) and paragraphs 41.1(1)(a) and (2)(a), the margin of dumping in relation to goods of a particular country is the weighted average of the margins of dumping determined in accordance with section 30.2.
 
 ### Section 196
 
@@ -4088,11 +4088,11 @@ the President is satisfied in respect of some or all of those goods that the act
 
   **(1)** Subparagraph 38(1)(a)(i) of the English version of the Act is replaced by the following:
 
-    estimating the margin of dumping of the goods to which the preliminary determination applies, using the information available to **the President** at the time the estimate is made, and
+    estimating the margin of dumping of the goods to which the preliminary determination applies, using the information available to the President at the time the estimate is made, and
 
   **(2)** Subparagraph 38(1)(b)(i) of the English version of the Act is replaced by the following:
 
-    estimating the amount of subsidy on the goods to which the preliminary determination applies, using the information available to **the President** at the time the estimate is made,
+    estimating the amount of subsidy on the goods to which the preliminary determination applies, using the information available to the President at the time the estimate is made,
 
   **(3)** Section 38 of the Act is amended by adding the following after subsection (1):
 
@@ -4104,21 +4104,21 @@ the President is satisfied in respect of some or all of those goods that the act
 
 Paragraph 49(2)(b) of the Act is replaced by the following:
 
-unless the President has made a preliminary determination under subsection 38(1), **other than a determination respecting an insignificant margin of dumping or an insignificant amount of subsidy**; or
+unless the President has made a preliminary determination under subsection 38(1), other than a determination respecting an insignificant margin of dumping or an insignificant amount of subsidy; or
 
 ### Section 199
 
   **(1)** Subsection 76.03(2) of the Act is replaced by the following:
 
-    **(2)** If an order or finding is to be deemed rescinded under subsection (1), the Tribunal shall, not later than **two** months before the expiry date of the order or finding under that subsection, cause to be published in the `Canada Gazette` a notice of expiry setting out the information specified in the rules of the Tribunal.
+    **(2)** If an order or finding is to be deemed rescinded under subsection (1), the Tribunal shall, not later than two months before the expiry date of the order or finding under that subsection, cause to be published in the `Canada Gazette` a notice of expiry setting out the information specified in the rules of the Tribunal.
 
   **(2)** Paragraph 76.03(7)(a) of the Act is replaced by the following:
 
-    within **150** days after **the day on which the** notice **is received** under subparagraph (6)(a)(i), determine whether the expiry of the order or finding in respect of goods of a country or countries is likely to result in the continuation or resumption of dumping or subsidizing of the goods; and
+    within 150 days after the day on which the notice is received under subparagraph (6)(a)(i), determine whether the expiry of the order or finding in respect of goods of a country or countries is likely to result in the continuation or resumption of dumping or subsidizing of the goods; and
 
   **(3)** Subsection 76.03(10) of the Act is replaced by the following:
 
-    **(10)** If the President makes a determination described in subsection (9), the Tribunal shall, **within 160 days after the day on which that determination was received,** determine whether the expiry of the order or finding in respect of the goods referred to in that subsection is likely to result in injury or retardation.
+    **(10)** If the President makes a determination described in subsection (9), the Tribunal shall, within 160 days after the day on which that determination was received, determine whether the expiry of the order or finding in respect of the goods referred to in that subsection is likely to result in injury or retardation.
 
 ### Section 200
 
@@ -4139,7 +4139,7 @@ The provisions of the `Special Import Measures Act`, as enacted or amended by se
 
 Paragraph 5(2)(d) of the Act is replaced by the following:
 
-collect information from a pension supervisory authority of a designated province and disclose information to that authority for the purposes of implementing a **federal-provincial** agreement.
+collect information from a pension supervisory authority of a designated province and disclose information to that authority for the purposes of implementing a federal-provincial agreement.
 
 ### Section 203
 
@@ -4151,11 +4151,11 @@ Section 6 of the Act is repealed.
 
 ### Section 6.1
 
-      **(1)** The Minister may, with the approval of the Governor in Council, enter into an agreement with **one** or more designated provinces respecting any matter relating to pension plans that are subject to the pension legislation of at least one designated province that is a party to the agreement.
+      **(1)** The Minister may, with the approval of the Governor in Council, enter into an agreement with one or more designated provinces respecting any matter relating to pension plans that are subject to the pension legislation of at least one designated province that is a party to the agreement.
 
   **(2)** The portion of subsection 6.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** A **federal-provincial** agreement may, among other things,
+    **(2)** A federal-provincial agreement may, among other things,
 
   **(3)** Subsection 6.1(2) of the Act is amended by adding the following after paragraph (c):
 
@@ -4163,17 +4163,17 @@ Section 6 of the Act is repealed.
 
   **(4)** Subsections 6.1(3) to (5) of the Act are replaced by the following:
 
-    **(3)** The Minister must cause every **federal-provincial** agreement to be tabled in each House of Parliament.
+    **(3)** The Minister must cause every federal-provincial agreement to be tabled in each House of Parliament.
 
     **(4)** The Minister must cause to be published in the `Canada Gazette`
 
-      every **federal-provincial** agreement and a notice of the date on which the agreement comes into effect with respect to pension plans;
+      every federal-provincial agreement and a notice of the date on which the agreement comes into effect with respect to pension plans;
 
-      every amendment to a **federal-provincial** agreement and a notice of the date on which the amendment comes into effect with respect to pension plans; and
+      every amendment to a federal-provincial agreement and a notice of the date on which the amendment comes into effect with respect to pension plans; and
 
-      a notice of the effective date of the Government of Canada's withdrawal from the **federal-provincial** agreement or of the effective date of termination of that agreement, whichever comes first.
+      a notice of the effective date of the Government of Canada's withdrawal from the federal-provincial agreement or of the effective date of termination of that agreement, whichever comes first.
 
-    **(5)** In addition to the publishing requirements under subsection (4), the Minister must ensure that every **federal-provincial** agreement and every amendment to a **federal-provincial** agreement is accessible to the public through the Internet or by any other means that the Minister considers appropriate.
+    **(5)** In addition to the publishing requirements under subsection (4), the Minister must ensure that every federal-provincial agreement and every amendment to a federal-provincial agreement is accessible to the public through the Internet or by any other means that the Minister considers appropriate.
 
 ### Section 205
 
@@ -4181,29 +4181,29 @@ Sections 6.2 to 6.4 of the Act are replaced by the following:
 
 ### Section 6.2
 
-  **(1)** The provisions of a **federal-provincial** agreement, other than those exempted from the application of this subsection by regulation, have the force of law during the period that the agreement is in effect with respect to pension plans and are enforceable during that period as if those provisions formed part of this Act.
+  **(1)** The provisions of a federal-provincial agreement, other than those exempted from the application of this subsection by regulation, have the force of law during the period that the agreement is in effect with respect to pension plans and are enforceable during that period as if those provisions formed part of this Act.
 
-  **(2)** The provisions of a **federal-provincial** agreement that have the force of law prevail over any provision of this Act and the regulations to the extent of any inconsistency or conflict between them.
+  **(2)** The provisions of a federal-provincial agreement that have the force of law prevail over any provision of this Act and the regulations to the extent of any inconsistency or conflict between them.
 
 ### Section 6.3
 
-  **(1)** A decision of a pension supervisory authority of a designated province that is made under the authority of a **federal-provincial** agreement and that relates to the application of this Act or the regulations is deemed to be a decision of a ***federal board, commission or other tribunal***, as defined in subsection 2(1) of the `Federal Courts Act`, and is subject to judicial review under that Act.
+  **(1)** A decision of a pension supervisory authority of a designated province that is made under the authority of a federal-provincial agreement and that relates to the application of this Act or the regulations is deemed to be a decision of a ***federal board, commission or other tribunal***, as defined in subsection 2(1) of the `Federal Courts Act`, and is subject to judicial review under that Act.
 
-  **(2)** A decision of the Superintendent that is made under the authority of a **federal-provincial** agreement and that relates to the application of the pension legislation of a designated province is deemed to be a decision of the pension supervisory authority of that province and is not subject to judicial review under the `Federal Courts Act`.
+  **(2)** A decision of the Superintendent that is made under the authority of a federal-provincial agreement and that relates to the application of the pension legislation of a designated province is deemed to be a decision of the pension supervisory authority of that province and is not subject to judicial review under the `Federal Courts Act`.
 
 ### Section 6.4
 
-The Minister may, with the approval of the Governor in Council, enter into an agreement with **one or more** designated **provinces** respecting the establishment and operation in Canada of an association of pension supervisory authorities.
+The Minister may, with the approval of the Governor in Council, enter into an agreement with one or more designated provinces respecting the establishment and operation in Canada of an association of pension supervisory authorities.
 
 ### Section 206
 
 Paragraphs 39(1)(b.1) to (b.3) of the Act are replaced by the following:
 
-respecting the implementation of a **federal-provincial** agreement;
+respecting the implementation of a federal-provincial agreement;
 
-exempting a **federal-provincial** agreement or any provision of that agreement from the application of subsection 6.2(1);
+exempting a federal-provincial agreement or any provision of that agreement from the application of subsection 6.2(1);
 
-respecting transitional matters in the event that the Government of Canada ceases to be a party to a **federal-provincial** agreement;
+respecting transitional matters in the event that the Government of Canada ceases to be a party to a federal-provincial agreement;
 
 
 ### `Employment Insurance Act`
@@ -4227,7 +4227,7 @@ respecting transitional matters in the event that the Government of Canada cease
 
 The definition **waiting period** in subsection 6(1) of the Act is replaced by the following:
 
-**waiting period** means the **one week** of the benefit period described in section 13. **(délai de carence**)
+**waiting period** means the one week of the benefit period described in section 13. **(délai de carence**)
 
 ### Section 209
 
@@ -4243,7 +4243,7 @@ The definition **waiting period** in subsection 6(1) of the Act is replaced by t
 
 ### Section 7.1
 
-      **(1)** The number of hours that an insured person requires under section 7 to qualify for benefits is increased to the number set out in the following table **in relation to the applicable regional rate of unemployment** if the insured person accumulates one or more violations in the 260 weeks before making their initial claim for benefit.
+      **(1)** The number of hours that an insured person requires under section 7 to qualify for benefits is increased to the number set out in the following table in relation to the applicable regional rate of unemployment if the insured person accumulates one or more violations in the 260 weeks before making their initial claim for benefit.
 
   **(2)** Subsection 7.1(2) of the Act is repealed.
 
@@ -4269,7 +4269,7 @@ The definition **waiting period** in subsection 6(1) of the Act is replaced by t
 
     **(13.7)** A benefit period that is deemed under subsection (13.2) or (13.4) not to have ended does not include the period that begins on the day after the day on which the benefit period ended and that ends on July 2, 2016.
 
-    **(14)** Subject to **subsections (14.1) and** (15), an extension under any of subsections (10) to **(13.6)** must not result in a benefit period of more than 104 weeks.
+    **(14)** Subject to subsections (14.1) and (15), an extension under any of subsections (10) to (13.6) must not result in a benefit period of more than 104 weeks.
 
     **(14.1)** The period that is excluded under subsection (13.7) is to be included in the calculation of the 104 weeks for the purposes of subsection (14).
 
@@ -4281,7 +4281,7 @@ The definition **waiting period** in subsection 6(1) of the Act is replaced by t
 
   **(1)** Subsection 12(2) of the Act is replaced by the following:
 
-    **(2)** **Subject to subsections (2.1) to (2.6)**, the maximum number of weeks for which benefits may be paid in a benefit period because of a reason other than those mentioned in subsection (3) shall be determined in accordance with the table in Schedule I by reference to the regional rate of unemployment that applies to the claimant and the number of hours of insurable employment of the claimant in their qualifying period.
+    **(2)** Subject to subsections (2.1) to (2.6), the maximum number of weeks for which benefits may be paid in a benefit period because of a reason other than those mentioned in subsection (3) shall be determined in accordance with the table in Schedule I by reference to the regional rate of unemployment that applies to the claimant and the number of hours of insurable employment of the claimant in their qualifying period.
 
     **(2.1)** Subject to subsection (2.7), the number of weeks of benefits set out in the table in Schedule I that applies in respect of a claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant, but for this subsection, increased by five weeks if the following conditions are met:
 
@@ -4309,7 +4309,7 @@ The definition **waiting period** in subsection 6(1) of the Act is replaced by t
 
       benefits were paid or payable to the claimant because of a reason mentioned in subsection (2) for at least one week in the benefit period.
 
-    **(2.**4**)** If subsection (2.3) applies in respect of a claimant whose benefit period is deemed under subsection 10(13.4) not to have ended,
+    **(2.4)** If subsection (2.3) applies in respect of a claimant whose benefit period is deemed under subsection 10(13.4) not to have ended,
 
       the claimant may, for weeks beginning on or after July 3, 2016, be paid benefits because of a reason mentioned in subsection (2) for no more than the 25 additional weeks referred to in subsection (2.3); and
 
@@ -4369,7 +4369,7 @@ The definition **waiting period** in subsection 6(1) of the Act is replaced by t
 
   **(3)** Subsection 12(6) of the Act is replaced by the following:
 
-    **(6)** In a claimant's benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50 **or, if the maximum number of weeks for which benefits may be paid to a claimant because of a reason mentioned in subsection (2) is greater than 45 weeks as a result of the application of any of subsections (2.1), (2.3), (2.5) and (2.6), the number that corresponds to that maximum number of weeks increased by five weeks**.
+    **(6)** In a claimant's benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50 or, if the maximum number of weeks for which benefits may be paid to a claimant because of a reason mentioned in subsection (2) is greater than 45 weeks as a result of the application of any of subsections (2.1), (2.3), (2.5) and (2.6), the number that corresponds to that maximum number of weeks increased by five weeks.
 
   **(4)** Subsection 12(6) of the Act is replaced by the following:
 
@@ -4381,7 +4381,7 @@ Section 13 of the Act is replaced by the following:
 
 ### Section 13
 
-A claimant is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the claimant has served a waiting period **of one** week of unemployment for which benefits would otherwise be payable.
+A claimant is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the claimant has served a waiting period of one week of unemployment for which benefits would otherwise be payable.
 
 ### Section 214
 
@@ -4407,7 +4407,7 @@ In this Part, ***insured participant*** means an insured person who requests ass
 
 Subsection 63(2) of the Act is replaced by the following:
 
-**(2)** An agreement may be entered into under subsection (1) with a government even if the benefits provided by that government are provided only for an ***insured participant*** as defined in section 58 as it read immediately before **June 23, 2015, the text of which is set out in Schedule III**.
+**(2)** An agreement may be entered into under subsection (1) with a government even if the benefits provided by that government are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III.
 
 ### Section 218
 
@@ -4415,7 +4415,7 @@ Section 63.1 of the Act is replaced by the following:
 
 ### Section 63.1
 
-  ****(1)**** **If an agreement that is** entered into with a government under section 63 **provides** for the payment of contributions for all or a portion of the costs of benefits provided by the government that are similar to employment benefits under this Part **and the benefits to be provided by that government under the agreement are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III, the** contributions to be paid under **the** agreement shall be paid only for costs of benefits for an *****insured participant*** as defined in that section 58**.
+  **(1)** If an agreement that is entered into with a government under section 63 provides for the payment of contributions for all or a portion of the costs of benefits provided by the government that are similar to employment benefits under this Part and the benefits to be provided by that government under the agreement are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III, the contributions to be paid under the agreement shall be paid only for costs of benefits for an ***insured participant*** as defined in that section 58.
 
   **(2)** Subsection (1) applies in respect of agreements entered into before, on or after the day on which this subsection comes into force.
 
@@ -4423,7 +4423,7 @@ Section 63.1 of the Act is replaced by the following:
 
 The definition **waiting period** in subsection 152.01(1) of the Act is replaced by the following:
 
-**waiting period** means the **one week** of the benefit period described in section 152.15. **(délai de carence**)
+**waiting period** means the one week of the benefit period described in section 152.15. **(délai de carence**)
 
 ### Section 220
 
@@ -4437,7 +4437,7 @@ Section 152.15 of the Act is replaced by the following:
 
 ### Section 152.15
 
-A self-employed person is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the person has served a waiting period **of one** week of unemployment for which benefits would otherwise be payable.
+A self-employed person is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the person has served a waiting period of one week of unemployment for which benefits would otherwise be payable.
 
 ### Section 222
 
@@ -4592,7 +4592,7 @@ Section 143 of the `Budget Implementation Act, 2007` is replaced by the followin
 
 ### Section 143
 
-There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of **Industry**, a sum not exceeding $200 million to the Canada Foundation for Sustainable Development Technology for its use.
+There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, a sum not exceeding $200 million to the Canada Foundation for Sustainable Development Technology for its use.
 
 ### Section 143.1
 
