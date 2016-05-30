@@ -1,7 +1,5 @@
 # Bill C-7: An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures
 
-**Sponsor**: PRESIDENT OF THE TREASURY BOARD
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures*".
 
 ## Summary
@@ -298,7 +296,7 @@ Every officer or representative of an employee organization who contravenes subs
 
 The definitions **employee** and **individual grievance** in subsection 206(1) of the Act are replaced by the following:
 
-**employee** means a person employed in the public service, other than
+**employee** means a person employed in the public serv-ice, other than
 
 a person appointed by the Governor in Council under an Act of Parliament to a statutory position described in that Act;
 
@@ -352,7 +350,7 @@ The Act is amended by adding the following after section 238:
 
 ### Section 238.01
 
-  **(1)** In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
+  **(1)** In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
 
   **(2)** In Division 2 of this Part, ***RCMP member*** has the meaning assigned by the definition ***member*** in subsection 2(1) of the `Royal Canadian Mounted Police Act`.
 
@@ -742,16 +740,9 @@ Section 6 of the Act is amended by adding the following after subsection (1):
 **(1.1)** In preparing the list, the Chairperson must take into account the need for the Board to have two members with knowledge of police organizations.
 
 
-## `Government Employees Compensation Act`
-
-### Section 40
-
-[*Deleted*]
-
-
 ## `Royal Canadian Mounted Police Act`
 
-### Section 41
+### Section 40
 
   **(1)** Subsection 31(1) of the `Royal Canadian Mounted Police Act` is replaced by the following:
 
@@ -764,19 +755,12 @@ Section 6 of the Act is amended by adding the following after subsection (1):
     **(1.01)** A grievance that relates to the interpretation or application, in respect of a member, of a provision of a collective agreement or arbitral award must be presented under the `Federal Public Sector Labour Relations Act`.
 
 
-## `Royal Canadian Mounted Police Superannuation Act`
-
-### Section 42
-
-[*Deleted*]
-
-
 ## Consequential Amendments
 
 
 ### `Canada Evidence Act`
 
-### Section 43
+### Section 41
 
 Item 11 of the schedule to the `Canada Evidence Act` is replaced by the following:
 
@@ -785,7 +769,7 @@ The Federal Public Sector Labour Relations and Employment Board referred to in s
 
 ### `Canadian Security Intelligence Service Act`
 
-### Section 44
+### Section 42
 
 Subsection 8(3) of the `Canadian Security Intelligence Service Act` is replaced by the following:
 
@@ -794,7 +778,7 @@ Subsection 8(3) of the `Canadian Security Intelligence Service Act` is replaced 
 
 ### `Federal Courts Act`
 
-### Section 45
+### Section 43
 
 Paragraph 28(1)(i) of the `Federal Courts Act` is replaced by the following:
 
@@ -803,7 +787,7 @@ the Federal Public Sector Labour Relations and Employment Board referred to in s
 
 ### `Financial Administration Act`
 
-### Section 46
+### Section 44
 
 Subparagraph 11.1(1)(g)(i) of the `Financial Administration Act` is replaced by the following:
 
@@ -812,13 +796,13 @@ the manner in which deputy heads in the core public administration may deal with
 
 ### `Parliamentary Employment and Staff Relations Act`
 
-### Section 47
+### Section 45
 
 The definition **Board** in section 3 of the `Parliamentary Employment and Staff Relations Act` is replaced by the following:
 
 **Board** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`; (***Commission***)
 
-### Section 48
+### Section 46
 
 The portion of section 9 of the Act before paragraph (a) is replaced by the following:
 
@@ -829,7 +813,7 @@ Unless otherwise provided in this Part, the provisions of the `Federal Public Se
 
 ### `Status of the Artist Act`
 
-### Section 49
+### Section 47
 
 Paragraph 9(3)(a) of the `Status of the Artist Act` is replaced by the following:
 
@@ -838,7 +822,7 @@ employees, within the meaning of the `Federal Public Sector Labour Relations Act
 
 ### `Public Service Employment Act`
 
-### Section 50
+### Section 48
 
 The definition **Board** in subsection 2(1) of the `Public Service Employment Act` is replaced by the following:
 
@@ -847,7 +831,7 @@ The definition **Board** in subsection 2(1) of the `Public Service Employment Ac
 
 ### `Public Servants Disclosure Protection Act`
 
-### Section 51
+### Section 49
 
 Paragraph 51(a) of the `Public Servants Disclosure Protection Act` is replaced by the following:
 
@@ -856,13 +840,13 @@ the presentation of an individual grievance under subsection 208(1) or section 2
 
 ### `Public Sector Equitable Compensation Act`
 
-### Section 52
+### Section 50
 
 The definition **Board** in subsection 2(1) of the `Public Sector Equitable Compensation Act` is replaced by the following:
 
 **Board** means the Federal Public Sector Labour Relations and Employment Board referred to in subsection 4(1) of the `Federal Public Sector Labour Relations and Employment Board Act`. (***Commission***)
 
-### Section 53
+### Section 51
 
 Section 16 of the Act is replaced by the following:
 
@@ -870,7 +854,7 @@ Section 16 of the Act is replaced by the following:
 
 The provisions of a collective agreement between an employer and a bargaining agent in relation to equitable compensation may not be inconsistent with sections 113 and 238.19 of the `Federal Public Sector Labour Relations Act`.
 
-### Section 54
+### Section 52
 
 Section 17 of the Act is replaced by the following:
 
@@ -878,7 +862,7 @@ Section 17 of the Act is replaced by the following:
 
 If arbitration has been chosen under subsection 104(1) of the `Federal Public Sector Labour Relations Act` as, or is, by reason of subsection 104(2) or section 238.18 of that Act, the process for the resolution of dis­putes, questions concerning the provision of equitable compensation to employees may be the subject of a request for arbitration under subsection 136(1) of that Act.
 
-### Section 55
+### Section 53
 
 Subsection 19(1) of the Act is replaced by the following:
 
@@ -889,7 +873,7 @@ Subsection 19(1) of the Act is replaced by the following:
 
 ### `Public Service Labour Relations Regulations`
 
-### Section 56
+### Section 54
 
 The title of the `Public Service Labour Relations Regulations` is replaced by the following:
 
@@ -899,7 +883,7 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
 ## Terminology
 
-### Section 57
+### Section 55
 
   **(1)** In the following provisions, "`Public Serv-ice Labour Relations Act`" is replaced by "`Federal Public Sector Labour Relations Act`":
 
@@ -1011,7 +995,7 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(2)** Unless the context requires otherwise, every reference to the `Public Service Labour Relations Act` in any provision of an Act of Parliament other than a provision referred to in subsection (1) is to be read as a reference to the `Federal Public Sector Labour Relations Act`.
 
-### Section 58
+### Section 56
 
   **(1)** In the following provisions, "`Public Serv-ice Labour Relations and Employment Board Act`" is replaced by "`Federal Public Sector Labour Relations and Employment Board Act`":
 
@@ -1041,7 +1025,7 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(2)** Unless the context requires otherwise, every reference to the `Public Service Labour Relations and Employment Board Act` in any provision of an Act of Parliament other than a provision referred to in subsection (1) is to be read as a reference to the `Federal Public Sector Labour Relations and Employment Board Act`.
 
-### Section 59
+### Section 57
 
   **(1)** In the following provisions, "Public Serv-ice Labour Relations and Employment Board" is replaced by "Federal Public Sector Labour Relations and Employment Board":
 
@@ -1073,7 +1057,7 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(3)** Unless the context requires otherwise, every reference to the Public Service Labour Relations and Employment Board in any provision of an Act of Parliament other than a provision referred to in subsection (1) or (2) is to be read as a reference to the Federal Public Sector Labour Relations and Employment Board.
 
-### Section 60
+### Section 58
 
   **(1)** In the following provisions, "`Public Serv-ice Labour Relations Act`" is replaced by "`Federal Public Sector Labour Relations Act`":
 
@@ -1093,13 +1077,13 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(3)** Unless the context requires otherwise, every reference to the `Public Service Labour Relations Act` in any provision of a **regulation**, as defined in section 2 of the `Statutory Instruments Act`, made under an Act of Parliament, other than a provision referred to in subsection (1) is to be read as a reference to the `Federal Public Sector Labour Relations Act`.
 
-### Section 61
+### Section 59
 
   **(1)** Paragraph (b) of the `Order Designating the Minister of Public Works and Government Services to be the Minister referred to in the Act` is amended by replacing "`Public Service Labour Relations and Employment Board Act`" with "`Federal Public Sector Labour Relations and Employment Board Act`".
 
   **(2)** Unless the context requires otherwise, every reference to the ``Public Service Labour Relations and Employment Board Act`` in any provision of a **regulation**, as defined in section 2 of the `Statutory Instruments Act`, made under an Act of Parliament is to be read as a reference to the `Federal Public Sector Labour Relations and Employment Board Act`.
 
-### Section 62
+### Section 60
 
   **(1)** Forms 3, 4, 6 to 9, 11 to 14, 17 and 18 of the `Parliamentary Employment and Staff Relations Regulations` are amended by replacing "Public Service Labour Relations and Employment Board" with "Federal Public Sector Labour Relations and Employment Board".
 
@@ -1108,19 +1092,19 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
 ## Transitional Provisions
 
-### Section 63
+### Section 61
 
-  **(1)** The following definitions apply in this section and sections `64` to `66`.
+  **(1)** The following definitions apply in this section and sections `62` to `64`.
 
-    **former Act**  means the `Public Service Labour Relations Act`, as it read immediately before the coming into force of section `2`. (***ancienne loi***)
+    **former Act** means the `Public Service Labour Relations Act`, as it read immediately before the coming into force of section `2`. (***ancienne loi***)
 
     **member**  has the same meaning as in subsection 2(1) of the `Royal Canadian Mounted Police Act`. (***membre***)
 
-    **reservist**  means a person who is appointed as a reservist under regulations made under subsection 11(1) of the `Royal Canadian Mounted Police Act`. (***réserviste***)
+    **reservist** means a person who is appointed as a reservist under regulations made under subsection 11(1) of the `Royal Canadian Mounted Police Act`. (***réserviste***)
 
-  **(2)** Unless the context requires otherwise, words and expressions used in sections `64` to `66` have the same meaning as in subsection 2(1) of the former Act.
+  **(2)** Unless the context requires otherwise, words and expressions used in sections `62` to `64` have the same meaning as in subsection 2(1) of the former Act.
 
-### Section 64
+### Section 62
 
   **(1)** Any individual grievance presented by a member under subsection 208(1) of the former Act, before the day on which section 238.24 of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, comes into force, that is not related to the interpretation or application, in respect of the member, of a provision of a collective agreement or arbitral award, is deemed never to have been presented, and any decision made in respect of such a grievance or any decision made on a review of the decision is deemed never to have had effect.
 
@@ -1128,7 +1112,7 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(3)** Subsection (2) applies only in the case of an individual grievance that, if it had been presented under the `Royal Canadian Mounted Police Act` or if another process of redress under that Act had been taken, would have been presented within the time established under that Act to present the grievance or take the other process of redress.
 
-### Section 65
+### Section 63
 
   **(1)** If, before the day on which section 238.13 of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, comes into force, an employee organization makes an application under section 54 of the former Act to be certified as bargaining agent for a group of employees that includes employees who are members appointed to a rank, or employees who are reservists, the employee organization must not be certified as bargaining agent for the group, unless
 
@@ -1152,20 +1136,20 @@ The title of the `Public Service Labour Relations Regulations` is replaced by th
 
   **(6)** If, on or after the day on which section `33` comes into force, an employee organization that meets the requirements set out in paragraph (1)(b) is certified as the bargaining agent for the bargaining unit composed of the group described in paragraph (1)(a), and the employee organization made the application for certification under section 54 of the former Act, on being so certified the employee organization's application for certification is deemed to have been an application for certification made under subsection 238.13(1) of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, instead of under that section 54, and that bargaining unit is deemed to have been determined under section 238.14 of the `Federal Public Sector Labour Relations Act`.
 
-### Section 66
+### Section 64
 
-  **(1)** Any application that is made under section 58 of the former Act before the day on which section 238.16 of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, comes into force, in regards to whether members appointed to a rank or reservists are included in a bargaining unit, other than a bargaining unit composed of the group described in paragraph `65`(1)(a), is deemed never to have been made, and any decision made in respect of the application or on any review of the decision is deemed never to have had effect.
+  **(1)** Any application that is made under section 58 of the former Act before the day on which section 238.16 of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, comes into force, in regards to whether members appointed to a rank or reservists are included in a bargaining unit, other than a bargaining unit composed of the group described in paragraph `63`(1)(a), is deemed never to have been made, and any decision made in respect of the application or on any review of the decision is deemed never to have had effect.
 
-  **(2)** Any application that is made under section 58 of the former Act before the day on which section 238.16 of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, comes into force, in regards to whether any employee other than a member appointed to a rank or a reservist is included in a bargaining unit composed of the group described in paragraph `65`(1)(a) for which an employee organization that meets the requirements set out in paragraph `65`(1)(b) is certified as the bargaining agent, is deemed never to have been made, and any decision made in respect of the application or on any review of the decision is deemed never to have had effect.
+  **(2)** Any application that is made under section 58 of the former Act before the day on which section 238.16 of the `Federal Public Sector Labour Relations Act`, as enacted by section `33`, comes into force, in regards to whether any employee other than a member appointed to a rank or a reservist is included in a bargaining unit composed of the group described in paragraph `63`(1)(a) for which an employee organization that meets the requirements set out in paragraph `63`(1)(b) is certified as the bargaining agent, is deemed never to have been made, and any decision made in respect of the application or on any review of the decision is deemed never to have had effect.
 
-### Section 67
+### Section 65
 
-As of the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`, a reference in subsections `65`(1) and `66`(1) and (2) to a member appointed to a rank is to be read as a reference to a member.
+As of the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`, a reference in subsections `63`(1) and `64`(1) and (2) to a member appointed to a rank is to be read as a reference to a member.
 
 
 ## Coordinating Amendments
 
-### Section 68
+### Section 66
 
   **(1)** If section `2` of this Act comes into force before a section or a subsection that is referred to in the following paragraphs, that section or subsection is amended by replacing "the Act" with "the `Federal Public Sector Labour Relations Act`":
 
@@ -1189,7 +1173,7 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
   **(2)** If a section or subsection referred to in paragraph (1)(a) or (b) comes into force on the same day as section `2` of this Act, then that section or subsection is deemed to have come into force before that section `2`.
 
-### Section 69
+### Section 67
 
   **(1)** The following definitions apply in this section.
 
@@ -1213,7 +1197,7 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
 ### Section 238.01
 
-    In this Part, ****RCMP Commissioner**** means the Commissioner of the Royal Canadian Mounted Police.
+    In this Part, ****RCMP Commissioner**** means the Commissioner of the Royal Canadian Mounted Police.
 
     subsection 238.02(3) of the other Act is replaced by the following:
 
@@ -1235,13 +1219,15 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
 ### Section 238.01
 
-    In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
+    In this Part, ***RCMP Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
 
     subsection 238.02(3) of the other Act is replaced by the following:
 
     **(3)** For greater certainty, the provisions of Parts 1 and 2, in so far as they are applicable, apply to employees who are RCMP members or reservists unless there is an indication to the contrary.
 
-### Section 70
+    
+
+### Section 68
 
   **(1)** The following definitions apply in this section.
 
@@ -1249,17 +1235,17 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
     **published date** means the date published by the Treasury Board in the `Canada Gazette` under subsection 86(1) of the `Enhancing Royal Canadian Mounted Police Accountability Act`. (***date publiée***)
 
-  **(2)** If the published date is before the day on which subsection `41`(2) of this Act comes into force, and if that subsection `41`(2) comes into force before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the following:
+  **(2)** If the published date is before the day on which subsection `40`(2) of this Act comes into force, and if that subsection `40`(2) comes into force before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the following:
 
     **(3)** A complaint must not be dealt with by the Commission under section 40 if it is made by an ***employee***, as defined in subsection 206(1) of the `Federal Public Sector Labour Relations Act`, other than an ***RCMP member***, as defined in subsection 2(1) of that Act, against their ***employer***, as defined in that subsection 2(1), and it alleges that the employer has engaged in a discriminatory practice set out in section 7, 8, 10 or 14.
 
     **(3.1)** A complaint made by an ***employee***, as defined in subsection 206(1) of the `Federal Public Sector Labour Relations Act`, who is an ***RCMP member***, as defined in subsection 2(1) of that Act, against their ***employer***, as defined in that subsection 2(1), or a complaint made by the bargaining agent for the bargaining unit determined under section 238.14 of that Act, must not be dealt with by the Commission under section 40 if it relates to the interpretation or application, in respect of the employee or of the members of the bargaining unit, as the case may be, of a provision of a collective agreement or arbitral award and alleges that the employer has engaged in a discriminatory practice set out in section 7, 8, 10 or 14.
 
-  **(3)** If the day on which subsection `41`(2) of this Act comes into force and the published date are the same, and that day and date are before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(3)** If the day on which subsection `40`(2) of this Act comes into force and the published date are the same, and that day and date are before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(4)** If subsection `41`(2) of this Act comes into force before the published date, and if the published date is before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(4)** If subsection `40`(2) of this Act comes into force before the published date, and if the published date is before the day on which section 340 of the other Act comes into force, then that section 340 is amended by replacing the subsection 40.1(3) that it enacts with the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(5)** If subsection `41`(2) of this Act comes into force before section 340 of the other Act, and if that section 340 comes into force before the published date, then
+  **(5)** If subsection `40`(2) of this Act comes into force before section 340 of the other Act, and if that section 340 comes into force before the published date, then
 
     subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the following:
 
@@ -1269,33 +1255,33 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
     on the published date, subsections 40.1(3) and (3.1) of the `Canadian Human Rights Act` are replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(6)** If the day on which section 340 of the other Act comes into force and the published date are the same, and that day and date are after the day on which subsection `41`(2) of this Act comes into force, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(6)** If the day on which section 340 of the other Act comes into force and the published date are the same, and that day and date are after the day on which subsection `40`(2) of this Act comes into force, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(7)** If section 340 of the other Act comes into force before subsection `41`(2) of this Act, and if that subsection `41`(2) comes into force before the published date, then
+  **(7)** If section 340 of the other Act comes into force before subsection `40`(2) of this Act, and if that subsection `40`(2) comes into force before the published date, then
 
     subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in paragraph (5)(a) of this section;
 
     on the published date, subsections 40.1(3) and (3.1) of the `Canadian Human Rights Act` are replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(8)** If subsection `41`(2) of this Act comes into force on the same day as section 340 of the other Act, and if that day is before the published date, then that section 340 is deemed to have come into force before that subsection `41`(2) and subsection (7) applies as a consequence.
+  **(8)** If subsection `40`(2) of this Act comes into force on the same day as section 340 of the other Act, and if that day is before the published date, then that section 340 is deemed to have come into force before that subsection `40`(2) and subsection (7) applies as a consequence.
 
-  **(9)** If the published date and the day on which section 340 of the other Act comes into force are both before the day on which subsection `41`(2) of this Act comes into force, then, on the day on which that subsection `41`(2) comes into force, subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(9)** If the published date and the day on which section 340 of the other Act comes into force are both before the day on which subsection `40`(2) of this Act comes into force, then, on the day on which that subsection `40`(2) comes into force, subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(10)** If subsection `41`(2) of this Act comes into force on the same day as section 340 of the other Act, and if that day is after the published date, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(10)** If subsection `40`(2) of this Act comes into force on the same day as section 340 of the other Act, and if that day is after the published date, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(11)** If the day on which subsection `41`(2) of this Act comes into force and the published date are the same, and if that day and date are after the day on which section 340 of the other Act comes into force, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(11)** If the day on which subsection `40`(2) of this Act comes into force and the published date are the same, and if that day and date are after the day on which section 340 of the other Act comes into force, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-  **(12)** If the day on which subsection `41`(2) of this Act comes into force, the day on which section 340 of the other Act comes into force and the published date are all the same, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
+  **(12)** If the day on which subsection `40`(2) of this Act comes into force, the day on which section 340 of the other Act comes into force and the published date are all the same, then subsection 40.1(3) of the `Canadian Human Rights Act` is replaced by the subsections 40.1(3) and (3.1) that are set out in subsection (2) of this section.
 
-### Section 71
+### Section 69
 
   **(1)** The following definitions apply in this section.
 
-    **first Act** means the `Economic Action Plan 2013 Act, No. 2`. (***première loi***)
+    **first Act** means the `Economic Action Plan 2013 Act, No. 2`. (***première loi***)
 
     **second Act** means the Act enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, as amended from time to time. (***deuxième loi***)
 
-  **(2)** On the first day on which all of subsections 325(2) and (3) of the first Act and sections `33` and `51` of this Act are in force,
+  **(2)** On the first day on which all of subsections 325(2) and (3) of the first Act and sections `33` and `49` of this Act are in force,
 
     subsection 238.02(2) of the second Act is replaced by the following:
 
@@ -1367,11 +1353,11 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
     The Board is to provide adjudication services that consist of the hearing of applications and complaints made under this Part and Division 1 of Part 2.1, the referral of grievances to adjudication in accordance with Part 2 and Division 2 of Part 2.1 and the hearing of matters brought before the Board under Part 3. The Board is also to provide adjudication services in accordance with the `Public Sector Equitable Compensation Act`.
 
-  **(9)** If paragrph 469(9)(b) of the first Act has not produced its effects before the day on which section `36` of this Act comes into force, that paragraph is amended by replacing "`Public Service Labour Relations and Employment Board Act`, as enacted by section 365 of this Act," with "`Federal Public Sector Labour Relations and Employment Board Act`".
+  **(9)** If paragraph 469(9)(b) of the first Act has not produced its effects before the day on which section `36` of this Act comes into force, that paragraph is amended by replacing "`Public Service Labour Relations and Employment Board Act`, as enacted by section 365 of this Act," with "`Federal Public Sector Labour Relations and Employment Board Act`".
 
   **(10)** If paragraph 469(9)(b) of the first Act produces its effects on the day on which section `36` of this Act comes into force, then that paragraph is deemed to have produced its effects before that coming into force.
 
-### Section 72
+### Section 70
 
   **(1)** Subsections (2) to (4) apply if Bill C-4, introduced in the 1st Session of the 42nd Parliament and entitled "An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act, the Public Service Labour Relations Act and the Income Tax Act" (in this section referred to as the *other Act*) receives royal assent.
 
@@ -1398,18 +1384,11 @@ As of the date published by the Treasury Board in the `Canada Gazette` under sub
 
   **(4)** If section 8 of the other Act comes into force on the same day as section `10` of this Act, then that section `10` is deemed never to have come into force, and is repealed.
 
-### Section 73
+### Section 71
 
   **(1)** Subsections (2) and (3) apply if Bill C-5, introduced in the 1st Session of the 42nd Parliament and entitled "An Act to repeal Division 20 of Part 3 of the Economic Action Plan 2015 Act, No. 1" (in this section referred to as the *other Act*) receives royal assent.
 
   **(2)** If section 1 of the other Act comes into force before section `2` of this Act, then paragraph `57`(1)(s) of this Act is repealed.
 
   **(3)** If section 1 of the other Act comes into force on the same day as section `2` of this Act, then paragraph `57`(1)(s) of this Act is deemed never to have come into force, and is repealed.
-
-
-## Coming Into Force
-
-### Section 74
-
-[*Deleted*]
 
