@@ -1,7 +1,5 @@
 # Bill C-14: An Act to amend the Criminal Code and to make related amendments to other Acts (medical assistance in dying)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
@@ -134,7 +132,7 @@ the prescribing or providing by a medical practitioner or nurse practitioner of 
 
     they give informed consent to receive medical assistance in dying.
 
-  **(2)** A person has a grievous and irremediable medical condition **only** if **they meet all of the following criteria:**
+  **(2)** A person has a grievous and irremediable medical condition only if they meet all of the following criteria:
 
     they have a serious and incurable illness, disease or disability;
 
@@ -152,7 +150,7 @@ the prescribing or providing by a medical practitioner or nurse practitioner of 
 
     made in writing and signed and dated by the person or by another person under subsection (4), and
 
-    signed and dated after the person was informed by a medical practitioner or nurse practitioner that the person **has a grievous and irremediable** medical **condition**;
+    signed and dated after the person was informed by a medical practitioner or nurse practitioner that the person has a grievous and irremediable medical condition;
 
     be satisfied that the request was signed and dated by the person — or by another person under subsection (4) — before two independent witnesses who then also signed and dated the request;
 
@@ -162,13 +160,13 @@ the prescribing or providing by a medical practitioner or nurse practitioner of 
 
     be satisfied that they and the other medical practitioner or nurse practitioner referred to in paragraph (e) are independent;
 
-    ensure that there are at least **10** clear days between the day on which the request was signed by **or on behalf of** the person and the day on which the medical assistance in dying is provided or — if they and the other medical practitioner or nurse practitioner referred to in paragraph (e) are both of the opinion that the person's death, or the loss of their capacity to provide informed consent, is imminent — any shorter period that the first medical practitioner or nurse practitioner considers appropriate in the circumstances;
+    ensure that there are at least 10 clear days between the day on which the request was signed by or on behalf of the person and the day on which the medical assistance in dying is provided or — if they and the other medical practitioner or nurse practitioner referred to in paragraph (e) are both of the opinion that the person's death, or the loss of their capacity to provide informed consent, is imminent — any shorter period that the first medical practitioner or nurse practitioner considers appropriate in the circumstances;
 
     immediately before providing the medical assist­ance in dying, give the person an opportunity to withdraw their request and ensure that the person gives express consent to receive medical assistance in dying; and
 
     if the person has difficulty communicating, take all necessary measures to provide a reliable means by which the person may understand the information that is provided to them and communicate their decision.
 
-  **(4)** If the person requesting medical assistance in dying is unable to sign and date the request, another person — who is at least 18 years of age and who understands the nature of the request for medical assistance in dying — may do so in the person's presence**,** on **the person's** behalf **and under the person's express direction**.
+  **(4)** If the person requesting medical assistance in dying is unable to sign and date the request, another person — who is at least 18 years of age and who understands the nature of the request for medical assistance in dying — may do so in the person's presence, on the person's behalf and under the person's express direction.
 
   **(5)** Any person who is at least 18 years of age and who understands the nature of the request for medical assist­ance in dying may act as an independent witness, except if they
 
@@ -300,7 +298,7 @@ Section 245 of the Act is renumbered as subsection 245(1) and is amended by addi
 
   **(3)** Section 3 of the Act is amended by adding the following after subsection (3):
 
-    **(4)** For the purposes of this Act, if a member of the forces receives medical assistance in dying, that member is deemed to have died as a result of the illness, disease or disability for which they were determined to be **eligible** to receive that assistance, in accordance with paragraph 241.2(3)(a) of the `Criminal Code`.
+    **(4)** For the purposes of this Act, if a member of the forces receives medical assistance in dying, that member is deemed to have died as a result of the illness, disease or disability for which they were determined to be eligible to receive that assistance, in accordance with paragraph 241.2(3)(a) of the `Criminal Code`.
 
 
 ### Corrections and Conditional Release Act
@@ -324,7 +322,7 @@ Section 19 of the `Corrections and Conditional Release Act` is amended by adding
 
     **(6)** For the purposes of this Act, a member or veteran has neither inflicted wilful self-injury nor engaged in improper conduct by reason only that they receive medical as­sistance in dying, if the requirement set out in paragraph 241.2(3)(a) of the `Criminal Code` has been met.
 
-    **(7)** For the purposes of this Act, if a member or a veteran receives medical assistance in dying, that member or veteran is deemed to have died as a result of the illness, disease or disability for which they were determined to be **eligible** to receive that assistance, in accordance with paragraph 241.2(3)(a) of the `Criminal Code`.
+    **(7)** For the purposes of this Act, if a member or a veteran receives medical assistance in dying, that member or veteran is deemed to have died as a result of the illness, disease or disability for which they were determined to be eligible to receive that assistance, in accordance with paragraph 241.2(3)(a) of the `Criminal Code`.
 
 
 ## Independent Review
@@ -340,7 +338,7 @@ The Minister of Justice and the Minister of Health must, no later than 180 days 
 
   **(1)** At the start of the fifth year after the day on which this Act receives royal assent, the provisions enacted by this Act are to be referred to the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for the purpose of reviewing the provisions.
 
-  **(2)** The committee to which the provisions are referred is to review them and **the state of palliative care in Canada and** submit a report to the House or Houses of Parliament of which it is a committee, including a statement setting out any changes to the provisions that the committee recommends.
+  **(2)** The committee to which the provisions are referred is to review them and the state of palliative care in Canada and submit a report to the House or Houses of Parliament of which it is a committee, including a statement setting out any changes to the provisions that the committee recommends.
 
 
 ## Coming into Force
