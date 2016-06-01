@@ -1,7 +1,5 @@
 # Bill C-10: An Act to amend the Air Canada Public Participation Act and to provide for certain other measures
 
-**Sponsor**: MINISTER OF TRANSPORT
-
 ## Summary
 
 This enactment amends the `Air Canada Public Participation Act` to provide that Air Canada's articles of continuance contain a requirement that it carry out aircraft maintenance activities in Ontario, Quebec and Manitoba and to provide for certain other measures related to that obligation.
