@@ -6,7 +6,7 @@ This enactment provides for the development and implementation of a national str
 
 Whereas Alzheimer's disease and other forms of dementia are progressive, degenerative diseases of the brain that result in impairment of thought processes and memory, as well as changes in abilities and behaviour;
 
-Whereas Alzheimer's disease erodes an individual's independence and eventually causes death;
+Whereas Alzheimer's disease **and other forms of dementia erode** an individual's independence and eventually **cause** death;
 
 Whereas there are more than 747,000 Canadians living with Alzheimer's disease and other forms of dementia;
 
@@ -53,7 +53,7 @@ In this Act, ***Minister*** means the Minister of Health.
 
     making recommendations in respect of the development of national guidelines for standards of dementia care that are founded on evidence-based best practices in care delivery and daily programming focused on the needs of the persons suffering from those diseases.
 
-  **(2)** The Minister must, within 180 days after the day on which this Act comes into force, convene a conference with representatives of the provincial and territorial governments responsible for public health, basic and clinical researchers, family caregivers, health care professionals and other care providers, people suffering from dementia as well as representatives from the lay advocacy sector, the Alzheimer Society of Canada and other Alzheimer advocacy groups, for the purpose of developing the national strategy referred to in subsection (1).
+  **(2)** The Minister must, within 180 days after the day on which this Act comes into force, convene a conference with representatives of the provincial and territorial governments responsible for public health, basic and clinical researchers, family caregivers, health care professionals and other care providers, people suffering from dementia as well as representatives from the lay advocacy sector, the Alzheimer Society of Canada**,** other Alzheimer advocacy groups, **and other dementia advocacy groups,** for the purpose of developing the national strategy referred to in subsection (1).
 
 
 ## Advisory Board
@@ -70,7 +70,7 @@ In this Act, ***Minister*** means the Minister of Health.
 
     representatives from the federal, provincial and territorial governments responsible for public health;
 
-    representatives from the Alzheimer Society of Canada and other Alzheimer advocacy groups;
+    representatives from Alzheimer **advocacy groups** and other **dementia** advocacy groups;
 
     health care professionals; and
 
