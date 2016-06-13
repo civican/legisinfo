@@ -1,7 +1,5 @@
 # Bill C-15: An Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures
 
-**Sponsor**: MINISTER OF FINANCE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures*".
 
 ## Summary
@@ -14,7 +12,7 @@ eliminating the textbook tax credit;
 
 exempting from taxable income amounts received as rate assistance under the Ontario Electricity Support Program;
 
-maintaining the small business tax rate at 10.5 % for the 2016 and subsequent taxation years and making consequential adjustments to the dividend gross-up factor and dividend tax credit;
+maintaining the small business tax rate at 10.5% for the 2016 and subsequent taxation years and making consequential adjustments to the dividend gross-up factor and dividend tax credit;
 
 increasing the maximum deduction available under the northern residents deduction;
 
@@ -32,7 +30,7 @@ extending, for one year, the mineral exploration tax credit for flow-through sha
 
 restoring the labour-sponsored venture capital corporations tax credit for purchases of shares of provincially registered labour-sponsored venture capital corporations for the 2016 and subsequent taxation years; and
 
-introducing changes consequential to the introduction of the new 33 % individual tax rate.
+introducing changes consequential to the introduction of the new 33% individual tax rate.
 
 Part 1 implements other income tax measures confirmed in the March 22, 2016 budget by
 
@@ -473,7 +471,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     in computing the income from a business other than an active business for a taxation year of a foreign affiliate of a taxpayer
 
-    there shall be included the income of the affiliate for the year from the insurance of specified Canadian risks (which, for the purposes of this paragraph, includes income for the year from the reinsurance of specified Canadian risks), unless more than 90 % of the gross premium revenue of the affiliate for the year from the insurance of risks (net of reinsurance ceded) was in respect of the insurance of risks (other than specified Canadian risks) of persons with whom the affiliate deals at arm's length,
+    there shall be included the income of the affiliate for the year from the insurance of specified Canadian risks (which, for the purposes of this paragraph, includes income for the year from the reinsurance of specified Canadian risks), unless more than 90% of the gross premium revenue of the affiliate for the year from the insurance of risks (net of reinsurance ceded) was in respect of the insurance of risks (other than specified Canadian risks) of persons with whom the affiliate deals at arm's length,
 
     if subparagraph (i) applies to include income of the affiliate from the insurance of specified Canadian risks,
 
@@ -505,7 +503,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
     any other similar criteria, and
 
-    10 % or more of the tracked policy pool consists of specified Canadian risks;
+    10% or more of the tracked policy pool consists of specified Canadian risks;
 
   **(2)** Subsection 95(2) of the Act is amended by adding the following after paragraph (a.22):
 
@@ -824,23 +822,23 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         if the person's adjusted income for the year is greater than $30,000 but less than or equal to $65,000, and if the person is, at the beginning of the month, an eligible individual in respect of
 
-        only one qualified dependant, 7 % of the person's adjusted income for the year in excess of $30,000,
+        only one qualified dependant, 7% of the person's adjusted income for the year in excess of $30,000,
 
-        only two qualified dependants, 13.5 % of the person's adjusted income for the year in excess of $30,000,
+        only two qualified dependants, 13.5% of the person's adjusted income for the year in excess of $30,000,
 
-        only three qualified dependants, 19 % of the person's adjusted income for the year in excess of $30,000, or
+        only three qualified dependants, 19% of the person's adjusted income for the year in excess of $30,000, or
 
-        more than three qualified dependants, 23 % of the person's adjusted income for the year in excess of $30,000, and
+        more than three qualified dependants, 23% of the person's adjusted income for the year in excess of $30,000, and
 
         if the person's adjusted income for the year is greater than $65,000, and if the person is, at the beginning of the month, an eligible individual in respect of
 
-        only one qualified dependant, the total of $2,450 and 3.2 % of the person's adjusted income for the year in excess of $65,000,
+        only one qualified dependant, the total of $2,450 and 3.2% of the person's adjusted income for the year in excess of $65,000,
 
-        only two qualified dependants, the total of $4,725 and 5.7 % of the person's adjusted income for the year in excess of $65,000,
+        only two qualified dependants, the total of $4,725 and 5.7% of the person's adjusted income for the year in excess of $65,000,
 
-        only three qualified dependants, the total of $6,650 and 8 % of the person's adjusted income for the year in excess of $65,000, or
+        only three qualified dependants, the total of $6,650 and 8% of the person's adjusted income for the year in excess of $65,000, or
 
-        more than three qualified dependants, the total of $8,050 and 9.5 % of the person's adjusted income for the year in excess of $65,000, and
+        more than three qualified dependants, the total of $8,050 and 9.5% of the person's adjusted income for the year in excess of $65,000, and
 
         is the amount determined for C;
 
@@ -868,7 +866,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         is
 
-        if the person is an eligible individual in respect of only one qualified dependant, 12.2 %, and
+        if the person is an eligible individual in respect of only one qualified dependant, 12.2%, and
 
         if the person is an eligible individual in respect of two or more qualified dependants, the fraction (expressed as a percentage rounded to the nearest one-tenth of one per cent) of which
 
@@ -890,9 +888,9 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         if the person's adjusted income for the year is greater than $65,000,
 
-        where the person is an eligible individual in respect of only one qualified dependant described in N, 3.2 % of the person's adjusted income for the year in excess of $65,000, and
+        where the person is an eligible individual in respect of only one qualified dependant described in N, 3.2% of the person's adjusted income for the year in excess of $65,000, and
 
-        where the person is an eligible individual in respect of two or more qualified dependants described in N, 5.7 % of the person's adjusted income for the year in excess of $65,000.
+        where the person is an eligible individual in respect of two or more qualified dependants described in N, 5.7% of the person's adjusted income for the year in excess of $65,000.
 
   **(2)** The first formula in subsection 122.61(1) of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -928,9 +926,9 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
       **(1)** The Minister of Finance may enter into an agreement with the government of a province whereby the amounts determined under the description of E in subsection 122.61(1) with respect to persons resident in the province shall, for the purpose of calculating overpayments deemed to arise under that subsection, be replaced by amounts determined in accordance with the agreement.
 
-      **(2)** The amounts determined under the description of E in subsection 122.61(1) for a base taxation year because of any agreement entered into with a province and referred to in subsection (1) shall be based on the age of qualified dependants of eligible individuals, or on the number of such qualified dependants, or both, and shall result in an amount in respect of a qualified dependant that is not less, in respect of that qualified dependant, than 85 % of the amount that would otherwise be determined under that description in respect of that qualified dependant for that year.
+      **(2)** The amounts determined under the description of E in subsection 122.61(1) for a base taxation year because of any agreement entered into with a province and referred to in subsection (1) shall be based on the age of qualified dependants of eligible individuals, or on the number of such qualified dependants, or both, and shall result in an amount in respect of a qualified dependant that is not less, in respect of that qualified dependant, than 85% of the amount that would otherwise be determined under that description in respect of that qualified dependant for that year.
 
-      **(3)** Any agreement entered into with a province and referred to in subsection (1) shall provide that, where the operation of the agreement results in a total of all amounts, each of which is an amount deemed under subsection 122.61(1) to be an overpayment on account of the liability under this Part for a taxation year of a person subject to the agreement, that exceeds 101 % of the total of such overpayments that would have otherwise been deemed to have arisen under subsection 122.61(1), the excess shall be reimbursed by the government of the province to the Government of Canada.
+      **(3)** Any agreement entered into with a province and referred to in subsection (1) shall provide that, where the operation of the agreement results in a total of all amounts, each of which is an amount deemed under subsection 122.61(1) to be an overpayment on account of the liability under this Part for a taxation year of a person subject to the agreement, that exceeds 101% of the total of such overpayments that would have otherwise been deemed to have arisen under subsection 122.61(1), the excess shall be reimbursed by the government of the province to the Government of Canada.
 
   **(3)** Subsection (1) comes into force, or is deemed to have come into force, on July 1, 2016.
 
@@ -1025,7 +1023,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(1)** Subsection 125(1.1) of the Act is amended by adding "and" at the end of paragraph (a) and by replacing paragraphs (b) to (e) with the following:
 
-    that proportion of 17.5 % that the number of days in the taxation year that are after 2015 is of the number of days in the taxation year.
+    that proportion of 17.5% that the number of days in the taxation year that are after 2015 is of the number of days in the taxation year.
 
   **(2)** Subsection (1) applies to the 2016 and subsequent taxation years.
 
@@ -1067,9 +1065,9 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
   **(3)** Paragraphs 127.4(6)(a) and (a.1) of the Act are replaced by the following:
 
-    15 % of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if the share is a share of a prescribed labour-sponsored venture capital corporation (other than a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation),
+    15% of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if the share is a share of a prescribed labour-sponsored venture capital corporation (other than a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation),
 
-    5 % of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if
+    5% of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if
 
     the taxation year for which a claim is made under subsection (2) in respect of the original acquisition is 2016, and
 
@@ -1230,7 +1228,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 1`.
 
         non-resident,
 
-        a partnership (other than a partnership that is, throughout its fiscal period that includes that time, **a Canadian partnership**), or
+        a partnership (other than a partnership that is, throughout its fiscal period that includes that time, a Canadian partnership), or
 
         exempt because of subsection 149(1) from tax under this Part on the person's taxable income;
 
@@ -1518,7 +1516,7 @@ for calendar years after 2016, the person would not be a ***qualifying student**
 
       is a corporation that does not satisfy the condition in clause (A), but would be a resident of a country with which Canada has a tax treaty if the corporation were treated, for the purpose of income taxation in that country, as a body corporate, and
 
-      in the case of an employer that is a partnership, is a partnership in respect of which the total of all amounts, each of which is a share of the partnership's income or loss for the fiscal period that includes that time of a member that, at that time, is a resident of a country with which Canada has a tax treaty (or is a corporation that satisfies the condition in clause (i)(B)), is not less than 90 % of the income or loss of the partnership for the period (for the purposes of this subparagraph, where the income and loss of the partnership are nil for the period, the income of the partnership for the period is deemed to be $1,000,000); and
+      in the case of an employer that is a partnership, is a partnership in respect of which the total of all amounts, each of which is a share of the partnership's income or loss for the fiscal period that includes that time of a member that, at that time, is a resident of a country with which Canada has a tax treaty (or is a corporation that satisfies the condition in clause (i)(B)), is not less than 90% of the income or loss of the partnership for the period (for the purposes of this subparagraph, where the income and loss of the partnership are nil for the period, the income of the partnership for the period is deemed to be $1,000,000); and
 
       that is at that time certified by the Minister under subsection (7). (**employeur non-résident admissible**)
 
@@ -1552,7 +1550,7 @@ for calendar years after 2016, the person would not be a ***qualifying student**
 
       **(1.1)** The amount of the penalty to which the person is liable under subsection (1) is equal to the lesser of
 
-        10 % of the unreported amount, and
+        10% of the unreported amount, and
 
         the amount determined by the formula
 
@@ -1716,9 +1714,9 @@ for calendar years after 2016, the person would not be a ***qualifying student**
 
     a trust resident in Canada (other than a specified mutual fund trust) if any of the interests as a beneficiary under the trust is not a **fixed interest** (as defined in subsection 251.2(1)) in the trust (in this definition referred to as a **discretionary trust**),
 
-    a partnership more than 10 % of the fair market value of all interests in which can reasonably be considered to be held, directly or indirectly through one or more trusts or partnerships, by any combination of persons described in paragraphs (a) to (c), or
+    a partnership more than 10% of the fair market value of all interests in which can reasonably be considered to be held, directly or indirectly through one or more trusts or partnerships, by any combination of persons described in paragraphs (a) to (c), or
 
-    a trust resident in Canada (other than a specified mutual fund trust or a discretionary trust) if more than 10 % of the fair market value of all interests as beneficiaries under the trust can reasonably be considered to be held, directly or indirectly through one or more trusts or partnerships, by any combination of persons described in paragraph (a) or (c); (**investisseur indifférent relativement à l'impôt**)
+    a trust resident in Canada (other than a specified mutual fund trust or a discretionary trust) if more than 10% of the fair market value of all interests as beneficiaries under the trust can reasonably be considered to be held, directly or indirectly through one or more trusts or partnerships, by any combination of persons described in paragraph (a) or (c); (**investisseur indifférent relativement à l'impôt**)
 
   **(3)** Section 248 of the Act is amended by adding the following after subsection (41):
 
@@ -1750,7 +1748,7 @@ for calendar years after 2016, the person would not be a ***qualifying student**
 
       the member deals at arm's length with each general partner of the partnership; and
 
-      the member, or the member together with persons and partnerships with which it does not deal at arm's length, holds interests in the partnership that have a fair market value of not more than 20 % of the fair market value of the interests of all members in the partnership.
+      the member, or the member together with persons and partnerships with which it does not deal at arm's length, holds interests in the partnership that have a fair market value of not more than 20% of the fair market value of the interests of all members in the partnership.
 
   **(2)** Subsection (1) applies in respect of investments in limited partnerships that are made or acquired after April 20, 2015.
 
@@ -1917,9 +1915,9 @@ Subsection 8(1) of the Act is replaced by the following:
 
       **(6)** For the purpose of subsection (5), an individual's labour-sponsored funds tax credit in respect of an original acquisition of an approved share is equal to the least of
 
-        15 % of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if the share is a share of a prescribed labour-sponsored venture capital corporation (other than a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation),
+        15% of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if the share is a share of a prescribed labour-sponsored venture capital corporation (other than a corporation that is a prescribed labour-sponsored venture capital corporation solely because it is a registered labour-sponsored venture capital corporation),
 
-        5 % of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if
+        5% of the net cost to the individual (or to a qualifying trust for the individual in respect of the share) for the original acquisition of the share by the individual or by the trust, if
 
         the taxation year for which a claim is made under subsection (2) in respect of the original acquisition is 2016, and
 
@@ -1967,7 +1965,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
       the amount, if any, by which the individual's amount taxable for the year for the purposes of subsection 117(2) exceeds the first dollar amount for the year referred to in paragraph 117(2)(e);
 
-      is 29 %; and
+      is 29%; and
 
       is the amount, if any, by which the individual's total gifts for the year exceeds the total of $200 and the amount determined for D.
 
@@ -1979,11 +1977,11 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 123.5
 
-    There shall be added to the tax otherwise payable under this Part for each taxation year by a corporation an amount equal to 5 % of the corporation's taxable income for the year from a personal services business.
+    There shall be added to the tax otherwise payable under this Part for each taxation year by a corporation an amount equal to 5% of the corporation's taxable income for the year from a personal services business.
 
   **(6)** Clauses 132(1)(a)(i)(A) and (B) of the `Income Tax Act` are replaced by the following:
 
-    16.5 % of the total of the trust's capital gains redemptions for the year, and
+    16.5% of the total of the trust's capital gains redemptions for the year, and
 
     the positive or negative amount, if any, that the Minister determines to be reasonable in the circumstances, after giving consideration to the percentages applicable in determining the trust's capital gains refunds for the year or any previous taxation year and the percentages applicable in determining the trust's refundable capital gains tax on hand at the end of the year, and
 
@@ -1999,11 +1997,11 @@ Subsection 8(1) of the Act is replaced by the following:
 
   **(9)** Paragraph 143.1(3)(c) of the `Income Tax Act` is replaced by the following:
 
-    if the trust is liable to pay tax under Part XII.2 in respect of the particular year, 60 % of the fair market value of all property held by it at that time, and
+    if the trust is liable to pay tax under Part XII.2 in respect of the particular year, 60% of the fair market value of all property held by it at that time, and
 
   **(10)** Paragraph 143.1(4)(a) of the `Income Tax Act` is replaced by the following:
 
-    if the trust is liable to pay tax under Part XII.2 in respect of the year, 60 % of the fair market value of all property held by it at that time; and
+    if the trust is liable to pay tax under Part XII.2 in respect of the year, 60% of the fair market value of all property held by it at that time; and
 
   **(11)** The description of A in subsection 207.8(2) of the `Income Tax Act` is replaced by the following:
 
@@ -2013,7 +2011,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 210.2
 
-      **(1)** Subject to section 210.3, if a trust deducts an amount under paragraph 104(6)(b) in computing its income under Part I for a taxation year, the trust shall pay a tax under this Part in respect of the year equal to 40 % of the least of
+      **(1)** Subject to section 210.3, if a trust deducts an amount under paragraph 104(6)(b) in computing its income under Part I for a taxation year, the trust shall pay a tax under this Part in respect of the year equal to 40% of the least of
 
   **(13)** Paragraph 210.2(1)(c) of the `Income Tax Act` is replaced by the following:
 
@@ -2023,11 +2021,11 @@ Subsection 8(1) of the Act is replaced by the following:
 
     **(2)** Notwithstanding subsection 210(2), a trust shall pay a tax under this Part in respect of a particular taxation year of the trust equal to 2/3 of the amount that is required by subsection 143.1(2) to be included in computing the income under Part I for a taxation year of a beneficiary under the trust, if
 
-  **(15)** Subsections (2), (4) and (6) to (14) apply to the 2016 and subsequent taxation years and, for the purpose of determining the amount for A in the definition **refundable capital gains tax on hand** in subsection 132(4) of the `Income Tax Act`, as amended by subsection (8), in respect of previous taxation years prior to 2016, the references to "the highest individual percentage for the year" in paragraphs (a) and (b) of that description are to be read as "29 %".
+  **(15)** Subsections (2), (4) and (6) to (14) apply to the 2016 and subsequent taxation years and, for the purpose of determining the amount for A in the definition **refundable capital gains tax on hand** in subsection 132(4) of the `Income Tax Act`, as amended by subsection (8), in respect of previous taxation years prior to 2016, the references to "the highest individual percentage for the year" in paragraphs (a) and (b) of that description are to be read as "29%".
 
   **(16)** *Subsection 118.1(3) of the `Income Tax Act`, as enacted by subsection (3), applies to the 2016 and subsequent taxation years and, for the purpose of calculating the amount determined for D in subsection 118.1(3) of that Act, as enacted by subsection (3), an individual's total gifts for the year are determined without reference to gifts made before the 2016 taxation year.*
 
-  **(17)** Subsection (5) applies to taxation years that end after 2015 except that, for taxation years that end after 2015 and begin before 2016, the reference to 5 % in section 123.5 of the `Income Tax Act`, as enacted by subsection (5), is to be read as a reference to the percentage determined by the formula
+  **(17)** Subsection (5) applies to taxation years that end after 2015 except that, for taxation years that end after 2015 and begin before 2016, the reference to 5% in section 123.5 of the `Income Tax Act`, as enacted by subsection (5), is to be read as a reference to the percentage determined by the formula
 
     is the number of days in the taxation year that are after 2015; and
 
@@ -2136,7 +2134,7 @@ Subsection 8(1) of the Act is replaced by the following:
 
     the qualifying taxpayer pays to the insurer, or to persons related to the insurer (each of which is referred to in this paragraph as an ***affiliate***), amounts (each of which is referred to in this paragraph as a ***fee***) under one or more agreements in writing, each of which is not the policy of reinsurance and is between the qualifying taxpayer and the insurer or an affiliate,
 
-    the fees include 99 % or more of the total of all amounts, each of which
+    the fees include 99% or more of the total of all amounts, each of which
 
     is payable to the insurer or to an affiliate for property acquired, manufactured or produced, or for a service acquired or performed, in whole or in part outside Canada in respect of the policy of reinsurance, and
 
@@ -2640,7 +2638,7 @@ An amount paid or payable under any of sections `100` to `103` is deemed, for th
 
 Subparagraph (f)(iii) of the definition **student** in section 2 of the `Children of Deceased Veterans Education Assistance Act` is replaced by the following:
 
-the member's or veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments under that Act and, if applicable, the `Pension Act`, is equal to or greater than the lowest extent of disability set out in column 2 of Schedule 3 to the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` in respect of a rate of award of 50 %. (***étudiant***)
+the member's or veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments under that Act and, if applicable, the `Pension Act`, is equal to or greater than the lowest extent of disability set out in column 2 of Schedule 3 to the `Canadian Forces Members and Veterans Re-establishment and Compensation Act` in respect of a rate of award of 50%. (***étudiant***)
 
 
 ##### `Pension Act`
@@ -4030,7 +4028,7 @@ Sections `189` and `190` come into force, or are deemed to have come into force,
 
 The definition **negligible** in subsection 2(1) of the `Special Import Measures Act` is replaced by the following:
 
-**negligible** means, in respect of the volume of goods of a country, less than 3 % of the total volume of goods that are released into Canada from all countries and that are of the same description as the goods. However, if the total volume of goods of three or more countries — each of whose exports of goods into Canada is less than 3 % of the total volume of goods that are released into Canada from all countries and that are of the same description — is more than 7 % of the total volume of goods that are released into Canada from all countries and that are of the same description, the volume of goods of any of those countries is not negligible; (**négligeable**)
+**negligible** means, in respect of the volume of goods of a country, less than 3% of the total volume of goods that are released into Canada from all countries and that are of the same description as the goods. However, if the total volume of goods of three or more countries — each of whose exports of goods into Canada is less than 3% of the total volume of goods that are released into Canada from all countries and that are of the same description — is more than 7% of the total volume of goods that are released into Canada from all countries and that are of the same description, the volume of goods of any of those countries is not negligible; (**négligeable**)
 
 ### Section 193
 
@@ -4098,7 +4096,7 @@ the President is satisfied in respect of some or all of those goods that the act
 
     **(1.1)** The President may in making a preliminary determination under subsection (1), using the information available to him or her at that time, make the determination that the margin of dumping of, or the amount of subsidy on, the goods is insignificant.
 
-    **(1.2)** For the purposes of a preliminary determination, if the President determines that the margin of dumping or the amount of subsidy is equivalent to 0 % of the export price of the goods, then that margin or amount is considered to be insignificant and the investigation in respect of those goods continues.
+    **(1.2)** For the purposes of a preliminary determination, if the President determines that the margin of dumping or the amount of subsidy is equivalent to 0% of the export price of the goods, then that margin or amount is considered to be insignificant and the investigation in respect of those goods continues.
 
 ### Section 198
 
@@ -4215,7 +4213,7 @@ respecting transitional matters in the event that the Government of Canada cease
 
   **(1)** Subsection 2(1) of the `Employment Insurance Act` is amended by adding the following in alphabetical order:
 
-    **long-tenured worker** means a claimant who was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of their benefit period and who, according to their income tax returns for which notices of assessment have been sent by the Canada Revenue Agency, paid at least 30 % of the maximum annual employee's premium in 7 of the 10 years before the beginning of their benefit period or, if their income tax return for the year before the beginning of their benefit period has not yet been filed with that Agency or a notice of assessment for that year has not yet been sent by that Agency, in 7 of the 10 years before that year; (**travailleur de longue date**)
+    **long-tenured worker** means a claimant who was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of their benefit period and who, according to their income tax returns for which notices of assessment have been sent by the Canada Revenue Agency, paid at least 30% of the maximum annual employee's premium in 7 of the 10 years before the beginning of their benefit period or, if their income tax return for the year before the beginning of their benefit period has not yet been filed with that Agency or a notice of assessment for that year has not yet been sent by that Agency, in 7 of the 10 years before that year; (**travailleur de longue date**)
 
   **(2)** The definition **long-tenured worker** in subsection 2(1) of the Act is repealed.
 
@@ -4345,13 +4343,19 @@ The definition **waiting period** in subsection 6(1) of the Act is replaced by t
 
       the region of Northern Manitoba described in subsection 6(3) of that Schedule;
 
+      the region of Southern Interior British Columbia described in subsection 7(1) of that Schedule;
+
       the region of Northern British Columbia described in subsection 7(5) of that Schedule;
 
       the region of Saskatoon described in subsection 9(2) of that Schedule;
 
+      the region of Southern Saskatchewan described in subsection 9(3) of that Schedule;
+
       the region of Northern Saskatchewan described in subsection 9(4) of that Schedule;
 
       the region of Calgary described in subsection 10(1) of that Schedule;
+
+      the region of Edmonton described in subsection 10(2) of that Schedule;
 
       the region of Southern Alberta described in subsection 10(3) of that Schedule;
 
