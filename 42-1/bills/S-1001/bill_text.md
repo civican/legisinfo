@@ -1,7 +1,5 @@
 # Bill S-1001: An Act to authorize La Capitale Financial 
 
-**Sponsor**:  Dawson
-
 ## Summary
 
 This enactment authorizes La Capitale Financial Security Insurance Company to apply to be continued as a body corporate under the laws of the Province of Quebec.
