@@ -1,7 +1,5 @@
 # Bill S-225: An Act to amend the Controlled Drugs and Substances Act (substances used in the production of fentanyl)
 
-**Sponsor**:  White
-
 ## Summary
 
 This enactment amends Part 1 of Schedule VI to the `Controlled Drugs and Substances Act` to add certain substances used in the production of fentanyl, so that they will be regulated as Class A precursors.
@@ -14,13 +12,13 @@ Part 1 of Schedule VI to the `Controlled Drugs and Substances Act` is amended by
 
 Propionyl chloride
 
-1-Phenethyl-4-piperidone
+1-Phenethyl-4-piperidone and its salts
 
-Aniline
+4-Piperidone and its salts
 
-4-Piperidone
+Norfentanyl (N-phenyl-N-piperidin-4-ylpropan­a­mide) and its salts
 
+1-Phenethylpiperidin-4-ylidenephenylamine and its salts
 
-> **Explanatory Note**:
-> New.
+N-Phenyl-4-piperidinamine and its salts
 
