@@ -1,0 +1,1643 @@
+<Bills>
+  <Bill>
+    <Id>8362244</Id>
+    <NumberCode>C-23</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>23</Number>
+    <LongTitleEn>An Act respecting the preclearance of persons and goods in Canada and the United States</LongTitleEn>
+    <LongTitleFr>Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis</LongTitleFr>
+    <LongTitle>An Act respecting the preclearance of persons and goods in Canada and the United States</LongTitle>
+    <ShortTitleEn>Preclearance Act, 2016</ShortTitleEn>
+    <ShortTitleFr>Loi sur le précontrôle (2016)</ShortTitleFr>
+    <ShortTitle>Preclearance Act, 2016</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2017-12-12T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1265</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Ralph</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Goodale</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Ralph Goodale</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique et de la Protection civile</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>858</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Regina—Wascana</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Regina—Wascana</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Regina—Wascana</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2017-12-12T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>171</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2016-06-17T12:10:27</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2017-03-06T19:00:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2017-06-21T19:30:18</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2017-06-22T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2017-11-09T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2017-12-07T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2017-12-12T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 17 June 2016, the Minister of Public Safety and Emergency Preparedness introduced Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States (Preclearance Act, 2016)), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-23 implements the Agreement on Land, Rail, Marine, and Air Transport Preclearance between the Government of Canada and the Government of the United States of America (the Agreement), done at Washington on March 16, 2015, to provide for the preclearance in each country of travellers and goods bound for the other country.&lt;br/&gt; &lt;br/&gt;Part 1 of the enactment authorizes United States preclearance officers to conduct preclearance in Canada of travellers and goods bound for the United States and, among other things, it&lt;br/&gt;&lt;br/&gt;•	authorizes a federal Minister to designate preclearance areas and preclearance perimeters in Canada, in which preclearance may take place;&lt;br/&gt;•	provides United States preclearance officers with powers to facilitate preclearance;&lt;br/&gt;•	establishes that the exercise of any power and performance of any duty or function by a United States preclearance officer is subject to Canadian law, including the Canadian Charter of Rights and Freedoms, the Canadian Bill of Rights and the Canadian Human Rights Act;&lt;br/&gt;•	authorizes Canadian police officers and the officers of the Canada Border Services Agency to assist United States preclearance officers in the exercise of their powers and performance of their duties and functions;&lt;br/&gt;•	allows a traveller bound for the United States to withdraw from the preclearance process, unless the traveller is detained under Part 1; and&lt;br/&gt;•	limits the ability to request the extradition or provisional arrest of a current or former United States preclearance officer.&lt;br/&gt; &lt;br/&gt;Part 2 of the enactment provides for the preclearance in the United States, by Canadian officers, of travellers and goods bound for Canada. Among other things, Part 2&lt;br/&gt;&lt;br/&gt;•	specifies how the Immigration and Refugee Protection Act will apply to travellers bound for Canada who are in preclearance areas and preclearance perimeters in the United States, and extends the application of other Canadian legislation that relates to the entry of persons and importation of goods into Canada to those preclearance areas and preclearance perimeters;&lt;br/&gt;&lt;br/&gt;•	authorizes the Governor in Council to make regulations adapting, restricting or excluding the application of provisions of the Immigration and Refugee Protection Act and that other Canadian legislation in preclearance areas and preclearance perimeters;&lt;br/&gt;&lt;br/&gt;•	prevents, as required under the Agreement, the exercise of powers of Canadian officers under Canadian law with respect to questioning or interrogation, examination, search, seizure, forfeiture, detention and arrest in preclearance areas and preclearance perimeters, as similar powers will be conferred under the laws of the United States on Canadian officers;&lt;br/&gt;&lt;br/&gt;•	allows a traveller bound for Canada to withdraw from the preclearance process, unless the traveller is detained under the laws of the United States;&lt;br/&gt;&lt;br/&gt;•	deems an act or omission committed in a preclearance area or preclearance perimeter to be committed in Canada, if the act or omission would constitute, in Canada, an offence relating to the entry of persons or importation of goods into Canada; and&lt;br/&gt;&lt;br/&gt;•	grants the Attorney General of Canada the exclusive authority to commence and conduct a prosecution of a Canadian officer with respect to an act or omission committed in the United States.&lt;br/&gt;&lt;br/&gt;Part 3 of the enactment makes related amendments to the Criminal Code to provide United States preclearance officers with an exemption from criminal liability under the Criminal Code and the Firearms Act with respect to the carriage of firearms and other regulated items. It also amends the Criminal Code to provide for a stay of proceedings against a United States preclearance officer when the Government of the United States provides notice under paragraph 14 of Article X of the Agreement. &lt;br/&gt;&lt;br/&gt;Part 4 of the enactment makes a consequential amendment to the Customs Act, repeals the Preclearance Act and contains the coming-into-force provision.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 17 juin 2016, le Ministre de la Sécurité publique et de la Protection civile a déposé le projet de loi C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis (Loi sur précontrôle (2016)), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-23 met en œuvre l'Accord entre le gouvernement du Canada et le gouvernement des États-Unis d'Amérique relatif au précontrôle dans les domaines du transport terrestre, ferroviaire, maritime et aérien (l'Accord), fait à Washington le 16 mars 2015, afin de permettre, sur le territoire de chaque État, le précontrôle de voyageurs et de biens à destination de l'autre État.  &lt;br/&gt;&lt;br/&gt;La partie 1 du texte autorise les contrôleurs des États-Unis à effectuer, au Canada, le précontrôle de voyageurs et de biens à destination des États-Unis et, notamment?: &lt;br/&gt;&lt;br/&gt;•	autorise un ministre fédéral à désigner des zones et périmètres de précontrôle au Canada dans lesquels le précontrôle peut être effectué;&lt;br/&gt;&lt;br/&gt;•	confère aux contrôleurs des États-Unis des pouvoirs pour faciliter le précontrôle;&lt;br/&gt;&lt;br/&gt;•	prévoit que l'exercice d'attributions par les contrôleurs des États-Unis doit être conforme au droit canadien, notamment à la Charte canadienne des droits et libertés, à la Déclaration canadienne des droits et à la Loi canadienne sur les droits de la personne;&lt;br/&gt;&lt;br/&gt;•	autorise les policiers canadiens et les agents de l'Agence canadienne des services frontaliers à assister les contrôleurs des États-Unis dans l'exercice de leurs attributions;&lt;br/&gt;&lt;br/&gt;•	permet à tout voyageur à destination des États-Unis, sauf s'il est détenu en vertu de la partie 1, de se soustraire au précontrôle;&lt;br/&gt;&lt;br/&gt;•	limite la faculté de demander l'extradition ou l'arrestation provisoire d'une personne qui est ou était un contrôleur des États-Unis.&lt;br/&gt;&lt;br/&gt;La partie 2 du texte permet que le précontrôle de voyageurs et de biens à destination du Canada soit effectué aux États-Unis par des agents et fonctionnaires canadiens et, notamment?: &lt;br/&gt;&lt;br/&gt;•	précise la façon dont la Loi sur l'immigration et la protection des réfugiés s'applique aux voyageurs à destination du Canada qui se trouvent dans les zones de précontrôle et les périmètres de précontrôle aux États-Unis et élargit la portée d'autres lois canadiennes relatives à l'entrée de personnes au Canada et à l'importation de biens à ces zones et périmètres;&lt;br/&gt;&lt;br/&gt;•	autorise le gouverneur en conseil à prendre des règlements pour modifier?—?par adaptation, restriction ou exclusion?—?l'application de dispositions de la Loi sur l'immigration et la protection des réfugiés ou de ces autres lois dans les zones de précontrôle ou les périmètres de précontrôle;&lt;br/&gt;&lt;br/&gt;•	prévoit, tel que l'exige l'Accord, que les pouvoirs en matière d'interrogation, d'examen, de fouille, de saisie, de confiscation, de détention ou retenue ou d'arrestation qu'ont les agents et fonctionnaires canadiens en droit canadien ne peuvent être exercés dans les zones de précontrôle et les périmètres de précontrôle, étant entendu que des pouvoirs similaires leur seront conférés par les lois des États-Unis;&lt;br/&gt;&lt;br/&gt;•	permet à tout voyageur à destination du Canada, sauf s'il est détenu en vertu des lois des États-Unis, de se soustraire au précontrôle;&lt;br/&gt;&lt;br/&gt;•	prévoit qu'un acte?—?action ou omission?—?qui est commis dans une zone de précontrôle ou un périmètre de précontrôle et qui, s'il était commis au Canada, constituerait une infraction relative à l'entrée de personnes ou à l'importation de biens au Canada, est réputé avoir été commis au Canada;&lt;br/&gt;&lt;br/&gt;•	accorde au procureur général du Canada compétence exclusive pour intenter et mener des poursuites à l'égard des actes?—?actions ou omissions?—?commis aux États-Unis par des agents ou autres fonctionnaires canadiens.&lt;br/&gt; &lt;br/&gt;La partie 3 apporte des modifications connexes au Code criminel pour prévoir que les contrôleurs des États-Unis n'encourent pas de responsabilité pénale, au titre du Code criminel et de la Loi sur les armes à feu, relativement à la possession d'armes à feu ou d'autres articles réglementés. Elle modifie également le Code criminel pour prévoir l'arrêt des procédures à l'égard des contrôleurs des États-Unis lorsque le gouvernement des États-Unis transmet un avis, conformément au paragraphe 14 de l'article X de l'Accord.&lt;br/&gt; &lt;br/&gt;La partie 4 apporte une modification corrélative à la Loi sur les douanes, abroge la Loi sur le précontrôle et contient la disposition d'entrée en vigueur.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 17 June 2016, the Minister of Public Safety and Emergency Preparedness introduced Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States (Preclearance Act, 2016)), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-23 implements the Agreement on Land, Rail, Marine, and Air Transport Preclearance between the Government of Canada and the Government of the United States of America (the Agreement), done at Washington on March 16, 2015, to provide for the preclearance in each country of travellers and goods bound for the other country.&lt;br/&gt; &lt;br/&gt;Part 1 of the enactment authorizes United States preclearance officers to conduct preclearance in Canada of travellers and goods bound for the United States and, among other things, it&lt;br/&gt;&lt;br/&gt;•	authorizes a federal Minister to designate preclearance areas and preclearance perimeters in Canada, in which preclearance may take place;&lt;br/&gt;•	provides United States preclearance officers with powers to facilitate preclearance;&lt;br/&gt;•	establishes that the exercise of any power and performance of any duty or function by a United States preclearance officer is subject to Canadian law, including the Canadian Charter of Rights and Freedoms, the Canadian Bill of Rights and the Canadian Human Rights Act;&lt;br/&gt;•	authorizes Canadian police officers and the officers of the Canada Border Services Agency to assist United States preclearance officers in the exercise of their powers and performance of their duties and functions;&lt;br/&gt;•	allows a traveller bound for the United States to withdraw from the preclearance process, unless the traveller is detained under Part 1; and&lt;br/&gt;•	limits the ability to request the extradition or provisional arrest of a current or former United States preclearance officer.&lt;br/&gt; &lt;br/&gt;Part 2 of the enactment provides for the preclearance in the United States, by Canadian officers, of travellers and goods bound for Canada. Among other things, Part 2&lt;br/&gt;&lt;br/&gt;•	specifies how the Immigration and Refugee Protection Act will apply to travellers bound for Canada who are in preclearance areas and preclearance perimeters in the United States, and extends the application of other Canadian legislation that relates to the entry of persons and importation of goods into Canada to those preclearance areas and preclearance perimeters;&lt;br/&gt;&lt;br/&gt;•	authorizes the Governor in Council to make regulations adapting, restricting or excluding the application of provisions of the Immigration and Refugee Protection Act and that other Canadian legislation in preclearance areas and preclearance perimeters;&lt;br/&gt;&lt;br/&gt;•	prevents, as required under the Agreement, the exercise of powers of Canadian officers under Canadian law with respect to questioning or interrogation, examination, search, seizure, forfeiture, detention and arrest in preclearance areas and preclearance perimeters, as similar powers will be conferred under the laws of the United States on Canadian officers;&lt;br/&gt;&lt;br/&gt;•	allows a traveller bound for Canada to withdraw from the preclearance process, unless the traveller is detained under the laws of the United States;&lt;br/&gt;&lt;br/&gt;•	deems an act or omission committed in a preclearance area or preclearance perimeter to be committed in Canada, if the act or omission would constitute, in Canada, an offence relating to the entry of persons or importation of goods into Canada; and&lt;br/&gt;&lt;br/&gt;•	grants the Attorney General of Canada the exclusive authority to commence and conduct a prosecution of a Canadian officer with respect to an act or omission committed in the United States.&lt;br/&gt;&lt;br/&gt;Part 3 of the enactment makes related amendments to the Criminal Code to provide United States preclearance officers with an exemption from criminal liability under the Criminal Code and the Firearms Act with respect to the carriage of firearms and other regulated items. It also amends the Criminal Code to provide for a stay of proceedings against a United States preclearance officer when the Government of the United States provides notice under paragraph 14 of Article X of the Agreement. &lt;br/&gt;&lt;br/&gt;Part 4 of the enactment makes a consequential amendment to the Customs Act, repeals the Preclearance Act and contains the coming-into-force provision.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2017</StatuteYear>
+    <StatuteChapter>27</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-06-17T12:10:27</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>75</Number>
+          <Date>2016-06-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-06-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-06-17T12:10:27</EventStartDateTime>
+          <EventEndDateTime>2016-06-17T12:10:27</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-06-17T12:10:27</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-03-06T19:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>9410018</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>144</Number>
+          <Date>2017-02-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>145</Number>
+          <Date>2017-02-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>147</Number>
+          <Date>2017-02-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>148</Number>
+          <Date>2017-03-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9406283</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8379020</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - SECU</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - SECU</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - SECU</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>205</DivisionNumber>
+          <DivisionVotesYeas>238</DivisionVotesYeas>
+          <DivisionVotesNays>42</DivisionVotesNays>
+          <DivisionVotePaired>2</DivisionVotePaired>
+          <DecisionSittingDate>2017-03-06T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>148</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2017-03-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2017-03-06T19:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-03-06T19:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-03-06T19:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9392536</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1265</PersonId>
+          <PersonOfficialFirstName>Ralph</PersonOfficialFirstName>
+          <PersonOfficialLastName>Goodale</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ralph Goodale</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>144</MeetingNumber>
+          <SpeechDateTime>2017-02-21T16:08:23</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9392893</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>15975</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Clement</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Clement</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>144</MeetingNumber>
+          <SpeechDateTime>2017-02-21T16:35:29</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9393111</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71368</PersonId>
+          <PersonOfficialFirstName>Matthew</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dubé</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Matthew Dubé</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>144</MeetingNumber>
+          <SpeechDateTime>2017-02-21T17:02:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-06-16T11:11:08.327</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>9410018</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>196</Number>
+          <Date>2017-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>62</Number>
+          <Date>2017-05-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>63</Number>
+          <Date>2017-05-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>64</Number>
+          <Date>2017-05-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>65</Number>
+          <Date>2017-05-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>66</Number>
+          <Date>2017-05-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>70</Number>
+          <Date>2017-06-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2017-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9044372</CommitteeReportId>
+          <CommitteeReportNumber>12</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-06-16T11:11:08.327</EventStartDateTime>
+          <EventEndDateTime>2017-06-16T11:11:08.327</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-16T11:11:08.327</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-21T15:50:12</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>199</Number>
+          <Date>2017-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2017-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2017-06-21T15:50:12</EventStartDateTime>
+          <EventEndDateTime>2017-06-21T15:50:12</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-21T15:50:12</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-21T19:30:18</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>199</Number>
+          <Date>2017-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9634998</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8379022</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>349</DivisionNumber>
+          <DivisionVotesYeas>215</DivisionVotesYeas>
+          <DivisionVotesNays>28</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2017-06-21T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>199</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2017-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2017-06-21T19:30:18</EventStartDateTime>
+          <EventEndDateTime>2017-06-21T19:30:18</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-21T19:30:18</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-22T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>137</Number>
+          <Date>2017-06-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2017-06-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2017-06-22T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-06-22T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-22T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>139</Number>
+          <Date>2017-09-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>145</Number>
+          <Date>2017-10-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>146</Number>
+          <Date>2017-10-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>147</Number>
+          <Date>2017-10-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>150</Number>
+          <Date>2017-10-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>153</Number>
+          <Date>2017-10-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>158</Number>
+          <Date>2017-11-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2017-11-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2017-11-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-11-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-09T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>77765</PersonId>
+          <PersonOfficialFirstName>Douglas John</PersonOfficialFirstName>
+          <PersonOfficialLastName>Black</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Douglas John Black</PersonName>
+          <SenateSystemAffiliationId>3567</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>139</MeetingNumber>
+          <SpeechDateTime>2017-09-20T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/139db_2017-09-20-e#44</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/139db_2017-09-20-f#45</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/139db_2017-09-20-e#44</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>29971</PersonId>
+          <PersonOfficialFirstName>Leo</PersonOfficialFirstName>
+          <PersonOfficialLastName>Housakos</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Leo Housakos</PersonName>
+          <SenateSystemAffiliationId>2818</SenateSystemAffiliationId>
+          <CaucusShortNameEn>
+          </CaucusShortNameEn>
+          <CaucusShortNameFr>
+          </CaucusShortNameFr>
+          <CaucusShortName>
+          </CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>145</MeetingNumber>
+          <SpeechDateTime>2017-10-04T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/145db_2017-10-04-e#54</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/145db_2017-10-04-f#54</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/145db_2017-10-04-e#54</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-12-06T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>167</Number>
+          <Date>2017-12-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2017-11-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2017-12-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2017-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2017-12-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-12-06T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-12-06T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-12-06T12:02:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-12-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>168</Number>
+          <Date>2017-12-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2017-12-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2017-12-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-12-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-12-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>171</Number>
+          <Date>2017-12-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2017-12-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2017-12-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-12-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-12-12T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>8380353</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9059092</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9071643</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9337762</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>203</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States</DivisionSubject>
+      <DivisionVotesYeas>159</DivisionVotesYeas>
+      <DivisionVotesNays>109</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>270</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-03-06T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>204</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>42</DivisionVotesYeas>
+      <DivisionVotesNays>236</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>280</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-03-06T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>205</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States</DivisionSubject>
+      <DivisionVotesYeas>238</DivisionVotesYeas>
+      <DivisionVotesNays>42</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-03-06T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>349</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-23, Loi relative au précontrôle de personnes et de biens au Canada et aux États-Unis</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-23, An Act respecting the preclearance of persons and goods in Canada and the United States</DivisionSubject>
+      <DivisionVotesYeas>215</DivisionVotesYeas>
+      <DivisionVotesNays>28</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>243</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Border Strategies (Public Safety Canada)</TitleEn>
+      <TitleFr>Stratégies frontalières (Sécurité publique Canada)</TitleFr>
+      <Title>Border Strategies (Public Safety Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.publicsafety.gc.ca/cnt/brdr-strtgs/index-en.aspx</UrlEn>
+      <UrlFr>http://www.securitepublique.gc.ca/cnt/brdr-strtgs/index-fr.aspx</UrlFr>
+      <Url>http://www.publicsafety.gc.ca/cnt/brdr-strtgs/index-en.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder - Preclearance: Making it faster and easier to travel between Canada and the U.S. (Public Safety Canada)</TitleEn>
+      <TitleFr>Document d'information - Le précontrôle : Faciliter et accélérer les déplacements entre le Canada et les États-Unis (Sécurité public Canada)</TitleFr>
+      <Title>Backgrounder - Preclearance: Making it faster and easier to travel between Canada and the U.S. (Public Safety Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?nid=1086459</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?nid=1086459</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?nid=1086459</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada-U.S. Relations (Global Affairs Canada)</TitleEn>
+      <TitleFr>Relations canado-amérique (Affaires mondiales Canada)</TitleFr>
+      <Title>Canada-U.S. Relations (Global Affairs Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://can-am.gc.ca/relations/index.aspx?lang=eng</UrlEn>
+      <UrlFr>http://can-am.gc.ca/relations/index.aspx?lang=fra</UrlFr>
+      <Url>http://can-am.gc.ca/relations/index.aspx?lang=eng</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>United States and Canada Announce Preclearance Expansion (U.S. Department of Homeland Security)</TitleEn>
+      <TitleFr>United States and Canada Announce Preclearance Expansion (U.S. Department of Homeland Security) (disponible en Anglais seulement)</TitleFr>
+      <Title>United States and Canada Announce Preclearance Expansion (U.S. Department of Homeland Security)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.dhs.gov/news/2016/03/15/united-states-and-canada-announce-preclearance-expansion</UrlEn>
+      <UrlFr>https://www.dhs.gov/news/2016/03/15/united-states-and-canada-announce-preclearance-expansion</UrlFr>
+      <Url>https://www.dhs.gov/news/2016/03/15/united-states-and-canada-announce-preclearance-expansion</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Preclearance Locations (U.S. Customs and Border Protection)</TitleEn>
+      <TitleFr>Preclearance Locations (U.S. Customs and Border Protection) (disponible en Anglais seulement)</TitleFr>
+      <Title>Preclearance Locations (U.S. Customs and Border Protection)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.cbp.gov/border-security/ports-entry/operations/preclearance</UrlEn>
+      <UrlFr>https://www.cbp.gov/border-security/ports-entry/operations/preclearance</UrlFr>
+      <Url>https://www.cbp.gov/border-security/ports-entry/operations/preclearance</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Beyond the Border: A Shared Vision for Perimeter Security and Economic Competitiveness (U.S. Department of Homeland Security)</TitleEn>
+      <TitleFr>Beyond the Border: A Shared Vision for Perimeter Security and Economic Competitiveness (U.S. Department of Homeland Security) (disponible en Anglais seulement)</TitleFr>
+      <Title>Beyond the Border: A Shared Vision for Perimeter Security and Economic Competitiveness (U.S. Department of Homeland Security)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.dhs.gov/beyond-border</UrlEn>
+      <UrlFr>https://www.dhs.gov/beyond-border</UrlFr>
+      <Url>https://www.dhs.gov/beyond-border</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada takes action to ensure more efficient travel between Canada and U.S.</TitleEn>
+      <TitleFr>Le gouvernement du Canada prend des mesures pour assurer des déplacements plus efficaces entre le Canada et les États-Unis</TitleFr>
+      <Title>Government of Canada takes action to ensure more efficient travel between Canada and U.S.</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=3&amp;nid=1086479</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=3&amp;nid=1086479&amp;_ga=1.136906480.1187535728.1465993364</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=3&amp;nid=1086479</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Preclearance: Making it faster and easier to travel between Canada and the U.S.</TitleEn>
+      <TitleFr>Le précontrôle : Faciliter et accélérer les déplacements entre le Canada et les États-Unis</TitleFr>
+      <Title>Preclearance: Making it faster and easier to travel between Canada and the U.S.</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=1086459&amp;_ga=1.240717251.1187535728.1465993364</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=1086459&amp;_ga=1.216687062.1187535728.1465993364</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=1086459&amp;_ga=1.240717251.1187535728.1465993364</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2856</BibliographicNoticeId>
+      <Title>Preclearance bill raises concerns</Title>
+      <Author>Cardwell, Mark</Author>
+      <Publication>Canadian Lawyer</Publication>
+      <VolumePage>40(9):42-45</VolumePage>
+      <PublicationDate>September 2016</PublicationDate>
+      <Classification>Radar 21607813</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2857</BibliographicNoticeId>
+      <Title>Border security issues with US are piling up for new Canadian Government</Title>
+      <Author>Newark, Scott</Author>
+      <Publication>Inside Policy</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>16 August 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2858</BibliographicNoticeId>
+      <Title>Canada Introduces More Preclearance Legislation For People and Goods</Title>
+      <Author>Todgham Cherniak, Cyndee</Author>
+      <Publication>Canada-U.S. Blog</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>22 June 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2859</BibliographicNoticeId>
+      <Title>How Much Thicker is the Canada–U.S. Border? The Cost of Crossing the Border by Truck in the Pre- and Post 9/11 Eras</Title>
+      <Author>Brown, W. Mark</Author>
+      <Publication>Statistics Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>July 2015</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2860</BibliographicNoticeId>
+      <Title>Jusqu'à quel point la frontière entre le Canada et les États Unis s'est elle resserrée?  Le coût du passage de la frontière par camion avant et après le 11 septembre 2001</Title>
+      <Author>Brown, W. Mark</Author>
+      <Publication>Statistique Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Juillet 2015</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2861</BibliographicNoticeId>
+      <Title>A Discussion of the Economics of Preclearance with Proposed Measurement Methodologies</Title>
+      <Author>Arsenault, Jean-François, John C. Taylor, Marc-André Roy and Jean-François Pelletier</Author>
+      <Publication>Public Safety Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2862</BibliographicNoticeId>
+      <Title>Paramètres économiques du précontrôle : Étude documentaire, discussion et méthodes de mesure proposées</Title>
+      <Author>Arsenault, Jean-François, John C. Taylor, Marc-André Roy et Jean-François Pelletier</Author>
+      <Publication>Sécurité publique Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2863</BibliographicNoticeId>
+      <Title>U.S./Canada Border Clearance: It's Not as Easy as You Think</Title>
+      <Author>Costanzo, John T.</Author>
+      <Publication>Inbound Logistics</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>September 2013</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2864</BibliographicNoticeId>
+      <Title>Measuring the Costs of the Canada-US Border</Title>
+      <Author>Moens, Alexander and Nachum Gabler</Author>
+      <Publication>Fraser Institute</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>15 August 2012</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2865</BibliographicNoticeId>
+      <Title>Border Delays Re-Emerging Priority: Within-Country Dimensions for Canada</Title>
+      <Author>Nguyen, Trien T. and Randall M. Wigle</Author>
+      <Publication>Canadian Public Policy – Analyse de politiques</Publication>
+      <VolumePage>37(1): 49-59</VolumePage>
+      <PublicationDate>March 2011</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2866</BibliographicNoticeId>
+      <Title>Canadian-American Deal on a North American Security Perimeter a Step towards More Border Efficiency</Title>
+      <Author>Moens, Alexander</Author>
+      <Publication>Fraser Institute</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>8 January 2011</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2867</BibliographicNoticeId>
+      <Title>A Matter of Trust: Expanding the Preclearance of Commerce between Canada and the United States</Title>
+      <Author>Hart, Michael</Author>
+      <Publication>C. D. Howe Institute</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>September 2010</PublicationDate>
+      <Classification>HC116.5 C64</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2868</BibliographicNoticeId>
+      <Title>Mixed Signals at the Border: The Future of U.S.-Canada Preclearance Programs</Title>
+      <Author>Friedman, Kathryn Bryk, Anne Drost et al.</Author>
+      <Publication>Wilson Centre</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>8 December 2010</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2869</BibliographicNoticeId>
+      <Title>Beyond walls: re-inventing the Canada-United States borderlands</Title>
+      <Author>Konrad, Victor A. and Heather Nora Nicol</Author>
+      <Publication>Aldershot, England: Ashgate</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2008</PublicationDate>
+      <Classification>FC249 K66</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2947</BibliographicNoticeId>
+      <Title>Canadians welcome : they just need a train</Title>
+      <Author>Dean DeChiaro</Author>
+      <Publication>CQ magazine</Publication>
+      <VolumePage>75(1):11</VolumePage>
+      <PublicationDate>January 9, 2017</PublicationDate>
+      <Classification>Radar 22852705</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2953</BibliographicNoticeId>
+      <Title>Agreement on land, rail, marine, and air transport preclearance between the Government of Canada and the Government of the United States of America</Title>
+      <Author>Government of Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2015</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2954</BibliographicNoticeId>
+      <Title>Accord entre le Gouvernement du Canada et le Gouvernement des États-Unis d'Amérique relative au précontrôle dans les domaines du transport terrestre, ferroviaire, maritime et aérien</Title>
+      <Author>Government of Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2015</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3240</BibliographicNoticeId>
+      <Title>Rule (The) of law in Canada and the powers of the United States immigration officials on Canadian territory.</Title>
+      <Author>Alan Freckelton</Author>
+      <Publication>Canadian journal of administrative law &amp; practice</Publication>
+      <VolumePage>32(2):111-135</VolumePage>
+      <PublicationDate>May 2019</PublicationDate>
+      <Classification>Radar 32238422</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
