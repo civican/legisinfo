@@ -40,7 +40,7 @@ Whereas everyone has freedom of conscience and religion under section 2 of the `
 
 Whereas nothing in this Act affects the guarantee of freedom of conscience and religion;
 
-Whereas the Government of Canada recognizes that in the living conditions of Canadians, there are diverse circumstances and that different groups have unique needs, it commits to working with provinces, territories and civil society to facilitate access to palliative and end-of-life care, care and services for individuals living with Alzheimer's and dementia, appropriate mental health supports and services and culturally and spiritually appropriate end-of-life care for Indigenous patients;
+Whereas the Government of Canada recognizes that in the living conditions of Canadians, there are diverse circumstances and that different groups have unique needs, and it commits to working with provinces, territories and civil society to facilitate access to palliative and end-of-life care, care and services for individuals living with Alzheimer's and dementia, appropriate mental health supports and services and culturally and spiritually appropriate end-of-life care for Indigenous patients;
 
 And whereas the Government of Canada has committed to develop non-legislative measures that would support the improvement of a full range of options for end-of-life care, respect the personal convictions of health care providers and explore other situations — each having unique implications — in which a person may seek access to medical assistance in dying, namely situations giving rise to requests by mature minors, advance requests and requests where mental illness is the sole underlying medical condition;
 
@@ -130,7 +130,7 @@ the prescribing or providing by a medical practitioner or nurse practitioner of 
 
     they have made a voluntary request for medical assistance in dying that, in particular, was not made as a result of external pressure; and
 
-    they give informed consent to receive medical assistance in dying.
+    they give informed consent to receive medical assistance in dying after having been informed of the means that are available to relieve their suffering, including palliative care.
 
   **(2)** A person has a grievous and irremediable medical condition only if they meet all of the following criteria:
 
@@ -166,7 +166,7 @@ the prescribing or providing by a medical practitioner or nurse practitioner of 
 
     if the person has difficulty communicating, take all necessary measures to provide a reliable means by which the person may understand the information that is provided to them and communicate their decision.
 
-  **(4)** If the person requesting medical assistance in dying is unable to sign and date the request, another person — who is at least 18 years of age and who understands the nature of the request for medical assistance in dying — may do so in the person's presence, on the person's behalf and under the person's express direction.
+  **(4)** If the person requesting medical assistance in dying is unable to sign and date the request, another person — who is at least 18 years of age, who understands the nature of the request for medical assistance in dying and who does not know or believe that they are a beneficiary under the will of the person making the request, or a recipient, in any other way, of a financial or other material benefit resulting from that person's death — may do so in the person's presence, on the person's behalf and under the person's express direction.
 
   **(5)** Any person who is at least 18 years of age and who understands the nature of the request for medical assist­ance in dying may act as an independent witness, except if they
 
@@ -194,7 +194,7 @@ the prescribing or providing by a medical practitioner or nurse practitioner of 
 
 ### Section 241.3
 
-A medical practitioner or nurse practitioner who, in providing medical assistance in dying, knowingly fails to comply with all of the requirements set out in paragraphs 241.2(3)(b) to (h) and subsection 241.2(8) is guilty of an offence and is liable
+A medical practitioner or nurse practitioner who, in providing medical assistance in dying, knowingly fails to comply with all of the requirements set out in paragraphs 241.2(3)(b) to (i) and subsection 241.2(8) is guilty of an offence and is liable
 
 on conviction on indictment, to a term of imprisonment of not more than five years; or
 
@@ -226,11 +226,11 @@ The Act is amended by adding the following after section 241.3:
 
 ### Section 241.31
 
-  **(1)** Unless they are exempted under regulations made under subsection (3), a medical practitioner or nurse practitioner who receives a written request for medical assistance in dying must, in accordance with those regulations, provide the information required by those regulations to the recipient designated in those regulations or, if no recipient has been designated, to the Minister of Health.
+  **(1)** Unless they are exempted under regulations made under subsection (3), a medical practitioner or nurse practitioner who receives a written request for medical assistance in dying must, in accordance with those regulations, provide the information required by those regulations to the recipient designated in those regulations.
 
-  **(2)** Unless they are exempted under regulations made under subsection (3), a pharmacist who dispenses a substance in connection with the provision of medical assist­ance in dying must, in accordance with those regulations, provide the information required by those regulations to the recipient designated in those regulations or, if no recipient has been designated, to the Minister of Health.
+  **(2)** Unless they are exempted under regulations made under subsection (3), a pharmacist who dispenses a substance in connection with the provision of medical assist­ance in dying must, in accordance with those regulations, provide the information required by those regulations to the recipient designated in those regulations.
 
-  **(3)** The Minister of Health may make regulations
+  **(3)** The Minister of Health must make regulations that he or she considers necessary
 
     respecting the provision and collection, for the purpose of monitoring medical assistance in dying, of information relating to requests for, and the provision of, medical assistance in dying, including
 
@@ -248,7 +248,7 @@ The Act is amended by adding the following after section 241.3:
 
     exempting, on any terms that may be specified, a class of persons from the requirement set out in subsection (1) or (2).
 
-  **(3.1)** The Minister of Health, in cooperation with representatives of the provincial governments responsible for health, may establish guidelines on the information to be included on death certificates in cases where medical assistance in dying has been provided, which may include the way in which to clearly identify medical assistance in dying as the manner of death, as well as the illness, disease or disability that prompted the request for medical assistance in dying.
+  **(3.1)** The Minister of Health, after consultation with representatives of the provincial governments responsible for health, must establish guidelines on the information to be included on death certificates in cases where medical assistance in dying has been provided, which may include the way in which to clearly identify medical assist­ance in dying as the manner of death, as well as theillness, disease or disability that prompted the request for medical assistance in dying.
 
   **(4)** A medical practitioner or nurse practitioner who knowingly fails to comply with subsection (1), or a pharmacist who knowingly fails to comply with subsection (2),
 
@@ -329,7 +329,9 @@ Section 19 of the `Corrections and Conditional Release Act` is amended by adding
 
 ### Section 9.1
 
-The Minister of Justice and the Minister of Health must, no later than 180 days after the day on which this Act receives royal assent, initiate one or more independent reviews of issues relating to requests by mature minors for medical assistance in dying, to advance requests and to requests where mental illness is the sole underlying medical condition.
+  **(1)** The Minister of Justice and the Minister of Health must, no later than 180 days after the day on which this Act receives royal assent, initiate one or more independent reviews of issues relating to requests by mature minors for medical assistance in dying, to advance requests and to requests where mental illness is the sole underlying medical condition.
+
+  **(2)** The Minister of Justice and the Minister of Health must, no later than two years after the day on which a review is initiated, cause one or more reports on the review, including any findings or recommendations resulting from it, to be laid before each House of Parliament.
 
 
 ## Review of Act
@@ -345,5 +347,5 @@ The Minister of Justice and the Minister of Health must, no later than 180 days 
 
 ### Section 11
 
-Sections `4` and `5` come into force on a day to be fixed by order of the Governor in Council.
+Sections 4 and 5 come into force 12 months after the day on which this Act receives royal assent or on any earlier day that may be fixed by order of the Governor in Council.
 
