@@ -1,7 +1,5 @@
 # Bill C-6: An Act to amend the Citizenship Act and to make consequential amendments to another Act
 
-**Sponsor**: MINISTER OF IMMIGRATION, REFUGEES AND CITIZENSHIP
-
 ## Summary
 
 This enactment amends the `Citizenship Act` to, among other things,
