@@ -1,0 +1,1692 @@
+<Bills>
+  <Bill>
+    <Id>8433563</Id>
+    <NumberCode>C-25</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>25</Number>
+    <LongTitleEn>An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif et la Loi sur la concurrence</LongTitleFr>
+    <LongTitle>An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2018-05-01T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>25471</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Navdeep</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Bains</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Navdeep Bains</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Innovation, Science and Economic Development</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Innovation, des Sciences et du Développement économique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Innovation, Science and Economic Development</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>776</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Mississauga—Malton</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Mississauga—Malton</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Mississauga—Malton</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2018-05-01T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>199</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2016-09-28T15:12:38.427</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2016-12-09T10:59:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2017-06-21T16:11:09</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2017-06-21T18:30:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2017-11-23T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2018-03-22T18:30:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2018-05-01T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 28 September 2016, Minister of Innovation, Science and Economic Development introduced Bill C-25, An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 amends the Canada Business Corporations Act, the Canada Cooperatives Act and the Canada Not-for-profit Corporations Act to, among other things,&lt;br/&gt;&lt;br/&gt;•	reform some aspects of the process for electing directors of certain corporations and cooperatives;&lt;br/&gt;&lt;br/&gt;•	modernize communications between corporations or cooperatives and their shareholders or members;&lt;br/&gt;&lt;br/&gt;•	clarify that corporations and cooperatives are prohibited from issuing share certificates and warrants, in bearer form; and&lt;br/&gt;&lt;br/&gt;•	require certain corporations to place before the shareholders, at every annual meeting, information respecting diversity among directors and the members of senior management.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Competition Act to expand the concept of affiliation to a broader range of business organizations.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 28 septembre 2016, le Ministre de l'Innovation, des Sciences et du Développement économique a déposé le projet de loi C-25, Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif et la Loi sur la concurrence, à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 modifie la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives et la Loi canadienne sur les organisations à but non lucratif afin, notamment?: &lt;br/&gt;&lt;br/&gt;•	de réformer certains aspects du processus d'élection des administrateurs de certaines sociétés par actions et coopératives;&lt;br/&gt;&lt;br/&gt;•	de moderniser les communications entre les sociétés par actions et leurs actionnaires ou entre les coopératives et leurs membres ou leurs détenteurs de parts de placement;&lt;br/&gt;&lt;br/&gt;•	d'établir clairement qu'il est interdit aux sociétés et aux coopératives de délivrer des titres au porteur;&lt;br/&gt;&lt;br/&gt;•	d'exiger que certaines sociétés présentent aux actionnaires des renseignements relatifs à la diversité au sein des administrateurs et au sein des membres de la haute direction.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi sur la concurrence pour rendre la notion d'affiliation applicable à un plus large éventail d'organisations d'affaires.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 28 September 2016, Minister of Innovation, Science and Economic Development introduced Bill C-25, An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 amends the Canada Business Corporations Act, the Canada Cooperatives Act and the Canada Not-for-profit Corporations Act to, among other things,&lt;br/&gt;&lt;br/&gt;•	reform some aspects of the process for electing directors of certain corporations and cooperatives;&lt;br/&gt;&lt;br/&gt;•	modernize communications between corporations or cooperatives and their shareholders or members;&lt;br/&gt;&lt;br/&gt;•	clarify that corporations and cooperatives are prohibited from issuing share certificates and warrants, in bearer form; and&lt;br/&gt;&lt;br/&gt;•	require certain corporations to place before the shareholders, at every annual meeting, information respecting diversity among directors and the members of senior management.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Competition Act to expand the concept of affiliation to a broader range of business organizations.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2018</StatuteYear>
+    <StatuteChapter>8</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-09-28T15:12:38.427</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>83</Number>
+          <Date>2016-09-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-09-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-09-28T15:12:38.427</EventStartDateTime>
+          <EventEndDateTime>2016-09-28T15:12:38.427</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-09-28T15:12:38.427</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-09T10:59:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+          <StudyActivityId>9312369</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>98</Number>
+          <Date>2016-10-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>115</Number>
+          <Date>2016-11-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>125</Number>
+          <Date>2016-12-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9311406</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8445558</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - INDU</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - INDU</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - INDU</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2016-12-09T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>125</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2016-12-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2016-12-09T10:59:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-09T10:59:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-09T10:59:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9187770</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>25471</PersonId>
+          <PersonOfficialFirstName>Navdeep</PersonOfficialFirstName>
+          <PersonOfficialLastName>Bains</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Navdeep Bains</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>98</MeetingNumber>
+          <SpeechDateTime>2016-10-26T15:23:41</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9188078</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25501</PersonId>
+          <PersonOfficialFirstName>Diane</PersonOfficialFirstName>
+          <PersonOfficialLastName>Finley</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Diane Finley</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>98</MeetingNumber>
+          <SpeechDateTime>2016-10-26T15:51:19</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9188576</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>9137</PersonId>
+          <PersonOfficialFirstName>Brian</PersonOfficialFirstName>
+          <PersonOfficialLastName>Masse</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Brian Masse</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>98</MeetingNumber>
+          <SpeechDateTime>2016-10-26T16:20:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-03-22T09:30:07.89</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+          <StudyActivityId>9312369</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>155</Number>
+          <Date>2017-03-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2017-02-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2017-02-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2017-02-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2017-02-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2017-02-16T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2017-02-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2017-03-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2017-03-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21444</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>52</Number>
+          <Date>2017-03-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2017-03-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>8802825</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-03-22T09:30:07.89</EventStartDateTime>
+          <EventEndDateTime>2017-03-22T09:30:07.89</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-03-22T09:30:07.89</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-21T16:10:09</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>161</Number>
+          <Date>2017-04-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>198</Number>
+          <Date>2017-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>199</Number>
+          <Date>2017-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2017-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2017-06-21T16:10:09</EventStartDateTime>
+          <EventEndDateTime>2017-06-21T16:10:09</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-21T16:10:09</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-21T16:11:09</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>199</Number>
+          <Date>2017-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9634698</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8445560</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2017-06-21T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>199</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2017-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2017-06-21T16:11:09</EventStartDateTime>
+          <EventEndDateTime>2017-06-21T16:11:09</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-21T16:11:09</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-21T18:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>136</Number>
+          <Date>2017-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2017-06-21T18:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2017-06-21T18:30:00</EventStartDateTime>
+          <EventEndDateTime>2017-06-21T18:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-21T18:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-23T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>138</Number>
+          <Date>2017-09-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>147</Number>
+          <Date>2017-10-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>148</Number>
+          <Date>2017-10-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>150</Number>
+          <Date>2017-10-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>151</Number>
+          <Date>2017-10-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>160</Number>
+          <Date>2017-11-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>161</Number>
+          <Date>2017-11-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2017-11-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2017-11-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2017-11-23T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-11-23T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-23T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>14839</PersonId>
+          <PersonOfficialFirstName>Howard</PersonOfficialFirstName>
+          <PersonOfficialLastName>Wetston</PersonOfficialLastName>
+          <PersonMiddleName>I.</PersonMiddleName>
+          <PersonName>Howard Wetston</PersonName>
+          <SenateSystemAffiliationId>207812</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>138</MeetingNumber>
+          <SpeechDateTime>2017-09-19T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/138db_2017-09-19-e#188</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/138db_2017-09-19-f#188</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/138db_2017-09-19-e#188</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>95493</PersonId>
+          <PersonOfficialFirstName>Lucie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Moncion</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lucie Moncion</PersonName>
+          <SenateSystemAffiliationId>207814</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>147</MeetingNumber>
+          <SpeechDateTime>2017-10-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/147db_2017-10-17-e#49</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/147db_2017-10-17-f#50</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/147db_2017-10-17-e#49</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-12-14T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>173</Number>
+          <Date>2017-12-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>78</Number>
+          <Date>2017-11-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>79</Number>
+          <Date>2017-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>80</Number>
+          <Date>2017-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>81</Number>
+          <Date>2017-12-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16095</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des banques, du commerce et de l'économie</CommitteeNameFr>
+          <CommitteeAcronym>BANC</CommitteeAcronym>
+          <Number>82</Number>
+          <Date>2017-12-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Banking, Commerce and the Economy</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2017-12-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-12-14T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-12-14T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-12-14T10:31:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-02-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>174</Number>
+          <Date>2018-01-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report adopted</NameEn>
+          <NameFr>Adoption du rapport de comité</NameFr>
+          <Name>Committee report adopted</Name>
+          <Number>178</Number>
+          <Date>2018-02-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2018-02-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2018-02-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-02-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-02-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-03-22T18:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>179</Number>
+          <Date>2018-02-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>180</Number>
+          <Date>2018-02-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>181</Number>
+          <Date>2018-02-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>185</Number>
+          <Date>2018-02-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>187</Number>
+          <Date>2018-03-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>188</Number>
+          <Date>2018-03-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>189</Number>
+          <Date>2018-03-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-03-22T18:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-03-22T18:30:00</EventStartDateTime>
+          <EventEndDateTime>2018-03-22T18:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-22T18:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>199</Number>
+          <Date>2018-05-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2018-05-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2018-05-01T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-05-01T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-01T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2018-03-22T18:40:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>189</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2018-04-19T14:26:11.113</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>282</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2018-04-19T16:13:05.64</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>282</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8446299</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8840821</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9071757</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9833973</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>347</DivisionNumber>
+      <DivisionSubjectEn>Bill C-25, An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-25, Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif et la Loi sur la concurrence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-25, An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>124</DivisionVotesYeas>
+      <DivisionVotesNays>160</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>348</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-25, An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-25, Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif et la Loi sur la concurrence</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-25, An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act, and the Competition Act</DivisionSubject>
+      <DivisionVotesYeas>252</DivisionVotesYeas>
+      <DivisionVotesNays>32</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-06-21T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Government of Canada introduces a bill to promote corporate transparency and diversity</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose un projet de loi pour améliorer la transparence et favoriser la diversité au sein des sociétés</TitleFr>
+      <Title>The Government of Canada introduces a bill to promote corporate transparency and diversity</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/innovation-science-economic-development/news/2016/09/government-canada-introduces-bill-promote-corporate-transparency-diversity.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2016/09/gouvernement-canada-depose-projet-loi-ameliorer-transparence-favoriser-diversite-sein-societes.html</UrlFr>
+      <Url>https://www.canada.ca/en/innovation-science-economic-development/news/2016/09/government-canada-introduces-bill-promote-corporate-transparency-diversity.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>An Act to amend the Canada Corporations Business Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act</TitleEn>
+      <TitleFr>Loi modifiant la Loi canadienne sur les sociétés par actions, la Loi canadienne sur les coopératives, la Loi canadienne sur les organisations à but non lucratif, et la Loi sur la concurrence</TitleFr>
+      <Title>An Act to amend the Canada Corporations Business Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/innovation-science-economic-development/news/2016/09/government-canada-introduces-bill-promote-corporate-transparency-diversity.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2016/09/gouvernement-canada-depose-projet-loi-ameliorer-transparence-favoriser-diversite-sein-societes.html</UrlFr>
+      <Url>https://www.canada.ca/en/innovation-science-economic-development/news/2016/09/government-canada-introduces-bill-promote-corporate-transparency-diversity.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Enhancing Business Frameworks and Promoting Inclusive Economic Growth</TitleEn>
+      <TitleFr>Renforcer l'encadrement des entreprises et favoriser la croissance économique inclusive</TitleFr>
+      <Title>Enhancing Business Frameworks and Promoting Inclusive Economic Growth</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/innovation-science-economic-development/news/2016/09/enhancing-business-frameworks-promoting-inclusive-economic-growth.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2016/09/renforcer-encadrement-entreprises-favoriser-croissance-economique-inclusive.html</UrlFr>
+      <Url>https://www.canada.ca/en/innovation-science-economic-development/news/2016/09/enhancing-business-frameworks-promoting-inclusive-economic-growth.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Élection et diversité au conseil et à la haute direction des sociétés canadiennes: que propose le projet de loi C-25?  Yvan Allaire, François Dauphin. Montréal : Institut sur la gouvernance des d'organisations privées et publiques (IGOPP). Novembre 2016. 5 pages. (Available in french only)</TitleEn>
+      <TitleFr>Élection et diversité au conseil et à la haute direction des sociétés canadiennes: que propose le projet de loi C-25?  Yvan Allaire, François Dauphin. Montréal : Institut sur la gouvernance des d'organisations privées et publiques (IGOPP). Novembre 2016. 5 pages.</TitleFr>
+      <Title>Élection et diversité au conseil et à la haute direction des sociétés canadiennes: que propose le projet de loi C-25?  Yvan Allaire, François Dauphin. Montréal : Institut sur la gouvernance des d'organisations privées et publiques (IGOPP). Novembre 2016. 5 pages. (Available in french only)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://igopp.org/wp-content/uploads/2016/11/Allaire-et-Dauphin-Modifications----la-loi-canadienne-sur-les-soci--t--s-par-actions_IGOPP.pdf</UrlEn>
+      <UrlFr>https://igopp.org/wp-content/uploads/2016/11/Allaire-et-Dauphin-Modifications----la-loi-canadienne-sur-les-soci--t--s-par-actions_IGOPP.pdf</UrlFr>
+      <Url>https://igopp.org/wp-content/uploads/2016/11/Allaire-et-Dauphin-Modifications----la-loi-canadienne-sur-les-soci--t--s-par-actions_IGOPP.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada brings transparency and diversity to boardrooms</TitleEn>
+      <TitleFr>Le gouvernement du Canada favorise la transparence et la diversité au sein des conseils d'administration</TitleFr>
+      <Title>Government of Canada brings transparency and diversity to boardrooms</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/innovation-science-economic-development/news/2018/05/government-of-canada-brings-transparency-and-diversity-to-boardrooms.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/innovation-sciences-developpement-economique/nouvelles/2018/05/le-gouvernement-du-canada-favorise-la-transparence-et-la-diversite-au-sein-des-conseils-dadministration.html</UrlFr>
+      <Url>https://www.canada.ca/en/innovation-science-economic-development/news/2018/05/government-of-canada-brings-transparency-and-diversity-to-boardrooms.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2976</BibliographicNoticeId>
+      <Title>Women on boards and the 'comply or explain' rule</Title>
+      <Author>Caroline Moreau</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>41(3):42</VolumePage>
+      <PublicationDate>March 2017</PublicationDate>
+      <Classification>Radar 23530870</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2967</BibliographicNoticeId>
+      <Title>Bill would vanquish 'zombie' directors</Title>
+      <Author>Barbara Shecter</Author>
+      <Publication>National Post</Publication>
+      <VolumePage>p.FP.1</VolumePage>
+      <PublicationDate>Sep 30, 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2968</BibliographicNoticeId>
+      <Title>Canada : An Act to amend the Canada Corporations Business Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act</Title>
+      <Author>
+      </Author>
+      <Publication>MENA Report</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Sep 29, 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2969</BibliographicNoticeId>
+      <Title>Canada board diversity proposal could affect 600 TSX companies</Title>
+      <Author>Josh Wingrove</Author>
+      <Publication>Edmonton Journal</Publication>
+      <VolumePage>p.C.3</VolumePage>
+      <PublicationDate>Oct 1, 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2970</BibliographicNoticeId>
+      <Title>Bains will consider targets if no improvement to diversity on corporate boards</Title>
+      <Author>Joanna Smith</Author>
+      <Publication>Canadian Press</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Oct 26, 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2971</BibliographicNoticeId>
+      <Title>Diversité: Ottawa envisage d'imposer des cibles aux societes cotees en bourse</Title>
+      <Author>Joanna Smith</Author>
+      <Publication>Presse Canadienne</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Oct 26, 2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2951</BibliographicNoticeId>
+      <Title>Modernizing federal corporate law</Title>
+      <Author>Elizabeth Raymer</Author>
+      <Publication>Canadian lawyer</Publication>
+      <VolumePage>41(1):52-53</VolumePage>
+      <PublicationDate>January 2017</PublicationDate>
+      <Classification>Radar 22842924</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3300</BibliographicNoticeId>
+      <Title>Board gender diversity : debate and practice</Title>
+      <Author>Cunningham, Lawrence A.</Author>
+      <Publication>Canadian business law journal</Publication>
+      <VolumePage>63(2): p.244-262</VolumePage>
+      <PublicationDate>June 2020</PublicationDate>
+      <Classification>Radar 36356784</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
