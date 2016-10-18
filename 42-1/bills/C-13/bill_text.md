@@ -1,7 +1,5 @@
 # Bill C-13: An Act to amend the Food and Drugs Act, the Hazardous Products Act, the Radiation Emitting Devices Act, the Canadian Environmental Protection Act, 1999, the Pest Control Products Act and the Canada Consumer Product Safety Act and to make related amendments to another Act
 
-**Sponsor**: MINISTER OF INTERNATIONAL TRADE
-
 ## Summary
 
 This enactment enables Canada to implement the Agreement on Trade Facilitation, which was done at Geneva by members of the World Trade Organization, including Canada, on November 27, 2014, as an amendment to Annex 1A of the Marrakesh Agreement Establishing the World Trade Organization.
@@ -554,7 +552,7 @@ Section 118 of the Act is amended by adding the following after subsection (1):
 
     **label** includes any written, printed or graphic matter
 
-    that is or is to be applied or attached to or included in, or that accompanies or is to accompany, a pest control product or a package; **or**
+    that is or is to be applied or attached to or included in, or that accompanies or is to accompany, a pest control product or a package; or
 
     that belongs to a pest control product and is transmitted electronically, in accordance with the regulations. (**étiquette**)
 
