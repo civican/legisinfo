@@ -1,0 +1,687 @@
+<Bills>
+  <Bill>
+    <Id>8374778</Id>
+    <NumberCode>C-28</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>28</Number>
+    <LongTitleEn>An Act to amend the Criminal Code (victim surcharge)</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code criminel (suramende compensatoire)</LongTitleFr>
+    <LongTitle>An Act to amend the Criminal Code (victim surcharge)</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2016-10-21T12:10:55.253</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89494</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jody</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Wilson-Raybould</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jody Wilson-Raybould</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>933</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Vancouver Granville</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Vancouver Granville</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Vancouver Granville</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2016-10-21T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>95</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2016-10-21T12:10:55.253</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 21 October 2016, Minister of Justice introduced Bill C-28, An Act to amend the Criminal Code (victim surcharge), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-28 amends the victim surcharge provisions in the Criminal Code to&lt;br/&gt;&lt;br/&gt;•	allow the court to exempt an offender from the payment of a victim surcharge in cases where the offender satisfies the court that the payment would cause the offender undue hardship and to provide the court with guidance with respect to what constitutes undue hardship;&lt;br/&gt;&lt;br/&gt;•	provide that a victim surcharge is to be paid for each offence, with an exception for certain administration of justice offences if the total amount of surcharges imposed on an offender for these types of offences would be disproportionate in the circumstances;&lt;br/&gt;&lt;br/&gt;•	require courts to provide reasons for the application of any exception for certain administration of justice offences or any exemption from the payment of a victim surcharge; and&lt;br/&gt;&lt;br/&gt;•	clarify that these amendments apply to any offender who is sentenced after the day on which the amendments come into force, regardless of whether or not the offence was committed before that day.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 21 octobre 2016, le Ministre de la Justice a déposé le projet de loi C-28, Loi modifiant le Code criminel (suramende compensatoire), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La projet de loi C-28 modifie les dispositions du Code criminel portant sur la suramende compensatoire, en vue?: &lt;br/&gt;&lt;br/&gt;•	de permettre au tribunal d'exempter un contrevenant du paiement de la suramende compensatoire lorsque ce dernier le convainc qu'un tel paiement lui causerait un préjudice injustifié et de donner au tribunal des indications sur ce que constitue un préjudice injustifié;&lt;br/&gt;&lt;br/&gt;•	de prévoir le versement d'une suramende compensatoire pour chaque infraction, sauf à l'égard de certaines infractions contre l'administration de la justice lorsque le cumul des suramendes compensatoires pour ces types d'infractions serait disproportionné dans les circonstances;&lt;br/&gt;&lt;br/&gt;•	d'exiger que le tribunal motive sa décision lorsqu'il applique une exception pour certaines infractions contre l'administration de la justice ou accorde une exemption pour le paiement d'une suramende compensatoire;&lt;br/&gt;&lt;br/&gt;•	de préciser que les présentes modifications s'appliqueront à tout contrevenant à qui une peine est infligée après l'entrée en vigueur des modifications, même si l'infraction a été commise avant celle-ci.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available. &lt;br/&gt;&lt;br/&gt;On 21 October 2016, Minister of Justice introduced Bill C-28, An Act to amend the Criminal Code (victim surcharge), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-28 amends the victim surcharge provisions in the Criminal Code to&lt;br/&gt;&lt;br/&gt;•	allow the court to exempt an offender from the payment of a victim surcharge in cases where the offender satisfies the court that the payment would cause the offender undue hardship and to provide the court with guidance with respect to what constitutes undue hardship;&lt;br/&gt;&lt;br/&gt;•	provide that a victim surcharge is to be paid for each offence, with an exception for certain administration of justice offences if the total amount of surcharges imposed on an offender for these types of offences would be disproportionate in the circumstances;&lt;br/&gt;&lt;br/&gt;•	require courts to provide reasons for the application of any exception for certain administration of justice offences or any exemption from the payment of a victim surcharge; and&lt;br/&gt;&lt;br/&gt;•	clarify that these amendments apply to any offender who is sentenced after the day on which the amendments come into force, regardless of whether or not the offence was committed before that day.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-10-21T12:10:55.253</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>95</Number>
+          <Date>2016-10-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-10-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-10-21T12:10:55.253</EventStartDateTime>
+          <EventEndDateTime>2016-10-21T12:10:55.253</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-10-21T12:10:55.253</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8520485</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister of Justice announces changes to the federal victim surcharge provisions</TitleEn>
+      <TitleFr>La ministre de la Justice propose des modifications à des dispositions de la suramende compensatoire fédérale</TitleFr>
+      <Title>Minister of Justice announces changes to the federal victim surcharge provisions</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-justice/news/2016/10/minister-justice-announces-changes-federal-victim-surcharge-provisions.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-justice/nouvelles/2016/10/ministre-justice-propose-modifications-dispositions-suramende-compensatoire-federale.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-justice/news/2016/10/minister-justice-announces-changes-federal-victim-surcharge-provisions.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Federal Victim Surcharge</TitleEn>
+      <TitleFr>Suramende compensatoire fédérale</TitleFr>
+      <Title>Federal Victim Surcharge</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-justice/news/2016/10/federal-victim-surcharge.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-justice/nouvelles/2016/10/suramende-compensatoire-federale.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-justice/news/2016/10/federal-victim-surcharge.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Court discretion on federal victim surcharges</TitleEn>
+      <TitleFr>Pouvoir discrétionnaire des tribunaux en matière de suramendes compensatoires fédérales</TitleFr>
+      <Title>Court discretion on federal victim surcharges</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/sentencing-peine/ld-dl.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/jp-cj/victimes-victims/peine-sentencing/dl-ld.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/sentencing-peine/ld-dl.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-28: An Act to amend the Criminal Code (victim surcharge)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-28 : Loi modifiant le Code criminel (suramende compensatoire)</TitleFr>
+      <Title>Charter Statement - Bill C-28: An Act to amend the Criminal Code (victim surcharge)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c28.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c28.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c28.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>News Articles (NewsDesk)</TitleEn>
+      <TitleFr>Articles de journaux (InfoMedia)</TitleFr>
+      <Title>News Articles (NewsDesk)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://ww2.infomedia.gc.ca/parl/en?q=%28%22C%2028%22%20OR%20LEGISLATION%20OR%20%28%22BILL%20PARLIAMENT%22~4%29%20OR%20PARLEMENT%20OR%20%22PROJET%20DE%20LOI%22%29%20AND%20%28%28%22CRIMINAL%20CODE%22%20AND%20%22VICTIM%20SURCHARGE%22%29%20OR%20%28%22CODE%20CRIMINEL%22%20AND%20%22SURAMENDE%20COMPENSATOIRE%22%29%29&amp;date_range=T</UrlEn>
+      <UrlFr>http://ww2.infomedia.gc.ca/parl/fr?q=%28%22C%2028%22%20OR%20LEGISLATION%20OR%20%28%22BILL%20PARLIAMENT%22~4%29%20OR%20PARLEMENT%20OR%20%22PROJET%20DE%20LOI%22%29%20AND%20%28%28%22CRIMINAL%20CODE%22%20AND%20%22VICTIM%20SURCHARGE%22%29%20OR%20%28%22CODE%20CRIMINEL%22%20AND%20%22SURAMENDE%20COMPENSATOIRE%22%29%29&amp;date_range=T</UrlFr>
+      <Url>http://ww2.infomedia.gc.ca/parl/en?q=%28%22C%2028%22%20OR%20LEGISLATION%20OR%20%28%22BILL%20PARLIAMENT%22~4%29%20OR%20PARLEMENT%20OR%20%22PROJET%20DE%20LOI%22%29%20AND%20%28%28%22CRIMINAL%20CODE%22%20AND%20%22VICTIM%20SURCHARGE%22%29%20OR%20%28%22CODE%20CRIMINEL%22%20AND%20%22SURAMENDE%20COMPENSATOIRE%22%29%29&amp;date_range=T</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Provisions of interest to victims of crime (Department of Justice Canada)</TitleEn>
+      <TitleFr>Dispositions d'intérêt pour les victimes d'actes criminels (Ministère de la Justice du Canada)</TitleFr>
+      <Title>Provisions of interest to victims of crime (Department of Justice Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/code.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/jp-cj/victimes-victims/code.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/code.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Victims Fund (Department of Justice Canada)</TitleEn>
+      <TitleFr>Le Fonds d'aide aux victimes (Ministère de la Justice du Canada)</TitleFr>
+      <Title>Victims Fund (Department of Justice Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/fund-fina/cj-jp/fund-fond/index.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/fina-fund/jp-cj/fond-fund/index.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/fund-fina/cj-jp/fund-fond/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Policy Centre for Victims Issues (Department of Justice Canada)</TitleEn>
+      <TitleFr>Centre de la politique concernant les victimes (Ministère de la Justice du Canada)</TitleFr>
+      <Title>Policy Centre for Victims Issues (Department of Justice Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/jp-cj/victimes-victims/</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Victim Services Directory (Department of Justice Canada)</TitleEn>
+      <TitleFr>Répertoire des services aux victimes (Ministère de la Justice du Canada)</TitleFr>
+      <Title>Victim Services Directory (Department of Justice Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/vsd-rsv/index.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/jp-cj/victimes-victims/rsv-vsd/index.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/cj-jp/victims-victimes/vsd-rsv/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Federal Ombudsman for Victims of Crime</TitleEn>
+      <TitleFr>Bureau de l'ombudsman fédéral des victimes d'actes criminels</TitleFr>
+      <Title>Office of the Federal Ombudsman for Victims of Crime</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.victimsfirst.gc.ca/index.html</UrlEn>
+      <UrlFr>http://www.victimesdabord.gc.ca/index.html</UrlFr>
+      <Url>http://www.victimsfirst.gc.ca/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canadian Resource Centre for Victims of Crime</TitleEn>
+      <TitleFr>Centre canadien des ressources pour les victimes de crimes</TitleFr>
+      <Title>Canadian Resource Centre for Victims of Crime</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://crcvc.ca/</UrlEn>
+      <UrlFr>https://crcvc.ca/fr/</UrlFr>
+      <Url>https://crcvc.ca/</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3048</BibliographicNoticeId>
+      <Title>"5.6. Victims of Crime". Public Prosecution Service of Canada Deskbook</Title>
+      <Author>Public Prosecution Service of Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>15 January 2017</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3049</BibliographicNoticeId>
+      <Title>« 5.6 Les victimes d'actes criminels ». Guide du Service des poursuites pénales du Canada</Title>
+      <Author>Service des poursuites pénales du Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>15 janvier 2017</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3050</BibliographicNoticeId>
+      <Title>The Federal Victim Surcharge in Saskatchewan</Title>
+      <Author>Susan McDonald, Melissa Northcott and Menaka Raguparan. Department of Justice Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3051</BibliographicNoticeId>
+      <Title>La suramende compensatoire fédérale en Saskatchewan</Title>
+      <Author>Susan McDonald, Melissa Northcott et Menaka Raguparan. Ministère de la Justice du Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2014</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3052</BibliographicNoticeId>
+      <Title>A Summary of Research into the Federal Victim Surcharge in New Brunswick and the Northwest Territories</Title>
+      <Author>Lisa Warrilow and Susan McDonald. Department of Justice Canada</Author>
+      <Publication>Victims of Crime Research Digest</Publication>
+      <VolumePage>2008(1):21-24</VolumePage>
+      <PublicationDate>Spring 2008</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3053</BibliographicNoticeId>
+      <Title>Résumé d'études sur la suramende compensatoire fédérale au Nouveau-Brunswick et dans les Territoires du Nord-Ouest</Title>
+      <Author>Lisa Warrilow et Susan McDonald. Ministère de la Justice du Canada</Author>
+      <Publication>Recueil des recherches sur les victimes d'actes criminels</Publication>
+      <VolumePage>2008(1):22-25</VolumePage>
+      <PublicationDate>Printemps 2008</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3054</BibliographicNoticeId>
+      <Title>Federal Victim Surcharge in New Brunswick: An Operational Review</Title>
+      <Author>M.A. Law and S. M. Sullivan. Department of Justice Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3055</BibliographicNoticeId>
+      <Title>Imposition de la suramende compensatoire fédérale au Nouveau-Brunswick : un examen opérationnel</Title>
+      <Author>M.A. Law et S. M. Sullivan. Ministère de la Justice du Canada</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2006</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3056</BibliographicNoticeId>
+      <Title>"Victim Surcharge". Canadian Criminal Procedure</Title>
+      <Author>Roger E. Salhany</Author>
+      <Publication>Canada Law Book</Publication>
+      <VolumePage>1994-present (loose-leaf). p. 8.1130</VolumePage>
+      <PublicationDate>
+      </PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3057</BibliographicNoticeId>
+      <Title>Squeezing Blood from the Stone: Narrative and Judicial Resistance to the Mandatory Victim Surcharge (Available in English only / disponible en Anglais seulement)</Title>
+      <Author>Graham Mayeda</Author>
+      <Publication>Canadian Criminal Law Review/Revue canadienne de droit pénal</Publication>
+      <VolumePage>21(2): 195-235</VolumePage>
+      <PublicationDate>2016</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3058</BibliographicNoticeId>
+      <Title>The Law of Minimum Sentences: Judicial Responses and Responsibility (Available in English only / disponible en Anglais seulement)</Title>
+      <Author>David M. Paciocco</Author>
+      <Publication>Canadian Criminal Law Review/Revue canadienne de droit pénal</Publication>
+      <VolumePage>19(2): 173-229</VolumePage>
+      <PublicationDate>March 2015</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3059</BibliographicNoticeId>
+      <Title>Parliamentary Restrictions on Judicial Discretion in Sentencing: A Defence of Mandatory Minimum Sentences (Available in English only / disponible en Anglais seulement)</Title>
+      <Author>Lincoln Caylor and Gannon G. Beaulne. Macdonald-Laurier Institute</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>May 2014</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3060</BibliographicNoticeId>
+      <Title>Peines minimales et principes de justice fondamentale : Une lecture comparée des articles 12 et 7 de la Charte (Available in French only / disponible en français seulement)</Title>
+      <Author>Julie Desrosiers</Author>
+      <Publication>Canadian Criminal Law Review/Revue canadienne de droit pénal</Publication>
+      <VolumePage>17(2) : 121-153</VolumePage>
+      <PublicationDate>Avril 2013</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
