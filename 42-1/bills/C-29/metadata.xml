@@ -1,0 +1,1632 @@
+<Bills>
+  <Bill>
+    <Id>8519336</Id>
+    <NumberCode>C-29</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>29</Number>
+    <LongTitleEn>A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</LongTitleEn>
+    <LongTitleFr>Loi n&lt;sup&gt;o&lt;/sup&gt; 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</LongTitleFr>
+    <LongTitle>A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</LongTitle>
+    <ShortTitleEn>Budget Implementation Act, 2016, No. 2</ShortTitleEn>
+    <ShortTitleFr>Loi n&lt;sup&gt;o&lt;/sup&gt; 2 d'exécution du budget de 2016</ShortTitleFr>
+    <ShortTitle>Budget Implementation Act, 2016, No. 2</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2016-12-15T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88992</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bill</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Morneau</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bill Morneau</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>822</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Toronto Centre</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Toronto-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Toronto Centre</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2016-12-15T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>89</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2016-10-25T10:58:12</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2016-11-15T18:45:05</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2016-12-06T17:45:47</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2016-12-07T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2016-12-08T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2016-12-13T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2016-12-15T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On November 22, 2016, the following motion was adopted by the Senate:
+&lt;br /&gt;&lt;br /&gt;That, in accordance with rule 10-11(1), the &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1013" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures, introduced in the House of Commons on October 25, 2016, in advance of the said bill coming before the Senate;
+
+&lt;br /&gt;&lt;br /&gt;That the &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1013" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to meet for the purposes of its study of the subject matter of Bill C-29 even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto;
+
+&lt;br /&gt;&lt;br /&gt;That, in addition, and notwithstanding any normal practice:
+
+&lt;br /&gt;&lt;br /&gt;1. The following committees be separately authorized to examine the subject matter of the following elements contained in Bill C-29 in advance of it coming before the Senate:
+
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;(a) the &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1047" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 1 and 2 of Part 4; and
+
+&lt;br /&gt;&lt;br /&gt;(b) the&lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;comm_id=1003&amp;amp;Language=E" target="_blank"&gt; Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 3, 4, 5, 6 and 7 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;2. The various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-29 be authorized to meet for the purposes of their studies of those elements even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto;
+
+&lt;br /&gt;&lt;br /&gt;3. The various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-29 submit their final reports to the Senate no later than December 6, 2016;
+
+&lt;br /&gt;&lt;br /&gt;4. As the reports from the various committees authorized to examine the subject matter of particular elements of Bill C-29 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; and
+
+&lt;br /&gt;&lt;br /&gt;5. The &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1013" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be simultaneously authorized to take any reports tabled under point four into consideration during its study of the subject matter of all of Bill C-29.
+&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 22 novembre 2016, la motion suivante a été adoptée par le Sénat:&lt;br /&gt;&lt;br /&gt;Que, conformément à l'article 10-11(1) du Règlement, le &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;comm_id=1013&amp;amp;Language=F" target="_blank"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à étudier la teneur complète du projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en œuvre d'autres mesures, déposé à la Chambre des communes le 25 octobre 2016, avant que ce projet de loi soit soumis au Sénat;
+
+&lt;br /&gt;&lt;br /&gt;Que le &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;comm_id=1013&amp;amp;Language=F" target="_blank"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à se réunir pour les fins de son examen de la teneur du projet de loi C-29 même si le Sénat siège à ce moment-là, l'application de l'article 12-18(1) du Règlement étant suspendue à cet égard;
+
+&lt;br /&gt;&lt;br /&gt;Que, de plus, et nonobstant toute pratique habituelle :
+
+&lt;br /&gt;&lt;br /&gt;1. Les comités suivants soient individuellement autorisés à examiner la teneur des éléments suivants du projet de loi C-29 avant qu'il soit présenté au Sénat :
+
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;a) le &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;comm_id=1047&amp;amp;Language=F" target="_blank"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; : les éléments des sections 1 et 2 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;b) le &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=F&amp;amp;comm_id=1003" target="_blank"&gt;Comité sénatorial permanent des banques et du commerce&lt;/a&gt; : les éléments des sections 3, 4, 5, 6 et 7 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;2. Chacun des différents comités indiqués au point numéro un, qui sont autorisés à examiner la teneur de certains éléments du projet de loi C-29, soit autorisé à siéger pour les fins de son étude, même si le Sénat siège à ce moment-là, l'application de l'article 12-18(1) du Règlement étant suspendue à cet égard;
+
+&lt;br /&gt;&lt;br /&gt;3. Chacun des différents comités indiqués au point numéro un, qui sont autorisés à examiner la teneur de certains éléments du projet de loi C-29, soumette son rapport final au Sénat au plus tard le 6 décembre 2016; 
+
+&lt;br /&gt;&lt;br /&gt;4. Au fur et à mesure que les rapports des comités autorisés à examiner la teneur de certains éléments du projet de loi C-29 seront déposés au Sénat, l'étude de ces rapports soit inscrite à l'ordre du jour de la prochaine séance; 
+
+&lt;br /&gt;&lt;br /&gt;5. Le &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;comm_id=1013&amp;amp;Language=F" target="_blank"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit simultanément autorisé à prendre en considération les rapports déposés conformément au point numéro quatre au cours de son examen de la teneur complète du projet de loi C-29.
+&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On November 22, 2016, the following motion was adopted by the Senate:
+&lt;br /&gt;&lt;br /&gt;That, in accordance with rule 10-11(1), the &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1013" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures, introduced in the House of Commons on October 25, 2016, in advance of the said bill coming before the Senate;
+
+&lt;br /&gt;&lt;br /&gt;That the &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1013" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to meet for the purposes of its study of the subject matter of Bill C-29 even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto;
+
+&lt;br /&gt;&lt;br /&gt;That, in addition, and notwithstanding any normal practice:
+
+&lt;br /&gt;&lt;br /&gt;1. The following committees be separately authorized to examine the subject matter of the following elements contained in Bill C-29 in advance of it coming before the Senate:
+
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;(a) the &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1047" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 1 and 2 of Part 4; and
+
+&lt;br /&gt;&lt;br /&gt;(b) the&lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;comm_id=1003&amp;amp;Language=E" target="_blank"&gt; Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 3, 4, 5, 6 and 7 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;2. The various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-29 be authorized to meet for the purposes of their studies of those elements even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto;
+
+&lt;br /&gt;&lt;br /&gt;3. The various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-29 submit their final reports to the Senate no later than December 6, 2016;
+
+&lt;br /&gt;&lt;br /&gt;4. As the reports from the various committees authorized to examine the subject matter of particular elements of Bill C-29 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; and
+
+&lt;br /&gt;&lt;br /&gt;5. The &lt;a href="http://www.parl.gc.ca/sencommitteebusiness/CommitteeStudies.aspx?parl=42&amp;amp;ses=1&amp;amp;Language=E&amp;amp;comm_id=1013" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be simultaneously authorized to take any reports tabled under point four into consideration during its study of the subject matter of all of Bill C-29.
+&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 25 October 2016, Minister of Finance introduced Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (Budget Implementation Act, 2016, No. 2), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements certain income tax measures proposed in the March 22, 2016 budget by&lt;br/&gt;•	eliminating the eligible capital property rules and introducing a new class of depreciable property;&lt;br/&gt;•	introducing rules to prevent the avoidance of the shareholder loan rules using back-to-back arrangements;&lt;br/&gt;•	excluding derivatives from the application of the inventory valuation rules;&lt;br/&gt;•	ensuring that the return on a linked note retains the same character whether it is earned at maturity or reflected in a secondary market sale;&lt;br/&gt;•	clarifying the tax treatment of emissions allowances and eliminating the double taxation of certain free emissions allowances;&lt;br/&gt;•	introducing rules so that any accrued foreign exchange gains on a foreign currency debt will be realized when the debt becomes a parked obligation;&lt;br/&gt;•	ensuring that amounts are not inappropriately received tax-free by a policyholder as a result of a disposition of an interest in a life insurance policy;&lt;br/&gt;•	preventing the misuse of an exception in the anti-avoidance rules in the Income Tax Act for cross-border surplus-stripping transactions;&lt;br/&gt;•	indexing to inflation the maximum benefit amounts and the phase-out thresholds under the Canada child benefit, beginning in the 2020–21 benefit year;&lt;br/&gt;•	amending the anti-avoidance rules in the Income Tax Act that prevent the multiplication of access to the small business deduction and the avoidance of the business limit and the taxable capital limit;&lt;br/&gt;•	ensuring that an exchange of shares of a mutual fund corporation or investment corporation that results in the investor switching between funds will be considered for tax purposes to be a disposition at fair market value;&lt;br/&gt;•	implementing the country-by-country reporting standards recommended by the Organisation for Economic Co-operation and Development;&lt;br/&gt;•	clarifying the application of anti-avoidance rules in the Income Tax Act for back-to-back loans to multiple intermediary structures and character substitution; and&lt;br/&gt;•	introducing rules to prevent the avoidance of withholding tax on rents, royalties and similar payments using back-to-back arrangements.&lt;br/&gt;&lt;br/&gt;Part 1 implements other income tax measures confirmed in the March 22, 2016 budget by&lt;br/&gt;•	allowing greater flexibility for recognizing charitable donations made by an individual's former graduated rate estate;&lt;br/&gt;•	clarifying what types of investment funds are excluded from the loss restriction event rules that otherwise limit a trust's use of certain tax attributes;&lt;br/&gt;•	ensuring that income arising in certain trusts on the death of the trust's primary beneficiary is taxed in the trust and not in the hands of that beneficiary, subject to a joint election for certain testamentary trusts to report the income in that beneficiary's final tax return;&lt;br/&gt;•	clarifying that the Canada Revenue Agency and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase; and&lt;br/&gt;•	implementing the common reporting standard recommended by the Organisation for Economic Co-operation and Development for the automatic exchange of financial account information between tax authorities.&lt;br/&gt;&lt;br/&gt;Part 1 also amends the Employment Insurance Act and various regulations to replace the term "child tax benefit" with "Canada child benefit".&lt;br/&gt;&lt;br/&gt;Part 2 implements certain goods and services tax and harmonized sales tax (GST/HST) measures proposed or confirmed in the March 22, 2016 budget by&lt;br/&gt;•	adding certain exported call centre services to the list of GST/HST zero-rated exports;&lt;br/&gt;•	strengthening the test for determining whether two corporations, or a partnership and a corporation, can be considered closely related;&lt;br/&gt;•	ensuring that the application of the GST/HST is unaffected by income tax amendments that convert eligible capital property into a new class of depreciable property; and&lt;br/&gt;•	clarifying that the Canada Revenue Agency and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase.&lt;br/&gt;&lt;br/&gt;Part 3 implements an excise measure confirmed in the March 22, 2016 budget by clarifying that the Canada Revenue Agency and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase.&lt;br/&gt;&lt;br/&gt;Division 1 of Part 4 amends the Employment Insurance Act to specify what does not constitute suitable employment for the purposes of certain provisions of the Act.&lt;br/&gt;&lt;br/&gt;Division 2 of Part 4 amends the Old Age Security Act to provide that, in the case of low-income couples who have to live apart for reasons not attributable to either of them, the amount of the allowance is to be based on the income of the allowance recipient only.&lt;br/&gt;Division 3 of Part 4 amends the Canada Education Savings Act to replace the term "child tax benefit" with "Canada child benefit". It also amends that Act to change the manner in which the eligibility for the Canada Learning Bond is established, including by eliminating the national child benefit supplement as an eligibility criterion and by adding an eligibility formula based on income and number of children.&lt;br/&gt;Division 4 of Part 4 amends the Canada Disability Savings Act to replace the term "child tax benefit" with "Canada child benefit". It also amends the definition "phase-out income".&lt;br/&gt;Division 5 of Part 4 amends the Bank Act to consolidate and streamline provisions that apply to a bank or an authorized foreign bank in relation to the protection of customers and the public. It sets out the principles upon which the provisions are based as well as their purpose, and implements enhancements in the areas of corporate governance, access to basic banking services, disclosure of information, business practices and public reporting. It also makes a consequential amendment to the Financial Consumer Agency of Canada Act.&lt;br/&gt;Division 6 of Part 4 amends the Royal Canadian Mint Act to enable the Royal Canadian Mint to anticipate profit with respect to the provision of goods or services, to clarify the powers of the Royal Canadian Mint, to confirm the current and legal tender status of all non-circulation?$350 coins dated between 1999 and 2006 and to remove the requirement that the directors of the Royal Canadian Mint have experience in respect of metal fabrication or production, industrial relations or a related field.&lt;br/&gt;Division 7 of Part 4 amends the Financial Administration Act, the Bank of Canada Act and the Canada Mortgage and Housing Corporation Act to clarify certain powers of the Minister of Finance in relation to the sound and efficient management of federal funds and the operation of Crown corporations. It amends the Financial Administration Act to provide that the Minister of Finance may lend, by way of auction, excess funds out of the Consolidated Revenue Fund and, with the authorization of the Governor in Council, may enter into contracts and agreements of a financial nature for the purpose of managing risks related to the financial position of the Government of Canada. It also amends the Bank of Canada Act to provide that the Minister of Finance may delegate to the Bank of Canada the management of the lending of money to agent corporations. Finally, it amends the Canada Mortgage and Housing Corporation Act to provide that the Bank of Canada may act as a custodian of the financial assets of the Canada Mortgage and Housing Corporation.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 25 octobre 2016, le Ministre des Finances a déposé le projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures (Loi no 2 d'exécution du budget de 2016), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 du texte met en œuvre certaines mesures relatives à l'impôt sur le revenu qui ont été proposées dans le budget du 22 mars 2016 pour?: &lt;br/&gt;•	éliminer les règles sur les immobilisations admissibles et instaurer une nouvelle catégorie de biens amortissables;&lt;br/&gt;•	instaurer des règles pour empêcher l'évitement des règles sur les prêts aux actionnaires au moyen de mécanismes de prêts adossés;&lt;br/&gt;•	exclure les produits dérivés de l'application des règles sur l'évaluation de biens d'inventaire;&lt;br/&gt;•	veiller à ce que le rendement d'un billet lié conserve le même caractère, qu'il soit réalisé à échéance ou reflété dans une vente dans un marché secondaire;&lt;br/&gt;•	préciser le traitement fiscal des droits d'émissions et éliminer la double imposition de certains droits d'émissions gratuits;&lt;br/&gt;•	instaurer des règles afin que tout gain de change accumulé à l'égard d'une dette en monnaie étrangère soit réalisé lorsque la dette devient une dette remisée;&lt;br/&gt;•	veiller à ce que des sommes ne soient pas reçues de façon inappropriée en franchise d'impôt par un titulaire de police en raison de la disposition d'un intérêt dans une police d'assurance-vie;&lt;br/&gt;•	empêcher le recours abusif à une exception dans les règles anti-évitement de la Loi de l'impôt sur le revenu à l'égard des opérations visant le dépouillement de surplus transfrontalier;&lt;br/&gt;•	indexer à l'inflation les plafonds de prestations et les seuils de réduction graduelle au titre de l'Allocation canadienne pour enfants, à compter de l'année de prestations 2020-2021;&lt;br/&gt;•	modifier les règles anti-évitement de la Loi de l'impôt sur le revenu qui empêchent la multiplication de l'accès à la déduction accordée aux petites entreprises et qui empêchent l'évitement du plafond des affaires et du plafond du capital imposable;&lt;br/&gt;•	veiller à ce qu'un échange d'actions d'une société de placement à capital variable ou d'une société de placement qui entraîne la substitution de fonds par l'investisseur soit considéré aux fins de l'impôt comme une disposition à la juste valeur marchande;&lt;br/&gt;•	mettre en œuvre les normes de déclaration pays par pays recommandées par l'Organisation de coopération et de développement économiques;&lt;br/&gt;•	préciser l'application des règles anti-évitement de la Loi de l'impôt sur le revenu relativement aux prêts adossés à des structures à plusieurs intermédiaires et à la requalification;&lt;br/&gt;•	instaurer des règles visant à empêcher l'évitement de la retenue d'impôt sur les loyers, redevances et paiements semblables au moyen de mécanismes d'adossement.&lt;br/&gt;&lt;br/&gt;La partie 1 met également en œuvre d'autres mesures relatives à l'impôt sur le revenu qui ont été confirmées dans le budget du 22 mars 2016 pour?: &lt;br/&gt;•	permettre une plus grande marge de manœuvre visant la reconnaissance des dons de bienfaisance faits par l'ancienne succession assujettie à l'imposition à taux progressifs d'un particulier;&lt;br/&gt;•	préciser les types de fiducies de placement qui sont exclus de l'application des règles relatives aux faits liés à la restriction de pertes qui restreignent par ailleurs l'usage qu'une fiducie peut faire de certains attributs fiscaux;&lt;br/&gt;•	veiller à ce que le revenu produit par certaines fiducies au décès du bénéficiaire principal de la fiducie soit imposé dans le cadre de celle-ci et non entre les mains de ce bénéficiaire, sous réserve d'un choix conjoint pour que certaines fiducies testamentaires déclarent le revenu dans la dernière déclaration de revenu du bénéficiaire principal;&lt;br/&gt;•	préciser que l'Agence du revenu du Canada et les tribunaux peuvent augmenter ou rajuster à un moment donné une somme incluse dans une cotisation qui fait l'objet d'une opposition ou d'un appel, pourvu que le montant total de la cotisation n'augmente pas;&lt;br/&gt;•	mettre en œuvre la norme commune de déclaration recommandée par l'Organisation de coopération et de développement économiques pour l'échange automatique de renseignements sur les comptes financiers entre administrations fiscales.&lt;br/&gt;&lt;br/&gt;De plus, la partie 1 modifie la Loi sur l'assurance-emploi ainsi que certains règlements afin de remplacer le terme «?prestation fiscale pour enfants?» par «?allocation canadienne pour enfants?».&lt;br/&gt;&lt;br/&gt;La partie 2 met en œuvre certaines mesures relatives à la taxe sur les produits et services et la taxe de vente harmonisée (TPS/TVH) qui ont été proposées ou confirmées dans le budget du 22 mars 2016 pour?: &lt;br/&gt;ajouter les services de centres d'appels exportés à la liste des exportations détaxées aux fins de la TPS/TVH;&lt;br/&gt;•	renforcer le critère servant à déterminer si deux personnes morales, ou une société de personnes et une personne morale, peuvent être considérées étroitement liées;&lt;br/&gt;•	veiller à ce que l'application de la TPS/TVH ne soit pas touchée par les modifications relatives à l'impôt sur le revenu qui prévoient la conversion des immobilisations &lt;br/&gt;•	préciser que l'Agence du revenu du Canada et les tribunaux peuvent augmenter ou rajuster un montant compris dans une cotisation qui fait l'objet d'une opposition ou d'un appel à un moment donné, pourvu que le montant total fixé par la cotisation n'augmente pas.&lt;br/&gt;&lt;br/&gt;La partie 3 met en œuvre une mesure relative à l'accise qui a été confirmée dans le budget du 22 mars 2016 pour préciser que l'Agence du revenu du Canada et les tribunaux peuvent augmenter ou rajuster un montant compris dans une cotisation qui fait l'objet d'une opposition ou d'un appel à un moment donné, pourvu que le montant total fixé par la cotisation n'augmente pas.&lt;br/&gt;&lt;br/&gt;La section 1 de la partie 4 modifie la Loi sur l'assurance-emploi afin de préciser ce qui n'est pas un emploi convenable pour l'application de certaines dispositions de la loi.&lt;br/&gt;&lt;br/&gt;La section 2 de la partie 4 modifie la Loi sur la sécurité de la vieillesse afin de prévoir que, dans le cas des couples à faible revenu qui doivent vivre séparément pour des raisons indépendantes de leur volonté, le montant de l'allocation soit fondé sur le revenu du bénéficiaire de l'allocation.&lt;br/&gt;&lt;br/&gt;La section 3 de la partie 4 modifie la Loi canadienne sur l'épargne-études afin de remplacer le terme «?prestation fiscale pour enfants?» par «?allocation canadienne pour enfants?». De plus, elle modifie cette loi afin de changer la façon dont est établie l'admissibilité au bon d'études, notamment par l'élimination du supplément de la prestation nationale pour enfants comme critère d'admissibilité et l'ajout d'une formule d'admissibilité basée sur le revenu et le nombre d'enfants.&lt;br/&gt;&lt;br/&gt;La section 4 de la partie 4 modifie la Loi canadienne sur l'épargne-invalidité afin de remplacer le terme «?prestation fiscale pour enfants?» par «?allocation canadienne pour enfants?». Elle modifie aussi la définition de «?revenu de transition?».&lt;br/&gt;&lt;br/&gt;La section 5 de la partie 4 modifie la Loi sur les banques afin de réunir et de rationaliser les dispositions applicables aux banques et aux banques étrangères autorisées relativement à la protection des clients et du public. De plus, elle établit les principes sur lesquelles ces dispositions sont fondées, ainsi que leur objet, et met en œuvre des améliorations dans les domaines de l'administration des banques, de l'accès aux services bancaires de base, de la communication de renseignements, des pratiques commerciales et de la présentation de rapports destinés au public. Enfin, elle apporte une modification corrélative à la Loi sur l'Agence de la consommation en matière financière du Canada.&lt;br/&gt;&lt;br/&gt;La section 6 de la partie 4 modifie la Loi sur la Monnaie royale canadienne afin de permettre à la Monnaie royale canadienne de prévoir la réalisation de bénéfices relativement à la fourniture de marchandises ou de services, de préciser les pouvoirs de la Monnaie royale canadienne, de confirmer que toute pièce de monnaie hors circulation dont la valeur faciale est de trois cent cinquante dollars et sur laquelle figure une année de 1999 à 2006 a cours légal et pouvoir libératoire et de supprimer l'exigence selon laquelle les administrateurs de la Monnaie royale canadienne doivent avoir de l'expérience en matière de production et de fabrication des métaux, de relations industrielles, ou dans un domaine connexe.&lt;br/&gt;&lt;br/&gt;La section 7 de la partie 4 modifie la Loi sur la gestion des finances publiques, la Loi sur la Banque du Canada et la Loi sur la Société canadienne d'hypothèques et de logement pour préciser certains pouvoirs du ministre des Finances relativement à la bonne gestion des fonds fédéraux et au fonctionnement des sociétés d'État. Elle modifie la Loi sur la gestion des finances publiques afin de prévoir que le ministre des Finances peut prêter des fonds excédentaires à partir du Trésor par voie d'adjudication et, avec l'autorisation du gouverneur en conseil, peut conclure des contrats et des accords de nature financière à des fins de gestion des risques relatifs à la situation financière du gouvernement du Canada. Elle modifie également la Loi sur la Banque du Canada afin de prévoir que le ministre des Finances peut déléguer la gestion des prêts conclus avec des sociétés mandataires à la Banque du Canada. Finalement, elle modifie la Loi sur la Société canadienne d'hypothèques et de logement afin de prévoir que la Banque du Canada peut agir à titre de dépositaire de l'actif financier de la Société canadienne d'hypothèques et de logement.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 25 October 2016, Minister of Finance introduced Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (Budget Implementation Act, 2016, No. 2), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 implements certain income tax measures proposed in the March 22, 2016 budget by&lt;br/&gt;•	eliminating the eligible capital property rules and introducing a new class of depreciable property;&lt;br/&gt;•	introducing rules to prevent the avoidance of the shareholder loan rules using back-to-back arrangements;&lt;br/&gt;•	excluding derivatives from the application of the inventory valuation rules;&lt;br/&gt;•	ensuring that the return on a linked note retains the same character whether it is earned at maturity or reflected in a secondary market sale;&lt;br/&gt;•	clarifying the tax treatment of emissions allowances and eliminating the double taxation of certain free emissions allowances;&lt;br/&gt;•	introducing rules so that any accrued foreign exchange gains on a foreign currency debt will be realized when the debt becomes a parked obligation;&lt;br/&gt;•	ensuring that amounts are not inappropriately received tax-free by a policyholder as a result of a disposition of an interest in a life insurance policy;&lt;br/&gt;•	preventing the misuse of an exception in the anti-avoidance rules in the Income Tax Act for cross-border surplus-stripping transactions;&lt;br/&gt;•	indexing to inflation the maximum benefit amounts and the phase-out thresholds under the Canada child benefit, beginning in the 2020–21 benefit year;&lt;br/&gt;•	amending the anti-avoidance rules in the Income Tax Act that prevent the multiplication of access to the small business deduction and the avoidance of the business limit and the taxable capital limit;&lt;br/&gt;•	ensuring that an exchange of shares of a mutual fund corporation or investment corporation that results in the investor switching between funds will be considered for tax purposes to be a disposition at fair market value;&lt;br/&gt;•	implementing the country-by-country reporting standards recommended by the Organisation for Economic Co-operation and Development;&lt;br/&gt;•	clarifying the application of anti-avoidance rules in the Income Tax Act for back-to-back loans to multiple intermediary structures and character substitution; and&lt;br/&gt;•	introducing rules to prevent the avoidance of withholding tax on rents, royalties and similar payments using back-to-back arrangements.&lt;br/&gt;&lt;br/&gt;Part 1 implements other income tax measures confirmed in the March 22, 2016 budget by&lt;br/&gt;•	allowing greater flexibility for recognizing charitable donations made by an individual's former graduated rate estate;&lt;br/&gt;•	clarifying what types of investment funds are excluded from the loss restriction event rules that otherwise limit a trust's use of certain tax attributes;&lt;br/&gt;•	ensuring that income arising in certain trusts on the death of the trust's primary beneficiary is taxed in the trust and not in the hands of that beneficiary, subject to a joint election for certain testamentary trusts to report the income in that beneficiary's final tax return;&lt;br/&gt;•	clarifying that the Canada Revenue Agency and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase; and&lt;br/&gt;•	implementing the common reporting standard recommended by the Organisation for Economic Co-operation and Development for the automatic exchange of financial account information between tax authorities.&lt;br/&gt;&lt;br/&gt;Part 1 also amends the Employment Insurance Act and various regulations to replace the term "child tax benefit" with "Canada child benefit".&lt;br/&gt;&lt;br/&gt;Part 2 implements certain goods and services tax and harmonized sales tax (GST/HST) measures proposed or confirmed in the March 22, 2016 budget by&lt;br/&gt;•	adding certain exported call centre services to the list of GST/HST zero-rated exports;&lt;br/&gt;•	strengthening the test for determining whether two corporations, or a partnership and a corporation, can be considered closely related;&lt;br/&gt;•	ensuring that the application of the GST/HST is unaffected by income tax amendments that convert eligible capital property into a new class of depreciable property; and&lt;br/&gt;•	clarifying that the Canada Revenue Agency and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase.&lt;br/&gt;&lt;br/&gt;Part 3 implements an excise measure confirmed in the March 22, 2016 budget by clarifying that the Canada Revenue Agency and the courts may increase or adjust an amount included in an assessment that is under objection or appeal at any time, provided the total amount of the assessment does not increase.&lt;br/&gt;&lt;br/&gt;Division 1 of Part 4 amends the Employment Insurance Act to specify what does not constitute suitable employment for the purposes of certain provisions of the Act.&lt;br/&gt;&lt;br/&gt;Division 2 of Part 4 amends the Old Age Security Act to provide that, in the case of low-income couples who have to live apart for reasons not attributable to either of them, the amount of the allowance is to be based on the income of the allowance recipient only.&lt;br/&gt;Division 3 of Part 4 amends the Canada Education Savings Act to replace the term "child tax benefit" with "Canada child benefit". It also amends that Act to change the manner in which the eligibility for the Canada Learning Bond is established, including by eliminating the national child benefit supplement as an eligibility criterion and by adding an eligibility formula based on income and number of children.&lt;br/&gt;Division 4 of Part 4 amends the Canada Disability Savings Act to replace the term "child tax benefit" with "Canada child benefit". It also amends the definition "phase-out income".&lt;br/&gt;Division 5 of Part 4 amends the Bank Act to consolidate and streamline provisions that apply to a bank or an authorized foreign bank in relation to the protection of customers and the public. It sets out the principles upon which the provisions are based as well as their purpose, and implements enhancements in the areas of corporate governance, access to basic banking services, disclosure of information, business practices and public reporting. It also makes a consequential amendment to the Financial Consumer Agency of Canada Act.&lt;br/&gt;Division 6 of Part 4 amends the Royal Canadian Mint Act to enable the Royal Canadian Mint to anticipate profit with respect to the provision of goods or services, to clarify the powers of the Royal Canadian Mint, to confirm the current and legal tender status of all non-circulation?$350 coins dated between 1999 and 2006 and to remove the requirement that the directors of the Royal Canadian Mint have experience in respect of metal fabrication or production, industrial relations or a related field.&lt;br/&gt;Division 7 of Part 4 amends the Financial Administration Act, the Bank of Canada Act and the Canada Mortgage and Housing Corporation Act to clarify certain powers of the Minister of Finance in relation to the sound and efficient management of federal funds and the operation of Crown corporations. It amends the Financial Administration Act to provide that the Minister of Finance may lend, by way of auction, excess funds out of the Consolidated Revenue Fund and, with the authorization of the Governor in Council, may enter into contracts and agreements of a financial nature for the purpose of managing risks related to the financial position of the Government of Canada. It also amends the Bank of Canada Act to provide that the Minister of Finance may delegate to the Bank of Canada the management of the lending of money to agent corporations. Finally, it amends the Canada Mortgage and Housing Corporation Act to provide that the Bank of Canada may act as a custodian of the financial assets of the Canada Mortgage and Housing Corporation.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2016</StatuteYear>
+    <StatuteChapter>12</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-10-25T10:58:12</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>97</Number>
+          <Date>2016-10-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-10-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-10-25T10:58:12</EventStartDateTime>
+          <EventEndDateTime>2016-10-25T10:58:12</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-10-25T10:58:12</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-11-15T18:45:05</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>9235608</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>100</Number>
+          <Date>2016-10-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>101</Number>
+          <Date>2016-10-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>102</Number>
+          <Date>2016-11-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>103</Number>
+          <Date>2016-11-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>106</Number>
+          <Date>2016-11-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>107</Number>
+          <Date>2016-11-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9232355</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8530427</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>148</DivisionNumber>
+          <DivisionVotesYeas>174</DivisionVotesYeas>
+          <DivisionVotesNays>136</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2016-11-15T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>107</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2016-11-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2016-11-15T18:45:05</EventStartDateTime>
+          <EventEndDateTime>2016-11-15T18:45:05</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-11-15T18:45:05</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9201252</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88449</PersonId>
+          <PersonOfficialFirstName>Marie-Claude</PersonOfficialFirstName>
+          <PersonOfficialLastName>Bibeau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Marie-Claude Bibeau</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>100</MeetingNumber>
+          <SpeechDateTime>2016-10-28T10:03:28</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9201276</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88535</PersonId>
+          <PersonOfficialFirstName>Gérard</PersonOfficialFirstName>
+          <PersonOfficialLastName>Deltell</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gérard Deltell</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>100</MeetingNumber>
+          <SpeechDateTime>2016-10-28T10:29:45</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9202012</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>23915</PersonId>
+          <PersonOfficialFirstName>Guy</PersonOfficialFirstName>
+          <PersonOfficialLastName>Caron</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Guy Caron</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>100</MeetingNumber>
+          <SpeechDateTime>2016-10-28T12:13:05</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2016-11-29T09:58:44.117</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>9235608</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité avec un amendement</NameFr>
+          <Name>Committee report presented with an amendment</Name>
+          <Number>117</Number>
+          <Date>2016-11-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>58</Number>
+          <Date>2016-11-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>59</Number>
+          <Date>2016-11-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>61</Number>
+          <Date>2016-11-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>62</Number>
+          <Date>2016-11-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec un amendement</EventNameFr>
+          <EventName>Committee report presented with an amendment</EventName>
+          <EventDateTime>2016-11-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>8634327</CommitteeReportId>
+          <CommitteeReportNumber>8</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2016-11-29T09:58:44.117</EventStartDateTime>
+          <EventEndDateTime>2016-11-29T09:58:44.117</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-11-29T09:58:44.117</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-05T19:30:03</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>120</Number>
+          <Date>2016-12-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>121</Number>
+          <Date>2016-12-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2016-12-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2016-12-05T19:30:03</EventStartDateTime>
+          <EventEndDateTime>2016-12-05T19:30:03</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-05T19:30:03</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-06T17:45:47</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>122</Number>
+          <Date>2016-12-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9299190</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8530429</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>173</DivisionNumber>
+          <DivisionVotesYeas>168</DivisionVotesYeas>
+          <DivisionVotesNays>129</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2016-12-06T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>122</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2016-12-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2016-12-06T17:45:47</EventStartDateTime>
+          <EventEndDateTime>2016-12-06T17:45:47</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-06T17:45:47</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>74</Number>
+          <Date>2016-11-22T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>54</Number>
+          <Date>2016-12-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>55</Number>
+          <Date>2016-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>56</Number>
+          <Date>2016-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>57</Number>
+          <Date>2016-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>58</Number>
+          <Date>2016-12-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2016-11-22T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Subject-matter of bill referred to the Standing Senate Committee on National Finance AND certain other Senate Committees --- (See explanatory note below)</AdditionalInformationEn>
+          <AdditionalInformationFr>La teneur du projet de loi a été renvoyée au Comité sénatorial permanent des finances nationales ET certains autres comités du Sénat --- (Voir la note explicative ci-dessous)</AdditionalInformationFr>
+          <AdditionalInformation>Subject-matter of bill referred to the Standing Senate Committee on National Finance AND certain other Senate Committees --- (See explanatory note below)</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-12T15:02:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>84</Number>
+          <Date>2016-12-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2016-12-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2016-12-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-08T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>85</Number>
+          <Date>2016-12-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2016-12-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2016-12-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2016-12-08T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-08T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-08T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>4486</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>Harder</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter Harder</PersonName>
+          <SenateSystemAffiliationId>206019</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent</CaucusShortNameEn>
+          <CaucusShortNameFr>Indépendant</CaucusShortNameFr>
+          <CaucusShortName>Independent</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>85</MeetingNumber>
+          <SpeechDateTime>2016-12-08T00:00:00</SpeechDateTime>
+          <UrlEn>http://www.parl.gc.ca/Content/Sen/Chamber/421/Debates/085db_2016-12-08-e.htm#49</UrlEn>
+          <UrlFr>http://www.parl.gc.ca/Content/Sen/Chamber/421/Debates/085db_2016-12-08-f.htm#49</UrlFr>
+          <Url>http://www.parl.gc.ca/Content/Sen/Chamber/421/Debates/085db_2016-12-08-e.htm#49</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2016-12-12T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité avec un amendement</NameFr>
+          <Name>Committee report presented with an amendment</Name>
+          <Number>86</Number>
+          <Date>2016-12-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec un amendement</EventNameFr>
+          <EventName>Committee report presented with an amendment</EventName>
+          <EventDateTime>2016-12-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2016-12-12T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-12T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-12T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>87</Number>
+          <Date>2016-12-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2016-12-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2016-12-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-12-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>87</Number>
+          <Date>2016-12-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2016-12-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2016-12-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>89</Number>
+          <Date>2016-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2016-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2016-12-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2016-12-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-12-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2016-12-13T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>87</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2016-12-14T16:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>128</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2016-12-14T16:40:57.78</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>128</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8533330</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8648013</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8678860</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>8707750</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>144</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>131</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>305</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-11-15T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>146</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (subamendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures (sous-amendement)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (subamendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>175</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>310</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-11-15T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>147</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>175</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>310</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-11-15T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>148</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>136</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>310</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-11-15T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>168</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubject>
+      <DivisionVotesYeas>163</DivisionVotesYeas>
+      <DivisionVotesNays>105</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>268</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-12-05T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>169</DivisionNumber>
+      <DivisionSubjectEn>Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>83</DivisionVotesYeas>
+      <DivisionVotesNays>205</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>288</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-12-05T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>170</DivisionNumber>
+      <DivisionSubjectEn>Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>77</DivisionVotesYeas>
+      <DivisionVotesNays>211</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>288</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-12-05T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>171</DivisionNumber>
+      <DivisionSubjectEn>Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>116</DivisionVotesYeas>
+      <DivisionVotesNays>172</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>288</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2016-12-05T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>172</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubject>
+      <DivisionVotesYeas>172</DivisionVotesYeas>
+      <DivisionVotesNays>116</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>288</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-12-05T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>173</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-29, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 22 mars 2016 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-29, A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures</DivisionSubject>
+      <DivisionVotesYeas>168</DivisionVotesYeas>
+      <DivisionVotesNays>129</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>297</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2016-12-06T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government Introduces Legislation Advancing Plan to Support the Middle Class and Those Working Hard to Join It</TitleEn>
+      <TitleFr>Le gouvernement dépose un projet de loi visant à faire avancer le plan pour appuyer la classe moyenne et ceux qui travaillent fort pour en faire partie</TitleFr>
+      <Title>Government Introduces Legislation Advancing Plan to Support the Middle Class and Those Working Hard to Join It</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=2&amp;nid=1142829&amp;_ga=1.98136790.833229910.1474377647</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=2&amp;nid=1142829&amp;_ga=1.98136790.833229910.1474377647</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=2&amp;nid=1142829&amp;_ga=1.98136790.833229910.1474377647</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Budget 2016</TitleEn>
+      <TitleFr>Le budget de 2016</TitleFr>
+      <Title>Budget 2016</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.budget.gc.ca/2016/docs/plan/toc-tdm-en.html</UrlEn>
+      <UrlFr>http://www.budget.gc.ca/2016/docs/plan/toc-tdm-fr.html</UrlFr>
+      <Url>http://www.budget.gc.ca/2016/docs/plan/toc-tdm-en.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3137</BibliographicNoticeId>
+      <Title>Bill C-29 : mission impossible?</Title>
+      <Author>Bradley Crawford</Author>
+      <Publication>Canadian Business Law Journal</Publication>
+      <VolumePage>60(1):61-93</VolumePage>
+      <PublicationDate>December 2017</PublicationDate>
+      <Classification>Radar 26633640</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+      <CommitteeAcronym>NFFN</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
