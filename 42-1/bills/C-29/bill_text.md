@@ -535,7 +535,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 2`.
 
       the capital cost to the person of the property is deemed to be the amount that was the capital cost to the individual of the property, and
 
-      the excess **is** deemed to have been allowed to the person in respect of the property under regulations made for the purposes of paragraph 20(1)(a) in computing income for taxation years that ended before the person acquired the property.
+      the excess is deemed to have been allowed to the person in respect of the property under regulations made for the purposes of paragraph 20(1)(a) in computing income for taxation years that ended before the person acquired the property.
 
   **(3)** Subsection 24(3) of the Act is repealed.
 
@@ -545,7 +545,7 @@ This Act may be cited as the `Budget Implementation Act, 2016, No. 2`.
 
   **(1)** Subsection 25(3) of the Act is replaced by the following:
 
-    **(3)** **If** subsection (1) applies in respect of a fiscal pe­riod of a business of an individual, for the purpose of computing the individual's income for the fiscal period, section 13 **is to** be read without reference to **its** subsection (8).
+    **(3)** If subsection (1) applies in respect of a fiscal pe­riod of a business of an individual, for the purpose of computing the individual's income for the fiscal period, section 13 is to be read without reference to its subsection (8).
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -723,7 +723,7 @@ any proceeds of a life insurance policy received by the partnership after 1971 a
 
 exceeds the total of all amounts each of which is
 
-the **adjusted cost basis** (**in this subparagraph as defined in** subsection 148(9)), immediately before the death, of
+the **adjusted cost basis** (in this subparagraph as defined in subsection 148(9)), immediately before the death, of
 
 if the death occurs before March 22, 2016, the policy to the partnership, and
 
@@ -747,7 +747,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(2)** Paragraph (k) of the definition **proceeds of disposition** in section 54 of the Act is replaced by the following:
 
-    any amount that would otherwise be proceeds of disposition of property of a taxpayer to the extent that the amount is deemed by subsection 84.1(1), 212.1(**1.1**) or 212.2(2) to be a dividend paid to the taxpayer; (**produit de disposition**)
+    any amount that would otherwise be proceeds of disposition of property of a taxpayer to the extent that the amount is deemed by subsection 84.1(1), 212.1(1.1) or 212.2(2) to be a dividend paid to the taxpayer; (**produit de disposition**)
 
   **(3)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -757,15 +757,15 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** The definition **goodwill amount** in subsection 56.4(1) of the Act is replaced by the following:
 
-    **goodwill amount**, of a taxpayer, is an amount the taxpayer has or may become entitled to receive that **would, if this Act were read without reference to this section, be** required **to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the `Income Tax Regulations`, or is an amount to which subsection 13(38) applies**, in respect of a business carried on by the taxpayer through a permanent establishment located in Canada. (**montant pour achalandage**)
+    **goodwill amount**, of a taxpayer, is an amount the taxpayer has or may become entitled to receive that would, if this Act were read without reference to this section, be required to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the `Income Tax Regulations`, or is an amount to which subsection 13(38) applies, in respect of a business carried on by the taxpayer through a permanent establishment located in Canada. (**montant pour achalandage**)
 
   **(2)** Paragraph 56.4(3)(b) of the Act is replaced by the following:
 
-    the amount would, if this Act were read without reference to this section, be required **to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the `Income Tax Regulations`, or is an amount to which subsection 13(38) applies**, in respect of the business to which the restrictive covenant relates, and the particular taxpayer elects (or if the amount is payable by the purchaser in respect of a business carried on in Canada by the purchaser, the particular taxpayer and the purchaser jointly elect) in prescribed form to apply this paragraph in respect of the amount; or
+    the amount would, if this Act were read without reference to this section, be required to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the `Income Tax Regulations`, or is an amount to which subsection 13(38) applies, in respect of the business to which the restrictive covenant relates, and the particular taxpayer elects (or if the amount is payable by the purchaser in respect of a business carried on in Canada by the purchaser, the particular taxpayer and the purchaser jointly elect) in prescribed form to apply this paragraph in respect of the amount; or
 
   **(3)** Paragraph 56.4(4)(b) of the Act is replaced by the following:
 
-    if an election has been made under paragraph (3)(b) in respect of the amount, to be considered to be incurred by the purchaser on account of capital for the purpose of **determining the cost of the property or for the purposes of subsection 13(35), as the case may be**, and not to be an amount paid or payable for all other purposes of the Act; and
+    if an election has been made under paragraph (3)(b) in respect of the amount, to be considered to be incurred by the purchaser on account of capital for the purpose of determining the cost of the property or for the purposes of subsection 13(35), as the case may be, and not to be an amount paid or payable for all other purposes of the Act; and
 
   **(4)** Subsections (1) to (3) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -785,7 +785,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(2)** Subsection 70(5.1) of the Act is replaced by the following:
 
-    **(5.1)** Notwithstanding subsection **(6), if** property **included in Class 14.1 of Schedule II to the `Income Tax Regulations` of the** taxpayer in respect of a business carried on by the taxpayer immediately before **the taxpayer's death that is a property to which subsection (5) would otherwise apply is**, as a consequence of the death, **transferred or distributed** (otherwise than by way of a distribution of property by a trust that claimed a deduction under paragraph 20(1)**(a) or** (b) in respect of the property or in circumstances to which subsection 24(2) applies) to any person (in this subsection referred to as the **beneficiary**), **the following rules apply**:
+    **(5.1)** Notwithstanding subsection (6), if property included in Class 14.1 of Schedule II to the `Income Tax Regulations` of the taxpayer in respect of a business carried on by the taxpayer immediately before the taxpayer's death that is a property to which subsection (5) would otherwise apply is, as a consequence of the death, transferred or distributed (otherwise than by way of a distribution of property by a trust that claimed a deduction under paragraph 20(1)(a) or (b) in respect of the property or in circumstances to which subsection 24(2) applies) to any person (in this subsection referred to as the **beneficiary**), the following rules apply:
 
       paragraphs (5)(a) and (b) do not apply in respect of the property;
 
@@ -797,7 +797,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(3)** Subsection 70(6.2) of the Act is replaced by the following:
 
-    **(6.2)** Subsection **(5.1)**, (6) or (6.1) does not apply to any property of a deceased taxpayer in respect of which the taxpayer's legal representative elects, in the taxpayer's return of income under this Part (other than a return of income filed under subsection (2) or 104(23), paragraph 128(2)(*e*) or subsection 150(4)) for the year in which the taxpayer died, to have subsection (5) or (5.4), as the case may be, apply.
+    **(6.2)** Subsection (5.1), (6) or (6.1) does not apply to any property of a deceased taxpayer in respect of which the taxpayer's legal representative elects, in the taxpayer's return of income under this Part (other than a return of income filed under subsection (2) or 104(23), paragraph 128(2)(*e*) or subsection 150(4)) for the year in which the taxpayer died, to have subsection (5) or (5.4), as the case may be, apply.
 
   **(4)** The portion of subsection 70(9.8) of the Act before paragraph (a) is replaced by the following:
 
@@ -821,7 +821,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Paragraph 79(4)(b) of the Act is replaced by the following:
 
-    paragraph 20(1)(hh.1) applies, where the cost of the property to the person was an eligible capital expenditure **at the time the property was acquired**;
+    paragraph 20(1)(hh.1) applies, where the cost of the property to the person was an eligible capital expenditure at the time the property was acquired;
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -829,7 +829,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Paragraph 80(2)(c) of the Act is replaced by the following:
 
-    subsections (3) to (5) and **(8)** to (13) apply in numerical order to the forgiven amount in respect of a commercial obligation;
+    subsections (3) to (5) and (8) to (13) apply in numerical order to the forgiven amount in respect of a commercial obligation;
 
   **(2)** Paragraph 80(2)(f) of the Act is repealed.
 
@@ -837,23 +837,23 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(4)** The portion of subsection 80(9) of the Act before paragraph (a) is replaced by the following:
 
-    **(9)** **If** a commercial obligation issued by a debtor is settled at any time and amounts have been designated under subsections (5) and (8) to the maximum extent permitted in respect of the settlement, subject to subsection (18)
+    **(9)** If a commercial obligation issued by a debtor is settled at any time and amounts have been designated under subsections (5) and (8) to the maximum extent permitted in respect of the settlement, subject to subsection (18)
 
   **(5)** Subsection 80(10) of the Act is replaced by the following:
 
-    **(10)** **If** a commercial obligation issued by a debtor is settled at any time in a taxation year and amounts have been designated by the debtor under subsections (5), (8) and (9) to the maximum extent permitted in respect of the settlement, subject to subsection (18) the remaining unapplied portion of that forgiven amount shall be applied (to the extent that it is designated in a prescribed form filed with the debtor's return of income under this Part for the year) to reduce immediately after that time the adjusted cost bases to the debtor of capital properties, owned by the debtor immediately after that time, that are shares of the capital stock of corporations of which the debtor is a specified shareholder at that time and debts issued by corporations of which the debtor is a specified shareholder at that time (other than shares of the capital stock of corporations related to the debtor at that time, debts issued by corporations related to the debtor at that time and excluded properties).
+    **(10)** If a commercial obligation issued by a debtor is settled at any time in a taxation year and amounts have been designated by the debtor under subsections (5), (8) and (9) to the maximum extent permitted in respect of the settlement, subject to subsection (18) the remaining unapplied portion of that forgiven amount shall be applied (to the extent that it is designated in a prescribed form filed with the debtor's return of income under this Part for the year) to reduce immediately after that time the adjusted cost bases to the debtor of capital properties, owned by the debtor immediately after that time, that are shares of the capital stock of corporations of which the debtor is a specified shareholder at that time and debts issued by corporations of which the debtor is a specified shareholder at that time (other than shares of the capital stock of corporations related to the debtor at that time, debts issued by corporations related to the debtor at that time and excluded properties).
 
   **(6)** The portion of subsection 80(11) of the Act before paragraph (a) is replaced by the following:
 
-    **(11)** **If** a commercial obligation issued by a debtor is settled at any time in a taxation year and amounts have been designated by the debtor under subsections (5), (8), (9) and (10) to the maximum extent permitted in respect of the settlement, subject to subsection (18) the remaining unapplied portion of that forgiven amount shall be applied (to the extent that it is designated in a prescribed form filed with the debtor's return of income under this Part for the year) to reduce immediately after that time the adjusted cost bases to the debtor of
+    **(11)** If a commercial obligation issued by a debtor is settled at any time in a taxation year and amounts have been designated by the debtor under subsections (5), (8), (9) and (10) to the maximum extent permitted in respect of the settlement, subject to subsection (18) the remaining unapplied portion of that forgiven amount shall be applied (to the extent that it is designated in a prescribed form filed with the debtor's return of income under this Part for the year) to reduce immediately after that time the adjusted cost bases to the debtor of
 
   **(7)** The portion of subsection 80(12) of the Act before paragraph (a) is replaced by the following:
 
-    **(12)** **If** a commercial obligation issued by a debtor (other than a partnership) is settled at any time in a taxation year and amounts have been designated by the debtor under subsections (5), (8) and (9) to the maximum extent permitted in respect of the settlement,
+    **(12)** If a commercial obligation issued by a debtor (other than a partnership) is settled at any time in a taxation year and amounts have been designated by the debtor under subsections (5), (8) and (9) to the maximum extent permitted in respect of the settlement,
 
   **(8)** The portion of paragraph (a) of the description of D in subsection 80(13) of the Act before subparagraph (i) is replaced by the following:
 
-    **if** the debtor has designated amounts under subsections (5), (8), (9) and (10) to the maximum extent permitted in respect of the settlement, the amount, if any, by which
+    if the debtor has designated amounts under subsections (5), (8), (9) and (10) to the maximum extent permitted in respect of the settlement, the amount, if any, by which
 
   **(9)** Paragraph 80(14.1)(c) of the Act is replaced by the following:
 
@@ -871,7 +871,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
     the total of
 
-    the amount of interest for the year paid on all such loans and debts (**other than loans deemed to have been made under subsection 15(2.17)**) not later than 30 days after the end of the year, and
+    the amount of interest for the year paid on all such loans and debts (other than loans deemed to have been made under subsection 15(2.17)) not later than 30 days after the end of the year, and
 
     the specified interest amounts, for the year, in respect of all such loans that are deemed to have been made under subsection 15(2.17).
 
@@ -895,7 +895,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Subparagraph 84(1)(c.3)(i) of the Act is replaced by the following:
 
-    on the issuance of shares of that class or shares of another class for which the shares of that class were substituted (other than an issuance to which section 51, 66.3, 84.1, 85, 85.1, 86 or 87 **or** subsection 192(4.1), 194(4.1) or 212.1**(1.1)** applied),
+    on the issuance of shares of that class or shares of another class for which the shares of that class were substituted (other than an issuance to which section 51, 66.3, 84.1, 85, 85.1, 86 or 87 or subsection 192(4.1), 194(4.1) or 212.1(1.1) applied),
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on March 22, 2016.
 
@@ -909,7 +909,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(3)** The portion of paragraph 85(1)(e.3) of the Act before subparagraph (ii) is replaced by the following:
 
-    where, under any of paragraphs (c.1) and (e), the amount that the taxpayer and the corporation have agreed on in their election in respect of the property (in this paragraph referred to as the **elected amount**) would be deemed to be an amount that is greater or less than the amount that would be deemed, subject to paragraph (c), to be the elected amount under paragraph (b), the elected amount **is** deemed to be the greater of
+    where, under any of paragraphs (c.1) and (e), the amount that the taxpayer and the corporation have agreed on in their election in respect of the property (in this paragraph referred to as the **elected amount**) would be deemed to be an amount that is greater or less than the amount that would be deemed, subject to paragraph (c), to be the elected amount under paragraph (b), the elected amount is deemed to be the greater of
 
     the amount deemed by paragraph (c.1) or (e), as the case may be, to be the elected amount, and
 
@@ -933,7 +933,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(2)** Paragraph 88(1)(d.1) of the Act is replaced by the following:
 
-    subsection 84(2) and section 21 of the `Income Tax Application Rules` do not apply to the winding-up of the subsidiary, and **subsection** 13(21.2) **does** not apply to the winding-up of the subsidiary with respect to property acquired by the parent on the winding-up;
+    subsection 84(2) and section 21 of the `Income Tax Application Rules` do not apply to the winding-up of the subsidiary, and subsection 13(21.2) does not apply to the winding-up of the subsidiary with respect to property acquired by the parent on the winding-up;
 
   **(3)** Subsections (1) and (2) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -941,17 +941,17 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Subparagraph (c.1)(i) of the definition **capital dividend account** in subsection 89(1) of the Act is replaced by the following:
 
-    1/2 of the total of all amounts each of which is an amount required by paragraph 14(1)(b) (**as it read before 2017**) to be included in computing the corporation's income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ended after February 27, 2000 and before October 18, 2000,
+    1/2 of the total of all amounts each of which is an amount required by paragraph 14(1)(b) (as it read before 2017) to be included in computing the corporation's income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ended after February 27, 2000 and before October 18, 2000,
 
   **(2)** Subparagraph (c.2)(i) of the definition **capital dividend account** in subsection 89(1) of the Act is replaced by the following:
 
-    the total of all amounts each of which is an amount required by paragraph 14(1)(b) (**as it read before 2017) or subparagraph 13(38)(d)(iii)** to be included in computing the corporation's income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ends after October 17, 2000,
+    the total of all amounts each of which is an amount required by paragraph 14(1)(b) (as it read before 2017) or subparagraph 13(38)(d)(iii) to be included in computing the corporation's income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ends after October 17, 2000,
 
   **(3)** Subparagraph (d)(iii) of the definition **capital dividend account** in subsection 89(1) of the Act is replaced by the following:
 
-    the **adjusted cost basis** (**in this paragraph as defined in** subsection 148(9)), immediately before the death, of
+    the **adjusted cost basis** (in this paragraph as defined in subsection 148(9)), immediately before the death, of
 
-    **if the death occurs before March 22, 2016**, a policy referred to in subparagraph (i) or (ii) to the corporation, **and**
+    if the death occurs before March 22, 2016, a policy referred to in subparagraph (i) or (ii) to the corporation, and
 
     if the death occurs after March 21, 2016, a policyholder's interest in a policy referred to in subparagraph (i) or (ii),
 
@@ -975,7 +975,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(5)** Subparagraph (b)(iii) of the definition **paid-up capital** in subsection 89(1) of the Act is replaced by the following:
 
-    **if** the particular time is after March 31, 1977, an amount equal to the paid-up capital in respect of that class of shares at the particular time, computed without reference to the provisions of this Act except subsections 51(3) and 66.3(2) and (4), sections 84.1 and 84.2, subsections 85(2.1), 85.1(2.1) and (8), 86(2.1), 87(3) and (9), paragraph 128.1(1)(c.3), subsections 128.1(2) and (3), section 135.2, subsections 138(11.7), 139.1(6) and (7), **148(7)**, 192(4.1) and 194(4.1) and sections 212.1 and 212.3,
+    if the particular time is after March 31, 1977, an amount equal to the paid-up capital in respect of that class of shares at the particular time, computed without reference to the provisions of this Act except subsections 51(3) and 66.3(2) and (4), sections 84.1 and 84.2, subsections 85(2.1), 85.1(2.1) and (8), 86(2.1), 87(3) and (9), paragraph 128.1(1)(c.3), subsections 128.1(2) and (3), section 135.2, subsections 138(11.7), 139.1(6) and (7), 148(7), 192(4.1) and 194(4.1) and sections 212.1 and 212.3,
 
   **(6)** Subsections (1) and (2) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -983,7 +983,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Paragraph 94(4)(b) of the Act is replaced by the following:
 
-    subsections (8.1) and (8.2), paragraph (14)(a), subsections 70(6) and 73(1), the definition **Canadian partnership** in subsection 102(1), paragraph 107.4(1)(c), the definition **qualified disability trust** in subsection 122(3), paragraph (a) of the definition **mutual fund trust** in subsection 132(6), the definition **eligible trust** in subsection 135.2(1) **and subparagraph (b)(i) of the definition **investment fund** in subsection 251.2(1)**;
+    subsections (8.1) and (8.2), paragraph (14)(a), subsections 70(6) and 73(1), the definition **Canadian partnership** in subsection 102(1), paragraph 107.4(1)(c), the definition **qualified disability trust** in subsection 122(3), paragraph (a) of the definition **mutual fund trust** in subsection 132(6), the definition **eligible trust** in subsection 135.2(1) and subparagraph (b)(i) of the definition **investment fund** in subsection 251.2(1);
 
   **(2)** Subsection (1) is deemed to have come into force on March 21, 2013, except that paragraph 94(4)(b) of the Act, as enacted by subsection (1), is to be read without reference to
 
@@ -1011,7 +1011,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** The portion of subsection 96(1.7) of the Act before the formula is replaced by the following:
 
-    **(1.7)** Notwithstanding subsection (1) or section 38, **if** in a particular taxation year of a taxpayer, the taxpayer is a member of a partnership with a fiscal period that ends in the particular year, the amount of a taxable capital gain, allowable capital loss or allowable business investment loss of the taxpayer for the particular year determined in respect of the partnership is the amount determined by the formula
+    **(1.7)** Notwithstanding subsection (1) or section 38, if in a particular taxation year of a taxpayer, the taxpayer is a member of a partnership with a fiscal period that ends in the particular year, the amount of a taxable capital gain, allowable capital loss or allowable business investment loss of the taxpayer for the particular year determined in respect of the partnership is the amount determined by the formula
 
   **(2)** The description of A in subsection 96(1.7) of the Act is replaced by the following:
 
@@ -1049,11 +1049,11 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Subparagraph (i) of the description of B in paragraph 104(6)(b) of the Act is replaced by the following:
 
-    if the trust is a trust for which a day is to be determined under paragraph (4)(a) or (a.4) by reference to a death or later death, as the case may be, that has not occurred before the **beginning** of the year, **the total of**
+    if the trust is a trust for which a day is to be determined under paragraph (4)(a) or (a.4) by reference to a death or later death, as the case may be, that has not occurred before the beginning of the year, the total of
 
-    the part of its income (determined without reference to this subsection and subsection (12)) for the year that became payable in the year to, or that was included under subsection 105(2) in computing the income of, a beneficiary (other than an individual whose death is that death or later death, as the case may be), **and**
+    the part of its income (determined without reference to this subsection and subsection (12)) for the year that became payable in the year to, or that was included under subsection 105(2) in computing the income of, a beneficiary (other than an individual whose death is that death or later death, as the case may be), and
 
-    **the total of all amounts each of which**
+    the total of all amounts each of which
 
     is included in its income (determined without reference to this subsection and subsection (12)) for the year — if the year is the year in which that death or later death, as the case may be, occurs and paragraph (13.4)(b) does not apply in respect of the trust for the year — because of the application of subsection (4), (5), (5.1) or (5.2) or 12(10.2), and
 
@@ -1061,7 +1061,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(2)** The portion of paragraph 104(13.4)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    **subject to paragraph (b.1)**, the trust's income (determined without reference to subsections (6) and (12)) for the particular year is, notwithstanding subsection (24), deemed
+    subject to paragraph (b.1), the trust's income (determined without reference to subsections (6) and (12)) for the particular year is, notwithstanding subsection (24), deemed
 
   **(3)** Subsection 104(13.4) of the Act is amended by striking out "and" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -1083,7 +1083,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(4)** Subparagraph 104(13.4)(c)(i) of the Act is replaced by the following:
 
-    the references in **paragraph** 150(1)(c) to "year" and **in subparagraph (a)(ii)** of the definition **balance-due day** in subsection 248(1) **to "taxation year"** are to be read as "calendar year in which the **taxation** year ends", and
+    the references in paragraph 150(1)(c) to "year" and in subparagraph (a)(ii) of the definition **balance-due day** in subsection 248(1) to "taxation year" are to be read as "calendar year in which the taxation year ends", and
 
   **(5)** Subsections (1) to (4) apply to the 2016 and subsequent taxation years.
 
@@ -1133,7 +1133,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Paragraph (d) of the definition **qualified farm or fishing property** in subsection 110.6(1) of the Act is replaced by the following:
 
-    **a property included in Class 14.1 of Schedule II to the `Income Tax Regulations`**, used by a person or partnership referred to in any of subparagraphs (a)(i) to (v), or by a personal trust from which the individual acquired the property, in the course of carrying on a farming or fishing business in Canada; (**bien agricole ou de pêche admissible**)
+    a property included in Class 14.1 of Schedule II to the `Income Tax Regulations`, used by a person or partnership referred to in any of subparagraphs (a)(i) to (v), or by a personal trust from which the individual acquired the property, in the course of carrying on a farming or fishing business in Canada; (**bien agricole ou de pêche admissible**)
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -1207,7 +1207,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(5)** Clause (c)(i)(A) of the definition **total ecological gifts** in subsection 118.1(1) of the Act is replaced by the following:
 
-    by the individual, or the individual's spouse or common-law partner, in the particular year or any of the **10** preceding taxation years,
+    by the individual, or the individual's spouse or common-law partner, in the particular year or any of the 10 preceding taxation years,
 
   **(6)** Clause (c)(i)(C) of the definition **total ecological gifts** in subsection 118.1(1) of the Act is replaced by the following:
 
@@ -1237,15 +1237,15 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(8)** The portion of subsection 118.1(5.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(5.1)** This subsection applies to a gift made by an individual's graduated rate estate (**determined without reference to paragraph (a) of the definition **graduated rate estate** in subsection 248(1)) if the gift is made no more than 60 months after the individual's death**, the death occurs after 2015 and either
+    **(5.1)** This subsection applies to a gift made by an individual's graduated rate estate (determined without reference to paragraph (a) of the definition **graduated rate estate** in subsection 248(1)) if the gift is made no more than 60 months after the individual's death, the death occurs after 2015 and either
 
   **(9)** Paragraph 118.1(19)(c) of the Act is replaced by the following:
 
-    **either**,
+    either,
 
-    if the taxpayer **is an individual's graduated rate estate,**
+    if the taxpayer is an individual's graduated rate estate,
 
-    **the individual dealt** at arm's length with the donee **immediately before the individual's death, and**
+    the individual dealt at arm's length with the donee immediately before the individual's death, and
 
     the graduated rate estate deals at arm's length with the donee (determined without reference to paragraph 251(1)(b)), or
 
@@ -1281,7 +1281,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Subparagraphs 125(1)(a)(i) and (ii) of the Act are replaced by the following:
 
-    the total of all amounts each of which is **the amount of** income of the corporation for the year from an active business carried on in Canada, **other than an amount that is**
+    the total of all amounts each of which is the amount of income of the corporation for the year from an active business carried on in Canada, other than an amount that is
 
     described in paragraph (a) of the description of A in the definition **specified partnership income** in subsection (7) for the year,
 
@@ -1317,17 +1317,17 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(3)** The portion of subsection 125(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** Notwithstanding subsections (2), **(3) and** (4),
+    **(5)** Notwithstanding subsections (2), (3) and (4),
 
   **(4)** The portion of subsection 125(5.1) of the Act before the formula is replaced by the following:
 
-    **(5.1)** Notwithstanding subsections (2), **(3), (4) and** (5), a Canadian-controlled private corporation's business limit for a particular taxation year ending in a calendar year is the amount, if any, by which its business limit otherwise determined for the particular year exceeds the amount determined by the formula
+    **(5.1)** Notwithstanding subsections (2), (3), (4) and (5), a Canadian-controlled private corporation's business limit for a particular taxation year ending in a calendar year is the amount, if any, by which its business limit otherwise determined for the particular year exceeds the amount determined by the formula
 
   **(5)** The description of A in the definition **specified partnership income** in subsection 125(7) is replaced by the following:
 
-    is the total of all amounts each of which is an amount in respect of a partnership of which the corporation was a member, **or a designated member**, in the year equal to the least of
+    is the total of all amounts each of which is an amount in respect of a partnership of which the corporation was a member, or a designated member, in the year equal to the least of
 
-    the total of all amounts each of which is an amount in respect of an active business carried on in Canada by the corporation as a member, **or a designated member**, of the partnership determined by the formula
+    the total of all amounts each of which is an amount in respect of an active business carried on in Canada by the corporation as a member, or a designated member, of the partnership determined by the formula
 
     is the total of all amounts each of which is
 
@@ -1337,7 +1337,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
     an amount included in the corporation's income for the year in respect of the business under any of subsections 34.2(2), (3) and (12), and
 
-    is the total of all amounts deducted in computing the corporation's income for the year from the business (other than amounts that were deducted in computing the income of the partnership from the business **or the income of the corporation described under subparagraph (ii) of the description of G**) or in respect of the business under subsection 34.2(4) or (11),
+    is the total of all amounts deducted in computing the corporation's income for the year from the business (other than amounts that were deducted in computing the income of the partnership from the business or the income of the corporation described under subparagraph (ii) of the description of G) or in respect of the business under subsection 34.2(4) or (11),
 
     an amount equal to
 
@@ -1373,7 +1373,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(6)** Paragraph (b) of the description of B in the definition **specified partnership income** in subsection 125(7) of the Act is replaced by the following:
 
-    the total of all amounts each of which is an amount in respect of a partnership of which the corporation was a member, **or a designated member**, in the year equal to the amount determined by the formula
+    the total of all amounts each of which is an amount in respect of a partnership of which the corporation was a member, or a designated member, in the year equal to the amount determined by the formula
 
     is the amount determined in respect of the partnership for the year under paragraph (a) of the description of A, and
 
@@ -1493,11 +1493,11 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Subparagraph 128.1(1)(b)(iii) of the Act is replaced by the following:
 
-    **property included in Class 14.1 of Schedule II to the `Income Tax Regulations`**, in respect of a business carried on by the taxpayer in Canada at the time of disposition, and
+    property included in Class 14.1 of Schedule II to the `Income Tax Regulations`, in respect of a business carried on by the taxpayer in Canada at the time of disposition, and
 
   **(2)** Subparagraph 128.1(4)(b)(ii) of the Act is replaced by the following:
 
-    capital property used in, **property included in Class 14.1 of Schedule II to the `Income Tax Regulations`** in respect of or property described in the inventory of, a business carried on by the taxpayer through a **permanent establishment** (as defined by regulation) in Canada at the particular time,
+    capital property used in, property included in Class 14.1 of Schedule II to the `Income Tax Regulations` in respect of or property described in the inventory of, a business carried on by the taxpayer through a **permanent establishment** (as defined by regulation) in Canada at the particular time,
 
   **(3)** Subsections (1) and (2) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -1505,7 +1505,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** The portion of subsection 130(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Where a corporation was an investment corporation throughout a taxation year (other than a corporation that was a mutual fund corporation throughout the year), subsections 131(1) to (3.2), **(4.1)** and (6) apply in respect of the corporation for the year
+    **(2)** Where a corporation was an investment corporation throughout a taxation year (other than a corporation that was a mutual fund corporation throughout the year), subsections 131(1) to (3.2), (4.1) and (6) apply in respect of the corporation for the year
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -1531,9 +1531,9 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(2)** The description of A in the definition **capital gains redemptions** in subsection 131(6) of the Act is replaced by the following:
 
-    is **the sum of**
+    is the sum of
 
-    the total of all amounts paid by the corporation in the year on the redemption of shares of its capital stock, **and**
+    the total of all amounts paid by the corporation in the year on the redemption of shares of its capital stock, and
 
     the total of all amounts each of which is an amount equal to the fair market value of the shares of the corporation's capital stock that were exchanged in the year for other shares of the corporation's capital stock if
 
@@ -1561,7 +1561,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Paragraph 132.11(1)(b) of the Act is replaced by the following:
 
-    if the trust's taxation year ends on December 15 because of paragraph (a), subject to subsection (1.1), each subsequent taxation year of the trust is deemed to be the period that begins at the beginning of December 16 of a calendar year and that ends at the end of December 15 of the following calendar year or at any earlier time that is determined under paragraph **128.1(4)(a)**, 132.2(3)(b), 142.6(1)**(a)** or **249(4)(a)**; and
+    if the trust's taxation year ends on December 15 because of paragraph (a), subject to subsection (1.1), each subsequent taxation year of the trust is deemed to be the period that begins at the beginning of December 16 of a calendar year and that ends at the end of December 15 of the following calendar year or at any earlier time that is determined under paragraph 128.1(4)(a), 132.2(3)(b), 142.6(1)(a) or 249(4)(a); and
 
   **(2)** Subsection (1) is deemed to have come into force on March 21, 2013.
 
@@ -1569,7 +1569,7 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
   **(1)** Paragraph 139.1(4)(b) of the Act is replaced by the following:
 
-    no amount paid or payable to a stakeholder in connection with the disposition, alteration or dilution of the stakeholder's ownership rights in the particular corporation **may be included in Class 14.1 of Schedule II to the `Income Tax Regulations`**;
+    no amount paid or payable to a stakeholder in connection with the disposition, alteration or dilution of the stakeholder's ownership rights in the particular corporation may be included in Class 14.1 of Schedule II to the `Income Tax Regulations`;
 
   **(2)** The portion of subsection 139.1(18) of the Act before paragraph (a) is replaced by the following:
 
@@ -1597,9 +1597,9 @@ is the absolute value of the negative amount, if any, that would be, in the abse
 
 Subsection 148(7) of the Act is replaced by the following:
 
-**(7)** **If** an interest of a policyholder in a life insurance policy is, **at any time (referred to in this subsection as the **disposition time**)**, disposed of (**other** than a disposition under paragraph (2)(b)) by way of a gift, by distribution from a corporation or by operation of law only to any person, or in any manner whatever to any person with whom the policyholder was not dealing at arm's length,
+**(7)** If an interest of a policyholder in a life insurance policy is, at any time (referred to in this subsection as the **disposition time**), disposed of (other than a disposition under paragraph (2)(b)) by way of a gift, by distribution from a corporation or by operation of law only to any person, or in any manner whatever to any person with whom the policyholder was not dealing at arm's length,
 
-  the policyholder **is** deemed to become entitled to receive, **at the disposition time**, proceeds of the disposition equal to the **greatest of**
+  the policyholder is deemed to become entitled to receive, at the disposition time, proceeds of the disposition equal to the greatest of
 
   the value of the interest at the disposition time,
 
@@ -1677,7 +1677,7 @@ Subsection 148(7) of the Act is replaced by the following:
 
   **(1)** The portion of subsection 152(9) of the Act before paragraph (a) is replaced by the following:
 
-    **(9)** At any time after the normal reassessment period, the Minister may advance an alternative **basis or** argument — **including that all or any portion of the income to which an amount relates was from a different source** — in support of **all or any portion of the total amount determined on assessment to be payable or remittable by a taxpayer under this Act** unless, on an appeal under this Act
+    **(9)** At any time after the normal reassessment period, the Minister may advance an alternative basis or argument — including that all or any portion of the income to which an amount relates was from a different source — in support of all or any portion of the total amount determined on assessment to be payable or remittable by a taxpayer under this Act unless, on an appeal under this Act
 
   **(2)** Subsection (1) comes into force on the day on which this Act receives royal assent, except that subsection (1) does not apply in respect of appeals instituted on or before that day.
 
@@ -1685,63 +1685,63 @@ Subsection 148(7) of the Act is replaced by the following:
 
 Paragraph 162(10)(a) of the Act is replaced by the following:
 
-knowingly or under circumstances amounting to gross negligence, fails to file an information return as and when required by any of sections 233.1 to 233.4 **and 233.8**, or
+knowingly or under circumstances amounting to gross negligence, fails to file an information return as and when required by any of sections 233.1 to 233.4 and 233.8, or
 
 ### Section 57
 
   **(1)** Subsections 212(3.1) to (3.3) of the Act are replaced by the following:
 
-    **(3.1)** **Subsection** (3.2) **applies** at any time in respect of a taxpayer if
+    **(3.1)** Subsection (3.2) applies at any time in respect of a taxpayer if
 
-      the taxpayer pays or credits a particular amount at that time **as**, on account or in lieu of payment of, or in satisfaction of, interest (determined without reference to paragraph 18(6.1)(b) and subsection 214(16)) in respect of a particular debt or other obligation to pay an amount to a person or partnership (in this subsection **and subsection (3.2)** referred to as the ****immediate funder****);
+      the taxpayer pays or credits a particular amount at that time as, on account or in lieu of payment of, or in satisfaction of, interest (determined without reference to paragraph 18(6.1)(b) and subsection 214(16)) in respect of a particular debt or other obligation to pay an amount to a person or partnership (in this subsection and subsection (3.2) referred to as the **immediate funder**);
 
-      the **immediate funder** is not
+      the immediate funder is not
 
       a person resident in Canada that does not deal at arm's length with the taxpayer, or
 
       a partnership each member of which is a person described in subparagraph (i);
 
-      at any time in the period during which the interest accrued (in this subsection and subsections (3.2) and (3.3) referred to as the **relevant period**), **a relevant funder, in respect of a particular relevant funding arrangement**,
+      at any time in the period during which the interest accrued (in this subsection and subsections (3.2) and (3.3) referred to as the **relevant period**), a relevant funder, in respect of a particular relevant funding arrangement,
 
-      has an amount outstanding as or on account of a debt or other obligation to pay an amount to a **person or partnership** that meets any of the following conditions:
+      has an amount outstanding as or on account of a debt or other obligation to pay an amount to a person or partnership that meets any of the following conditions:
 
-      recourse in respect of the debt or other obligation is limited in whole or in part, either immediately or in the future and either absolutely or contingently, to **a relevant funding arrangement**, or
+      recourse in respect of the debt or other obligation is limited in whole or in part, either immediately or in the future and either absolutely or contingently, to a relevant funding arrangement, or
 
-      it can reasonably be concluded that all or a portion of the particular **relevant funding arrangement was entered into, or was permitted to remain in effect**, because
+      it can reasonably be concluded that all or a portion of the particular relevant funding arrangement was entered into, or was permitted to remain in effect, because
 
       all or a portion of the debt or other obligation was entered into or was permitted to remain outstanding, or
 
-      the **relevant funder** anticipated that all or a portion of the debt or other obligation would become owing or remain outstanding, or
+      the relevant funder anticipated that all or a portion of the debt or other obligation would become owing or remain outstanding, or
 
-      has a specified right in respect of a particular property that was granted directly or indirectly by a **person or partnership** and
+      has a specified right in respect of a particular property that was granted directly or indirectly by a person or partnership and
 
-      the existence of the specified right is required under the terms and conditions of the particular **relevant funding arrangement**, or
+      the existence of the specified right is required under the terms and conditions of the particular relevant funding arrangement, or
 
-      it can reasonably be concluded that all or a portion of the particular **relevant funding arrangement was entered into, or was permitted to remain in effect**, because
+      it can reasonably be concluded that all or a portion of the particular relevant funding arrangement was entered into, or was permitted to remain in effect, because
 
       the specified right was granted, or
 
-      the **relevant funder** anticipated that the specified right would be granted;
+      the relevant funder anticipated that the specified right would be granted;
 
-      the tax that would be payable under this Part in respect of the particular amount, if the particular amount were paid or credited to **any ultimate funder** rather than the **immediate funder**, is greater than the tax payable under this Part (determined without reference to this subsection and subsection (3.2)) in respect of the particular amount; and
+      the tax that would be payable under this Part in respect of the particular amount, if the particular amount were paid or credited to any ultimate funder rather than the immediate funder, is greater than the tax payable under this Part (determined without reference to this subsection and subsection (3.2)) in respect of the particular amount; and
 
-      **at any time during the relevant period**, the total of all amounts  — each of which is an amount outstanding as or on account of **a debt or other obligation owed by the immediate funder that is a relevant funding arrangement** or the fair market value of a particular property **in respect of which the immediate funder is granted a specified right that is a relevant funding arrangement** — is equal to at least 25% of the total of
+      at any time during the relevant period, the total of all amounts  — each of which is an amount outstanding as or on account of a debt or other obligation owed by the immediate funder that is a relevant funding arrangement or the fair market value of a particular property in respect of which the immediate funder is granted a specified right that is a relevant funding arrangement — is equal to at least 25% of the total of
 
       the amount outstanding as or on account of the particular debt or other obligation, and
 
-      the total of all amounts each of which is an amount (other than the amount described in subparagraph (i)) that the taxpayer, or a person or partnership that does not deal at arm's length with the taxpayer, has outstanding as or on account of a debt or other obligation to pay an amount to the **immediate funder** under the agreement, or an agreement that is connected to the agreement, under which the particular debt or other obligation was entered into where
+      the total of all amounts each of which is an amount (other than the amount described in subparagraph (i)) that the taxpayer, or a person or partnership that does not deal at arm's length with the taxpayer, has outstanding as or on account of a debt or other obligation to pay an amount to the immediate funder under the agreement, or an agreement that is connected to the agreement, under which the particular debt or other obligation was entered into where
 
-      the **immediate funder** is granted a **security interest** (as defined in subsection 18(5)) in respect of a property that is the **debt or other obligation owed by the immediate funder** or the particular property, as the case may be, and the security interest secures the payment of two or more debts or other obligations that include the debt or other obligation and the particular debt or other obligation, and
+      the immediate funder is granted a **security interest** (as defined in subsection 18(5)) in respect of a property that is the debt or other obligation owed by the immediate funder or the particular property, as the case may be, and the security interest secures the payment of two or more debts or other obligations that include the debt or other obligation and the particular debt or other obligation, and
 
       each security interest that secures the payment of a debt or other obligation referred to in clause (A) secures the payment of every debt or other obligation referred to in that clause.
 
-    ****(3.2)**** If this subsection applies at any time in respect of a taxpayer, then for the purposes of paragraph (1)(b), the taxpayer is deemed, at that time, to pay interest to **each ultimate funder**, the amount of which is determined **for each particular ultimate funder** by the formula
+    **(3.2)** If this subsection applies at any time in respect of a taxpayer, then for the purposes of paragraph (1)(b), the taxpayer is deemed, at that time, to pay interest to each ultimate funder, the amount of which is determined for each particular ultimate funder by the formula
 
       is the particular amount referred to in paragraph (3.1)(a);
 
       is the portion, if any, of the particular amount deemed by subsection 214(16) to have been paid by the taxpayer as a dividend;
 
-      is the average of all amounts each of which is, at a particular time in the relevant period, the amount **determined by the formula**
+      is the average of all amounts each of which is, at a particular time in the relevant period, the amount determined by the formula
 
       is the lesser of the following amounts:
 
@@ -1749,11 +1749,11 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
       the total of all amounts each of which is at that particular time
 
-      an amount outstanding as or on account of **a** debt or other obligation that is owed to the particular **ultimate funder under a relevant funding arrangement**,
+      an amount outstanding as or on account of a debt or other obligation that is owed to the particular ultimate funder under a relevant funding arrangement,
 
-      the fair market value of a particular property referred to in subparagraph (3.1)(c)(ii) in respect of **which** the particular **ultimate funder has granted a specified right under a relevant funding arrangement, or**
+      the fair market value of a particular property referred to in subparagraph (3.1)(c)(ii) in respect of which the particular ultimate funder has granted a specified right under a relevant funding arrangement, or
 
-      if neither **subparagraph (i) nor (ii)** applies at that particular time, nil, **and**
+      if neither subparagraph (i) nor (ii) applies at that particular time, nil, and
 
       is the total of all amounts each of which is, at the particular time, the amount that is
 
@@ -1765,9 +1765,9 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
       is the average of all amounts each of which is the amount of the particular debt or other obligation outstanding at a time in the relevant period;
 
-      is the rate of tax (determined without reference to subsection 214(16)) that would be imposed under this Part on the particular amount if the particular amount were paid by the taxpayer to the particular **ultimate funder** at that time; and
+      is the rate of tax (determined without reference to subsection 214(16)) that would be imposed under this Part on the particular amount if the particular amount were paid by the taxpayer to the particular ultimate funder at that time; and
 
-      is the rate of tax (determined without reference to subsection 214(16)) imposed under this Part on the **immediate funder** in respect of all or the portion of the particular amount paid or credited to the **immediate funder**.
+      is the rate of tax (determined without reference to subsection 214(16)) imposed under this Part on the immediate funder in respect of all or the portion of the particular amount paid or credited to the immediate funder.
 
     **(3.21)** Subsection (3.22) applies in respect of a taxpayer and two or more ultimate funders (referred to in this subsection and subsection (3.22) as the **electing ultimate funders**) at any time if
 
@@ -2081,7 +2081,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
 ### Section 212.1
 
-      **(1)** **Subsection (1.1) applies if** a non-resident person **or** designated partnership (in this **subsection and subsections (1.1) and (1.2)** referred to as the **non-resident person**) disposes of shares (in this section referred to as the **subject shares**) of any class of the capital stock of a corporation resident in Canada (in this section referred to as the **subject corporation**) to another corporation resident in Canada (in this section referred to as the **purchaser corporation**) with which the non-resident person does not (otherwise than because of a right referred to in paragraph 251(5)(b)) deal at arm's length and, immediately after the disposition, the subject corporation is connected (within the meaning that would be assigned by subsection 186(4) if the references in that subsection to "payer corporation" and "particular corporation" were read as "subject corporation" and "purchaser corporation", respectively) with the purchaser corporation.
+      **(1)** Subsection (1.1) applies if a non-resident person or designated partnership (in this subsection and subsections (1.1) and (1.2) referred to as the **non-resident person**) disposes of shares (in this section referred to as the **subject shares**) of any class of the capital stock of a corporation resident in Canada (in this section referred to as the **subject corporation**) to another corporation resident in Canada (in this section referred to as the **purchaser corporation**) with which the non-resident person does not (otherwise than because of a right referred to in paragraph 251(5)(b)) deal at arm's length and, immediately after the disposition, the subject corporation is connected (within the meaning that would be assigned by subsection 186(4) if the references in that subsection to "payer corporation" and "particular corporation" were read as "subject corporation" and "purchaser corporation", respectively) with the purchaser corporation.
 
       **(1.1)** If this subsection applies,
 
@@ -2113,23 +2113,23 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(2)** Subparagraph 212.1(2)(a)(ii) of the Act is replaced by the following:
 
-    the total that would be determined under subparagraph (i) if this Act were read without reference to paragraph (**1.1**)(b), and
+    the total that would be determined under subparagraph (i) if this Act were read without reference to paragraph (1.1)(b), and
 
   **(3)** Paragraph 212.1(2)(b) of the Act is replaced by the following:
 
-    the total of all amounts each of which is an amount required by paragraph (**1.1**)(b) to be deducted in computing the paid-up capital in respect of the particular class of shares after March 31, 1977 and before the particular time.
+    the total of all amounts each of which is an amount required by paragraph (1.1)(b) to be deducted in computing the paid-up capital in respect of the particular class of shares after March 31, 1977 and before the particular time.
 
   **(4)** The portion of paragraph 212.1(3)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    a non-resident person **or designated partnership** shall, for greater certainty, be deemed not to deal at arm's length with a purchaser corporation **at the time of a disposition described in subsection (1)** if the non-resident person **or designated partnership** was,
+    a non-resident person or designated partnership shall, for greater certainty, be deemed not to deal at arm's length with a purchaser corporation at the time of a disposition described in subsection (1) if the non-resident person or designated partnership was,
 
   **(5)** The portion of paragraph 212.1(3)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    for the purposes of determining whether or not a particular non-resident person **or designated partnership** (in this paragraph referred to as the **taxpayer**) referred to in paragraph (a) was a member of a group of less than 6 persons that controlled a corporation at any time, any shares of the capital stock of that corporation owned at that time by
+    for the purposes of determining whether or not a particular non-resident person or designated partnership (in this paragraph referred to as the **taxpayer**) referred to in paragraph (a) was a member of a group of less than 6 persons that controlled a corporation at any time, any shares of the capital stock of that corporation owned at that time by
 
   **(6)** Subsection 212.1(4) of the Act is replaced by the following:
 
-    **(4)** Notwithstanding subsection (1), **subsection (1.1)** does not apply in respect of a disposition by a non-resident corporation of shares of a subject corporation to a purchaser corporation if
+    **(4)** Notwithstanding subsection (1), subsection (1.1) does not apply in respect of a disposition by a non-resident corporation of shares of a subject corporation to a purchaser corporation if
 
       immediately before the disposition, the purchaser corporation controlled the non-resident corporation; and
 
@@ -2145,7 +2145,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(1)** Paragraph 212.2(1)(b) of the Act is replaced by the following:
 
-    subsection 212.1(**1.1**) does not apply in respect of the disposition;
+    subsection 212.1(1.1) does not apply in respect of the disposition;
 
   **(2)** Subsection (1) applies in respect of dispositions that occur after March 21, 2016.
 
@@ -2285,13 +2285,13 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
     **inventory** means a description of property the cost or value of which is relevant in computing a taxpayer's income from a business for a taxation year or would have been so relevant if the income from the business had not been computed in accordance with the cash method and includes
 
-    with respect to a farming business, all of the livestock held in the course of carrying on the business, **and**
+    with respect to a farming business, all of the livestock held in the course of carrying on the business, and
 
-    **an emissions allowance**; (**inventaire**)
+    an emissions allowance; (**inventaire**)
 
   **(3)** Paragraph (a) of the definition **balance-due day** in subsection 248(1) of the Act is replaced by the following:
 
-    **if** the taxpayer is a trust,
+    if the taxpayer is a trust,
 
     in the case where the time at which the taxation year ends is determined under paragraph 249(4)(a), the day that is
 
@@ -2301,7 +2301,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
     in any other case, 90 days after the end of the calendar year that includes that time, and
 
-    in any other case, the day that is 90 days after the end of the **taxation** year,
+    in any other case, the day that is 90 days after the end of the taxation year,
 
   **(4)** Paragraph (d) of the definition **cost amount** in subsection 248(1) of the Act is repealed.
 
@@ -2311,7 +2311,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(6)** The portion of paragraph (b) of the definition **taxable Canadian property** in subsection 248(1) of the Act before subparagraph (i) is replaced by the following:
 
-    property used or held by the taxpayer in, **property included in Class 14.1 of Schedule II to the `Income Tax Regulations`** in respect of, or property described in an inventory of, a business carried on in Canada, other than
+    property used or held by the taxpayer in, property included in Class 14.1 of Schedule II to the `Income Tax Regulations` in respect of, or property described in an inventory of, a business carried on in Canada, other than
 
   **(7)** Subsection 248(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2335,7 +2335,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(1)** Paragraph 249(4)(b) of the Act is replaced by the following:
 
-    subject to paragraph 128(1)(d), section 128.1 and paragraphs 142.6(1)(a) and 149(10)(a), and notwithstanding subsections (1) and (3), if **the taxpayer is a corporation and** the taxpayer's taxation year that would, but for this subsection, have been its last taxation year that ended before that time, would, but for this paragraph, have ended within the seven-day period that ended immediately before that time, that taxation year is, except if the taxpayer is subject to a loss restriction event within that period, deemed to end immediately before that time, provided that the taxpayer so elects in its return of income under Part I for that taxation year.
+    subject to paragraph 128(1)(d), section 128.1 and paragraphs 142.6(1)(a) and 149(10)(a), and notwithstanding subsections (1) and (3), if the taxpayer is a corporation and the taxpayer's taxation year that would, but for this subsection, have been its last taxation year that ended before that time, would, but for this paragraph, have ended within the seven-day period that ended immediately before that time, that taxation year is, except if the taxpayer is subject to a loss restriction event within that period, deemed to end immediately before that time, provided that the taxpayer so elects in its return of income under Part I for that taxation year.
 
   **(2)** Subsection (1) is deemed to have come into force on March 21, 2013.
 
@@ -2375,15 +2375,15 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
     the liabilities of the person held by the trust have a total fair market value that is no more than 10% of the fair market value of all of the liabilities of the person. (**fiducie de placement déterminée**)
 
-    **majority-interest beneficiary** has the same meaning as in subsection 251.1(3) **read without reference to the expression ", if any," in the definition **majority-interest beneficiary** in that subsection**. (**bénéficiaires détenant une participation majoritaire**)
+    **majority-interest beneficiary** has the same meaning as in subsection 251.1(3) read without reference to the expression ", if any," in the definition **majority-interest beneficiary** in that subsection. (**bénéficiaires détenant une participation majoritaire**)
 
   **(3)** Paragraph 251.2(3)(f) of the Act is replaced by the following:
 
-    the acquisition **or disposition** of equity of the particular trust **at any time** if
+    the acquisition or disposition of equity of the particular trust at any time if
 
-    the particular trust is an investment fund immediately **before that time**, and
+    the particular trust is an investment fund immediately before that time, and
 
-    the acquisition **or disposition, as the case may be**, is not part of a series of transactions or events that includes the particular trust ceasing to be an investment fund.
+    the acquisition or disposition, as the case may be, is not part of a series of transactions or events that includes the particular trust ceasing to be an investment fund.
 
   **(4)** Subsection 251.2(5) of the Act is amended by striking out "and" at the end of paragraph (a), by adding "and'' at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -2391,7 +2391,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(5)** Subsection 251.2(7) of the Act is replaced by the following:
 
-    **(7)** If **at any time** a trust is subject to a loss restriction event, **in respect of the trust** for its taxation year that **ends immediately before that time**,
+    **(7)** If at any time a trust is subject to a loss restriction event, in respect of the trust for its taxation year that ends immediately before that time,
 
       the reference in paragraph 132(2.1)(a) to "the day that is 90 days after the end of the year" is to be read as "the balance-due day of the trust for the year";
 
@@ -2419,7 +2419,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
 ### Section 253.1
 
-      **(1)** For the purposes of subparagraph 108(2)(b)(ii), paragraphs 130.1(6)(b), 131(8)(b), 132(6)(b) and 146.1(2.1)(c), subsection 146.2(6), paragraph 146.4(5)(b), subsection 147.5(8), paragraph 149(1)(o.2), the definition **private holding corporation** in subsection 191(1), **the definition **investment fund** in subsection 251.2(1)** and regulations made for the purposes of paragraphs 149(1)(o.3) and (o.4), if a trust or corporation holds an interest as a member of a partnership and, by operation of any law governing the arrangement in respect of the partnership, the liability of the member as a member of the partnership is limited, the member shall not, solely because of its acquisition and holding of that interest, be considered to carry on any business or other activity of the partnership.
+      **(1)** For the purposes of subparagraph 108(2)(b)(ii), paragraphs 130.1(6)(b), 131(8)(b), 132(6)(b) and 146.1(2.1)(c), subsection 146.2(6), paragraph 146.4(5)(b), subsection 147.5(8), paragraph 149(1)(o.2), the definition **private holding corporation** in subsection 191(1), the definition **investment fund** in subsection 251.2(1) and regulations made for the purposes of paragraphs 149(1)(o.3) and (o.4), if a trust or corporation holds an interest as a member of a partnership and, by operation of any law governing the arrangement in respect of the partnership, the liability of the member as a member of the partnership is limited, the member shall not, solely because of its acquisition and holding of that interest, be considered to carry on any business or other activity of the partnership.
 
   **(2)** Subsection (1) is deemed to have come into force on March 21, 2013.
 
@@ -2429,11 +2429,11 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
     **(2)** For the purposes of
 
-      this Act, **subject to paragraph (b)**, two corporations are deemed to be associated with each other at a **particular** time if
+      this Act, subject to paragraph (b), two corporations are deemed to be associated with each other at a particular time if
 
-      **they** would, but for this subsection, not be associated with each other at the particular time, and
+      they would, but for this subsection, not be associated with each other at the particular time, and
 
-      **each corporation is** associated with, or is deemed by this subsection to be associated with, the **same** corporation (in this subsection referred to as the **third corporation**) at the particular time; and
+      each corporation is associated with, or is deemed by this subsection to be associated with, the same corporation (in this subsection referred to as the **third corporation**) at the particular time; and
 
       section 125,
 
@@ -2443,7 +2443,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(2)** The portion of subsection 256(8) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(8)** Pour ce qui est de déterminer, d'une part, si le contrôle d'une société a été acquis pour l'application des paragraphes 10(10) et 13(24), de l'article 37, des paragraphes 55(2), 66(11), (11.4) et (11.5), 66.5(3) et 66.7(10) et (11), de l'article 80, de l'alinéa 80.04(4)h), du sous-alinéa 88(1)c)(vi), de l'alinéa 88(1)c.3), des paragraphes 88(1.1) et (1.2), des articles 111 et 127, des paragraphes 181.1(7), 190.1(6) et 249(4) et de l'alinéa 251.2(2)a) et, d'autre part, si une société est contrôlée par une personne ou par un groupe de personnes pour l'application de l'article 251.1, **de l'alinéa b) de la définition de **fiducie de placement déterminée** au paragraphe 251.2(1)** et des alinéas 251.2(3)c) et d), le contribuable qui a acquis un droit visé à l'alinéa 251(5)b) afférent à une action est réputé être dans la même position relativement au contrôle de la société que si le droit était immédiat et absolu et que s'il l'avait exercé au moment de l'acquisition, dans le cas où il est raisonnable de conclure que l'un des principaux motifs de l'acquisition du droit consistait :
+    **(8)** Pour ce qui est de déterminer, d'une part, si le contrôle d'une société a été acquis pour l'application des paragraphes 10(10) et 13(24), de l'article 37, des paragraphes 55(2), 66(11), (11.4) et (11.5), 66.5(3) et 66.7(10) et (11), de l'article 80, de l'alinéa 80.04(4)h), du sous-alinéa 88(1)c)(vi), de l'alinéa 88(1)c.3), des paragraphes 88(1.1) et (1.2), des articles 111 et 127, des paragraphes 181.1(7), 190.1(6) et 249(4) et de l'alinéa 251.2(2)a) et, d'autre part, si une société est contrôlée par une personne ou par un groupe de personnes pour l'application de l'article 251.1, de l'alinéa b) de la définition de **fiducie de placement déterminée** au paragraphe 251.2(1) et des alinéas 251.2(3)c) et d), le contribuable qui a acquis un droit visé à l'alinéa 251(5)b) afférent à une action est réputé être dans la même position relativement au contrôle de la société que si le droit était immédiat et absolu et que s'il l'avait exercé au moment de l'acquisition, dans le cas où il est raisonnable de conclure que l'un des principaux motifs de l'acquisition du droit consistait :
 
   **(3)** Paragraph 256(8)(b) of the Act is replaced by the following:
 
@@ -2451,7 +2451,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(4)** The portion of subsection 256(8) of the English version of the Act after paragraph (e) is replaced by the following:
 
-    the taxpayer is deemed to be in the same position in relation to the control of the corporation as if the right were immediate and absolute and as if the taxpayer had exercised the right at that time for the purpose of determining whether control of a corporation has been acquired for the purposes of subsections 10(10) and 13(24), section 37, subsections 55(2), 66(11), (11.4) and (11.5), 66.5(3), 66.7(10) and (11), section 80, paragraph 80.04(4)(h), subparagraph 88(1)(c)(vi), paragraph 88(1)(c.3), subsections 88(1.1) and (1.2), sections 111 and 127, subsections 181.1(7), 190.1(6) and 249(4) and paragraph 251.2(2)(a) and in determining for the purposes of section 251.1, **paragraph (b) of the definition **investment fund** in subsection 251.2(1)** and paragraphs 251.2(3)(c) and (d) **and 256(7)(i)** whether a corporation is controlled by any other person or group of persons.
+    the taxpayer is deemed to be in the same position in relation to the control of the corporation as if the right were immediate and absolute and as if the taxpayer had exercised the right at that time for the purpose of determining whether control of a corporation has been acquired for the purposes of subsections 10(10) and 13(24), section 37, subsections 55(2), 66(11), (11.4) and (11.5), 66.5(3), 66.7(10) and (11), section 80, paragraph 80.04(4)(h), subparagraph 88(1)(c)(vi), paragraph 88(1)(c.3), subsections 88(1.1) and (1.2), sections 111 and 127, subsections 181.1(7), 190.1(6) and 249(4) and paragraph 251.2(2)(a) and in determining for the purposes of section 251.1, paragraph (b) of the definition **investment fund** in subsection 251.2(1) and paragraphs 251.2(3)(c) and (d) and 256(7)(i) whether a corporation is controlled by any other person or group of persons.
 
   **(5)** Subsection (1) applies to taxation years that begin after March 21, 2016.
 
@@ -2471,19 +2471,19 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(1)** Paragraph 261(2)(b) of the Act is replaced by the following:
 
-    subject to this section, other than this subsection, **subsections 20(14.2) and** 79(7) and paragraphs 80(2)(k) and 142.7(8)(b), if a particular amount that is relevant in computing those Canadian tax results is expressed in a currency other than Canadian currency, the particular amount is to be converted to an amount expressed in Canadian currency using the relevant spot rate for the day on which the particular amount arose.
+    subject to this section, other than this subsection, subsections 20(14.2) and 79(7) and paragraphs 80(2)(k) and 142.7(8)(b), if a particular amount that is relevant in computing those Canadian tax results is expressed in a currency other than Canadian currency, the particular amount is to be converted to an amount expressed in Canadian currency using the relevant spot rate for the day on which the particular amount arose.
 
   **(2)** Paragraph 261(5)(c) of the Act is replaced by the following:
 
-    subject to paragraph (9)(b), subsection (15), **subsections 20(14.2) and** 79(7) and paragraphs 80(2)(k) and 142.7(8)(b), if a particular amount that is relevant in computing the taxpayer's Canadian tax results for the particular taxation year is expressed in a currency other than the taxpayer's elected functional currency, the particular amount is to be converted to an amount expressed in the taxpayer's elected functional currency using the relevant spot rate for the day on which the particular amount arose;
+    subject to paragraph (9)(b), subsection (15), subsections 20(14.2) and 79(7) and paragraphs 80(2)(k) and 142.7(8)(b), if a particular amount that is relevant in computing the taxpayer's Canadian tax results for the particular taxation year is expressed in a currency other than the taxpayer's elected functional currency, the particular amount is to be converted to an amount expressed in the taxpayer's elected functional currency using the relevant spot rate for the day on which the particular amount arose;
 
   **(3)** Subparagraph 261(5)(f)(i) of the Act is replaced by the following:
 
-    section 76.1, **subsections 20(14.2) and** 79(7), paragraph 80(2)(k), subsections 80.01(11), 80.1(8), 93(2.01) to (2.31), 142.4(1) and 142.7(8) and the definition **amortized cost** in subsection 248(1), and subparagraph 231(6)(a)(iv) of the `Income Tax Regulations`, to "Canadian currency" is, in respect of the taxpayer and the particular taxation year, and with such modifications as the context requires, to be read as "the taxpayer's elected functional currency", and
+    section 76.1, subsections 20(14.2) and 79(7), paragraph 80(2)(k), subsections 80.01(11), 80.1(8), 93(2.01) to (2.31), 142.4(1) and 142.7(8) and the definition **amortized cost** in subsection 248(1), and subparagraph 231(6)(a)(iv) of the `Income Tax Regulations`, to "Canadian currency" is, in respect of the taxpayer and the particular taxation year, and with such modifications as the context requires, to be read as "the taxpayer's elected functional currency", and
 
   **(4)** Subparagraph 261(7)(d)(i) of the Act is replaced by the following:
 
-    is in respect of the taxpayer's undepreciated capital cost of depreciable property of a prescribed class, **cumulative Canadian exploration expense** (**as defined in** subsection 66.1(6)), **cumulative Canadian development expense** (**as defined in** subsection 66.2(5)), **cumulative foreign resource expense** in respect of a country other than Canada (**as defined in** subsection 66.21(1)) or **cumulative Canadian oil and gas property expense** (**as defined in** subsection 66.4(5)) (each of which is referred to in this paragraph as a **pool amount**), and
+    is in respect of the taxpayer's undepreciated capital cost of depreciable property of a prescribed class, **cumulative Canadian exploration expense** (as defined in subsection 66.1(6)), **cumulative Canadian development expense** (as defined in subsection 66.2(5)), **cumulative foreign resource expense** in respect of a country other than Canada (as defined in subsection 66.21(1)) or **cumulative Canadian oil and gas property expense** (as defined in subsection 66.4(5)) (each of which is referred to in this paragraph as a **pool amount**), and
 
   **(5)** Section 261 of the Act is amended by adding the following after subsection (10):
 
@@ -3505,15 +3505,15 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
 ### Section 20
 
-      **(1)** **If** the capital cost to a taxpayer of any depreciable property (**other than a property that was, at any time, **eligible capital property** as defined in the amended Act at that time**) acquired by the taxpayer before 1972 and owned by the taxpayer without interruption from December 31, 1971 until such time after 1971 as the taxpayer disposed of it is less than the fair market value of the property on valuation day and less than the proceeds of disposition thereof otherwise determined,
+      **(1)** If the capital cost to a taxpayer of any depreciable property (other than a property that was, at any time, **eligible capital property** as defined in the amended Act at that time) acquired by the taxpayer before 1972 and owned by the taxpayer without interruption from December 31, 1971 until such time after 1971 as the taxpayer disposed of it is less than the fair market value of the property on valuation day and less than the proceeds of disposition thereof otherwise determined,
 
   **(2)** Subsections 20(1.3) to (2) of the Rules are replaced by the following:
 
-    **(1.3)** Without restricting the generality of section 18, **if** any depreciable property (**other than a property that was, at any time, **eligible capital property** as defined in the amended Act at that time**) has been transferred before 1972 in circumstances such that subsection 20(4) of the former Act would, if that provision applied to transfers of property made in the 1972 taxation year, apply, paragraph 69(1)(b) of the amended Act does not apply to the transfer and subsection 20(4) of the former Act applies thereto.
+    **(1.3)** Without restricting the generality of section 18, if any depreciable property (other than a property that was, at any time, **eligible capital property** as defined in the amended Act at that time) has been transferred before 1972 in circumstances such that subsection 20(4) of the former Act would, if that provision applied to transfers of property made in the 1972 taxation year, apply, paragraph 69(1)(b) of the amended Act does not apply to the transfer and subsection 20(4) of the former Act applies thereto.
 
-    **(1.4)** The capital cost to a taxpayer, as of any particular time after 1971, of any depreciable property (other than depreciable property referred to in subsection (1.3) or deemed by subparagraph (1)(b)(ii) to have been acquired by the taxpayer before 1972 **or a property that was, at any time, **eligible capital property** as defined in the amended Act at that time**) acquired by the taxpayer before 1972 as, on account of, in lieu of payment of or in satisfaction of, a dividend payable in kind (other than a stock dividend) in respect of a share owned by the taxpayer of the capital stock of a corporation, **is** deemed to be the fair market value of that property at the time the property was so received.
+    **(1.4)** The capital cost to a taxpayer, as of any particular time after 1971, of any depreciable property (other than depreciable property referred to in subsection (1.3) or deemed by subparagraph (1)(b)(ii) to have been acquired by the taxpayer before 1972 or a property that was, at any time, **eligible capital property** as defined in the amended Act at that time) acquired by the taxpayer before 1972 as, on account of, in lieu of payment of or in satisfaction of, a dividend payable in kind (other than a stock dividend) in respect of a share owned by the taxpayer of the capital stock of a corporation, is deemed to be the fair market value of that property at the time the property was so received.
 
-    **(2)** In determining a taxpayer's income for a taxation year from farming or fishing, subsection 13(1) of the amended Act does not apply in respect of the disposition by the taxpayer of property (**other than a property that was, at any time, **eligible capital property** as defined in the amended Act at that time**) acquired by the taxpayer before 1972 unless the taxpayer has elected to make a deduction for that or a preceding taxation year, in respect of the capital cost of property acquired by the taxpayer before 1972, under regulations made under paragraph 20(1)(a) of that Act other than a regulation providing solely for an allowance for computing income from farming or fishing.
+    **(2)** In determining a taxpayer's income for a taxation year from farming or fishing, subsection 13(1) of the amended Act does not apply in respect of the disposition by the taxpayer of property (other than a property that was, at any time, **eligible capital property** as defined in the amended Act at that time) acquired by the taxpayer before 1972 unless the taxpayer has elected to make a deduction for that or a preceding taxation year, in respect of the capital cost of property acquired by the taxpayer before 1972, under regulations made under paragraph 20(1)(a) of that Act other than a regulation providing solely for an allowance for computing income from farming or fishing.
 
   **(3)** Subsections (1) and (2) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -3521,11 +3521,11 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(1)** Subsection 21(1) of the Rules is replaced by the following:
 
-    **21(1)** **If** as a result of a disposition occurring after 1971 a taxpayer has or may become entitled to receive an amount (in this section referred to as the **actual amount**) **that may reasonably be considered to be consideration received by the taxpayer for the disposition of, or for allowing the expiration of, a government right**, in respect of a business carried on by the taxpayer throughout the period beginning January 1, 1972 and ending immediately after the disposition occurred, for the purposes of the amended Act the amount that the taxpayer has or may become entitled to receive **is** deemed to be the amount, if any, by which the actual amount exceeds the greater of
+    **21(1)** If as a result of a disposition occurring after 1971 a taxpayer has or may become entitled to receive an amount (in this section referred to as the **actual amount**) that may reasonably be considered to be consideration received by the taxpayer for the disposition of, or for allowing the expiration of, a government right, in respect of a business carried on by the taxpayer throughout the period beginning January 1, 1972 and ending immediately after the disposition occurred, for the purposes of the amended Act the amount that the taxpayer has or may become entitled to receive is deemed to be the amount, if any, by which the actual amount exceeds the greater of
 
       the total of all amounts each of which is an outlay or expenditure made or incurred by the taxpayer as a result of a transaction that occurred before 1972 for the purpose of acquiring the government right, or the taxpayer's original right in respect of the government right, to the extent that the outlay or expenditure was not otherwise deducted in computing the income of the taxpayer for any taxation year and would, if made or incurred by the taxpayer as a result of a transaction that occurred after 1971, be an eligible capital expenditure of the taxpayer; and
 
-      the fair market value to the taxpayer **on** December 31, 1971 of the taxpayer's specified right in respect of the government right, if no outlay or expenditure was made or incurred by the taxpayer for the purpose of acquiring the right or, if an outlay or expenditure was made or incurred, if that outlay or expenditure would have been an eligible capital expenditure of the taxpayer if it had been made or incurred as a result of a transaction that occurred after 1971.
+      the fair market value to the taxpayer on December 31, 1971 of the taxpayer's specified right in respect of the government right, if no outlay or expenditure was made or incurred by the taxpayer for the purpose of acquiring the right or, if an outlay or expenditure was made or incurred, if that outlay or expenditure would have been an eligible capital expenditure of the taxpayer if it had been made or incurred as a result of a transaction that occurred after 1971.
 
   **(2)** The portion of subsection 21(2.1) of the Rules after paragraph (b) is replaced by the following:
 
@@ -3544,7 +3544,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(2)** Subsection 201(4) of the Regulations is replaced by the following:
 
-    **(4)** A person or partnership that is indebted in a calendar year under a debt obligation in respect of which subsection 12(4) of the Act and paragraph (1)(b) apply with respect to a taxpayer shall make an information return in prescribed form in respect of the amount (**other than an amount to which paragraph (1)(g) applies**) that would, if the year were a taxation year of the taxpayer, be included as interest in respect of the debt obligation in computing the taxpayer's income for the year.
+    **(4)** A person or partnership that is indebted in a calendar year under a debt obligation in respect of which subsection 12(4) of the Act and paragraph (1)(b) apply with respect to a taxpayer shall make an information return in prescribed form in respect of the amount (other than an amount to which paragraph (1)(g) applies) that would, if the year were a taxation year of the taxpayer, be included as interest in respect of the debt obligation in computing the taxpayer's income for the year.
 
   **(3)** Subsections (1) and (2) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -3608,9 +3608,9 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
   **(1)** Subparagraphs 1219(2)(b)(iv) and (v) of the Regulations are replaced by the following:
 
-    included in the capital cost of property that, but for this section, would be depreciable property (**other than property that would be included in Class 14.1 of Schedule II**), except as provided by paragraph (1)(b), (d), (e), (f), or (g),
+    included in the capital cost of property that, but for this section, would be depreciable property (other than property that would be included in Class 14.1 of Schedule II), except as provided by paragraph (1)(b), (d), (e), (f), or (g),
 
-    **included in the capital cost of property** that, but for this section, would be **property included in Class 14.1 of Schedule II**, except as provided by any of paragraphs (1)(a) to (e),
+    included in the capital cost of property that, but for this section, would be property included in Class 14.1 of Schedule II, except as provided by any of paragraphs (1)(a) to (e),
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -3636,7 +3636,7 @@ knowingly or under circumstances amounting to gross negligence, fails to file an
 
 ### Section 8201
 
-    For the purposes of subsection 16.1(1), the definition **outstanding debts to specified non-residents** in subsection 18(5), subsections 100(1.3) and 112(2), the definition **qualified Canadian transit organization** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition **taxable supplier** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), **section 233.8**, the definitions **Canadian banking business** and **tax-indifferent investor** in subsection 248(1) and paragraph 260(5)(a) of the Act, a **permanent establishment** of a person or partnership (either of whom is referred to in this section as the person) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person's business is conducted, and
+    For the purposes of subsection 16.1(1), the definition **outstanding debts to specified non-residents** in subsection 18(5), subsections 100(1.3) and 112(2), the definition **qualified Canadian transit organization** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition **taxable supplier** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), section 233.8, the definitions **Canadian banking business** and **tax-indifferent investor** in subsection 248(1) and paragraph 260(5)(a) of the Act, a **permanent establishment** of a person or partnership (either of whom is referred to in this section as the person) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person's business is conducted, and
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2016.
 
@@ -3818,15 +3818,15 @@ Sections 86 and 87 are deemed to have come into force on July 1, 2016.
 
   **(1)** The definition **capital property** in subsection 123(1) of the `Excise Tax Act` is replaced by the following:
 
-    **capital property**, in respect of a person, means property that is, or would be if the person were a taxpayer under the `Income Tax Act`, capital property of the person within the meaning of that Act, other than property described in Class 12, 14, **14.1** or 44 of Schedule II to the `Income Tax Regulations`; (**immobilisation**)
+    **capital property**, in respect of a person, means property that is, or would be if the person were a taxpayer under the `Income Tax Act`, capital property of the person within the meaning of that Act, other than property described in Class 12, 14, 14.1 or 44 of Schedule II to the `Income Tax Regulations`; (**immobilisation**)
 
   **(2)** Paragraph (a) of the definition **filiale déterminée** in subsection 123(1) of the French version of the Act is replaced by the following:
 
-    la personne morale **relativement à laquelle** la personne morale donnée **détient le contrôle admissible des voix et est propriétaire d'**au moins 90 % de la valeur et du nombre des actions, émises et en circulation **et** comportant plein droit de vote en toutes circonstances, du capital-actions **de la personne morale**;
+    la personne morale relativement à laquelle la personne morale donnée détient le contrôle admissible des voix et est propriétaire d'au moins 90 % de la valeur et du nombre des actions, émises et en circulation et comportant plein droit de vote en toutes circonstances, du capital-actions de la personne morale;
 
   **(3)** The portion of the definition **qualifying subsidiary** in subsection 123(1) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **qualifying subsidiary** of a particular corporation means another corporation **in respect** of which the particular corporation **holds qualifying voting control and owns** not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock **of the other corporation**, and includes
+    **qualifying subsidiary** of a particular corporation means another corporation in respect of which the particular corporation holds qualifying voting control and owns not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other corporation, and includes
 
   **(4)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -3840,7 +3840,7 @@ Sections 86 and 87 are deemed to have come into force on July 1, 2016.
 
   **(1)** The portion of paragraph 128(1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    **qualifying voting control in respect** of the other corporation is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other corporation are owned by,
+    qualifying voting control in respect of the other corporation is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other corporation are owned by,
 
   **(2)** Section 128 of the Act is amended by adding the following after subsection (1):
 
@@ -3878,11 +3878,11 @@ Sections 86 and 87 are deemed to have come into force on July 1, 2016.
 
   **(1)** Clause 156(1.1)(a)(ii)(A) of the Act is replaced by the following:
 
-    **both holds qualifying voting control in respect** of a corporation that is a member of a qualifying group of which the other person is a member **and** owns at least 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock **of the corporation**, or
+    both holds qualifying voting control in respect of a corporation that is a member of a qualifying group of which the other person is a member and owns at least 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation, or
 
   **(2)** The portion of subparagraph 156(1.1)(b)(i) of the Act before clause (A) is replaced by the following:
 
-    **qualifying voting control in respect of the other person is held by, and** not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other person are owned by,
+    qualifying voting control in respect of the other person is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the other person are owned by,
 
   **(3)** Clauses 156(1.1)(b)(i)(A) to (C) of the French version of the Act are replaced by the following:
 
@@ -3890,11 +3890,11 @@ Sections 86 and 87 are deemed to have come into force on July 1, 2016.
 
     une personne morale, ou une société de personnes canadienne, qui est membre d'un groupe admissible dont la société de personnes donnée est membre,
 
-    **plusieurs des** personnes morales ou sociétés de personnes visées aux divisions (A) et (B),
+    plusieurs des personnes morales ou sociétés de personnes visées aux divisions (A) et (B),
 
   **(4)** The portion of subparagraph 156(1.1)(b)(ii) of the Act before clause (A) is replaced by the following:
 
-    **qualifying voting control in respect of a corporation is held by, and** not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation are owned by,
+    qualifying voting control in respect of a corporation is held by, and not less than 90% of the value and number of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of the corporation are owned by,
 
   **(5)** Clauses 156(1.1)(b)(ii)(A) and (B) of the French version of the Act are replaced by the following:
 
@@ -3912,7 +3912,7 @@ Sections 86 and 87 are deemed to have come into force on July 1, 2016.
 
   **(2)** The portion of subsection 298(6.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(6.1)** The Minister may advance an alternative **basis or** argument in support of an assessment of a person, **or in support of all or any portion of the total amount determined on assessment to be payable or remittable by a person under this Part**, at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless, on an appeal under this Part,
+    **(6.1)** The Minister may advance an alternative basis or argument in support of an assessment of a person, or in support of all or any portion of the total amount determined on assessment to be payable or remittable by a person under this Part, at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless, on an appeal under this Part,
 
   **(3)** Section 298 of the Act is amended by adding the following after subsection (6.1):
 
@@ -3970,7 +3970,7 @@ are not members of the same closely related group on March 22, 2017; or
 
 ### Section 3
 
-    For the purposes of paragraph 128(1)(b) of the Act, a corporation (in this section referred to as the "other corporation") is a prescribed corporation in relation to a particular corporation **if**
+    For the purposes of paragraph 128(1)(b) of the Act, a corporation (in this section referred to as the "other corporation") is a prescribed corporation in relation to a particular corporation if
 
     it is the case that
 
@@ -3980,7 +3980,7 @@ are not members of the same closely related group on March 22, 2017; or
 
   **(3)** Subclause 3(a)(i)(C)(II) of the Regulations is replaced by the following:
 
-    a corporation **in respect** of which employees referred to in subclause (I) **hold qualifying voting control and own** not less than 90% of the total value and number of all specified shares,
+    a corporation in respect of which employees referred to in subclause (I) hold qualifying voting control and own not less than 90% of the total value and number of all specified shares,
 
   **(4)** Subparagraph 3(a)(ii) of the French version of the Regulations is replaced by the following:
 
@@ -3996,7 +3996,7 @@ are not members of the same closely related group on March 22, 2017; or
 
   **(6)** Paragraph 3(b) of the Regulations is replaced by the following:
 
-    **qualifying voting control in respect** of the other corporation is **held by**, and not less than 90% of the total value and number of all specified shares of the other corporation are owned by,
+    qualifying voting control in respect of the other corporation is held by, and not less than 90% of the total value and number of all specified shares of the other corporation are owned by,
 
     the particular corporation,
 
@@ -4023,7 +4023,7 @@ are not members of the same closely related group on March 22, 2017; or
 
     **capital asset** of a person means
 
-    property that is, or would be if the person were a taxpayer under the `Income Tax Act`, capital property of the person within the meaning of that Act, **and**
+    property that is, or would be if the person were a taxpayer under the `Income Tax Act`, capital property of the person within the meaning of that Act, and
 
     in respect of a supply that was made by the person at any time before January 1, 2017, property that was, or would have been if the person were a taxpayer under the `Income Tax Act`, eligible capital property of the person within the meaning of that Act as it read at that time; (**bien immobilisé**)
 
@@ -4071,13 +4071,13 @@ are not members of the same closely related group on March 22, 2017; or
 
   **(3)** Paragraphs (b) and (c) of the definition **specified supply** in subsection 19(1) of the Regulations are replaced by the following:
 
-    a supply by way of sale of a **capital asset of the registrant** that has a fair market value at the time of the supply of at least $10,000,
+    a supply by way of sale of a capital asset of the registrant that has a fair market value at the time of the supply of at least $10,000,
 
-    a supply made by the registrant by way of sale of a **capital asset of the registrant if** the registrant has claimed, or is entitled to claim, an input tax credit in respect of the last supply to, or importation by, the registrant of the **capital asset**,
+    a supply made by the registrant by way of sale of a capital asset of the registrant if the registrant has claimed, or is entitled to claim, an input tax credit in respect of the last supply to, or importation by, the registrant of the capital asset,
 
   **(4)** The description of B in subparagraph 19(3)(c)(i) of the Regulations is replaced by the following:
 
-    is the total of all tax under Division II that became collectible in the fiscal year of the registrant immediately before the particular fiscal year in respect of taxable supplies (other than supplies by way of sale of real property or **capital assets** of the registrant) made by the registrant, and
+    is the total of all tax under Division II that became collectible in the fiscal year of the registrant immediately before the particular fiscal year in respect of taxable supplies (other than supplies by way of sale of real property or capital assets of the registrant) made by the registrant, and
 
   **(5)** Subsections (1) to (4) come into force or are deemed to have come into force on January 1, 2017.
 
@@ -4085,9 +4085,9 @@ are not members of the same closely related group on March 22, 2017; or
 
   **(1)** Subparagraphs (a)(ii) and (iii) of the description of C in subsection 21(1) of the Regulations are replaced by the following:
 
-    for the particular reporting period or a preceding reporting period of the registrant during which the election was in effect in respect of a supply by way of sale to, importation by, or bringing into a participating province by, the registrant of personal property that is acquired, imported or brought into the participating province by the registrant for use as **a capital asset of the registrant and that** has a fair market value at the time of the supply or bringing into the province, or a value as determined under section 215 of the Act at the time of the importation, of at least $10,000,
+    for the particular reporting period or a preceding reporting period of the registrant during which the election was in effect in respect of a supply by way of sale to, importation by, or bringing into a participating province by, the registrant of personal property that is acquired, imported or brought into the participating province by the registrant for use as a capital asset of the registrant and that has a fair market value at the time of the supply or bringing into the province, or a value as determined under section 215 of the Act at the time of the importation, of at least $10,000,
 
-    for the particular reporting period or a preceding reporting period of the registrant during which the election was in effect in respect of an improvement to a **capital asset** (other than real property) of the registrant, if the registrant has claimed, or is entitled to claim, an input tax credit in respect of the last supply to, or importation by, the registrant of the **capital asset**,
+    for the particular reporting period or a preceding reporting period of the registrant during which the election was in effect in respect of an improvement to a capital asset (other than real property) of the registrant, if the registrant has claimed, or is entitled to claim, an input tax credit in respect of the last supply to, or importation by, the registrant of the capital asset,
 
   **(2)** Subsection (1) comes into force or is deemed to have come into force on January 1, 2017.
 
@@ -4102,7 +4102,7 @@ are not members of the same closely related group on March 22, 2017; or
 
   **(2)** The portion of subsection 191(7) of the Act before paragraph (a) is replaced by the following:
 
-    **(7)** The Minister may advance an alternative **basis or** argument in support of an assessment of a person, **or in support of all or any portion of the total amount determined on assessment to be payable or remittable by a person under this Act**, at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless on an appeal under this Act
+    **(7)** The Minister may advance an alternative basis or argument in support of an assessment of a person, or in support of all or any portion of the total amount determined on assessment to be payable or remittable by a person under this Act, at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless on an appeal under this Act
 
   **(3)** Section 191 of the Act is amended by adding the following after subsection (7):
 
@@ -4164,9 +4164,9 @@ Section 19 of the `Old Age Security Act` is amended by adding the following afte
 
 The definition **monthly joint income** in subsection 22(1) of the Act is replaced by the following:
 
-**monthly joint income** of a pensioner and **their** spouse or common-law partner in a current payment period is the amount that equals 1/12 of the total **of both of their** incomes for the base calendar year; however, for the purpose of calculating the allowance that may be paid to the pensioner's spouse or common-law partner under subsection (3) for **either of the following periods**, it is the amount that equals 1/12 of the income of the spouse or common-law partner for the base calendar year:
+**monthly joint income** of a pensioner and their spouse or common-law partner in a current payment period is the amount that equals 1/12 of the total of both of their incomes for the base calendar year; however, for the purpose of calculating the allowance that may be paid to the pensioner's spouse or common-law partner under subsection (3) for either of the following periods, it is the amount that equals 1/12 of the income of the spouse or common-law partner for the base calendar year:
 
-the months during which the pensioner is an incarcerated person described in subsection 5(3), exclusive of the first month of incarceration and the month of release; **or**
+the months during which the pensioner is an incarcerated person described in subsection 5(3), exclusive of the first month of incarceration and the month of release; or
 
 if a direction made under subsection 19(8) in respect of the spouse or common-law partner has not been cancelled under subsection 19(9), the months, exclusive of the first month, during which the spouse or common-law partner is not living with the pensioner in a dwelling maintained by one or the other of them; (**revenu conjoint mensuel**)
 
@@ -4201,25 +4201,25 @@ This Division comes into force or is deemed to have come into force on January 1
 
   **(1)** Clause 5(4)(a)(i)(A) of the Act is replaced by the following:
 
-    is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a **Canada** child benefit in respect of January in the particular year is the first threshold for the particular year or less, or
+    is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is the first threshold for the particular year or less, or
 
   **(2)** Subparagraph 5(4)(a)(ii) of the Act is replaced by the following:
 
-    10% of the contribution, if the beneficiary is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a **Canada** child benefit in respect of January in the particular year is more than the first threshold for the particular year but not more than the second threshold for the particular year, and
+    10% of the contribution, if the beneficiary is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is more than the first threshold for the particular year but not more than the second threshold for the particular year, and
 
   **(3)** Subsection 5(5) of the Act is replaced by the following:
 
-    **(5)** If there has been no determination of eligibility for a **Canada** child benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subsection (4) is the adjusted income used to determine the amount of a **Canada** child benefit for the first month in the particular year in respect of which eligibility has been established.
+    **(5)** If there has been no determination of eligibility for a Canada child benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subsection (4) is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which eligibility has been established.
 
   **(4)** Subsection 5(6) of the French version of the Act is replaced by the following:
 
-    **(6)** Pour l'application du paragraphe (5) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l'année donnée pour lequel le particulier est admissible à **l'allocation** vaut mention du mois de janvier de l'année suivante.
+    **(6)** Pour l'application du paragraphe (5) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l'année donnée pour lequel le particulier est admissible à l'allocation vaut mention du mois de janvier de l'année suivante.
 
   **(5)** Subsections 5(6.1) and (6.2) of the Act are replaced by the following:
 
-    **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary's primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual is the adjusted income used to determine the amount of a **Canada** child benefit for the first month in the particular year in respect of which the individual's eligibility for the **Canada** child benefit has been established.
+    **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary's primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which the individual's eligibility for the Canada child benefit has been established.
 
-    **(6.2)** In applying subsection (6.1) in respect of a beneficiary for whom the individual becomes the beneficiary's primary caregiver in December, the reference to "the first month in the particular year in respect of which the individual's eligibility for the **Canada** child benefit has been established" in that subsection is to be read as a reference to "January of the next year".
+    **(6.2)** In applying subsection (6.1) in respect of a beneficiary for whom the individual becomes the beneficiary's primary caregiver in December, the reference to "the first month in the particular year in respect of which the individual's eligibility for the Canada child benefit has been established" in that subsection is to be read as a reference to "January of the next year".
 
 ### Section 109
 
@@ -4229,9 +4229,9 @@ This Division comes into force or is deemed to have come into force on January 1
 
     is a qualified dependant of an eligible individual whose adjusted income, when used to determine the amount of a child tax benefit, results in that portion of a child tax benefit determined under the description of C in subsection 122.61(1) of the `Income Tax Act` being more than $0, or
 
-    **is a person in respect of whom** a special allowance under the `Children's Special Allowances Act` is payable, and
+    is a person in respect of whom a special allowance under the `Children's Special Allowances Act` is payable, and
 
-    $100 in respect of any subsequent benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year and, for at least one month in that year, is a **person to** whom **subparagraph (a)(i) or (ii) applies.**
+    $100 in respect of any subsequent benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year and, for at least one month in that year, is a person to whom subparagraph (a)(i) or (ii) applies.
 
   **(2)** Paragraphs 6(2)(a) and (b) of the Act are replaced by the following:
 
@@ -4300,7 +4300,7 @@ This Division comes into force or is deemed to have come into force on January 1
 The heading before section 14 of the Act is replaced by the following:
 
 
-## Transitional **Provisions**
+## Transitional Provisions
 
 ### Section 112
 
@@ -4337,11 +4337,11 @@ The heading before section 14 of the Act is replaced by the following:
 
     **phase-out income** for a particular year means
 
-    **if the particular year is before 2017**, the amount determined by the formula
+    if the particular year is before 2017, the amount determined by the formula
 
     is the first threshold for the particular year, and
 
-    is the amount referred to in paragraph (a) of the description of F in subsection 122.61(1) of the `Income Tax Act`, **as that subsection read on January 1, 2016**, as adjusted under that Act for the particular year; **or**
+    is the amount referred to in paragraph (a) of the description of F in subsection 122.61(1) of the `Income Tax Act`, as that subsection read on January 1, 2016, as adjusted under that Act for the particular year; or
 
     if the particular year is 2017 or any subsequent year, the dollar amount referred to in paragraph (a) of the description of Q in subsection 122.61(1) of the `Income Tax Act`, as adjusted under that Act for the particular year. (**revenu de transition**)
 
@@ -4380,7 +4380,7 @@ This Division comes into force or is deemed to have come into force on January 1
 
   **(1)** The second paragraph of the preamble to the `Bank Act` is replaced by the following:
 
-    Whereas a legislative framework that enables banks to compete effectively and be resilient in a rapidly evolving marketplace, taking into account the rights and interests of depositors and other consumers of banking **products and** services, contributes to stability and public confidence in the financial system and is important to the strength and security of the national economy;
+    Whereas a legislative framework that enables banks to compete effectively and be resilient in a rapidly evolving marketplace, taking into account the rights and interests of depositors and other consumers of banking products and services, contributes to stability and public confidence in the financial system and is important to the strength and security of the national economy;
 
   **(2)** The third paragraph of the preamble to the English version of the Act is replaced by the following:
 
@@ -4390,13 +4390,13 @@ This Division comes into force or is deemed to have come into force on January 1
 
 The definition **external complaints body** in section 2 of the Act is replaced by the following:
 
-**external complaints body** means a body corporate approved under subsection **627.84(1)** or designated under subsection **627.87(1)**. (**organisme externe de traitement des plaintes**)
+**external complaints body** means a body corporate approved under subsection 627.84(1) or designated under subsection 627.87(1). (**organisme externe de traitement des plaintes**)
 
 ### Section 119
 
 Paragraphs 157(2)(e) and (f) of the Act are replaced by the following:
 
-designate a committee of the board of directors to **perform the duties set out in section 195.1**; and
+designate a committee of the board of directors to perform the duties set out in section 195.1; and
 
 ### Section 120
 
@@ -4433,7 +4433,7 @@ The heading before section 439.1 and sections 439.1 to 459.5 of the Act are repl
 
 Subsection 524(2) of the Act is replaced by the following:
 
-**(2)** The order may be made subject to the restrictions referred to in **subsection** 540(1) and **the** requirements **referred to in section 627.54**.
+**(2)** The order may be made subject to the restrictions referred to in subsection 540(1) and the requirements referred to in section 627.54.
 
 ### Section 125
 
@@ -4443,7 +4443,7 @@ Subsections 540(2) and (3) of the Act are repealed.
 
 Paragraph 541(2)(b) of the Act is replaced by the following:
 
-sections **627.48** to **627.52 and 627.65**.
+sections 627.48 to 627.52 and 627.65.
 
 ### Section 127
 
@@ -4468,7 +4468,7 @@ Section 611 of the Act is replaced by the following:
 
 ### Section 611
 
-Subject to any regulations made under **paragraph 627.96(l)**, information obtained by an authorized foreign bank regarding any of its customers shall not be disclosed or made available under subsection 609(1) or section 610.
+Subject to any regulations made under paragraph 627.96(l), information obtained by an authorized foreign bank regarding any of its customers shall not be disclosed or made available under subsection 609(1) or section 610.
 
 ### Section 131
 
@@ -5132,7 +5132,7 @@ the institution's policies concerning the maximum period during which the instit
 
     referred to in paragraph 627.48(c) or (d) to its customers and to the public for a period of at least 60 days ending on the effective date of the change; and
 
-    referred to in clause 627.49(1)(a)(ii)(A) or (B) to each person in whose name the retail deposit account is kept and to whom a statement of account is provided — or to any other person as directed by that person — at least 30 days before the effective date of the change.
+    referred to in clause 627.49(1)(a)(ii)(B) or **(C)** to each person in whose name the retail deposit account is kept and to whom a statement of account is provided — or to any other person as directed by that person — at least 30 days before the effective date of the change.
 
   **(2)** If the change results in a shortened period during which an institution may hold funds deposited by cheque or other instrument, the institution may meet the obligations set out in subsection (1) after the effective date of the change.
 
@@ -5690,7 +5690,7 @@ Section 641 of the Act is replaced by the following:
 
 ### Section 641
 
-Subject to any regulations made under **paragraph 627.96(l)**, no information obtained by a bank regarding any of its customers shall be disclosed or made available under subsection 639(1) or section 640.
+Subject to any regulations made under paragraph 627.96(l), no information obtained by a bank regarding any of its customers shall be disclosed or made available under subsection 639(1) or section 640.
 
 ### Section 133
 
@@ -5698,7 +5698,7 @@ Section 974 of the Act is replaced by the following:
 
 ### Section 974
 
-An instrument issued or made under this Act and directed to a single bank, bank holding company, authorized foreign bank or person, other than a regulation made under **paragraph 627.96(m) or (n)** or an order referred to in section 499, is not a statutory instrument for the purposes of the `Statutory Instruments Act`.
+An instrument issued or made under this Act and directed to a single bank, bank holding company, authorized foreign bank or person, other than a regulation made under paragraph 627.96(m) or (n) or an order referred to in section 499, is not a statutory instrument for the purposes of the `Statutory Instruments Act`.
 
 
 #### Consequential Amendment to the `Financial Consumer Agency of Canada Act`
@@ -5707,7 +5707,7 @@ An instrument issued or made under this Act and directed to a single bank, bank 
 
 Paragraph (a) of the definition **consumer provision** in section 2 of the `Financial Consumer Agency of Canada Act` is replaced by the following:
 
-**paragraph** 157(2)(e), sections **195.1**, 273.1 and **627.04 to 627.96** of the `Bank Act` together with any regulations made under or for the purposes of those provisions;
+paragraph 157(2)(e), sections 195.1, 273.1 and 627.04 to 627.96 of the `Bank Act` together with any regulations made under or for the purposes of those provisions;
 
 
 #### Coming into Force
@@ -5729,17 +5729,17 @@ Subsection 3(2.1) of the `Royal Canadian Mint Act` is repealed.
 
 ### Section 4
 
-      **(1)** In carrying out its objects, the Mint has the rights, powers and privileges and the capacity of a natural person and may **if necessary**
+      **(1)** In carrying out its objects, the Mint has the rights, powers and privileges and the capacity of a natural person and may if necessary
 
   **(2)** Subsection 4(1) of the Act is amended by striking out "and" at the end of paragraph (b) and by replacing paragraph (c) with the following:
 
-    **produce and arrange for the production and supply of** coins of the currency of Canada;
+    produce and arrange for the production and supply of coins of the currency of Canada;
 
-    **produce and arrange for the production of** coins of the currency of countries other than Canada;
+    produce and arrange for the production of coins of the currency of countries other than Canada;
 
-    **make** medals, plaques, tokens and other objects;
+    make medals, plaques, tokens and other objects;
 
-    **melt, assay and refine** gold, silver and other metals;
+    melt, assay and refine gold, silver and other metals;
 
     lease or acquire gold, silver and other metals;
 
@@ -5863,7 +5863,7 @@ all money that the Minister considers appropriate to pay in the exercise of his 
 
 Paragraph 18(m.1) of the `Bank of Canada Act` is replaced by the following:
 
-act as a custodian of the financial assets of the Canada Deposit Insurance Corporation **and of those of the Canada Mortgage and Housing Corporation**;
+act as a custodian of the financial assets of the Canada Deposit Insurance Corporation and of those of the Canada Mortgage and Housing Corporation;
 
 ### Section 143
 
