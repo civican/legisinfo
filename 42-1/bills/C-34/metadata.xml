@@ -1,0 +1,412 @@
+<Bills>
+  <Bill>
+    <Id>8612745</Id>
+    <NumberCode>C-34</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>34</Number>
+    <LongTitleEn>An Act to amend the Public Service Labour Relations Act and other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur les relations de travail dans la fonction publique et d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Public Service Labour Relations Act and other Acts</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2016-11-28T15:04:54.9</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>74</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Scott</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Brison</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Scott Brison</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>President of the Treasury Board</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>président du Conseil du Trésor</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>President of the Treasury Board</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>622</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Kings—Hants</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Kings—Hants</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Kings—Hants</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2016-11-28T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>116</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2016-11-28T15:04:54.9</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;Bill C-34, An Act to amend the Public Service Labour Relations Act and other Acts, was introduced in the House of Commons on 28 November 2016 by the President of the Treasury Board of Canada. Bill C-34 restores the public service labour relations regime that existed prior to the coming into force of Bill C-4, A second Act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (short title: Economic Action Plan 2013 Act, No. 2), specifically with regards to essential services and the resolution of collective bargaining disputes. It also repeals provisions related to the public service recourse processes that were not yet in force. &lt;br/&gt;&lt;br/&gt;Bill C-34, with the exception of clause 35 which sets out the coordinating amendments, was incorporated into clauses 1 to 25 and 27 to 35 of Bill C-62, An Act to amend the Federal Public Sector Labour Relations Act and other Acts. &lt;br/&gt;&lt;br/&gt;The coordinating amendments in Bill C-34 are meant to coordinate the entry into force of this legislation with that of Bill C-7, An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures. The relevant provisions of Bill C-7 came into force upon Royal Assent on 19 June 2017.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le projet de loi C-34, Loi modifiant la Loi sur les relations de travail dans la fonction publique et d'autres lois, a été déposé à la Chambre des communes le 28 novembre 2016 par le président du Conseil du Trésor du Canada. Le projet de loi C-34 rétablit le régime de relations de travail dans la fonction publique qui existait avant l'entrée en vigueur du projet de loi C-4, Loi no 2 portant exécution de certaines dispositions du budget déposé au Parlement le 21 mars 2013 et mettant en œuvre d'autres mesures (titre abrégé : Loi no 2 sur le plan d'action économique de 2013), en particulier en ce qui concerne les services essentiels et le règlement des différends relatifs aux négociations collectives. Il abroge aussi les dispositions relatives aux processus de recours de la fonction publique qui n'étaient pas encore en vigueur. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-34, à l'exception de l'article 35 qui énonce les dispositions de coordinations, a été incorporé aux articles 1 à 25 et 27 à 35 du projet de loi C-62, Loi modifiant la Loi sur les relations de travail dans le secteur public fédéral et d'autres lois. &lt;br/&gt;&lt;br/&gt;Les dispositions de coordinations du projet de loi C-34 visent à coordonner l'entrée en vigueur de cette mesure législative avec celle du projet de loi C-7, Loi modifiant la Loi sur les relations de travail dans la fonction publique, la Loi sur la Commission des relations de travail et de l'emploi dans la fonction publique et d'autres lois et comportant d'autres mesures. Les dispositions pertinentes du projet de loi C-7 sont entrées en vigueur lorsque celui-ci a reçu la sanction royale, le 19 juin 2017.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;Bill C-34, An Act to amend the Public Service Labour Relations Act and other Acts, was introduced in the House of Commons on 28 November 2016 by the President of the Treasury Board of Canada. Bill C-34 restores the public service labour relations regime that existed prior to the coming into force of Bill C-4, A second Act to implement certain provisions of the budget tabled in Parliament on March 21, 2013 and other measures (short title: Economic Action Plan 2013 Act, No. 2), specifically with regards to essential services and the resolution of collective bargaining disputes. It also repeals provisions related to the public service recourse processes that were not yet in force. &lt;br/&gt;&lt;br/&gt;Bill C-34, with the exception of clause 35 which sets out the coordinating amendments, was incorporated into clauses 1 to 25 and 27 to 35 of Bill C-62, An Act to amend the Federal Public Sector Labour Relations Act and other Acts. &lt;br/&gt;&lt;br/&gt;The coordinating amendments in Bill C-34 are meant to coordinate the entry into force of this legislation with that of Bill C-7, An Act to amend the Public Service Labour Relations Act, the Public Service Labour Relations and Employment Board Act and other Acts and to provide for certain other measures. The relevant provisions of Bill C-7 came into force upon Royal Assent on 19 June 2017.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2016-11-28T15:04:54.9</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>116</Number>
+          <Date>2016-11-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2016-11-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2016-11-28T15:04:54.9</EventStartDateTime>
+          <EventEndDateTime>2016-11-28T15:04:54.9</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2016-11-28T15:04:54.9</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8640435</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada tables legislation to restore fair and balanced labour laws</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose un projet de loi pour rétablir des lois du travail justes et équilibrées</TitleFr>
+      <Title>Government of Canada tables legislation to restore fair and balanced labour laws</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=1161399&amp;_ga=1.199053228.2022606794.1480015935</UrlEn>
+      <UrlFr>http://nouvelles.gc.ca/web/article-fr.do?mthd=index&amp;crtr.page=1&amp;nid=1161399&amp;_ga=1.199053228.2022606794.1480015935</UrlFr>
+      <Url>http://news.gc.ca/web/article-en.do?mthd=index&amp;crtr.page=1&amp;nid=1161399&amp;_ga=1.199053228.2022606794.1480015935</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Saskatchewan Federation of Labour v. Saskatchewan, [2015] 1 SCR 245, 2015 SCC 4 (CanLII)</TitleEn>
+      <TitleFr>Saskatchewan Federation of Labour c. Saskatchewan, [2015] 1 RCS 245, 2015 CSC 4 (CanLII)</TitleFr>
+      <Title>Saskatchewan Federation of Labour v. Saskatchewan, [2015] 1 SCR 245, 2015 SCC 4 (CanLII)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://canlii.ca/t/gg40r</UrlEn>
+      <UrlFr>http://canlii.ca/t/gg40s</UrlFr>
+      <Url>http://canlii.ca/t/gg40r</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Too essential to strike? The "essentials" of the SCC decision in Saskatchewan Federation of Labour, Jennifer Taylor</TitleEn>
+      <TitleFr>Too essential to strike? The "essentials" of the SCC decision in Saskatchewan Federation of Labour, Jennifer Taylor (en anglais seulement)</TitleFr>
+      <Title>Too essential to strike? The "essentials" of the SCC decision in Saskatchewan Federation of Labour, Jennifer Taylor</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://canliiconnects.org/en/summaries/35663</UrlEn>
+      <UrlFr>http://canliiconnects.org/en/summaries/35663</UrlFr>
+      <Url>http://canliiconnects.org/en/summaries/35663</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Jugement historique de la Cour suprême du Canada : la Cour confère dorénavant une protection constitutionnelle au droit de grève, Maryse Tremblay (in French only)</TitleEn>
+      <TitleFr>Jugement historique de la Cour suprême du Canada : la Cour confère dorénavant une protection constitutionnelle au droit de grève, Maryse Tremblay</TitleFr>
+      <Title>Jugement historique de la Cour suprême du Canada : la Cour confère dorénavant une protection constitutionnelle au droit de grève, Maryse Tremblay (in French only)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://canliiconnects.org/en/commentaries/35792</UrlEn>
+      <UrlFr>http://canliiconnects.org/en/commentaries/35792</UrlFr>
+      <Url>http://canliiconnects.org/en/commentaries/35792</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
