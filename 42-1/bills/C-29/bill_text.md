@@ -1,7 +1,5 @@
 # Bill C-29: A second Act to implement certain 
 
-**Sponsor**: MINISTER OF FINANCE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2016 and other measures*".
 
 ## Summary
@@ -5132,7 +5130,7 @@ the institution's policies concerning the maximum period during which the instit
 
     referred to in paragraph 627.48(c) or (d) to its customers and to the public for a period of at least 60 days ending on the effective date of the change; and
 
-    referred to in clause 627.49(1)(a)(ii)(B) or **(C)** to each person in whose name the retail deposit account is kept and to whom a statement of account is provided — or to any other person as directed by that person — at least 30 days before the effective date of the change.
+    referred to in clause 627.49(1)(a)(ii)(B) or (C) to each person in whose name the retail deposit account is kept and to whom a statement of account is provided — or to any other person as directed by that person — at least 30 days before the effective date of the change.
 
   **(2)** If the change results in a shortened period during which an institution may hold funds deposited by cheque or other instrument, the institution may meet the obligations set out in subsection (1) after the effective date of the change.
 
