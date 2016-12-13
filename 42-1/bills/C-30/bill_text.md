@@ -351,9 +351,9 @@ the expenses incurred by the CETA Joint Committee and the specialized committees
 
   **(1)** The definitions **export allocation** and **import allocation** in subsection 2(1) of the `Export and Import Permits Act` are replaced by the following:
 
-    **export allocation** means an **export** allocation issued under paragraph **6.2(2)(b) or** 6.3(3)(b); (**autorisation d'exportation**)
+    **export allocation** means an export allocation issued under paragraph 6.2(2)(b) or 6.3(3)(b); (**autorisation d'exportation**)
 
-    **import allocation** means an **import** allocation issued **under paragraph** 6.2(2)**(b)**; (**autorisation d'importation**)
+    **import allocation** means an import allocation issued under paragraph 6.2(2)(b); (**autorisation d'importation**)
 
   **(2)** The definition **free trade partner** in subsection 2(1) of the Act is amended by adding the following after paragraph (a):
 
@@ -367,7 +367,7 @@ the expenses incurred by the CETA Joint Committee and the specialized committees
 
   **(4)** Subsection 2(2) of the Act is replaced by the following:
 
-    **(2)** For the purposes of this Act, goods are imported from **one of the following countries or territories** if they are shipped directly to Canada from **that country or territory**, within the meaning of sections 17 and 18 of the `Customs Tariff`:
+    **(2)** For the purposes of this Act, goods are imported from one of the following countries or territories if they are shipped directly to Canada from that country or territory, within the meaning of sections 17 and 18 of the `Customs Tariff`:
 
       a NAFTA country
 
@@ -385,7 +385,7 @@ The portion of subsection 3(1) of the French version of the Act before paragraph
 
 ### Section 3
 
-  **(1)** Le gouverneur en conseil peut dresser une liste des marchandises et des technologies dont, à son avis, il est nécessaire de contrôler l'exportation ou le transfert à l'une **ou plusieurs** des fins suivantes :
+  **(1)** Le gouverneur en conseil peut dresser une liste des marchandises et des technologies dont, à son avis, il est nécessaire de contrôler l'exportation ou le transfert à l'une ou plusieurs des fins suivantes :
 
 ### Section 17
 
@@ -393,11 +393,11 @@ The portion of subsection 3(1) of the French version of the Act before paragraph
 
 ### Section 5
 
-      **(1)** Le gouverneur en conseil peut dresser la liste des marchandises d'importation contrôlée comprenant les articles dont, à son avis, il est nécessaire de contrôler l'importation pour l'une **ou plusieurs** des fins suivantes :
+      **(1)** Le gouverneur en conseil peut dresser la liste des marchandises d'importation contrôlée comprenant les articles dont, à son avis, il est nécessaire de contrôler l'importation pour l'une ou plusieurs des fins suivantes :
 
   **(2)** Subsection 5(3.4) of the Act is replaced by the following:
 
-    **(3.4)** An order made under subsection (3) or (3.2) may exclude goods of any kind imported from a country listed in Schedule **1** if it appears to the satisfaction of the Governor in Council, on the basis of a report under the `Canadian International Trade Tribunal Act`, that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
+    **(3.4)** An order made under subsection (3) or (3.2) may exclude goods of any kind imported from a country listed in Schedule 1 if it appears to the satisfaction of the Governor in Council, on the basis of a report under the `Canadian International Trade Tribunal Act`, that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
 
 ### Section 18
 
@@ -405,16 +405,16 @@ Subsections 5.2(1) and (2) of the Act are replaced by the following:
 
 ### Section 5.2
 
-  **(1)** If at any time it appears to the satisfaction of the Governor in Council that it is advisable to collect information with respect to the exportation or importation of any goods in respect of which a specified quantity is eligible each year for the rate of duty provided for in **provisions, set out in column 2 of Schedule 2, of an intergovernmental arrangement set out in column 1**, the Governor in Council may, by order and without reference to that quantity, include those goods on the Export Control List or the Import Control List, or on both, in order to facilitate the collection of that information.
+  **(1)** If at any time it appears to the satisfaction of the Governor in Council that it is advisable to collect information with respect to the exportation or importation of any goods in respect of which a specified quantity is eligible each year for the rate of duty provided for in provisions, set out in column 2 of Schedule 2, of an intergovernmental arrangement set out in column 1, the Governor in Council may, by order and without reference to that quantity, include those goods on the Export Control List or the Import Control List, or on both, in order to facilitate the collection of that information.
 
-  **(2)** If at any time it appears to the satisfaction of the Governor in Council that, for the purposes of implementing **an intergovernmental arrangement set out column 1 of Schedule 3**, it is advisable to collect information with respect to the importation of any goods listed in **the provisions of that arrangement set out in column 2**, the Governor in Council may, by order, include those goods on the Import Control List in order to facilitate the collection of that information.
+  **(2)** If at any time it appears to the satisfaction of the Governor in Council that, for the purposes of implementing an intergovernmental arrangement set out column 1 of Schedule 3, it is advisable to collect information with respect to the importation of any goods listed in the provisions of that arrangement set out in column 2, the Governor in Council may, by order, include those goods on the Import Control List in order to facilitate the collection of that information.
 
 ### Section 19
 
 The heading before section 6.2 of the Act is replaced by the following:
 
 
-## Import **or Export** Access
+## Import or Export Access
 
 ### Section 20
 
@@ -424,15 +424,15 @@ The heading before section 6.2 of the Act is replaced by the following:
 
   **(2)** The portion of subsection 6.2(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **If** the Minister has determined a quantity of goods under subsection (1) **or (1.1)**, the Minister may
+    **(2)** If the Minister has determined a quantity of goods under subsection (1) or (1.1), the Minister may
 
   **(3)** Paragraph 6.2(2)(b) of the Act is replaced by the following:
 
-    issue an **import** allocation **or an export allocation, as the case may be**, to any resident of Canada who applies for the allocation, subject to the regulations and any terms and conditions the Minister may specify in the allocation.
+    issue an import allocation or an export allocation, as the case may be, to any resident of Canada who applies for the allocation, subject to the regulations and any terms and conditions the Minister may specify in the allocation.
 
   **(4)** Subsection 6.2(3) of the Act is replaced by the following:
 
-    **(3)** The Minister may consent to the transfer of an import allocation **or an export allocation** from one resident of Canada to another.
+    **(3)** The Minister may consent to the transfer of an import allocation or an export allocation from one resident of Canada to another.
 
 ### Section 21
 
@@ -442,7 +442,7 @@ The Act is amended by adding the following after section 8.3:
 
 Despite subsection 7(1), if goods have been included on the Export Control List, the Minister shall, at the request of any person who has been issued an export allocation under paragraph 6.2(2)(b) with respect to the goods, issue to that person a permit to export the goods, subject to
 
-**the** export allocation; and
+the export allocation; and
 
 the person's compliance with any regulations made under section 12.
 
@@ -452,7 +452,7 @@ Section 9.1 of the Act is replaced by the following:
 
 ### Section 9.1
 
-The Minister may, for the purpose of implementing an intergovernmental arrangement with a country **listed in column 1 of Schedule 4 or with an international organization acting on behalf of such a country — or of implementing an intergovernmental arrangement applicable to a territory listed in column 1 —** respecting the administration of **the provisions set out in column 2**, issue a certificate with respect to an exportation of goods to **that** country **or territory** stating the specific quantity of those goods that, on importation into the country **or territory**, is eligible for the rate of duty provided for in **the provisions set out in column 3**.
+The Minister may, for the purpose of implementing an intergovernmental arrangement with a country listed in column 1 of Schedule 4 or with an international organization acting on behalf of such a country — or of implementing an intergovernmental arrangement applicable to a territory listed in column 1 — respecting the administration of the provisions set out in column 2, issue a certificate with respect to an exportation of goods to that country or territory stating the specific quantity of those goods that, on importation into the country or territory, is eligible for the rate of duty provided for in the provisions set out in column 3.
 
 ### Section 23
 
@@ -488,7 +488,7 @@ Section 37 of the Act is replaced by the following:
 
   **(1)** This Act does not apply to any packaged food, drug, cosmetic or device if
 
-    **it is manufactured or prepared in Canada**;
+    it is manufactured or prepared in Canada;
 
     it is intended for export and is not manufactured or prepared for consumption or use in Canada nor sold for consumption or use in Canada;
 
@@ -508,7 +508,7 @@ Section 37 of the Act is replaced by the following:
 
   **(1.2)** Despite subsection (1), any prescribed provision of the regulations respecting the method of manufacture, preparation, preserving, packaging, storing and testing of any food, drug, cosmetic or device continues to apply to any packaged food, drug, cosmetic or device.
 
-  **(2)** Despite subsection (1), this Act applies in respect of any drug or device to be manufactured for the purpose of being exported in accordance with the **General Council Decision**, as defined in subsection 30(6), and the requirements of the Act and the regulations apply to the drug or device as though it were a drug or device to be manufactured and sold for consumption **or use** in Canada, unless the regulations provide otherwise.
+  **(2)** Despite subsection (1), this Act applies in respect of any drug or device to be manufactured for the purpose of being exported in accordance with the **General Council Decision**, as defined in subsection 30(6), and the requirements of the Act and the regulations apply to the drug or device as though it were a drug or device to be manufactured and sold for consumption or use in Canada, unless the regulations provide otherwise.
 
 
 ### `Importation of Intoxicating Liquors Act`
@@ -523,7 +523,7 @@ Section 2 of the `Importation of Intoxicating Liquors Act` is amended by adding 
 
 The portion of paragraph 3(2)(f.1) of the Act before subparagraph (i) is replaced by the following:
 
-the importation of bulk spirits into a province from a country **or territory** listed in column 1 of the schedule by a licensed distiller for the purpose of being packaged by the distiller, if the spirits
+the importation of bulk spirits into a province from a country or territory listed in column 1 of the schedule by a licensed distiller for the purpose of being packaged by the distiller, if the spirits
 
 ### Section 30
 
@@ -542,11 +542,11 @@ The schedule to the Act is amended by adding, in alphabetical order, a reference
 
   **(2)** The definition **country** in section 2 of the Act is replaced by the following:
 
-    **country** includes a ****WTO** Member**, as defined in subsection 2(1) of the `World Trade Organization Agreement Implementation Act`; (**pays**)
+    **country** includes a **WTO Member**, as defined in subsection 2(1) of the `World Trade Organization Agreement Implementation Act`; (**pays**)
 
   **(3)** The definition **legal representatives** in section 2 of the Act is replaced by the following:
 
-    **legal representatives** includes heirs, executors, administrators **of the estate, liquidators of the succession**, guardians, curators, tutors, **transferees** and all other persons claiming through applicants for patents and patentees of inventions **or through holders of certificates of supplementary protection**; (**représentants légaux**)
+    **legal representatives** includes heirs, executors, administrators of the estate, liquidators of the succession, guardians, curators, tutors, transferees and all other persons claiming through applicants for patents and patentees of inventions or through holders of certificates of supplementary protection; (**représentants légaux**)
 
   **(4)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -566,21 +566,21 @@ Subsection 7(1) of the Act is replaced by the following:
 
 ### Section 7
 
-  **(1)** No officer or employee of the Patent Office shall buy, sell, acquire or traffic in any invention, patent, right to a patent, **certificate of supplementary protection or right to such a certificate**, or any interest **in any of them**, and every purchase, sale, acquisition or transfer of any **of them**, or **of** any interest **in any of them,** made by or to **such an** officer or employee is void **or, in Quebec, null**.
+  **(1)** No officer or employee of the Patent Office shall buy, sell, acquire or traffic in any invention, patent, right to a patent, certificate of supplementary protection or right to such a certificate, or any interest in any of them, and every purchase, sale, acquisition or transfer of any of them, or of any interest in any of them, made by or to such an officer or employee is void or, in Quebec, null.
 
 ### Section 34
 
   **(1)** Paragraph 12(1)(a) of the French version of the Act is replaced by the following:
 
-    **régir** la forme et le contenu des demandes de brevet;
+    régir la forme et le contenu des demandes de brevet;
 
   **(2)** Paragraph 12(1)(g) of the French version of the Act is replaced by the following:
 
-    **régir** le paiement des taxes réglementaires, y compris le moment et la manière selon laquelle ces taxes doivent être payées, les surtaxes qui peuvent être levées pour les paiements en souffrance, ainsi que les circonstances dans lesquelles les taxes peuvent être remboursées en tout ou en partie;
+    régir le paiement des taxes réglementaires, y compris le moment et la manière selon laquelle ces taxes doivent être payées, les surtaxes qui peuvent être levées pour les paiements en souffrance, ainsi que les circonstances dans lesquelles les taxes peuvent être remboursées en tout ou en partie;
 
   **(3)** Paragraph 12(1)(j.8) of the Act is replaced by the following:
 
-    authorizing the Commissioner to extend, subject to any prescribed terms and conditions, the time fixed by or under this Act **in respect of any business before the Patent Office** for doing anything where the Commissioner is satisfied that the circumstances justify the extension;
+    authorizing the Commissioner to extend, subject to any prescribed terms and conditions, the time fixed by or under this Act in respect of any business before the Patent Office for doing anything where the Commissioner is satisfied that the circumstances justify the extension;
 
 ### Section 35
 
@@ -588,7 +588,7 @@ Section 26 of the Act is replaced by the following:
 
 ### Section 26
 
-The Commissioner shall, in each year, cause to be prepared and laid before **each House of** Parliament a report of the **Commissioner's activities** under this Act.
+The Commissioner shall, in each year, cause to be prepared and laid before each House of Parliament a report of the Commissioner's activities under this Act.
 
 ### Section 36
 
@@ -602,7 +602,7 @@ Section 29 of the Act is repealed.
 
   **(2)** Subsection 47(2) of the French version of the Act is replaced by the following:
 
-    **(2)** **L'**abandon **visé au paragraphe (1)** ne prend effet qu'au moment de la délivrance du nouveau brevet, et ce nouveau brevet, ainsi que la description et spécification rectifiée, a le même effet en droit, dans l'instruction de toute action engagée par la suite pour tout motif survenu subséquemment, que si cette description et spécification rectifiée avait été originalement déposée dans sa forme corrigée, avant la délivrance du brevet original. Dans la mesure où les revendications du brevet original et du brevet redélivré sont identiques, un tel abandon n'atteint aucune instance pendante au moment de la redélivrance, ni n'annule aucun motif d'instance alors existant, et le brevet redélivré, dans la mesure où ses revendications sont identiques à celles du brevet original, constitue une continuation du brevet original et est maintenu en vigueur sans interruption depuis la date du brevet original.
+    **(2)** L'abandon visé au paragraphe (1) ne prend effet qu'au moment de la délivrance du nouveau brevet, et ce nouveau brevet, ainsi que la description et spécification rectifiée, a le même effet en droit, dans l'instruction de toute action engagée par la suite pour tout motif survenu subséquemment, que si cette description et spécification rectifiée avait été originalement déposée dans sa forme corrigée, avant la délivrance du brevet original. Dans la mesure où les revendications du brevet original et du brevet redélivré sont identiques, un tel abandon n'atteint aucune instance pendante au moment de la redélivrance, ni n'annule aucun motif d'instance alors existant, et le brevet redélivré, dans la mesure où ses revendications sont identiques à celles du brevet original, constitue une continuation du brevet original et est maintenu en vigueur sans interruption depuis la date du brevet original.
 
 ### Section 38
 
@@ -612,33 +612,37 @@ Subsection 53(3) of the Act is repealed.
 
 Subsection 55.2(4) of the Act is replaced by the following:
 
-**(4)** The Governor in Council may make regulations **respecting** the infringement of **any** patent **that, directly or indirectly, could result or results from the making, construction, use or sale of** a patented invention in accordance with subsection (1), including regulations
+**(4)** The Governor in Council may make regulations respecting the infringement of any patent that, directly or indirectly, could result or results from the making, construction, use or sale of a patented invention in accordance with subsection (1), including regulations
 
-  respecting the conditions that must be fulfilled before a document — including a notice, certificate or permit — concerning any product to which a patent may relate may be issued to **any** person under any Act of Parliament that regulates the manufacture, construction, use or sale of that product, in addition to any conditions provided for by or under that Act;
+  respecting the conditions that must be fulfilled before a document — including a notice, certificate or permit — concerning any product to which a patent may relate may be issued to any person under any Act of Parliament that regulates the manufacture, construction, use or sale of that product, in addition to any conditions provided for by or under that Act;
 
-  respecting the earliest **day** on which **such a** document **may be issued to a person and the earliest day on which it** may take effect, and respecting the manner in which **each day** is to be determined;
+  respecting the earliest day on which such a document may be issued to a person and the earliest day on which it may take effect, and respecting the manner in which each day is to be determined;
 
-  **respecting** the **issuance, suspension or revocation of such a** document in circumstances where, directly or indirectly, the **document's issuance could** result or results in the infringement of a patent;
+  respecting the issuance, suspension or revocation of such a document in circumstances where, directly or indirectly, the document's issuance could result or results in the infringement of a patent;
 
-  **respecting the prevention and** resolution of disputes **with respect** to the day on which **such a** document may be issued or take effect;
+  respecting the prevention and resolution of disputes with respect to the day on which such a document may be issued or take effect;
 
   respecting the prevention and resolution of disputes with respect to the infringement of a patent that could result directly or indirectly from the manufacture, construction, use or sale of a product referred to in paragraph (a);
 
   respecting the resolution of disputes with respect to the infringement of a patent that results directly or indirectly from the manufacture, construction, use or sale of such a product;
 
-  conferring rights of action with respect to disputes **referred to in any of paragraphs (d) to (f)**;
+  conferring rights of action with respect to disputes referred to in any of paragraphs (d) to (f);
 
   restricting or excluding the application of other rights of action under this Act or another Act of Parliament to disputes referred to in any of paragraphs (d) to (f);
 
   designating the court of competent jurisdiction in which a proceeding with respect to rights of action referred to in paragraph (g) is to be heard;
 
-  respecting **such proceedings, including** the procedure of the court in the matter, **the defences that may be pleaded**, the remedies that may be sought, **the joinder of parties and of rights of action and the consolidation of other proceedings**, the decisions and orders **the court** may make **and any appeals from those decisions** and **orders;** and
+  respecting such proceedings, including the procedure of the court in the matter, the defences that may be pleaded, the remedies that may be sought, the joinder of parties and of rights of action and the consolidation of other proceedings, the decisions and orders the court may make and any appeals from those decisions and orders; and
 
   specifying who may be an interested person for the purposes of subsection 60(1) with respect to disputes referred to in paragraph (e).
 
 ### Section 40
 
-Section 62 of the Act is repealed.
+Section 62 of the Act is **replaced by the following:**
+
+### Section 62
+
+A patent, or part of a patent, that is voided by a judgment shall be and be held to have been void and of no effect, unless the judgment is reversed on appeal as provided in section 63.
 
 ### Section 41
 
@@ -648,7 +652,7 @@ Subsection 66(3) of the Act is repealed.
 
 Subsection 68(2) of the Act is replaced by the following:
 
-**(2)** The Commissioner shall consider the matters alleged in the application and declarations referred to in subsection (1) and, if satisfied that the applicant has a bona fide interest and that a case for relief has been made, **the Commissioner** shall direct the applicant to serve copies of the application and declarations on the patentee and on any other persons appearing from the records of the Patent Office to be interested in the patent, and the applicant shall advertise the application **both**
+**(2)** The Commissioner shall consider the matters alleged in the application and declarations referred to in subsection (1) and, if satisfied that the applicant has a bona fide interest and that a case for relief has been made, the Commissioner shall direct the applicant to serve copies of the application and declarations on the patentee and on any other persons appearing from the records of the Patent Office to be interested in the patent, and the applicant shall advertise the application both
 
   in the `Canada Gazette`; and
 
@@ -660,13 +664,13 @@ Section 75 of the Act is replaced by the following:
 
 ### Section 75
 
-  ****(1)**** Every person is guilty of an indictable offence and **is** liable to a fine **of** not **more** than $200 or to imprisonment for a term **of** not **more than** three months, or to both, who
+  **(1)** Every person is guilty of an indictable offence and is liable to a fine of not more than $200 or to imprisonment for a term of not more than three months, or to both, who
 
-    without the consent of the patentee, marks **in any way** on anything made or sold by **the person**, and for the sole making or selling of which **they are** not the patentee, the name or any imitation of the name of any patentee for the sole making or selling of that thing;
+    without the consent of the patentee, marks in any way on anything made or sold by the person, and for the sole making or selling of which they are not the patentee, the name or any imitation of the name of any patentee for the sole making or selling of that thing;
 
-    without the consent of the patentee, marks **in any way** on anything not purchased from the patentee, the words "Patent", "Letters Patent", "Queen's (or King's) Patent", "Patented" or any word or words **with a similar meaning**, with the intent of counterfeiting or imitating the stamp, mark or device of the patentee, or of deceiving the public and inducing them to believe that the thing in question was made or sold by or with the **patentee's** consent; or
+    without the consent of the patentee, marks in any way on anything not purchased from the patentee, the words "Patent", "Letters Patent", "Queen's (or King's) Patent", "Patented" or any word or words with a similar meaning, with the intent of counterfeiting or imitating the stamp, mark or device of the patentee, or of deceiving the public and inducing them to believe that the thing in question was made or sold by or with the patentee's consent; or
 
-    with intent to deceive the public, offers for sale as patented in Canada any article **that is neither** patented in Canada **nor protected by a certificate of supplementary protection in Canada**.
+    with intent to deceive the public, offers for sale as patented in Canada any article that is neither patented in Canada nor protected by a certificate of supplementary protection in Canada.
 
   **(2)** Every person is guilty of an indictable offence and is liable to a fine of not more than $200 or to imprisonment for a term of not more than three months, or to both, who
 
@@ -686,20 +690,20 @@ Subsection 78(1) of the Act is replaced by the following:
 
 ### Section 78
 
-  **(1)** **If** any time limit or period of limitation specified under this Act, **in respect of any business before the Patent Office**, expires on a day when the Patent Office is closed for business, that time limit or period of limitation shall be deemed to be extended to the next day when the Patent Office is open for business.
+  **(1)** If any time limit or period of limitation specified under this Act, in respect of any business before the Patent Office, expires on a day when the Patent Office is closed for business, that time limit or period of limitation shall be deemed to be extended to the next day when the Patent Office is open for business.
 
 ### Section 45
 
 The heading "Patented Medicines" before section 79 of the Act is replaced by the following:
 
 
-## Patented **or Protected** Medicines
+## Patented or Protected Medicines
 
 ### Section 46
 
   **(1)** The definition **breveté** ou **titulaire d'un brevet** in subsection 79(1) of the French version of the Act is replaced by the following:
 
-    **breveté** ou **titulaire d'un brevet** La personne ayant pour le moment droit à l'avantage d'un brevet pour une invention liée à un médicament, ainsi que quiconque **peut exercer tout droit** d'un titulaire dans un cadre autre qu'une licence prorogée en vertu du paragraphe 11(1) de la `Loi de 1992 modifiant la Loi sur les brevets`. (***patent­ee***)
+    **breveté** ou **titulaire d'un brevet** La personne ayant pour le moment droit à l'avantage d'un brevet pour une invention liée à un médicament, ainsi que quiconque peut exercer tout droit d'un titulaire dans un cadre autre qu'une licence prorogée en vertu du paragraphe 11(1) de la `Loi de 1992 modifiant la Loi sur les brevets`. (***patent­ee***)
 
   **(2)** Subsection 79(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -713,25 +717,25 @@ The heading "Patented Medicines" before section 79 of the Act is replaced by the
 
 ### Section 80
 
-      **(1)** A **rights holder for** an invention pertaining to a medicine shall, as required by and in accordance with the regulations, provide the Board with **the** information and documents **that** the regulations may specify respecting
+      **(1)** A rights holder for an invention pertaining to a medicine shall, as required by and in accordance with the regulations, provide the Board with the information and documents that the regulations may specify respecting
 
   **(2)** Paragraph 80(1)(c) of the English version of the Act is replaced by the following:
 
-    the costs of making and marketing the medicine, **if** that information is available to the **rights holder** in Canada or is within the knowledge or control of the **rights holder**;
+    the costs of making and marketing the medicine, if that information is available to the rights holder in Canada or is within the knowledge or control of the rights holder;
 
   **(3)** The portion of subsection 80(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to subsection (3), a person who is a former **rights holder for** an invention pertaining to a medicine shall, as required by and in accordance with the regulations, provide the Board with **the** information and documents **that** the regulations may specify respecting
+    **(2)** Subject to subsection (3), a person who is a former rights holder for an invention pertaining to a medicine shall, as required by and in accordance with the regulations, provide the Board with the information and documents that the regulations may specify respecting
 
   **(4)** Paragraphs 80(2)(b) and (c) of the Act are replaced by the following:
 
-    the price at which the medicine was sold in any market in Canada and elsewhere during the period in which the person was a **rights holder for** the invention;
+    the price at which the medicine was sold in any market in Canada and elsewhere during the period in which the person was a rights holder for the invention;
 
-    the costs of making and marketing the medicine produced during that period, whether incurred before or after the patent was issued **or the certificate of supplementary protection took effect, if** that information is available to the person in Canada or is within the knowledge or control of the person;
+    the costs of making and marketing the medicine produced during that period, whether incurred before or after the patent was issued or the certificate of supplementary protection took effect, if that information is available to the person in Canada or is within the knowledge or control of the person;
 
   **(5)** Subsection 80(3) of the Act is replaced by the following:
 
-    **(3)** Subsection (2) does not apply to a person who has not, for a period of three or more years, been entitled to the benefit of the patent **or certificate of supplementary protection, as the case may be**, or to exercise any rights in relation to **the patent or certificate**.
+    **(3)** Subsection (2) does not apply to a person who has not, for a period of three or more years, been entitled to the benefit of the patent or certificate of supplementary protection, as the case may be, or to exercise any rights in relation to the patent or certificate.
 
 ### Section 48
 
@@ -739,21 +743,21 @@ The heading "Patented Medicines" before section 79 of the Act is replaced by the
 
 ### Section 81
 
-      **(1)** The Board may, by order, require a **rights holder** or former **rights holder for** an invention pertaining to a medicine to provide the Board with information and documents respecting
+      **(1)** The Board may, by order, require a rights holder or former rights holder for an invention pertaining to a medicine to provide the Board with information and documents respecting
 
-        in the case of a **rights holder**, any of the matters referred to in paragraphs 80(1)(a) to (e);
+        in the case of a rights holder, any of the matters referred to in paragraphs 80(1)(a) to (e);
 
-        in the case of a former **rights holder**, any of the matters referred to in paragraphs 80(2)(a) to (e); and
+        in the case of a former rights holder, any of the matters referred to in paragraphs 80(2)(a) to (e); and
 
-        **any** other related matters **that** the Board may require.
+        any other related matters that the Board may require.
 
   **(2)** Subsection 81(2) of the English version of the Act is replaced by the following:
 
-    **(2)** A **rights holder** or former **rights holder** in respect of whom an order is made under subsection (1) shall comply with the order within **the** time **that** is specified in the order or as the Board may allow.
+    **(2)** A rights holder or former rights holder in respect of whom an order is made under subsection (1) shall comply with the order within the time that is specified in the order or as the Board may allow.
 
   **(3)** Subsection 81(3) of the Act is replaced by the following:
 
-    **(3)** No order may be made under subsection (1) in respect of a former **rights holder** who, more than three years before the day on which the order is proposed to be made, ceased to be entitled to the benefit of the patent **or certificate of supplementary protection, as the case may be,** or to exercise any rights in relation to **the patent or certificate**.
+    **(3)** No order may be made under subsection (1) in respect of a former rights holder who, more than three years before the day on which the order is proposed to be made, ceased to be entitled to the benefit of the patent or certificate of supplementary protection, as the case may be, or to exercise any rights in relation to the patent or certificate.
 
 ### Section 49
 
@@ -761,17 +765,17 @@ The heading "Patented Medicines" before section 79 of the Act is replaced by the
 
 ### Section 82
 
-      **(1)** A **rights holder for** an invention pertaining to a medicine who intends to sell the medicine in a market in Canada in which it has not previously been sold shall, as soon as practicable after determining the date on which the medicine will be first offered for sale in that market, notify the Board of its intention and of that date.
+      **(1)** A rights holder for an invention pertaining to a medicine who intends to sell the medicine in a market in Canada in which it has not previously been sold shall, as soon as practicable after determining the date on which the medicine will be first offered for sale in that market, notify the Board of its intention and of that date.
 
-      **(2)** **If** the Board receives a notice under subsection (1) from a **rights holder** or otherwise has reason to believe that a **rights holder for** an invention pertaining to a medicine intends to sell the medicine in a market in Canada in which the medicine has not previously been sold, the Board may, by order, require the **rights holder** to provide the Board with information and documents respecting the price at which the medicine is intended to be sold in that market.
+      **(2)** If the Board receives a notice under subsection (1) from a rights holder or otherwise has reason to believe that a rights holder for an invention pertaining to a medicine intends to sell the medicine in a market in Canada in which the medicine has not previously been sold, the Board may, by order, require the rights holder to provide the Board with information and documents respecting the price at which the medicine is intended to be sold in that market.
 
   **(2)** Subsection 82(3) of the English version of the Act is replaced by the following:
 
-    **(3)** Subject to subsection (4), a **rights holder** in respect of whom an order is made under subsection (2) shall comply with the order within **the** time **that** is specified in the order or as the Board may allow.
+    **(3)** Subject to subsection (4), a rights holder in respect of whom an order is made under subsection (2) shall comply with the order within the time that is specified in the order or as the Board may allow.
 
   **(3)** Subsection 82(4) of the Act is replaced by the following:
 
-    **(4)** No **rights holder** shall be required to comply with an order made under subsection (2) prior to the 60th day preceding the date on which the **rights holder** intends to first offer the medicine for sale in the relevant market.
+    **(4)** No rights holder shall be required to comply with an order made under subsection (2) prior to the 60th day preceding the date on which the rights holder intends to first offer the medicine for sale in the relevant market.
 
 ### Section 50
 
@@ -779,29 +783,29 @@ Section 83 of the Act is replaced by the following:
 
 ### Section 83
 
-  **(1)** **If** the Board finds that a **rights holder for** an invention pertaining to a medicine is selling the medicine in any market in Canada at a price that, in the Board's opinion, is excessive, the Board may, by order, direct the **rights holder** to cause the maximum price at which the **rights holder** sells the medicine in that market to be reduced to **the** level **that** the Board considers not to be excessive and **that** is specified in the order.
+  **(1)** If the Board finds that a rights holder for an invention pertaining to a medicine is selling the medicine in any market in Canada at a price that, in the Board's opinion, is excessive, the Board may, by order, direct the rights holder to cause the maximum price at which the rights holder sells the medicine in that market to be reduced to the level that the Board considers not to be excessive and that is specified in the order.
 
-  **(2)** Subject to subsection (4), **if** the Board finds that a **rights holder for** an invention pertaining to a medicine has, while a **rights holder**, sold the medicine in any market in Canada at a price that, in the Board's opinion, was excessive, the Board may, by order, direct the **rights holder** to do any one or more of the following things **that** will, in the Board's opinion, offset the amount of the excess revenues estimated by it to have been derived by the **rights holder** from the sale of the medicine at an excessive price:
+  **(2)** Subject to subsection (4), if the Board finds that a rights holder for an invention pertaining to a medicine has, while a rights holder, sold the medicine in any market in Canada at a price that, in the Board's opinion, was excessive, the Board may, by order, direct the rights holder to do any one or more of the following things that will, in the Board's opinion, offset the amount of the excess revenues estimated by it to have been derived by the rights holder from the sale of the medicine at an excessive price:
 
-    reduce the price at which the **rights holder** sells the medicine in any market in Canada, to **the** extent and for **the** period **that are** specified in the order;
+    reduce the price at which the rights holder sells the medicine in any market in Canada, to the extent and for the period that are specified in the order;
 
-    to **the** extent and for **the** period **that are** specified in the order, reduce the price at which the **rights holder** sells, in any market in Canada, **any** other medicine to which a patented invention, **or invention protected by a certificate of supplementary protection**, of the **rights holder** pertains;
+    to the extent and for the period that are specified in the order, reduce the price at which the rights holder sells, in any market in Canada, any other medicine to which a patented invention, or invention protected by a certificate of supplementary protection, of the rights holder pertains;
 
-    pay to Her Majesty in right of Canada an amount **that is** specified in the order.
+    pay to Her Majesty in right of Canada an amount that is specified in the order.
 
-  **(3)** Subject to subsection (4), **if** the Board finds that a former **rights holder for** an invention pertaining to a medicine had, while a **rights holder**, sold the medicine in any market in Canada at a price that, in the Board's opinion, was excessive, the Board may, by order, direct the former **rights holder** to do any one or more of the following things **that** will, in the Board's opinion, offset the amount of the excess revenues estimated by it to have been derived by the former **rights holder** from the sale of the medicine at an excessive price:
+  **(3)** Subject to subsection (4), if the Board finds that a former rights holder for an invention pertaining to a medicine had, while a rights holder, sold the medicine in any market in Canada at a price that, in the Board's opinion, was excessive, the Board may, by order, direct the former rights holder to do any one or more of the following things that will, in the Board's opinion, offset the amount of the excess revenues estimated by it to have been derived by the former rights holder from the sale of the medicine at an excessive price:
 
-    to **the** extent and for **the** period **that are** specified in the order, reduce the price at which the former **rights holder** sells, in any market in Canada, a medicine to which a patented invention, **or invention protected by a certificate of supplementary protection**, of the former **rights holder** pertains; or
+    to the extent and for the period that are specified in the order, reduce the price at which the former rights holder sells, in any market in Canada, a medicine to which a patented invention, or invention protected by a certificate of supplementary protection, of the former rights holder pertains; or
 
-    pay to Her Majesty in right of Canada an amount **that is** specified in the order.
+    pay to Her Majesty in right of Canada an amount that is specified in the order.
 
-  **(4)** **If** the Board, having regard to the extent and duration of the sales of the medicine at an excessive price, is of the opinion that the **rights holder** or former **rights holder** has engaged in a policy of selling the medicine at an excessive price, the Board may, by order, in lieu of any order it may make under subsection (2) or (3), as the case may be, direct the **rights holder** or former **rights holder** to do any one or more of the things referred to in that subsection **that** will, in the Board's opinion, offset not more than twice the amount of the excess revenues estimated by it to have been derived by the **rights holder** or former **rights holder** from the sale of the medicine at an excessive price.
+  **(4)** If the Board, having regard to the extent and duration of the sales of the medicine at an excessive price, is of the opinion that the rights holder or former rights holder has engaged in a policy of selling the medicine at an excessive price, the Board may, by order, in lieu of any order it may make under subsection (2) or (3), as the case may be, direct the rights holder or former rights holder to do any one or more of the things referred to in that subsection that will, in the Board's opinion, offset not more than twice the amount of the excess revenues estimated by it to have been derived by the rights holder or former rights holder from the sale of the medicine at an excessive price.
 
-  **(5)** In estimating the amount of excess revenues under subsection (2), (3) or (4), the Board shall not consider any revenues derived by a **rights holder** or former **rights holder** before December 20, 1991 or any revenues derived by a former **rights holder** after they ceased to be entitled to the benefit of the patent **or certificate of supplementary protection, as the case may be**, or to exercise any rights in relation to **the patent or certificate**.
+  **(5)** In estimating the amount of excess revenues under subsection (2), (3) or (4), the Board shall not consider any revenues derived by a rights holder or former rights holder before December 20, 1991 or any revenues derived by a former rights holder after they ceased to be entitled to the benefit of the patent or certificate of supplementary protection, as the case may be, or to exercise any rights in relation to the patent or certificate.
 
-  **(6)** Before the Board makes an order under this section, it shall provide the **rights holder** or former **rights holder** with a reasonable opportunity to be heard.
+  **(6)** Before the Board makes an order under this section, it shall provide the rights holder or former rights holder with a reasonable opportunity to be heard.
 
-  **(7)** No order may be made under this section in respect of a former **rights holder** who, more than three years before the day on which the proceedings in the matter commenced, ceased to be entitled to the benefit of the patent **or certificate of supplementary protection, as the case may be,** or to exercise any rights in relation to **the patent or certificate**.
+  **(7)** No order may be made under this section in respect of a former rights holder who, more than three years before the day on which the proceedings in the matter commenced, ceased to be entitled to the benefit of the patent or certificate of supplementary protection, as the case may be, or to exercise any rights in relation to the patent or certificate.
 
 ### Section 51
 
@@ -809,19 +813,19 @@ Section 83 of the Act is replaced by the following:
 
 ### Section 84
 
-      **(1)** A **rights holder** or former **rights holder** who is required by any order made under section 83 to reduce the price of a medicine shall commence compliance with the order within one month after the date of the order or within **a** greater period after that date **that** the Board determines is practical and reasonable, having regard to the circumstances of the **rights holder** or former **rights holder**.
+      **(1)** A rights holder or former rights holder who is required by any order made under section 83 to reduce the price of a medicine shall commence compliance with the order within one month after the date of the order or within a greater period after that date that the Board determines is practical and reasonable, having regard to the circumstances of the rights holder or former rights holder.
 
-      **(2)** A **rights holder** or former **rights holder** who is directed by any order made under section 83 to pay an amount to Her Majesty shall pay that amount within one month after the date of the order or within **a** greater period after that date **that** the Board determines is practical and reasonable, having regard to the circumstances of the **rights holder** or former **rights holder**.
+      **(2)** A rights holder or former rights holder who is directed by any order made under section 83 to pay an amount to Her Majesty shall pay that amount within one month after the date of the order or within a greater period after that date that the Board determines is practical and reasonable, having regard to the circumstances of the rights holder or former rights holder.
 
   **(2)** Subsection 84(3) of the English version of the Act is replaced by the following:
 
-    **(3)** An amount payable by a **rights holder** or former **rights holder** to Her Majesty under any order made under section 83 constitutes a debt due to Her Majesty and may be recovered in any court of competent jurisdiction.
+    **(3)** An amount payable by a rights holder or former rights holder to Her Majesty under any order made under section 83 constitutes a debt due to Her Majesty and may be recovered in any court of competent jurisdiction.
 
 ### Section 52
 
 Subsection 85(3) of the Act is replaced by the following:
 
-**(3)** In determining under section 83 whether a medicine is being or has been sold in any market in Canada at an excessive price, the Board shall not take into consideration research costs other than the Canadian portion of the world costs related to the research that led to the invention pertaining to that medicine or to the development and commercialization of that invention, calculated in proportion to the ratio of sales by the **rights holder** in Canada of that medicine to total world sales.
+**(3)** In determining under section 83 whether a medicine is being or has been sold in any market in Canada at an excessive price, the Board shall not take into consideration research costs other than the Canadian portion of the world costs related to the research that led to the invention pertaining to that medicine or to the development and commercialization of that invention, calculated in proportion to the ratio of sales by the rights holder in Canada of that medicine to total world sales.
 
 ### Section 53
 
@@ -829,15 +833,15 @@ Subsections 88(1) and (2) of the Act are replaced by the following:
 
 ### Section 88
 
-  **(1)** A **rights holder for** an invention pertaining to a medicine shall, as required by and in accordance with the regulations, or as the Board may, by order, require, provide the Board with **the** information and documents **that** the regulations or the order may specify respecting
+  **(1)** A rights holder for an invention pertaining to a medicine shall, as required by and in accordance with the regulations, or as the Board may, by order, require, provide the Board with the information and documents that the regulations or the order may specify respecting
 
-    the identity of the licensees in Canada of the **rights holder**;
+    the identity of the licensees in Canada of the rights holder;
 
-    the revenue of the **rights holder**, and details of the source of the revenue, whether direct or indirect, from sales of medicine in Canada; and
+    the revenue of the rights holder, and details of the source of the revenue, whether direct or indirect, from sales of medicine in Canada; and
 
-    the expenditures made by the **rights holder** in Canada on research and development relating to medicine.
+    the expenditures made by the rights holder in Canada on research and development relating to medicine.
 
-  **(2)** **If** the Board believes on reasonable grounds that any person has information or documents pertaining to the value of sales of medicine in Canada by a **rights holder** or the expenditures made by a **rights holder** in Canada on research and development relating to medicine, the Board may, by order, require the person to provide the Board with any of the information or documents that are specified in the order, or with copies **of them**.
+  **(2)** If the Board believes on reasonable grounds that any person has information or documents pertaining to the value of sales of medicine in Canada by a rights holder or the expenditures made by a rights holder in Canada on research and development relating to medicine, the Board may, by order, require the person to provide the Board with any of the information or documents that are specified in the order, or with copies of them.
 
 ### Section 54
 
@@ -847,19 +851,19 @@ Subsections 88(1) and (2) of the Act are replaced by the following:
 
       **(1)** The Board shall in each year submit to the Minister a report setting out
 
-        the Board's estimate of the proportion, as a percentage, that the expenditures of each **rights holder** in Canada in the preceding year on research and development relating to medicine is of the revenues of those **rights holders** from sales of medicine in Canada in that year; and
+        the Board's estimate of the proportion, as a percentage, that the expenditures of each rights holder in Canada in the preceding year on research and development relating to medicine is of the revenues of those rights holders from sales of medicine in Canada in that year; and
 
-        the Board's estimate of the proportion, as a percentage, that the total of the expenditures of **rights holders** in Canada in the preceding year on research and development relating to medicine is of the total of the revenues of those **rights holders** from sales of medicine in Canada in that year.
+        the Board's estimate of the proportion, as a percentage, that the total of the expenditures of rights holders in Canada in the preceding year on research and development relating to medicine is of the total of the revenues of those rights holders from sales of medicine in Canada in that year.
 
   **(2)** Subsection 89(3) of the Act is replaced by the following:
 
-    **(3)** The Board shall, in the report, identify the **rights holders** in respect of whom an estimate referred to in subsection (1) is given in the report, and may, in the report, identify any person who has failed to comply with subsection 88(1) or (2) at any time in the year in respect of which the report is made.
+    **(3)** The Board shall, in the report, identify the rights holders in respect of whom an estimate referred to in subsection (1) is given in the report, and may, in the report, identify any person who has failed to comply with subsection 88(1) or (2) at any time in the year in respect of which the report is made.
 
 ### Section 55
 
 Subsection 96(4) of the Act is replaced by the following:
 
-**(4)** Subject to subsection (5), the Board may issue guidelines with respect to any matter within its jurisdiction but such guidelines are not binding on the Board or any **rights holder or former rights holder**.
+**(4)** Subject to subsection (5), the Board may issue guidelines with respect to any matter within its jurisdiction but such guidelines are not binding on the Board or any rights holder or former rights holder.
 
 ### Section 56
 
@@ -869,19 +873,19 @@ Subsections 100(2) and (3) of the Act are replaced by the following:
 
   a summary of pricing trends in the pharmaceutical industry; and
 
-  the name of each **rights holder and former rights holder** in respect of whom an order was made under subsection **81(1) or 82(2) or section 83** during the year and a statement as to the status of the matter in respect of which the order was made.
+  the name of each rights holder and former rights holder in respect of whom an order was made under subsection 81(1) or 82(2) or section 83 during the year and a statement as to the status of the matter in respect of which the order was made.
 
-**(3)** The summary referred to in paragraph (2)(a) may be based on information and documents provided to the Board by any **rights holder or former rights holder** under section 80, 81 or 82 or in any proceeding under section 83, but shall not be set out in a manner that would make it possible to identify that **rights holder or former rights holder**.
+**(3)** The summary referred to in paragraph (2)(a) may be based on information and documents provided to the Board by any rights holder or former rights holder under section 80, 81 or 82 or in any proceeding under section 83, but shall not be set out in a manner that would make it possible to identify that rights holder or former rights holder.
 
 ### Section 57
 
   **(1)** Paragraph 101(1)(d) of the English version of the Act is replaced by the following:
 
-    specifying factors for the purposes of subsection 85(1) or (2), including factors relating to the introductory price of any medicine to which a patented invention, **or invention protected by a certificate of supplementary protection**, pertains;
+    specifying factors for the purposes of subsection 85(1) or (2), including factors relating to the introductory price of any medicine to which a patented invention, or invention protected by a certificate of supplementary protection, pertains;
 
   **(2)** Paragraph 101(1)(h) of the English version of the Act is replaced by the following:
 
-    requiring or authorizing the Board to perform **the** duties, in addition to those provided for in this Act, **that** are specified in the regulations, including duties to be performed by the Board in relation to the introductory price of any medicine to which a patented invention, **or invention protected by a certificate of supplementary protection**, pertains; and
+    requiring or authorizing the Board to perform the duties, in addition to those provided for in this Act, that are specified in the regulations, including duties to be performed by the Board in relation to the introductory price of any medicine to which a patented invention, or invention protected by a certificate of supplementary protection, pertains; and
 
 ### Section 58
 
@@ -889,7 +893,7 @@ Section 103 of the Act is replaced by the following:
 
 ### Section 103
 
-The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a **rights holder** or former **rights holder** that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts.
+The Minister may enter into agreements with any province respecting the distribution of, and may pay to that province out of the Consolidated Revenue Fund, amounts received or collected by the Receiver General under section 83 or 84 or in respect of an undertaking given by a rights holder or former rights holder that is accepted by the Board in lieu of holding a hearing or making an order under section 83, less any costs incurred in relation to the collection and distribution of those amounts.
 
 ### Section 59
 
@@ -930,7 +934,7 @@ restoring, correcting or modifying organic functions in human beings or animals.
   **(6)** If combinations of medicinal ingredients contained in drugs authorized for veterinary use differ from each other only with respect to a variation in the ratio between those ingredients, they are to be treated as the same combination of medicinal ingredients for the purposes of this section and sections `106` to `134`.
 
 
-### **Application for Certificate of Supplementary Protection**
+### Application for Certificate of Supplementary Protection
 
 ### Section 106
 
@@ -940,7 +944,7 @@ restoring, correcting or modifying organic functions in human beings or animals.
 
     the filing date for the application for the patent is on or after October 1, 1989;
 
-    the patent pertains in the prescribed manner to a medicinal ingredient, or combination of medicinal ingredients, contained in a drug for which an authorization for sale of the prescribed kind was issued on or after the prescribed day;
+    the patent pertains in the prescribed manner to a medicinal ingredient, or combination of medicinal ingredients, contained in a drug for which an authorization for sale of the prescribed kind was issued on or after the day **on which this section comes into force**;
 
     the authorization for sale is the first authorization for sale that has been issued with respect to the medicinal ingredient or the combination of medicinal ingredients, as the case may be;
 
@@ -1002,7 +1006,7 @@ If two or more pending applications set out the same authorization for sale and 
 
 ### Section 111
 
-  **(1)** If two or more applications that set out the same authorization for sale and have the same priority are still pending at the end of the prescribed period that begins on the day specified in the written notice sent under section `109`, all of those applications expire at that end of that period. However, if any proceedings are brought under section `110` with respect to any of the pending applications, all of those applications expire at the end of the prescribed period that begins on the day on which the last of any of the proceedings to be completed is finally disposed of.
+  **(1)** If two or more applications that set out the same authorization for sale and have the same priority are still pending at the end of the prescribed period that begins on the day specified in the written notice sent under section `109`, all of those applications expire at that end of that period. However, if any proceedings are brought under section 110 with respect to any of **those** applications, all of those applications — **if two or more are still** pending — expire at the end of the prescribed period that begins on the day on which the last of any of the proceedings to be completed is finally disposed of.
 
   **(2)** A pending application that sets out the same authorization for sale as another application of higher priority expires on the day on which the Minister issues a certificate of supplementary protection in respect of that other application.
 
@@ -1139,9 +1143,9 @@ any reference to "patentee" to be read as a reference to "holder of the certific
 
     subsection 56(1), with any reference to "patentee" to be read as a reference to "holder of a certificate of supplementary protection that sets out that patent";
 
-    section 58, with the reference to "a patent that contains two or more claims" to be read as a reference to a "two or more claims in a patent **that is** set out in a certificate of supplementary protection" and with the reference to "the patent as if it" to be read as a reference to "the certificate as if the patent set out in it".
+    section 58, with the reference to "a patent that contains two or more claims" to be read as a reference to a "two or more claims in a patent that is set out in a certificate of supplementary protection" and with the reference to "the patent as if it" to be read as a reference to "the certificate as if the patent set out in it".
 
-  **(2)** The Governor in Council may make regulations respecting the infringement of any certificate of supplementary protection **that, directly or indirectly, could result or results from the making, construction, use or sale of** a patented invention or invention protected by a certificate of supplementary protection in accordance with subsection 55.2(1), including regulations described in paragraphs 55.2(4)(a) to (k), with
+  **(2)** The Governor in Council may make regulations respecting the infringement of any certificate of supplementary protection that, directly or indirectly, could result or results from the making, construction, use or sale of a patented invention or invention protected by a certificate of supplementary protection in accordance with subsection 55.2(1), including regulations described in paragraphs 55.2(4)(a) to (k), with
 
     any reference in those paragraphs to a "patent" to be read as a reference to a "certificate of supplementary protection"; and
 
@@ -1157,7 +1161,9 @@ any reference to "patentee" to be read as a reference to "holder of the certific
 
 ### Section 126
 
-Every judgment voiding a certificate of supplementary protection or any claim in the patent set out in such a certificate, and every judgment refusing to do so, is subject to appeal to any court having appellate jurisdiction in other cases decided by the court by which the judgment was rendered.
+  ****(1)**** **A certificate of supplementary protection, or a claim in the patent set out in such a certificate, that is voided by a judgment shall be and be held to have been void and of no effect, unless the judgment is reversed on appeal as provided in subsection (2).**
+
+  ****(2)**** Every judgment voiding a certificate of supplementary protection or any claim in the patent set out in such a certificate, and every judgment refusing to do so, is subject to appeal to any court having appellate jurisdiction in other cases decided by the court by which the judgment was rendered.
 
 
 ### Abuse of Rights
@@ -1260,9 +1266,9 @@ The `User Fees Act` does not apply in respect of the fees referred to in section
 
 The definitions **confusing** and **geographical indication** in section 2 of the `Trade-marks Act` are replaced by the following:
 
-**confusing**, when applied as an adjective to a trade-mark or trade-name, means, **except in sections 11.13 and 11.21**, a trade-mark or trade-name the use of which would cause confusion in the manner and circumstances described in section 6; (**créant de la confusion**)
+**confusing**, when applied as an adjective to a trade-mark or trade-name, means, except in sections 11.13 and 11.21, a trade-mark or trade-name the use of which would cause confusion in the manner and circumstances described in section 6; (**créant de la confusion**)
 
-**geographical indication** means an indication that identifies a wine or spirit, **or an agricultural product or food of a category set out in the schedule**, as originating in the territory of a WTO Member, or a region or locality of that territory, **if** a quality, reputation or other characteristic of the wine **or** spirit **or the agricultural product or food** is essentially attributable to its geographical origin; (**indication géographique**)
+**geographical indication** means an indication that identifies a wine or spirit, or an agricultural product or food of a category set out in the schedule, as originating in the territory of a WTO Member, or a region or locality of that territory, if a quality, reputation or other characteristic of the wine or spirit or the agricultural product or food is essentially attributable to its geographical origin; (**indication géographique**)
 
 ### Section 61
 
@@ -1273,13 +1279,13 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
 ### Section 11.11
 
-  ****(1)**** **The following definitions apply** in **this section and in** sections 11.12 to **11.24**.
+  **(1)** The following definitions apply in this section and in sections 11.12 to 11.24.
 
-    **Minister** means the Minister designated **under subsection (2)**. (**ministre**)
+    **Minister** means the Minister designated under subsection (2). (**ministre**)
 
-    **responsible authority** means, in relation to a wine or spirit, **or an agricultural product or food of a category set out in the schedule**, the person, firm or other entity that, in the **Minister's** opinion, is, by reason of state or commercial interest, sufficiently connected with and knowledgeable **about** that wine or spirit **or that agricultural product or food** to be a party to any proceedings under **this Act**. (**autorité compétente**)
+    **responsible authority** means, in relation to a wine or spirit, or an agricultural product or food of a category set out in the schedule, the person, firm or other entity that, in the Minister's opinion, is, by reason of state or commercial interest, sufficiently connected with and knowledgeable about that wine or spirit or that agricultural product or food to be a party to any proceedings under this Act. (**autorité compétente**)
 
-  **(2)** The Governor in Council may, by order, designate any federal minister to be the Minister for the purposes of this section and sections 11.12 to **11.24**.
+  **(2)** The Governor in Council may, by order, designate any federal minister to be the Minister for the purposes of this section and sections 11.12 to 11.24.
 
   **(3)** For the purposes of sections 11.13 and 11.21, an indication identifying an agricultural product or food is confusing with a trade-mark if the use of both the indication and the trade-mark in the same area would be likely to lead to the inference that the agricultural product or food associated with the indication originates from the same source as the goods or services associated with the trade-mark.
 
@@ -1299,33 +1305,33 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
 ### Section 11.12
 
-  **(1)** There shall be kept under the supervision of the Registrar a list of geographical indications **and, in the case of geographical indications identifying an agricultural product or food, translations of those indications**.
+  **(1)** There shall be kept under the supervision of the Registrar a list of geographical indications and, in the case of geographical indications identifying an agricultural product or food, translations of those indications.
 
-  **(2)** **If** a statement by the Minister in respect of an indication is published **on the website of the Canadian Intellectual Property Office** setting out the information mentioned in subsection (3), the **Registrar shall enter** the indication, **and any translation of the indication set out in the statement**, on the list **if**
+  **(2)** If a statement by the Minister in respect of an indication is published on the website of the Canadian Intellectual Property Office setting out the information mentioned in subsection (3), the Registrar shall enter the indication, and any translation of the indication set out in the statement, on the list if
 
-    **no** statement of objection has been filed and served on the responsible authority in accordance with subsection 11.13(1) and the time for the filing of **a** statement of objection has expired; or
+    no statement of objection has been filed and served on the responsible authority in accordance with subsection 11.13(1) and the time for the filing of a statement of objection has expired; or
 
-    a statement of objection has been so filed and served, but it has been withdrawn or deemed under subsection 11.13(6) to have been withdrawn or it has been rejected **under** subsection 11.13(7) or, if an appeal is taken, it is rejected **in** the final judgment given in the appeal.
+    a statement of objection has been so filed and served, but it has been withdrawn or deemed under subsection 11.13(6) to have been withdrawn or it has been rejected under subsection 11.13(7) or, if an appeal is taken, it is rejected in the final judgment given in the appeal.
 
-  **(2.1)** **If a statement by the Minister is published on the website of the Canadian Intellectual Property Office setting out the information mentioned in subsection (3.1) in respect of a translation of an indication on the list that identifies an agricultural product or food, the Registrar shall enter the translation on the list if**
+  **(2.1)** If a statement by the Minister is published on the website of the Canadian Intellectual Property Office setting out the information mentioned in subsection (3.1) in respect of a translation of an indication on the list that identifies an agricultural product or food, the Registrar shall enter the translation on the list if
 
     no statement of objection has been filed and served on the responsible authority in accordance with subsection 11.13(1) and the time for the filing of the statement of objection has expired; or
 
     a statement of objection has been so filed and served, but it has been withdrawn or deemed under subsection 11.13(6) to have been withdrawn or it has been rejected under subsection 11.13(7) or, if an appeal is taken, it is rejected in the final judgment given in the appeal.
 
-  **(3)** For the purposes of subsection (2), the statement by the Minister must set out **all of** the following information:
+  **(3)** For the purposes of subsection (2), the statement by the Minister must set out all of the following information:
 
-    that the Minister proposes that the indication **and, if applicable, a translation of the indication, in the case of an indication that identifies an agricultural product or food**, be entered on the list;
+    that the Minister proposes that the indication and, if applicable, a translation of the indication, in the case of an indication that identifies an agricultural product or food, be entered on the list;
 
-    **in the case of an indication that identifies a wine or spirit**, that the indication identifies a wine or that the indication identifies a spirit;
+    in the case of an indication that identifies a wine or spirit, that the indication identifies a wine or that the indication identifies a spirit;
 
     in the case of an indication that identifies an agricultural product or food, the common name of the agricultural product or food and the category set out in the schedule to which it belongs;
 
-    the territory, or the region or locality of a territory, in which the wine or spirit **or the agricultural product or food** is identified as originating;
+    the territory, or the region or locality of a territory, in which the wine or spirit or the agricultural product or food is identified as originating;
 
-    the name of the responsible authority in relation to the wine or spirit **or the agricultural product or food** and the address of the responsible authority's principal office or place of business in Canada **or**, if the responsible authority has no office or place of business in Canada, the name and address in Canada of a person or firm on whom any document may be served with the same effect as if **it** had been served on the responsible authority itself;
+    the name of the responsible authority in relation to the wine or spirit or the agricultural product or food and the address of the responsible authority's principal office or place of business in Canada or, if the responsible authority has no office or place of business in Canada, the name and address in Canada of a person or firm on whom any document may be served with the same effect as if it had been served on the responsible authority itself;
 
-    the quality, reputation or other characteristic of the wine or spirit **or the agricultural product or food** that, in the **Minister's** opinion, qualifies that indication as a geographical indication;
+    the quality, reputation or other characteristic of the wine or spirit or the agricultural product or food that, in the Minister's opinion, qualifies that indication as a geographical indication;
 
     that, except in the case of an indication identifying a wine or spirit or an agricultural product or food as originating in Canada, the indication is protected by the law applicable to the territory in which the wine or spirit or the agricultural product or food is identified as originating, as well as particulars of the protection.
 
@@ -1337,15 +1343,15 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
     the common name of the agricultural product or food that the indication identifies and the category set out in the schedule to which it belongs;
 
-    the name of the responsible authority in relation to **the agricultural product or food** and the address of the responsible authority's principal office or place of business in Canada **or**, if the responsible authority has no office or place of business in Canada, the name and address in Canada of a person or firm on whom any document may be served with the same effect as if it had been served on the responsible authority itself.
+    the name of the responsible authority in relation to the agricultural product or food and the address of the responsible authority's principal office or place of business in Canada or, if the responsible authority has no office or place of business in Canada, the name and address in Canada of a person or firm on whom any document may be served with the same effect as if it had been served on the responsible authority itself.
 
-  **(4)** The Registrar shall remove an indication **or any translation of an indication** from the list
+  **(4)** The Registrar shall remove an indication or any translation of an indication from the list
 
-    on the publication of a statement by the Minister **on the website of the Canadian Intellectual Property Office specifying** that the indication **or the translation** is to be removed; or
+    on the publication of a statement by the Minister on the website of the Canadian Intellectual Property Office specifying that the indication or the translation is to be removed; or
 
     if the Federal Court makes an order under subsection 11.21(1) for the removal of the indication or the translation.
 
-  **(5)** The Registrar may, within six months after the day on which an indication **or a translation of an indication** is entered on the list, correct any error in that entry that is obvious from the documents relating to the indication **or the translation** in question that are, at the time that the entry is made, on file in the Registrar's office.
+  **(5)** The Registrar may, within six months after the day on which an indication or a translation of an indication is entered on the list, correct any error in that entry that is obvious from the documents relating to the indication or the translation in question that are, at the time that the entry is made, on file in the Registrar's office.
 
   **(6)** A copy of any entry on the list purporting to be certified to be true by the Registrar is evidence of the facts set out in it.
 
@@ -1359,13 +1365,13 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
 ### Section 11.13
 
-      **(1)** Within **two** months after the publication of a statement referred to in subsection 11.12(2) **or (2.1)**, any person interested may, on payment of the prescribed fee, file with the Registrar, and serve on the responsible authority in the prescribed manner, a statement of objection.
+      **(1)** Within two months after the publication of a statement referred to in subsection 11.12(2) or (2.1), any person interested may, on payment of the prescribed fee, file with the Registrar, and serve on the responsible authority in the prescribed manner, a statement of objection.
 
-      **(2)** A statement of objection **with respect to an** indication may be based **on any of the following grounds**:
+      **(2)** A statement of objection with respect to an indication may be based on any of the following grounds:
 
-        that, **when the statement by the Minister is published**, the indication is not a geographical indication;
+        that, when the statement by the Minister is published, the indication is not a geographical indication;
 
-        that, **when the statement by the Minister is published**, the indication is identical to a term customary in common language in Canada as the common name for the wine or spirit or the agricultural product or food;
+        that, when the statement by the Minister is published, the indication is identical to a term customary in common language in Canada as the common name for the wine or spirit or the agricultural product or food;
 
         that, except in the case of an indication identifying a wine or spirit or an agricultural product or food as originating in Canada, when the statement by the Minister is published, the indication is not protected by the law applicable to the territory in which the wine or spirit or the agricultural product or food is identified as originating;
 
@@ -1377,11 +1383,11 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
         a trade-mark in respect of which an application for registration was previously filed in Canada and remains pending.
 
-      **(2.1)** A statement of objection with respect to a translation may be based **on any of the following grounds**:
+      **(2.1)** A statement of objection with respect to a translation may be based on any of the following grounds:
 
         that, when the statement by the Minister is published, the translation is not a faithful translation of the indication;
 
-        that, **when the statement by the Minister is published**, the translation is identical to a term customary in common language in Canada as the common name for the agricultural product or food;
+        that, when the statement by the Minister is published, the translation is identical to a term customary in common language in Canada as the common name for the agricultural product or food;
 
         that, when the statement by the Minister is published, the translation is confusing with
 
@@ -1393,7 +1399,7 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
   **(2)** Paragraph 11.13(3)(a) of the Act is replaced by the following:
 
-    **each** ground of objection in sufficient detail to enable the responsible authority to reply **to it**; and
+    each ground of objection in sufficient detail to enable the responsible authority to reply to it; and
 
   **(3)** Subsection 11.13(4) of the Act is replaced by the following:
 
@@ -1405,21 +1411,21 @@ Sections 11.11 and 11.12 of the Act are replaced by the following:
 
       does not set out a ground of objection in sufficient detail to enable the responsible authority to reply to it.
 
-    **(4)** Within **two** months after a statement of objection has been served on the responsible authority, the responsible authority may file a counter statement with the Registrar and serve a copy on the objector in the prescribed manner, and if the responsible authority does not so file and serve a counter statement, the indication **or the translation** shall not be entered on the list **kept under subsection 11.12(1)**. **The counter statement need only state that the responsible authority intends to respond to the objection.**
+    **(4)** Within two months after a statement of objection has been served on the responsible authority, the responsible authority may file a counter statement with the Registrar and serve a copy on the objector in the prescribed manner, and if the responsible authority does not so file and serve a counter statement, the indication or the translation shall not be entered on the list kept under subsection 11.12(1). The counter statement need only state that the responsible authority intends to respond to the objection.
 
   **(4)** The portion of subsection 11.13(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** Both the objector and the responsible authority shall be given an opportunity, in the prescribed manner **and within the prescribed time**, to submit evidence and to make representations to the Registrar unless
+    **(5)** Both the objector and the responsible authority shall be given an opportunity, in the prescribed manner and within the prescribed time, to submit evidence and to make representations to the Registrar unless
 
   **(5)** Subsections 11.13(6) and (7) of the Act are replaced by the following:
 
     **(5.1)** The objector and the responsible authority shall, in the prescribed manner and within the prescribed time, serve on each other any evidence and written representations that they submit to the Registrar.
 
-    **(6)** The objection **is** deemed to have been withdrawn if, in the prescribed circumstances, the objector does not submit **and serve** evidence or a statement that the objector does not wish to submit evidence.
+    **(6)** The objection is deemed to have been withdrawn if, in the prescribed circumstances, the objector does not submit and serve evidence or a statement that the objector does not wish to submit evidence.
 
     **(6.1)** The indication or the translation shall not be entered on the list if, in the prescribed circumstances, the responsible authority does not submit and serve evidence or a statement that the responsible authority does not wish to submit evidence.
 
-    **(7)** After considering the evidence and representations of the objector and the responsible authority, the Registrar shall **accept** or reject the objection, **in whole or in part**, and notify the parties of the decision and the reasons for **it**.
+    **(7)** After considering the evidence and representations of the objector and the responsible authority, the Registrar shall accept or reject the objection, in whole or in part, and notify the parties of the decision and the reasons for it.
 
     **(8)** The Registrar shall not enter any translation of an indication on the list if the Registrar accepts the objection with respect to the indication or, if an appeal is taken, the objection is accepted in the final judgment given in the appeal.
 
@@ -1459,15 +1465,15 @@ Sections 11.15 to 11.17 of the Act are replaced by the following:
 
   **(1)** No person shall adopt in connection with a business, as a trade-mark or otherwise,
 
-    a protected geographical indication identifying **an agricultural product or food of a category set out in the schedule in respect of an agricultural product or food belonging to the same category that does** not **originate** in the territory indicated by the protected geographical indication; or
+    a protected geographical indication identifying an agricultural product or food of a category set out in the schedule in respect of an agricultural product or food belonging to the same category that does not originate in the territory indicated by the protected geographical indication; or
 
-    a translation **on the list kept under subsection 11.12(1) of the protected** geographical indication in respect of that agricultural product or food.
+    a translation on the list kept under subsection 11.12(1) of the protected geographical indication in respect of that agricultural product or food.
 
   **(2)** No person shall use in connection with a business, as a trade-mark or otherwise,
 
-    a protected geographical indication identifying **an agricultural product or food of a category set out in the schedule in respect of an agricultural product or food belonging to the same category that does** not **originate** in the territory indicated by the protected geographical indication or adopted contrary to subsection (1); or
+    a protected geographical indication identifying an agricultural product or food of a category set out in the schedule in respect of an agricultural product or food belonging to the same category that does not originate in the territory indicated by the protected geographical indication or adopted contrary to subsection (1); or
 
-    a translation **on the list kept under subsection 11.12(1) of the protected** geographical indication in respect of that agricultural product or food.
+    a translation on the list kept under subsection 11.12(1) of the protected geographical indication in respect of that agricultural product or food.
 
   **(3)** No person shall use in connection with a business, as a trade-mark or otherwise,
 
@@ -1479,25 +1485,25 @@ Sections 11.15 to 11.17 of the Act are replaced by the following:
 
   **(1)** Sections 11.14 and 11.15 and paragraphs 12(1)(g) to (h.1) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of a protected geographical indication, or any translation of it in any language, with the consent of the responsible authority.
 
-  **(2)** Sections 11.14 and 11.15 do not prevent a person from using, in the course of trade, **the** person's name or the name of the person's predecessor in title, except where the name is used in such a manner as to mislead the public.
+  **(2)** Sections 11.14 and 11.15 do not prevent a person from using, in the course of trade, the person's name or the name of the person's predecessor in title, except where the name is used in such a manner as to mislead the public.
 
-  **(3)** Sections 11.14 and 11.15 do not prevent a person from using a protected geographical indication, **or any translation of it in any language**, **in comparative** advertising.
+  **(3)** Sections 11.14 and 11.15 do not prevent a person from using a protected geographical indication, or any translation of it in any language, in comparative advertising.
 
-  ****(4)**** Subsection (**3**) does not apply to comparative advertising on labels or packaging.
+  **(4)** Subsection (3) does not apply to comparative advertising on labels or packaging.
 
 ### Section 11.17
 
-  **(1)** Section 11.14 does not apply to **the** continued **and** similar use of a protected geographical indication **identifying a wine or spirit, or any translation of it in any language**, by a Canadian **who** has used **it** in a continuous manner in relation to any business or commercial activity in respect of goods or services
+  **(1)** Section 11.14 does not apply to the continued and similar use of a protected geographical indication identifying a wine or spirit, or any translation of it in any language, by a Canadian who has used it in a continuous manner in relation to any business or commercial activity in respect of goods or services
 
     in good faith before April 15, 1994; or
 
-    for at least **10** years before that date.
+    for at least 10 years before that date.
 
-  **(2)** For the purposes of **subsection (1)**, **Canadian** **means**
+  **(2)** For the purposes of subsection (1), **Canadian** means
 
     a Canadian citizen;
 
-    a **permanent resident** **as defined in** subsection 2(1) of the `Immigration and Refugee Protection Act` who has been ordinarily resident in Canada for not more than one year after **the day on which they** first became eligible to apply for Canadian citizenship; and
+    a **permanent resident** as defined in subsection 2(1) of the `Immigration and Refugee Protection Act` who has been ordinarily resident in Canada for not more than one year after the day on which they first became eligible to apply for Canadian citizenship; and
 
     an entity that carries on business in Canada.
 
@@ -1527,23 +1533,23 @@ Sections 11.15 to 11.17 of the Act are replaced by the following:
 
 ### Section 11.18
 
-      **(1)** Sections 11.14 and 11.15 and paragraphs 12(1)(g) to **(h.1) do not prevent** the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of a protected geographical indication, **or any translation of it in any language**, if the indication has ceased to be protected by the law applicable to the **territory in** which the wine or spirit **or the agricultural product or food is identified as originating**, or has fallen into disuse in that **territory**.
+      **(1)** Sections 11.14 and 11.15 and paragraphs 12(1)(g) to (h.1) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of a protected geographical indication, or any translation of it in any language, if the indication has ceased to be protected by the law applicable to the territory in which the wine or spirit or the agricultural product or food is identified as originating, or has fallen into disuse in that territory.
 
-      **(2)** Sections 11.14 and 11.15 and paragraphs 12(1)(g) to **(h.1) do not prevent** the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of a **protected geographical** indication that is identical **to**
+      **(2)** Sections 11.14 and 11.15 and paragraphs 12(1)(g) to (h.1) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of a protected geographical indication that is identical to
 
-        a term customary in common language in Canada as the common name for the wine or spirit **or the agricultural product or food**;
+        a term customary in common language in Canada as the common name for the wine or spirit or the agricultural product or food;
 
-        a customary name of a grape variety existing in Canada on or before the day on which the **WTO** Agreement comes into force; or
+        a customary name of a grape variety existing in Canada on or before the day on which the WTO Agreement comes into force; or
 
         a customary name of a plant variety or an animal breed existing in Canada on or before the day on which the indication is entered on the list kept under subsection 11.12(1).
 
       **(2.1)** Sections 11.14 and 11.15 and paragraphs 12(1)(g) to (h.1) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of a translation of a protected geographical indication that is identical to a term customary in common language in Canada as the common name for a wine or spirit or an agricultural product or food.
 
-      **(3)** **Subsections** 11.14**(1) to (3) and paragraph 12(1)(g) do not prevent** the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of the following indications in respect of wines:
+      **(3)** Subsections 11.14(1) to (3) and paragraph 12(1)(g) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of the following indications in respect of wines:
 
   **(2)** The portion of subsection 11.18(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **Subsections** 11.14**(4) to (6)** and paragraph 12(1)(h) **do not prevent** the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of the following indications in respect of spirits:
+    **(4)** Subsections 11.14(4) to (6) and paragraph 12(1)(h) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of the following indications in respect of spirits:
 
   **(3)** Subsection 11.18(5) of the Act is replaced by the following:
 
@@ -1575,13 +1581,13 @@ Sections 11.15 to 11.17 of the Act are replaced by the following:
 
     **(4.3)** Section 11.15 and paragraph 12(1)(h.1) do not prevent the adoption, use or registration as a trade-mark or otherwise, in connection with a business, of the term "county", or any translation of it in any language, in association with an agricultural product or food if that term is used to refer to the name of a territorial division or an administrative division of a territory.
 
-    **(5)** The Governor in Council may, by order, amend **any of** subsections (3) to **(4.1)** by adding or deleting an indication in respect of a wine or spirit **or an agricultural product or food**, as the case may be.
+    **(5)** The Governor in Council may, by order, amend any of subsections (3) to (4.1) by adding or deleting an indication in respect of a wine or spirit or an agricultural product or food, as the case may be.
 
 ### Section 66
 
 Subsection 11.19(2) of the Act is replaced by the following:
 
-**(2)** In proceedings respecting a registered trade-mark commenced after the expiry of five years from the earlier of the date of registration of the trade-mark in Canada and the date on which use of the trade-mark by the person who filed the application for registration of the trade-mark or that person's predecessor in title has become generally known in Canada, the registration must not be expunged or amended or held invalid on the basis of **any of** paragraphs 12(1)(g) to **(h.1)** unless it is established that the person who filed the application for registration of the trade-mark did so with knowledge that the trade-mark was in whole or in part a protected geographical indication.
+**(2)** In proceedings respecting a registered trade-mark commenced after the expiry of five years from the earlier of the date of registration of the trade-mark in Canada and the date on which use of the trade-mark by the person who filed the application for registration of the trade-mark or that person's predecessor in title has become generally known in Canada, the registration must not be expunged or amended or held invalid on the basis of any of paragraphs 12(1)(g) to (h.1) unless it is established that the person who filed the application for registration of the trade-mark did so with knowledge that the trade-mark was in whole or in part a protected geographical indication.
 
 ### Section 67
 
@@ -1589,19 +1595,19 @@ Section 11.2 of the Act is replaced by the following:
 
 ### Section 11.2
 
-  **(1)** **Section** 11.14 and paragraph 12(1)(g) **do not prevent** the adoption, use or registration **as a** trade-mark **in association with a wine of** a **protected** geographical indication, **or any translation of it in any language, by a** person **if they have**, in good faith, before the later of **January 1, 1996** and the **day** on which protection **of the indication in the territory indicated by the indication begins**,
+  **(1)** Section 11.14 and paragraph 12(1)(g) do not prevent the adoption, use or registration as a trade-mark in association with a wine of a protected geographical indication, or any translation of it in any language, by a person if they have, in good faith, before the later of January 1, 1996 and the day on which protection of the indication in the territory indicated by the indication begins,
 
-    filed an application in accordance with section 30 for, or secured the registration of, **the** trade-mark **in association with** a wine; or
+    filed an application in accordance with section 30 for, or secured the registration of, the trade-mark in association with a wine; or
 
-    acquired rights through use to **the** trade-mark in respect of a wine.
+    acquired rights through use to the trade-mark in respect of a wine.
 
-  **(2)** **Section** 11.14 and paragraph 12(1)(h) **do not prevent** the adoption, use or registration **as a** trade-mark **in association with a spirit of** a **protected** geographical indication**, or any translation of it in any language, by a** person **if they have**, in good faith, before the later of **January 1, 1996** and the **day** on which protection **of the indication in the territory indicated by the indication begins**,
+  **(2)** Section 11.14 and paragraph 12(1)(h) do not prevent the adoption, use or registration as a trade-mark in association with a spirit of a protected geographical indication, or any translation of it in any language, by a person if they have, in good faith, before the later of January 1, 1996 and the day on which protection of the indication in the territory indicated by the indication begins,
 
-    filed an application in accordance with section 30 for, or secured the registration of, **the** trade-mark **in association with** a spirit; or
+    filed an application in accordance with section 30 for, or secured the registration of, the trade-mark in association with a spirit; or
 
-    acquired rights through use to **the** trade-mark in respect of a spirit.
+    acquired rights through use to the trade-mark in respect of a spirit.
 
-  **(3)** Section 11.15 and paragraph 12(1)(h.1) do not prevent the adoption, use or registration as a trade-mark **in association with an agricultural product or food of a category set out in the schedule of** a **protected** geographical indication**, or any translation of it in any language, by a** person **if they have**, in good faith, before the day on which a statement by the Minister is published under subsection 11.12(2) or (2.1) in respect of the indication or translation,
+  **(3)** Section 11.15 and paragraph 12(1)(h.1) do not prevent the adoption, use or registration as a trade-mark in association with an agricultural product or food of a category set out in the schedule of a protected geographical indication, or any translation of it in any language, by a person if they have, in good faith, before the day on which a statement by the Minister is published under subsection 11.12(2) or (2.1) in respect of the indication or translation,
 
     filed an application in accordance with section 30 for, or secured the registration of, the trade-mark in association with an agricultural product or food belonging to the same category; or
 
@@ -1693,11 +1699,11 @@ The Governor in Council may, by order, amend the schedule by adding or deleting 
 
 ### Section 68
 
-Paragraphs 12(1)(g) and ( h) of the Act are replaced by the following:
+Paragraphs 12(1)(g) and (h) of the Act are replaced by the following:
 
-in whole or in part a protected geographical indication **identifying a wine**, where the trade-mark is to be registered in association with a wine not originating in a territory indicated by the geographical indication;
+in whole or in part a protected geographical indication identifying a wine, where the trade-mark is to be registered in association with a wine not originating in a territory indicated by the geographical indication;
 
-in whole or in part a protected geographical indication **identifying a spirit**, where the trade-mark is to be registered in association with a spirit not originating in a territory indicated by the geographical indication;
+in whole or in part a protected geographical indication identifying a spirit, where the trade-mark is to be registered in association with a spirit not originating in a territory indicated by the geographical indication;
 
 in whole or in part a protected geographical indication, and the trade-mark is to be registered in association with an agricultural product or food — belonging to the same category, as set out in the schedule, as the agricultural product or food identified by the protected geographical indication — not originating in a territory indicated by the geographical indication; and
 
@@ -1705,7 +1711,7 @@ in whole or in part a protected geographical indication, and the trade-mark is t
 
 Subsection 20(2) of the Act is replaced by the following:
 
-**(2)** **The** registration of a trade-mark **does not** prevent a person from making any use of any of the indications mentioned in subsection 11.18(3) in association with a wine, any of the indications mentioned in subsection 11.18(4) in association with a spirit **or any of the indications mentioned in subsection 11.18(4.1) in association with an agricultural product or food**.
+**(2)** The registration of a trade-mark does not prevent a person from making any use of any of the indications mentioned in subsection 11.18(3) in association with a wine, any of the indications mentioned in subsection 11.18(4) in association with a spirit or any of the indications mentioned in subsection 11.18(4.1) in association with an agricultural product or food.
 
 ### Section 70
 
@@ -1713,7 +1719,7 @@ Subsection 20(2) of the Act is replaced by the following:
 
     **relevant protected mark** means
 
-    a trade-mark registered for goods that is identical to, or cannot be distinguished in its essential aspects from, a trade-mark on such goods, including their labels or packaging, that are detained by a customs officer; **or**
+    a trade-mark registered for goods that is identical to, or cannot be distinguished in its essential aspects from, a trade-mark on such goods, including their labels or packaging, that are detained by a customs officer; or
 
     a protected geographical indication identifying, as the case may be, a wine or spirit, or an agricultural product or food of a category set out in the schedule, that is identical to, or cannot be distinguished in its essential aspects from, an indication on such a wine or spirit or such an agricultural product or food, or on their labels or packaging, that is detained by a customs officer. (**marque protégée en cause**)
 
@@ -1747,7 +1753,7 @@ Subsection 51.03(3) of the Act is replaced by the following:
 
   the wine or spirit or the agricultural product or food, while being shipped from one place outside Canada to another, is in customs transit control or customs transhipment control in Canada.
 
-**(3)** The contravention of subsection (1), **(2.1) or (2.2)** does not give rise to a remedy under section 53.2.
+**(3)** The contravention of subsection (1), (2.1) or (2.2) does not give rise to a remedy under section 53.2.
 
 ### Section 72
 
@@ -1755,21 +1761,21 @@ Section 51.04 of the Act is replaced by the following:
 
 ### Section 51.04
 
-  **(1)** The owner of a **protected mark** may file with the Minister, in the form and manner specified by the Minister, a request for assistance in pursuing remedies under this Act with respect to goods imported or exported in contravention of section 51.03.
+  **(1)** The owner of a protected mark may file with the Minister, in the form and manner specified by the Minister, a request for assistance in pursuing remedies under this Act with respect to goods imported or exported in contravention of section 51.03.
 
-  **(2)** The request for assistance shall include the name and address in Canada **of** the owner **of the protected mark** and any other information that is required by the Minister, including information about the trade-mark and the goods for which it is registered **or, in the case of a geographical indication, the goods identified by the indication**.
+  **(2)** The request for assistance shall include the name and address in Canada of the owner of the protected mark and any other information that is required by the Minister, including information about the trade-mark and the goods for which it is registered or, in the case of a geographical indication, the goods identified by the indication.
 
-  **(3)** A request for assistance is valid for a period of two years beginning on the day on which it is accepted by the Minister. The Minister may, at the request of the owner **of the protected mark**, extend the period for two years, and may do so more than once.
+  **(3)** A request for assistance is valid for a period of two years beginning on the day on which it is accepted by the Minister. The Minister may, at the request of the owner of the protected mark, extend the period for two years, and may do so more than once.
 
-  **(4)** The Minister may, as a condition of accepting a request for assistance or of extending a request's period of validity, require that the owner **of the protected mark** furnish security, in an amount and form fixed by the Minister, for the payment of an amount for which the owner **of the protected mark** becomes liable under section 51.09.
+  **(4)** The Minister may, as a condition of accepting a request for assistance or of extending a request's period of validity, require that the owner of the protected mark furnish security, in an amount and form fixed by the Minister, for the payment of an amount for which the owner of the protected mark becomes liable under section 51.09.
 
-  **(5)** The owner **of the protected mark** shall inform the Minister in writing, as soon as feasible, of any changes to
+  **(5)** The owner of the protected mark shall inform the Minister in writing, as soon as feasible, of any changes to
 
-    the validity of the **protected mark** that is the subject of the request for assistance;
+    the validity of the protected mark that is the subject of the request for assistance;
 
-    the ownership of the **protected mark**; or
+    the ownership of the protected mark; or
 
-    the goods for which the trade-mark is registered **or, in the case of a geographical indication, the goods identified by the indication.**
+    the goods for which the trade-mark is registered or, in the case of a geographical indication, the goods identified by the indication.
 
 ### Section 73
 
@@ -1777,7 +1783,7 @@ The portion of subsection 51.06(1) of the French version of the Act before parag
 
 ### Section 51.06
 
-  **(1)** L'agent des douanes qui a des motifs raisonnables de soupçonner que des produits qu'il retient en vertu de l'article 101 de la `Loi sur les douanes` sont interdits d'importation ou d'exportation au titre de l'article 51.03 peut, à sa discrétion, fournir au propriétaire de la marque **protégée** en cause, si celui-ci a présenté une demande d'aide acceptée par le ministre à l'égard de cette marque, des échantillons des produits ainsi que des renseignements au sujet des produits qui pourraient lui être utiles pour l'exercice de ses recours au titre de la présente loi, tels que :
+  **(1)** L'agent des douanes qui a des motifs raisonnables de soupçonner que des produits qu'il retient en vertu de l'article 101 de la `Loi sur les douanes` sont interdits d'importation ou d'exportation au titre de l'article 51.03 peut, à sa discrétion, fournir au propriétaire de la marque protégée en cause, si celui-ci a présenté une demande d'aide acceptée par le ministre à l'égard de cette marque, des échantillons des produits ainsi que des renseignements au sujet des produits qui pourraient lui être utiles pour l'exercice de ses recours au titre de la présente loi, tels que :
 
 ### Section 74
 
@@ -1785,7 +1791,7 @@ Section 61 of the Act is replaced by the following:
 
 ### Section 61
 
-An officer of the Registry of the Federal Court shall file with the Registrar a certified copy of every judgment or order made by the Federal Court, the Federal Court of Appeal or the Supreme Court of Canada relating to any trade-mark on the register **or to any protected geographical indication**.
+An officer of the Registry of the Federal Court shall file with the Registrar a certified copy of every judgment or order made by the Federal Court, the Federal Court of Appeal or the Supreme Court of Canada relating to any trade-mark on the register or to any protected geographical indication.
 
 ### Section 75
 
@@ -1804,7 +1810,7 @@ respecting proceedings under section 11.13, including documents relating to thos
 The heading before section 69 of the Act is replaced by the following:
 
 
-## Transitional **Provisions**
+## Transitional Provisions
 
 ### Section 68.1
 
@@ -1933,7 +1939,7 @@ Section 14.2 of the `Investment Canada Act` is replaced by the following:
 
 ### Section 14.2
 
-The Governor in Council may make any regulations that the Governor in Council considers necessary for carrying out the purposes and provisions of **sections** 14.1 **and 14.11**.
+The Governor in Council may make any regulations that the Governor in Council considers necessary for carrying out the purposes and provisions of sections 14.1 and 14.11.
 
 ### Section 14.3
 
@@ -1958,23 +1964,23 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
   **(1)** The portion of paragraph 42.1(1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than **a free trade agreement referred to in subsection (1.1)**, is claimed
+    conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), is claimed
 
   **(2)** Subsections 42.1(1.1) and (2) of the Act are replaced by the following:
 
-    **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct **any of the following**:
+    **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct any of the following:
 
       a verification of origin of goods for which preferential tariff treatment under CEFTA is claimed, by requesting in writing that the customs administration of the EFTA state of export conduct a verification and provide an opinion as to whether the goods are originating within the meaning of Annex C of CEFTA;
 
       a verification of origin of goods for which preferential tariff treatment under CETA is claimed, by requesting in writing that the customs administration of the EU country or other CETA beneficiary of export conduct a verification and provide a written report as to whether the goods are originating within the meaning of the Protocol on Rules of Origin and Origin Procedures of CETA.
 
-    **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than **a free trade agreement referred to in subsection (1.1)**, may be denied or withdrawn from the goods.
+    **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
 
   **(3)** The portion of subsection 42.1(3) of the Act before paragraph (b) is replaced by the following:
 
-    **(3)** Preferential tariff treatment under **a free trade agreement referred to in subsection (1.1)** may be denied or withdrawn from the goods **in any of the following circumstances:**
+    **(3)** Preferential tariff treatment under a free trade agreement referred to in subsection (1.1) may be denied or withdrawn from the goods in any of the following circumstances:
 
-      **in the case of** CEFTA, if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
+      in the case of CEFTA, if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
 
       in the case of CETA, if the EU country or other CETA beneficiary of export fails to conduct a verification or provide a written report as to whether the goods are originating;
 
@@ -1984,9 +1990,9 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
 ### Section 97.201
 
-      **(1)** The customs administration of **any** state **or beneficiary referred to in subsection 42.1(1.1)** to which goods were exported may request in writing that the Agency conduct a verification and provide, **as the case may be**
+      **(1)** The customs administration of any state or beneficiary referred to in subsection 42.1(1.1) to which goods were exported may request in writing that the Agency conduct a verification and provide, as the case may be
 
-        an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA; **or**
+        an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA; or
 
         a written report as to whether the goods are originating within the meaning of the Protocol on Rules of Origin and Origin Procedures of CETA.
 
@@ -1994,15 +2000,15 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
     **(3)** On completion of a verification of origin requested under subsection (1), an officer or other person designated under subsection (2) shall
 
-      provide, in the prescribed manner, the customs administration of **the** state **or beneficiary** with the opinion **or written report** requested and any relevant supporting documents that may be requested by that customs administration; and
+      provide, in the prescribed manner, the customs administration of the state or beneficiary with the opinion or written report requested and any relevant supporting documents that may be requested by that customs administration; and
 
-      determine whether the goods are originating within the meaning of **the applicable provision referred to in subsection (1)**.
+      determine whether the goods are originating within the meaning of the applicable provision referred to in subsection (1).
 
 ### Section 85
 
 Subsection 164(1.1) of the Act is replaced by the following:
 
-**(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of a **protocol**, chapter or provision — set out in column 2 of Part 5 of the schedule — **in** an agreement set out in column 1, and any other matters that may be agreed on from time to time by the parties to that agreement.
+**(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of a protocol, chapter or provision — set out in column 2 of Part 5 of the schedule — in an agreement set out in column 1, and any other matters that may be agreed on from time to time by the parties to that agreement.
 
 ### Section 86
 
@@ -2034,7 +2040,7 @@ Schedule 2 to the `Commercial Arbitration Act` is amended by adding, at the end 
 
   **(1)** The definition **owner** in subsection 2(1) of the English version of the `Coasting Trade Act` is replaced by the following:
 
-    **owner**, in relation to a ship, **means** the person having for the time being, either by law or by contract, the rights of the owner of the ship **with respect to its** possession and use; (**propriétaire**)
+    **owner**, in relation to a ship, means the person having for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use; (**propriétaire**)
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2088,7 +2094,7 @@ Schedule 2 to the `Commercial Arbitration Act` is amended by adding, at the end 
 
       the container is at least 6.1 metres in length and has an internal volume of at least 14 cubic metres, is designed for carrying goods more than once and by one or more modes of transportation, and does not have wheels or is not otherwise built for being driven or drawn.
 
-    **(2.5)** Once a ship has completed a carriage of goods as described in subsection (2.4), subsection (1) applies to the ship in respect of any such subsequent carriage of goods by the ship, until it departs from the exclusive economic zone of Canada or from the **inland waters,** as defined in subsection 2(1) of the `Customs Act`, at a location where the inland waters are contiguous to the United States.
+    **(2.5)** Once a ship has completed a carriage of goods as described in subsection (2.4), subsection (1) applies to the ship in respect of any such subsequent carriage of goods by the ship, until it departs from the exclusive economic zone of Canada or from the **inland waters**, as defined in subsection 2(1) of the `Customs Act`, at a location where the inland waters are contiguous to the United States.
 
     **(2.6)** Before a ship engages, without a licence, in any activities referred to in subsections (2.1) to (2.4) and for which the owner of the ship intends to rely on an exemption under any one of those subsections, the owner shall provide information to an enforcement officer, in the form and manner specified by the Minister, establishing that the ship meets the applicable conditions under any of paragraphs (2.1)(a) to (d).
 
@@ -2140,7 +2146,7 @@ specify that a territory is, or is not, a territory referred to in the definitio
 
 indicate, for the purpose of paragraph 3(2.1)(c), the registers that are second, or international, registers of member states of the European Union; and
 
-fix the maximum number of licences that may be issued **under** sections 4 and 5.
+fix the maximum number of licences that may be issued under sections 4 and 5.
 
 
 ### `Customs Tariff`
@@ -2260,7 +2266,7 @@ The Governor in Council may, on the recommendation of the Minister, make regulat
 
 The definition **customs duties** in section 80 of the Act is replaced by the following:
 
-**customs duties**, other than for the purposes of sections 95, 96 **and 98.1**, means customs duties imposed under Part 2, other than surtaxes or temporary duties imposed under Division 4 of Part 2. (**droits de douane**)
+**customs duties**, other than for the purposes of sections 95, 96 and 98.1, means customs duties imposed under Part 2, other than surtaxes or temporary duties imposed under Division 4 of Part 2. (**droits de douane**)
 
 ### Section 99
 
@@ -2276,7 +2282,7 @@ The portion of subsection 89(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 89
 
-  **(1)** Subject to subsection (2), **sections** 95 **and 98.1** and any regulations made under section 99, if an application for relief is made within the prescribed time, in accordance with subsection (4), by a person of a prescribed class, relief may be granted from the payment of duties that would but for this section be payable in respect of imported goods that are
+  **(1)** Subject to subsection (2), sections 95 and 98.1 and any regulations made under section 99, if an application for relief is made within the prescribed time, in accordance with subsection (4), by a person of a prescribed class, relief may be granted from the payment of duties that would but for this section be payable in respect of imported goods that are
 
 ### Section 101
 
@@ -2284,11 +2290,11 @@ The portion of subsection 89(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 94
 
-      **(1)** In sections 95, 96 and **98.1**, **customs duties** means customs duties imposed under Part 2, other than
+      **(1)** In sections 95, 96 and 98.1, **customs duties** means customs duties imposed under Part 2, other than
 
   **(2)** Subsection 94(2) of the Act is replaced by the following:
 
-    **(2)** For greater certainty, in sections 95, 96 and **98.1**, **customs duties** does not include any duties or taxes levied or imposed on imported goods under the `Excise Act, 2001`, the `Excise Tax Act` or the `Special Import Measures Act`.
+    **(2)** For greater certainty, in sections 95, 96 and 98.1, **customs duties** does not include any duties or taxes levied or imposed on imported goods under the `Excise Act, 2001`, the `Excise Tax Act` or the `Special Import Measures Act`.
 
 ### Section 102
 
@@ -2332,7 +2338,7 @@ The portion of subsection 107(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 107
 
-  **(1)** Subject to **sections** 95 **and 98.1**, if relief is granted under section 89, 92, 101 or 106 from the payment of the whole or a portion of duties,
+  **(1)** Subject to sections 95 and 98.1, if relief is granted under section 89, 92, 101 or 106 from the payment of the whole or a portion of duties,
 
 ### Section 104
 
@@ -2340,7 +2346,7 @@ The portion of subsection 113(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 113
 
-  **(1)** Subject to subsection (2), sections 96 **and 98.1** and any regulations made under subsection (4), a refund or drawback shall be granted of all or a portion of duties if
+  **(1)** Subject to subsection (2), sections 96 and 98.1 and any regulations made under subsection (4), a refund or drawback shall be granted of all or a portion of duties if
 
 ### Section 105
 
@@ -2432,7 +2438,7 @@ Section 123 of the Act is amended by adding the following after subsection (7):
 
   **(3)** Note 1 to the Description of Goods of tariff item No. 9971.00.00 in the List of Tariff Provisions set out in the schedule to the Act is replaced by the following:
 
-    Note 1: The **Canada–European Union Tariff**, Iceland Tariff, Korea Tariff, Norway Tariff and Switzerland–Liechtenstein Tariff rate of customs duty applicable to goods classified under this tariff item shall be, in respect of the value of the repair or alteration to the goods carried out only in **an EU country or other CETA beneficiary**, Iceland, Korea, Norway, Switzerland or Liechtenstein, **respectively**, determined under section 87 of this Act, in accordance with their classification in Chapters 1 to 97.
+    Note 1: The Canada–European Union Tariff, Iceland Tariff, Korea Tariff, Norway Tariff and Switzerland–Liechtenstein Tariff rate of customs duty applicable to goods classified under this tariff item shall be, in respect of the value of the repair or alteration to the goods carried out only in an EU country or other CETA beneficiary, Iceland, Korea, Norway, Switzerland or Liechtenstein, respectively, determined under section 87 of this Act, in accordance with their classification in Chapters 1 to 97.
 
   **(4)** The Description of Goods of tariff item No. 9992.00.00 in the List of Tariff Provisions set out in the schedule to the Act is amended by adding, in alphabetical order, a reference to "an EU country or other CETA beneficiary" in the list of countries.
 
@@ -2443,7 +2449,7 @@ Section 123 of the Act is amended by adding the following after subsection (7):
 
 Subsection 7(2) of the `Pest Control Products Act` is replaced by the following:
 
-**(2)** If the Minister **determines** that the active ingredient of the applicant's pest control product **is** equivalent to the active ingredient of a **registered pest control** product, the Minister shall, subject to and in accordance with the regulations, permit the applicant to use or rely on any information referred to in subsection (1) **that** has been provided by **any** registrant if the Minister is satisfied that the information
+**(2)** If the Minister determines that the active ingredient of the applicant's pest control product is equivalent to the active ingredient of a registered pest control product, the Minister shall, subject to and in accordance with the regulations, permit the applicant to use or rely on any information referred to in subsection (1) that has been provided by any registrant if the Minister is satisfied that the information
 
   is relevant to the registered pest control product that contains the equivalent active ingredient; and
 
@@ -2457,7 +2463,7 @@ Subsection 16(5) of the Act is replaced by the following:
 
   two or more registrants may provide the information required under subsection (3) or paragraph 19(1)(a) jointly; and
 
-  **if** the Minister is satisfied that the information required under subsection (3) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations, permit another registrant to use or rely on that information to meet the requirements **under that subsection or paragraph**.
+  if the Minister is satisfied that the information required under subsection (3) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations, permit another registrant to use or rely on that information to meet the requirements under that subsection or paragraph.
 
 **(5.1)** If the active ingredients of the registered pest control product that is subject to the re-evaluation are not equivalent to the active ingredients in another registrant's registered pest control product, the Minister shall, subject to and in accordance with the regulations, permit the registrant whose product is subject to the re-evaluation to use or rely on information provided by the other registrant if the Minister is satisfied that the information is necessary for the re-evaluation.
 
@@ -2469,7 +2475,7 @@ Subsection 18(3) of the Act is replaced by the following:
 
   two or more registrants may provide the information required under subsection (1) or paragraph 19(1)(a) jointly; and
 
-  **if** the Minister is satisfied that the information required under subsection (1) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations, permit another registrant to use or rely on that information to meet the requirements **under that subsection or paragraph**.
+  if the Minister is satisfied that the information required under subsection (1) or paragraph 19(1)(a) has been provided by one or more registrants, the Minister shall, subject to and in accordance with the regulations, permit another registrant to use or rely on that information to meet the requirements under that subsection or paragraph.
 
 **(3.1)** If the active ingredients of a registered pest control product that is subject to the special review are not equivalent to the active ingredients in another registrant's registered pest control product, the Minister shall, subject to and in accordance with the regulations, permit the registrant whose product is subject to the special review to use or rely on information provided by the other registrant if the Minister is satisfied that the information is necessary for the special review.
 
@@ -2538,19 +2544,19 @@ the enterprise value of the assets to which the application relates is less than
 
 Paragraph 16(1)(b) of the `Canada Corporations Act` is replaced by the following:
 
-to apply for, purchase or otherwise acquire any patents, patent rights, **certificates of supplementary protection issued under the `Patent Act`, rights under such a certificate**, copyrights, trade marks, formulae, licences, concessions and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to any invention that may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company, and to use, exercise, develop or grant **licences** in respect of, or otherwise turn to account, the property, rights or information so acquired;
+to apply for, purchase or otherwise acquire any patents, patent rights, certificates of supplementary protection issued under the `Patent Act`, rights under such a certificate, copyrights, trade marks, formulae, licences, concessions and the like, conferring any exclusive or non-exclusive or limited right to use, or any secret or other information as to any invention that may seem capable of being used for any of the purposes of the company, or the acquisition of which may seem calculated directly or indirectly to benefit the company, and to use, exercise, develop or grant licences in respect of, or otherwise turn to account, the property, rights or information so acquired;
 
 ### Section 119
 
 Paragraph 68(1)(e) of the Act is replaced by the following:
 
-a mortgage or charge on goodwill, on any patent or licence under a patent, **on any certificate of supplementary protection issued under the `Patent Act` or licence under such a certificate**, on any trade mark or on any copyright or licence under a copyright,
+a mortgage or charge on goodwill, on any patent or licence under a patent, on any certificate of supplementary protection issued under the `Patent Act` or licence under such a certificate, on any trade mark or on any copyright or licence under a copyright,
 
 ### Section 120
 
 Clause 121(1)(k)(iv)(C) of the Act is replaced by the following:
 
-patents **and certificates of supplementary protection issued under the `Patent Act`**,
+patents and certificates of supplementary protection issued under the `Patent Act`,
 
 
 ### `Nuclear Energy Act`
@@ -2559,9 +2565,9 @@ patents **and certificates of supplementary protection issued under the `Patent 
 
 Paragraphs 10(1)(c) and (d) of the `Nuclear Energy Act` are replaced by the following:
 
-with the approval of the Governor in Council, lease **or**, by purchase, requisition or expropriation, acquire or cause to be acquired nuclear substances and any mines, deposits or claims of nuclear substances and patent rights **or certificates of supplementary protection issued under the `Patent Act`** relating to nuclear energy and any works or property for production or preparation for production of, or for research or investigations with respect to, nuclear energy; and
+with the approval of the Governor in Council, lease or, by purchase, requisition or expropriation, acquire or cause to be acquired nuclear substances and any mines, deposits or claims of nuclear substances and patent rights or certificates of supplementary protection issued under the `Patent Act` relating to nuclear energy and any works or property for production or preparation for production of, or for research or investigations with respect to, nuclear energy; and
 
-with the approval of the Governor in Council, license or otherwise make available or sell or otherwise dispose of discoveries and inventions relating to, and improvements in processes, apparatus or machines used in connection with, nuclear energy, patent rights **and certificates of supplementary protection** acquired under this Act and collect royalties and fees on and payments for those licences, discoveries, inventions, improvements, patent rights **and certificates**.
+with the approval of the Governor in Council, license or otherwise make available or sell or otherwise dispose of discoveries and inventions relating to, and improvements in processes, apparatus or machines used in connection with, nuclear energy, patent rights and certificates of supplementary protection acquired under this Act and collect royalties and fees on and payments for those licences, discoveries, inventions, improvements, patent rights and certificates.
 
 
 ### `Bankruptcy and Insolvency Act`
@@ -2572,9 +2578,9 @@ Section 82 of the `Bankruptcy and Insolvency Act` is replaced by the following:
 
 ### Section 82
 
-  **(1)** **If** any property of a bankrupt vesting in a trustee consists of articles that **are subject to a patent or to a certificate of supplementary protection issued under the `Patent Act` and** were sold to the bankrupt subject to any restrictions or limitations, the trustee is not bound by the restrictions or limitations but may sell and dispose of the articles free and clear of the restrictions or limitations.
+  **(1)** If any property of a bankrupt vesting in a trustee consists of articles that are subject to a patent or to a certificate of supplementary protection issued under the `Patent Act` and were sold to the bankrupt subject to any restrictions or limitations, the trustee is not bound by the restrictions or limitations but may sell and dispose of the articles free and clear of the restrictions or limitations.
 
-  **(2)** **If** the manufacturer or vendor of the articles referred to in subsection (1) objects to the disposition of them by the trustee as provided by this section and gives to the trustee notice in writing of the objection before **their** sale or disposition, that manufacturer or vendor has the right to purchase the articles at **their** invoice prices, subject to any reasonable deduction for depreciation or deterioration.
+  **(2)** If the manufacturer or vendor of the articles referred to in subsection (1) objects to the disposition of them by the trustee as provided by this section and gives to the trustee notice in writing of the objection before their sale or disposition, that manufacturer or vendor has the right to purchase the articles at their invoice prices, subject to any reasonable deduction for depreciation or deterioration.
 
 
 ### `Competition Act`
@@ -2585,31 +2591,31 @@ Section 82 of the `Bankruptcy and Insolvency Act` is replaced by the following:
 
 ### Section 32
 
-      **(1)** In any case where use has been made of the exclusive rights and privileges conferred by one or more patents for invention, **by one or more certificates of supplementary protection issued under the `Patent Act`**, by one or more trade-marks, by a copyright or by a registered integrated circuit topography, so as to
+      **(1)** In any case where use has been made of the exclusive rights and privileges conferred by one or more patents for invention, by one or more certificates of supplementary protection issued under the `Patent Act`, by one or more trade-marks, by a copyright or by a registered integrated circuit topography, so as to
 
   **(2)** The portion of subsection 32(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The Federal Court, on an information exhibited by the Attorney General of Canada, may, for the purpose of preventing any use in the manner defined in subsection (1) of the exclusive rights and privileges conferred by any patents for invention, **certificates of supplementary protection issued under the `Patent Act`**, trade-marks, copyrights or registered integrated circuit topographies relating to or affecting the manufacture, use or sale of any article or commodity that may be a subject of trade or commerce, make one or more of the following orders:
+    **(2)** The Federal Court, on an information exhibited by the Attorney General of Canada, may, for the purpose of preventing any use in the manner defined in subsection (1) of the exclusive rights and privileges conferred by any patents for invention, certificates of supplementary protection issued under the `Patent Act`, trade-marks, copyrights or registered integrated circuit topographies relating to or affecting the manufacture, use or sale of any article or commodity that may be a subject of trade or commerce, make one or more of the following orders:
 
   **(3)** Paragraph 32(2)(c) of the Act is replaced by the following:
 
-    directing the grant of licences under any such patent, **certificate of supplementary protection**, copyright or registered integrated circuit topography to **the** persons and on **the** terms and conditions **that** the court may deem proper or, if the grant and other remedies under this section would appear insufficient to prevent that use, revoking the patent **or certificate of supplementary protection**;
+    directing the grant of licences under any such patent, certificate of supplementary protection, copyright or registered integrated circuit topography to the persons and on the terms and conditions that the court may deem proper or, if the grant and other remedies under this section would appear insufficient to prevent that use, revoking the patent or certificate of supplementary protection;
 
   **(4)** Subsection 32(3) of the Act is replaced by the following:
 
-    **(3)** No order shall be made under this section that is at variance with any treaty, convention, arrangement or engagement respecting patents, **certificates of supplementary protection**, trade-marks, copyrights or integrated circuit topographies to which Canada is a party.
+    **(3)** No order shall be made under this section that is at variance with any treaty, convention, arrangement or engagement respecting patents, certificates of supplementary protection, trade-marks, copyrights or integrated circuit topographies to which Canada is a party.
 
 ### Section 124
 
 Paragraph 76(3)(c) of the Act is replaced by the following:
 
-has the exclusive rights and privileges conferred by a patent, **certificate of supplementary protection issued under the `Patent Act`**, trade-mark, copyright, registered industrial design or registered integrated circuit topography.
+has the exclusive rights and privileges conferred by a patent, certificate of supplementary protection issued under the `Patent Act`, trade-mark, copyright, registered industrial design or registered integrated circuit topography.
 
 ### Section 125
 
 Paragraph 86(4)(b) of the Act is replaced by the following:
 
-a wider licensing of patents, **certificates of supplementary protection issued under the `Patent Act`** or registered integrated circuit topographies;
+a wider licensing of patents, certificates of supplementary protection issued under the `Patent Act` or registered integrated circuit topographies;
 
 
 ### `Defence Production Act`
@@ -2618,7 +2624,7 @@ a wider licensing of patents, **certificates of supplementary protection issued 
 
 Paragraph (b) of the definition **royalties** in section 2 of the `Defence Production Act` is replaced by the following:
 
-claims for damages for the infringement or use of any registered topography within the meaning of the `Integrated Circuit Topography Act` or of any patent, **certificate of supplementary protection issued under the `Patent Act`** or registered industrial design;
+claims for damages for the infringement or use of any registered topography within the meaning of the `Integrated Circuit Topography Act` or of any patent, certificate of supplementary protection issued under the `Patent Act` or registered industrial design;
 
 ### Section 127
 
@@ -2626,17 +2632,17 @@ claims for damages for the infringement or use of any registered topography with
 
 ### Section 22
 
-      **(1)** The Minister may, on behalf of Her Majesty, contract with any person that Her Majesty will relieve that person from any claims, actions or proceedings for the payment of royalties for the use or infringement of any patent, **certificate of supplementary protection**, registered industrial design or registered topography by that person in, or for the furnishing of any engineering or technical assistance or services to that person for, the performance of a defence contract.
+      **(1)** The Minister may, on behalf of Her Majesty, contract with any person that Her Majesty will relieve that person from any claims, actions or proceedings for the payment of royalties for the use or infringement of any patent, certificate of supplementary protection, registered industrial design or registered topography by that person in, or for the furnishing of any engineering or technical assistance or services to that person for, the performance of a defence contract.
 
-      **(2)** A person with whom the Minister has contracted under subsection (1) is not liable to pay royalties under any contract, statute or otherwise by reason of the use or infringement of a patent, **certificate of supplementary protection**, registered industrial design or registered topography in, or in respect of engineering or technical assistance or services furnished for, the performance of a defence contract and to which the contract under subsection (1) applies.
+      **(2)** A person with whom the Minister has contracted under subsection (1) is not liable to pay royalties under any contract, statute or otherwise by reason of the use or infringement of a patent, certificate of supplementary protection, registered industrial design or registered topography in, or in respect of engineering or technical assistance or services furnished for, the performance of a defence contract and to which the contract under subsection (1) applies.
 
   **(2)** Subsection 22(3) of the English version of the Act is replaced by the following:
 
-    **(3)** A person who, but for subsection (2), would be entitled to a royalty from another person for the infringement or use of a patent, **certificate of supplementary protection**, registered industrial design or registered topography or in respect of engineering or technical assistance or services is entitled to reasonable compensation from Her Majesty for the infringement, use or services and, if the Minister and that person cannot agree as to the amount of the compensation, it shall be fixed by the Commissioner of Patents.
+    **(3)** A person who, but for subsection (2), would be entitled to a royalty from another person for the infringement or use of a patent, certificate of supplementary protection, registered industrial design or registered topography or in respect of engineering or technical assistance or services is entitled to reasonable compensation from Her Majesty for the infringement, use or services and, if the Minister and that person cannot agree as to the amount of the compensation, it shall be fixed by the Commissioner of Patents.
 
   **(3)** Subsection 22(5) of the Act is replaced by the following:
 
-    **(5)** In this section, ****certificate of supplementary protection** has the same meaning as in section 2 of the `Patent Act` and** **registered topography** has the same meaning as in **subsection 2(1) of** the `Integrated Circuit Topography Act`.
+    **(5)** In this section, **certificate of supplementary protection** has the same meaning as in section 2 of the `Patent Act` and **registered topography** has the same meaning as in subsection 2(1) of the `Integrated Circuit Topography Act`.
 
 
 ### `Federal Courts Act`
@@ -2649,11 +2655,11 @@ Section 20 of the `Federal Courts Act` is replaced by the following:
 
   **(1)** The Federal Court has exclusive original jurisdiction, between subject and subject as well as otherwise,
 
-    in all cases of conflicting applications for any patent of invention **or for any certificate of supplementary protection under the `Patent Act`**, or for the registration of any copyright, trade-mark, industrial design or topography within the meaning of the `Integrated Circuit Topography Act`; and
+    in all cases of conflicting applications for any patent of invention or for any certificate of supplementary protection under the `Patent Act`, or for the registration of any copyright, trade-mark, industrial design or topography within the meaning of the `Integrated Circuit Topography Act`; and
 
-    in all cases in which it is sought to impeach or annul any patent of invention **or any certificate of supplementary protection issued under the `Patent Act`**, or to have any entry in any register of copyrights, trade-marks, industrial designs or topographies referred to in paragraph (a) made, expunged, varied or rectified.
+    in all cases in which it is sought to impeach or annul any patent of invention or any certificate of supplementary protection issued under the `Patent Act`, or to have any entry in any register of copyrights, trade-marks, industrial designs or topographies referred to in paragraph (a) made, expunged, varied or rectified.
 
-  **(2)** The Federal Court has concurrent jurisdiction in all cases, other than those mentioned in subsection (1), in which a remedy is sought under the authority of an Act of Parliament or at law or in equity respecting any patent of invention, **certificate of supplementary protection issued under the `Patent Act`**, copyright, trade-mark, industrial design or topography referred to in paragraph (1)(a).
+  **(2)** The Federal Court has concurrent jurisdiction in all cases, other than those mentioned in subsection (1), in which a remedy is sought under the authority of an Act of Parliament or at law or in equity respecting any patent of invention, certificate of supplementary protection issued under the `Patent Act`, copyright, trade-mark, industrial design or topography referred to in paragraph (1)(a).
 
 
 ### `Public Servants Inventions Act`
@@ -2664,15 +2670,15 @@ Section 20 of the `Federal Courts Act` is replaced by the following:
 
 ### Section 9
 
-      **(1)** The administration and control of any invention vested in Her Majesty by this Act and any patent **or certificate of supplementary protection** issued with respect to the invention are vested in the appropriate minister, and the appropriate minister may transfer **that** administration and control to any other minister or to any corporate agency of Her Majesty.
+      **(1)** The administration and control of any invention vested in Her Majesty by this Act and any patent or certificate of supplementary protection issued with respect to the invention are vested in the appropriate minister, and the appropriate minister may transfer that administration and control to any other minister or to any corporate agency of Her Majesty.
 
   **(2)** Subsection 9(3) of the Act is replaced by the following:
 
-    **(3)** **Despite** anything in its charter or Act of incorporation, an agency to which the administration and control of any invention, patent or **certificate of supplementary protection** is transferred under this section has the capacity and power to receive, hold, administer, control, develop and exploit the invention, patent or **certificate** and generally to carry out the provisions of this Act with respect **to the invention, patent or certificate**.
+    **(3)** Despite anything in its charter or Act of incorporation, an agency to which the administration and control of any invention, patent or certificate of supplementary protection is transferred under this section has the capacity and power to receive, hold, administer, control, develop and exploit the invention, patent or certificate and generally to carry out the provisions of this Act with respect to the invention, patent or certificate.
 
   **(3)** Subsection 9(4) of the English version of the Act is replaced by the following:
 
-    **(4)** **If** the administration and control of any invention or patent has been transferred **under** this section to a corporate agency of Her Majesty, any money received by the corporate agency in the course of the administration and control of the invention, patent or **certificate of supplementary protection** may be retained by that corporate agency, and shall be used for the purposes of this Act and the objects and purposes for which the agency was established.
+    **(4)** If the administration and control of any invention or patent has been transferred under this section to a corporate agency of Her Majesty, any money received by the corporate agency in the course of the administration and control of the invention, patent or certificate of supplementary protection may be retained by that corporate agency, and shall be used for the purposes of this Act and the objects and purposes for which the agency was established.
 
 
 ### `Olympic and Paralympic Marks Act`
@@ -2681,7 +2687,7 @@ Section 20 of the `Federal Courts Act` is replaced by the following:
 
 Paragraph 3(4)(f) of the `Olympic and Paralympic Marks Act` is replaced by the following:
 
-the use of a protected geographical indication identifying a wine or spirit **or an agricultural product or food** if the wine or spirit **or the agricultural product or food** originates in the territory indicated by the indication;
+the use of a protected geographical indication identifying a wine or spirit or an agricultural product or food if the wine or spirit or the agricultural product or food originates in the territory indicated by the indication;
 
 
 ### `Canada–Korea Economic Growth and Prosperity Act`
@@ -2795,9 +2801,9 @@ The heading before section 16 and sections 16 to 22 of the `Canada–Korea Econo
 
       **(1)** During the period that begins on the day on which this subsection comes into force and ends on the fifth anniversary of that day, section 11.15 does not apply to the use, in connection with a business, of the indication "Beaufort", or any translation of it in any language, by a person, if they or their predecessor in title used the indication or the translation in relation to any business or commercial activity in respect of an agricultural product or food of the category of cheeses, as set out in the schedule, for less than 10 years before October 18, 2013.
 
-      **(2)** During the period that begins on the day on which this subsection comes into force and ends on the fifth anniversary of that day, section 11.15 does not apply to the use, in connection with a business, of the indication "Nürnberger Bratwürste", or any translation of it in any language, by a person, if they or their predecessor in title used the indication or the translation in relation to any business or commercial activity in respect of an agricultural product or food of the category of fresh, frozen and processed meats, as set out in the , for less than five years before October 18, 2013.
+      **(2)** During the period that begins on the day on which this subsection comes into force and ends on the fifth anniversary of that day, section 11.15 does not apply to the use, in connection with a business, of the indication "Nürnberger Bratwürste", or any translation of it in any language, by a person, if they or their predecessor in title used the indication or the translation in relation to any business or commercial activity in respect of an agricultural product or food of the category of fresh, frozen and processed meats, as set out in the schedule, for less than five years before October 18, 2013.
 
-      **(3)** During the period that begins on the day on which this subsection comes into force and ends on the fifth anniversary of that day, section 11.15 does not apply to the use, in connection with a business, of the indication "Jambon de Bayonne", or any translation of it in any language, by a person, if they or their predecessor in title used the indication or the translation in relation to any business or commercial activity in respect of an agricultural product or food of the category of dry-cured meats, as set out in the , for less than 10 years before October 18, 2013.
+      **(3)** During the period that begins on the day on which this subsection comes into force and ends on the fifth anniversary of that day, section 11.15 does not apply to the use, in connection with a business, of the indication "Jambon de Bayonne", or any translation of it in any language, by a person, if they or their predecessor in title used the indication or the translation in relation to any business or commercial activity in respect of an agricultural product or food of the category of dry-cured meats, as set out in the schedule, for less than 10 years before October 18, 2013.
 
       **(4)** For the purposes of subsections 68.1(1) to (3), no person is a predecessor in title if they only transferred the right to use the indication or the translation, or both.
 
@@ -2861,11 +2867,19 @@ The heading before section 16 and sections 16 to 22 of the `Canada–Korea Econo
 
   **(4)** If section 55 of the other Act comes into force on the same day as section `35` of this Act, then that section 55 is deemed never to have come into force and is repealed.
 
-  **(5)** If section 60 of the other Act comes into force before section `40` of this Act, then that section `40` is repealed.
+  **(5)** If section 60 of the other Act comes into force before section `40` of this Act, then that section `40` is **replaced by the following:**
+
+### Section 40
+
+    The Act is amended by adding the following before section 63:
+
+### Section 62
+
+    A patent, or part of a patent, that is voided by a judgment shall be and be held to have been void and of no effect, unless the judgment is reversed on appeal as provided in section 63.
 
   **(6)** If section `40` of this Act comes into force before section 60 of the other Act, then that section 60 is repealed.
 
-  **(7)** If section 60 of the other Act comes into force on the same day as section `40` of this Act, then that section `40` is deemed never to have come into force and is repealed.
+  **(7)** If section 60 of the other Act comes into force on the same day as section 40 of this Act, then that section **60** is deemed never to have come into force and is repealed.
 
   **(8)** If section `42` of this Act comes into force before subsection 61(2) of the other Act, then that subsection 61(2) is repealed.
 
