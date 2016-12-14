@@ -1,7 +1,5 @@
 # Bill S-4: An Act to implement a Convention and an Arrangement for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and to amend an Act in respect of a similar Agreement
 
-**Sponsor**: THE HONOURABLE SENATOR HARDER, P.C.
-
 ## Summary
 
 This enactment implements a convention between the Government of Canada and the Government of the State of Israel for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and an arrangement between the Canadian Trade Office in Taipei and the Taipei Economic and Cultural Office in Canada for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income. It also amends the `Canada–Hong Kong Tax Agreement Act, 2013` to add to it, for greater certainty, an interpretation provision.
