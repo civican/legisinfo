@@ -1,4 +1,4 @@
-# Bill C-238: An Act respecting the development of a national strategy for the safe 
+# Bill C-238: An Act respecting the development of a national strategy for the safe and environmentally sound disposal of lamps containing mercury
 
 ## Summary
 
@@ -11,20 +11,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-This Act may be cited as the `National Strategy for Safe **and Environmentally Sound** Disposal of Lamps Containing Mercury Act`.
+This Act may be cited as the `National Strategy for Safe and Environmentally Sound Disposal of Lamps Containing Mercury Act`.
 
 
 ## National Strategy
 
 ### Section 2
 
-The Minister of the Environment, in cooperation with representatives of the provincial and territorial governments and **with** representatives **of other interested governments in Canada that are** responsible for the environment, **and in consultation with all interested persons or organizations that he or she considers appropriate,** must develop a national strategy for the safe **and environmentally sound** disposal of lamps containing mercury**. The strategy may include**
+The Minister of the Environment, in cooperation with representatives of the provincial and territorial governments and with representatives of other interested governments in Canada that are responsible for the environment, and in consultation with all interested persons or organizations that he or she considers appropriate, must develop a national strategy for the safe and environmentally sound disposal of lamps containing mercury. The strategy may include
 
-the identification of **practices** for the safe **and environmentally sound** disposal of **those** lamps;
+the identification of practices for the safe and environmentally sound disposal of those lamps;
 
-the establishment of guidelines **for** facilities **where activities involved in the** safe **and environmentally sound** disposal **of those lamps are carried out**; and
+the establishment of guidelines for facilities where activities involved in the safe and environmentally sound disposal of those lamps are carried out; and
 
-the **development** of a plan to promote public awareness of the importance of those lamps being disposed of safely **and in an environmentally sound manner**.
+the development of a plan to promote public awareness of the importance of those lamps being disposed of safely and in an environmentally sound manner.
 
 ### Section 3
 
