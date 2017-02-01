@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment provides for the development and implementation of a  framework designed to guarantee all Canadians access to high-quality palliative care.
+This enactment provides for the development of a  framework designed to support improved access for Canadians to palliative care.
 
 Whereas the Final Report of the External Panel on Options for a Legislative Response to *Carter v. Canada* emphasizes the importance of palliative care in the context of physician-assisted dying;
 
@@ -24,21 +24,23 @@ This Act may be cited as the `Framework on Palliative Care in Canada Act`.
 
 ### Section 2
 
-  **(1)** The Minister of Health must, in consultation with the representatives of the provincial and territorial governments responsible for health, as well as with palliative care providers, develop and implement a  framework designed to give Canadians access to palliative care — provided through hospitals, home care, long-term care facilities and residential hospices — that, among other things,
+  **(1)** The Minister of Health must, in consultation with the representatives of the provincial and territorial governments responsible for health, as well as with palliative care providers, develop a framework designed to **support improved access for** Canadians to palliative care — pro-vided through hospitals, home care, long-term care facilities and residential hospices — that, among other things,
 
     defines what palliative care is;
 
-    identifies the palliative care training and education needs of palliative health care providers;
+    identifies the palliative care training and education needs of health care providers **as well as other caregivers**;
 
-    identifies measures to support palliative caregivers;
+    identifies measures to support palliative **care providers**;
 
-    collects research and data on palliative care;
+    **promotes** research and **the collection of** data on palliative care;
 
-    identifies measures to facilitate a consistent access to palliative care across Canada; and
+    identifies measures to facilitate a consistent access to palliative care across Canada;
 
-    evaluates the advisability of amending the `Canada Health Act` to include palliative care services provided through home care, long term care facilities and residential hospices.
+    takes into consideration existing palliative care frameworks, strategies and best practices; and
 
-  **(2)** Within six months after the day on which this Act comes into force, the Minister must convene a conference with the representatives of the provincial and territorial governments responsible for health and with palliative care providers in order to develop the  framework.
+    evaluates the advisability **of re-establishing the Department of Health's Secretariat on Palliative and End-of-Life Care.**
+
+  **(2)** The Minister must **initiate the consultations referred to in subsection (1)** within six months after the day on which this Act comes into force.
 
 ### Section 3
 
@@ -47,11 +49,11 @@ This Act may be cited as the `Framework on Palliative Care in Canada Act`.
   **(2)** The Minister must post the report on the departmental Web site within 10 days after the day on which the report is tabled in Parliament.
 
 
-## Review and Report
+## State of Palliative Care in Canada
 
 ### Section 4
 
-  **(1)** Within five years of the tabling of the report referred to in section 3, and every five years after that, the Minister of Health must undertake a review and prepare a report on the effectiveness of the framework on palliative care that includes his or her conclusions and recommendations regarding the framework, and cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
+  **(1)** Within five years **after the day on which** the report referred to in section 3**is tabled in Parliament,** the Minister of Health must prepare a report on the **state of** palliative care **in Canada,** and cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
   **(2)** The Minister must post the report on the departmental Web site within 10 days after the day on which the report is tabled in Parliament.
 
