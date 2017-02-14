@@ -1,7 +1,5 @@
 # Bill C-31: An Act to implement the Free Trade Agreement between Canada and Ukraine
 
-**Sponsor**: MINISTER OF INTERNATIONAL TRADE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement the Free Trade Agreement between Canada and Ukraine*".
 
 ## Summary
@@ -294,10 +292,6 @@ Section 2 of the `Importation of Intoxicating Liquors Act` is amended by adding 
 
 **Ukraine** has the same meaning as in subsection 2(1) of the `Customs Tariff`; (**Ukraine**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 19
 
 The schedule to the Act is amended by adding, in alphabetical order, a reference to "Ukraine" in column 1 and a corresponding reference to "Ukraine Tariff in the List of Tariff Provisions set out in the schedule to the `Customs Tariff`" in column 2.
@@ -313,31 +307,27 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
 **Ukraine** has the same meaning as in subsection 2(1) of the `Customs Tariff`; (**Ukraine**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 21
 
   **(1)** The portion of paragraph 42.1(1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than **a free trade agreement referred to in subsection (1.1)**, is claimed
+    conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), is claimed
 
   **(2)** Subsections 42.1(1.1) and (2) of the Act are replaced by the following:
 
-    **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct **any of the following**:
+    **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct any of the following:
 
       a verification of origin of goods for which preferential tariff treatment under CEFTA is claimed, by requesting in writing that the customs administration of the EFTA state of export conduct a verification and provide an opinion as to whether the goods are originating within the meaning of Annex C of CEFTA;
 
       a verification of origin of goods for which preferential tariff treatment under CUFTA is claimed, by requesting in writing that the customs administration of Ukraine conduct a verification and provide a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA.
 
-    **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than **a free trade agreement referred to in subsection (1.1)**, may be denied or withdrawn from the goods.
+    **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
 
   **(3)** The portion of subsection 42.1(3) of the Act before paragraph (b) is replaced by the following:
 
-    **(3)** Preferential tariff treatment under **a free trade agreement referred to in subsection (1.1)** may be denied or withdrawn from the goods **in any of the following circumstances**:
+    **(3)** Preferential tariff treatment under a free trade agreement referred to in subsection (1.1) may be denied or withdrawn from the goods in any of the following circumstances:
 
-      **in the case of** CEFTA, if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
+      in the case of CEFTA, if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
 
       in the case of CUFTA, if Ukraine fails to conduct a verification or provide a written report as to whether the goods are originating;
 
@@ -347,9 +337,9 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
 ### Section 97.201
 
-      **(1)** The customs administration of **any** state **referred to in subsection 42.1(1.1)** to which goods were exported may request in writing that the Agency conduct a verification and provide, **as the case may be**
+      **(1)** The customs administration of any state referred to in subsection 42.1(1.1) to which goods were exported may request in writing that the Agency conduct a verification and provide, as the case may be
 
-        an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA; **or**
+        an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA; or
 
         a written report as to whether the goods are originating within the meaning of Chapter 3 of CUFTA.
 
@@ -357,9 +347,9 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
     **(3)** On completion of a verification of origin requested under subsection (1), an officer or other person designated under subsection (2) shall
 
-      provide, in the prescribed manner, the customs administration of **the** state with the opinion **or written report** requested and any relevant supporting documents that may be requested by that customs administration; and
+      provide, in the prescribed manner, the customs administration of the state with the opinion or written report requested and any relevant supporting documents that may be requested by that customs administration; and
 
-      determine whether the goods are originating within the meaning of **the applicable provision referred to in subsection (1)**.
+      determine whether the goods are originating within the meaning of the applicable provision referred to in subsection (1).
 
 ### Section 23
 
@@ -404,23 +394,13 @@ The Act is amended by adding the following after section 19.0191:
 
   **(5)** The Tribunal shall cause notice of the submission of a report to be published in the `Canada Gazette`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 29
 
 Section 21.1 of the Act is replaced by the following:
 
 ### Section 21.1
 
-In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (**1.098**) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
-
-
-> **Explanatory Note**:
-> Existing text of section 21.1:
-> *Existing Text*:
-> > In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (1.097) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
+In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (1.098) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
 
 ### Section 30
 
@@ -428,34 +408,17 @@ Section 23 of the Act is amended by adding the following after subsection (1.097
 
 **(1.098)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the Ukraine Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 31
 
 Paragraph 26(1)(a) of the Act is amended by striking out "or" at the end of subparagraph (i.97) and by adding the following after that subparagraph:
 
 in the case of a complaint filed under subsection 23(1.098), the goods that are entitled to the Ukraine Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, or
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 26(1):
-> *Existing Text*:
-> > Subject to subsections (4) to (7), the Tribunal shall, within thirty days after the day on which notice is given to a complainant that the complaint is properly documented, commence an inquiry into the complaint if it is satisfied
-> > that the information provided by the complainant and any other information examined by the Tribunal disclose a reasonable indication that
-
 ### Section 32
 
-Subsection 27(1) of the Act is amended by striking out "or" at the end of paragraph (*a.97*) and by adding the following after that paragraph:
+Subsection 27(1) of the Act is amended by striking out "or" at the end of paragraph (a.97) and by adding the following after that paragraph:
 
 in the case of a complaint filed under subsection 23(1.098), the goods that are entitled to the Ukraine Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods; or
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 27(1):
-> *Existing Text*:
-> > The Tribunal shall, in an inquiry into a complaint, determine whether, having regard to any regulations made pursuant to paragraph 40(a),
 
 
 ### Customs Tariff
@@ -476,10 +439,6 @@ the continental shelf of Ukraine, as determined by its domestic law, consistent 
 
 **UNCLOS** means the United Nations Convention on the Law of the Sea, done at Montego Bay on December 10, 1982. (**CNUDM**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 34
 
 Subparagraph 14(2)(c)(xvi) of the Act is replaced by the following:
@@ -488,25 +447,11 @@ subsection 75(1),
 
 subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 14(2):
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to reduce a rate of customs duty on goods imported from a country, and to make consequential amendments,
-> > 
-> > by way of compensation for any action taken under any of the following provisions:
-> > 
-> > subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`.
-
 ### Section 35
 
 Section 27 of the Act is amended by adding the following in alphabetical order:
 
 **UAT** refers to the Ukraine Tariff. (**TUA**)
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 36
 
@@ -522,10 +467,6 @@ The Act is amended by adding the following after section 52.4:
   **(2)** If "A" is set out in the column entitled "Preferential Tariff" in the List of Tariff Provisions following the abbreviation "UAT" in relation to goods entitled to the Ukraine Tariff, the Ukraine Tariff rate of customs duty that applies to those goods is the final rate of "Free".
 
   **(3)** If "F" is set out in the column entitled "Preferential Tariff" in the List of Tariff Provisions following the abbreviation "UAT" in relation to goods entitled to the Ukraine Tariff, the Ukraine Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the "F" Staging List.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 37
 
@@ -564,21 +505,11 @@ The Act is amended by adding the following after section 74:
 
   **(4)** In this section, **principal cause** means, in respect of a serious injury or threat of a serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 38
 
 Section 79 of the Act is amended by adding the following after paragraph (o):
 
 subsection 75(1).
-
-
-> **Explanatory Note**:
-> Relevant portion of section 79:
-> *Existing Text*:
-> > An order made under any of the following provisions may provide that goods that are in transit to Canada at the time the order comes into force are entitled to the tariff treatment that was applicable to those goods immediately before that time:
 
 ### Section 39
 
