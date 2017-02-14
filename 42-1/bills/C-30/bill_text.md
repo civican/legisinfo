@@ -1,7 +1,5 @@
 # Bill C-30: An Act to implement the Comprehensive Economic and Trade Agreement between Canada and the European Union and its Member States and to provide for certain other measures
 
-**Sponsor**: MINISTER OF INTERNATIONAL TRADE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement the Comprehensive Economic and Trade Agreement between Canada and the European Union and its Member States and to provide for certain other measures*".
 
 ## Summary
@@ -638,7 +636,7 @@ Subsection 55.2(4) of the Act is replaced by the following:
 
 ### Section 40
 
-Section 62 of the Act is **replaced by the following:**
+Section 62 of the Act is replaced by the following:
 
 ### Section 62
 
@@ -944,7 +942,7 @@ restoring, correcting or modifying organic functions in human beings or animals.
 
     the filing date for the application for the patent is on or after October 1, 1989;
 
-    the patent pertains in the prescribed manner to a medicinal ingredient, or combination of medicinal ingredients, contained in a drug for which an authorization for sale of the prescribed kind was issued on or after the day **on which this section comes into force**;
+    the patent pertains in the prescribed manner to a medicinal ingredient, or combination of medicinal ingredients, contained in a drug for which an authorization for sale of the prescribed kind was issued on or after the day on which this section comes into force;
 
     the authorization for sale is the first authorization for sale that has been issued with respect to the medicinal ingredient or the combination of medicinal ingredients, as the case may be;
 
@@ -1006,7 +1004,7 @@ If two or more pending applications set out the same authorization for sale and 
 
 ### Section 111
 
-  **(1)** If two or more applications that set out the same authorization for sale and have the same priority are still pending at the end of the prescribed period that begins on the day specified in the written notice sent under section `109`, all of those applications expire at that end of that period. However, if any proceedings are brought under section 110 with respect to any of **those** applications, all of those applications — **if two or more are still** pending — expire at the end of the prescribed period that begins on the day on which the last of any of the proceedings to be completed is finally disposed of.
+  **(1)** If two or more applications that set out the same authorization for sale and have the same priority are still pending at the end of the prescribed period that begins on the day specified in the written notice sent under section `109`, all of those applications expire at that end of that period. However, if any proceedings are brought under section 110 with respect to any of those applications, all of those applications — if two or more are still pending — expire at the end of the prescribed period that begins on the day on which the last of any of the proceedings to be completed is finally disposed of.
 
   **(2)** A pending application that sets out the same authorization for sale as another application of higher priority expires on the day on which the Minister issues a certificate of supplementary protection in respect of that other application.
 
@@ -1161,9 +1159,9 @@ any reference to "patentee" to be read as a reference to "holder of the certific
 
 ### Section 126
 
-  ****(1)**** **A certificate of supplementary protection, or a claim in the patent set out in such a certificate, that is voided by a judgment shall be and be held to have been void and of no effect, unless the judgment is reversed on appeal as provided in subsection (2).**
+  **(1)** A certificate of supplementary protection, or a claim in the patent set out in such a certificate, that is voided by a judgment shall be and be held to have been void and of no effect, unless the judgment is reversed on appeal as provided in subsection (2).
 
-  ****(2)**** Every judgment voiding a certificate of supplementary protection or any claim in the patent set out in such a certificate, and every judgment refusing to do so, is subject to appeal to any court having appellate jurisdiction in other cases decided by the court by which the judgment was rendered.
+  **(2)** Every judgment voiding a certificate of supplementary protection or any claim in the patent set out in such a certificate, and every judgment refusing to do so, is subject to appeal to any court having appellate jurisdiction in other cases decided by the court by which the judgment was rendered.
 
 
 ### Abuse of Rights
@@ -2867,7 +2865,7 @@ The heading before section 16 and sections 16 to 22 of the `Canada–Korea Econo
 
   **(4)** If section 55 of the other Act comes into force on the same day as section `35` of this Act, then that section 55 is deemed never to have come into force and is repealed.
 
-  **(5)** If section 60 of the other Act comes into force before section `40` of this Act, then that section `40` is **replaced by the following:**
+  **(5)** If section 60 of the other Act comes into force before section `40` of this Act, then that section `40` is replaced by the following:
 
 ### Section 40
 
@@ -2879,7 +2877,7 @@ The heading before section 16 and sections 16 to 22 of the `Canada–Korea Econo
 
   **(6)** If section `40` of this Act comes into force before section 60 of the other Act, then that section 60 is repealed.
 
-  **(7)** If section 60 of the other Act comes into force on the same day as section 40 of this Act, then that section **60** is deemed never to have come into force and is repealed.
+  **(7)** If section 60 of the other Act comes into force on the same day as section 40 of this Act, then that section 60 is deemed never to have come into force and is repealed.
 
   **(8)** If section `42` of this Act comes into force before subsection 61(2) of the other Act, then that subsection 61(2) is repealed.
 
