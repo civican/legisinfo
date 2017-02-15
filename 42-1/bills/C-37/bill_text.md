@@ -1,7 +1,5 @@
 # Bill C-37: An Act to amend the Controlled Drugs and Substances Act and to make related amendments to other Acts
 
-**Sponsor**: MINISTER OF HEALTH
-
 ## Summary
 
 This enactment amends the `Controlled Drugs and Substances Act` to, among other things,
@@ -1164,13 +1162,13 @@ Section 56.1 of the Act is replaced by the following:
 
     any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
 
-  **(2)** An application for an exemption under subsection (1) shall include **information**, submitted in the form and manner determined by the Minister, **regarding** the intended public health benefits of the site and information, if any, related to
+  **(2)** An application for an exemption under subsection (1) shall include information, submitted in the form and manner determined by the Minister, regarding the intended public health benefits of the site and information, if any, related to
 
     the impact of the site on crime rates;
 
     the local conditions indicating a need for the site;
 
-    the **administrative** structure in place to support the site;
+    the administrative structure in place to support the site;
 
     the resources available to support the maintenance of the site; and
 
