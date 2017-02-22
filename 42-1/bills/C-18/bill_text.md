@@ -1,7 +1,5 @@
 # Bill C-18: An Act to amend the Rouge National Urban Park Act, the Parks Canada Agency Act and the Canada National Parks Act
 
-**Sponsor**: MINISTER OF ENVIRONMENT AND CLIMATE CHANGE
-
 ## Summary
 
 This enactment amends the `Rouge National Urban Park Act` to set out priorities in respect of factors to be considered in the management of the park. Additionally, it adds land to the park. It also amends the `Parks Canada Agency Act` to allow the New Parks and Historic Sites Account to be used in a broader manner. Finally, it amends the `Canada National Parks Act` to modify the boundary of Wood Buffalo National Park of Canada.
@@ -17,10 +15,6 @@ Section 2 of the `Rouge National Urban Park Act` is amended by adding the follow
 
 **ecological integrity** means, with respect to the Park, a condition that is determined to be characteristic of its natural region and likely to persist, including abiotic components and the composition and abundance of native species and biological communities, rates of change and supporting processes. (**intégrité écologique**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 2
 
 Section 6 of the Act is replaced by the following:
@@ -30,12 +24,6 @@ Section 6 of the Act is replaced by the following:
   **(1)** Maintenance or restoration of ecological integrity, through the protection of natural resources and natural processes, must be the first priority of the Minister when considering all aspects of the management of the Park.
 
   **(2)** For greater certainty, subsection (1) does not prevent the carrying out of agricultural activities as provided for in this Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 6:
-> *Existing Text*:
-> > The Minister must, in the management of the Park, take into consideration the protection of its natural ecosystems and cultural landscapes and the maintenance of its native wildlife and of the health of those ecosystems.
 
 ### Section 3
 
@@ -68,7 +56,7 @@ containing 217 hectares, or 2.17 square kilometres, more or less.
 
     to acquire any real property or immovables for the purpose of establishing, enlarging or designating, as the case may be, any national park, national historic site, national marine conservation area or other protected heritage area;
 
-    to develop or maintain any national park, national historic site, national marine conservation area or other protected heritage area that **is being established, enlarged or designated**, and to make any related contribution or other payment;
+    to develop or maintain any national park, national historic site, national marine conservation area or other protected heritage area that is being established, enlarged or designated, and to make any related contribution or other payment;
 
   **(2)** Subsections 21(4) and (5) of the Act are repealed.
 
