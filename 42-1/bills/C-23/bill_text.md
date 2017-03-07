@@ -36,6 +36,8 @@ grants the Attorney General of Canada the exclusive authority to commence and co
 
 Part 3 of the enactment makes related amendments to the `Criminal Code` to provide United States preclearance officers with an exemption from criminal liability under the `Criminal Code` and the `Firearms Act` with respect to the carriage of firearms and other regulated items. It also amends the `Criminal Code` to provide for a stay of proceedings against a United States preclearance officer when the Government of the United States provides notice under paragraph 14 of Article X of the Agreement.
 
+Part 3.1 of the enactment provides for an independent review relating to the administration and operation of the `Preclearance Act, 2016`.
+
 Part 4 of the enactment makes a consequential amendment to the `Customs Act`, repeals the `Preclearance Act` and contains the coming-into-force provision.
 
 
@@ -136,6 +138,8 @@ X-ray or body cavity search
 Right to be taken before senior officer
 
 Search by officer of same sex
+
+Situation referred to in certain provisions
 
 
 ### Preclearance Perimeter
@@ -262,6 +266,11 @@ Exclusive authority
 
 
 
+## Independent Review
+
+Review and report
+
+
 ## Consequential Amendment, Repeal and Coming into Force
 
 
@@ -315,9 +324,11 @@ This Act may be cited as the `Preclearance Act, 2016`.
 
     for greater certainty, animals and plants and their products, conveyances and any document in any form. (**biens**)
 
-    **Minister** means, in relation to section `6`, `7` or `8`, subsection `34`(2), section `41` or `45` or subsection `59`(1), a Minister designated under subsection `4`(2) for the purpose of that provision or, in the absence of such a designation, the Minister who is responsible for this Act.  (**ministre**)
+    **Minister** means, in relation to section `6`, `7` or `8`, subsection **11(2) or** `34`(2), section `41` or `45` or subsection 59(1), a Minister designated under subsection `4`(2) for the purpose of that provision or, in the absence of such a designation, the Minister who is responsible for this Act.  (**ministre**)
 
   **(2)** For greater certainty, travellers or goods en route towards the United States or Canada on their way to another country are, for the purposes of this Act, bound for the United States or Canada, as the case may be.
+
+  **(3)** For greater certainty, in this Act **Act of Parliament** means an Act of the Parliament of Canada.
 
 ### Section 3
 
@@ -330,7 +341,7 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
   **(1)** The Governor in Council may, by order, designate a federal Minister as the Minister responsible for this Act.
 
-  **(2)** The Governor in Council may, by order, designate one or more federal Ministers as the Minister or Ministers for the purpose of section `6`, `7` or `8`, subsection `34`(2), section `41` or `45` or subsection `59`(1).
+  **(2)** The Governor in Council may, by order, designate one or more federal Ministers as the Minister or Ministers for the purpose of section 6, 7 or 8, subsection **11(2) or** 34(2), section `41` or `45` or subsection `59`(1).
 
   **(3)** If more than one Minister is designated under subsection (2) for the purpose of a provision, the Governor in Council must, by order, specify the circumstances in which each Minister is to exercise the powers and perform the duties or functions set out in the provision.
 
@@ -346,7 +357,13 @@ The following definitions apply in this Part.
 
 **biometric information** means information that is derived from a person's measurable physical characteristics. (**renseignements biométriques**)
 
-**border services officer** means a person who is designated under subsection 9(2) of the `Canada Border Serv-ices Agency Act` or designated or authorized under section 6 of the `Immigration and Refugee Protection Act`. (**agent des services frontaliers**)
+**border services officer** means a person who is
+
+employed by the Canada Border Services Agency in the administration or enforcement of the `Customs Act`, the `Customs Tariff` or the `Special Import Meas-ures Act`;
+
+designated under subsection 9(2) of the `Canada Border Services Agency Act`; or
+
+designated or authorized under section 6 of the `Immigration and Refugee Protection Act`. (**agent des services frontaliers**)
 
 **facility** means, except in the case of a medical facility, a facility in a preclearance area or preclearance perimeter or a facility in which there is a preclearance area or preclearance perimeter. (**installation**)
 
@@ -399,7 +416,9 @@ For greater certainty, Canadian law applies, and may be administered and enforce
 
 ### Section 11
 
-A preclearance officer must exercise their powers and perform their duties and functions under this Act in accordance with Canadian law, including the `Canadian Charter of Rights and Freedoms`, the `Canadian Bill of Rights` and the `Canadian Human Rights Act`.
+  ****(1)**** A preclearance officer must exercise their powers and perform their duties and functions under this Act in accordance with Canadian law, including the `Canadian Charter of Rights and Freedoms`, the `Canadian Bill of Rights` and the `Canadian Human Rights Act`.
+
+  **(2)** The Minister must, in accordance with paragraph 2 of Article IX of the Agreement, provide every preclearance officer with training on the Canadian law that applies to the exercise of the preclearance officer's powers and the performance of their duties and functions under this Act.
 
 ### Section 12
 
@@ -526,7 +545,7 @@ A preclearance officer may, for the purpose of conducting preclearance, conduct 
 
     the strip search is necessary for the purpose of conducting preclearance.
 
-  **(4)** A preclearance officer may conduct the strip search if they have reasonable grounds to suspect that the conditions under paragraphs (1)(a) and (b) are still met and if
+  **(4)** A preclearance officer may conduct the strip search,**in a manner consistent with section 11**, if they have reasonable grounds to suspect that the conditions under paragraphs (1)(a) and (b) are still met and if
 
     a border services officer declines to conduct it;
 
@@ -589,6 +608,10 @@ A preclearance officer may, for the purpose of conducting preclearance, conduct 
   **(1)** Neither a preclearance officer nor a border services officer is permitted to conduct a search under any of sections `21` to `23` of a person of the opposite sex. If no such officer of the same sex as the person is available, the officer may authorize any suitable person of the same sex to conduct the search.
 
   **(2)** A preclearance officer or border services officer may authorize a person of the same sex as the traveller being searched to observe a search under any of sections `21` to `23` that is conducted by the officer.
+
+### Section 26.1
+
+Regardless of any applicable recourse, a traveller may, in a prescribed manner, inform the Canadian senior officials of the Preclearance Consultative Group established under the Agreement of any situation referred to in sections 22, 23 and 24, subsection 31(2) and section 32 of this Act.
 
 
 ### Preclearance Perimeter
@@ -816,7 +839,13 @@ The Minister may, by order, authorize a person who, or class of persons that, is
 
 The following definitions apply in this Part.
 
-**border services officer** means a person who is designated under subsection 9(2) of the `Canada Border Services Agency Act` or designated or authorized under section 6 of the `Immigration and Refugee Protection Act`, and who is assigned to conduct preclearance in the United States. (**agent des services frontaliers**)
+**border services officer** means a person who is assigned to conduct preclearance in the United States **and is**
+
+employed by the Canada Border Services Agency in the administration or enforcement of the `Customs Act`, the `Customs Tariff` or the `Special Import Meas-ures Act`;
+
+designated under subsection 9(2) of the `Canada Border Services Agency Act`; or
+
+designated or authorized under section 6 of the `Immigration and Refugee Protection Act`. (**agent des services frontaliers**)
 
 **other public officer** means a person, other than a border services officer, who is designated or authorized to exercise powers or perform duties or functions under preclearance legislation described in paragraph (a) of the definition of that expression in this section, and who is assigned to conduct preclearance in the United States.  (**autre fonctionnaire**)
 
@@ -859,7 +888,7 @@ designated as a customs office under section 5 of the `Customs Act`. (**périm
 
     collect any amounts — including duties, taxes and fees — owing under preclearance legislation.
 
-  **(5)** For the purposes of sections 20 and 21 of the `Customs Act`, **goods**, as defined in section 2 of that Act, are to be treated as if they have been transported entirely within Canada if they are transported from a preclearance area or preclearance perimeter to a place in Canada over territory or waters outside Canada.
+  **(5)** For the purposes of sections 20 and 21 of the `Customs Act`, goods, as defined in section 2 of that Act, are to be treated as if they have been transported entirely within Canada if they are transported from a preclearance area or preclearance perimeter to a place in Canada over territory or waters outside Canada.
 
 ### Section 48
 
@@ -877,7 +906,7 @@ designated as a customs office under section 5 of the `Customs Act`. (**périm
 
   **(7)** The Governor in Council may make regulations prescribing grounds of inadmissibility that are set out in the `Immigration and Refugee Protection Act` for the purpose of subsection (4). The regulations may distinguish between foreign nationals and permanent residents and between classes of foreign nationals.
 
-  **(8)** In this section, **foreign national** and **permanent resident** have the same meanings as in subsection 2(1) of the `Immigration and Refugee Protection Act`.
+  **(8)** In this section, foreign national and permanent resident have the same meanings as in subsection 2(1) of the `Immigration and Refugee Protection Act`.
 
 ### Section 49
 
@@ -904,7 +933,7 @@ If goods are detained under the laws of the United States by a border services o
 
   **(1)** For greater certainty, section 19 and subsection 27(1) of the `Immigration and Refugee Protection Act` do not operate so as to prevent a border services officer from, under the laws of the United States, detaining a person in a preclearance area or preclearance perimeter and delivering them into the custody of a United States federal, state, tribal or local law enforcement agent.
 
-  **(2)** If a person or goods are detained under the laws of the United States in a preclearance area or preclearance perimeter by a border services officer and delivered into the custody of a United States federal, state, tribal or local law enforcement agent, a border services officer may disclose to the agent any information — including **personal information**, as defined in section 3 of the `Privacy Act` — that relates to the circumstances of that detention and delivery.
+  **(2)** If a person or goods are detained under the laws of the United States in a preclearance area or preclearance perimeter by a border services officer and delivered into the custody of a United States federal, state, tribal or local law enforcement agent, a border services officer may disclose to the agent any information — including personal information, as defined in section 3 of the `Privacy Act` — that relates to the circumstances of that detention and delivery.
 
 
 ### Exemption from Compliance on Entry into Canada
@@ -915,7 +944,7 @@ If goods are detained under the laws of the United States by a border services o
 
   **(2)** If a traveller bound for Canada has fully met, in a preclearance area or preclearance perimeter, an obligation under the regulations that is an adaptation of an equivalent obligation under preclearance legislation or under the `Immigration and Refugee Protection Act` that applies on entry into Canada, the traveller is exempt from complying with that equivalent obligation once they enter Canada, unless a border services officer or other public officer requires the traveller to do so.
 
-  **(3)** In this section, a reference to a "border services officer or other public officer" includes a reference to a person who is designated or authorized as set out in the definition **border services officer** or **other public officer** in section `46` but who has not been assigned to conduct preclearance in the United States.
+  **(3)** In this section, a reference to a "border services officer or other public officer" includes a reference to a person who is **employed,** designated or authorized as set out in the definition border services officer or other public officer in section `46` but who has not been assigned to conduct preclearance in the United States.
 
 
 ### Withdrawal
@@ -1010,7 +1039,7 @@ The `Criminal Code` is amended by adding the following after section 117.07:
 
 ### Section 117.071
 
-Despite any other provision of this Act, but subject to section 117.1, no **preclearance officer**, as defined in section 5 of the `Preclearance Act, 2016`, is guilty of an offence under this Act or the `Firearms Act` by reason only that the preclearance officer
+Despite any other provision of this Act, but subject to section 117.1, no preclearance officer, as defined in section 5 of the `Preclearance Act, 2016`, is guilty of an offence under this Act or the `Firearms Act` by reason only that the preclearance officer
 
 possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition in the course of or for the purpose of their duties or employment;
 
@@ -1020,17 +1049,13 @@ exports or imports a firearm, a prohibited weapon, a restricted weapon, a prohib
 
 fails to report the loss, theft or finding of any firearm, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance that occurs in the course of their duties or employment or the destruction of any such thing in the course of their duties or employment.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 62
 
 The Act is amended by adding the following after section 579:
 
 ### Section 579.001
 
-  **(1)** The Attorney General or counsel instructed by him or her for that purpose shall, at any time after proceedings in relation to an act or omission of a **preclearance officer**, as defined in section 5 of the `Preclearance Act, 2016`, are commenced and before judgment, direct the clerk or other proper officer of the court to make an entry on the record that the proceedings are stayed by direction of the Attorney General if the Government of the United States has provided notice of the exercise of primary criminal jurisdiction under paragraph 14 of Article X of the Agreement.
+  **(1)** The Attorney General or counsel instructed by him or her for that purpose shall, at any time after proceedings in relation to an act or omission of a preclearance officer, as defined in section 5 of the `Preclearance Act, 2016`, are commenced and before judgment, direct the clerk or other proper officer of the court to make an entry on the record that the proceedings are stayed by direction of the Attorney General if the Government of the United States has provided notice of the exercise of primary criminal jurisdiction under paragraph 14 of Article X of the Agreement.
 
   **(2)** The clerk or other officer of the court shall make the entry immediately after being so directed, and on the entry being made the proceedings are stayed and any recognizance relating to the proceedings is vacated.
 
@@ -1042,7 +1067,14 @@ The Act is amended by adding the following after section 579:
 
   **(4)** However, if the Attorney General or counsel does not give notice under subsection (3) on or before the first anniversary of the day on which the stay of proceedings was entered, the proceedings are deemed never to have been commenced.
 
-  **(5)** In this section, **Agreement** means the Agreement on Land, Rail, Marine, and Air Transport Preclearance between the Government of Canada and the Government of the United States of America, done at Washington on March 16, 2015.
+  **(5)** In this section, Agreement means the Agreement on Land, Rail, Marine, and Air Transport Preclearance between the Government of Canada and the Government of the United States of America, done at Washington on March 16, 2015.
+
+
+## Independent Review
+
+### Section 62.1
+
+Five years after this Act comes into force, the Minister must cause to be conducted an independent review of this Act, and its administration and operation, and must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
 
 
 ## Consequential Amendment, Repeal and Coming into Force
@@ -1055,12 +1087,6 @@ The Act is amended by adding the following after section 579:
 Subsection 107(5) of the `Customs Act` is amended by adding the following after paragraph (l.2):
 
 a United States federal, state, tribal or local law enforcement agent, solely for the purpose of communicating the circumstances of detention and delivery referred to in subsection `52`(2) of the `Preclearance Act, 2016`;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 107(5):
-> *Existing Text*:
-> > An official may provide, allow to be provided or provide access to customs information to the following persons:
 
 
 ### Repeal
