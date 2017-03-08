@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment requires the Minister of Health to convene a conference with the Minister of National Defence, the Minister of Veterans Affairs, provincial and territorial government representatives responsible for health and representatives of the medical community and patients' groups for the purpose of developing a comprehensive federal framework to address the challenges of recognizing the symptoms and providing timely diagnosis and treatment of post-traumatic stress disorder.
+This enactment requires the Minister of Health to convene a conference with the Minister of National Defence, the Minister of Veterans Affairs, the Minister of Public Safety and Emergency Preparedness, provincial and territorial government representatives responsible for health and representatives of the medical community and patients' groups for the purpose of developing a comprehensive federal framework to address the challenges of recognizing the symptoms and providing timely diagnosis and treatment of post-traumatic stress disorder.
 
 Whereas post-traumatic stress disorder (PTSD) is a condition that is characterized by persistent emotional distress occurring as a result of physical injury or severe psychological shock and typically involves disturbance of sleep and constant vivid recall of the traumatic experience, with dulled responses to others and to the outside world;
 
@@ -28,20 +28,20 @@ This Act may be cited as the `Federal Framework on Post-Traumatic Stress Disorde
 
 The following definitions apply in this Act.
 
-**Agency** means the Public Health Agency of Canada.
+**Agency** means the Public Health Agency of Canada. (**Agence**)
 
-**federal framework** means a framework to address the challenges of recognizing the symptoms and providing timely diagnosis and treatment of post-traumatic stress disorder.
+**federal framework** means a framework to address the challenges of recognizing the symptoms and providing timely diagnosis and treatment of post-traumatic stress disorder. (**cadre fédéral**)
 
-**Minister** means the Minister of Health.
+**Minister** means the Minister of Health. (**ministre**)
 
 
 ## Federal Framework on Post-Traumatic Stress Disorder
 
 ### Section 3
 
-The Minister must, no later than 12 months after the day on which this Act comes into force, convene a conference with the Minister of National Defence, the Minister of Veterans Affairs, provincial and territorial government representatives responsible for health and stakeholders, including representatives of the medical community and patients' groups, for the purpose of developing a comprehensive federal framework that includes
+The Minister must, no later than 12 months after the day on which this Act comes into force, convene a conference with the Minister of National Defence, the Minister of Veterans Affairs, **the Minister of Public Safety and Emergency Preparedness**, provincial and territorial government representatives responsible for health and stakeholders, including representatives of the medical community and patients' groups, for the purpose of developing a comprehensive federal framework **in relation to**
 
-the establishment of a national medical surveillance program to use data collected by the Agency to properly track incidence rates and the associated economic and social costs of post-traumatic stress disorder;
+**improved tracking of the** incidence **rate** and associated economic and social costs of post-traumatic stress disorder;
 
 the establishment of guidelines regarding
 
@@ -66,5 +66,5 @@ The Agency must
 
 complete a review of the effectiveness of the federal framework no later than five years after the day on which the report referred to in section 4 is published; and
 
-cause a report on its findings to be laid before each House of Parliament within the next ten sitting days after the review is completed.
+cause a report on its findings to be laid before each House of Parliament within the next 10 sitting days after the review is completed.
 
