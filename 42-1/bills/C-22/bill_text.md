@@ -1,7 +1,5 @@
 # Bill C-22: An Act to establish the National Security and Intelligence Committee of Parliamentarians and to make consequential amendments to certain Acts
 
-**Sponsor**: LEADER OF THE GOVERNMENT IN THE HOUSE OF COMMONS
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to establish the National Security and Intelligence Committee of Parliamentarians and to make consequential amendments to certain Acts*".
 
 ## Summary
@@ -65,7 +63,7 @@ Exceptions
 
 Request for information
 
-[*Deleted*]
+Refusal of information
 
 
 ## Procedure
@@ -172,7 +170,7 @@ with respect to the Canadian Forces, the Minister of National Defence. (**minist
 
 **Committee** means the National Security and Intelligence Committee of Parliamentarians established by section `4`. (**Comité**)
 
-**department** means, except in subsection `25`(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration — other than a review body — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act**, a **parent Crown corporation** as defined in subsection 83(1) of that Act** or the Canadian Forces. (**ministère**)
+**department** means, except in subsection `25`(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration — other than a review body — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a **parent Crown corporation** as defined in subsection 83(1) of that Act or the Canadian Forces. (**ministère**)
 
 **review body** means
 
@@ -196,9 +194,9 @@ The Governor in Council may designate a member of the Queen's Privy Council for 
 
 ### Section 4
 
-  **(1)** The National Security and Intelligence Committee of Parliamentarians is established, consisting of a Chair and up to eight other members, each of whom must be a member of either House of Parliament other than a minister of the Crown, a minister of state or a parliamentary secretary.
+  **(1)** The National Security and Intelligence Committee of Parliamentarians is established, consisting of a Chair and up to 10 other members, each of whom must be a member of either House of Parliament other than a minister of the Crown, a minister of state or a parliamentary secretary.
 
-  **(2)** The Committee is to consist of not more than two members who are members of the Senate and not more than seven members who are members of the House of Commons. Not more than four Committee members who are members of the House of Commons may be members of the government party.
+  **(2)** The Committee is to consist of not more than three members who are members of the Senate and not more than eight members who are members of the House of Commons. Not more than five Committee members who are members of the House of Commons may be members of the government party.
 
   **(3)** The Committee is not a committee of either House of Parliament or of both Houses.
 
@@ -208,7 +206,7 @@ The Governor in Council may designate a member of the Queen's Privy Council for 
 
   **(1.1)** After a general election, the members of the Committee are to be appointed within 60 days after the day on which Parliament is summoned to sit.
 
-  **(2)** A member of the Senate may be appointed to the Committee only after the Prime Minister has consulted with **the persons referred to in paragraphs 62(a) and (b) of the `Parliament of Canada Act` and the leader of every caucus and of every recognized group in** the Senate.
+  **(2)** A member of the Senate may be appointed to the Committee only after the Prime Minister has consulted with the persons referred to in paragraphs 62(a) and (b) of the `Parliament of Canada Act` and the leader of every caucus and of every recognized group in the Senate.
 
   **(3)** A member of the House of Commons who belongs to a party that is not the government party and that has a recognized membership of 12 or more persons in that House may be appointed to the Committee only after the Prime Minister has consulted with the leader of that party.
 
@@ -231,11 +229,11 @@ Each member of the Committee is entitled to be paid, in accordance with Treasury
 
 ### Section 8
 
-  ****(1)**** The mandate of the Committee is to review
+  **(1)** The mandate of the Committee is to review
 
     the legislative, regulatory, policy, administrative and financial framework for national security and intelligence;
 
-    any activity carried out by a department that relates to national security or intelligence, unless **the activity is an ongoing operation and** the appropriate Minister determines that the review would be injurious to national security; and
+    any activity carried out by a department that relates to national security or intelligence, unless the activity is an ongoing operation and the appropriate Minister determines that the review would be injurious to national security; and
 
     any matter relating to national security or intelligence that a minister of the Crown refers to the Committee.
 
@@ -277,21 +275,29 @@ comply with the procedures and practices set out in the regulations.
 
 ### Section 13
 
-  **(1)** Despite any other Act of Parliament but subject to sections 14 and 16, the Committee is entitled **to send for persons, papers and records, and** to have access to any information that is under the control of a department and that is related to the fulfilment of the Committee's mandate.
+  **(1)** Despite any other Act of Parliament but subject to sections 14 and 16, the Committee is entitled to have access to any information that is under the control of a department and that is related to the fulfilment of the Committee's mandate.
 
-  **(2)** The information includes information that is protected by litigation privilege or solicitor-client privilege or, in civil law, by immunity from disclosure or the professional secrecy of advocates and notaries.
+  **(2)** The information includes information that is protected by litigation privilege or by solicitor-client privilege or the professional secrecy of advocates and notaries.
 
   **(3)** In the event of any inconsistency or conflict between subsection (1) and any provision of an Act of Parliament other than this Act, subsection (1) prevails to the extent of the inconsistency or conflict.
 
 ### Section 14
 
-The Committee is not entitled to have access to a  **confidence of the Queen's Privy Council for Canada**, as defined in subsection 39(2) of the `Canada Evidence Act`.
+The Committee is not entitled to have access to any of the following information:
+
+a **confidence of the Queen's Privy Council for Canada**, as defined in subsection 39(2) of the `Canada Evidence Act`;
+
+information the disclosure of which is described in subsection 11(1) of the `Witness Protection Program Act`;
+
+the identity of a person who was, is or is intended to be, has been approached to be, or has offered or agreed to be, a confidential source of information, intelligence or assistance to the Government of Canada, or the government of a province or of any state allied with Canada, or information from which the person's identity could be inferred;
+
+information relating directly to an ongoing investigation carried out by a law enforcement agency that may lead to a prosecution.
 
 ### Section 15
 
   **(1)** If the Committee is entitled to have access to information that is under the control of a department, the Committee may make a request to the appropriate Minister for that department that the information be provided to the Committee.
 
-  **(2)** If the Committee requests information **that is in respect of an identifiable person or entity,** that has been received or collected by the Financial Transactions and Reports Analysis Centre of Canada under the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` and that has been disclosed to a department under subsection 55(3), 55.1(1), 65(1), 65.01(1) or 65.02(1) of that Act, the Committee may make the request only to the appropriate Minister for that department.
+  **(2)** If the Committee requests information that is in respect of an identifiable person or entity, that has been received or collected by the Financial Transactions and Reports Analysis Centre of Canada under the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` and that has been disclosed to a department under subsection 55(3), 55.1(1), 65(1), 65.01(1) or 65.02(1) of that Act, the Committee may make the request only to the appropriate Minister for that department.
 
   **(2.1)** If the requested information is under the control of a department that is a parent Crown corporation, the department must, at the request of the appropriate Minister, provide the information to that Minister.
 
@@ -303,7 +309,21 @@ The Committee is not entitled to have access to a  **confidence of the Queen's P
 
 ### Section 16
 
-[*Deleted*]
+  **(1)** The appropriate Minister for a department may refuse to provide information to which the Committee would, but for this section, otherwise be entitled to have access and that is under the control of that department, but only if he or she is of the opinion that
+
+    the information constitutes **special operational information**, as defined in subsection 8(1) of the `Security of Information Act`; and
+
+    provision of the information would be injurious to national security.
+
+  **(2)** If the appropriate Minister refuses to provide information under subsection (1), he or she must inform the Committee of his or her decision and the reasons for the decision.
+
+  **(3)** If the appropriate Minister makes the decision in respect of any of the following information, he or she must provide the decision and reasons to,
+
+    in the case of information under the control of the Royal Canadian Mounted Police, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police;
+
+    in the case of information under the control of the Communications Security Establishment, the Commissioner of the Communications Security Establishment; and
+
+    in the case of information under the control of the Canadian Security Intelligence Service, the Security Intelligence Review Committee.
 
 
 ## Procedure
@@ -318,7 +338,7 @@ Meetings of the Committee are to be held in private if any information that a de
 
 ### Section 19
 
-The Chair may vote at meetings of the Committee **only** in the case of **a tie**.
+The Chair may vote at meetings of the Committee only in the case of a tie.
 
 ### Section 20
 
@@ -331,11 +351,11 @@ Subject to the provisions of this Act and the regulations, the Committee may det
 
   **(1)** Each year the Committee must submit to the Prime Minister a report of the reviews it conducted during the preceding year. The report must contain
 
-    the Committee's findings**;**
+    the Committee's findings;
 
-    its recommendations, if any**;**
+    its recommendations, if any;
 
-    any summary referred to in subsection (3)**; and**
+    any summary referred to in subsection (3); and
 
     the number of times in the preceding year that an appropriate Minister
 
@@ -349,11 +369,11 @@ Subject to the provisions of this Act and the regulations, the Committee may det
 
   **(4)** Subsection (5) does not apply to a special report that is the subject of a notification under subsection (3) and that report is not to be laid before either House of Parliament.
 
-  **(5)** If, after consulting the Chair of the Committee, the Prime Minister is of the opinion that information in an annual or special report is information the disclosure of which would be injurious to national security, national defence or international relations or is information that is protected by litigation privilege or solicitor-client privilege or, in civil law, by immunity from disclosure or the professional secrecy of advocates and notaries, the Prime Minister may direct the Committee to submit to the Prime Minister a revised version of the annual or special report that does not contain that information.
+  **(5)** If, after consulting the Chair of the Committee, the Prime Minister is of the opinion that information in an annual or special report is information the disclosure of which would be injurious to national security, national defence or international relations or is information that is protected by litigation privilege or by solicitor-client privilege or the professional secrecy of advocates and notaries, the Prime Minister may direct the Committee to submit to the Prime Minister a revised version of the annual or special report that does not contain that information.
 
   **(5.1)** If the Committee is directed by the Prime Minister to submit a revised version, the revised version must be clearly identified as a revised version and must indicate the extent of, and the reasons for, the revisions.
 
-  **(6)** Subject to subsection (4), the Prime Minister must cause to be laid before each House of Parliament, on any of the first **30** days on which that House is sitting after a report is submitted under subsection (1) or (2), a copy of the report or, if the Committee was directed to submit a revised version, a copy of the revised version.
+  **(6)** Subject to subsection (4), the Prime Minister must cause to be laid before each House of Parliament, on any of the first 30 days on which that House is sitting after a report is submitted under subsection (1) or (2), a copy of the report or, if the Committee was directed to submit a revised version, a copy of the revised version.
 
   **(7)** After it is tabled, the annual or special report stands referred to
 
@@ -407,7 +427,7 @@ If the executive director is absent or incapacitated or the office of executive 
 
 ### Section 27
 
-  **(1)** The executive director is to be paid the remuneration that is fixed by the Governor in Council and is entitled to be paid reasonable travel and living expenses incurred in the exercise of their powers or the perform-ance of their duties or functions while absent from their ordinary place of work.
+  **(1)** The executive director is to be paid the remuneration that is fixed by the Governor in Council and is entitled to be paid reasonable travel and living expenses incurred in the exercise of their powers or the performance of their duties or functions while absent from their ordinary place of work.
 
   **(2)** The executive director is deemed to be a person employed in the public service for the purposes of the `Public Service Superannuation Act` and to be employed in the federal public administration for the purposes of the `Government Employees Compensation Act` and any regulations made under section 9 of the `Aeronautics Act`.
 
@@ -428,7 +448,7 @@ The employees of the Secretariat are to be appointed in accordance with the `Pub
 
 ### Section 31
 
-  **(1)** The appropriate Minister's determination that a review referred to in paragraph 8**(1)**(b) would be injurious to national security or the appropriate Minister's decision to refuse to provide information under subsection `16`(1) is final.
+  **(1)** The appropriate Minister's determination that a review referred to in paragraph 8(1)(b) would be injurious to national security or the appropriate Minister's decision to refuse to provide information under subsection `16`(1) is final.
 
   **(2)** If the Committee is dissatisfied with the determination or the decision, the Committee is not to bring the matter before the courts, but it may note its dissatisfaction in a report referred to in section `21`.
 
