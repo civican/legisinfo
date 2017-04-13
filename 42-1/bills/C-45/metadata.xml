@@ -1,0 +1,2522 @@
+<Bills>
+  <Bill>
+    <Id>8886269</Id>
+    <NumberCode>C-45</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>45</Number>
+    <LongTitleEn>An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</LongTitleEn>
+    <LongTitleFr>Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</LongTitleFr>
+    <LongTitle>An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</LongTitle>
+    <ShortTitleEn>Cannabis Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le cannabis</ShortTitleFr>
+    <ShortTitle>Cannabis Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2018-06-21T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89494</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jody</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Wilson-Raybould</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jody Wilson-Raybould</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>933</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Vancouver Granville</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Vancouver Granville</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Vancouver Granville</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2018-06-21T09:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>225</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2017-04-13T12:11:33.227</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2017-06-08T15:25:15</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2017-11-27T19:05:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2017-11-28T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2018-03-22T15:05:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2018-06-07T00:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2018-06-21T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;&lt;p&gt;On December 14, 2017, the Senate adopted the following motion:&lt;/p&gt;&lt;p&gt;That, without affecting the progress of any proceedings relating to Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts, at 3:30 p.m. on Tuesday, February 6, 2018, the Senate resolve itself into a &lt;a href="https://sencanada.ca/en/content/sen/chamber/421/debates/177db_2018-02-06-e#29"&gt;Committee of the Whole&lt;/a&gt; to consider the subject matter of the bill:&lt;/p&gt;&lt;p style="margin-left:15pt;margin-right:45pt;"&gt;That the committee receive: &lt;/p&gt;&lt;p style="margin-left:30pt;margin-right:30pt;"&gt;(a) the Honourable Jody Wilson-Raybould, P.C., M.P., Minister of Justice and Attorney General of Canada;&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;(b) the Honourable Ginette Petitpas Taylor, P.C.., M.P., Minister of Health;&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;(c) the Honourable Ralph Goodale, P.C., M.P., Minister of Public Safety and Emergency Preparedness; and&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;(d) Mr. Bill Blair, M.P., Parliamentary Secretary to the Minister of Justice and the Attorney General of Canda and the Minister of Health;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That the witnesses be accompanied by officials;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That the Committee of the Whole report to the Seante no later than two hours after it begins;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That television cameras and photographers be authorized in the Senate Chamber to broadcast and photograph the proceedings with the least possible disruption of the proceedings; and&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That the provisions of rule 3-3(1) be suspended on Tuesday, February 6, 2018.&lt;/p&gt;&lt;p&gt;______________&lt;/p&gt;&lt;p&gt;On February 15, 2018, the Senate adopted the following motion:&lt;/p&gt;&lt;p&gt;That, notwithstanding any provisions of the Rules, usual practice or previous order, in relation to Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts:
+&lt;/p&gt;&lt;p style="margin-left:15pt;margin-right:15pt;"&gt;1. without affecting the progress of any proceedings relating to Bill C-45:
+&lt;/p&gt;&lt;p style="margin-left:30pt;margin-right:15pt;"&gt;1.1. the Standing Senate Committee on Legal and Constitutional Affairs be authorized to study the subject matter of those elements contained in Parts 1, 2, 8, 9 and 14 of the bill;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.2. the Standing Senate Committee on Aboriginal Peoples be authorized to study the subject matter of the bill insofar as it relates to the Indigenous peoples of Canada;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.3. the Standing Senate Committee on Foreign Affairs and International Trade be authorized to study the subject matter of the bill insofar as it relates to the Canada's international obligations;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.4. the Standing Senate Committee on National Security and Defence be authorized to study the subject matter of the bill insofar as it related to Canada's borders; and
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.5. each of the above committees submit its report to the Senate pursuant to this order no later than May 1, 2018; and
+&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;2. if Bill C-45 is read a second time, it be referred to the Standing Senate Committee on Social Affairs, Science and Technology, in which case that committee be authorized to take any reports tabled under point 1 of this order into consideration during its study of the bill.
+&lt;/p&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;&lt;p&gt;Le 14 décembre 2017, le Sénat a adopté la motion suivante :&lt;/p&gt;&lt;p&gt;Que, sans que cela ait d'incidence sur le déroulement des délibérations portant sur le projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois, à 15 h 30 le mardi 6 février 2018 le Sénat se forme en &lt;a href="https://sencanada.ca/fr/content/sen/chamber/421/debates/177db_2018-02-06-f#29"&gt;comité plénier&lt;/a&gt; pour étudier la teneur du projet de loi :&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;Que le comité reçoive :&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;a) l'honorable Jody Wilson-Raybould, C.P. députée, ministre de la Justice et procureure générale du Canada; &lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;b) l'honorable Ginette Petitpas Taylor, C.P., députée, ministre de la Santé;&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;c) l'honorable Ralph Goodale, C.P., député, ministre de la Sécurité publique et de la Protection civile;&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;d) M. Bill Blair, député, secrétaire parlementaire de la ministre de la Justice et procureure générale du Canada et de la ministre de la Santé;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;Que les témoins soient accompagnés de fonctionnaires;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;Que le comité plénier fasse rapport au Sénat au plus tard deux heures après le début de ses travaux;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;Que les caméras de télévision et des photographes soient autorisés dans la salle du Sénat afin de permettre la diffusion des délibérations du comité plénier et d'en prendre des photos d'une manière qui perturbe le moins possible les travaux;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;Que l'application de l'article 3-3(1) du Règlement soit suspendue le mardi 6 février 2018.&lt;/p&gt;&lt;p&gt;_________________&lt;/p&gt;&lt;p&gt;Le 15 février 2018, le Sénat a adopté la motion suivante :&lt;/p&gt;&lt;p&gt;Que nonobstant toute disposition du Règlement, pratique habituelle ou ordre antérieur, en ce qui concerne le projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois :
+&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;1. sans que cela ait d'incidence sur le déroulement des délibérations portant sur le projet de loi C-45 :
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.1. le Comité sénatorial permanent des affaires juridiques et constitutionnelles soit autorisé à examiner la teneur des éléments des parties 1, 2, 8, 9 et 14 du projet de loi;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.2. le Comité sénatorial permanent des peuples autochtones soit autorisé à examiner la teneur du projet de loi dans la mesure où il concerne les peuples autochtones du Canada;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.3. le Comité sénatorial permanent des affaires étrangères et du commerce international soit autorisé à examiner la teneur du projet de loi dans la mesure où il concerne les obligations internationales du Canada;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.4. le Comité sénatorial permanent de la sécurité nationale et de la défense soit autorisé à examiner la teneur du projet de loi dans la mesure où il concerne les frontières du Canada;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.5. ces comités soumettent leur rapport au Sénat au plus tard le 1er mai 2018;
+&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;2. si le projet de loi C-45 est lu une deuxième fois, il soit renvoyé au Comité sénatorial permanent des affaires sociales, des sciences et de la technologie, auquel cas le comité sera autorisé à prendre en considération tout rapport déposé en application du point 1 du présent ordre dans le cadre de son examen du projet de loi.
+&lt;/p&gt;&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;&lt;p&gt;On December 14, 2017, the Senate adopted the following motion:&lt;/p&gt;&lt;p&gt;That, without affecting the progress of any proceedings relating to Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts, at 3:30 p.m. on Tuesday, February 6, 2018, the Senate resolve itself into a &lt;a href="https://sencanada.ca/en/content/sen/chamber/421/debates/177db_2018-02-06-e#29"&gt;Committee of the Whole&lt;/a&gt; to consider the subject matter of the bill:&lt;/p&gt;&lt;p style="margin-left:15pt;margin-right:45pt;"&gt;That the committee receive: &lt;/p&gt;&lt;p style="margin-left:30pt;margin-right:30pt;"&gt;(a) the Honourable Jody Wilson-Raybould, P.C., M.P., Minister of Justice and Attorney General of Canada;&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;(b) the Honourable Ginette Petitpas Taylor, P.C.., M.P., Minister of Health;&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;(c) the Honourable Ralph Goodale, P.C., M.P., Minister of Public Safety and Emergency Preparedness; and&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;(d) Mr. Bill Blair, M.P., Parliamentary Secretary to the Minister of Justice and the Attorney General of Canda and the Minister of Health;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That the witnesses be accompanied by officials;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That the Committee of the Whole report to the Seante no later than two hours after it begins;&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That television cameras and photographers be authorized in the Senate Chamber to broadcast and photograph the proceedings with the least possible disruption of the proceedings; and&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;That the provisions of rule 3-3(1) be suspended on Tuesday, February 6, 2018.&lt;/p&gt;&lt;p&gt;______________&lt;/p&gt;&lt;p&gt;On February 15, 2018, the Senate adopted the following motion:&lt;/p&gt;&lt;p&gt;That, notwithstanding any provisions of the Rules, usual practice or previous order, in relation to Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts:
+&lt;/p&gt;&lt;p style="margin-left:15pt;margin-right:15pt;"&gt;1. without affecting the progress of any proceedings relating to Bill C-45:
+&lt;/p&gt;&lt;p style="margin-left:30pt;margin-right:15pt;"&gt;1.1. the Standing Senate Committee on Legal and Constitutional Affairs be authorized to study the subject matter of those elements contained in Parts 1, 2, 8, 9 and 14 of the bill;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.2. the Standing Senate Committee on Aboriginal Peoples be authorized to study the subject matter of the bill insofar as it relates to the Indigenous peoples of Canada;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.3. the Standing Senate Committee on Foreign Affairs and International Trade be authorized to study the subject matter of the bill insofar as it relates to the Canada's international obligations;
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.4. the Standing Senate Committee on National Security and Defence be authorized to study the subject matter of the bill insofar as it related to Canada's borders; and
+&lt;/p&gt;&lt;p style="margin-left:30pt;"&gt;1.5. each of the above committees submit its report to the Senate pursuant to this order no later than May 1, 2018; and
+&lt;/p&gt;&lt;p style="margin-left:15pt;"&gt;2. if Bill C-45 is read a second time, it be referred to the Standing Senate Committee on Social Affairs, Science and Technology, in which case that committee be authorized to take any reports tabled under point 1 of this order into consideration during its study of the bill.
+&lt;/p&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 13 April 2017, the Minister of Justice and Attorney General of Canada introduced Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (Cannabis Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-45 enacts the Cannabis Act to provide legal access to cannabis and to control and regulate its production, distribution and sale.&lt;br/&gt;&lt;br/&gt;The objectives of the Act are to prevent young persons from accessing cannabis, to protect public health and public safety by establishing strict product safety and product quality requirements and to deter criminal activity by imposing serious criminal penalties for those operating outside the legal framework. The Act is also intended to reduce the burden on the criminal justice system in relation to cannabis.&lt;br/&gt;&lt;br/&gt;The Act&lt;br/&gt;&lt;br/&gt;(a) establishes criminal prohibitions such as the unlawful sale or distribution of cannabis, including its sale or distribution to young persons, and the unlawful possession, production, importation and exportation of cannabis;&lt;br/&gt;(b) enables the Minister to authorize the possession, production, distribution, sale, importation and exportation of cannabis, as well as to suspend, amend or revoke those authorizations when warranted;&lt;br/&gt;(c) authorizes persons to possess, sell or distribute cannabis if they are authorize to sell cannabis under a provincial Act that contains certain legislative measures; &lt;br/&gt;(d) prohibits any promotion, packaging and labelling of cannabis that could be appealing to young persons or encourage its consumption, while allowing consumers to have access to information with which they can make informed decisions about the consumption of cannabis; &lt;br/&gt;(e) provides for inspection powers, the authority to impose administrative monetary penalties and the ability to commence proceedings for certain offences by means of a ticket;&lt;br/&gt;(f) includes mechanisms to deal with seized cannabis and other property;&lt;br/&gt;(g) authorizes the Minister to make orders in relation to matters such as product recalls, the provision of information, the conduct of tests or studies, and the taking of measures to prevent non-compliance with the Act;&lt;br/&gt;(h) permits the establishment of a cannabis tracking system for the purposes of the enforcement and administration of the Act;&lt;br/&gt;(i) authorizes the Minister to fix, by order, fees related to the administration of the Act; and&lt;br/&gt;(j) authorizes the Governor in Council to make regulations respecting such matters as quality, testing, composition, packaging and labelling of cannabis, security clearances and the collection and disclosure of information in respect of cannabis as well as to make regulations exempting certain persons or classes of cannabis from the application of the Act.&lt;br/&gt;&lt;br/&gt;This enactment also amends the Controlled Drugs and Substances Act to, among other things, increase the maximum penalties for certain offences and to authorize the Minister to engage persons having technical or specialized knowledge to provide advice. It repeals item 1 of Schedule II and makes consequential amendments to that Act as the result of that repeal.&lt;br/&gt;&lt;br/&gt;In addition, it repeals Part XII.1 of the Criminal Code, which deals with instruments and literature for illicit drug use, and makes consequential amendments to that Act.&lt;br/&gt;&lt;br/&gt;It amends the Non-smokers' Health Act to prohibit the smoking and vaping of cannabis in federally regulated places and conveyances.&lt;br/&gt;&lt;br/&gt;Finally, it makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement.&lt;br/&gt;&lt;br/&gt;Le 13 avril 2017, le Ministre de la Justice et procureure générale du Canada a déposé le projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois (Loi sur le cannabis), à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;Le projet de loi C-45 édicte la Loi sur le cannabis afin de permettre un accès légal au cannabis et de contrôler et de réglementer sa production, sa distribution et sa vente.&lt;br/&gt;&lt;br/&gt;La loi a pour objectif de restreindre l'accès des jeunes au cannabis, de protéger la santé et la sécurité publiques par l'établissement d'exigences strictes en ce qui a trait à la sécurité et à la qualité des produits et de décourager les activités criminelles par l'imposition d'importantes sanctions pénales aux personnes agissant en dehors du cadre juridique. Elle vise également à alléger le fardeau du système de justice pénale relativement au cannabis.&lt;br/&gt;&lt;br/&gt;La loi?: &lt;br/&gt;&lt;br/&gt;a) prévoit des interdictions criminelles concernant notamment la vente et la distribution illicites de cannabis, y compris aux jeunes, ainsi que la possession, la production, l'importation et l'exportation illicites de cannabis;&lt;br/&gt;b) permet au ministre d'autoriser la possession, la production, la distribution, la vente, l'importation et l'exportation de cannabis et de suspendre, de modifier ou de révoquer de telles autorisations lorsqu'il est justifié de le faire;&lt;br/&gt;c) permet aux personnes qui sont autorisées à vendre du cannabis en vertu d'une loi provinciale à avoir en leur possession, à vendre ou à distribuer du cannabis si cette loi contient certaines mesures législatives;&lt;br/&gt;d) interdit la promotion, l'emballage et l'étiquetage de cannabis susceptibles de rendre le cannabis attrayant pour les jeunes ou d'en encourager la consommation, tout en permettant aux consommateurs d'avoir accès à des renseignements à partir desquels ils peuvent prendre des décisions éclairées sur la consommation de cannabis;&lt;br/&gt;e) prévoit des pouvoirs d'inspection, le pouvoir d'infliger des sanctions administratives pécuniaires et la possibilité d'engager des poursuites pour certaines infractions par l'entremise d'un formulaire de contravention;&lt;br/&gt;f) prévoit des mécanismes relativement à la saisie de cannabis et à d'autres biens saisis;&lt;br/&gt;g) autorise le ministre à prendre des arrêtés, notamment concernant le rappel de produits, la fourniture de renseignements, la réalisation d'essais ou d'études et la prise de mesures visant à prévenir le non-respect de la loi;&lt;br/&gt;h) permet la mise en place d'un système de suivi du cannabis aux fins d'exécution et de contrôle d'application de la loi;&lt;br/&gt;i) autorise le ministre à fixer, par décret, le prix à payer pour divers produits et services fournis en application de la loi;&lt;br/&gt;j) autorise le gouverneur en conseil à prendre des règlements concernant notamment la qualité, l'analyse, la composition, l'étiquetage et l'emballage du cannabis, les habilitations de sécurité et la collecte et communication de renseignements qui sont liés au cannabis ainsi que des règlements soustrayant certaines personnes ou catégories de cannabis à l'application de la loi.&lt;br/&gt;&lt;br/&gt;Le texte modifie aussi la Loi réglementant certaines drogues et autres substances, afin notamment de renforcer les peines maximales applicables à certaines infractions et de permettre au ministre de retenir des experts ou des spécialistes pour le conseiller. Il abroge l'article 1 de l'annexe II de cette loi et prévoit des modifications corrélatives qui découlent de cette abrogation.&lt;br/&gt;&lt;br/&gt;Le texte abroge également la partie XII.1 du Code criminel, qui porte sur la documentation et les instruments pour l'utilisation de drogues illicites, et apporte des modifications corrélatives à cette loi.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur la santé des non-fumeurs afin de prévoir l'interdiction de fumer et de vapoter du cannabis dans des endroits et des moyens de transport réglementés par le gouvernement fédéral.&lt;br/&gt;&lt;br/&gt;Finalement, il apporte des modifications corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by the contacting the Information Service at the Library of Parliament.&lt;br/&gt;&lt;br/&gt;On 13 April 2017, the Minister of Justice and Attorney General of Canada introduced Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (Cannabis Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-45 enacts the Cannabis Act to provide legal access to cannabis and to control and regulate its production, distribution and sale.&lt;br/&gt;&lt;br/&gt;The objectives of the Act are to prevent young persons from accessing cannabis, to protect public health and public safety by establishing strict product safety and product quality requirements and to deter criminal activity by imposing serious criminal penalties for those operating outside the legal framework. The Act is also intended to reduce the burden on the criminal justice system in relation to cannabis.&lt;br/&gt;&lt;br/&gt;The Act&lt;br/&gt;&lt;br/&gt;(a) establishes criminal prohibitions such as the unlawful sale or distribution of cannabis, including its sale or distribution to young persons, and the unlawful possession, production, importation and exportation of cannabis;&lt;br/&gt;(b) enables the Minister to authorize the possession, production, distribution, sale, importation and exportation of cannabis, as well as to suspend, amend or revoke those authorizations when warranted;&lt;br/&gt;(c) authorizes persons to possess, sell or distribute cannabis if they are authorize to sell cannabis under a provincial Act that contains certain legislative measures; &lt;br/&gt;(d) prohibits any promotion, packaging and labelling of cannabis that could be appealing to young persons or encourage its consumption, while allowing consumers to have access to information with which they can make informed decisions about the consumption of cannabis; &lt;br/&gt;(e) provides for inspection powers, the authority to impose administrative monetary penalties and the ability to commence proceedings for certain offences by means of a ticket;&lt;br/&gt;(f) includes mechanisms to deal with seized cannabis and other property;&lt;br/&gt;(g) authorizes the Minister to make orders in relation to matters such as product recalls, the provision of information, the conduct of tests or studies, and the taking of measures to prevent non-compliance with the Act;&lt;br/&gt;(h) permits the establishment of a cannabis tracking system for the purposes of the enforcement and administration of the Act;&lt;br/&gt;(i) authorizes the Minister to fix, by order, fees related to the administration of the Act; and&lt;br/&gt;(j) authorizes the Governor in Council to make regulations respecting such matters as quality, testing, composition, packaging and labelling of cannabis, security clearances and the collection and disclosure of information in respect of cannabis as well as to make regulations exempting certain persons or classes of cannabis from the application of the Act.&lt;br/&gt;&lt;br/&gt;This enactment also amends the Controlled Drugs and Substances Act to, among other things, increase the maximum penalties for certain offences and to authorize the Minister to engage persons having technical or specialized knowledge to provide advice. It repeals item 1 of Schedule II and makes consequential amendments to that Act as the result of that repeal.&lt;br/&gt;&lt;br/&gt;In addition, it repeals Part XII.1 of the Criminal Code, which deals with instruments and literature for illicit drug use, and makes consequential amendments to that Act.&lt;br/&gt;&lt;br/&gt;It amends the Non-smokers' Health Act to prohibit the smoking and vaping of cannabis in federally regulated places and conveyances.&lt;br/&gt;&lt;br/&gt;Finally, it makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2018</StatuteYear>
+    <StatuteChapter>16</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-04-13T12:11:33.227</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>166</Number>
+          <Date>2017-04-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2017-04-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2017-04-13T12:11:33.227</EventStartDateTime>
+          <EventEndDateTime>2017-04-13T12:11:33.227</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-04-13T12:11:33.227</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-08T15:25:15</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+          <StudyActivityId>9603581</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>183</Number>
+          <Date>2017-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>185</Number>
+          <Date>2017-06-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>186</Number>
+          <Date>2017-06-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>188</Number>
+          <Date>2017-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>189</Number>
+          <Date>2017-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>190</Number>
+          <Date>2017-06-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9598140</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8893370</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - HESA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - HESA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - HESA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>312</DivisionNumber>
+          <DivisionVotesYeas>200</DivisionVotesYeas>
+          <DivisionVotesNays>76</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2017-06-08T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>190</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2017-06-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2017-06-08T15:25:15</EventStartDateTime>
+          <EventEndDateTime>2017-06-08T15:25:15</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-08T15:25:15</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9561726</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89494</PersonId>
+          <PersonOfficialFirstName>Jody</PersonOfficialFirstName>
+          <PersonOfficialLastName>Wilson-Raybould</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jody Wilson-Raybould</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>183</MeetingNumber>
+          <SpeechDateTime>2017-05-30T12:31:38</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9562276</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>820</PersonId>
+          <PersonOfficialFirstName>Rob</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nicholson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Rob Nicholson</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>183</MeetingNumber>
+          <SpeechDateTime>2017-05-30T13:02:29</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9562485</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89269</PersonId>
+          <PersonOfficialFirstName>Alistair</PersonOfficialFirstName>
+          <PersonOfficialLastName>MacGregor</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Alistair MacGregor</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>183</MeetingNumber>
+          <SpeechDateTime>2017-05-30T13:31:28</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-10-05T09:26:46.337</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+          <StudyActivityId>9603581</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>213</Number>
+          <Date>2017-10-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>64</Number>
+          <Date>2017-09-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>65</Number>
+          <Date>2017-09-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>66</Number>
+          <Date>2017-09-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>67</Number>
+          <Date>2017-09-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>68</Number>
+          <Date>2017-09-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>69</Number>
+          <Date>2017-09-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>71</Number>
+          <Date>2017-10-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21442</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Health</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la santé</CommitteeNameFr>
+          <CommitteeAcronym>HESA</CommitteeAcronym>
+          <Number>72</Number>
+          <Date>2017-10-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Health</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2017-10-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9123308</CommitteeReportId>
+          <CommitteeReportNumber>12</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-10-05T09:26:46.337</EventStartDateTime>
+          <EventEndDateTime>2017-10-05T09:26:46.337</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-10-05T09:26:46.337</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-21T18:35:48</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>227</Number>
+          <Date>2017-11-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>233</Number>
+          <Date>2017-11-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>235</Number>
+          <Date>2017-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2017-11-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2017-11-21T18:35:48</EventStartDateTime>
+          <EventEndDateTime>2017-11-21T18:35:48</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-21T18:35:48</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-27T19:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>236</Number>
+          <Date>2017-11-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>238</Number>
+          <Date>2017-11-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>239</Number>
+          <Date>2017-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9805116</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8893372</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>405</DivisionNumber>
+          <DivisionVotesYeas>200</DivisionVotesYeas>
+          <DivisionVotesNays>82</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2017-11-27T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>239</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2017-11-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2017-11-27T19:05:00</EventStartDateTime>
+          <EventEndDateTime>2017-11-27T19:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-27T19:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-28T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>162</Number>
+          <Date>2017-11-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2017-11-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2017-11-28T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-11-28T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-28T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-03-22T15:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>164</Number>
+          <Date>2017-11-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>174</Number>
+          <Date>2018-01-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>176</Number>
+          <Date>2018-02-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>178</Number>
+          <Date>2018-02-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>179</Number>
+          <Date>2018-02-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>180</Number>
+          <Date>2018-02-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>181</Number>
+          <Date>2018-02-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>182</Number>
+          <Date>2018-02-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>184</Number>
+          <Date>2018-02-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>186</Number>
+          <Date>2018-03-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>187</Number>
+          <Date>2018-03-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>188</Number>
+          <Date>2018-03-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>189</Number>
+          <Date>2018-03-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2018-03-22T15:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2018-03-22T15:10:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2018-03-22T15:05:00</EventStartDateTime>
+          <EventEndDateTime>2018-03-22T15:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-22T15:10:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>95487</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dean</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Dean</PersonName>
+          <SenateSystemAffiliationId>207804</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>164</MeetingNumber>
+          <SpeechDateTime>2017-11-30T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/164db_2017-11-30-e#42</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/164db_2017-11-30-f#42</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/164db_2017-11-30-e#42</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>91038</PersonId>
+          <PersonOfficialFirstName>André</PersonOfficialFirstName>
+          <PersonOfficialLastName>Pratte</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>André Pratte</PersonName>
+          <SenateSystemAffiliationId>206056</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>174</MeetingNumber>
+          <SpeechDateTime>2018-01-30T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/174db_2018-01-30-e#73</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/174db_2018-01-30-f#73</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/174db_2018-01-30-e#73</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-05-30T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>211</Number>
+          <Date>2018-05-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2018-03-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2018-03-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2018-04-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2018-04-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>93</Number>
+          <Date>2018-04-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>94</Number>
+          <Date>2018-04-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>95</Number>
+          <Date>2018-04-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>96</Number>
+          <Date>2018-04-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>97</Number>
+          <Date>2018-05-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>98</Number>
+          <Date>2018-05-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>99</Number>
+          <Date>2018-05-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>100</Number>
+          <Date>2018-05-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>101</Number>
+          <Date>2018-05-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>102</Number>
+          <Date>2018-05-22T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>103</Number>
+          <Date>2018-05-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>104</Number>
+          <Date>2018-05-24T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>105</Number>
+          <Date>2018-05-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>106</Number>
+          <Date>2018-05-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-05-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-05-30T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-05-30T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-30T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-05-30T02:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>211</Number>
+          <Date>2018-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2018-05-30T02:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2018-05-30T02:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-05-30T02:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-30T02:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>212</Number>
+          <Date>2018-05-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>213</Number>
+          <Date>2018-06-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>214</Number>
+          <Date>2018-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>215</Number>
+          <Date>2018-06-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>216</Number>
+          <Date>2018-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>217</Number>
+          <Date>2018-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-06-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-06-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-06-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>225</Number>
+          <Date>2018-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2018-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2018-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2018-06-07T00:10:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>217</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2018-06-13T23:45:27</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>314</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2018-06-18T11:48:26.053</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>316</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2018-06-18T15:15:50</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>316</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2018-06-18T15:30:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>316</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2018-06-18T19:35:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>222</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2018-06-19T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>223</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in House of Commons amendments</EventNameEn>
+        <EventNameFr>Adoption des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Concurrence in House of Commons amendments</EventName>
+        <Date>2018-06-19T00:10:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>223</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8894959</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9142339</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9282868</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10002040</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>309</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubject>
+      <DivisionVotesYeas>163</DivisionVotesYeas>
+      <DivisionVotesNays>113</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-06-06T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>311</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>77</DivisionVotesYeas>
+      <DivisionVotesNays>199</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-06-08T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>312</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubject>
+      <DivisionVotesYeas>200</DivisionVotesYeas>
+      <DivisionVotesNays>76</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-06-08T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>396</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubject>
+      <DivisionVotesYeas>170</DivisionVotesYeas>
+      <DivisionVotesNays>130</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>300</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>397</DivisionNumber>
+      <DivisionSubjectEn>Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>35</DivisionVotesYeas>
+      <DivisionVotesNays>263</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>298</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>398</DivisionNumber>
+      <DivisionSubjectEn>Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>90</DivisionVotesYeas>
+      <DivisionVotesNays>208</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>298</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>399</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubject>
+      <DivisionVotesYeas>201</DivisionVotesYeas>
+      <DivisionVotesNays>97</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>298</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-11-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>404</DivisionNumber>
+      <DivisionSubjectEn>Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (recommittal to a committee)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois (nouveau renvoi à un comité)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts (recommittal to a committee)</DivisionSubject>
+      <DivisionVotesYeas>83</DivisionVotesYeas>
+      <DivisionVotesNays>199</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-11-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>405</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-45, Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubject>
+      <DivisionVotesYeas>200</DivisionVotesYeas>
+      <DivisionVotesNays>82</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-11-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>868</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-45,Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-45, An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</DivisionSubject>
+      <DivisionVotesYeas>205</DivisionVotesYeas>
+      <DivisionVotesNays>82</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>287</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-18T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-45: An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-45 : Loi concernant le cannabis et modifiant la Loi réglementant certaines drogues et autres substances, le Code criminel et d'autres lois</TitleFr>
+      <Title>Charter Statement - Bill C-45: An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c45.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c45.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c45.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Highlights of the Proposed Regulatory Framework for Cannabis</TitleEn>
+      <TitleFr>Document d'information : grandes lignes du projet de cadre réglementaire sur le cannabis</TitleFr>
+      <Title>Backgrounder: Highlights of the Proposed Regulatory Framework for Cannabis</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2017/11/backgrounder_highlightsoftheproposedregulatoryframeworkforcannab.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2017/11/document_d_informationgrandeslignesduprojetdecadrereglementaires.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2017/11/backgrounder_highlightsoftheproposedregulatoryframeworkforcannab.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed Approach to the Regulation of Cannabis</TitleEn>
+      <TitleFr>Approche proposée en matière de la réglementation du cannabis</TitleFr>
+      <Title>Proposed Approach to the Regulation of Cannabis</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/programs/consultation-proposed-approach-regulation-cannabis/proposed-approach-regulation-cannabis.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/programmes/consultation-approche-proposee-matiere-reglementation-cannabis/approche-proposee-matiere-reglementation-cannabis.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/programs/consultation-proposed-approach-regulation-cannabis/proposed-approach-regulation-cannabis.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Health Canada Launches Public Consultation on Proposed Approach to the Regulation of Cannabis</TitleEn>
+      <TitleFr>Santé Canada lance une consultation publique sur l'approche proposée pour la réglementation du cannabis</TitleFr>
+      <Title>Health Canada Launches Public Consultation on Proposed Approach to the Regulation of Cannabis</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2017/11/health_canada_launchespublicconsultationonproposedapproachtother.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2017/11/sante_canada_lanceuneconsultationpubliquesurlapprocheproposeepou.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2017/11/health_canada_launchespublicconsultationonproposedapproachtother.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Cannabis Act: The Facts</TitleEn>
+      <TitleFr>La Loi sur le cannabis : les faits</TitleFr>
+      <Title>The Cannabis Act: The Facts</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2018/06/backgrounder-the-cannabis-act-the-facts.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2018/06/document-dinformation--la-loi-sur-le-cannabis-les-faits.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2018/06/backgrounder-the-cannabis-act-the-facts.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cannabis Public Education Activities</TitleEn>
+      <TitleFr>Activités de sensibilisation publique sur le cannabis</TitleFr>
+      <Title>Cannabis Public Education Activities</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2018/06/cannabis-public-education-activities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2018/06/activites-de-sensibilisation-publique-sur-le-cannabis.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2018/06/cannabis-public-education-activities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Top 10 Things You Need to Know About Cannabis in Canada</TitleEn>
+      <TitleFr>Dix choses à savoir à propos du cannabis au Canada</TitleFr>
+      <Title>Top 10 Things You Need to Know About Cannabis in Canada</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2018/06/top-10-things-you-need-to-know-about-cannabis-in-canada.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2018/06/dixchoses-a-savoir-a-propos-du-cannabis-au-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2018/06/top-10-things-you-need-to-know-about-cannabis-in-canada.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada legalizes and strictly regulates cannabis</TitleEn>
+      <TitleFr>Le Canada légalise le cannabis et le réglemente de manière stricte</TitleFr>
+      <Title>Canada legalizes and strictly regulates cannabis</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2018/10/canada-legalizes-and-strictly-regulates-cannabis.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2018/10/le-canada-legalise-le-cannabis-et-le-reglemente-de-maniere-stricte.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2018/10/canada-legalizes-and-strictly-regulates-cannabis.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Federal, Provincial and Territorial Roles and Responsibilities</TitleEn>
+      <TitleFr>Rôles et responsabilités fédérales, provinciales et territoriales</TitleFr>
+      <Title>Federal, Provincial and Territorial Roles and Responsibilities</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2018/10/backgrounder-federal-provincial-and-territorial-roles-and-responsibilities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2018/10/document-dinformation--roles-et-responsabilites-federales-provinciales-et-territoriales.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2018/10/backgrounder-federal-provincial-and-territorial-roles-and-responsibilities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada.ca/Cannabis (Government of Canada</TitleEn>
+      <TitleFr>Canada.ca/le-cannabis (Gouvernement du Canada)</TitleFr>
+      <Title>Canada.ca/Cannabis (Government of Canada</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/health/campaigns/cannabis.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/sante/campagnes/cannabis.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/health/campaigns/cannabis.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada takes action to legalize and strictly regulate cannabis</TitleEn>
+      <TitleFr>Le Canada prend des mesures afin de légaliser le cannabis et de le réglementer de manière stricte</TitleFr>
+      <Title>Canada takes action to legalize and strictly regulate cannabis</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2017/04/canada_takes_actiontolegalizeandstrictlyregulatecannabis.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2017/04/le_canada_prend_desmesuresafindelegaliserlecannabisetdeleregleme.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2017/04/canada_takes_actiontolegalizeandstrictlyregulatecannabis.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Legalizing and strictly regulating cannabis: the facts</TitleEn>
+      <TitleFr>Document d'information – La légalisation et la réglementation stricte du cannabis : les faits</TitleFr>
+      <Title>Backgrounder: Legalizing and strictly regulating cannabis: the facts</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2017/04/backgrounder_legalizingandstrictlyregulatingcannabisthefacts.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2017/04/document_d_informationlalegalisationetlareglementationstricteduc.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2017/04/backgrounder_legalizingandstrictlyregulatingcannabisthefacts.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Roles and Responsibilities</TitleEn>
+      <TitleFr>Document d'information : Rôles et responsabilités</TitleFr>
+      <Title>Backgrounder: Roles and Responsibilities</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2017/04/backgrounder_rolesandresponsibilities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2017/04/document_d_informationrolesetresponsabilites.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2017/04/backgrounder_rolesandresponsibilities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Changes to Impaired Driving Laws</TitleEn>
+      <TitleFr>Document d'information : modifications des dispositions législatives concernant la conduite avec facultés affaiblies</TitleFr>
+      <Title>Backgrounder: Changes to Impaired Driving Laws</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/health-canada/news/2017/04/backgrounder_changestoimpaireddrivinglaws.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/sante-canada/nouvelles/2017/04/document_d_informationmodificationsdesdispositionslegislativesco.html</UrlFr>
+      <Url>https://www.canada.ca/en/health-canada/news/2017/04/backgrounder_changestoimpaireddrivinglaws.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Task Force for Cannabis Legalization and Regulation</TitleEn>
+      <TitleFr>Groupe de travail sur la légalisation et la réglementation du cannabis.</TitleFr>
+      <Title>Task Force for Cannabis Legalization and Regulation</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://healthycanadians.gc.ca/task-force-marijuana-groupe-etude/framework-cadre/index-eng.php?_ga=1.258876234.1548253080.1492086805</UrlEn>
+      <UrlFr>http://canadiensensante.gc.ca/task-force-marijuana-groupe-etude/framework-cadre/index-fra.php?_ga=1.258876234.1548253080.1492086805</UrlFr>
+      <Url>http://healthycanadians.gc.ca/task-force-marijuana-groupe-etude/framework-cadre/index-eng.php?_ga=1.258876234.1548253080.1492086805</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3066</BibliographicNoticeId>
+      <Title>The future of legal pot : part 1 : the public health perspective</Title>
+      <Author>Roger Collier</Author>
+      <Publication>CMAJ : Canadian Medical Association journal</Publication>
+      <VolumePage>189(22):E788-E789</VolumePage>
+      <PublicationDate>June 5, 2017</PublicationDate>
+      <Classification>Radar 24356210</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3067</BibliographicNoticeId>
+      <Title>The future of legal pot : part II : the concerns of growers and advocates</Title>
+      <Author>Roger Collier</Author>
+      <Publication>CMAJ : Canadian Medical Association journal</Publication>
+      <VolumePage>189(22):E790-E791</VolumePage>
+      <PublicationDate>June 5, 2017</PublicationDate>
+      <Classification>Radar 24355403</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3068</BibliographicNoticeId>
+      <Title>No logo for cannabis</Title>
+      <Author>Doug Beazley</Author>
+      <Publication>Canadian Bar Association</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 24301937</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3072</BibliographicNoticeId>
+      <Title>Ottawa unveils Charter defence of proposed cannabis legislation</Title>
+      <Author>Cristin Schmitz</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 24381068</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3061</BibliographicNoticeId>
+      <Title>Cannabis legislation fails to protect Canada's youth</Title>
+      <Author>Diane Kelsall</Author>
+      <Publication>CMAJ : Canadian Medical Association journal</Publication>
+      <VolumePage>189(21)</VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 24282420</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>2988</BibliographicNoticeId>
+      <Title>Uruguayan pharmacies will start selling cannabis</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>423(9039):32</VolumePage>
+      <PublicationDate>May 4, 2017</PublicationDate>
+      <Classification>Radar 24051469</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3223</BibliographicNoticeId>
+      <Title>Cannabis, reconciliation, and the rights of Indigenous peoples : prospects and challenges for cannabis legalization in Canada</Title>
+      <Author>Konstantia Koutouki &amp; Katherine Lofts</Author>
+      <Publication>Alberta Law Review</Publication>
+      <VolumePage>56(3):709-728</VolumePage>
+      <PublicationDate>2019</PublicationDate>
+      <Classification>Radar 31579531</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3266</BibliographicNoticeId>
+      <Title>Beyond prohibition: the legalization of cannabis in Canada</Title>
+      <Author>Wesley, Jared J.</Author>
+      <Publication>Canadian Public Administration</Publication>
+      <VolumePage>62 (4):533-548</VolumePage>
+      <PublicationDate>December 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3262</BibliographicNoticeId>
+      <Title>Contesting cannabis : Indigenous jurisdiction and legalization</Title>
+      <Author>Crosby, Andrew</Author>
+      <Publication>Canadian public administration</Publication>
+      <VolumePage>62(4):634-655</VolumePage>
+      <PublicationDate>December 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3268</BibliographicNoticeId>
+      <Title>New highs</Title>
+      <Author>McKeon, Lauren</Author>
+      <Publication>Walrus</Publication>
+      <VolumePage>17 (1) :32-40</VolumePage>
+      <PublicationDate>January/February 2020</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3259</BibliographicNoticeId>
+      <Title>The state must compete : optimal pricing of legal cannabis</Title>
+      <Author>Childs, Jason and Jason Stevens</Author>
+      <Publication>Canadian Public Administration</Publication>
+      <VolumePage>62 (4):656-673</VolumePage>
+      <PublicationDate>December 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3260</BibliographicNoticeId>
+      <Title>Cannabis legalization and the machinery of government</Title>
+      <Author>Wesley, Jared J. and Geoff Salomons</Author>
+      <Publication>Canadian Public Administration</Publication>
+      <VolumePage>62 (4):573-592</VolumePage>
+      <PublicationDate>December 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3285</BibliographicNoticeId>
+      <Title>Jardinage cannabique et fédéralisme : la question du partage des compétences appliquée à l'autorisation de cultiver du cannabis à domicile</Title>
+      <Author>Emmanuelle Léonard-Dufour &amp; Mathieu Devinat</Author>
+      <Publication>Revue de droit (Sherbrooke)</Publication>
+      <VolumePage>Vol.48 (1-2), p.173-196</VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 20200929</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3164</BibliographicNoticeId>
+      <Title>What really happened after Colorado legalized marijuana?</Title>
+      <Author>Lauren Vogel</Author>
+      <Publication>CMAJ : Canadian Medical Association journal</Publication>
+      <VolumePage>190(41):E1237-E1238</VolumePage>
+      <PublicationDate>October 15, 2018</PublicationDate>
+      <Classification>Radar 29515599</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3167</BibliographicNoticeId>
+      <Title>Parents : gare au cannabis qui traîne !</Title>
+      <Author>Marine Corniou</Author>
+      <Publication>Québec science</Publication>
+      <VolumePage>57(3):10</VolumePage>
+      <PublicationDate>Octobre-novembre 2018</PublicationDate>
+      <Classification>Radar 29401779</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3106</BibliographicNoticeId>
+      <Title>Légalisation du cannabis : quel modèle retenir ?</Title>
+      <Author>Philippe Hurteau</Author>
+      <Publication>Institut de recherche et d'informations socioéconomiques</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 25468969</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3097</BibliographicNoticeId>
+      <Title>Lawyer warns cannabis bill [C-45] is constitutionally flawed and harmful</Title>
+      <Author>Cristin Schmitz</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>September 12, 2017</PublicationDate>
+      <Classification>Radar 25242588</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3099</BibliographicNoticeId>
+      <Title>Minors buy e-cigs online with ease : what about pot ?</Title>
+      <Author>Roger Collier</Author>
+      <Publication>CMAJ : Canadian Medical Association Journal</Publication>
+      <VolumePage>189(34):E1103-E1104</VolumePage>
+      <PublicationDate>August 28, 2017</PublicationDate>
+      <Classification>Radar 25129436</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3079</BibliographicNoticeId>
+      <Title>Cannabis : éviter le piège américain</Title>
+      <Author>Richard He´tu</Author>
+      <Publication>Actualité</Publication>
+      <VolumePage>42(11):13-14</VolumePage>
+      <PublicationDate>août 2017</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3080</BibliographicNoticeId>
+      <Title>Why support a separate medical access framework for cannabis?</Title>
+      <Author>Elizabeth A. Cairns and Melanie EM Kelly</Author>
+      <Publication>CMAJ : Canadian Medical Association journal</Publication>
+      <VolumePage>189(28):E927-E928</VolumePage>
+      <PublicationDate>July 17, 2017</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3083</BibliographicNoticeId>
+      <Title>Cannabis : the road to legalization</Title>
+      <Author>Gareth Morley</Author>
+      <Publication>Inroads</Publication>
+      <VolumePage>41:20-24</VolumePage>
+      <PublicationDate>Summer/Fall 2017</PublicationDate>
+      <Classification>Radar 24910694</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3135</BibliographicNoticeId>
+      <Title>Prometheus re-bound : a long-time marijuana activist tries to make sense of Canada's new cannabis capitalism</Title>
+      <Author>John Akpata</Author>
+      <Publication>CCPA monitor</Publication>
+      <VolumePage>24(6):18-24</VolumePage>
+      <PublicationDate>March/April 2018</PublicationDate>
+      <Classification>Radar 27203247</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3126</BibliographicNoticeId>
+      <Title>Measuring Canada's cannabis economy</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>426(9074)</VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 26633657</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3111</BibliographicNoticeId>
+      <Title>Updated: Liberals drop controversial height restriction on homegrown pot plants</Title>
+      <Author>Cristin Schmitz</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 25610106</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3123</BibliographicNoticeId>
+      <Title>Sin tax on cannabis disproportionately hurts medical users</Title>
+      <Author>Beverly Gilbert and David Wood</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 26422075</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3119</BibliographicNoticeId>
+      <Title>Legal cannabis : five things you need to know about "edibles"</Title>
+      <Author>James Munro</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 26361368</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3120</BibliographicNoticeId>
+      <Title>Liberalization of marijuana? : not for foreign nationals trying to enter Canada</Title>
+      <Author>Jacqueline R. Bart and Carrie Wright</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 26297463</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
