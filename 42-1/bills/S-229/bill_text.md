@@ -1,7 +1,5 @@
 # Bill S-229: An Act respecting underground infrastructure safety
 
-**Sponsor**: Mitchell
-
 ## Summary
 
 This enactment creates a federal underground infrastructure notification system that requires, among other things,
@@ -10,7 +8,7 @@ operators of underground infrastructure that is federally regulated or that is l
 
 persons planning to undertake a ground disturbance to make a locate request to the relevant notification centres; and
 
-operators of registered underground infrastructure, as a result of  the locate request, to mark the location of the underground infrastructure on the ground, provide in writing any other accurate and clear description of the location of the underground infrastructure or indicate that the ground disturbance is not likely to cause damage to the underground infrastructure.
+operators of registered underground infrastructure, as a result of  the locate request, to mark the location of the underground infrastructure on the ground, provide in writing an accurate and clear description of the location of the underground infrastructure or indicate that the ground disturbance is not likely to cause damage to the underground infrastructure.
 
 Finally, the enactment also provides a mechanism by which  reserves and some other lands subject to the `Indian Act` can become subject to this notification system, after consultation with the council of any band in question.
 
@@ -176,6 +174,8 @@ an international power line within the meaning of section 2 of the `National Ene
 
 an interprovincial power line, within the meaning of that section, that is the subject of an order made under section 58.4 of that Act. (**ligne de transport d'électricité**)
 
+**province** includes Yukon, the Northwest Territories and Nunavut. (**province**)
+
 **underground infrastructure** means cables, ducts, equipment, pipes, pipelines, power lines, utility lines and vaults that are  buried in the ground and that are located on federal lands or regulated by any of the following statutes:
 
 the `Aeronautics Act`;
@@ -270,11 +270,11 @@ the name of the operator of any registered underground infrastructure in that ar
 
 ### Section 12
 
-  **(1)** Subject to the regulations, the operator of registered underground infrastructure that receives a notification referred to in section 10 must, within the period of time specified in subsection (2),
+  **(1)** Subject to the regulations, the operator of registered underground infrastructure that receives a notification referred to in section 10 must, within the period of time specified in subsection (2), do any of the following:
 
     by using the prescribed colour codes, mark on the ground the location of the underground infrastructure and provide a written description of that location to the person planning to undertake a ground disturbance;
 
-    provide to that person, in writing, any other accurate and clear description of the location of the underground infrastructure that could be damaged by the ground disturbance; or
+    provide to that person, in writing, an accurate and clear description of the location of the underground infrastructure that could be damaged by the ground disturbance;
 
     provide to that person a written confirmation that the ground disturbance is not likely to cause damage to the underground infrastructure.
 
@@ -480,10 +480,6 @@ The `National Energy Board Act` is amended by adding the following after section
 The Board may, with the approval of the Governor in Council, make regulations for the purpose of preventing or reducing the damage referred to in section 12.2.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ### `Telecommunications Act`
 
 ### Section 31
@@ -503,23 +499,13 @@ The `Telecommunications Act` is amended by adding the following after section 46
 
   **(2)** The Commission may order any Canadian carrier or telecommunications service provider to take measures that the Commission considers necessary in order to prevent or respond to the damage or serious risk of damage referred to in subsection (1).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 32
 
 The portion of section 72.001 of the Act before paragraph (a) is replaced by the following:
 
 ### Section 72.001
 
-Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation**, a** decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41,**or an order made by the Commission under subsection 46.6(2),** constitutes a violation and the person who commits the violation is liable
-
-
-> **Explanatory Note**:
-> Existing text of the relevant portion of section 72.001:
-> *Existing Text*:
-> > Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, constitutes a violation and the person who commits the violation is liable
+Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation, a decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, or an order made by the Commission under subsection 46.6(2), constitutes a violation and the person who commits the violation is liable
 
 
 ## Coming into Force
