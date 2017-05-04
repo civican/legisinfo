@@ -1,7 +1,5 @@
 # Bill S-224: An Act respecting payments made under construction contracts
 
-**Sponsor**:  Plett
-
 ## Summary
 
 This enactment enacts the `Canada Prompt Payment Act` to provide for timely payment to contractors under construction contracts with government institutions, and to subcontractors under related subcontracts.
@@ -93,6 +91,11 @@ Referral
 Request
 
 
+## Holdbacks
+
+Holdbacks
+
+
 ## Regulations
 
 Regulations
@@ -157,7 +160,7 @@ any temporary or permanent installation, building, structure or works on real pr
 
 the complete or partial demolition or removal of any installation, building, structure or works on real property or immovables. (**amélioration**)
 
-**milestone** means a portion of construction work that is identified in a construction contract. (**étape**)
+**milestone** means the point in time provided for in a construction contract for the submission of a payment application when a specified portion of the construction work is complete or a specified period of time, greater than one month, is reached. (**étape**)
 
 **payee** means a contractor or subcontractor entitled to receive payment under a construction contract. (**bénéficiaire**)
 
@@ -165,7 +168,7 @@ the complete or partial demolition or removal of any installation, building, str
 
 **payment** includes credit. (**paiement**)
 
-**payment application** means any invoice, bill or other request for payment.  (**demande de paiement**)
+**payment application** means any invoice, bill or other request for payment that meets the requirements for submission and content set out in a construction contract.  (**demande de paiement**)
 
 **payment certifier** means the person identified in a construction contract who is responsible for the issuance of certificates for payment. (**certificateur de paiement**)
 
@@ -207,15 +210,11 @@ No person may contract out of or waive any of the rights, obligations or remedie
 
   **(2)** Where no date for progress payments is provided for in the construction contract, the contractor must submit to the government institution or payment certifier, on the last day of the month, a monthly payment application that sets out a claim for the construction work performed as of that day.
 
-  **(3)** The government institution must pay the contractor on or before the 20th day following the later of
-
-    the last day of the payment period; or
-
-    the receipt of the payment application.
+  **(3)** The government institution must pay the contractor on or before the 20th day following the approval or certification of the contractor's payment application.
 
 ### Section 8
 
-  **(1)** A government institution must make final payment in respect of  construction work to the contractor on the date provided for in and in accordance with the construction contract.
+  **(1)** Where the construction contract provides a date for final payment, a government institution must make final payment in respect of construction work no later than the date provided in the construction contract or the 20th day after the approval or certification of the payment application, whichever is earlier.
 
   **(2)** Where no date for final payment is provided for in the construction contract, the government institution must make final payment to the contractor on or before the later of
 
@@ -232,15 +231,11 @@ No person may contract out of or waive any of the rights, obligations or remedie
 
   **(2)** Where no date for progress payments is provided for in the construction contract,  the subcontractor must submit to the contractor or other subcontractor, on the 25th day of the month, a monthly payment application that sets out a claim for the construction work performed by the subcontractor as of that day.
 
-  **(3)** The contractor must pay the subcontractor or the subcontractor must pay any of its subcontractors on or before the 30th day following the later of
-
-    the last day of the payment period; or
-
-    the receipt of the payment application.
+  **(3)** The contractor must pay the subcontractor or the subcontractor must pay any of its subcontractors on or before the 23rd day following the approval or certification of the subcontractor's payment application.
 
 ### Section 10
 
-  **(1)** A contractor and subcontractor must make final payment in respect of construction work on the date provided for in and in accordance with the construction contract.
+  **(1)** Where the construction contract provides for a date for final payment, a contractor or subcontractor must make final payment in respect of construction work no later than the date provided in the construction contract or the 30th day after the approval or certification of the payment application, whichever is earlier.
 
   **(2)** Where no date for final payment is provided for in the construction contract, the contractor or subcontractor must make final payment on or before the later of
 
@@ -253,7 +248,7 @@ No person may contract out of or waive any of the rights, obligations or remedie
 
 ### Section 11
 
-  **(1)** Any term in respect of a milestone payment in a construction contract between a contractor and subcontractor or a subcontractor and another subcontractor is null and void unless the contract between the government institution and contractor authorizes milestone payments in respect of the improvement.
+  **(1)** Any term in respect of a milestone payment in a construction contract between a contractor and subcontractor or a subcontractor and another subcontractor is null and void unless the contract between the government institution and contractor authorizes milestone payments in respect of the improvement and, in respect of milestones relating to time intervals, milestone payments are provided at intervals no less frequent than the intervals provided in the contract between the government institution and the contractor.
 
   **(2)** Before entering into a construction contract with a subcontractor, a contractor or subcontractor must provide written notice to the subcontractor of any milestone payments relating to the construction work that is to be the subject of the construction contract.
 
@@ -293,7 +288,7 @@ where a construction contract does not provide for progress payments, the value 
 
 ### Section 16
 
-  **(1)** A payment application is deemed approved or certified by the payer or payment certifier on the 10th day after its receipt unless, before that time, the payer or the payment certifier, in a written notice to the payee, disputes the amount in the payment application in whole or in part or requires an amendment to the payment application.
+  **(1)** A payment application is deemed approved or certified by the payer or payment certifier on the 10th day after its receipt when it is submitted by a contractor, or the 20th day after its receipt when it is submitted by a subcontractor, unless, before that time, the payer or the payment certifier, in a written notice to the payee, disputes the amount in the payment application in whole or in part or requires an amendment to the payment application.
 
   **(2)** The notice must set out
 
@@ -316,15 +311,15 @@ where a construction contract does not provide for progress payments, the value 
 
 ### Section 17
 
-  **(1)** Where a payer fails to make payment in accordance with this Act,
+  **(1)** Where a payer fails to make payment in accordance with this Act, the payee may suspend performance of the construction work
 
-    if the payee is a contractor, the payee must immediately  provide written notice of default to the government institution, with a copy of the notice sent to all subcontractors with whom the contractor has entered into a construction contract for that portion of the improvement in respect of which the payer has failed to make payment; or
+    if the payee is a contractor, by immediately providing a written notice of default to the government institution, and sending a copy of the notice to all subcontractors with whom the contractor has entered into a construction contract for that portion of the improvement in respect of which the payer has failed to make payment; or
 
-    if the payee is a subcontractor, the payee must immediately provide written notice of default to the payer, with a copy of the notice sent to the government institution and all subcontractors with whom the subcontractor has entered into a construction contract for that portion of the improvement in respect of which the payer has failed to make payment.
+    if the payee is a subcontractor, by immediately providing a written notice of default to the payer, and sending a copy of the notice to the government institution and all subcontractors with whom the subcontractor has entered into a construction contract for that portion of the improvement in respect of which the payer has failed to make payment.
 
-  **(2)** The payee may suspend performance of construction work seven days after the date of the receipt of the notice of default.
+  **(2)** The payee may suspend performance of construction work if the payer fails to make payment in accordance with a decision of an adjudicator rendered pursuant to section 20 within seven days after the decision is rendered or within such other time period as the adjudicator may order.
 
-  **(3)** Where a payee suspends performance of construction work, the payee may, by written notice to those persons to whom the payee provided notice of default under subsection (1), suspend payment to them.
+  **(3)** Where a payee commences and diligently continues adjudication, the payee may, by written notice to those persons to whom the payee provided notice of default under subsection (1), suspend payment to them.
 
   **(4)** Where a payee complies with subsections (1) to (3), the deadline for payment by the payee under this Act is extended to the earlier of
 
@@ -343,20 +338,20 @@ where a construction contract does not provide for progress payments, the value 
 
 ### Section 18
 
-A payer must pay interest on any amount due at the rate provided for in the construction contract or at the rate prescribed by regulation if the construction contract does not provide for a rate.
+A payer must pay interest on any amount due at the rate provided for in the construction contract or at the rate  prescribed by regulation, whichever is greater.
 
 
 ## Right to Terminate a Construction Contract for Non-Payment
 
 ### Section 19
 
-  **(1)** A payee who is a contractor or subcontractor undertaking construction work may terminate the construction contract for non-payment of amounts due to the payee in accordance with this Act.
+  **(1)** A payee who is a contractor or subcontractor undertaking construction work may terminate the construction contract for non-payment of amounts due to the payee in accordance with a decision of an adjudicator rendered pursuant to section 20.
 
   **(2)** A payee who intends to terminate a construction contract must provide written notice to the payer.
 
-  **(3)** The notice must state that if the payer does not make payment within seven days after receipt of the notice, the payee may terminate the construction contract.
+  **(3)** The notice must state that if the payer does not make payment within 14 days after receipt of the notice, the payee may terminate the construction contract.
 
-  **(4)** A payee may, without affecting  any right of the payee to receive payment under the construction contract, terminate a construction contract if the payer does not make payment within seven days after the receipt of the written notice.
+  **(4)** A payee may, without affecting  any right of the payee to receive payment under the construction contract, terminate a construction contract if the payer does not make payment within 14 days after receipt of the written notice.
 
   **(5)** A termination of a construction contract carried out in accordance with this section does not constitute a breach of the construction contract.
 
@@ -369,19 +364,23 @@ A payer must pay interest on any amount due at the rate provided for in the cons
 
   **(2)** A party who intends to refer a dispute to adjudication must provide a written notice to the other party to the construction contract and to any other persons who must be informed  in accordance with the construction contract.
 
-  **(3)** The  notice must
-
-    identify the matter in dispute and the relief sought; and
-
-    propose a timetable for the adjudication process.
+  **(3)** The  notice must identify the matter in dispute and the relief sought.
 
   **(4)** The adjudicator is to be appointed in accordance with the construction contract or, if the construction contract does not provide for the appointment, with the agreement of the parties or on application to a court of competent jurisdiction.
 
-  **(5)** An adjudicator has the same immunity from liability as a judge of the Federal Court.
+  **(5)** Each party may provide a written submission to the adjudicator respecting the matter under dispute within 10 days of the later of the appointment of the adjudicator or the receipt of the notice by the other party.
 
-  **(6)** A decision of the adjudicator is binding on the parties and is enforceable as a judgment of a court of competent jurisdiction.
+  **(6)** The adjudicator must render a decision within 28 days, or any greater period agreed to by the parties, of the expiry of the period referred to in subsection (5).
 
-  **(7)** The Governor in Council may make regulations respecting dispute resolution, including the manner and procedure of the dispute resolution and the enforcement of a decision by an adjudicator.
+  **(7)** Where the adjudicator does not render a decision within the period referred to in subsection (6), a party may refer the matter to another adjudicator by providing the other party with a notice under subsection (2).
+
+  **(8)** An adjudicator has the same immunity from liability as a judge of the Federal Court.
+
+  **(9)** A decision of the adjudicator is binding on the parties and they must comply with it until such time as the dispute is finally determined by legal proceedings, arbitration or agreement of the parties.
+
+  **(10)** A decision of the adjudicator is enforceable as a judgment of a court of competent jurisdiction.
+
+  **(11)** The Governor in Council may make regulations respecting dispute resolution, including the manner and procedure of the dispute resolution and the enforcement of a decision by an adjudicator.
 
 
 ## Right to Information
@@ -405,16 +404,23 @@ A payer must pay interest on any amount due at the rate provided for in the cons
   **(5)** Upon application by the payee, a court of competent jurisdiction  may, by order, require a payer to comply with subsection (1), (2) or (3) and may make any order as to costs that it considers appropriate.
 
 
-## Regulations
+## Holdbacks
 
 ### Section 22
+
+Despite any other provision of this Act, a construction contract may provide a payer with the right to retain holdbacks provided that the holdbacks in a construction contract between a contractor and a subcontractor or between a subcontractor and another subcontractor do not exceed the holdbacks provided in the construction contract between the government institution and the contractor for the same improvement.
+
+
+## Regulations
+
+### Section 23
 
 The Governor in Council may make regulations for carrying out the purposes and provisions of this Act.
 
 
 ## Coming into Force
 
-### Section 23
+### Section 24
 
 This Act comes into force six months after the day on which it receives royal assent.
 
