@@ -585,7 +585,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** Paragraph 6(1)(f.1) of the `Income Tax Act` is replaced by the following:
 
-    the total of all amounts received by the taxpayer in the year on account of an earnings loss benefit, a supplementary retirement benefit or a career impact allowance payable to the taxpayer under Part 2 of the `Veterans **Well-being** Act`;
+    the total of all amounts received by the taxpayer in the year on account of an earnings loss benefit, a supplementary retirement benefit or a career impact allowance payable to the taxpayer under Part 2 of the `Veterans Well-being Act`;
 
   **(2)** Subsection (1) comes into force on April 1, 2018.
 
@@ -613,7 +613,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** Paragraph 81(1)(d.1) of the Act is replaced by the following:
 
-    the total of all amounts received by the taxpayer in the year on account of a Canadian Forces income support benefit payable to the taxpayer under Part 2 of the `Veterans **Well-being** Act`, on account of a critical injury benefit, disability award, death benefit, clothing allowance or detention benefit payable to the taxpayer under Part 3 of that Act or on account of a family caregiver relief benefit **or a caregiver recognition benefit** payable to the taxpayer under Part 3.1 of that Act;
+    the total of all amounts received by the taxpayer in the year on account of a Canadian Forces income support benefit payable to the taxpayer under Part 2 of the `Veterans Well-being Act`, on account of a critical injury benefit, disability award, death benefit, clothing allowance or detention benefit payable to the taxpayer under Part 3 of that Act or on account of a family caregiver relief benefit or a caregiver recognition benefit payable to the taxpayer under Part 3.1 of that Act;
 
   **(2)** Paragraph 81(1)(d.1) of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -669,39 +669,39 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** Clause (A) of the description of C in subparagraph (a)(ii) of the description of B in subsection 118(1) of the Act is replaced by the following:
 
-    **$2,150** if the spouse or common-law partner is dependent on the individual by reason of mental or physical infirmity, and
+    $2,150 if the spouse or common-law partner is dependent on the individual by reason of mental or physical infirmity, and
 
   **(2)** The portion of clause (A) before subclause (I) of the description of D in subparagraph (b)(iv) of the description of B in subsection 118(1) of the Act is replaced by the following:
 
-    **$2,150** if
+    $2,150 if
 
   **(3)** The portion of paragraph (b.1) before subparagraph (i) of the description of B in subsection 118(1) of the Act is replaced by the following:
 
-    **$2,150** for each child, who is under the age of 18 years at the end of the taxation year, of the individual and who, by reason of mental or physical infirmity, is likely to be, for a long and continuous period of indefinite duration, dependent on others for significantly more assistance in attending to the child's personal needs and care, when compared to children of the same age if
+    $2,150 for each child, who is under the age of 18 years at the end of the taxation year, of the individual and who, by reason of mental or physical infirmity, is likely to be, for a long and continuous period of indefinite duration, dependent on others for significantly more assistance in attending to the child's personal needs and care, when compared to children of the same age if
 
   **(4)** Paragraphs (c.1) to (e) of the description of B in subsection 118(1) of the Act are replaced by the following:
 
-    **for each person who, at any time in the year,**
+    for each person who, at any time in the year,
 
-    **is** dependent on the individual because of mental or physical infirmity, and
+    is dependent on the individual because of mental or physical infirmity, and
 
-    **either**
+    either
 
     is a spouse or common-law partner of the individual, or
 
-    **has** attained the age of 18 years **and is a** dependant of the individual,
+    has attained the age of 18 years and is a dependant of the individual,
 
     the amount determined by the formula
 
     is the amount, if any, by which the dependant's income for the year exceeds $16,163, and
 
-    in the case of an individual entitled to a deduction in respect of a person because of paragraph **(a)** or (b) and who would also be entitled, but for paragraph (4)(c), to a deduction because of paragraph (d) in respect of the person, the amount by which the amount that would be determined under paragraph (d) exceeds the amount determined under paragraph **(a)** or (b), **as the case may be**, in respect of the person.
+    in the case of an individual entitled to a deduction in respect of a person because of paragraph (a) or (b) and who would also be entitled, but for paragraph (4)(c), to a deduction because of paragraph (d) in respect of the person, the amount by which the amount that would be determined under paragraph (d) exceeds the amount determined under paragraph (a) or (b), as the case may be, in respect of the person.
 
   **(5)** Paragraphs 118(4)(c) to (e) of the Act are replaced by the following:
 
-    **if** an individual is entitled to a deduction under subsection (1) because of paragraph **(a)** or (b) of the description of B in subsection (1) for a taxation year in respect of any person, no amount may be deducted because of paragraph (d) of that description by any individual for the year in respect of the person; and
+    if an individual is entitled to a deduction under subsection (1) because of paragraph (a) or (b) of the description of B in subsection (1) for a taxation year in respect of any person, no amount may be deducted because of paragraph (d) of that description by any individual for the year in respect of the person; and
 
-    **if** more than one individual is entitled to a deduction under subsection (1) because of paragraph (d) of the description of B in subsection (1) for a taxation year in respect of the same person,
+    if more than one individual is entitled to a deduction under subsection (1) because of paragraph (d) of the description of B in subsection (1) for a taxation year in respect of the same person,
 
     the total of all amounts so deductible for the year shall not exceed the maximum amount that would be so deductible for the year by any one of those individuals for that person if that individual were the only individual entitled to deduct an amount for the year because of that paragraph for that person, and
 
@@ -709,7 +709,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(6)** The portion of subsection 118(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** For the purposes of **paragraph** (d) of the description of B in subsection (1), **dependant**, of an individual for a taxation year, means a person who at any time in the year is dependent on the individual for support and is
+    **(6)** For the purposes of paragraph (d) of the description of B in subsection (1), **dependant**, of an individual for a taxation year, means a person who at any time in the year is dependent on the individual for support and is
 
   **(7)** Subsections (1) to (6) apply to the 2017 and subsequent taxation years. However, for the 2017 taxation year, subsection 117.1(1) of the Act does not apply in respect of amounts expressed in dollars in
 
@@ -725,7 +725,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** The description of C in the description of B in subsection 118.02(2) of the Act is replaced by the following:
 
-    is the total of all amounts each of which is the portion of the cost of an eligible public transit pass or of an eligible electronic payment card, attributable to the use of public commuter transit services in the taxation year **and before July 2017** by the individual or by a person who is in the taxation year a qualifying relation of the individual, and
+    is the total of all amounts each of which is the portion of the cost of an eligible public transit pass or of an eligible electronic payment card, attributable to the use of public commuter transit services in the taxation year and before July 2017 by the individual or by a person who is in the taxation year a qualifying relation of the individual, and
 
   **(2)** Section 118.02 of the Act, as amended by subsection (1), is repealed.
 
@@ -757,13 +757,13 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** The portion of paragraph 118.3(1)(a.2) of the Act before subparagraph (i) is replaced by the following:
 
-    in the case of an impairment in physical or mental functions the effects of which are such that the individual's ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor, **a nurse practitioner** or, in the case of
+    in the case of an impairment in physical or mental functions the effects of which are such that the individual's ability to perform a single basic activity of daily living is markedly restricted or would be so restricted but for therapy referred to in paragraph (a.1), a medical practitioner has certified in prescribed form that the impairment is a severe and prolonged impairment in physical or mental functions the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted, but for therapy referred to in paragraph (a.1), where the medical practitioner is a medical doctor, a nurse practitioner or, in the case of
 
   **(2)** Subparagraphs 118.3(1)(a.3)(i) and (ii) of the Act are replaced by the following:
 
-    an impairment with respect to the individual's ability in feeding or dressing themself, or in walking, a medical doctor, **a nurse practitioner** or an occupational therapist, and
+    an impairment with respect to the individual's ability in feeding or dressing themself, or in walking, a medical doctor, a nurse practitioner or an occupational therapist, and
 
-    in the case of any other impairment, a medical doctor **or nurse practitioner**,
+    in the case of any other impairment, a medical doctor or nurse practitioner,
 
   **(3)** Clause 118.3(2)(a)(i)(B) of the Act is replaced by the following:
 
@@ -777,7 +777,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** The portion of subsection 118.4(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** For the purposes of sections 63, 64, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, **nurse practitioner**, occupational therapist, optometrist, pharmacist, physiotherapist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+    **(2)** For the purposes of sections 63, 64, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, nurse practitioner, occupational therapist, optometrist, pharmacist, physiotherapist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
 
   **(2)** Subsection (1) is deemed to have come into force on March 22, 2017.
 
@@ -785,7 +785,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** Subparagraph 118.5(1)(a)(ii.1) of the Act is replaced by the following:
 
-    are paid to an educational institution described in subparagraph (i) in respect of courses that are not at the post-secondary school level, **if**
+    are paid to an educational institution described in subparagraph (i) in respect of courses that are not at the post-secondary school level, if
 
     the individual had not attained the age of 16 years before the end of the year, or
 
@@ -803,7 +803,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(2)** The portion of paragraph (c) of the definition **qualifying student** in subsection 118.6(1) of the Act before subparagraph (i) is replaced by the following:
 
-    in the case of an individual who is enrolled in a program (**other than a program at the post-secondary school level**) at a designated educational institution described in subparagraph **(a)(i)** of the definition designated educational institution **or who is enrolled in a program at a designated educational institution described in subparagraph** (a)(ii) **of that definition**,
+    in the case of an individual who is enrolled in a program (other than a program at the post-secondary school level) at a designated educational institution described in subparagraph (a)(i) of the definition designated educational institution or who is enrolled in a program at a designated educational institution described in subparagraph (a)(ii) of that definition,
 
   **(3)** The definition **qualifying student** in subsection 118.6(1) of the Act is amended by striking out "and" at the end of paragraph (b), by adding "and" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -861,7 +861,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(4)** The portion of subsection 127(8) of the Act before paragraph (a) is replaced by the following:
 
-    **(8)** Subject to **subsection** (28), where, in a particular taxation year of a taxpayer who is a member of a partnership, an amount would be determined in respect of the partnership, for its taxation year that ends in the particular taxation year, under paragraph (a), (a.1), (a.4), (b) or (e.1) of the definition investment tax credit in subsection (9), if
+    **(8)** Subject to subsection (28), where, in a particular taxation year of a taxpayer who is a member of a partnership, an amount would be determined in respect of the partnership, for its taxation year that ends in the particular taxation year, under paragraph (a), (a.1), (a.4), (b) or (e.1) of the definition investment tax credit in subsection (9), if
 
   **(5)** Subparagraph 127(8.2)(b)(i) of the Act is amended by adding "or" at the end of clause (A.1) and by repealing clause (A.2).
 
@@ -873,13 +873,13 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(8)** Paragraph (a) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act is replaced by the following:
 
-    that is a Canadian exploration expense incurred by a corporation after March **2017** and before **2019** (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before **2019**) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition mineral resource in subsection 248(1),
+    that is a Canadian exploration expense incurred by a corporation after March 2017 and before 2019 (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before 2019) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition mineral resource in subsection 248(1),
 
   **(9)** Paragraphs (c) and (d) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act are replaced by the following:
 
-    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March **2017** and before April **2018**, and
+    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March 2017 and before April 2018, and
 
-    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March **2017** and before April **2018**; (**dépense minière déterminée**)
+    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March 2017 and before April 2018; (**dépense minière déterminée**)
 
   **(10)** Paragraph (a.5) of the definition **investment tax credit** in subsection 127(9) of the Act is repealed.
 
@@ -931,9 +931,9 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
 ### Section 182
 
-      **(1)** Every corporation shall pay a tax under this Part for the corporation's taxation year equal to **the amount determined by the formula**
+      **(1)** Every corporation shall pay a tax under this Part for the corporation's taxation year equal to the amount determined by the formula
 
-        **is the corporation's** Part I tax on tobacco manufacturing profits for the year;
+        is the corporation's Part I tax on tobacco manufacturing profits for the year;
 
         is the number of days in the year that are before March 23, 2017; and
 
@@ -961,7 +961,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
   **(1)** Subparagraph 241(4)(d)(viii) of the Act is replaced by the following:
 
-    to an official of the Department of Veterans Affairs solely for the purposes of the administration of the `War Veterans Allowance Act`, the `Veterans **Well-being** Act` or Part XI of the `Civilian War-related Benefits Act`,
+    to an official of the Department of Veterans Affairs solely for the purposes of the administration of the `War Veterans Allowance Act`, the `Veterans Well-being Act` or Part XI of the `Civilian War-related Benefits Act`,
 
   **(2)** Subsection (1) comes into force on April 1, 2018.
 
@@ -972,7 +972,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 1`.
 
 Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by the following:
 
-**(9)** Subsections (2) to (5) come into force on July 1, **2018**.
+**(9)** Subsections (2) to (5) come into force on July 1, 2018.
 
 
 ### Income Tax Regulations
@@ -1083,7 +1083,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
     **taxi business** means
 
-    a business carried on in Canada of transporting passengers by taxi **or other similar vehicle** for fares that are regulated under the laws of Canada or a province, **or**
+    a business carried on in Canada of transporting passengers by taxi or other similar vehicle for fares that are regulated under the laws of Canada or a province, or
 
     a business carried on in Canada by a person of transporting passengers for fares by motor vehicle — being a vehicle that would be an automobile, as defined in subsection 248(1) of the `Income Tax Act`, if that definition were read without reference to "a motor vehicle acquired primarily for use as a taxi," in its paragraph (c) and without reference to its paragraph (e) — within a particular municipality and its environs if the transportation is arranged or coordinated through an electronic platform or system, other than
 
@@ -1095,7 +1095,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(2)** The portion of the definition **short-term accommodation** in subsection 123(1) of the Act before paragraph (a) is replaced by the following:
 
-    **short-term accommodation** means a residential complex or a residential unit that is supplied to a recipient by way of lease, licence or similar arrangement for the purpose of its occupancy by an individual as a place of residence or lodging, **if** the period throughout which the individual is given continuous occupancy of the complex or unit is less than one month and, for the purposes of **section** 252.4,
+    **short-term accommodation** means a residential complex or a residential unit that is supplied to a recipient by way of lease, licence or similar arrangement for the purpose of its occupancy by an individual as a place of residence or lodging, if the period throughout which the individual is given continuous occupancy of the complex or unit is less than one month and, for the purposes of section 252.4,
 
   **(3)** Subsection (1) comes into force or is deemed to have come into force on July 1, 2017.
 
@@ -1105,7 +1105,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(1)** The portion of subsection 234(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **If**, in the circumstances described in subsection 252(3) or 252.4(2) or (4), a registrant pays to, or credits in favour of, a person an amount on account of a rebate referred to therein, the registrant may deduct the amount in determining the net tax of the registrant for
+    **(2)** If, in the circumstances described in subsection 252(3) or 252.4(2) or (4), a registrant pays to, or credits in favour of, a person an amount on account of a rebate referred to therein, the registrant may deduct the amount in determining the net tax of the registrant for
 
   **(2)** The portion of subsection 234(2.1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1161,7 +1161,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
 ### Section 252.5
 
-    **If**, under section 252 or 252.4, a registrant at a particular time pays to, or credits in favour of, a person an amount on account of a rebate and
+    If, under section 252 or 252.4, a registrant at a particular time pays to, or credits in favour of, a person an amount on account of a rebate and
 
   **(2)** Subsection (1) comes into force on January 1, 2018 but does not apply in respect of any rebate under section 252.1 of the Act in respect of a supply made before that day.
 
@@ -1233,63 +1233,63 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(1)** Parts II and II.1 of the schedule to the Act are replaced by the following:
 
-    Per hectolitre **of** beer or malt liquor containing more than 2.5% absolute ethyl alcohol by volume,
+    Per hectolitre of beer or malt liquor containing more than 2.5% absolute ethyl alcohol by volume,
 
     $31.84; or
 
     if the rate referred to in paragraph (a) has been adjusted under subsection 170.2(2), the adjusted rate.
 
-    Per hectolitre **of** beer or malt liquor containing more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume,
+    Per hectolitre of beer or malt liquor containing more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume,
 
     $15.92; or
 
     if the rate referred to in paragraph (a) has been adjusted under subsection 170.2(2), the adjusted rate.
 
-    Per hectolitre **of** beer or malt liquor containing not more than 1.2% absolute ethyl alcohol by volume,
+    Per hectolitre of beer or malt liquor containing not more than 1.2% absolute ethyl alcohol by volume,
 
     $2.643; or
 
     if the rate referred to in paragraph (a) has been adjusted under subsection 170.2(2), the adjusted rate.
 
-    Per **hectolitre of** the first 2 000 hectolitres of beer and malt liquor brewed in Canada,
+    Per hectolitre of the first 2 000 hectolitres of beer and malt liquor brewed in Canada,
 
-    if it contains more than 2.5% absolute ethyl alcohol by volume, **10% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 1 of Part II**;
+    if it contains more than 2.5% absolute ethyl alcohol by volume, 10% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
-    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, **10% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 2 of Part II**; and
+    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 10% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
-    if it contains not more than 1.2% absolute ethyl alcohol by volume, **10% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 3 of Part II**.
+    if it contains not more than 1.2% absolute ethyl alcohol by volume, 10% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
-    Per **hectolitre of** the next 3 000 hectolitres of beer and malt liquor brewed in Canada,
+    Per hectolitre of the next 3 000 hectolitres of beer and malt liquor brewed in Canada,
 
-    if it contains more than 2.5% absolute ethyl alcohol by volume, **20% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 1 of Part II**;
+    if it contains more than 2.5% absolute ethyl alcohol by volume, 20% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
-    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, **20% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 2 of Part II**; and
+    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 20% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
-    if it contains not more than 1.2% absolute ethyl alcohol by volume, **20% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 3 of Part II**.
+    if it contains not more than 1.2% absolute ethyl alcohol by volume, 20% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
-    Per **hectolitre of** the next 10 000 hectolitres of beer and malt liquor brewed in Canada,
+    Per hectolitre of the next 10 000 hectolitres of beer and malt liquor brewed in Canada,
 
-    if it contains more than 2.5% absolute ethyl alcohol by volume, **40% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 1 of Part II**;
+    if it contains more than 2.5% absolute ethyl alcohol by volume, 40% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
-    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, **40% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 2 of Part II**; and
+    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 40% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
-    if it contains not more than 1.2% absolute ethyl alcohol by volume, **40% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 3 of Part II**.
+    if it contains not more than 1.2% absolute ethyl alcohol by volume, 40% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
-    Per **hectolitre of** the next 35 000 hectolitres of beer and malt liquor brewed in Canada,
+    Per hectolitre of the next 35 000 hectolitres of beer and malt liquor brewed in Canada,
 
-    if it contains more than 2.5% absolute ethyl alcohol by volume, **70% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 1 of Part II**;
+    if it contains more than 2.5% absolute ethyl alcohol by volume, 70% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
-    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, **70% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 2 of Part II**; and
+    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 70% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
-    if it contains not more than 1.2% absolute ethyl alcohol by volume, **70% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 3 of Part II**.
+    if it contains not more than 1.2% absolute ethyl alcohol by volume, 70% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
-    Per **hectolitre of** the next 25 000 hectolitres of beer and malt liquor brewed in Canada,
+    Per hectolitre of the next 25 000 hectolitres of beer and malt liquor brewed in Canada,
 
-    if it contains more than 2.5% absolute ethyl alcohol by volume, **85% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 1 of Part II**;
+    if it contains more than 2.5% absolute ethyl alcohol by volume, 85% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 1 of Part II;
 
-    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, **85% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 2 of Part II**; and
+    if it contains more than 1.2% absolute ethyl alcohol by volume but not more than 2.5% absolute ethyl alcohol by volume, 85% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 2 of Part II; and
 
-    if it contains not more than 1.2% absolute ethyl alcohol by volume, **85% of the rate of duty applicable to a** hectolitre **of beer or malt liquor under section 3 of Part II**.
+    if it contains not more than 1.2% absolute ethyl alcohol by volume, 85% of the rate of duty applicable to a hectolitre of beer or malt liquor under section 3 of Part II.
 
     The rates determined under section 5 are to be rounded
 
@@ -1310,7 +1310,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(2)** The portion of the definition **taxed cigarettes** in section 58.1 of the Act before paragraph (a) is replaced by the following:
 
-    **taxed cigarettes** of a person means cigarettes in respect of which duty has been imposed under section 42 before **March 23, 2017** at the rate set out in paragraph 1(**a**) of Schedule 1, as **it** read on **March 22, 2017**, and that, at the beginning of **March 23, 2017**,
+    **taxed cigarettes** of a person means cigarettes in respect of which duty has been imposed under section 42 before March 23, 2017 at the rate set out in paragraph 1(a) of Schedule 1, as it read on March 22, 2017, and that, at the beginning of March 23, 2017,
 
   **(3)** The portion of the definition **taxed cigarettes** in section 58.1 of the Act before paragraph (a), as enacted by subsection (2), is replaced by the following:
 
@@ -1326,7 +1326,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
 ### Section 58.2
 
-      **(1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of **March 23, 2017** at the rate of $**0.00265** per cigarette.
+      **(1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of March 23, 2017 at the rate of $0.00265 per cigarette.
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1334,7 +1334,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(1)** Paragraph 58.5(1)(a) of the Act is replaced by the following:
 
-    in the case of the tax imposed under subsection 58.2(1), **May 31, 2017**; or
+    in the case of the tax imposed under subsection 58.2(1), May 31, 2017; or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1342,7 +1342,7 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(1)** Paragraph 58.6(1)(a) of the Act is replaced by the following:
 
-    in the case of the tax imposed under subsection 58.2(1), **May 31, 2017**; or
+    in the case of the tax imposed under subsection 58.2(1), May 31, 2017; or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1430,27 +1430,27 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(1)** Subparagraphs 216(2)(a)(i) to (iv) of the Act are replaced by the following:
 
-    $**0.22** multiplied by the number of cigarettes to which the offence relates,
+    $0.22 multiplied by the number of cigarettes to which the offence relates,
 
-    $**0.22** multiplied by the number of tobacco sticks to which the offence relates,
+    $0.22 multiplied by the number of tobacco sticks to which the offence relates,
 
-    $**0.27** multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+    $0.27 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 
-    $**0.42** multiplied by the number of cigars to which the offence relates, and
+    $0.42 multiplied by the number of cigars to which the offence relates, and
 
   **(2)** Subparagraphs 216(3)(a)(iii) and (iv) of the Act are replaced by the following:
 
-    $**0.40** multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+    $0.40 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 
-    $**0.84** multiplied by the number of cigars to which the offence relates, and
+    $0.84 multiplied by the number of cigars to which the offence relates, and
 
 ### Section 52
 
   **(1)** Subparagraphs 217(2)(a)(i) and (ii) of the Act are replaced by the following:
 
-    $**11.930** multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
+    $11.930 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
 
-    $**0.63** multiplied by the number of litres of wine to which the offence relates, and
+    $0.63 multiplied by the number of litres of wine to which the offence relates, and
 
   **(2)** Subparagraphs 217(2)(a)(i) and (ii) of the Act, as enacted by subsection (1), are replaced by the following:
 
@@ -1460,9 +1460,9 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(3)** Subparagraphs 217(3)(a)(i) and (ii) of the Act are replaced by the following:
 
-    $**23.860** multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
+    $23.860 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
 
-    $**1.26** multiplied by the number of litres of wine to which the offence relates, and
+    $1.26 multiplied by the number of litres of wine to which the offence relates, and
 
   **(4)** Subparagraphs 217(3)(a)(i) and (ii) of the Act, as enacted by subsection (3), are replaced by the following:
 
@@ -1476,9 +1476,9 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(1)** Subparagraphs 218(2)(a)(i) and (ii) of the Act are replaced by the following:
 
-    $**23.860** multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
+    $23.860 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
 
-    $**1.26** multiplied by the number of litres of wine to which the offence relates, and
+    $1.26 multiplied by the number of litres of wine to which the offence relates, and
 
   **(2)** Subparagraphs 218(2)(a)(i) and (ii) of the Act, as enacted by subsection (1), are replaced by the following:
 
@@ -1488,9 +1488,9 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
   **(3)** Subparagraphs 218(3)(a)(i) and (ii) of the Act are replaced by the following:
 
-    $**35.790** multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
+    $35.790 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
 
-    $**1.89** multiplied by the number of litres of wine to which the offence relates, and
+    $1.89 multiplied by the number of litres of wine to which the offence relates, and
 
   **(4)** Subparagraphs 218(3)(a)(i) and (ii) of the Act, as enacted by subsection (3), are replaced by the following:
 
@@ -1504,11 +1504,11 @@ Subsection 29(9) of the `Budget Implementation Act, 2016, No. 1` is replaced by 
 
 Paragraphs 240(a) to (c) of the Act are replaced by the following:
 
-$**0.41** per cigarette that was removed in contravention of that subsection,
+$0.41 per cigarette that was removed in contravention of that subsection,
 
-$**0.41** per tobacco stick that was removed in contravention of that subsection, and
+$0.41 per tobacco stick that was removed in contravention of that subsection, and
 
-$**508.81** per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+$508.81 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
 
 ### Section 55
 
@@ -1516,7 +1516,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
 ### Section 242
 
-    Every person who contravenes section 72 is liable to a penalty equal to $**1.26** per litre of wine to which the contravention relates.
+    Every person who contravenes section 72 is liable to a penalty equal to $1.26 per litre of wine to which the contravention relates.
 
   **(2)** Section 242 of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -1530,7 +1530,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 243(1)(b) of the Act is replaced by the following:
 
-    if the contravention relates to wine, $**1.26** per litre of that wine.
+    if the contravention relates to wine, $1.26 per litre of that wine.
 
   **(2)** Paragraph 243(1)(b) of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -1538,7 +1538,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(3)** Paragraph 243(2)(b) of the Act is replaced by the following:
 
-    if the contravention relates to wine, $**0.63** per litre of that wine.
+    if the contravention relates to wine, $0.63 per litre of that wine.
 
   **(4)** Paragraph 243(2)(b) of the Act, as enacted by subsection (3), is replaced by the following:
 
@@ -1550,7 +1550,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 243.1(b) of the Act is replaced by the following:
 
-    if the contravention relates to wine, $**0.63** per litre of that wine.
+    if the contravention relates to wine, $0.63 per litre of that wine.
 
   **(2)** Paragraph 243.1(b) of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -1562,7 +1562,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 1(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**0.53900**; or
+    $0.53900; or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1570,7 +1570,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 2(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**0.10780**; or
+    $0.10780; or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1578,7 +1578,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 3(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**6.73750**; or
+    $6.73750; or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1586,7 +1586,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 4(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**23.46235**; or
+    $23.46235; or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1594,7 +1594,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Subparagraph (a)(i) of Schedule 2 to the Act is replaced by the following:
 
-    $**0.08434**, or
+    $0.08434, or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1602,7 +1602,7 @@ $**508.81** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Subparagraph (b)(i) of Schedule 2 to the Act is replaced by the following:
 
-    if the rate referred to in subparagraph (a)(i) has not been adjusted under subsection 43.1(2), **84**%, or
+    if the rate referred to in subparagraph (a)(i) has not been adjusted under subsection 43.1(2), 84%, or
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -1691,9 +1691,9 @@ For the purposes of applying the provisions of the `Customs Act` and the `Excise
 
   **(2)** Paragraphs (a) and (b) of the definition **order or finding** in subsection 2(1) of the Act is replaced by the following:
 
-    means an order or finding made by the Tribunal under section 43 or 44 that has not been rescinded under any of sections 76.01 to 76.1 and subsection 91(3) but, if the order or finding has been amended one or more times under any of **section `75.3`, subsections `75.4`(8) and `75.6`(7) and** sections 76.01 to 76.1, as **it was** last amended, and
+    means an order or finding made by the Tribunal under section 43 or 44 that has not been rescinded under any of sections 76.01 to 76.1 and subsection 91(3) but, if the order or finding has been amended one or more times under any of section `75.3`, subsections `75.4`(8) and `75.6`(7) and sections 76.01 to 76.1, as it was last amended, and
 
-    includes, for the purposes of sections 3 to 6 and 76 to 76.1, an order or finding made by the Tribunal under subsection 91(3) that has not been rescinded under any of sections 76.01 to 76.1 but, if the order or finding has been amended one or more times under any of **section `75.3`, subsections `75.4`(8) and `75.6`(7) and** sections 76.01 to 76.1, as **it was** last amended; (**ordonnance ou conclusions**)
+    includes, for the purposes of sections 3 to 6 and 76 to 76.1, an order or finding made by the Tribunal under subsection 91(3) that has not been rescinded under any of sections 76.01 to 76.1 but, if the order or finding has been amended one or more times under any of section `75.3`, subsections `75.4`(8) and `75.6`(7) and sections 76.01 to 76.1, as it was last amended; (**ordonnance ou conclusions**)
 
   **(3)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -1719,7 +1719,7 @@ Section 3 of the Act is amended by adding the following after subsection (1):
 
 Paragraph 6(c) of the Act is replaced by the following:
 
-in respect of which the President has made a specification **under** clause 41(1)**(b)(ii)**(C),
+in respect of which the President has made a specification under clause 41(1)(b)(ii)(C),
 
 ### Section 71
 
@@ -1727,7 +1727,7 @@ The portion of subsection 9.2(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 9.2
 
-  **(1)** **If** duty is leviable, collectable and payable (in this section referred to as "payable") under this Act **under** an order or finding of the Tribunal on goods imported into Canada, and proceedings are commenced in the Federal Court of Appeal by an application under section 96.1 to review and set aside the final determination of the President under paragraph 41(1)(**b**) on which the order or finding is based, duty continues, **despite** any order or decision that may be made or given in the course of the proceedings, to be so payable **under** the order or finding on imported goods of the same description as those goods during the course of the proceedings and after they are finally disposed of, unless the final disposition of the proceedings results in the final determination being set aside or being set aside in relation to particular goods, or the President recommencing the investigation and terminating it under paragraph 41(1)(**a**), in which case
+  **(1)** If duty is leviable, collectable and payable (in this section referred to as "payable") under this Act under an order or finding of the Tribunal on goods imported into Canada, and proceedings are commenced in the Federal Court of Appeal by an application under section 96.1 to review and set aside the final determination of the President under paragraph 41(1)(b) on which the order or finding is based, duty continues, despite any order or decision that may be made or given in the course of the proceedings, to be so payable under the order or finding on imported goods of the same description as those goods during the course of the proceedings and after they are finally disposed of, unless the final disposition of the proceedings results in the final determination being set aside or being set aside in relation to particular goods, or the President recommencing the investigation and terminating it under paragraph 41(1)(a), in which case
 
 ### Section 72
 
@@ -1735,7 +1735,7 @@ The portion of subsection 9.21(1) of the Act before paragraph (a) is replaced by
 
 ### Section 9.21
 
-  **(1)** **If** duty is leviable, collectable and payable (in this section referred to as "payable") under this Act **under** an order or finding of the Tribunal on goods of a NAFTA country imported into Canada, and a review is requested under Part I.1 of the final determination of the President under paragraph 41(1)(**b**) on which the order or finding is based, duty continues, **despite** any order or decision that may be made or given in the course of proceedings under that Part, to be so payable **under** the order or finding on imported goods of the same description as those goods during the course of the proceedings and after they are finally disposed of, unless the final disposition of the proceedings results in the President recommencing the investigation and terminating it under paragraph 41(1)(**a**), in which case
+  **(1)** If duty is leviable, collectable and payable (in this section referred to as "payable") under this Act under an order or finding of the Tribunal on goods of a NAFTA country imported into Canada, and a review is requested under Part I.1 of the final determination of the President under paragraph 41(1)(b) on which the order or finding is based, duty continues, despite any order or decision that may be made or given in the course of proceedings under that Part, to be so payable under the order or finding on imported goods of the same description as those goods during the course of the proceedings and after they are finally disposed of, unless the final disposition of the proceedings results in the President recommencing the investigation and terminating it under paragraph 41(1)(a), in which case
 
 ### Section 73
 
@@ -1743,7 +1743,7 @@ The portion of section 9.3 of the Act before paragraph (a) is replaced by the fo
 
 ### Section 9.3
 
-**If** duty is leviable, collectable and payable (in this section referred to as "payable") under this Act **under** an order or finding of the Tribunal on goods of the United States imported into Canada, and a review is requested under Part II of the final determination of the President under paragraph 41(1)(**b**) on which the order or finding is based, duty continues, **despite** any order or decision that may be made or given in the course of proceedings under that Part, to be so payable **under** the order or finding on imported goods of the same description as those goods during the course of the proceedings and after they are finally disposed of, unless the final disposition of the proceedings results in the President recommencing the investigation and terminating it under paragraph 41(1)(**a**), in which case
+If duty is leviable, collectable and payable (in this section referred to as "payable") under this Act under an order or finding of the Tribunal on goods of the United States imported into Canada, and a review is requested under Part II of the final determination of the President under paragraph 41(1)(b) on which the order or finding is based, duty continues, despite any order or decision that may be made or given in the course of proceedings under that Part, to be so payable under the order or finding on imported goods of the same description as those goods during the course of the proceedings and after they are finally disposed of, unless the final disposition of the proceedings results in the President recommencing the investigation and terminating it under paragraph 41(1)(a), in which case
 
 ### Section 74
 
@@ -1751,15 +1751,15 @@ The portion of section 9.3 of the Act before paragraph (a) is replaced by the fo
 
 ### Section 13.2
 
-      **(1)** An exporter to Canada or producer of any goods to which an order or finding referred to in **subsection** 3**(1)** applies may request that the President review the normal value, export price or amount of subsidy in relation to those goods if the exporter or producer
+      **(1)** An exporter to Canada or producer of any goods to which an order or finding referred to in subsection 3(1) applies may request that the President review the normal value, export price or amount of subsidy in relation to those goods if the exporter or producer
 
   **(2)** Subsections 13.2(2) and (3) of the Act are replaced by the following:
 
     **(1.1)** An exporter to Canada of any goods to which an order or finding referred to in subsection 3(1.1) or (1.2) applies may request that the President review the normal value, export price or amount of subsidy in relation to those goods if the exporter has not been requested to provide information in relation to those goods, or in relation to any goods that are of the same description as those goods for the purposes of this Act, for the purposes of determining their normal value, export price or amount of subsidy.
 
-    **(2)** A request under subsection (1) **or (1.1)** shall be made in the prescribed manner and form and shall contain the prescribed information.
+    **(2)** A request under subsection (1) or (1.1) shall be made in the prescribed manner and form and shall contain the prescribed information.
 
-    **(3)** **If** the President receives a request under subsection (1), the President shall initiate a review, on an expedited basis, of the normal value, export price or amount of subsidy, as the case may be, and shall, on completion of the review, either confirm or amend the value, price or amount.
+    **(3)** If the President receives a request under subsection (1), the President shall initiate a review, on an expedited basis, of the normal value, export price or amount of subsidy, as the case may be, and shall, on completion of the review, either confirm or amend the value, price or amount.
 
     **(3.1)** If the President receives a request under subsection (1.1), the President shall initiate a review of the normal value, export price or amount of subsidy in respect of goods to which an order or finding referred to in subsection 3(1.1) or (1.2) applies, as the case may be.
 
@@ -1783,15 +1783,15 @@ The portion of subsection 35(1) of the Act before paragraph (b) is replaced by t
 
 ### Section 35
 
-  **(1)** The President shall act under subsection (2) and the Tribunal shall act under subsection (3) if, at any time before the President makes a preliminary determination under subsection 38(1) in respect of goods **that are the subject of the investigation**,
+  **(1)** The President shall act under subsection (2) and the Tribunal shall act under subsection (3) if, at any time before the President makes a preliminary determination under subsection 38(1) in respect of goods that are the subject of the investigation,
 
-    the President is satisfied in respect of some or all of those goods that the actual and potential volume of goods **of a country or countries** is negligible; or
+    the President is satisfied in respect of some or all of those goods that the actual and potential volume of goods of a country or countries is negligible; or
 
 ### Section 78
 
 Subsection 38(1.1) of the Act is replaced by the following:
 
-**(1.1)** The President may in making a preliminary determination under subsection (1), using the information available to him or her at that time, make the determination that the margin of dumping of, or the amount of subsidy on, **any** goods **of a particular exporter** is insignificant.
+**(1.1)** The President may in making a preliminary determination under subsection (1), using the information available to him or her at that time, make the determination that the margin of dumping of, or the amount of subsidy on, any goods of a particular exporter is insignificant.
 
 ### Section 79
 
@@ -1803,7 +1803,7 @@ Subsections 41(1) and (2) of the Act are replaced by the following:
 
     terminate the investigation in respect of any goods of a particular exporter if, on the available evidence, the President is satisfied that there has been no dumping or subsidizing of the goods or that the margin of dumping of, or amount of subsidy on, those goods is insignificant; and
 
-    make a final determination of dumping or subsidizing **in** respect **of** the goods **that are the subject of the investigation and for which the investigation has not been terminated under paragraph (a) if, on the available evidence, the President is satisfied that there has been dumping or subsidizing and the President shall specify**, in relation to each exporter of goods in respect of which the investigation is made, as follows:
+    make a final determination of dumping or subsidizing in respect of the goods that are the subject of the investigation and for which the investigation has not been terminated under paragraph (a) if, on the available evidence, the President is satisfied that there has been dumping or subsidizing and the President shall specify, in relation to each exporter of goods in respect of which the investigation is made, as follows:
 
     in the case of dumped goods, the goods to which the determination applies and the margin of dumping of the goods, and
 
@@ -1813,9 +1813,9 @@ Subsections 41(1) and (2) of the Act are replaced by the following:
 
     the amount of subsidy on the goods, and
 
-    subject to subsection (2), **if** the whole or any part of the subsidy on the goods is a prohibited subsidy, the amount of the prohibited subsidy on the goods.
+    subject to subsection (2), if the whole or any part of the subsidy on the goods is a prohibited subsidy, the amount of the prohibited subsidy on the goods.
 
-  **(2)** The President shall not specify anything under clause (1)**(b)(ii)**(C) if the President is of the opinion that, having regard to the country that is providing the export subsidy, the nature of the goods and the circumstances under which the export subsidy is provided, provision of the export subsidy in relation to those goods is not inconsistent with that country's obligations under the international agreement known as the General Agreement on Tariffs and Trade, 1994.
+  **(2)** The President shall not specify anything under clause (1)(b)(ii)(C) if the President is of the opinion that, having regard to the country that is providing the export subsidy, the nature of the goods and the circumstances under which the export subsidy is provided, provision of the export subsidy in relation to those goods is not inconsistent with that country's obligations under the international agreement known as the General Agreement on Tariffs and Trade, 1994.
 
 ### Section 80
 
@@ -1823,17 +1823,17 @@ Subsections 41(1) and (2) of the Act are replaced by the following:
 
 ### Section 41.1
 
-      **(1)** **If** a decision under paragraph 41(1)(**a**) or a final determination under paragraph 41(1)(**b**) is set aside and the matter referred back to the President on an application under section 96.1, the President shall
+      **(1)** If a decision under paragraph 41(1)(a) or a final determination under paragraph 41(1)(b) is set aside and the matter referred back to the President on an application under section 96.1, the President shall
 
   **(2)** The portion of subsection 41.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **If** a decision under paragraph 41(1)(**a**) or a final determination under paragraph 41(1)(**b**) is referred back to the President under subsection 77.015(3) or (4), 77.019(5), 77.15(3) or (4) or 77.19(4), the President shall
+    **(2)** If a decision under paragraph 41(1)(a) or a final determination under paragraph 41(1)(b) is referred back to the President under subsection 77.015(3) or (4), 77.019(5), 77.15(3) or (4) or 77.19(4), the President shall
 
 ### Section 81
 
   **(1)** The portion of paragraph 42(1)(c) of the Act before subparagraph (i) is replaced by the following:
 
-    in the case of any subsidized goods in respect of which a specification has been made **under** clause 41(1)**(b)(ii)**(C) and to which the preliminary determination applies as to whether
+    in the case of any subsidized goods in respect of which a specification has been made under clause 41(1)(b)(ii)(C) and to which the preliminary determination applies as to whether
 
   **(2)** Section 42 of the Act is amended by adding the following after subsection (3):
 
@@ -1857,7 +1857,7 @@ unless the President has made a preliminary determination under subsection 38(1)
 
 Paragraph 52(1.1)(d) of the Act is replaced by the following:
 
-terminate the undertaking or undertakings **in respect of those goods**, and
+terminate the undertaking or undertakings in respect of those goods, and
 
 ### Section 84
 
@@ -1883,7 +1883,7 @@ The portion of subsection 56(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 56
 
-  **(1)** **If, after** the making of an order or finding of the Tribunal or an order of the Governor in Council imposing a countervailing duty under section 7, any goods are imported into Canada, a determination by a **designated** officer
+  **(1)** If, after the making of an order or finding of the Tribunal or an order of the Governor in Council imposing a countervailing duty under section 7, any goods are imported into Canada, a determination by a designated officer
 
 ### Section 86
 
@@ -1897,9 +1897,9 @@ Subsections 61(2) and (3) of the Act are replaced by the following:
 
 **(1.1)** Interested persons may appeal a scope ruling made under section `66` or, an amendment to such a ruling resulting from a review under subsection `67`(2) or, subject to section 77.012 or 77.12 and only in respect of whether goods are of the same description as goods described in the order or finding, a re-determination made under paragraph 59(1)(a) or (e), to the Tribunal by filing a notice of appeal in writing with the President and the Tribunal within 90 days after the day on which the decision was made.
 
-**(2)** Notice of the hearing of an appeal under subsection (1) **or (1.1)** must be published in the `Canada Gazette` at least 21 days before the day of the hearing, and any person who enters an appearance with the Tribunal at least seven days before the day of the hearing may be heard on the appeal.
+**(2)** Notice of the hearing of an appeal under subsection (1) or (1.1) must be published in the `Canada Gazette` at least 21 days before the day of the hearing, and any person who enters an appearance with the Tribunal at least seven days before the day of the hearing may be heard on the appeal.
 
-**(3)** On any appeal under subsection (1) **or (1.1)**, the Tribunal may make such order or finding as the nature of the matter may require and, without limiting the generality of the foregoing, may declare what duty is payable or that no duty is payable on the goods with respect to which the appeal was taken, and an order, finding or declaration of the Tribunal is final and conclusive subject to further appeal as provided in section 62.
+**(3)** On any appeal under subsection (1) or (1.1), the Tribunal may make such order or finding as the nature of the matter may require and, without limiting the generality of the foregoing, may declare what duty is payable or that no duty is payable on the goods with respect to which the appeal was taken, and an order, finding or declaration of the Tribunal is final and conclusive subject to further appeal as provided in section 62.
 
 ### Section 88
 
@@ -2221,7 +2221,7 @@ Without delay after a decision setting out a finding of circumvention is filed w
 
 ### Section 76.01
 
-      **(1)** **Subject to subsection (1.1)**, at any time after the making of an order or finding described in any of sections 3 to 6, the Tribunal may, on its own initiative or at the request of the Minister of Finance, the President or any other person or of any government, conduct an interim review of
+      **(1)** Subject to subsection (1.1), at any time after the making of an order or finding described in any of sections 3 to 6, the Tribunal may, on its own initiative or at the request of the Minister of Finance, the President or any other person or of any government, conduct an interim review of
 
   **(2)** Section 76.01 of the Act is amended by adding the following after subsection (1):
 
@@ -2233,11 +2233,11 @@ Without delay after a decision setting out a finding of circumvention is filed w
 
 ### Section 76.03
 
-      **(1)** If the Tribunal has not initiated an expiry review under subsection (3) with respect to an order or finding described in any of **subsections 3(1) and (2) and** sections **4** to 6 before the expiry of five years after whichever of the following days is applicable, the order or finding is deemed to have been rescinded as of the expiry of the five years:
+      **(1)** If the Tribunal has not initiated an expiry review under subsection (3) with respect to an order or finding described in any of subsections 3(1) and (2) and sections 4 to 6 before the expiry of five years after whichever of the following days is applicable, the order or finding is deemed to have been rescinded as of the expiry of the five years:
 
   **(2)** The portion of subsection 76.03(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The Tribunal may initiate an expiry review of an order or finding described in any of **subsections 3(1) and (2) and** sections **4** to 6
+    **(3)** The Tribunal may initiate an expiry review of an order or finding described in any of subsections 3(1) and (2) and sections 4 to 6
 
   **(3)** Section 76.03 of the Act is amended by adding the following after subsection (12):
 
@@ -2273,7 +2273,7 @@ a final determination of the President under paragraph 41(1)(b),
 
 Subsection 77.013(3) of the Act is replaced by the following:
 
-**(3)** **If** a request is made for the review of a final determination of the President under paragraph 41(1)(**b**) that applies to or is made in respect of particular goods of a NAFTA country and another request is made for the review of an order or finding of the Tribunal under subsection 43(1) that applies to or is made in respect of those goods, one panel may, with the consent of the Minister and the government of that NAFTA country, be appointed to review the final determination and the order or finding.
+**(3)** If a request is made for the review of a final determination of the President under paragraph 41(1)(b) that applies to or is made in respect of particular goods of a NAFTA country and another request is made for the review of an order or finding of the Tribunal under subsection 43(1) that applies to or is made in respect of those goods, one panel may, with the consent of the Minister and the government of that NAFTA country, be appointed to review the final determination and the order or finding.
 
 ### Section 95
 
@@ -2287,7 +2287,7 @@ a final determination of the President under paragraph 41(1)(b),
 
 Subsection 77.13(2) of the Act is replaced by the following:
 
-**(2)** **If** a request is made for the review of a final determination of the President under paragraph 41(1)(**b**) that applies to or in respect of particular goods of the United States and another request is made for the review of an order or finding of the Tribunal under subsection 43(1) that applies to or in respect of those goods, one panel may, with the consent of the Minister and the United States government, be appointed to review the final determination and the order or finding.
+**(2)** If a request is made for the review of a final determination of the President under paragraph 41(1)(b) that applies to or in respect of particular goods of the United States and another request is made for the review of an order or finding of the Tribunal under subsection 43(1) that applies to or in respect of those goods, one panel may, with the consent of the Minister and the United States government, be appointed to review the final determination and the order or finding.
 
 ### Section 97
 
@@ -2321,13 +2321,13 @@ Subsection 77.13(2) of the Act is replaced by the following:
 
     respecting activities for the purposes of paragraph `71`(b);
 
-    specifying the circumstances and manner in which two or more properly documented complaints, investigations or inquiries, **including anti-circumvention complaints and investigations and scope ruling applications and scope proceedings**, may be joined and carried on as one and the persons to whom and the manner in which notice of the joining shall be given;
+    specifying the circumstances and manner in which two or more properly documented complaints, investigations or inquiries, including anti-circumvention complaints and investigations and scope ruling applications and scope proceedings, may be joined and carried on as one and the persons to whom and the manner in which notice of the joining shall be given;
 
     prescribing, for the purpose of subsection `74`(2), what constitutes a sufficient amount of time for interested parties to provide written comments;
 
   **(3)** Paragraph 97(1)(g) of the Act is replaced by the following:
 
-    defining the expression "person interested" for the purpose of subsection 45(6) or section 89 or 95 **and the expression "interested person" for the purpose of subsections 61(1.1), 63(1) or 67(4)**;
+    defining the expression "person interested" for the purpose of subsection 45(6) or section 89 or 95 and the expression "interested person" for the purpose of subsections 61(1.1), 63(1) or 67(4);
 
     prescribing what constitutes a complete application for the purposes of subsection 63(7);
 
@@ -2454,7 +2454,7 @@ In the exercise of the Minister's powers and duties under subsection 14(1) of th
 
 The portion of subsection 48(2) of the `Financial Administration Act` after paragraph (b) is replaced by the following:
 
-the authorized transaction may be undertaken, in whole or in part, in the currency of a country other than Canada, and for that purpose the specific or maximum number of dollars shall be construed as an equivalent amount in the currency of the other country, calculated at the **daily average** rate of exchange between the Canadian dollar and the currency concerned quoted by the Bank of Canada on the day immediately preceding the day on which the money is borrowed, the proceeds from the issue of securities are received or the guarantee is given, as the case may be, **or at any other rate of exchange in use between those currencies that the Minister considers appropriate**.
+the authorized transaction may be undertaken, in whole or in part, in the currency of a country other than Canada, and for that purpose the specific or maximum number of dollars shall be construed as an equivalent amount in the currency of the other country, calculated at the daily average rate of exchange between the Canadian dollar and the currency concerned quoted by the Bank of Canada on the day immediately preceding the day on which the money is borrowed, the proceeds from the issue of securities are received or the guarantee is given, as the case may be, or at any other rate of exchange in use between those currencies that the Minister considers appropriate.
 
 
 #### Amendment to the Hibernia Development Project Act
@@ -2463,7 +2463,7 @@ the authorized transaction may be undertaken, in whole or in part, in the curren
 
 Paragraph 3(3)(a) of the `Hibernia Development Project Act` is replaced by the following:
 
-where the guarantee is in respect of an amount that together with all guaranteed principal amounts outstanding at the time is in excess of the maximum aggregate principal amount guaranteed at any prior time, the **daily average** rate of exchange between the Canadian dollar and the currency concerned quoted by the Bank of Canada on the day immediately preceding the day on which the benefit of the guarantee is extended by certificate **under** paragraph (2)(b) to the amount in excess; or
+where the guarantee is in respect of an amount that together with all guaranteed principal amounts outstanding at the time is in excess of the maximum aggregate principal amount guaranteed at any prior time, the daily average rate of exchange between the Canadian dollar and the currency concerned quoted by the Bank of Canada on the day immediately preceding the day on which the benefit of the guarantee is extended by certificate under paragraph (2)(b) to the amount in excess; or
 
 
 #### Consequential Amendment to the Budget Implementation Act, 2016, No. 1
@@ -2541,7 +2541,7 @@ Section 7 of the `Shared Services Canada Act` is replaced by the following:
 
 ### Section 7
 
-The Minister may, for the purpose of providing services under this Act, exercise any of the powers, **or perform any of the** duties or functions, that are set out in paragraph 6(a), (b), (c) or (g) of the `Department of Public Works and Government Services Act` in respect of departments, Crown corporations, **persons, organizations and governments** to which those services are provided.
+The Minister may, for the purpose of providing services under this Act, exercise any of the powers, or perform any of the duties or functions, that are set out in paragraph 6(a), (b), (c) or (g) of the `Department of Public Works and Government Services Act` in respect of departments, Crown corporations, persons, organizations and governments to which those services are provided.
 
 ### Section 7.1
 
@@ -2598,7 +2598,7 @@ There may be paid out of the Consolidated Revenue Fund, on the requisition of th
 
 Paragraph (a) of the definition **qualifying student** in subsection 2(1) of the `Canada Student Financial Assistance Act` is replaced by the following:
 
-who is a Canadian citizen, **a person registered as an Indian under the `Indian Act`**, a permanent resident **as defined in** subsection 2(1) of the `Immigration and Refugee Protection Act` or a protected person within the meaning of subsection 95(2) of that Act,
+who is a Canadian citizen, a person registered as an Indian under the `Indian Act`, a permanent resident as defined in subsection 2(1) of the `Immigration and Refugee Protection Act` or a protected person within the meaning of subsection 95(2) of that Act,
 
 
 #### Canada Education Savings Act
@@ -2607,27 +2607,27 @@ who is a Canadian citizen, **a person registered as an Indian under the `Indian 
 
 Paragraph 2(2)(a) of the `Canada Education Savings Act` is replaced by the following:
 
-the expressions **adjusted income**, ****cohabiting spouse or common-law partner****, **eligible individual** and **qualified dependant** have the meanings assigned by section 122.6 of the `Income Tax Act`;
+the expressions **adjusted income**, **cohabiting spouse or common-law partner**, **eligible individual** and **qualified dependant** have the meanings assigned by section 122.6 of the `Income Tax Act`;
 
 ### Section 118
 
   **(1)** Subsection 5(6.1) of the Act is replaced by the following:
 
-    **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary's primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual **or their cohabiting spouse or common-law partner** is the adjusted income used to determine the amount of a **Canada** child benefit for the first month in the particular year in respect of which the individual's eligibility for the **Canada** child benefit has been established.
+    **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary's primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual or their cohabiting spouse or common-law partner is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which the individual's eligibility for the Canada child benefit has been established.
 
   **(2)** Subsections 5(7) to (7.2) of the Act are replaced by the following:
 
-    **(7)** The amount referred to in subsection (4) is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary at the time the contribution is made **or the primary caregiver's cohabiting spouse or common-law partner at that time**.
+    **(7)** The amount referred to in subsection (4) is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary at the time the contribution is made or the primary caregiver's cohabiting spouse or common-law partner at that time.
 
-    **(7.1)** If there is more than one **trust** designated under subsection (7) at the time a contribution is made, the amount referred to in subsection (4) is to be paid to the trustee of the trust to which a contribution is first made.
+    **(7.1)** If there is more than one trust designated under subsection (7) at the time a contribution is made, the amount referred to in subsection (4) is to be paid to the trustee of the trust to which a contribution is first made.
 
-    **(7.2)** For greater certainty, if there is more than one **trust designated under subsection (7)** and the total of all amounts paid under subsection (4) to the trustee of the trust to which a contribution is first made is less than the maximum amount that may be paid under subsection **(4)**, then amounts may be paid under subsection **(4)** to the trustee of **any** trust designated **under subsection (7)**.
+    **(7.2)** For greater certainty, if there is more than one trust designated under subsection (7) and the total of all amounts paid under subsection (4) to the trustee of the trust to which a contribution is first made is less than the maximum amount that may be paid under subsection (4), then amounts may be paid under subsection (4) to the trustee of any trust designated under subsection (7).
 
 ### Section 119
 
 Subsection 6(4) of the Act is replaced by the following:
 
-**(4)** The amount of a bond in respect of a benefit year is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary, **the primary caregiver's cohabiting spouse or common-law partner** or, if the beneficiary is 18 years of age or more, the beneficiary.
+**(4)** The amount of a bond in respect of a benefit year is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary, the primary caregiver's cohabiting spouse or common-law partner or, if the beneficiary is 18 years of age or more, the beneficiary.
 
 ### Section 120
 
@@ -2635,7 +2635,7 @@ Subsection 9.1(1) of the Act is replaced by the following:
 
 ### Section 9.1
 
-  **(1)** On application made by the primary caregiver of the beneficiary, **the primary caregiver's cohabiting spouse or common-law partner** or, if the beneficiary is 18 years of age or more, the beneficiary, the Minister may, to avoid undue hardship, waive any of the requirements of this Act or the regulations that relate to the payment of CES grants or Canada Learning Bonds and that are specified in regulations made under paragraph 13(g). The application must be in the form and manner approved by the Minister.
+  **(1)** On application made by the primary caregiver of the beneficiary, the primary caregiver's cohabiting spouse or common-law partner or, if the beneficiary is 18 years of age or more, the beneficiary, the Minister may, to avoid undue hardship, waive any of the requirements of this Act or the regulations that relate to the payment of CES grants or Canada Learning Bonds and that are specified in regulations made under paragraph 13(g). The application must be in the form and manner approved by the Minister.
 
 
 #### Coming into Force
@@ -2659,7 +2659,7 @@ Subsection 9.1(1) of the Act is replaced by the following:
 
 Subsection 50(6) of the `Parliament of Canada Act` is replaced by the following:
 
-**(6)** For greater certainty, nothing in the oath or affirmation referred to in subsection (5) shall be construed as preventing the communication of any information or **documents discussed in, or prepared for**, a **meeting of the Board that was open** to the **public**.
+**(6)** For greater certainty, nothing in the oath or affirmation referred to in subsection (5) shall be construed as preventing the communication of any information or documents discussed in, or prepared for, a meeting of the Board that was open to the public.
 
 ### Section 123
 
@@ -2724,17 +2724,19 @@ Sections 79.1 to 79.5 provide for an independent and non-partisan Parliamentary 
 
     the leader of every recognized party in the House of Commons.
 
+  **(1.1)** The Parliamentary Budget Officer shall have demonstrated experience and expertise in federal or provincial budgeting.
+
   **(2)** The Parliamentary Budget Officer holds office during good behaviour for a term of seven years but may be removed for cause by the Governor in Council on address of the Senate and House of Commons.
 
   **(3)** The Parliamentary Budget Officer may be reappointed for one or more terms of up to seven years each. However, the Parliamentary Budget Officer shall serve no more than 14 years in office in total.
 
   **(4)** In the event of the absence or incapacity of the Parliamentary Budget Officer, or if that office is vacant, the Governor in Council may appoint any person to hold that office in the interim for a term not exceeding six months, and that person shall, while holding office, be paid the remuneration and expenses that may be fixed by the Governor in Council.
 
-  ****(5)**** The Parliamentary Budget Officer shall be paid the remuneration and expenses fixed by the Governor in Council.
+  **(5)** The Parliamentary Budget Officer shall be paid the remuneration and expenses fixed by the Governor in Council.
 
 ### Section 79.11
 
-  **(1)** The Parliamentary Budget Officer has the rank of a deputy head of a department of the Government of Canada and, subject to section 79.12, has the control and management of the office of the Parliamentary Budget Officer.
+  **(1)** The Parliamentary Budget Officer has the rank of a deputy head of a department of the Goverment of Canada and has the control and management of the office of the Parliamentary Budget Officer.
 
   **(2)** The Parliamentary Budget Officer may, in carrying out the work of the office of the Parliamentary Budget Officer, enter into contracts, memoranda of understanding or other arrangements.
 
@@ -2754,9 +2756,7 @@ Sections 79.1 to 79.5 provide for an independent and non-partisan Parliamentary 
 
 ### Section 79.12
 
-  **(1)** The direction and control of the office of the Parliamentary Budget Officer and its officers and employees is vested in the Speaker of the Senate and the Speaker of the House of Commons, who may be assisted, during each session, by a committee of both Houses of Parliament that is designated or established for that purpose.
-
-  **(2)** The Speakers of the two Houses of Parliament, assisted by the committee referred to in subsection (1), may, subject to the approval of the two Houses, make orders and regulations for the government of the office of the Parliamentary Budget Officer and for the proper expenditure of moneys provided by Parliament with respect to that office.
+[*Deleted*]
 
 ### Section 79.13
 
@@ -2772,11 +2772,13 @@ The Parliamentary Budget Officer and the Parliamentary Librarian shall take all 
 
     a statement of the manner in which the Parliamentary Budget Officer intends to prioritize requests for his or her services from parliamentary committees and members of the Senate and the House of Commons.
 
-  **(2)** The annual work plan is subject to the approval of the Speaker of the Senate and the Speaker of the House of Commons, who may be assisted by the chair of the committee referred to in section 79.12, by the chair of the Standing Committee on National Finance of the Senate or, if there is not a Standing Committee on National Finance, the chair of the appropriate committee of the Senate and by the chair of the Standing Committee on Finance of the House of Commons or, if there is not a Standing Committee on Finance, the chair of the appropriate committee of the House of Commons. After the annual work plan has been approved, the Speaker of the Senate and the Speaker of the House of Commons shall each table it in the House over which he or she presides.
+  **(2)** The Parliamentary Budget Officer may update the annual work plan as required during the fiscal year.
+
+  **(3)** After the annual work plan has been provided to the Speaker of the Senate and the Speaker of the House of Commons, they shall each table it in the House over which he or she presides.
 
 ### Section 79.2
 
-  ****(1)**** **During periods when Parliament** is **not dissolved**, the Parliamentary Budget Officer
+  **(1)** During periods when Parliament is not dissolved, the Parliamentary Budget Officer
 
     may prepare reports containing the Parliamentary Budget Officer's analysis of any of the following federal government documents:
 
@@ -2788,29 +2790,29 @@ The Parliamentary Budget Officer and the Parliamentary Librarian shall take all 
 
     the estimates of the government for a fiscal year;
 
-    **may prepare reports on matters of particular significance relating to the nation's finances or economy that are listed in an annual work plan that has been approved under subsection 79.14(2);**
+    may prepare reports on matters of particular significance relating to the nation's finances or economy that are listed in an annual work plan;
 
-    **shall, if** requested to do so by any of the following committees, undertake research **into and analysis of** matters relating to the nation's finances **or** economy:
+    shall, if requested to do so by any of the following committees, undertake research into and analysis of matters relating to the nation's finances or economy:
 
-    the Standing Committee on National Finance of the Senate or, **if** there is not a Standing Committee on National Finance, the appropriate committee of the Senate,
+    the Standing Committee on National Finance of the Senate or, if there is not a Standing Committee on National Finance, the appropriate committee of the Senate,
 
-    the Standing Committee on Finance of the House of Commons or, **if** there is not a Standing Committee on Finance, the appropriate committee of the House of Commons,
+    the Standing Committee on Finance of the House of Commons or, if there is not a Standing Committee on Finance, the appropriate committee of the House of Commons,
 
-    the Standing Committee on Public Accounts of the House of Commons or, **if** there is not a Standing Committee on Public Accounts, the appropriate committee of the House of Commons,
+    the Standing Committee on Public Accounts of the House of Commons or, if there is not a Standing Committee on Public Accounts, the appropriate committee of the House of Commons,
 
     the Standing Committee on Government Operations and Estimates of the House of Commons or, if there is not a Standing Committee on Government Operations and Estimates, the appropriate committee of the House of Commons;
 
-    **shall, if** requested to do so by a committee of the Senate or of the House of Commons, or a committee of both Houses, that is mandated to consider the estimates of the government, undertake research **into and analysis of** those estimates;
+    shall, if requested to do so by a committee of the Senate or of the House of Commons, or a committee of both Houses, that is mandated to consider the estimates of the government, undertake research into and analysis of those estimates;
 
-    **shall, if** requested to do so by a committee of the Senate or of the House of Commons, or a committee of both Houses, estimate the financial cost of any proposal that relates to a matter over which Parliament has jurisdiction; and
+    shall, if requested to do so by a committee of the Senate or of the House of Commons, or a committee of both Houses, estimate the financial cost of any proposal that relates to a matter over which Parliament has jurisdiction; and
 
-    **shall, if** requested to do so by a member of the Senate or of the House of Commons, estimate the financial cost of any proposal that the member is considering making before the Senate or the House of Commons or a committee of either or both Houses.
+    shall, if requested to do so by a member of the Senate or of the House of Commons, estimate the financial cost of any proposal that **relates to a matter over which Parliament has jurisdiction**.
 
-  **(2)** The Parliamentary Budget Officer shall provide any report prepared under paragraph (1)(a) or (b) to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides. The Parliamentary Budget Officer may make the report available to the public one business day after the day on which the report is provided to the Speaker of the Senate and the Speaker of the House of Commons.
+  **(2)** The Parliamentary Budget Officer shall provide any report prepared under paragraph (1)(a) or (b) to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides. The Parliamentary Budget Officer **shall** make the report available to the public one business day after the day on which the report is provided to the Speaker of the Senate and the Speaker of the House of Commons.
 
-  **(3)** The Parliamentary Budget Officer shall provide a report containing the research and analysis or estimate requested by a committee under paragraph (1)(c), (d) or (e) to the chair of the committee that requested it. The Parliamentary Budget Officer may make the report available to the public one business day after the day on which the report is provided to the chair of the committee that requested it.
+  **(3)** The Parliamentary Budget Officer shall provide a report containing the research and analysis or estimate requested by a committee under paragraph (1)(c), (d) or (e) to the chair of the committee that requested it. The Parliamentary Budget Officer **shall** make the report available to the public one business day after the day on which the report is provided to the chair of the committee that requested it.
 
-  **(4)** The Parliamentary Budget Officer shall provide a report containing the estimate requested under paragraph (1)(f) to the member of the Senate or of the House of Commons who requested it. The Parliamentary Budget Officer may make the report available to the public one business day after the day on which the report is provided to the member.
+  **(4)** The Parliamentary Budget Officer shall provide a report containing the estimate requested under paragraph (1)(f) to the member of the Senate or of the House of Commons who requested it. The Parliamentary Budget Officer **shall** make the report available to the public one business day after the day on which the report is provided to the member.
 
   **(5)** If Parliament is dissolved before a report is provided to the chair of the committee or to the member under subsection (3) or (4), the Parliamentary Budget Officer shall discontinue work on the request.
 
@@ -2868,7 +2870,7 @@ The Parliamentary Budget Officer shall, within three months after the end of eac
 
 ### Section 79.3
 
-The following definitions apply in sections 79.4 and 79.5.
+The following definitions apply in sections 79.4 **to** 79.5.
 
 **department** has the same meaning as in any of paragraphs (a), (a.1) and (d) of the definition department in section 2 of the `Financial Administration Act`. (**minis-tère**)
 
@@ -2878,27 +2880,33 @@ The following definitions apply in sections 79.4 and 79.5.
 
 ### Section 79.4
 
-  **(1)** Except as provided by any other Act of Parliament that expressly refers to this subsection, the Parliamentary Budget Officer is entitled, by request made to the head of a department **or of a parent Crown corporation**, to free and timely access to any **information under** the **control** of the department or **parent Crown corporation** that **is** required for the performance of his or her mandate.
+  **(1)** Except as provided by any other Act of Parliament that expressly refers to this subsection, the Parliamentary Budget Officer is entitled, by request made to the head of a department or of a parent Crown corporation, to free and timely access to any information under the control of the department or parent Crown corporation that is required for the performance of his or her mandate.
 
-  **(2)** Subsection (1) does not apply in respect of any **information**
+  **(2)** Subsection (1) does not apply in respect of any information
 
     the disclosure of which is restricted under section 19 of the `Access to Information Act`;
 
     that is protected by solicitor-client privilege or professional secrecy of advocates and notaries or by litigation privilege;
 
-    the disclosure of which is restricted under any provision **of any other Act of Parliament** set out in Schedule II to the `Access to Information Act`; or
+    the disclosure of which is restricted under any provision of any other Act of Parliament set out in Schedule II to the `Access to Information Act`; or
 
-    that **is** a confidence of the Queen's Privy Council for Canada **as defined in subsection 39(2) of the `Canada Evidence Act`**.
+    that is a confidence of the Queen's Privy Council for Canada as defined in subsection 39(2) of the `Canada Evidence Act`.
+
+### Section 79.41
+
+If he or she refuses to provide access to information requested under subsection 79.4(1), the deputy minister of the department concerned or the person who occupies any other similar position for the federal institution or parent Crown corporation, as the case may be, shall provide the Parliamentary Budget Officer with a written justification for the refusal.
+
+### Section 79.42
+
+If the Parliamentary Budget Officer is of the opinion that he or she has not been provided with free or timely access to information requested under subsection 79.4(1), he or she may so notify the Speaker of the Senate and the Speaker of the House of Commons or any appropriate committee of the Senate, of the House of Commons or of both Houses of Parliament.
 
 ### Section 79.5
 
-The Parliamentary Budget Officer, and every person **referred to in subsections 79.11(3) and (4)**, shall not disclose any **information** that **comes** to their knowledge under **subsection 79.21(9)** or section 79.4, unless the disclosure is essential for the performance of the **Parliamentary Budget Officer's** mandate and
+The Parliamentary Budget Officer, and every person referred to in subsections 79.11(3) and (4), shall not disclose any information that comes to their knowledge under subsection 79.21(9) or section 79.4, unless the disclosure is essential for the performance of the Parliamentary Budget Officer's mandate and, in the case of information referred to in subsection 79.21(9), the minister's deputy has consented to the disclosure.
 
-the information has been made available to the public;
+### Section 79.501
 
-in the case of information referred to in subsection 79.21(9), the minister's deputy has consented to the disclosure; or
-
-in the case of information referred to in section 79.4, the head of the department or parent Crown corporation who provided the information has consented to the disclosure.
+A committee of the Senate, of the House of Commons or of both Houses of Parliament shall, five years after the day on which this section comes into force, undertake a review of sections 79.01 to 79.5.
 
 ### Section 129
 
@@ -2910,9 +2918,9 @@ the Parliamentary Budget Officer. (**Cité parlementaire**)
 
 Form 3 in the schedule to the Act is replaced by the following:
 
-I, ..................., do solemnly swear (affirm) that I will faithfully, truly and to the best of my judgment, skill and ability execute and perform the duties required of me as a member of the Board of Internal Economy of the House of Commons. (**If** an oath is taken, add "So help me God").
+I, ..................., do solemnly swear (affirm) that I will faithfully, truly and to the best of my judgment, skill and ability execute and perform the duties required of me as a member of the Board of Internal Economy of the House of Commons. (If an oath is taken, add "So help me God").
 
-I further solemnly swear (affirm) that I will not, without the authority of the Board, communicate or allow to be communicated to any person any information or documents **discussed** in, or **prepared for**, a **meeting** of the Board that **is held** in **camera**. (**If** an oath is taken, add "So help me God").
+I further solemnly swear (affirm) that I will not, without the authority of the Board, communicate or allow to be communicated to any person any information or documents discussed in, or prepared for, a meeting of the Board that is held in camera. (If an oath is taken, add "So help me God").
 
 
 ##### Transitional Provisions
@@ -3111,7 +3119,9 @@ the Parliamentary Budget Officer
 
 Subsection 2(2) of the `Federal Courts Act` is replaced by the following:
 
-**(2)** For greater certainty, the expression federal board, commission or other tribunal, as defined in subsection (1), does not include the Senate, the House of Commons, any committee or member of either House, the Senate Ethics Officer, the Conflict of Interest and Ethics Commissioner with respect to the exercise of the jurisdiction or powers referred to in sections 41.1 to 41.5 and 86 of the `Parliament of Canada Act`, the Parliamentary Protective Service or **the Parliamentary Budget Officer**.
+**(2)** For greater certainty, the expression federal board, commission or other tribunal, as defined in subsection (1), does not include the Senate, the House of Commons, any committee or member of either House, the Senate Ethics Officer, the Conflict of Interest and Ethics Commissioner with respect to the exercise of the jurisdiction or powers referred to in sections 41.1 to 41.5 and 86 of the `Parliament of Canada Act`, the Parliamentary Protective Service or the Parliamentary Budget Officer.
+
+**(3)** Despite subsection (2), the Parliamentary Budget Officer is deemed to be a federal board, commission or other tribunal for the purpose of subsection 18.3(1).
 
 
 ##### Financial Administration Act
@@ -3120,11 +3130,11 @@ Subsection 2(2) of the `Federal Courts Act` is replaced by the following:
 
   **(1)** Paragraph (c) of the definition **appropriate Minister** in section 2 of the `Financial Administration Act` is replaced by the following:
 
-    with respect to the Senate and the office of the Senate Ethics Officer, the Speaker of the Senate, with respect to the House of Commons, the Board of Internal Economy, with respect to the office of the Conflict of Interest and Ethics Commissioner, the Speaker of the House of Commons, and with respect to the Library of Parliament, the Parliamentary Protective Service and **the office of the Parliamentary Budget Officer**, the Speakers of the Senate and the House of Commons,
+    with respect to the Senate and the office of the Senate Ethics Officer, the Speaker of the Senate, with respect to the House of Commons, the Board of Internal Economy, with respect to the office of the Conflict of Interest and Ethics Commissioner, the Speaker of the House of Commons, and with respect to the Library of Parliament, the Parliamentary Protective Service and the office of the Parliamentary Budget Officer, the Speakers of the Senate and the House of Commons,
 
   **(2)** Paragraph (c) of the definition **department** in section 2 of the Act is replaced by the following:
 
-    the staffs of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and **office of the Parliamentary Budget Officer**, and
+    the staffs of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer, and
 
 
 ##### Garnishment, Attachment and Pension Diversion Act
@@ -3134,13 +3144,13 @@ Subsection 2(2) of the `Federal Courts Act` is replaced by the following:
 The heading of Division IV of Part 1 of the `Garnishment, Attachment and Pension Diversion Act` is replaced by the following:
 
 
-### Senate, House of Commons, Library of Parliament, Office of the Senate Ethics Officer, Office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and **Office of the Parliamentary Budget Officer**
+### Senate, House of Commons, Library of Parliament, Office of the Senate Ethics Officer, Office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and Office of the Parliamentary Budget Officer
 
 ### Section 162
 
 The portion of paragraph (b) of the definition **salary** in section 16 of the Act before subparagraph (i) is replaced by the following:
 
-in the case of the staff of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** or the staff of members of the Senate or House of Commons, or in the case of any other person paid out of moneys appropriated by Parliament for use by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**,
+in the case of the staff of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer or the staff of members of the Senate or House of Commons, or in the case of any other person paid out of moneys appropriated by Parliament for use by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer,
 
 ### Section 163
 
@@ -3148,7 +3158,7 @@ The portion of section 17 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 17
 
-The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and **office of the Parliamentary Budget Officer** are, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
+The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer are, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
 
 ### Section 164
 
@@ -3156,11 +3166,11 @@ The Senate, House of Commons, Library of Parliament, office of the Senate Ethics
 
 ### Section 18
 
-      **(1)** Subject to this Division, service on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** of a garnishee summons, together with a copy of the judgment or order against the debtor and an application in the prescribed form, binds the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, 15 days after the day on which those documents are served.
+      **(1)** Subject to this Division, service on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer of a garnishee summons, together with a copy of the judgment or order against the debtor and an application in the prescribed form, binds the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, 15 days after the day on which those documents are served.
 
   **(2)** Subsection 18(2) of the English version of the Act is replaced by the following:
 
-    **(2)** A garnishee summons served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** is of no effect unless it is served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, in the first 30 days following the first day on which it could have been validly served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be.
+    **(2)** A garnishee summons served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer is of no effect unless it is served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, in the first 30 days following the first day on which it could have been validly served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be.
 
 ### Section 165
 
@@ -3168,15 +3178,15 @@ The Senate, House of Commons, Library of Parliament, office of the Senate Ethics
 
 ### Section 19
 
-      **(1)** Service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
+      **(1)** Service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
 
   **(2)** Subsection 19(2) of the English version of the Act is replaced by the following:
 
-    **(2)** In addition to any method of service permitted by the law of a province, service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Office, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** under subsection (1) may be effected by registered mail, whether within or outside the province, or by any other method prescribed.
+    **(2)** In addition to any method of service permitted by the law of a province, service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Office, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer under subsection (1) may be effected by registered mail, whether within or outside the province, or by any other method prescribed.
 
   **(3)** Subsection 19(3) of the Act is replaced by the following:
 
-    **(3)** If service of a document on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** is effected by registered mail, the document shall be deemed to be served on the day of its receipt by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be.
+    **(3)** If service of a document on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer is effected by registered mail, the document shall be deemed to be served on the day of its receipt by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be.
 
 ### Section 166
 
@@ -3184,23 +3194,23 @@ The Senate, House of Commons, Library of Parliament, office of the Senate Ethics
 
 ### Section 21
 
-    Pour les besoins de toute procédure de saisie-arrêt prévue par la présente section, la signification au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d'intérêts et à l'éthique, au Service de protection parlementaire ou **au bureau du directeur parlementaire du budget** du bref de saisie-arrêt frappe d'indisponibilité les sommes suivantes dont l'un ou l'autre est redevable envers le débiteur mentionné dans le bref :
+    Pour les besoins de toute procédure de saisie-arrêt prévue par la présente section, la signification au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d'intérêts et à l'éthique, au Service de protection parlementaire ou au bureau du directeur parlementaire du budget du bref de saisie-arrêt frappe d'indisponibilité les sommes suivantes dont l'un ou l'autre est redevable envers le débiteur mentionné dans le bref :
 
   **(2)** Subparagraph 21(a)(i) of the English version of the Act is replaced by the following:
 
-    the salary to be paid on the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, is bound by the garnishee summons, and
+    the salary to be paid on the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, is bound by the garnishee summons, and
 
   **(3)** Paragraph 21(b) of the English version of the Act is replaced by the following:
 
     in the case of remuneration described in paragraph 17(b),
 
-    the remuneration payable on the 15th day following the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, is bound by the garnishee summons, and
+    the remuneration payable on the 15th day following the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, is bound by the garnishee summons, and
 
     either
 
-    any remuneration becoming payable in the 30 days following the 15th day after the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, is bound by the garnishee summons that is owing on that 15th day or that becomes owing in the 14 days following that 15th day, or
+    any remuneration becoming payable in the 30 days following the 15th day after the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, is bound by the garnishee summons that is owing on that 15th day or that becomes owing in the 14 days following that 15th day, or
 
-    if the garnishee summons has continuing effect under the law of the province, any remuneration becoming payable subsequent to the 15th day after the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, is bound by the garnishee summons.
+    if the garnishee summons has continuing effect under the law of the province, any remuneration becoming payable subsequent to the 15th day after the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, is bound by the garnishee summons.
 
 ### Section 167
 
@@ -3208,11 +3218,11 @@ The Senate, House of Commons, Library of Parliament, office of the Senate Ethics
 
 ### Section 22
 
-    The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** has the following time period within which to respond to a garnishee summons:
+    The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer has the following time period within which to respond to a garnishee summons:
 
   **(2)** Paragraph 22(a) of the English version of the Act is replaced by the following:
 
-    in the case of a salary, 15 days, or any lesser number of days that is prescribed, after the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** is bound by the garnishee summons; or
+    in the case of a salary, 15 days, or any lesser number of days that is prescribed, after the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer is bound by the garnishee summons; or
 
 ### Section 168
 
@@ -3220,23 +3230,23 @@ The Senate, House of Commons, Library of Parliament, office of the Senate Ethics
 
 ### Section 23
 
-      **(1)** In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** may respond to a garnishee summons by registered mail or by any other method prescribed.
+      **(1)** In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer may respond to a garnishee summons by registered mail or by any other method prescribed.
 
   **(2)** Subsection 23(2) of the English version of the Act is replaced by the following:
 
-    **(2)** If the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the `Canada Post Corporation Act` shall be received in evidence and is, unless the contrary is shown, proof that the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, has responded to the garnishee summons.
+    **(2)** If the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the `Canada Post Corporation Act` shall be received in evidence and is, unless the contrary is shown, proof that the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, has responded to the garnishee summons.
 
   **(3)** Subsections 23(3) and (4) of the Act are replaced by the following:
 
-    **(3)** A payment into court by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** under this section is a good and sufficient discharge of liability, to the extent of the payment.
+    **(3)** A payment into court by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer under this section is a good and sufficient discharge of liability, to the extent of the payment.
 
-    **(4)** If, in honouring a garnishee summons, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess becomes a debt due to the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as the case may be, by that debtor and may be recovered from the debtor at any time by set-off against future moneys payable to the debtor as salary or remuneration.
+    **(4)** If, in honouring a garnishee summons, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess becomes a debt due to the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, by that debtor and may be recovered from the debtor at any time by set-off against future moneys payable to the debtor as salary or remuneration.
 
 ### Section 169
 
 Paragraph 24(a) of the Act is replaced by the following:
 
-specifying the place where service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** must be effected in connection with garnishment proceedings permitted by this Division;
+specifying the place where service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer must be effected in connection with garnishment proceedings permitted by this Division;
 
 ### Section 170
 
@@ -3244,7 +3254,7 @@ Section 26 of the Act is replaced by the following:
 
 ### Section 26
 
-No execution shall issue on a judgment given against the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** in garnishment proceedings permitted by this Part.
+No execution shall issue on a judgment given against the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer in garnishment proceedings permitted by this Part.
 
 
 ##### Government Employees Compensation Act
@@ -3253,7 +3263,7 @@ No execution shall issue on a judgment given against the Senate, House of Common
 
 Paragraph (e) of the definition **employee** in section 2 of the `Government Employees Compensation Act` is replaced by the following:
 
-any officer or employee of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**; (**agents de l'État**)
+any officer or employee of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer; (**agents de l'État**)
 
 
 ##### Public Service Superannuation Act
@@ -3262,7 +3272,7 @@ any officer or employee of the Senate, House of Commons, Library of Parliament, 
 
 The definition **public service** in subsection 3(1) of the `Public Service Superannuation Act` is replaced by the following:
 
-**public service** means the several positions in or under any department or portion of the executive government of Canada, except those portions of departments or portions of the executive government of Canada prescribed by the regulations and, for the purposes of this Part, of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and **office of the Parliamentary Budget Officer** and any board, commission, corporation or portion of the federal public administration specified in Schedule I; (**fonction publique**)
+**public service** means the several positions in or under any department or portion of the executive government of Canada, except those portions of departments or portions of the executive government of Canada prescribed by the regulations and, for the purposes of this Part, of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer and any board, commission, corporation or portion of the federal public administration specified in Schedule I; (**fonction publique**)
 
 
 ##### Radiocommunication Act
@@ -3273,11 +3283,20 @@ The definition **public service** in subsection 3(1) of the `Public Service Supe
 
 ### Section 3
 
-      **(1)** Subject to subsection (2), this Act is binding on Her Majesty in right of Canada, on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and **office of the Parliamentary Budget Officer** and on Her Majesty in right of a province.
+      **(1)** Subject to subsection (2), this Act is binding on Her Majesty in right of Canada, on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer and on Her Majesty in right of a province.
 
   **(2)** The portion of subsection 3(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The Governor in Council may by order exempt Her Majesty in right of Canada, or the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, as represented by the person or persons named in the order, from any or all provisions of this Act or the regulations, and such an exemption may be
+    **(2)** The Governor in Council may by order exempt Her Majesty in right of Canada, or the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as represented by the person or persons named in the order, from any or all provisions of this Act or the regulations, and such an exemption may be
+
+
+##### Royal Canadian Mounted Police Act
+
+### Section 173.1
+
+Subsection 45.47(5) of the `Royal Canadian Mounted Police Act` is replaced by the following:
+
+**(5)** This section applies despite subsection 13(1) of the `Auditor General Act` and subsection 79.4(1) of the `Parliament of Canada Act`.
 
 
 ##### Parliamentary Employment and Staff Relations Act
@@ -3290,7 +3309,7 @@ The long title of the `Parliamentary Employment and Staff Relations Act` is repl
 
 Paragraph 2(a) of the Act is replaced by the following:
 
-the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, and
+the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, and
 
 ### Section 176
 
@@ -3311,7 +3330,7 @@ the office of the Parliamentary Budget Officer as represented by the Parliamenta
 
 Paragraph (c) of the definition **employer** in subsection 2(1) of the `Non-smokers' Health Act` is replaced by the following:
 
-the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, in relation to their employees or the employees of a committee of the Senate or House of Commons, as the case may be, or
+the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, in relation to their employees or the employees of a committee of the Senate or House of Commons, as the case may be, or
 
 
 ##### Official Languages Act
@@ -3328,7 +3347,7 @@ Section 33 of the Act is replaced by the following:
 
 ### Section 33
 
-The Governor in Council may make any regulations that the Governor in Council considers necessary to foster actively communications with and services from offices or facilities of federal institutions — other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer** — in both official languages, if those communications and services are required under this Part to be provided in both official languages.
+The Governor in Council may make any regulations that the Governor in Council considers necessary to foster actively communications with and services from offices or facilities of federal institutions — other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer — in both official languages, if those communications and services are required under this Part to be provided in both official languages.
 
 ### Section 181
 
@@ -3336,17 +3355,17 @@ The Governor in Council may make any regulations that the Governor in Council co
 
 ### Section 38
 
-      **(1)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**,
+      **(1)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer,
 
   **(2)** Paragraph 38(2)(b) of the English version of the Act is replaced by the following:
 
-    substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
+    substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
 
 ### Section 182
 
 Subsection 41(3) of the Act is replaced by the following:
 
-**(3)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**, prescribing the manner in which any duties of those institutions under this Part are to be carried out.
+**(3)** The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, prescribing the manner in which any duties of those institutions under this Part are to be carried out.
 
 ### Section 183
 
@@ -3354,13 +3373,13 @@ Subsection 46(1) of the Act is replaced by the following:
 
 ### Section 46
 
-  **(1)** The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and **office of the Parliamentary Budget Officer**.
+  **(1)** The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer.
 
 ### Section 184
 
 Paragraph 93(a) of the Act is replaced by the following:
 
-prescribing anything that the Governor in Council considers necessary to effect compliance with this Act in the conduct of the affairs of federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**; and
+prescribing anything that the Governor in Council considers necessary to effect compliance with this Act in the conduct of the affairs of federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer; and
 
 
 ##### Public Sector Compensation Act
@@ -3369,7 +3388,7 @@ prescribing anything that the Governor in Council considers necessary to effect 
 
 Paragraph 3(1)(c) of the `Public Sector Compensation Act` is replaced by the following:
 
-the Senate, House of Commons, Library of Parliament, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**.
+the Senate, House of Commons, Library of Parliament, Parliamentary Protective Service or office of the Parliamentary Budget Officer.
 
 
 ##### Public Service Employment Act
@@ -3380,7 +3399,7 @@ The portion of section 35.3 of the `Public Service Employment Act` before paragr
 
 ### Section 35.3
 
-A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or **office of the Parliamentary Budget Officer**
+A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer
 
 
 ##### Conflict of Interest Act
@@ -3408,7 +3427,7 @@ in the case of the Parliamentary Budget Officer, to the Speakers of the Senate a
 
 Paragraph 13(1)(c) of the `Expenditure Restraint Act` is replaced by the following:
 
-the Senate, the House of Commons, the Library of Parliament, the office of the Senate Ethics Officer, the office of the Conflict of Interest and Ethics Commissioner, the Parliamentary Protective Service and **the office of the Parliamentary Budget Officer**.
+the Senate, the House of Commons, the Library of Parliament, the office of the Senate Ethics Officer, the office of the Conflict of Interest and Ethics Commissioner, the Parliamentary Protective Service and the office of the Parliamentary Budget Officer.
 
 
 ##### Language Skills Act
@@ -3436,7 +3455,7 @@ Sections `126` to `129` and `131` to `190` come into force on a day to be fixed 
 
 Paragraphs 14.1(1)(a) to (d) of the `Investment Canada Act` are replaced by the following:
 
-for an investment implemented at any time in the period that begins **on the day on which this paragraph comes into force** and that ends on December 31 **of** the following **year**, $1,000,000,000; and
+for an investment implemented at any time in the period that begins on the day on which this paragraph comes into force and that ends on December 31 of the following year, $1,000,000,000; and
 
 ### Section 193
 
@@ -3492,21 +3511,21 @@ the enterprise value of the assets to which the application relates is less than
 
 Paragraphs 9(a) and (b) of the `Judges Act` are replaced by the following:
 
-the Chief Justice of Canada, $**403,800**; and
+the Chief Justice of Canada, $403,800; and
 
-the eight puisne judges, $**373,900** each.
+the eight puisne judges, $373,900 each.
 
 ### Section 197
 
 Paragraphs 10(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of the Federal Court of Appeal, $**344,400**;
+the Chief Justice of the Federal Court of Appeal, $344,400;
 
-the other judges of the Federal Court of Appeal, $**314,100** each;
+the other judges of the Federal Court of Appeal, $314,100 each;
 
-the Chief Justice of the Federal Court, $**344,400**; and
+the Chief Justice of the Federal Court, $344,400; and
 
-the other judges of the Federal Court, $**314,100** each.
+the other judges of the Federal Court, $314,100 each.
 
 ### Section 198
 
@@ -3514,169 +3533,169 @@ Section 10.1 of the Act is replaced by the following:
 
 ### Section 10.1
 
-The yearly salaries of the prothonotaries of the Federal Court shall be **80**% of the yearly salaries, calculated in accordance with section 25, of the judges referred to in paragraph 10(d).
+The yearly salaries of the prothonotaries of the Federal Court shall be 80% of the yearly salaries, calculated in accordance with section 25, of the judges referred to in paragraph 10(d).
 
-### Section **10.2**
+### Section 10.2
 
-**The yearly salary of the Chief Justice of the Court Martial Appeal Court of Canada shall be $344,400.**
+The yearly salary of the Chief Justice of the Court Martial Appeal Court of Canada shall be $344,400.
 
 ### Section 199
 
 Paragraphs 11(a) to (c) of the Act are replaced by the following:
 
-the Chief Justice, $**344,400**;
+the Chief Justice, $344,400;
 
-the Associate Chief Justice, $**344,400**; and
+the Associate Chief Justice, $344,400; and
 
-the other judges, $**314,100** each.
+the other judges, $314,100 each.
 
 ### Section 200
 
 Paragraphs 12(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice and the Associate Chief Justice of Ontario, $**344,400** each;
+the Chief Justice and the Associate Chief Justice of Ontario, $344,400 each;
 
-the 14 Justices of Appeal, $**314,100** each;
+the 14 Justices of Appeal, $314,100 each;
 
-the Chief Justice and the Associate Chief Justice of the Superior Court of Justice, $**344,400** each; and
+the Chief Justice and the Associate Chief Justice of the Superior Court of Justice, $344,400 each; and
 
-the 192 other judges of the Superior Court of Justice, $**314,100** each.
+the 192 other judges of the Superior Court of Justice, $314,100 each.
 
 ### Section 201
 
 Paragraphs 13(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Quebec, $**344,400**;
+the Chief Justice of Quebec, $344,400;
 
-the 18 puisne judges of the Court of Appeal, $**314,100** each;
+the 18 puisne judges of the Court of Appeal, $314,100 each;
 
-the Chief Justice, the Senior Associate Chief Justice and the Associate Chief Justice of the Superior Court, $**344,400** each; and
+the Chief Justice, the Senior Associate Chief Justice and the Associate Chief Justice of the Superior Court, $344,400 each; and
 
-the 144 puisne judges of the Superior Court, $**314,100** each.
+the 144 puisne judges of the Superior Court, $314,100 each.
 
 ### Section 202
 
 Paragraphs 14(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Nova Scotia, $**344,400**;
+the Chief Justice of Nova Scotia, $344,400;
 
-the seven other judges of the Court of Appeal, $**314,100** each;
+the seven other judges of the Court of Appeal, $314,100 each;
 
-the Chief Justice and the Associate Chief Justice of the Supreme Court, $**344,400** each; and
+the Chief Justice and the Associate Chief Justice of the Supreme Court, $344,400 each; and
 
-the 23 other judges of the Supreme Court, $**314,100** each.
+the 23 other judges of the Supreme Court, $314,100 each.
 
 ### Section 203
 
 Paragraphs 15(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of New Brunswick, $**344,400**;
+the Chief Justice of New Brunswick, $344,400;
 
-the five other judges of the Court of Appeal, $**314,100** each;
+the five other judges of the Court of Appeal, $314,100 each;
 
-the Chief Justice of the Court of Queen's Bench, $**344,400**; and
+the Chief Justice of the Court of Queen's Bench, $344,400; and
 
-the 21 other judges of the Court of Queen's Bench, $**314,100** each.
+the 21 other judges of the Court of Queen's Bench, $314,100 each.
 
 ### Section 204
 
 Paragraphs 16(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Manitoba, $**344,400**;
+the Chief Justice of Manitoba, $344,400;
 
-the six Judges of Appeal, $**314,100** each;
+the six Judges of Appeal, $314,100 each;
 
-the Chief Justice, the Senior Associate Chief Justice and the Associate Chief Justice of the Court of Queen's Bench, $**344,400** each; and
+the Chief Justice, the Senior Associate Chief Justice and the Associate Chief Justice of the Court of Queen's Bench, $344,400 each; and
 
-the 31 puisne judges of the Court of Queen's Bench, $**314,100** each.
+the 31 puisne judges of the Court of Queen's Bench, $314,100 each.
 
 ### Section 205
 
 Paragraphs 17(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of British Columbia, $**344,400**;
+the Chief Justice of British Columbia, $344,400;
 
-the 12 Justices of Appeal, $**314,100** each;
+the 12 Justices of Appeal, $314,100 each;
 
-the Chief Justice and the Associate Chief Justice of the Supreme Court, $**344,400** each; and
+the Chief Justice and the Associate Chief Justice of the Supreme Court, $344,400 each; and
 
-the 81 other judges of the Supreme Court, $**314,100** each.
+the 81 other judges of the Supreme Court, $314,100 each.
 
 ### Section 206
 
 Paragraphs 18(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Prince Edward Island, $**344,400**;
+the Chief Justice of Prince Edward Island, $344,400;
 
-the two other judges of the Court of Appeal, $**314,100** each;
+the two other judges of the Court of Appeal, $314,100 each;
 
-the Chief Justice of the Supreme Court, $**344,400**; and
+the Chief Justice of the Supreme Court, $344,400; and
 
-the three other judges of the Supreme Court, $**314,100** each.
+the three other judges of the Supreme Court, $314,100 each.
 
 ### Section 207
 
 Paragraphs 19(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Saskatchewan, $**344,400**;
+the Chief Justice of Saskatchewan, $344,400;
 
-the six Judges of Appeal, $**314,100** each;
+the six Judges of Appeal, $314,100 each;
 
-the Chief Justice of the Court of Queen's Bench, $**344,400**; and
+the Chief Justice of the Court of Queen's Bench, $344,400; and
 
-the 29 other judges of the Court of Queen's Bench, $**314,100** each.
+the 29 other judges of the Court of Queen's Bench, $314,100 each.
 
 ### Section 208
 
 Paragraphs 20(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Alberta, $**344,400**;
+the Chief Justice of Alberta, $344,400;
 
-the 10 Justices of Appeal, $**314,100** each;
+the 10 Justices of Appeal, $314,100 each;
 
-the Chief Justice and the Associate Chief Justice of the Court of Queen's Bench, $**344,400** each; and
+the Chief Justice and the Associate Chief Justice of the Court of Queen's Bench, $344,400 each; and
 
-the **68** other Justices of the Court of Queen's Bench, $**314,100** each.
+the 68 other Justices of the Court of Queen's Bench, $314,100 each.
 
 ### Section 209
 
 Paragraphs 21(a) to (d) of the Act are replaced by the following:
 
-the Chief Justice of Newfoundland and Labrador, $**344,400**;
+the Chief Justice of Newfoundland and Labrador, $344,400;
 
-the five Judges of Appeal, $**314,100** each;
+the five Judges of Appeal, $314,100 each;
 
-the Chief Justice of the Trial Division, $**344,400**; and
+the Chief Justice of the Trial Division, $344,400; and
 
-the 18 other judges of the Trial Division, $**314,100** each.
+the 18 other judges of the Trial Division, $314,100 each.
 
 ### Section 210
 
   **(1)** Paragraphs 22(1)(a) and (b) of the Act are replaced by the following:
 
-    the senior judge, $**344,400**; and
+    the senior judge, $344,400; and
 
-    the **two** other **judges**, $**314,100 each**.
+    the two other judges, $314,100 each.
 
   **(2)** Paragraphs 22(2)(a) and (b) of the Act are replaced by the following:
 
-    the senior judge, $**344,400**; and
+    the senior judge, $344,400; and
 
-    the two other judges, $**314,100** each.
+    the two other judges, $314,100 each.
 
   **(3)** Paragraphs 22(2.1)(a) and (b) of the Act are replaced by the following:
 
-    the senior judge, $**344,400**; and
+    the senior judge, $344,400; and
 
-    the four other judges, $**314,100** each.
+    the four other judges, $314,100 each.
 
 ### Section 211
 
 Paragraphs 24(3)(a) and (b) of the Act are replaced by the following:
 
-**16**, in the case of judges appointed to appeal courts in the provinces; and
+16, in the case of judges appointed to appeal courts in the provinces; and
 
-**62**, in the case of judges appointed to superior courts in the provinces other than appeal courts.
+62, in the case of judges appointed to superior courts in the provinces other than appeal courts.
 
 ### Section 212
 
@@ -3684,25 +3703,25 @@ Paragraphs 24(3)(a) and (b) of the Act are replaced by the following:
 
 ### Section 25
 
-      **(1)** The yearly salaries referred to in sections 9 to 22 apply in respect of the twelve-month period **beginning on** April 1, **2016**.
+      **(1)** The yearly salaries referred to in sections 9 to 22 apply in respect of the twelve-month period beginning on April 1, 2016.
 
   **(2)** The portion of subsection 25(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The salary annexed to an office of judge **referred to** in sections 9, 10 and **10.2** to 22 for the twelve-month period **beginning on** April 1, **2017**, and for each subsequent twelve-month period, shall be the amount obtained by multiplying
+    **(2)** The salary annexed to an office of judge referred to in sections 9, 10 and 10.2 to 22 for the twelve-month period beginning on April 1, 2017, and for each subsequent twelve-month period, shall be the amount obtained by multiplying
 
 ### Section 213
 
 Subsection 26(2) of the Act is replaced by the following:
 
-**(2)** The Commission shall commence an inquiry on **June** 1, **2020**, and on **June** 1 of every fourth year after **2020**, and shall submit a report containing its recommendations to the Minister of Justice of Canada within nine months after the date of commencement.
+**(2)** The Commission shall commence an inquiry on June 1, 2020, and on June 1 of every fourth year after 2020, and shall submit a report containing its recommendations to the Minister of Justice of Canada within nine months after the date of commencement.
 
 ### Section 214
 
 The Act is amended by adding the following after section 26.1:
 
-### Section **26.11**
+### Section 26.11
 
-**In sections 26 and 26.1, **judiciary** includes the prothonotaries of the Federal Court.**
+In sections 26 and 26.1, **judiciary** includes the prothonotaries of the Federal Court.
 
 ### Section 215
 
@@ -3712,21 +3731,21 @@ Section 26.4 of the Act is replaced by the following:
 
   **(1)** The Commission may identify one representative of the prothonotaries of the Federal Court participating in an inquiry of the Commission to whom costs shall be paid in accordance with this section.
 
-  ****(2)**** **The representative identified under subsection (1) is entitled to be paid, out of the Consolidated Revenue Fund, 95% of the costs determined under subsection (3) in respect of his or her participation.**
+  **(2)** The representative identified under subsection (1) is entitled to be paid, out of the Consolidated Revenue Fund, 95% of the costs determined under subsection (3) in respect of his or her participation.
 
-  ****(3)**** **An assessment officer of the Federal Court, other than a judge or a prothonotary, shall determine the amount of costs, on a solicitor-and-client basis, in accordance with the `Federal Courts Rules`.**
+  **(3)** An assessment officer of the Federal Court, other than a judge or a prothonotary, shall determine the amount of costs, on a solicitor-and-client basis, in accordance with the `Federal Courts Rules`.
 
-  ****(4)**** **This section applies to costs incurred as of April 1, 2015 in relation to participation in any inquiry of the Commission.**
+  **(4)** This section applies to costs incurred as of April 1, 2015 in relation to participation in any inquiry of the Commission.
 
 ### Section 216
 
   **(1)** Section 27 of the Act is amended by adding the following after subsection (1):
 
-    ****(1.1)**** **On and after April 1, 2016, every prothonotary in receipt of a salary under this Act is entitled to be paid, up to a maximum of $3,000 for each year, for reasonable incidental expenditures that the fit and proper execution of the office of prothonotary may require, to the extent that the prothonotary has actually incurred the expenditures and is not entitled to be reimbursed for them under any other provision of this Act.**
+    **(1.1)** On and after April 1, 2016, every prothonotary in receipt of a salary under this Act is entitled to be paid, up to a maximum of $3,000 for each year, for reasonable incidental expenditures that the fit and proper execution of the office of prothonotary may require, to the extent that the prothonotary has actually incurred the expenditures and is not entitled to be reimbursed for them under any other provision of this Act.
 
   **(2)** Subsection 27(2) of the French version of the Act is replaced by the following:
 
-    **(2)** À compter du 1er avril 2004, les juges de la Cour **suprême** de Terre-Neuve-et-Labrador qui résident au Labrador, les juges des cours suprêmes du Yukon et des Territoires du Nord-Ouest et de la Cour de justice du Nunavut rémunérés au titre de la présente loi reçoivent en outre, sans avoir à en rendre compte, une indemnité de vie chère de 12 000 $ par an pour les territoires et le Labrador.
+    **(2)** À compter du 1er avril 2004, les juges de la Cour suprême de Terre-Neuve-et-Labrador qui résident au Labrador, les juges des cours suprêmes du Yukon et des Territoires du Nord-Ouest et de la Cour de justice du Nunavut rémunérés au titre de la présente loi reçoivent en outre, sans avoir à en rendre compte, une indemnité de vie chère de 12 000 $ par an pour les territoires et le Labrador.
 
 ### Section 217
 
@@ -3734,15 +3753,15 @@ Subsection 31(1) of the French version of the Act is replaced by the following:
 
 ### Section 31
 
-  **(1)** Les juges en chef de la Cour d'appel fédérale ou de la Cour fédérale ou le juge en chef ou juge en chef adjoint de la Cour canadienne de l'impôt peuvent, en avisant le ministre de la Justice du Canada de leur décision, devenir simples juges du tribunal auquel ils appartiennent; le cas échéant, ils exercent cette charge **et touchent le traitement correspondant** jusqu'à la cessation de leurs fonctions, notamment par mise à la retraite d'office, démission ou révocation.
+  **(1)** Les juges en chef de la Cour d'appel fédérale ou de la Cour fédérale ou le juge en chef ou juge en chef adjoint de la Cour canadienne de l'impôt peuvent, en avisant le ministre de la Justice du Canada de leur décision, devenir simples juges du tribunal auquel ils appartiennent; le cas échéant, ils exercent cette charge et touchent le traitement correspondant jusqu'à la cessation de leurs fonctions, notamment par mise à la retraite d'office, démission ou révocation.
 
 ### Section 218
 
 The Act is amended by adding the following after section 31:
 
-### Section **31.1**
+### Section 31.1
 
-**If the Chief Justice of the Court Martial Appeal Court of Canada notifies the Minister of Justice of Canada of their election to cease to perform the duties of that office and to perform only the duties of a judge of the court on which they serve, they shall, after giving that notice, hold only the office of a judge and shall be paid the salary annexed to the office of a judge, until they reach the age of retirement, resign or are removed from or otherwise cease to hold office.**
+If the Chief Justice of the Court Martial Appeal Court of Canada notifies the Minister of Justice of Canada of their election to cease to perform the duties of that office and to perform only the duties of a judge of the court on which they serve, they shall, after giving that notice, hold only the office of a judge and shall be paid the salary annexed to the office of a judge, until they reach the age of retirement, resign or are removed from or otherwise cease to hold office.
 
 ### Section 219
 
@@ -3750,23 +3769,23 @@ Subsection 33(1) of the Act is replaced by the following:
 
 ### Section 33
 
-  **(1)** **If** a judge gives notice to the Minister of Justice of Canada and, **if** appropriate, to the attorney general of the province concerned of the judge's election as provided in section 28, 29, 31, **31.1**, 32 or **32.1** to be effective on a future day specified in the notice, being a day on which the judge will be eligible to so elect, the judge **is**, effective on that day, deemed to have elected and given notice **of the election** on that day **under** section 28, 29, 31, **31.1**, 32 or **32.1**, as the case may be.
+  **(1)** If a judge gives notice to the Minister of Justice of Canada and, if appropriate, to the attorney general of the province concerned of the judge's election as provided in section 28, 29, 31, 31.1, 32 or 32.1 to be effective on a future day specified in the notice, being a day on which the judge will be eligible to so elect, the judge is, effective on that day, deemed to have elected and given notice of the election on that day under section 28, 29, 31, 31.1, 32 or 32.1, as the case may be.
 
 ### Section 220
 
   **(1)** The portion of paragraph 40(1)(c) of the Act before subparagraph (i) is replaced by the following:
 
-    a judge of **the Supreme Court of Newfoundland and Labrador resident in Labrador**, the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice who moves to a place of residence in one of the **10** provinces or in another territory during the period of two years
+    a judge of the Supreme Court of Newfoundland and Labrador resident in Labrador, the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice who moves to a place of residence in one of the 10 provinces or in another territory during the period of two years
 
   **(2)** Paragraph 40(1)(d) of the Act is replaced by the following:
 
-    a survivor or child, as defined in subsection 47(1), of a judge of **the Supreme Court of Newfoundland and Labrador resident in Labrador**, the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice who dies while holding office as such, **if** the survivor or child lives with the judge at the time of the judge's death and, within two years after the death, moves to a place of residence in one of the **10** provinces or **in** another territory;
+    a survivor or child, as defined in subsection 47(1), of a judge of the Supreme Court of Newfoundland and Labrador resident in Labrador, the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice who dies while holding office as such, if the survivor or child lives with the judge at the time of the judge's death and, within two years after the death, moves to a place of residence in one of the 10 provinces or in another territory;
 
   **(3)** Subsection 40(1.1) of the Act is replaced by the following:
 
     **(1.1)** Paragraphs (1)(c) and (d) apply only in respect of
 
-      a judge who resided in one of the **10** provinces or in another territory at the time of appointment to the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, as the case may be; **or**
+      a judge who resided in one of the 10 provinces or in another territory at the time of appointment to the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, as the case may be; or
 
       a judge of the Supreme Court of Newfoundland and Labrador resident in Labrador who at the time of appointment did not reside there.
 
@@ -3778,26 +3797,26 @@ Subsection 33(1) of the Act is replaced by the following:
 
   **(2)** Subsection 43(3) of the Act is replaced by the following:
 
-    ****(2.1)**** **If the Chief Justice of the Court Martial Appeal Court of Canada, in accordance with section 31.1, has elected to cease to perform his or her duties as such and to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office held by him or her immediately before his or her election, if he or she had continued in that office for at least five years or had continued in that office and any other office of chief justice for a total of at least five years.**
+    **(2.1)** If the Chief Justice of the Court Martial Appeal Court of Canada, in accordance with section 31.1, has elected to cease to perform his or her duties as such and to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office held by him or her immediately before his or her election, if he or she had continued in that office for at least five years or had continued in that office and any other office of chief justice for a total of at least five years.
 
     **(2.2)** If a chief justice or a senior judge, as defined in subsection 22(3), is appointed to a different court to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office of chief justice or position of senior judge, if he or she had continued in that office or position for at least five years or had continued in that office or position and any other office or position of chief justice or senior judge for at least five years.
 
-    **(3)** In **subsections** (2) **to (2.2)**, **chief justice** or **chief justice of a superior court of a province** means a chief justice, senior associate chief justice or associate chief justice of that court, or, **if** that court is constituted with divisions, of a division **of that court**.
+    **(3)** In subsections (2) to (2.2), **chief justice** or **chief justice of a superior court of a province** means a chief justice, senior associate chief justice or associate chief justice of that court, or, if that court is constituted with divisions, of a division of that court.
 
-    ****(4)**** **Subsections (1) and (2) are deemed to have come into force on April 1, 2012.**
+    **(4)** Subsections (1) and (2) are deemed to have come into force on April 1, 2012.
 
 ### Section 222
 
 Paragraph 44(1)(b) of the Act is replaced by the following:
 
-the salary annexed, at the date of death, to the office previously held by the judge of chief justice, senior associate chief justice or associate chief justice, if **one of** subsections 43(1), **(1.1)**, (2), **(2.1)** or **(2.2)** would have applied to the judge if he or she had resigned, been removed or attained the age of retirement, on the day of death,
+the salary annexed, at the date of death, to the office previously held by the judge of chief justice, senior associate chief justice or associate chief justice, if one of subsections 43(1), (1.1), (2), (2.1) or (2.2) would have applied to the judge if he or she had resigned, been removed or attained the age of retirement, on the day of death,
 
 ### Section 223
 
 The heading before section 52 of the French version of the Act is replaced by the following:
 
 
-### Saisie-arrêt relative à **un soutien financier**
+### Saisie-arrêt relative à un soutien financier
 
 ### Section 224
 
@@ -3805,47 +3824,47 @@ Subsection 52(1) of the Act is replaced by the following:
 
 ### Section 52
 
-  **(1)** **If a** court in Canada of competent jurisdiction has made an order requiring a recipient of an annuity or other amount payable under section 42, 43, **43.1**, 44, 44.1 or 44.2 or subsection 51(1) to pay financial support, amounts so payable to the recipient are subject to being diverted to the person named in the order in accordance with Part II of the `Garnishment, Attachment and Pension Diversion Act`.
+  **(1)** If a court in Canada of competent jurisdiction has made an order requiring a recipient of an annuity or other amount payable under section 42, 43, 43.1, 44, 44.1 or 44.2 or subsection 51(1) to pay financial support, amounts so payable to the recipient are subject to being diverted to the person named in the order in accordance with Part II of the `Garnishment, Attachment and Pension Diversion Act`.
 
 ### Section 225
 
   **(1)** The portion of subsection 52.14(3) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Sous réserve des paragraphes (3.1) et (4), dans le cas où le juge **n'est pas admissible** à une pension à la fin de la période visée par le partage, l'approbation par le ministre du partage des prestations de pension entraîne l'attribution à l'époux, ex-époux ou ancien conjoint de fait du juge d'une part des prestations de pension, constituée de l'une des sommes suivantes :
+    **(3)** Sous réserve des paragraphes (3.1) et (4), dans le cas où le juge n'est pas admissible à une pension à la fin de la période visée par le partage, l'approbation par le ministre du partage des prestations de pension entraîne l'attribution à l'époux, ex-époux ou ancien conjoint de fait du juge d'une part des prestations de pension, constituée de l'une des sommes suivantes :
 
   **(2)** The portion of subsection 52.14(3.1) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(3.1)** Sous réserve du paragraphe (4), lorsque le ministre approuve le partage des prestations de pension d'un juge à qui a été accordée une pension pour cause d'infirmité mais qui n'**était** pas autrement **admissible** à une pension à la fin de la période visée par le partage, l'époux, ex-époux ou ancien conjoint de fait a droit à une partie des prestations de pension équivalant à l'une des sommes suivantes :
+    **(3.1)** Sous réserve du paragraphe (4), lorsque le ministre approuve le partage des prestations de pension d'un juge à qui a été accordée une pension pour cause d'infirmité mais qui n'était pas autrement admissible à une pension à la fin de la période visée par le partage, l'époux, ex-époux ou ancien conjoint de fait a droit à une partie des prestations de pension équivalant à l'une des sommes suivantes :
 
   **(3)** Paragraph 52.14(3.1)(a) of the Act is replaced by the following:
 
-    an amount equal to 50% of the contributions that would have been made during the period described **in** subparagraph (2)(b)(i) if the judge had continued in office, **on the basis of the salary annexed to the office held by the judge at the time the judge ceased to hold office**, plus 50% of any interest payable on those contributions; or
+    an amount equal to 50% of the contributions that would have been made during the period described in subparagraph (2)(b)(i) if the judge had continued in office, on the basis of the salary annexed to the office held by the judge at the time the judge ceased to hold office, plus 50% of any interest payable on those contributions; or
 
   **(4)** Subsections 52.14(4) and (5) of the French version of the Act are replaced by the following:
 
-    **(4)** L'époux, ex-époux ou ancien conjoint de fait d'un juge qui a droit à une partie des cotisations de celui-ci aux termes des paragraphes (3) ou (3.1) peut choisir, selon les modalités réglementaires, de recevoir en échange de cette partie, au moment où le juge a droit à une pension — ou au moment où le juge aurait **été admissible** à une pension s'il n'avait pas démissionné ou été révoqué par suite d'une infirmité —, une part de la pension à laquelle le juge a ou aurait eu droit, déterminée conformément au paragraphe (1).
+    **(4)** L'époux, ex-époux ou ancien conjoint de fait d'un juge qui a droit à une partie des cotisations de celui-ci aux termes des paragraphes (3) ou (3.1) peut choisir, selon les modalités réglementaires, de recevoir en échange de cette partie, au moment où le juge a droit à une pension — ou au moment où le juge aurait été admissible à une pension s'il n'avait pas démissionné ou été révoqué par suite d'une infirmité —, une part de la pension à laquelle le juge a ou aurait eu droit, déterminée conformément au paragraphe (1).
 
-    **(5)** Si le juge décède ou cesse d'exercer ses fonctions, notamment par mise à la retraite d'office, démission ou révocation, avant **d'être admissible** à une pension, l'époux, ex-époux ou ancien conjoint de fait qui a effectué le choix visé au paragraphe (4) reçoit plutôt sur-le-champ la partie des cotisations versées par le juge à laquelle il avait autrement droit conformément aux paragraphes (3) ou (3.1).
+    **(5)** Si le juge décède ou cesse d'exercer ses fonctions, notamment par mise à la retraite d'office, démission ou révocation, avant d'être admissible à une pension, l'époux, ex-époux ou ancien conjoint de fait qui a effectué le choix visé au paragraphe (4) reçoit plutôt sur-le-champ la partie des cotisations versées par le juge à laquelle il avait autrement droit conformément aux paragraphes (3) ou (3.1).
 
 ### Section 226
 
   **(1)** Paragraph 52.22(a) of the French version of the Act is replaced by the following:
 
-    **régir** les modalités d'une demande, les renseignements à fournir dans la demande et les documents qui doivent l'accompagner;
+    régir les modalités d'une demande, les renseignements à fournir dans la demande et les documents qui doivent l'accompagner;
 
   **(2)** Paragraphs 52.22(j) and (k) of the French version of the Act are replaced by the following:
 
-    **régir**, pour l'application du paragraphe 52.14(1), la valeur d'une pension attribuée pour une période visée par le partage;
+    régir, pour l'application du paragraphe 52.14(1), la valeur d'une pension attribuée pour une période visée par le partage;
 
-    **régir**, pour l'application des paragraphes 52.14(2) et (3.1), la date prévue pour la retraite du juge;
+    régir, pour l'application des paragraphes 52.14(2) et (3.1), la date prévue pour la retraite du juge;
 
   **(3)** Paragraph 52.22(n) of the French version of the Act is replaced by the following:
 
-    prévoir, pour l'application de l'alinéa 52.14(6)b), la façon de déterminer la période **pendant laquelle les** intéressés **ont cohabité**;
+    prévoir, pour l'application de l'alinéa 52.14(6)b), la façon de déterminer la période pendant laquelle les intéressés ont cohabité;
 
   **(4)** Paragraph 52.22(r) of the French version of the Act is replaced by the following:
 
-    **régir**, pour l'application du paragraphe 52.15(2), la portion d'une pension attribuée pour une période visée par le partage;
+    régir, pour l'application du paragraphe 52.15(2), la portion d'une pension attribuée pour une période visée par le partage;
 
 
 #### Transitional Provision
@@ -3876,7 +3895,7 @@ Despite subsection 26.1(3) of the `Judges Act`, the term of office of the three 
 
 The definition **special benefits** in subsection 2(1) of the `Employment Insurance Act` is replaced by the following:
 
-**special benefits** means benefits paid for any reason mentioned in subsection 12(3) **or 152.14(1)**; (**prestations spéciales**)
+**special benefits** means benefits paid for any reason mentioned in subsection 12(3) or 152.14(1); (**prestations spéciales**)
 
 ### Section 230
 
@@ -3900,7 +3919,7 @@ The definition **special benefits** in subsection 2(1) of the `Employment Insura
 
   **(4)** Paragraph 10(13)(b) of the Act is replaced by the following:
 
-    benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (**f**) and at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons, and
+    benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (f) and at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons, and
 
   **(5)** Section 10 of the Act is amended by adding the following after subsection (13):
 
@@ -3918,19 +3937,19 @@ The definition **special benefits** in subsection 2(1) of the `Employment Insura
 
   **(6)** Subsection 10(14) of the Act is replaced by the following:
 
-    **(14)** **An** extension under **one or more** of subsections (10) to (**13.02**) must not result in a benefit period of more than 104 weeks.
+    **(14)** An extension under one or more of subsections (10) to (13.02) must not result in a benefit period of more than 104 weeks.
 
   **(7)** Subsection 10(15) of the Act is replaced by the following:
 
-    **(15)** **Subject to subsection (14)**, unless the benefit period is also extended under any of subsections (10) to (12.1), an extension under subsection (13) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 12(3) for each of the benefits paid to the claimant for one of the reasons mentioned in paragraphs 12(3)(a) to (**f**) during the claimant's benefit period before it was extended under subsection (13).
+    **(15)** Subject to subsection (14), unless the benefit period is also extended under any of subsections (10) to (12.1), an extension under subsection (13) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 12(3) for each of the benefits paid to the claimant for one of the reasons mentioned in paragraphs 12(3)(a) to (f) during the claimant's benefit period before it was extended under subsection (13).
 
 ### Section 231
 
   **(1)** Paragraph 12(3)(b) of the Act is replaced by the following:
 
-    because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is, **in accordance with the election under section 23**,
+    because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is, in accordance with the election under section 23,
 
-    35, **or**
+    35, or
 
     61;
 
@@ -3940,15 +3959,15 @@ The definition **special benefits** in subsection 2(1) of the `Employment Insura
 
   **(3)** Paragraph 12(4)(b) of the Act is replaced by the following:
 
-    for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, **in accordance with the election under section 23**, 35 **or 61**.
+    for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, in accordance with the election under section 23, 35 or 61.
 
   **(4)** Subsection 12(4.01) of the Act is replaced by the following:
 
-    **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, **in accordance with the election under section 23**, 35 **or 61**.
+    **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, in accordance with the election under section 23, 35 or 61.
 
   **(5)** Subsection 12(4.5) of the Act is replaced by the following:
 
-    **(4.5)** Even if more than one claim is made under this Act, at least one of which is made under section **23.3** — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section **23.3** — for the same reason and in respect of the same critically ill **adult**, the maximum number of weeks of benefits payable under this Act in respect of **that adult** is **15** weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph **23.3(3)(a)**.
+    **(4.5)** Even if more than one claim is made under this Act, at least one of which is made under section 23.3 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 23.3 — for the same reason and in respect of the same critically ill adult, the maximum number of weeks of benefits payable under this Act in respect of that adult is 15 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 23.3(3)(a).
 
   **(6)** Section 12 of the Act is amended by adding the following after subsection (6):
 
@@ -3964,19 +3983,19 @@ Subsection 14(1) of the Act is replaced by the following:
 
 ### Section 14
 
-  **(1)** The rate of weekly benefits payable to a claimant is 55% of their weekly insurable earnings, **or 33% of their weekly insurable earnings for the weeks for which the claimant is paid benefits under section 23 in the case where the applicable maximum number of weeks is established under subparagraph 12(3)(b)(ii)**.
+  **(1)** The rate of weekly benefits payable to a claimant is 55% of their weekly insurable earnings, or 33% of their weekly insurable earnings for the weeks for which the claimant is paid benefits under section 23 in the case where the applicable maximum number of weeks is established under subparagraph 12(3)(b)(ii).
 
 ### Section 233
 
 Subsection 18(2) of the Act is replaced by the following:
 
-**(2)** A claimant to whom benefits are payable under any of sections 23 to **23.3** is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
+**(2)** A claimant to whom benefits are payable under any of sections 23 to 23.3 is not disentitled under paragraph (1)(b) for failing to prove that he or she would have been available for work were it not for the illness, injury or quarantine.
 
 ### Section 234
 
 Subparagraph 22(2)(a)(i) of the Act is replaced by the following:
 
-**12** weeks before the week in which her confinement is expected, and
+12 weeks before the week in which her confinement is expected, and
 
 ### Section 235
 
@@ -3990,15 +4009,15 @@ Subparagraph 22(2)(a)(i) of the Act is replaced by the following:
 
   **(2)** Subsection 23(3.2) of the Act is replaced by the following:
 
-    **(3.2)** The period referred to in subsection (2) is extended so that benefits may be paid up to the **applicable** maximum number of weeks referred to in **subparagraph** 12(3)(b)**(i) or (ii)** if, during a claimant's benefit period,
+    **(3.2)** The period referred to in subsection (2) is extended so that benefits may be paid up to the applicable maximum number of weeks referred to in subparagraph 12(3)(b)(i) or (ii) if, during a claimant's benefit period,
 
       regular benefits were not paid to the claimant;
 
-      benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (**f**);
+      benefits were paid to the claimant for more than one of the reasons mentioned in paragraphs 12(3)(a) to (f);
 
       the maximum total number of weeks established for those reasons is greater than 50; and
 
-      benefits were paid for the reason mentioned in paragraph 12(3)(b) but for fewer than the **applicable** maximum number of weeks established for that reason.
+      benefits were paid for the reason mentioned in paragraph 12(3)(b) but for fewer than the applicable maximum number of weeks established for that reason.
 
     **(3.21)** The period referred to in subsection (2) is extended by 26 weeks so that benefits may be paid for the reason mentioned in paragraph 12(3)(b) up to the maximum number of weeks if, during a claimant's benefit period,
 
@@ -4012,13 +4031,13 @@ Subparagraph 22(2)(a)(i) of the Act is replaced by the following:
 
   **(3)** Subsection 23(3.4) of the Act is replaced by the following:
 
-    **(3.4)** An extension under **one or more** of subsections 10(10) to (**13.02**) must not result in the period referred to in subsection (2) being longer than 104 weeks.
+    **(3.4)** An extension under one or more of subsections 10(10) to (13.02) must not result in the period referred to in subsection (2) being longer than 104 weeks.
 
   **(4)** Subsections 23(4) and (4.1) of the Act are replaced by the following:
 
-    **(4)** If two major attachment claimants **each make a claim for benefits under this section** — or **if** one major attachment claimant **makes a claim for benefits under this section** and an individual **makes a claim for** benefits under section 152.05 — **in respect of the same** child **or children**, weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of 35, **if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules**.
+    **(4)** If two major attachment claimants each make a claim for benefits under this section — or if one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of 35, if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
-    **(4.1)** For greater certainty, if, in respect of the same child, a major attachment claimant makes a claim for benefits under this section and **an individual** makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed 35, **if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii)**.
+    **(4.1)** For greater certainty, if, in respect of the same child, a major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed 35, if the applicable maximum number of weeks is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii).
 
 ### Section 236
 
@@ -4026,19 +4045,19 @@ Subparagraph 22(2)(a)(i) of the Act is replaced by the following:
 
   **(2)** The portion of subsection 23.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **Despite** section 18, but subject to this section, benefits are payable to a major attachment claimant if a medical doctor **or nurse practitioner** has issued a certificate stating that
+    **(2)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant if a medical doctor or nurse practitioner has issued a certificate stating that
 
   **(3)** Subparagraph 23.1(2)(a)(ii) of the Act is replaced by the following:
 
-    in the case of a claim that is made before the day **on which** the certificate is issued, from the day from which the medical doctor or **nurse practitioner** certifies the family member's medical condition, or
+    in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor or nurse practitioner certifies the family member's medical condition, or
 
   **(4)** Subparagraph 23.1(4)(a)(ii) of the Act is replaced by the following:
 
-    in the case of a claim that is made before the day **on which** the certificate is issued, the day from which the medical doctor **or nurse practitioner** certifies the family member's medical condition, or
+    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies the family member's medical condition, or
 
   **(5)** Subsection 23.1(4.1) of the English version of the Act is replaced by the following:
 
-    **(4.1)** For greater certainty, but subject to subsections (4) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (2)(a), it is not necessary for a medical doctor **or nurse practitioner** to issue an additional certificate under subsection (2).
+    **(4.1)** For greater certainty, but subject to subsections (4) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (2)(a), it is not necessary for a medical doctor or nurse practitioner to issue an additional certificate under subsection (2).
 
 ### Section 237
 
@@ -4046,9 +4065,9 @@ Subparagraph 22(2)(a)(i) of the Act is replaced by the following:
 
 ### Section 23.2
 
-      **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant who is **a family member** of a critically ill child in order to care for or support that child, if a medical doctor or **nurse practitioner** has issued a certificate that
+      **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant who is a family member of a critically ill child in order to care for or support that child, if a medical doctor or nurse practitioner has issued a certificate that
 
-        states that the child is a critically ill child and requires the care or support of one or more of their **family members**; and
+        states that the child is a critically ill child and requires the care or support of one or more of their family members; and
 
   **(2)** The portion of subsection 23.2(3) of the Act before paragraph (a) is replaced by the following:
 
@@ -4056,7 +4075,7 @@ Subparagraph 22(2)(a)(i) of the Act is replaced by the following:
 
   **(3)** Subparagraph 23.2(3)(a)(ii) of the Act is replaced by the following:
 
-    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor **or nurse practitioner** certifies that the child is critically ill; and
+    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the child is critically ill; and
 
   **(4)** Subsection 23.2(4) of the Act is repealed.
 
@@ -4140,37 +4159,37 @@ The Act is amended by adding the following after section 23.2:
 
 Subsection 50(8.1) of the Act is replaced by the following:
 
-**(8.1)** For the purpose of proving that the conditions of subsection 23.1(2) or 152.06(1) are met, the Commission may require the claimant to provide it with an additional certificate issued by a medical doctor **or nurse practitioner**.
+**(8.1)** For the purpose of proving that the conditions of subsection 23.1(2) or 152.06(1) are met, the Commission may require the claimant to provide it with an additional certificate issued by a medical doctor or nurse practitioner.
 
 ### Section 240
 
   **(1)** Paragraph 54(c.2) of the Act is replaced by the following:
 
-    setting out circumstances for the purposes of paragraphs 10(5.1)(c), 10(5.2)(c), **10(5.3)(c)**, 23.1(6)(c), 23.2(5)(c), **23.3(4)(c)**, 152.06(5)(c), 152.061(5)(c), **152.062(4)(c)**, 152.11(6)(c), 152.11(6.1)(c) and **152.11(6.2)(c)**;
+    setting out circumstances for the purposes of paragraphs 10(5.1)(c), 10(5.2)(c), 10(5.3)(c), 23.1(6)(c), 23.2(5)(c), 23.3(4)(c), 152.06(5)(c), 152.061(5)(c), 152.062(4)(c), 152.11(6)(c), 152.11(6.1)(c) and 152.11(6.2)(c);
 
   **(2)** Paragraphs 54(f.2) to (f.4) of the Act are replaced by the following:
 
-    defining or determining what is a medical doctor, **a nurse practitioner**, **a family member**, a critically ill child and **a critically ill adult** for the purposes of subsections **23.1(2)**, 23.2(1), **23.3(1), 152.06(1)**, 152.061(1) and **152.062(1)**;
+    defining or determining what is a medical doctor, a nurse practitioner, a family member, a critically ill child and a critically ill adult for the purposes of subsections 23.1(2), 23.2(1), 23.3(1), 152.06(1), 152.061(1) and 152.062(1);
 
-    defining or determining what is care or support for the purposes of paragraphs 23.1(2)(b), 23.2(1)(a), **23.3(1)(a)**, 152.06(1)(b), 152.061(1)(a) and **152.062(1)(a)**;
+    defining or determining what is care or support for the purposes of paragraphs 23.1(2)(b), 23.2(1)(a), 23.3(1)(a), 152.06(1)(b), 152.061(1)(a) and 152.062(1)(a);
 
-    prescribing classes of medical practitioners for the purposes of subsections 23.1(3), 23.2(2), **23.3(2)**, 152.06(2), 152.061(2) and **152.062(2)** and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2), 23.2(1), **23.3(1)**, 152.06(1), 152.061(1) or **152.062(1)**;
+    prescribing classes of medical practitioners for the purposes of subsections 23.1(3), 23.2(2), 23.3(2), 152.06(2), 152.061(2) and 152.062(2) and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2), 23.2(1), 23.3(1), 152.06(1), 152.061(1) or 152.062(1);
 
   **(3)** Paragraphs 54(f.6) and (f.7) of the Act are replaced by the following:
 
-    prescribing requirements for the purposes of paragraphs 23.1(7)(c), 23.2(6)(c), **23.3(5)(c)**, 152.06(6)(c), 152.061(6)(c) and **152.062(5)(c)**;
+    prescribing requirements for the purposes of paragraphs 23.1(7)(c), 23.2(6)(c), 23.3(5)(c), 152.06(6)(c), 152.061(6)(c) and 152.062(5)(c);
 
-    prescribing rules for the purposes of subsections **23(4)**, 23.1(9), 23.2(8), **23.3(6), 152.05(12), 152.06(7)**, 152.061(8) and **152.062(6)**;
+    prescribing rules for the purposes of subsections 23(4), 23.1(9), 23.2(8), 23.3(6), 152.05(12), 152.06(7), 152.061(8) and 152.062(6);
 
 ### Section 241
 
   **(1)** Paragraph 69(1)(a) of the Act is replaced by the following:
 
-    the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care, a child's critical illness or **an adult's critical illness** under a plan that covers insured persons employed by the employer, other than one established under **a** provincial law, would have the effect of reducing the special benefits payable to the insured persons; and
+    the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care, a child's critical illness or an adult's critical illness under a plan that covers insured persons employed by the employer, other than one established under a provincial law, would have the effect of reducing the special benefits payable to the insured persons; and
 
   **(2)** Subsection 69(2) of the Act is replaced by the following:
 
-    **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer's and employee's premiums, the premiums under Part VII.1 or all those premiums, when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care, a child's critical illness or **an adult's critical illness** under a provincial law to insured persons, or to self-employed persons, as the case may be, would have the effect of reducing or eliminating the special benefits payable to those insured persons or the benefits payable to those self-employed persons.
+    **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer's and employee's premiums, the premiums under Part VII.1 or all those premiums, when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care, compassionate care, a child's critical illness or an adult's critical illness under a provincial law to insured persons, or to self-employed persons, as the case may be, would have the effect of reducing or eliminating the special benefits payable to those insured persons or the benefits payable to those self-employed persons.
 
   **(3)** Section 69 of the Act is amended by adding the following after subsection (7):
 
@@ -4184,13 +4203,13 @@ The definition **family member** in subsection 152.01(1) of the Act is repealed.
 
 Subsection 152.03(1.1) of the Act is replaced by the following:
 
-**(1.1)** A self-employed person to whom benefits are payable under any of sections 152.05 to **152.062** is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
+**(1.1)** A self-employed person to whom benefits are payable under any of sections 152.05 to 152.062 is entitled to benefits under subsection (1) even though the person did not cease to work as a self-employed person because of a prescribed illness, injury or quarantine and would not be working even without the illness, injury or quarantine.
 
 ### Section 244
 
   **(1)** Subparagraph 152.04(2)(a)(i) of the Act is replaced by the following:
 
-    **12** weeks before the week in which her confinement is expected, and
+    12 weeks before the week in which her confinement is expected, and
 
   **(2)** Section 152.04 of the Act is amended by adding the following after subsection (3):
 
@@ -4208,19 +4227,19 @@ Subsection 152.03(1.1) of the Act is replaced by the following:
 
   **(2)** Subsection 152.05(5) of the Act is replaced by the following:
 
-    **(5)** If, during a self-employed person's benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (**f**), the maximum total number of weeks established for those reasons is greater than 50, and benefits were paid for the reason mentioned in paragraph 152.14(1)(b) but for fewer than the **applicable** maximum number of weeks established for that reason, the period referred to in subsection (2) is extended so that benefits may be paid up to the **applicable** maximum number of weeks referred to in **subparagraph** 152.14(1)(b)**(i) or (ii)**.
+    **(5)** If, during a self-employed person's benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (f), the maximum total number of weeks established for those reasons is greater than 50, and benefits were paid for the reason mentioned in paragraph 152.14(1)(b) but for fewer than the applicable maximum number of weeks established for that reason, the period referred to in subsection (2) is extended so that benefits may be paid up to the applicable maximum number of weeks referred to in subparagraph 152.14(1)(b)(i) or (ii).
 
     **(5.1)** If, during a self-employed person's benefit period, benefits were not paid for any reason mentioned in paragraph 152.14(1)(a), (c), (d), (e) or (f) and benefits were paid to the person for the reason mentioned in paragraph 152.14(1)(b) in the case where the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(ii), the period referred to in subsection (2) is extended by 26 weeks so that benefits may be paid up to that maximum number of weeks.
 
   **(3)** Subsection 152.05(7) of the Act is replaced by the following:
 
-    **(7)** An extension under **one or more** of subsections 152.11(11) to (**14.1**) must not result in the period referred to in subsection (2) being longer than 104 weeks.
+    **(7)** An extension under one or more of subsections 152.11(11) to (14.1) must not result in the period referred to in subsection (2) being longer than 104 weeks.
 
   **(4)** Subsections 152.05(12) and (13) of the Act are replaced by the following:
 
-    **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and **another** person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of 35, **if the applicable maximum number of** weeks **is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules**.
+    **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of 35, if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
-    **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed 35, **if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii)**.
+    **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed 35, if the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or may not exceed 61, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii).
 
 ### Section 246
 
@@ -4228,19 +4247,19 @@ Subsection 152.03(1.1) of the Act is replaced by the following:
 
 ### Section 152.06
 
-      **(1)** Subject to this Part, benefits are payable to a self-employed person if a medical doctor **or nurse practitioner** has issued a certificate stating that
+      **(1)** Subject to this Part, benefits are payable to a self-employed person if a medical doctor or nurse practitioner has issued a certificate stating that
 
   **(2)** Subparagraph 152.06(1)(a)(ii) of the Act is replaced by the following:
 
-    in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor **or nurse practitioner** certifies the family member's medical condition; and
+    in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor or nurse practitioner certifies the family member's medical condition; and
 
   **(3)** Subparagraph 152.06(3)(a)(ii) of the Act is replaced by the following:
 
-    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor **or nurse practitioner** certifies the family member's medical condition; and
+    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies the family member's medical condition; and
 
   **(4)** Subsection 152.06(3.1) of the English version of the Act is replaced by the following:
 
-    **(3.1)** For greater certainty, but subject to subsections (3) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (1)(a), it is not necessary for a medical doctor **or nurse practitioner** to issue an additional certificate under subsection (1).
+    **(3.1)** For greater certainty, but subject to subsections (3) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (1)(a), it is not necessary for a medical doctor or nurse practitioner to issue an additional certificate under subsection (1).
 
 ### Section 247
 
@@ -4248,9 +4267,9 @@ Subsection 152.03(1.1) of the Act is replaced by the following:
 
 ### Section 152.061
 
-      **(1)** Subject to this Part, benefits are payable to a self-employed person who is **a family member** of a critically ill child, in order to care for or support that child, if a medical doctor **or nurse practitioner** has issued a certificate that
+      **(1)** Subject to this Part, benefits are payable to a self-employed person who is a family member of a critically ill child, in order to care for or support that child, if a medical doctor or nurse practitioner has issued a certificate that
 
-        states that the child is a critically ill child and requires the care or support of one or more of their **family members**; and
+        states that the child is a critically ill child and requires the care or support of one or more of their family members; and
 
   **(2)** The portion of subsection 152.061(3) of the Act before paragraph (a) is replaced by the following:
 
@@ -4258,7 +4277,7 @@ Subsection 152.03(1.1) of the Act is replaced by the following:
 
   **(3)** Subparagraph 152.061(3)(a)(ii) of the Act is replaced by the following:
 
-    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor **or nurse practitioner** certifies that the child is critically ill; and
+    in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the child is critically ill; and
 
   **(4)** Subsection 152.061(4) of the Act is repealed.
 
@@ -4342,7 +4361,7 @@ The Act is amended by adding the following after section 152.061:
 
 Subsection 152.09(2) of the Act is amended by striking out "and" at the end of paragraph (d) and by replacing paragraph (e) with the following:
 
-providing care or support to one or more critically ill children; **and**
+providing care or support to one or more critically ill children; and
 
 providing care or support to one or more critically ill adults.
 
@@ -4368,21 +4387,21 @@ providing care or support to one or more critically ill adults.
 
   **(4)** Subsections 152.11(14) to (16) of the Act are replaced by the following:
 
-    **(14)** If, during a self-employed person's benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (**f**), at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons and the maximum total number of weeks established for those reasons is greater than 50, the benefit period is extended so that those benefits may be paid up to that maximum total number of weeks.
+    **(14)** If, during a self-employed person's benefit period, benefits were paid to the person for more than one of the reasons mentioned in paragraphs 152.14(1)(a) to (f), at least one of those benefits was paid for fewer than the applicable maximum number of weeks established for those reasons and the maximum total number of weeks established for those reasons is greater than 50, the benefit period is extended so that those benefits may be paid up to that maximum total number of weeks.
 
     **(14.1)** If, during a self-employed person's benefit period, benefits were not paid for any reason mentioned in paragraph 152.14(1)(a), (c), (d), (e) or (f), and benefits were paid to the person for the reason mentioned in paragraph 152.14(1)(b) in the case where the applicable maximum number of weeks is established under subparagraph 152.14(1)(b)(ii), the benefit period is extended by 26 weeks so that benefits may be paid up to that maximum number of weeks.
 
-    **(15)** An extension under **one or more** of subsections (11) to (**14.1**) must not result in a benefit period of more than 104 weeks.
+    **(15)** An extension under one or more of subsections (11) to (14.1) must not result in a benefit period of more than 104 weeks.
 
-    **(16)** **Subject to subsection (15)**, unless the benefit period is also extended under any of subsections (11) to (13), an extension under subsection (14) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 152.14(1) for each of the benefits paid to the self-employed person for one of the reasons mentioned in paragraphs 152.14(1)(a) to (**f**) during the person's benefit period before it was extended under subsection (14).
+    **(16)** Subject to subsection (15), unless the benefit period is also extended under any of subsections (11) to (13), an extension under subsection (14) must not result in a benefit period of more than the sum of two weeks and the total of the maximum number of weeks established under subsection 152.14(1) for each of the benefits paid to the self-employed person for one of the reasons mentioned in paragraphs 152.14(1)(a) to (f) during the person's benefit period before it was extended under subsection (14).
 
 ### Section 251
 
   **(1)** Paragraph 152.14(1)(b) of the Act is replaced by the following:
 
-    because the self-employed person is caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption is, **in accordance with the election under section 152.05**,
+    because the self-employed person is caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption is, in accordance with the election under section 152.05,
 
-    35, **or**
+    35, or
 
     61;
 
@@ -4392,15 +4411,15 @@ providing care or support to one or more critically ill adults.
 
   **(3)** Paragraph 152.14(2)(b) of the Act is replaced by the following:
 
-    for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, **in accordance with the election under section 152.05**, 35 **or 61**.
+    for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is, in accordance with the election under section 152.05, 35 or 61.
 
   **(4)** Subsection 152.14(4) of the Act is replaced by the following:
 
-    **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, **in accordance with the election under section 152.05**, 35 **or 61**.
+    **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is, in accordance with the election under section 152.05, 35 or 61.
 
   **(5)** Subsection 152.14(5.2) of the Act is replaced by the following:
 
-    **(5.2)** Even if more than one claim is made under this Act, at least one of which is made under section **152.062** — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section **152.062** — for the same reason and in respect of the same critically ill **adult**, the maximum number of weeks of benefits payable under this Act in respect of **that adult** is **15** weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph **152.062(3)(a)**.
+    **(5.2)** Even if more than one claim is made under this Act, at least one of which is made under section 152.062 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 152.062 — for the same reason and in respect of the same critically ill adult, the maximum number of weeks of benefits payable under this Act in respect of that adult is 15 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 152.062(3)(a).
 
 ### Section 252
 
@@ -4408,7 +4427,7 @@ The portion of subsection 152.16(1) of the Act before paragraph (a) is replaced 
 
 ### Section 152.16
 
-  **(1)** The rate of weekly benefits payable to a self-employed person is 55% — **or 33% for the weeks for which the self-employed person is paid benefits under section 152.05 in the case where the applicable maximum number of weeks is established in subparagraph 152.14(1)(b)(ii)** — of the result obtained by dividing the aggregate of the amounts referred to in **the following** paragraphs (a) and (b) by 52:
+  **(1)** The rate of weekly benefits payable to a self-employed person is 55% — or 33% for the weeks for which the self-employed person is paid benefits under section 152.05 in the case where the applicable maximum number of weeks is established in subparagraph 152.14(1)(b)(ii) — of the result obtained by dividing the aggregate of the amounts referred to in the following paragraphs (a) and (b) by 52:
 
 ### Section 253
 
@@ -4512,7 +4531,7 @@ Subsection 206(1) of the `Canada Labour Code` is replaced by the following:
 
 ### Section 206
 
-  **(1)** Every employee is entitled to and shall be granted a leave of absence from employment of up to 17 weeks, which leave may begin not earlier than **13** weeks prior to the estimated date of her confinement and end not later than 17 weeks following the actual date of her confinement, **if the employee**:
+  **(1)** Every employee is entitled to and shall be granted a leave of absence from employment of up to 17 weeks, which leave may begin not earlier than 13 weeks prior to the estimated date of her confinement and end not later than 17 weeks following the actual date of her confinement, if the employee:
 
     has completed six consecutive months of continuous employment with an employer; and
 
@@ -4526,15 +4545,15 @@ Subsection 206(1) of the `Canada Labour Code` is replaced by the following:
 
 ### Section 206.1
 
-      **(1)** Subject to subsections (2) and (3), every employee who has completed six consecutive months of continuous employment with an employer is entitled to and shall be granted a leave of absence from employment of up to **63** weeks to care for a new-born child of the employee or a child who is in the care of the employee for the purpose of adoption under the laws governing adoption in the province in which the employee resides.
+      **(1)** Subject to subsections (2) and (3), every employee who has completed six consecutive months of continuous employment with an employer is entitled to and shall be granted a leave of absence from employment of up to 63 weeks to care for a new-born child of the employee or a child who is in the care of the employee for the purpose of adoption under the laws governing adoption in the province in which the employee resides.
 
   **(2)** The portion of subsection 206.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The leave of absence **granted under this section** may only be taken during the **78**-week period beginning
+    **(2)** The leave of absence granted under this section may only be taken during the 78-week period beginning
 
   **(3)** Subsection 206.1(3) of the Act is replaced by the following:
 
-    **(3)** The aggregate amount of leave that may be taken by two employees under this section in respect of the same birth or adoption shall not exceed **63** weeks.
+    **(3)** The aggregate amount of leave that may be taken by two employees under this section in respect of the same birth or adoption shall not exceed 63 weeks.
 
 ### Section 261
 
@@ -4542,7 +4561,7 @@ Section 206.2 of the Act is replaced by the following:
 
 ### Section 206.2
 
-The aggregate amount of leave that may be taken by one or two employees under sections 206 and 206.1 in respect of the same birth shall not exceed **78** weeks.
+The aggregate amount of leave that may be taken by one or two employees under sections 206 and 206.1 in respect of the same birth shall not exceed 78 weeks.
 
 ### Section 262
 
@@ -4550,11 +4569,11 @@ The aggregate amount of leave that may be taken by one or two employees under se
 
 ### Section 206.3
 
-      **(1)** **For the purposes of** this section, ****care****, **family member**, **medical **doctor****, ****nurse** practitioner** and ****support** have, subject to the regulations, the same meanings as in the regulations made under** the `Employment Insurance Act` and **week** means the period between midnight on Saturday and midnight on the immediately following Saturday.
+      **(1)** For the purposes of this section, **care**, **family member**, **medical doctor**, **nurse practitioner** and **support** have, subject to the regulations, the same meanings as in the regulations made under the `Employment Insurance Act` and **week** means the period between midnight on Saturday and midnight on the immediately following Saturday.
 
   **(2)** The portion of subsection 206.3(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to subsections (3) to (8), every employee is entitled to and shall be granted a leave of absence from employment of up to 28 weeks to provide care or support to a family member of the employee if a medical **doctor or nurse** practitioner issues a certificate stating that the family member has a serious medical condition with a significant risk of death within 26 weeks from
+    **(2)** Subject to subsections (3) to (8), every employee is entitled to and shall be granted a leave of absence from employment of up to 28 weeks to provide care or support to a family member of the employee if a medical doctor or nurse practitioner issues a certificate stating that the family member has a serious medical condition with a significant risk of death within 26 weeks from
 
   **(3)** Section 206.3 of the Act is amended by adding the following after subsection (2):
 
@@ -4562,7 +4581,7 @@ The aggregate amount of leave that may be taken by one or two employees under se
 
   **(4)** Subsection 206.3(3.1) of the Act is replaced by the following:
 
-    **(3.1)** For greater certainty, but subject to subsection (3), for leave under this section to be taken after the end of the period of 26 weeks set out in subsection (2), it is not necessary for a medical **doctor or nurse** practitioner to issue an additional certificate under that subsection **(2)**.
+    **(3.1)** For greater certainty, but subject to subsection (3), for leave under this section to be taken after the end of the period of 26 weeks set out in subsection (2), it is not necessary for a medical doctor or nurse practitioner to issue an additional certificate under that subsection (2).
 
   **(5)** Section 206.3 of the Act is amended by adding the following after subsection (7):
 
@@ -4574,13 +4593,13 @@ The aggregate amount of leave that may be taken by one or two employees under se
 
 ### Section 206.4
 
-      **(1)** **For the purposes of** this section, ****care****, ****critically ill adult****, **critically ill child**, ****family member****, **medical doctor**, ****nurse practitioner**** and ****support**** have, **subject to the regulations**, the same meanings as in the regulations made under the `Employment Insurance Act` and **week** has the same meaning as in subsection 206.3(1).
+      **(1)** For the purposes of this section, **care**, **critically ill adult**, **critically ill child**, **family member**, **medical doctor**, **nurse practitioner** and **support** have, subject to the regulations, the same meanings as in the regulations made under the `Employment Insurance Act` and **week** has the same meaning as in subsection 206.3(1).
 
   **(2)** The portion of subsection 206.4(2) of the Act before paragraph (b) is replaced by the following:
 
-    **(2)** Every employee who has completed six consecutive months of continuous employment with an employer and who is **a family member** of a critically ill child is entitled to and shall be granted a leave of absence from employment of up to 37 weeks in order to care for or support that child if a medical doctor **or nurse practitioner** has issued a certificate that
+    **(2)** Every employee who has completed six consecutive months of continuous employment with an employer and who is a family member of a critically ill child is entitled to and shall be granted a leave of absence from employment of up to 37 weeks in order to care for or support that child if a medical doctor or nurse practitioner has issued a certificate that
 
-      states that the child is a critically ill child and requires the care or support of one or more of their **family members**; and
+      states that the child is a critically ill child and requires the care or support of one or more of their family members; and
 
   **(3)** Subsection 206.4(3) of the Act is replaced by the following:
 
@@ -4590,17 +4609,17 @@ The aggregate amount of leave that may be taken by one or two employees under se
 
       sets out the period during which the adult requires that care or support.
 
-    **(3)** In the circumstances set out under the `Employment Insurance Act`, the certificate referred to in subsection (2) **or (2.1)** may be issued by a member of a class of medical practitioners that is prescribed under that Act.
+    **(3)** In the circumstances set out under the `Employment Insurance Act`, the certificate referred to in subsection (2) or (2.1) may be issued by a member of a class of medical practitioners that is prescribed under that Act.
 
   **(4)** Subparagraphs 206.4(4)(a)(i) and (ii) of the Act are replaced by the following:
 
-    the day on which the first certificate is issued in respect of the child **or adult, as the case may be**, that meets the requirements of subsection (2) **or (2.1)**, or
+    the day on which the first certificate is issued in respect of the child or adult, as the case may be, that meets the requirements of subsection (2) or (2.1), or
 
-    if the leave begins before the day on which the certificate is issued, the day from which the medical doctor **or nurse practitioner** certifies that the child **or adult, as the case may be,** is critically ill; and
+    if the leave begins before the day on which the certificate is issued, the day from which the medical doctor or nurse practitioner certifies that the child or adult, as the case may be, is critically ill; and
 
   **(5)** Subparagraph 206.4(4)(b)(i) of the Act is replaced by the following:
 
-    the child **or adult, as the case may be**, dies, or
+    the child or adult, as the case may be, dies, or
 
   **(6)** Subsections 206.4(5) and (6) of the Act are replaced by the following:
 
@@ -4618,29 +4637,29 @@ The aggregate amount of leave that may be taken by one or two employees under se
 
   **(1)** Paragraph 207(1)(a) of the Act is replaced by the following:
 
-    unless there is a valid reason **for not doing so**, give at least four weeks notice in writing to the employer **before the day on which the leave is to begin**; and
+    unless there is a valid reason for not doing so, give at least four weeks notice in writing to the employer before the day on which the leave is to begin; and
 
   **(2)** Subsection 207(2) of the Act is replaced by the following:
 
     **(1.1)** If there is a valid reason for not providing notice in accordance with paragraph (1)(a), the employee shall notify the employer in writing as soon as possible that the employee intends to take a leave of absence.
 
-    **(2)** Every employee who intends to take or who is on a leave of absence from employment under section 206 or 206.1 shall **provide** the employer **with** notice in writing **of** at least four weeks of any change in the length of leave intended to be taken, unless there is a valid reason why that notice cannot be given, **in which case the employee shall provide the employer with notice in writing as soon as possible**.
+    **(2)** Every employee who intends to take or who is on a leave of absence from employment under section 206 or 206.1 shall provide the employer with notice in writing of at least four weeks of any change in the length of leave intended to be taken, unless there is a valid reason why that notice cannot be given, in which case the employee shall provide the employer with notice in writing as soon as possible.
 
 ### Section 265
 
 Subsection 207.2(4) of the Act is replaced by the following:
 
-**(4)** The employer may, in writing and no later than 15 days after an employee's return to work, require the employee to provide a certificate issued by a medical **doctor**, as defined in subsection 206.3(1), attesting to the child's hospitalization.
+**(4)** The employer may, in writing and no later than 15 days after an employee's return to work, require the employee to provide a certificate issued by a medical doctor, as defined in subsection 206.3(1), attesting to the child's hospitalization.
 
 ### Section 266
 
   **(1)** Subsection 207.3(3) of the Act is replaced by the following:
 
-    **(3)** If the length of the leave taken under any of **sections 206.3 to** 206.5 is more than four weeks, the notice in writing of any change in the length of the leave shall be provided on at least four weeks' notice, unless there is a valid reason why that cannot be done.
+    **(3)** If the length of the leave taken under any of sections 206.3 to 206.5 is more than four weeks, the notice in writing of any change in the length of the leave shall be provided on at least four weeks' notice, unless there is a valid reason why that cannot be done.
 
   **(2)** Subsection 207.3(5) of the Act is replaced by the following:
 
-    **(5)** If an employee who takes a leave of more than four weeks under **any of sections 206.3 to** 206.5 wishes to shorten the length of the leave but does not provide the employer with four weeks' notice, the employer may postpone the employee's return to work for a period of up to four weeks after the day on which the employee informs the employer of the new end date of the leave. If the employer informs the employee that their return to work is postponed, the employee is not entitled to return to work until the day that is indicated by the employer.
+    **(5)** If an employee who takes a leave of more than four weeks under any of sections 206.3 to 206.5 wishes to shorten the length of the leave but does not provide the employer with four weeks' notice, the employer may postpone the employee's return to work for a period of up to four weeks after the day on which the employee informs the employer of the new end date of the leave. If the employer informs the employee that their return to work is postponed, the employee is not entitled to return to work until the day that is indicated by the employer.
 
 ### Section 267
 
@@ -4648,15 +4667,15 @@ Subsection 207.2(4) of the Act is replaced by the following:
 
   **(2)** Paragraphs 209.4(d) and (e) of the Act are replaced by the following:
 
-    enlarging the meaning of **care and support in subsections 206.3(1) and 206.4(1), and of critically ill adult and** critically ill child in subsection 206.4(1);
+    enlarging the meaning of care and support in subsections 206.3(1) and 206.4(1), and of critically ill adult and critically ill child in subsection 206.4(1);
 
-    prescribing other persons to be included in the meanings of **family member**, medical doctor and **nurse practitioner** in subsections **206.3(1) and** 206.4(**1**);
+    prescribing other persons to be included in the meanings of family member, medical doctor and nurse practitioner in subsections 206.3(1) and 206.4(1);
 
     adapting the terminology of the definitions of care, critically ill adult, critically ill child, family member, medical doctor, nurse practitioner and support in the regulations made under the `Employment Insurance Act` for the purposes of the definitions of those terms in subsections 206.3(1) and 206.4(1) of this Act;
 
   **(3)** Paragraph 209.4(g) of the Act is replaced by the following:
 
-    prescribing shorter periods of consecutive months of continuous employment for the purposes of subsections **206(1), 206.1(1)**, 206.4(2) **and (2.1)** and 206.5(2) and (3);
+    prescribing shorter periods of consecutive months of continuous employment for the purposes of subsections 206(1), 206.1(1), 206.4(2) and (2.1) and 206.5(2) and (3);
 
 
 ##### Coordinating Amendments
@@ -4738,13 +4757,13 @@ Section 1 of the `Canadian Forces Members and Veterans Re-establishment and Comp
 
 ### Section 1
 
-This Act may be cited as the `Veterans **Well-being** Act`.
+This Act may be cited as the `Veterans Well-being Act`.
 
 ### Section 271
 
 The definition **compensation** in subsection 2(1) of the Act is replaced by the following:
 
-**compensation** means any of the following benefits under this Act, namely, an **education and training benefit, an education and training completion bonus, an** earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a caregiver **recognition** benefit. (**indemnisation**)
+**compensation** means any of the following benefits under this Act, namely, an education and training benefit, an education and training completion bonus, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a caregiver recognition benefit. (**indemnisation**)
 
 ### Section 272
 
@@ -4792,7 +4811,7 @@ Subsection 4(1) of the Act is replaced by the following:
 
 ### Section 4
 
-  **(1)** The Minister shall, on approving an application made under section 3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to **the** career **transition services that may be provided to them under this Part**.
+  **(1)** The Minister shall, on approving an application made under section 3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to the career transition services that may be provided to them under this Part.
 
 ### Section 274
 
@@ -4800,7 +4819,7 @@ Section 5 of the Act is replaced by the following:
 
 ### Section 5
 
-The Minister may, **in the prescribed circumstances, suspend or cancel the provision of** career transition services to a person under this Part.
+The Minister may, in the prescribed circumstances, suspend or cancel the provision of career transition services to a person under this Part.
 
 ### Section 5.1
 
@@ -4831,9 +4850,9 @@ defining residence and defining intervals of absence from Canada that shall be d
 
     education or training received from an educational institution as part of a course of study leading to the completion of a degree, diploma, certification or designation; and
 
-    any expenses, including living expenses, that may be incurred by the **veteran** while enrolled at the institution.
+    any expenses, including living expenses, that may be incurred by the veteran while enrolled at the institution.
 
-  **(2)** A **veteran** requesting payment in respect of education or training described in paragraph (1)(a) shall provide the Minister with proof of acceptance, enrolment or registration at the institution for an upcoming period of study and with any prescribed information.
+  **(2)** A veteran requesting payment in respect of education or training described in paragraph (1)(a) shall provide the Minister with proof of acceptance, enrolment or registration at the institution for an upcoming period of study and with any prescribed information.
 
   **(3)** The Minister may request that the veteran provide the Minister with additional information for the purpose of making the determination under subsection (4).
 
@@ -4935,7 +4954,7 @@ Section 42 of the Act is replaced by the following:
 
 ### Section 42
 
-This Part, other than sections 44.1 **and** 44.**2**, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the `Pension Act`.
+This Part, other than sections 44.1 and 44.2, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the `Pension Act`.
 
 ### Section 277
 
@@ -4946,7 +4965,7 @@ Section 44.3 of the Act is repealed.
 The heading to Part 3.1 of the Act is replaced by the following:
 
 
-## Caregiver **Recognition** Benefit
+## Caregiver Recognition Benefit
 
 ### Section 279
 
@@ -4954,23 +4973,23 @@ The heading to Part 3.1 of the Act is replaced by the following:
 
 ### Section 65.1
 
-      **(1)** The Minister may, on application **by a veteran**, pay a caregiver **recognition** benefit to **a person designated by the veteran** if
+      **(1)** The Minister may, on application by a veteran, pay a caregiver recognition benefit to a person designated by the veteran if
 
   **(2)** Paragraphs 65.1(1)(a) and (b) of the English version of the Act are replaced by the following:
 
-    **the veteran has** had an application for a disability award approved under section 45;
+    the veteran has had an application for a disability award approved under section 45;
 
-    as a result of the disability for which the application for a disability award was approved, **the veteran requires** ongoing care;
+    as a result of the disability for which the application for a disability award was approved, the veteran requires ongoing care;
 
   **(3)** Paragraph 65.1(1)(c) of the Act is replaced by the following:
 
     the veteran has not been awarded a pension or compensation as those terms are defined in subsection 3(1) of the `Pension Act`;
 
-    **the designated person** is 18 years of age or older **and** plays an essential role in the provision or coordination of the ongoing care **to the veteran** in the veteran's home for which the person receives no remuneration; and
+    the designated person is 18 years of age or older and plays an essential role in the provision or coordination of the ongoing care to the veteran in the veteran's home for which the person receives no remuneration; and
 
   **(4)** Subsections 65.1(3) and (4) of the Act are replaced by the following:
 
-    **(3)** In deciding whether **a designated** person plays an essential role in the provision or coordination of the ongoing care **to the veteran** in the veteran's home, the Minister shall consider only prescribed factors.
+    **(3)** In deciding whether a designated person plays an essential role in the provision or coordination of the ongoing care to the veteran in the veteran's home, the Minister shall consider only prescribed factors.
 
 ### Section 280
 
@@ -4978,7 +4997,7 @@ Sections 65.2 and 65.3 of the Act are replaced by the following:
 
 ### Section 65.2
 
-The **monthly** amount of a caregiver **recognition** benefit that is payable to a **designated person** shall be the amount set out in column 2 of item 5 of Schedule 2.
+The monthly amount of a caregiver recognition benefit that is payable to a designated person shall be the amount set out in column 2 of item 5 of Schedule 2.
 
 ### Section 65.21
 
@@ -5012,7 +5031,7 @@ the first day of the month after the month in which the veteran or the designate
 
 ### Section 65.3
 
-The Minister may, for the purpose of determining whether a **designated person** may continue to receive a caregiver **recognition** benefit, require the veteran **who designated the person** to undergo an assessment by a person specified by the Minister.
+The Minister may, for the purpose of determining whether a designated person may continue to receive a caregiver recognition benefit, require the veteran who designated the person to undergo an assessment by a person specified by the Minister.
 
 ### Section 65.31
 
@@ -5051,7 +5070,7 @@ Section 83 of the Act is replaced by the following:
 
 ### Section 83
 
-Subject to the regulations, the Minister may, on application or on the Minister's own motion, review a decision made under Part **1, 1.1**, 2 or 3.1 or under this section.
+Subject to the regulations, the Minister may, on application or on the Minister's own motion, review a decision made under Part 1, 1.1, 2 or 3.1 or under this section.
 
 ### Section 283
 
@@ -5076,27 +5095,27 @@ The Act is amended by adding the following after section 87:
 
   **(1)** The portion of subsection 88(4) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** Despite anything in this Act, the Minister may continue the payment of an **education and training benefit**, earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a caregiver **recognition** benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
+    **(4)** Despite anything in this Act, the Minister may continue the payment of an education and training benefit, earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a caregiver recognition benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
 
   **(2)** Paragraph 88(4)(d) of the English version of the Act is replaced by the following:
 
-    the benefit or allowance has been paid to the person for five years or more **or, in the case of an education and training benefit, for three years or more**.
+    the benefit or allowance has been paid to the person for five years or more or, in the case of an education and training benefit, for three years or more.
 
   **(3)** Subsection 88(4) of the French version of the Act is replaced by the following:
 
-    **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n'y ait pas droit, tout ou partie **de l'allocation pour études et formation**, de l'allocation pour perte de revenus, de l'allocation de soutien du revenu, de l'allocation pour incidence sur la carrière, de l'allocation de sécurité du revenu de retraite, de l'allocation vestimentaire ou de l'allocation **de reconnaissance** pour aidant dont le montant résulte d'une erreur, d'un retard ou d'un oubli de la part d'un cadre ou fonctionnaire de l'administration publique fédérale et a fait l'objet d'une remise au motif prévu à l'alinéa (3)d), s'il estime que le versement, fait depuis au moins cinq ans, **ou depuis au moins trois ans dans le cas de l'allocation pour études et formation**, ne résulte pas d'une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+    **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n'y ait pas droit, tout ou partie de l'allocation pour études et formation, de l'allocation pour perte de revenus, de l'allocation de soutien du revenu, de l'allocation pour incidence sur la carrière, de l'allocation de sécurité du revenu de retraite, de l'allocation vestimentaire ou de l'allocation de reconnaissance pour aidant dont le montant résulte d'une erreur, d'un retard ou d'un oubli de la part d'un cadre ou fonctionnaire de l'administration publique fédérale et a fait l'objet d'une remise au motif prévu à l'alinéa (3)d), s'il estime que le versement, fait depuis au moins cinq ans, ou depuis au moins trois ans dans le cas de l'allocation pour études et formation, ne résulte pas d'une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
 
 ### Section 285
 
 Paragraphs 94(e) to (g) of the Act are replaced by the following:
 
-respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, **an education and training benefit, an education and training completion bonus**, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit, **bonus** or allowance until the information, declaration or document is provided;
+respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, an education and training benefit, an education and training completion bonus, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit, bonus or allowance until the information, declaration or document is provided;
 
 respecting the provision of any information, declaration or document to the Minister by any veteran who applies for a caregiver recognition benefit under subsection 65.1(1) or by the person designated in the application, and authorizing the Minister to suspend payment of the benefit until the information, declaration or document is provided;
 
-respecting the procedure to be followed by the Minister in suspending or cancelling **career transition services**, rehabilitation services, vocational assistance or payment of compensation;
+respecting the procedure to be followed by the Minister in suspending or cancelling career transition services, rehabilitation services, vocational assistance or payment of compensation;
 
-providing for a review of any decisions made under Part **1, 1.1**, 2 or 3.1 or under section 83, including the grounds for review, the powers on review and the number of reviews;
+providing for a review of any decisions made under Part 1, 1.1, 2 or 3.1 or under section 83, including the grounds for review, the powers on review and the number of reviews;
 
 ### Section 286
 
@@ -5104,7 +5123,7 @@ Section 94.1 of the Act is replaced by the following:
 
 ### Section 94.1
 
-Regulations made in respect of the retirement income security benefit and the caregiver **recognition** benefit under subsections 40.1(5), 40.2(5), 40.3(5) and 40.4(5) and sections 41, 65.4 and 94 may, if they so provide, be retroactive.
+Regulations made in respect of the retirement income security benefit and the caregiver recognition benefit under subsections 40.1(5), 40.2(5), 40.3(5) and 40.4(5) and sections 41, 65.4 and 94 may, if they so provide, be retroactive.
 
 ### Section 287
 
@@ -5119,25 +5138,25 @@ Item 5 of Schedule 2 to the Act is replaced by the following:
 
 ### Section 3.1
 
-      **(1)** Despite any other provision of this Act, no award is payable under this Act in respect of any application made by or in respect of a member of the forces after **April 1, 2006** unless
+      **(1)** Despite any other provision of this Act, no award is payable under this Act in respect of any application made by or in respect of a member of the forces after April 1, 2006 unless
 
   **(2)** Paragraph 3.1(1)(b) of the Act is replaced by the following:
 
-    the application is in respect of the death of a member of the forces, if the death occurred before **April 1, 2006** or is the result of an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted;
+    the application is in respect of the death of a member of the forces, if the death occurred before April 1, 2006 or is the result of an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted;
 
   **(3)** Paragraph 3.1(1)(e) of the Act is replaced by the following:
 
-    the Minister has determined under the `Veterans` **`Well-being`** `Act` that the injury or disease, or the aggravation of the injury or disease, for which the application is made is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted; or
+    the Minister has determined under the `Veterans` `Well-being` `Act` that the injury or disease, or the aggravation of the injury or disease, for which the application is made is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted; or
 
   **(4)** Subsection 3.1(2) of the Act is replaced by the following:
 
-    **(2)** Subsection (1) does not apply in respect of an application for compensation made under Part III.1 if the application relates to a period spent as a prisoner of war that began before **April 1, 2006**.
+    **(2)** Subsection (1) does not apply in respect of an application for compensation made under Part III.1 if the application relates to a period spent as a prisoner of war that began before April 1, 2006.
 
 ### Section 289
 
 Subsection 35(1.2) of the Act is replaced by the following:
 
-**(1.2)** Any disability assessments under the `Veterans **Well-being** Act` shall be taken into account for the purpose of determining whether the extent of disability exceeds 100%.
+**(1.2)** Any disability assessments under the `Veterans Well-being Act` shall be taken into account for the purpose of determining whether the extent of disability exceeds 100%.
 
 ### Section 290
 
@@ -5152,7 +5171,7 @@ Subsection 38(2) of the Act is repealed.
 
   **(2)** Subparagraph 5(c.1)(i) of the Act is replaced by the following:
 
-    the circumstances in which a person is required to make payments in respect of all or part of the cost of accommodation and meals in a hospital, home or **other** institution,
+    the circumstances in which a person is required to make payments in respect of all or part of the cost of accommodation and meals in a hospital, home or other institution,
 
 
 #### Terminology Changes
@@ -5245,15 +5264,15 @@ The provisions of this Division, other than sections `290`, `291` and `296`, com
 
   **(1)** Paragraph 10.3(1)(h) of the French version of the Act is replaced by the following:
 
-    **la base sur laquelle peuvent être classés** les uns par rapport aux autres les étrangers qui peuvent être invités à présenter une demande;
+    la base sur laquelle peuvent être classés les uns par rapport aux autres les étrangers qui peuvent être invités à présenter une demande;
 
   **(2)** Paragraph 10.3(1)(i) of the Act is replaced by the following:
 
-    the rank an eligible foreign national must occupy to be invited to make an application **in respect of a class referred to in an instruction given under paragraph (a)**;
+    the rank an eligible foreign national must occupy to be invited to make an application in respect of a class referred to in an instruction given under paragraph (a);
 
   **(3)** Subsection 10.3(3) of the Act is replaced by the following:
 
-    **(3)** An instruction given under any of paragraphs (1)(a), (b) and (**e**) to (l) applies in respect of an expression of interest that is submitted before the day on which the instruction takes effect, unless the instruction provides otherwise.
+    **(3)** An instruction given under any of paragraphs (1)(a), (b) and (e) to (l) applies in respect of an expression of interest that is submitted before the day on which the instruction takes effect, unless the instruction provides otherwise.
 
 ### Section 302
 
@@ -5261,9 +5280,9 @@ Section 10.4 of the Act is replaced by the following:
 
 ### Section 10.4
 
-For the purpose of facilitating the selection of a foreign national as a member of the economic class or as a temporary resident, the Minister may disclose to an entity that is referred to in an instruction given under paragraph 10.3(1)(g) **the** personal information referred to in that instruction **that is**
+For the purpose of facilitating the selection of a foreign national as a member of the economic class or as a temporary resident, the Minister may disclose to an entity that is referred to in an instruction given under paragraph 10.3(1)(g) the personal information referred to in that instruction that is
 
-provided to **the Minister** by the foreign national under section 10.1 **or by a third party for the purposes of section 10.1 or 10.2; or**
+provided to the Minister by the foreign national under section 10.1 or by a third party for the purposes of section 10.1 or 10.2; or
 
 created by the Minister, on the basis of the information referred to in paragraph (a), for the purposes of sections 10.1 to 10.3.
 
@@ -5273,7 +5292,7 @@ created by the Minister, on the basis of the information referred to in paragrap
 
 ### Section 11.2
 
-    Ne peut être délivré à l'étranger à qui une invitation à présenter une demande de résidence permanente a été formulée en vertu de la section 0.1 un visa ou autre document à l'égard de la demande si, lorsque l'invitation a été formulée ou que la demande a été reçue par l'agent, il ne répondait pas aux critères prévus dans une instruction donnée en vertu de l'alinéa 10.3(1)e) ou **il n'avait** pas **les attributs sur la base desquels il a été classé au titre d'**une instruction donnée en vertu de l'alinéa 10.3(1)h) **et** sur la base desquels cette invitation a été formulée.
+    Ne peut être délivré à l'étranger à qui une invitation à présenter une demande de résidence permanente a été formulée en vertu de la section 0.1 un visa ou autre document à l'égard de la demande si, lorsque l'invitation a été formulée ou que la demande a été reçue par l'agent, il ne répondait pas aux critères prévus dans une instruction donnée en vertu de l'alinéa 10.3(1)e) ou il n'avait pas les attributs sur la base desquels il a été classé au titre d'une instruction donnée en vertu de l'alinéa 10.3(1)h) et sur la base desquels cette invitation a été formulée.
 
   **(2)** Section 11.2 of the Act is renumbered as subsection 11.2(1) and is amended by adding the following:
 
@@ -5295,11 +5314,11 @@ created by the Minister, on the basis of the information referred to in paragrap
 
     **(1.2)** The `Service Fees Act` does not apply to a fee for the provision of services in relation to the processing of an application
 
-      for a temporary resident visa **or permanent resident visa**;
+      for a temporary resident visa or permanent resident visa;
 
-      **for a** work permit or study permit;
+      for a work permit or study permit;
 
-      **for an** extension of an authorization to remain in Canada as a temporary resident;
+      for an extension of an authorization to remain in Canada as a temporary resident;
 
       to remain in Canada as a permanent resident;
 
@@ -5335,7 +5354,7 @@ Section 58 of the `Employment Insurance Act` is replaced by the following:
 
 ### Section 58
 
-In this Part, **insured participant** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person for whom a benefit period is established or whose benefit period has ended within the previous 60 months **or an unemployed person who paid, in at least 5 of the last 10 years, employee's premiums that did not entitle the person to a refund under subsection 96(4)**.
+In this Part, **insured participant** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person for whom a benefit period is established or whose benefit period has ended within the previous 60 months or an unemployed person who paid, in at least 5 of the last 10 years, employee's premiums that did not entitle the person to a refund under subsection 96(4).
 
 ### Section 307
 
@@ -5345,7 +5364,7 @@ In this Part, **insured participant** means an insured person who requests assis
 
   **(2)** Paragraph 60(5)(a) of the Act is replaced by the following:
 
-    provide assistance for employed persons unless they are facing a loss of their employment **or need assistance to maintain their employment**; or
+    provide assistance for employed persons unless they are facing a loss of their employment or need assistance to maintain their employment; or
 
 ### Section 308
 
@@ -5394,13 +5413,13 @@ Section 4.41 of the Act is replaced by the following:
 
 ### Section 4.41
 
-  **(1)** **An** order or regulation **must not** be made under this Part that has the effect of imposing charges for civil air navigation services, **and an agreement must not be entered into under subsection 4.401(1) that has the effect of requiring payment for those services**.
+  **(1)** An order or regulation must not be made under this Part that has the effect of imposing charges for civil air navigation services, and an agreement must not be entered into under subsection 4.401(1) that has the effect of requiring payment for those services.
 
-  **(2)** An order or regulation **must not** be made under this Part that has the effect of imposing charges for air navigation services provided by or on behalf of the Minister of National Defence, **and an agreement must not be entered into under subsection 4.401(1) that has the effect of requiring payment for those services**, if
+  **(2)** An order or regulation must not be made under this Part that has the effect of imposing charges for air navigation services provided by or on behalf of the Minister of National Defence, and an agreement must not be entered into under subsection 4.401(1) that has the effect of requiring payment for those services, if
 
-    the charges **or payments** are for services referred to in subsection 10(1) of the `Civil Air Navigation Services Commercialization Act`; or
+    the charges or payments are for services referred to in subsection 10(1) of the `Civil Air Navigation Services Commercialization Act`; or
 
-    the charges **or payments** are for services that are similar to services that the ANS Corporation provides and charges for in respect of Canadian airspace or any other airspace in respect of which Canada has responsibility for the provision of air traffic control services.
+    the charges or payments are for services that are similar to services that the ANS Corporation provides and charges for in respect of Canadian airspace or any other airspace in respect of which Canada has responsibility for the provision of air traffic control services.
 
 
 #### Navigation Protection Act
@@ -5536,7 +5555,7 @@ The definition **Board** in subsection 3(1) of the Act is repealed.
 
   **(1)** Paragraph 9(2)(e) of the Act is replaced by the following:
 
-    any other **full-time or** part-time members that the Governor in Council considers necessary to assist the Board in carrying out its functions under **Parts** II **and III**.
+    any other full-time or part-time members that the Governor in Council considers necessary to assist the Board in carrying out its functions under Parts II and III.
 
   **(2)** Paragraph 9(2)(e) of the Act is replaced by the following:
 
@@ -5556,7 +5575,7 @@ Section 10.1 of the Act is renumbered as subsection 10.1(1) and is amended by ad
 
       **(1)** The Chairperson may, if the Chairperson considers it advisable, appoint an external adjudicator to determine any matter that comes before the Board under Part II or III.
 
-      **(2)** An external adjudicator has all the powers, duties and functions that are conferred on the Board by this **Act** with respect to any matter for which they have been appointed.
+      **(2)** An external adjudicator has all the powers, duties and functions that are conferred on the Board by this Act with respect to any matter for which they have been appointed.
 
       **(3)** An order or decision made or a direction issued by an external adjudicator under this Act is deemed to be an order or decision made or a direction issued by the Board, as the case may be.
 
@@ -5572,13 +5591,13 @@ Section 10.1 of the Act is renumbered as subsection 10.1(1) and is amended by ad
 
 Subsections 12.02(2) and (3) of the Act are replaced by the following:
 
-**(2)** For the purposes of subsection (1), **the following** persons constitute a quorum:
+**(2)** For the purposes of subsection (1), the following persons constitute a quorum:
 
-  **subject to paragraph (b)**, the Chairperson, two Vice-Chairpersons and two other members representing, respectively, employees and employers; or
+  subject to paragraph (b), the Chairperson, two Vice-Chairpersons and two other members representing, respectively, employees and employers; or
 
   at a meeting held for the making of regulations respecting matters that are not governed by Part I, the Chairperson, two Vice-Chairpersons and, if two or more full-time members have been appointed under paragraph 9(2)(e), two of those members.
 
-**(3)** **If**, at a meeting referred to in subsection (1) **held for the making of regulations respecting matters that are governed by Part I**, there is an unequal number of members representing employers and employees, the Chairperson shall designate an equal number of members who are authorized to vote on **the making of those regulations** and who represent employers and employees respectively.
+**(3)** If, at a meeting referred to in subsection (1) held for the making of regulations respecting matters that are governed by Part I, there is an unequal number of members representing employers and employees, the Chairperson shall designate an equal number of members who are authorized to vote on the making of those regulations and who represent employers and employees respectively.
 
 **(4)** Members who represent employees or employers are not permitted to vote on the making of regulations respecting matters that are not governed by Part I.
 
@@ -5602,15 +5621,15 @@ Subsections 12.02(2) and (3) of the Act are replaced by the following:
 
 ### Section 14
 
-      **(1)** Subject to **subsections** (3) **and (3.1)**, a panel of not **fewer** than three members, at least one of whom is the Chairperson or a Vice-Chairperson, may determine any matter that comes before the Board under this **Act**.
+      **(1)** Subject to subsections (3) and (3.1), a panel of not fewer than three members, at least one of whom is the Chairperson or a Vice-Chairperson, may determine any matter that comes before the Board under this Act.
 
   **(2)** Subsections 14(4) and (5) of the Act are replaced by the following:
 
     **(3.1)** The Chairperson, a Vice-Chairperson or a member appointed under paragraph 9(2)(e) may alone determine a matter that comes before the Board under Part II or III.
 
-    **(4)** **The** Chairperson, **a** Vice-Chairperson or **another member who determines a matter** under subsection (3) **or (3.1)** is deemed to be a panel.
+    **(4)** The Chairperson, a Vice-Chairperson or another member who determines a matter under subsection (3) or (3.1) is deemed to be a panel.
 
-    **(5)** A panel has all the powers, **duties and functions** that are conferred on the Board by this **Act** with respect to any matter assigned to the panel.
+    **(5)** A panel has all the powers, duties and functions that are conferred on the Board by this Act with respect to any matter assigned to the panel.
 
   **(3)** Subsection 14(3.1) of the Act is replaced by the following:
 
@@ -5620,19 +5639,19 @@ Subsections 12.02(2) and (3) of the Act are replaced by the following:
 
 Subsection 14.2(2) of the Act is replaced by the following:
 
-**(2)** **If a decision is to be made under this Part**, the panel **shall make it** and give notice of it to the parties no later than 90 days after the day on which **the panel** reserved **the** decision or within any further period that may be determined by the Chairperson.
+**(2)** If a decision is to be made under this Part, the panel shall make it and give notice of it to the parties no later than 90 days after the day on which the panel reserved the decision or within any further period that may be determined by the Chairperson.
 
 ### Section 327
 
   **(1)** Paragraph 15(g) of the Act is replaced by the following:
 
-    the hearing or determination of any application, complaint, question, dispute, difference or **appeal** that may be made or referred to the Board;
+    the hearing or determination of any application, complaint, question, dispute, difference or appeal that may be made or referred to the Board;
 
   **(2)** Section 15 of the Act is amended by striking out "and" at the end of paragraph (p) and by replacing paragraph (q) with the following:
 
     the manner and criteria for selecting external adjudicators; and
 
-    **any** other matters and things **that** may be incidental or conducive to the proper performance of the duties of the Board under this **Act**.
+    any other matters and things that may be incidental or conducive to the proper performance of the duties of the Board under this Act.
 
 ### Section 328
 
@@ -5640,13 +5659,13 @@ Subsection 15.1(1) of the Act is replaced by the following:
 
 ### Section 15.1
 
-  **(1)** The Board, any member of the Board **or any external adjudicator** — or an employee of the Administrative Tribunals Support Service of Canada who is authorized by the Board — may, if the parties agree, assist the parties in resolving any issues in dispute at any stage of a proceeding and by any means that the Board considers appropriate, without prejudice to the Board's power to determine issues that have not been settled.
+  **(1)** The Board, any member of the Board or any external adjudicator — or an employee of the Administrative Tribunals Support Service of Canada who is authorized by the Board — may, if the parties agree, assist the parties in resolving any issues in dispute at any stage of a proceeding and by any means that the Board considers appropriate, without prejudice to the Board's power to determine issues that have not been settled.
 
 ### Section 329
 
   **(1)** Paragraph 16(m.1) of the Act is replaced by the following:
 
-    to extend the time limits set out in this **Act** for instituting a proceeding;
+    to extend the time limits set out in this Act for instituting a proceeding;
 
   **(2)** Section 16 of the Act is amended by striking out "and" at the end of paragraph (o.1), by adding "and" at the end of paragraph (p) and by adding the following after paragraph (p):
 
@@ -5662,17 +5681,17 @@ Sections 19 and 19.1 of the Act are replaced by the following:
 
 ### Section 19
 
-Where the Board may make any decision or issue **any** order, prescribe any term or condition or do any other thing in relation to any person or organization, the Board may do so generally or in any particular case or class of cases.
+Where the Board may make any decision or issue any order, prescribe any term or condition or do any other thing in relation to any person or organization, the Board may do so generally or in any particular case or class of cases.
 
 ### Section 19.1
 
-The Board may, on application by a trade union, an employer or an affected employee, make any interim order that the Board considers appropriate for the purpose of ensuring the fulfilment of the objectives of this **Act**.
+The Board may, on application by a trade union, an employer or an affected employee, make any interim order that the Board considers appropriate for the purpose of ensuring the fulfilment of the objectives of this Act.
 
 ### Section 331
 
 Subsection 20(3) of the Act is replaced by the following:
 
-**(3)** In this section, **decision** includes an order, **a direction**, a determination and a declaration.
+**(3)** In this section, **decision** includes an order, a direction, a determination and a declaration.
 
 ### Section 332
 
@@ -5680,7 +5699,7 @@ Section 21 of the Act is replaced by the following:
 
 ### Section 21
 
-The Board shall exercise **the** powers and perform **the** duties **and functions that** are conferred or imposed on it by this **Act**, or **that** may be incidental to the attainment of the objects of this **Act**, including the making of orders requiring compliance with the provisions of this **Act**, with any regulation made under this **Act** or with any decision made in respect of a matter before the Board.
+The Board shall exercise the powers and perform the duties and functions that are conferred or imposed on it by this Act, or that may be incidental to the attainment of the objects of this Act, including the making of orders requiring compliance with the provisions of this Act, with any regulation made under this Act or with any decision made in respect of a matter before the Board.
 
 ### Section 333
 
@@ -5688,7 +5707,7 @@ Subsection 22(1) of the Act is replaced by the following:
 
 ### Section 22
 
-  **(1)** Subject to this Part, every order or decision **made by** the Board **under this Part** is final and shall not be questioned or reviewed in any court, except in accordance with the `Federal Courts Act` on the grounds referred to in paragraph 18.1(4)(a), (b) or (e) of that Act.
+  **(1)** Subject to this Part, every order or decision made by the Board under this Part is final and shall not be questioned or reviewed in any court, except in accordance with the `Federal Courts Act` on the grounds referred to in paragraph 18.1(4)(a), (b) or (e) of that Act.
 
 ### Section 334
 
@@ -5696,7 +5715,7 @@ Subsection 23(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 23
 
-  **(1)** The Board shall, on the request in writing of any person or organization affected by any order or decision of the Board **made under this Part**, file a copy of the order or decision, exclusive of reasons, in the Federal Court, unless, in the opinion of the Board,
+  **(1)** The Board shall, on the request in writing of any person or organization affected by any order or decision of the Board made under this Part, file a copy of the order or decision, exclusive of reasons, in the Federal Court, unless, in the opinion of the Board,
 
 ### Section 335
 
@@ -5704,7 +5723,7 @@ Section 23.1 of the Act is replaced by the following:
 
 ### Section 23.1
 
-The Board may, on application by a person or organization affected by an order or decision of the Board **made under this Part**, file a copy of the order or decision, exclusive of reasons, in the superior court of a province. Section 23 applies, with **any** modifications that the circumstances require, to an order or decision filed in such a superior court.
+The Board may, on application by a person or organization affected by an order or decision of the Board made under this Part, file a copy of the order or decision, exclusive of reasons, in the superior court of a province. Section 23 applies, with any modifications that the circumstances require, to an order or decision filed in such a superior court.
 
 ### Section 336
 
@@ -5712,7 +5731,7 @@ Subsection 119(1) of the Act is replaced by the following:
 
 ### Section 119
 
-  **(1)** No member of a conciliation board **or no** conciliation officer, conciliation commissioner, officer or employee employed in the federal public administration or person appointed by the Board or the Minister under this Part shall be required to give evidence in any civil action, suit or other proceeding respecting information obtained in the discharge of their duties under this Part.
+  **(1)** No member of a conciliation board or no conciliation officer, conciliation commissioner, officer or employee employed in the federal public administration or person appointed by the Board or the Minister under this Part shall be required to give evidence in any civil action, suit or other proceeding respecting information obtained in the discharge of their duties under this Part.
 
   **(1.1)** No member of the Board or no external adjudicator shall be required to give evidence in any civil action, suit or other proceeding respecting information obtained in the discharge of their duties under this Act.
 
@@ -5720,7 +5739,7 @@ Subsection 119(1) of the Act is replaced by the following:
 
 Paragraph 119.1(a) of the Act is replaced by the following:
 
-notes or draft orders or decisions of the Board or any of its members, **of an external adjudicator** or of an arbitrator or arbitration board chairperson appointed by the Minister under this Part; and
+notes or draft orders or decisions of the Board or any of its members, of an external adjudicator or of an arbitrator or arbitration board chairperson appointed by the Minister under this Part; and
 
 ### Section 338
 
@@ -5732,25 +5751,25 @@ notes or draft orders or decisions of the Board or any of its members, **of an e
 
 Paragraph 125(1)(x) of the Act is replaced by the following:
 
-comply with every oral or written direction given to the employer by the Minister or **the Board** concerning the health and safety of employees;
+comply with every oral or written direction given to the employer by the Minister or the Board concerning the health and safety of employees;
 
 ### Section 340
 
 Paragraph 126(1)(i) of the Act is replaced by the following:
 
-comply with every oral or written direction of the Minister or **the Board** concerning the health and safety of employees; and
+comply with every oral or written direction of the Minister or the Board concerning the health and safety of employees; and
 
 ### Section 341
 
 Subsection 129(7) of the Act is replaced by the following:
 
-**(7)** If the Minister makes a decision referred to in paragraph 128(13)(b) or (c), the employee is not entitled under section 128 or this section to continue to refuse to use or operate the machine or thing, work in that place or perform that activity, but the employee, or a person designated by the employee for the purpose, may appeal the decision, in writing, to **the Board** within 10 days after receiving notice of the decision.
+**(7)** If the Minister makes a decision referred to in paragraph 128(13)(b) or (c), the employee is not entitled under section 128 or this section to continue to refuse to use or operate the machine or thing, work in that place or perform that activity, but the employee, or a person designated by the employee for the purpose, may appeal the decision, in writing, to the Board within 10 days after receiving notice of the decision.
 
 ### Section 342
 
 Section 134 of the Act is renumbered as subsection 134(1) and is amended by adding the following:
 
-**(2)** Any person affected by an order of **the Board** under subsection (1), or the Minister on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
+**(2)** Any person affected by an order of the Board under subsection (1), or the Minister on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
 
 **(3)** On filing in the Federal Court under subsection (2), an order of the Board shall be registered in the Court and, when registered, has the same force and effect, and all proceedings may be taken in respect of it, as if the order were a judgment obtained in that Court.
 
@@ -5758,7 +5777,7 @@ Section 134 of the Act is renumbered as subsection 134(1) and is amended by addi
 
 Paragraph 142(a) of the Act is replaced by the following:
 
-the Minister to enable **him or her** to **exercise his or her powers or to perform his or her** duties **or functions** under this Part;
+the Minister to enable him or her to exercise his or her powers or to perform his or her duties or functions under this Part;
 
 an external adjudicator and a member of the Board to enable them to, in accordance with subsection 12.001(2) or 14(5), exercise or perform the powers, duties or functions conferred on the Board by this Part; and
 
@@ -5766,7 +5785,7 @@ an external adjudicator and a member of the Board to enable them to, in accordan
 
 Paragraph 143(a) of the Act is replaced by the following:
 
-the Minister in **the exercise of his or her powers, or in the performance of his or her** duties **or functions**, under this Part;
+the Minister in the exercise of his or her powers, or in the performance of his or her duties or functions, under this Part;
 
 an external adjudicator or a member of the Board in the exercise or performance, in accordance with subsection 12.001(2) or 14(5), of the powers, duties or functions conferred on the Board by this Part; or
 
@@ -5780,21 +5799,21 @@ an external adjudicator or a member of the Board in the exercise or performance,
 
   **(2)** Paragraph 143.1(a) of the Act is replaced by the following:
 
-    the Minister in **the exercise of his or her powers, or in the performance of his or her** duties **or functions** under this Part;
+    the Minister in the exercise of his or her powers, or in the performance of his or her duties or functions under this Part;
 
     an external adjudicator or a member of the Board in the exercise or performance, in accordance with subsection 12.001(2) or 14(5), of the powers, duties or functions conferred on the Board by this Part; or
 
   **(3)** Paragraph 143.1(b) of the French version of the Act is replaced by the following:
 
-    **à** toute personne à qui des attributions ont été déléguées en vertu du paragraphe 140(1) ou d'un accord conclu en vertu du paragraphe 140(2) dans l'exercice de ces attributions.
+    à toute personne à qui des attributions ont été déléguées en vertu du paragraphe 140(1) ou d'un accord conclu en vertu du paragraphe 140(2) dans l'exercice de ces attributions.
 
 ### Section 346
 
 Subsections 144(2) and (3) of the Act are replaced by the following:
 
-**(2)** No person who has accompanied or assisted **an external adjudicator or a member of the Board** in **the exercise, in accordance with subsection 12.001(2) or 14(5), of the powers**, or in the performance of the duties or functions, conferred on the Board by this Part **shall** be required to give testimony in any proceeding with regard to information obtained in accompanying or assisting the **external adjudicator or member**.
+**(2)** No person who has accompanied or assisted an external adjudicator or a member of the Board in the exercise, in accordance with subsection 12.001(2) or 14(5), of the powers, or in the performance of the duties or functions, conferred on the Board by this Part shall be required to give testimony in any proceeding with regard to information obtained in accompanying or assisting the external adjudicator or member.
 
-**(3)** Subject to subsection (4), the Minister, **an external adjudicator or a member of the Board** who is admitted to a work place under the powers conferred by section 141 — or a person who is admitted to a work place under the powers conferred by section 141 that are delegated to them under subsection 140(1) or under an agreement entered into under subsection 140(2) — and **any** person accompanying them, shall **not** disclose to any person any information obtained in the work place by the Minister, **external adjudicator or member** or person with regard to any secret process or trade secret, except for the purposes of this Part or as required by law.
+**(3)** Subject to subsection (4), the Minister, an external adjudicator or a member of the Board who is admitted to a work place under the powers conferred by section 141 — or a person who is admitted to a work place under the powers conferred by section 141 that are delegated to them under subsection 140(1) or under an agreement entered into under subsection 140(2) — and any person accompanying them, shall not disclose to any person any information obtained in the work place by the Minister, external adjudicator or member or person with regard to any secret process or trade secret, except for the purposes of this Part or as required by law.
 
 ### Section 347
 
@@ -5802,13 +5821,13 @@ Sections 145.1 and 146 of the Act are replaced by the following:
 
 ### Section 145.1
 
-For the purposes of sections 146 to 146.5, **the Board** has all of the powers, duties and functions of the Minister under this Part, except for those referred to in section 130, subsections 135(3) **and (6)**, 137.1(1) to (2.1) and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), **section 139, subsections** 140(1), (2) and (4) **and** 144(1), **section 146.01, subsection** 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2).
+For the purposes of sections 146 to 146.5, the Board has all of the powers, duties and functions of the Minister under this Part, except for those referred to in section 130, subsections 135(3) and (6), 137.1(1) to (2.1) and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), section 139, subsections 140(1), (2) and (4) and 144(1), section 146.01, subsection 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2).
 
 ### Section 146
 
-  **(1)** An employer, employee or trade union that feels aggrieved by a direction issued by the Minister under this Part may appeal the direction to **the Board**, in writing, within 30 days after the **day on which** the direction **was** issued or confirmed in writing.
+  **(1)** An employer, employee or trade union that feels aggrieved by a direction issued by the Minister under this Part may appeal the direction to the Board, in writing, within 30 days after the day on which the direction was issued or confirmed in writing.
 
-  **(2)** Unless otherwise ordered by **the Board** on application by the employer, employee or trade union, an appeal of a direction does not operate as a stay of the direction.
+  **(2)** Unless otherwise ordered by the Board on application by the employer, employee or trade union, an appeal of a direction does not operate as a stay of the direction.
 
 ### Section 146.01
 
@@ -5826,19 +5845,19 @@ For the purposes of sections 146 to 146.5, **the Board** has all of the powers, 
 
 ### Section 146.1
 
-      **(1)** If an appeal is brought under subsection 129(7) or section 146, the **Board** shall, in a summary way and without delay, inquire into the circumstances of the decision or direction, as the case may be, and the reasons for it and may
+      **(1)** If an appeal is brought under subsection 129(7) or section 146, the Board shall, in a summary way and without delay, inquire into the circumstances of the decision or direction, as the case may be, and the reasons for it and may
 
   **(2)** Paragraph 146.1(1)(b) of the English version of the Act is replaced by the following:
 
-    issue any direction that the **Board** considers appropriate under subsection 145(2) or (2.1).
+    issue any direction that the Board considers appropriate under subsection 145(2) or (2.1).
 
   **(3)** Subsections 146.1(2) to (4) of the Act are replaced by the following:
 
-    **(2)** The **Board** shall provide a written decision, with reasons, and a copy of any direction to the employer, employee or trade union concerned **and to the Minister**, and the employer shall, without delay, give a copy of **the decision, the reasons, and any direction** to the work place committee or health and safety representative.
+    **(2)** The Board shall provide a written decision, with reasons, and a copy of any direction to the employer, employee or trade union concerned and to the Minister, and the employer shall, without delay, give a copy of the decision, the reasons, and any direction to the work place committee or health and safety representative.
 
-    **(3)** If the **Board** issues a direction under paragraph (1)(b), the employer shall, without delay, affix or cause to be affixed to or near the machine, thing or place in respect of which the direction is issued a notice of the direction, in the form and containing the information that the **Board** may specify, and no person may remove the notice unless authorized to do so by the **Board**.
+    **(3)** If the Board issues a direction under paragraph (1)(b), the employer shall, without delay, affix or cause to be affixed to or near the machine, thing or place in respect of which the direction is issued a notice of the direction, in the form and containing the information that the Board may specify, and no person may remove the notice unless authorized to do so by the Board.
 
-    **(4)** If the **Board** directs, under paragraph (1)(b), that a machine or thing not be used, **a** place **not be worked in** or an activity not be performed until the direction is complied with, no person **shall** use the machine or thing, or **work in the** place or perform the activity until the direction is complied with, but nothing in this subsection prevents the doing of anything necessary for the proper compliance with the direction.
+    **(4)** If the Board directs, under paragraph (1)(b), that a machine or thing not be used, a place not be worked in or an activity not be performed until the direction is complied with, no person shall use the machine or thing, or work in the place or perform the activity until the direction is complied with, but nothing in this subsection prevents the doing of anything necessary for the proper compliance with the direction.
 
 ### Section 349
 
@@ -5846,7 +5865,7 @@ Sections 146.2 to 146.5 of the Act are replaced by the following:
 
 ### Section 146.5
 
-An employee who is a party to a proceeding under subsection 146.1(1) and who attends at the proceeding, or any employee who has been summoned **by the Board** to attend at such a proceeding and who attends, is entitled to be paid by the employer at the employee's regular rate of wages for the time spent at the proceeding that would otherwise have been time at work.
+An employee who is a party to a proceeding under subsection 146.1(1) and who attends at the proceeding, or any employee who has been summoned by the Board to attend at such a proceeding and who attends, is entitled to be paid by the employer at the employee's regular rate of wages for the time spent at the proceeding that would otherwise have been time at work.
 
 ### Section 350
 
@@ -5861,13 +5880,13 @@ The Minister may, subject to the regulations, make public the name of an employe
 Section 156 of the Act and the heading before it are replaced by the following:
 
 
-### **Orders, Decisions and Directions** of **Board**
+### Orders, Decisions and Directions of Board
 
 ### Section 156
 
-  **(1)** **Every order or decision made or direction issued by the Board under this Part is final and shall not be questioned or reviewed in any court.**
+  **(1)** Every order or decision made or direction issued by the Board under this Part is final and shall not be questioned or reviewed in any court.
 
-  **(2)** **No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain the Board in any proceedings under this Part.**
+  **(2)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain the Board in any proceedings under this Part.
 
 ### Section 352
 
@@ -5879,11 +5898,11 @@ prescribing the method for calculating and determining the regular rate of wages
 
   **(1)** The portion of subsection 241(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **If** a complaint is not settled under subsection (2) within **the** period **that** the inspector endeavouring to assist the parties **under** that subsection considers to be reasonable in the circumstances, the inspector shall, on the written request of the person who made the complaint that the complaint be referred to **the Board**,
+    **(3)** If a complaint is not settled under subsection (2) within the period that the inspector endeavouring to assist the parties under that subsection considers to be reasonable in the circumstances, the inspector shall, on the written request of the person who made the complaint that the complaint be referred to the Board,
 
   **(2)** Paragraph 241(3)(b) of the Act is replaced by the following:
 
-    deliver to the **Board** the complaint made under subsection 240(1), any written statement giving the reasons for the dismissal provided **under** subsection (1) and any other statements or documents **that** the inspector has that relate to the complaint.
+    deliver to the Board the complaint made under subsection 240(1), any written statement giving the reasons for the dismissal provided under subsection (1) and any other statements or documents that the inspector has that relate to the complaint.
 
 ### Section 354
 
@@ -5891,15 +5910,15 @@ prescribing the method for calculating and determining the regular rate of wages
 
   **(2)** The portion of subsection 242(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Subject to subsection (3.1), **the Board, after a complaint has been referred to it,** shall
+    **(3)** Subject to subsection (3.1), the Board, after a complaint has been referred to it, shall
 
   **(3)** The portion of subsection 242(3.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(3.1)** No complaint shall be considered by **the Board** under subsection (3) in respect of a person **if**
+    **(3.1)** No complaint shall be considered by the Board under subsection (3) in respect of a person if
 
   **(4)** The portion of subsection 242(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **If the Board** decides **under** subsection (3) that a person has been unjustly dismissed, the **Board** may, by order, require the employer who dismissed the person to
+    **(4)** If the Board decides under subsection (3) that a person has been unjustly dismissed, the Board may, by order, require the employer who dismissed the person to
 
 ### Section 355
 
@@ -5907,15 +5926,15 @@ Sections 243 and 244 of the Act are replaced by the following:
 
 ### Section 243
 
-  **(1)** Every order of **the Board** is final and shall not be questioned or reviewed in any court.
+  **(1)** Every order of the Board is final and shall not be questioned or reviewed in any court.
 
-  **(2)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain **the Board** in any proceedings under section 242.
+  **(2)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain the Board in any proceedings under section 242.
 
 ### Section 244
 
-  **(1)** Any person affected by an order of **the Board** under subsection 242(4), or the Minister on the request of such **a** person, may, after 14 days from the **day** on which the order is made, or from the **day** provided in **the order** for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
+  **(1)** Any person affected by an order of the Board under subsection 242(4), or the Minister on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
 
-  **(2)** On filing in the Federal Court under subsection (1), an order of **the Board** shall be registered in the Court and, when registered, has the same force and effect, and all proceedings may be taken **in respect of it**, as if the order were a judgment obtained in that Court.
+  **(2)** On filing in the Federal Court under subsection (1), an order of the Board shall be registered in the Court and, when registered, has the same force and effect, and all proceedings may be taken in respect of it, as if the order were a judgment obtained in that Court.
 
 ### Section 356
 
@@ -6004,15 +6023,15 @@ Sections 243 and 244 of the Act are replaced by the following:
 
 ### Section 246.5
 
-      **(1)** Every decision of **the Board** made under this Division is final and shall not be questioned or reviewed in any court.
+      **(1)** Every decision of the Board made under this Division is final and shall not be questioned or reviewed in any court.
 
-      **(2)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain **the Board** in any proceedings under this Division.
+      **(2)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain the Board in any proceedings under this Division.
 
 ### Section 246.6
 
-      **(1)** Any person affected by an order of **the Board** under section 246.4, or the Minister on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
+      **(1)** Any person affected by an order of the Board under section 246.4, or the Minister on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
 
-      **(2)** On filing in the Federal Court under subsection (1), an order of **the Board** shall be registered in the Court and, when registered, has the same force and effect, and all proceedings may be taken in respect of it, as if the order were a judgment obtained in that Court.
+      **(2)** On filing in the Federal Court under subsection (1), an order of the Board shall be registered in the Court and, when registered, has the same force and effect, and all proceedings may be taken in respect of it, as if the order were a judgment obtained in that Court.
 
 ### Section 246.7
 
@@ -6067,9 +6086,9 @@ The Act is amended by adding the following after section 251:
 
   **(3)** The Minister may also specify in the order that the report is to contain any information that the Minister considers appropriate.
 
-  **(4)** Service of the order or of a copy of it shall be by personal service, by registered mail **or by any other means** prescribed by regulation and, in the case of registered mail, the order or its copy shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
+  **(4)** Service of the order or of a copy of it shall be by personal service, by registered mail or by any other means prescribed by regulation and, in the case of registered mail, the order or its copy shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
 
-  **(5)** A certificate purporting to be signed by the Minister certifying that a document referred to in subsection (4) was sent by registered mail **or by any other means** prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration **or other proof, prescribed by regulation, that the document has been sent or received**, is admissible in evidence and is proof of the statements contained **in the certificate**, without proof of the signature or official character of the person appearing to have signed the certificate.
+  **(5)** A certificate purporting to be signed by the Minister certifying that a document referred to in subsection (4) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
   **(6)** If the employer determines that it had not complied with any provision referred to in the order, the employer shall set out in the report the nature of the employer's non-compliance and the steps that have been or will be taken by the employer to comply with the provision.
 
@@ -6083,7 +6102,7 @@ The Act is amended by adding the following after section 251:
 
 Subsection 251.01(4) of the Act is replaced by the following:
 
-**(4)** An employee who **has been dismissed** is not permitted to make a complaint under subsection (1) **on the grounds that the employee considers the dismissal to be unjust. However, the employee may file a complaint under subsection (1) if it relates only to the payment of their wages or other amounts to which they are entitled under this Part, including amounts referred to in subsection 230(1) or (2) or 235(1)**.
+**(4)** An employee who has been dismissed is not permitted to make a complaint under subsection (1) on the grounds that the employee considers the dismissal to be unjust. However, the employee may file a complaint under subsection (1) if it relates only to the payment of their wages or other amounts to which they are entitled under this Part, including amounts referred to in subsection 230(1) or (2) or 235(1).
 
 ### Section 360
 
@@ -6102,37 +6121,37 @@ The heading before section 251.1 of the Act is replaced by the following:
 
     to pay wages or other amounts to which an employee is entitled under this Part.
 
-  **(3)** Service of an order or of a copy of it shall be by personal service, by registered mail **or by any other means** prescribed by regulation and, in the case of registered mail, the order or its copy shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
+  **(3)** Service of an order or of a copy of it shall be by personal service, by registered mail or by any other means prescribed by regulation and, in the case of registered mail, the order or its copy shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
 
-  **(4)** A certificate purporting to be signed by the Minister certifying that a document referred to in subsection (3) was sent by registered mail **or by any other means** prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained **in the certificate**, without proof of the signature or official character of the person appearing to have signed the certificate.
+  **(4)** A certificate purporting to be signed by the Minister certifying that a document referred to in subsection (3) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
 ### Section 361
 
   **(1)** Paragraph 251.1(1.1)(a) of the Act is replaced by the following:
 
-    in the case where the employee made a complaint under subsection 251.01(1) that was not rejected under subsection 251.05(1), the **24** months, **plus any extension of the period for making the complaint that is granted by the Minister under subsection 251.01(3), immediately** before the day on which the complaint was made or, if there was a termination of employment prior to the complaint being made, the **24** months **immediately** before the date of termination; and
+    in the case where the employee made a complaint under subsection 251.01(1) that was not rejected under subsection 251.05(1), the 24 months, plus any extension of the period for making the complaint that is granted by the Minister under subsection 251.01(3), immediately before the day on which the complaint was made or, if there was a termination of employment prior to the complaint being made, the 24 months immediately before the date of termination; and
 
   **(2)** Subsection 251.1(1.1) of the Act is amended by striking out "and" at the end of paragraph (a) and by adding the following after paragraph (a):
 
-    in the case **where** the payment order was issued to the employer on the basis of, in whole or in part, a report provided under subsection 251.001(1), the **24** months **immediately** before the day on which the order to provide the report was served; and
+    in the case where the payment order was issued to the employer on the basis of, in whole or in part, a report provided under subsection 251.001(1), the 24 months immediately before the day on which the order to provide the report was served; and
 
   **(3)** Paragraph 251.1(1.1)(b) of the Act is replaced by the following:
 
-    in any other case, the **24** months **immediately** before the day on which an inspection under this Part, during the course of which the inspector made the finding referred to in subsection (1), began.
+    in any other case, the 24 months immediately before the day on which an inspection under this Part, during the course of which the inspector made the finding referred to in subsection (1), began.
 
   **(4)** Subsections 251.1(1.2) to (4) of the Act are replaced by the following:
 
-    **(2)** An inspector dealing with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part shall notify the employee in writing that their complaint is unfounded if the inspector concludes that the employer has paid to the employee all wages and other amounts to which the employee is entitled under this Part for the period of six months, **plus any extension of the period for making the complaint that is granted by the Minister under** subsection 251.01(3), **immediately before the day on which the complaint was made**.
+    **(2)** An inspector dealing with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part shall notify the employee in writing that their complaint is unfounded if the inspector concludes that the employer has paid to the employee all wages and other amounts to which the employee is entitled under this Part for the period of six months, plus any extension of the period for making the complaint that is granted by the Minister under subsection 251.01(3), immediately before the day on which the complaint was made.
 
     **(2.1)** An inspector dealing with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part shall notify the employee in writing that the employer has voluntarily paid to the employee all wages and other amounts owing if
 
-      the inspector concludes that the employer has, since the complaint was made, paid to the employee all wages and other amounts owing for the period of 24 months, **plus any extension of the period for making the complaint that is granted by the Minister under** subsection 251.01(3), immediately before the day on which the complaint was made and for any subsequent period specified by the inspector; and
+      the inspector concludes that the employer has, since the complaint was made, paid to the employee all wages and other amounts owing for the period of 24 months, plus any extension of the period for making the complaint that is granted by the Minister under subsection 251.01(3), immediately before the day on which the complaint was made and for any subsequent period specified by the inspector; and
 
       the inspector has not issued a payment order or a notice of unfounded complaint with respect to the complaint.
 
-    **(3)** Service of a payment order or a copy **of it**, of a notice of unfounded complaint, **or of a notice of voluntary compliance** shall be by personal service, by registered mail **or by any other means prescribed by regulation** and, in the case of registered mail, the **order, copy or notice** shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
+    **(3)** Service of a payment order or a copy of it, of a notice of unfounded complaint, or of a notice of voluntary compliance shall be by personal service, by registered mail or by any other means prescribed by regulation and, in the case of registered mail, the order, copy or notice shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
 
-    **(4)** A certificate purporting to be signed by the Minister certifying that a document referred to in subsection (3) was sent by registered mail **or by any other means prescribed by regulation** to the **addressee**, accompanied by **a true copy of the document and by** an identifying post office certificate of the registration **or other proof, prescribed by regulation, that the document has been sent or received**, is admissible in evidence and is proof of the statements contained **in the certificate**, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(4)** A certificate purporting to be signed by the Minister certifying that a document referred to in subsection (3) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
 ### Section 362
 
@@ -6147,7 +6166,7 @@ The Act is amended by adding the following after section 251.1:
 
 ### Section 251.101
 
-      **(1)** A person who is affected by a payment order, a notice of unfounded complaint **or a notice of voluntary compliance** may send a written request with reasons for a review of the inspector's decision to the Minister within 15 days after the day on which the order or a copy of the order or the notice is served.
+      **(1)** A person who is affected by a payment order, a notice of unfounded complaint or a notice of voluntary compliance may send a written request with reasons for a review of the inspector's decision to the Minister within 15 days after the day on which the order or a copy of the order or the notice is served.
 
   **(2)** Subsection 251.101(1) of the Act is replaced by the following:
 
@@ -6161,7 +6180,7 @@ The Act is amended by adding the following after section 251.1:
 
   **(3)** Subsection 251.101(2) of the Act is replaced by the following:
 
-    **(2)** An employer or a director of a corporation is not permitted to request a review of a payment order unless the employer or director pays to the Minister the amount indicated in the payment order **and, in the case of an employer, the administrative fee specified in the payment order in accordance with subsection 251.131(1)**, subject to, in the case of a director, the maximum amount of the director's liability under section 251.18.
+    **(2)** An employer or a director of a corporation is not permitted to request a review of a payment order unless the employer or director pays to the Minister the amount indicated in the payment order and, in the case of an employer, the administrative fee specified in the payment order in accordance with subsection 251.131(1), subject to, in the case of a director, the maximum amount of the director's liability under section 251.18.
 
     **(2.1)** The Minister may allow an employer or a director of a corporation to give security, in a form satisfactory to the Minister and on any conditions specified by the Minister, for all or part of the amount and fee referred to in subsection (2).
 
@@ -6169,17 +6188,17 @@ The Act is amended by adding the following after section 251.1:
 
     **(3)** On receipt of the request for review, the Minister may, in writing,
 
-      confirm, rescind or vary, in whole or in part, the payment order; **or**
+      confirm, rescind or vary, in whole or in part, the payment order; or
 
-      confirm the notice of unfounded complaint **or the notice of voluntary compliance**, or rescind the notice, **in which case** the Minister shall direct an inspector to re-examine the complaint.
+      confirm the notice of unfounded complaint or the notice of voluntary compliance, or rescind the notice, in which case the Minister shall direct an inspector to re-examine the complaint.
 
-    **(4)** **Service of** a decision made under subsection (3) shall be by personal service, by registered mail **or by any other means prescribed by regulation on any** person who **is** affected by the payment order, the notice of unfounded complaint **or the notice of voluntary compliance** and, in the case of registered mail, the decision **shall be** deemed to have been received by the addressee on the seventh day after the day on which it **was** mailed.
+    **(4)** Service of a decision made under subsection (3) shall be by personal service, by registered mail or by any other means prescribed by regulation on any person who is affected by the payment order, the notice of unfounded complaint or the notice of voluntary compliance and, in the case of registered mail, the decision shall be deemed to have been received by the addressee on the seventh day after the day on which it was mailed.
 
-    **(5)** A certificate purporting to be signed by the Minister certifying that a decision referred to in subsection (4) was sent by registered mail **or by any other means prescribed by regulation** to the **addressee**, accompanied by **a true copy of the decision and by** an identifying post office certificate of the registration **or other proof, prescribed by regulation, that the decision has been sent or received**, is admissible in evidence and is proof of the statements contained in **the certificate**, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(5)** A certificate purporting to be signed by the Minister certifying that a decision referred to in subsection (4) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the decision and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the decision has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
   **(5)** Paragraph 251.101(3)(a) of the Act is replaced by the following:
 
-    confirm, rescind or vary, in whole or in part, the payment order **or the compliance order**; or
+    confirm, rescind or vary, in whole or in part, the payment order or the compliance order; or
 
   **(6)** Subsection 251.101(4) of the Act is replaced by the following:
 
@@ -6187,7 +6206,7 @@ The Act is amended by adding the following after section 251.1:
 
   **(7)** Subsection 251.101(7) of the Act is replaced by the following:
 
-    **(7)** The Minister may, if the Minister considers it appropriate in the circumstances, treat the request for review as an appeal of the inspector's decision, in which case the Minister shall so inform **any** person **who is** affected by the payment order, the notice of unfounded complaint **or the notice of voluntary compliance**, and the request for review shall be considered to be an appeal for the purposes of section 251.12.
+    **(7)** The Minister may, if the Minister considers it appropriate in the circumstances, treat the request for review as an appeal of the inspector's decision, in which case the Minister shall so inform any person who is affected by the payment order, the notice of unfounded complaint or the notice of voluntary compliance, and the request for review shall be considered to be an appeal for the purposes of section 251.12.
 
   **(8)** Subsection 251.101(7) of the Act is replaced by the following:
 
@@ -6203,7 +6222,7 @@ The Act is amended by adding the following after section 251.1:
 
 ### Section 251.11
 
-      **(1)** A person who is affected by a decision made under subsection 251.101(3), other than a decision to rescind a notice of unfounded complaint **or a notice of voluntary compliance**, may appeal the decision to the Minister, in writing, within 15 days after the day on which the decision is served, but only on a question of law or jurisdiction.
+      **(1)** A person who is affected by a decision made under subsection 251.101(3), other than a decision to rescind a notice of unfounded complaint or a notice of voluntary compliance, may appeal the decision to the Minister, in writing, within 15 days after the day on which the decision is served, but only on a question of law or jurisdiction.
 
   **(2)** Subsection 251.11(1) of the Act is replaced by the following:
 
@@ -6217,13 +6236,13 @@ The Act is amended by adding the following after section 251.1:
 
       **(1)** Subject to subsection (1.1), a person who is affected by a decision made under subsection 251.101(3), other than a decision to rescind a notice of unfounded complaint or a notice of voluntary compliance, may appeal the decision to the Board, in writing, within 15 days after the day on which the decision is served.
 
-      **(1.1)** **Only an employer to whom a compliance order has been issued may appeal a decision with respect to that order.**
+      **(1.1)** Only an employer to whom a compliance order has been issued may appeal a decision with respect to that order.
 
       **(1.2)** Except in the case of a compliance order, the person may appeal the decision only on a question of law or jurisdiction.
 
   **(4)** Subsection 251.11(3) of the Act is replaced by the following:
 
-    **(3)** An employer or director of a corporation is not permitted to appeal a decision **confirming or varying a payment order** unless the employer or director pays to the Minister the amount indicated in the decision — **and, in the case of an employer, the administrative fee specified in the decision in accordance with subsection 251.131(1) — less any amount and administrative fee paid** under subsection 251.101(2).
+    **(3)** An employer or director of a corporation is not permitted to appeal a decision confirming or varying a payment order unless the employer or director pays to the Minister the amount indicated in the decision — and, in the case of an employer, the administrative fee specified in the decision in accordance with subsection 251.131(1) — less any amount and administrative fee paid under subsection 251.101(2).
 
     **(3.1)** The Minister may allow an employer or a director of a corporation to give security, in a form satisfactory to the Minister and on any conditions specified by the Minister, for all or part of the amount and fee referred to in subsection (3).
 
@@ -6245,21 +6264,21 @@ Section 251.12 of the Act is replaced by the following:
 
 ### Section 251.12
 
-  **(1)** The **Board** may, **in an appeal under this Part**, make any order that is necessary to give effect to **its** decision, **including an** order **to**
+  **(1)** The Board may, in an appeal under this Part, make any order that is necessary to give effect to its decision, including an order to
 
     confirm, rescind or vary, in whole or in part, the decision being appealed;
 
-    direct payment to any specified person of any **wages or other amounts** held in trust by the Receiver General that relate to the appeal;
+    direct payment to any specified person of any wages or other amounts held in trust by the Receiver General that relate to the appeal;
 
-    award costs in the proceedings; **and**
+    award costs in the proceedings; and
 
     order a party, whose conduct in the proceedings has, in the Board's opinion, unduly delayed the determination of the appeal, to pay to the Receiver General an amount that is equal to all or part of the expenses incurred in the proceedings by the Board.
 
-  **(2)** The **Board** shall send a copy of the decision, **with** reasons, to each party to the appeal and to the Minister.
+  **(2)** The Board shall send a copy of the decision, with reasons, to each party to the appeal and to the Minister.
 
-  **(3)** The order **of the Board** is final and shall not be questioned or reviewed in any court.
+  **(3)** The order of the Board is final and shall not be questioned or reviewed in any court.
 
-  **(4)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain **the Board** in any proceedings under this section.
+  **(4)** No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review, prohibit or restrain the Board in any proceedings under this section.
 
   **(5)** An employee who has been summoned by the Board to attend at an appeal proceeding under this Part and who attends is entitled to be paid by the employer at the employee's regular rate of wages for the time spent at the proceeding that would otherwise have been time at work.
 
@@ -6274,11 +6293,11 @@ Section 251.13 of the Act is replaced by the following:
 
 ### Section 251.13
 
-  **(1)** A regional director may issue a written order to a person who is or is about to become indebted to an employer to whom a payment order has been issued under subsection 251.1(1) to pay any amount owing to the employer, up to **the total of** the amount **and the administrative fee indicated** in the payment order, directly to the Minister within 15 days, in satisfaction of the payment order.
+  **(1)** A regional director may issue a written order to a person who is or is about to become indebted to an employer to whom a payment order has been issued under subsection 251.1(1) to pay any amount owing to the employer, up to the total of the amount and the administrative fee indicated in the payment order, directly to the Minister within 15 days, in satisfaction of the payment order.
 
   **(1.1)** A regional director may issue a written order to a person who is or is about to become indebted to a director of a corporation to whom a payment order has been issued under subsection 251.1(1) to pay any amount owing to the director of the corporation, up to the amount indicated in the payment order, directly to the Minister within 15 days, in satisfaction of the payment order.
 
-  **(2)** For the purposes of this section, a bank or other financial institution that has money on deposit to **the** credit **of** an employer **or a director of a corporation** shall be deemed to be indebted to that employer **or that director**.
+  **(2)** For the purposes of this section, a bank or other financial institution that has money on deposit to the credit of an employer or a director of a corporation shall be deemed to be indebted to that employer or that director.
 
 ### Section 251.131
 
@@ -6308,13 +6327,13 @@ Section 251.14 of the Act is amended by adding the following after subsection (1
 
 ### Section 251.15
 
-      **(1)** Any person who is affected by a payment order issued under subsection 251.1(1) or confirmed or varied under subsection 251.101(3) or by **an** order **of the Board** made under subsection 251.12**(1)**, or the Minister, may, after the day provided in the order for compliance or after 15 days following the day on which the order is **issued**, made, confirmed or varied, whichever is later, file in the Federal Court a copy of the payment order, or a copy of the order **of the Board**, exclusive of reasons.
+      **(1)** Any person who is affected by a payment order issued under subsection 251.1(1) or confirmed or varied under subsection 251.101(3) or by an order of the Board made under subsection 251.12(1), or the Minister, may, after the day provided in the order for compliance or after 15 days following the day on which the order is issued, made, confirmed or varied, whichever is later, file in the Federal Court a copy of the payment order, or a copy of the order of the Board, exclusive of reasons.
 
-      **(1.1)** However, a payment order is not to be filed while it is or may be the subject of a review under subsection 251.101(1) or an appeal under subsection 251.101(7) or section 251.11 or if **an** order **of the Board** is made under paragraph 251.12**(1)**(a) relating to the payment order.
+      **(1.1)** However, a payment order is not to be filed while it is or may be the subject of a review under subsection 251.101(1) or an appeal under subsection 251.101(7) or section 251.11 or if an order of the Board is made under paragraph 251.12(1)(a) relating to the payment order.
 
   **(2)** Subsection 251.15(2) of the Act is replaced by the following:
 
-    **(2)** After the expiration of the 15 day period specified in an order to a debtor of the employer **or of the director of a corporation** made under **section 251.13**, the regional director may file a copy of the order in the Federal Court.
+    **(2)** After the expiration of the 15 day period specified in an order to a debtor of the employer or of the director of a corporation made under section 251.13, the regional director may file a copy of the order in the Federal Court.
 
 ### Section 369
 
@@ -6322,7 +6341,7 @@ Section 251.16 of the Act is replaced by the following:
 
 ### Section 251.16
 
-The Governor in Council may make regulations respecting the operation of sections **251.001 and** 251.1 to 251.15.
+The Governor in Council may make regulations respecting the operation of sections 251.001 and 251.1 to 251.15.
 
 ### Section 370
 
@@ -6338,7 +6357,7 @@ Section 251.17 of the Act is replaced by the following:
 
 ### Section 251.17
 
-The `Statutory Instruments Act` does not apply in respect of payment orders, notices of unfounded complaint, **notices of voluntary compliance or** orders **to debtors**.
+The `Statutory Instruments Act` does not apply in respect of payment orders, notices of unfounded complaint, notices of voluntary compliance or orders to debtors.
 
 ### Section 372
 
@@ -6362,13 +6381,13 @@ The `Statutory Instruments Act` does not apply in respect of internal audit orde
 
 ### Section 253
 
-      **(1)** Where the Minister is authorized to require a person to furnish information under this Part or the regulations, the Minister may require the information to be furnished by a notice to that effect served **by personal service**, by registered mail addressed to the latest known address of the **addressee, or by any other means prescribed by regulation**, and that person
+      **(1)** Where the Minister is authorized to require a person to furnish information under this Part or the regulations, the Minister may require the information to be furnished by a notice to that effect served by personal service, by registered mail addressed to the latest known address of the addressee, or by any other means prescribed by regulation, and that person
 
-        **if** the notice is sent by registered mail, shall be deemed to have received the notice on the seventh day after the day on which it was mailed; and
+        if the notice is sent by registered mail, shall be deemed to have received the notice on the seventh day after the day on which it was mailed; and
 
   **(2)** Subsection 253(2) of the Act is replaced by the following:
 
-    **(2)** A certificate purporting to be signed by the Minister certifying that a notice was sent by registered mail **or by any other means prescribed by regulation** to the **addressee**, accompanied by **a true copy of the notice and by** an identifying post office certificate of the registration **or other proof, prescribed by regulation, that the notice has been sent or received**, is admissible in evidence and is proof of the statements contained **in the certificate**, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(2)** A certificate purporting to be signed by the Minister certifying that a notice was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the notice and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the notice has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
   **(3)** Section 253 of the Act is amended by adding the following after subsection (5):
 
@@ -6378,7 +6397,7 @@ The `Statutory Instruments Act` does not apply in respect of internal audit orde
 
 Paragraph 256(1)(a) of the Act is replaced by the following:
 
-contravenes any provision of this Part or the regulations, other than a provision of Division IX, subsection 239.1(2), 239.2(1), **251.001(9)** or 252(2) or any regulation made under section 227 or paragraph 264(a);
+contravenes any provision of this Part or the regulations, other than a provision of Division IX, subsection 239.1(2), 239.2(1), 251.001(9) or 252(2) or any regulation made under section 227 or paragraph 264(a);
 
 ### Section 376
 
@@ -6573,7 +6592,7 @@ At any time before a request for review in respect of a notice of violation come
   **(6)** Subject to the right of appeal under section `285`, every decision made under this section is final and shall not be questioned or reviewed in any court.
 
 
-### **Appeal**
+### Appeal
 
 ### Section 285
 
@@ -6666,7 +6685,7 @@ Subsection 2(1) of the `Wage Earner Protection Program Act` is amended by adding
 The heading before section 14 and sections 14 and 15 of the Act are replaced by the following:
 
 
-## Appeal to **Board**
+## Appeal to Board
 
 ### Section 13.1
 
@@ -6674,7 +6693,7 @@ For the purposes of sections 14 to 20, the Board is considered to be composed of
 
 ### Section 14
 
-  ****(1)**** The applicant may appeal the decision made by the Minister under section 12 to **the Board** only on a question of law or jurisdiction.
+  **(1)** The applicant may appeal the decision made by the Minister under section 12 to the Board only on a question of law or jurisdiction.
 
   **(2)** The Board may make regulations respecting the period during which and the manner in which an appeal may be made.
 
@@ -6682,7 +6701,7 @@ For the purposes of sections 14 to 20, the Board is considered to be composed of
 
   **(1)** The Chairperson of the Board may assign a member of the Board or appoint an external adjudicator to determine an appeal that comes before the Board.
 
-  **(2)** A member of the Board and an external adjudicator have all the powers, duties and functions that are conferred on the Board by this **Act** with respect to any matter that has been assigned to them or for which they have been appointed, as the case may be, other than the power referred to in subsection 14(2).
+  **(2)** A member of the Board and an external adjudicator have all the powers, duties and functions that are conferred on the Board by this Act with respect to any matter that has been assigned to them or for which they have been appointed, as the case may be, other than the power referred to in subsection 14(2).
 
   **(3)** A decision made by a member of the Board or an external adjudicator under this Act is deemed to be a decision made by the Board.
 
@@ -6706,19 +6725,19 @@ Sections 17 to 20 of the Act are replaced by the following:
 
 ### Section 17
 
-The **Board** may confirm, vary or rescind the decision made by the Minister under section 12. If the **Board** varies the decision, the Minister shall make any payment resulting from the variation.
+The Board may confirm, vary or rescind the decision made by the Minister under section 12. If the Board varies the decision, the Minister shall make any payment resulting from the variation.
 
 ### Section 18
 
-The **Board shall** send a copy of **its** decision, and the reasons for it, to each party to the appeal **and to the Minister**.
+The Board shall send a copy of its decision, and the reasons for it, to each party to the appeal and to the Minister.
 
 ### Section 19
 
-No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, certiorari, prohibition, quo warranto or otherwise — an action of **the Board** under this Act.
+No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, certiorari, prohibition, quo warranto or otherwise — an action of the Board under this Act.
 
 ### Section 20
 
-The **Board's** decision is final and **shall** not be questioned or reviewed in any court.
+The Board's decision is final and shall not be questioned or reviewed in any court.
 
 ### Section 381
 
@@ -6806,7 +6825,7 @@ Paragraph 88(b) of the `Parliamentary Employment and Staff Relations Act` is rep
 
 Paragraph 46(2)(c) of the `Hazardous Materials Information Review Act` is replaced by the following:
 
-any official of the Department of Employment and Social Development, **the Canada Industrial Relations Board in the exercise of its powers or the performance of its duties or functions under Part II** of the `Canada Labour Code`, **other than the powers, duties and functions set out in sections 133 and 134 of that Act**, or any person to whom powers, duties or functions have been delegated by the Minister of Labour under subsection 140(1) of that Act, or under an agreement entered into under subsection 140(2) of that Act, for the purposes of the administration or enforcement of Part II of that Act;
+any official of the Department of Employment and Social Development, the Canada Industrial Relations Board in the exercise of its powers or the performance of its duties or functions under Part II of the `Canada Labour Code`, other than the powers, duties and functions set out in sections 133 and 134 of that Act, or any person to whom powers, duties or functions have been delegated by the Minister of Labour under subsection 140(1) of that Act, or under an agreement entered into under subsection 140(2) of that Act, for the purposes of the administration or enforcement of Part II of that Act;
 
 
 ##### Public Service Labour Relations Act
@@ -6815,7 +6834,7 @@ any official of the Department of Employment and Social Development, **the Canad
 
   **(1)** Subparagraph 240(a)(ii) of the `Public Service Labour Relations Act` is replaced by the following:
 
-    **for the purposes of sections 133 and 134 of the `Canada Labour Code`**, **Board** is to be read as a reference to the Public Service Labour Relations and Employment Board,
+    for the purposes of sections 133 and 134 of the `Canada Labour Code`, **Board** is to be read as a reference to the Public Service Labour Relations and Employment Board,
 
   **(2)** Paragraph 240(b) of the Act is repealed.
 
@@ -6826,7 +6845,7 @@ any official of the Department of Employment and Social Development, **the Canad
 
 Paragraph 51(b) of the `Public Servants Disclosure Protection Act` is replaced by the following:
 
-**the Canada Industrial Relations Board** from considering a complaint under section 242 of the `Canada Labour Code`.
+the Canada Industrial Relations Board from considering a complaint under section 242 of the `Canada Labour Code`.
 
 
 #### Coordinating Amendments
@@ -7272,7 +7291,7 @@ Schedule IV to the `Payments in Lieu of Taxes Act` is amended by adding, in alph
 
   **(2)** The definition **client** in section 2 of the Act is replaced by the following:
 
-    **client** includes a person or entity that engages in a financial transaction with **another** person or entity. (**client**)
+    **client** includes a person or entity that engages in a financial transaction with another person or entity. (**client**)
 
   **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -7298,13 +7317,13 @@ Schedule IV to the `Payments in Lieu of Taxes Act` is amended by adding, in alph
 
   **(2)** Paragraphs 5(i) and (j) of the Act are replaced by the following:
 
-    persons and entities engaged in a **prescribed** business, profession or activity;
+    persons and entities engaged in a prescribed business, profession or activity;
 
-    persons and entities engaged in a **prescribed** business or profession, while carrying out **a prescribed activity**;
+    persons and entities engaged in a prescribed business or profession, while carrying out a prescribed activity;
 
   **(3)** Paragraph 5(l) of the Act is replaced by the following:
 
-    departments and agents **or mandataries** of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that **issue or** sell money orders to, **or redeem them from**, the public or that sell prescribed precious metals, while carrying out **a prescribed activity**; and
+    departments and agents or mandataries of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that issue or sell money orders to, or redeem them from, the public or that sell prescribed precious metals, while carrying out a prescribed activity; and
 
 ### Section 409
 
@@ -7324,7 +7343,7 @@ The portion of section 7 of the Act before paragraph (a) is replaced by the foll
 
 ### Section 7
 
-Subject to section 10.1, every person or entity referred to in section 5 shall, **in accordance with the regulations**, report to the Centre every financial transaction that occurs or that is attempted in the course of their activities and in respect of which there are reasonable grounds to suspect that
+Subject to section 10.1, every person or entity referred to in section 5 shall, in accordance with the regulations, report to the Centre every financial transaction that occurs or that is attempted in the course of their activities and in respect of which there are reasonable grounds to suspect that
 
 ### Section 411
 
@@ -7332,7 +7351,7 @@ Subsection 7.1(1) of the Act is replaced by the following:
 
 ### Section 7.1
 
-  **(1)** Every person or entity referred to in section 5 that is required to make a disclosure under section 83.1 of the `Criminal Code` or under section 8 of the `Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism` shall report to the Centre in **accordance with** the **regulations**.
+  **(1)** Every person or entity referred to in section 5 that is required to make a disclosure under section 83.1 of the `Criminal Code` or under section 8 of the `Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism` shall report to the Centre in accordance with the regulations.
 
 ### Section 412
 
@@ -7340,7 +7359,7 @@ Section 8 of the Act is replaced by the following:
 
 ### Section 8
 
-No person or entity shall disclose that they have made, **are making or will make** a report under section 7, or disclose the contents of such a report, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
+No person or entity shall disclose that they have made, are making or will make a report under section 7, or disclose the contents of such a report, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
 
 ### Section 413
 
@@ -7348,7 +7367,7 @@ The portion of subsection 9(1) of the Act before paragraph (a) is replaced by th
 
 ### Section 9
 
-  **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in **accordance with** the **regulations**,
+  **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in accordance with the regulations,
 
 ### Section 414
 
@@ -7356,11 +7375,11 @@ Sections 9.1 and 9.2 of the Act are replaced by the following:
 
 ### Section 9.1
 
-Subject to section 9, every person or entity that is required to make a report to the Centre under **another** Act of Parliament or any regulations under it shall make **the report** in the form and manner **and within the period** prescribed under this Act for a report under that Act.
+Subject to section 9, every person or entity that is required to make a report to the Centre under another Act of Parliament or any regulations under it shall make the report in the form and manner and within the period prescribed under this Act for a report under that Act.
 
 ### Section 9.2
 
-No person or entity **that is** referred to in section 5 shall open an account for a client if the **person or entity** cannot **verify** the identity of the client in accordance with the **regulations**.
+No person or entity that is referred to in section 5 shall open an account for a client if the person or entity cannot verify the identity of the client in accordance with the regulations.
 
 ### Section 415
 
@@ -7368,7 +7387,7 @@ No person or entity **that is** referred to in section 5 shall open an account f
 
 ### Section 9.4
 
-      **(1)** Every entity referred to in any of paragraphs 5(a), (b), (d) and (e) and every other entity that is referred to in section 5 and that is prescribed **shall take the measures referred to in the regulations in respect of any correspondent banking relationship it enters into** with a prescribed foreign entity **and** shall take the following measures before entering into such a correspondent banking relationship:
+      **(1)** Every entity referred to in any of paragraphs 5(a), (b), (d) and (e) and every other entity that is referred to in section 5 and that is prescribed shall take the measures referred to in the regulations in respect of any correspondent banking relationship it enters into with a prescribed foreign entity and shall take the following measures before entering into such a correspondent banking relationship:
 
   **(2)** The portion of subsection 9.4(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -7378,13 +7397,13 @@ No person or entity **that is** referred to in section 5 shall open an account f
 
   **(3)** Subsection 9.4(3) of the Act is replaced by the following:
 
-    **(3)** For the purposes of this section, **correspondent banking relationship** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d), (e) and **(e.1)** or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity prescribed services **or** international electronic funds transfers, cash management **or** cheque clearing services.
+    **(3)** For the purposes of this section, **correspondent banking relationship** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d), (e) and (e.1) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity prescribed services or international electronic funds transfers, cash management or cheque clearing services.
 
 ### Section 416
 
 Subsection 9.6(3) of the Act is replaced by the following:
 
-**(3)** If, **at any time**, the person or entity considers that the risk referred to in subsection (2) is high, **or in the prescribed circumstances**, the person or entity shall take the special measures **referred to** in the **regulations**.
+**(3)** If, at any time, the person or entity considers that the risk referred to in subsection (2) is high, or in the prescribed circumstances, the person or entity shall take the special measures referred to in the regulations.
 
 ### Section 417
 
@@ -7404,11 +7423,11 @@ The Act is amended by adding the following after section 9.6:
 
 ### Section 9.7
 
-      **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the `Bank Act` and for foreign companies within the meaning of **subsection 2(1)** of the `Insurance Companies Act`, shall, in respect of its foreign branches, and in respect of its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, develop policies that establish requirements similar to the requirements of sections 6, 6.1 and 9.6 and ensure that those branches and subsidiaries apply those policies to the extent it is permitted by, and does not conflict with, the laws of the **foreign state** in which the branch or subsidiary is located.
+      **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the `Bank Act` and for foreign companies within the meaning of subsection 2(1) of the `Insurance Companies Act`, shall, in respect of its foreign branches, and in respect of its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, develop policies that establish requirements similar to the requirements of sections 6, 6.1 and 9.6 and ensure that those branches and subsidiaries apply those policies to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch or subsidiary is located.
 
   **(2)** Subsection 9.7(4) of the Act is replaced by the following:
 
-    **(4)** If the application by a foreign branch or a foreign subsidiary of a policy referred to in subsection (1) is not permitted by or would conflict with the laws of the **foreign state** in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
+    **(4)** If the application by a foreign branch or a foreign subsidiary of a policy referred to in subsection (1) is not permitted by or would conflict with the laws of the foreign state in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
 
 ### Section 419
 
@@ -7416,7 +7435,7 @@ Section 11.1 of the Act is replaced by the following:
 
 ### Section 11.1
 
-Except as otherwise **prescribed by regulation**, every person or entity referred to in paragraph 5(h), those referred to in paragraph 5(l) that **issue or** sell money orders to, **or redeem them from**, the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
+Except as otherwise prescribed by regulation, every person or entity referred to in paragraph 5(h), those referred to in paragraph 5(l) that issue or sell money orders to, or redeem them from, the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
 
 ### Section 420
 
@@ -7430,25 +7449,25 @@ Except as otherwise **prescribed by regulation**, every person or entity referre
 
   **(3)** The portion of paragraph 11.11(1)(c) of the French version of the Act before subparagraph (i) is replaced by the following:
 
-    la personne ou entité condamnée pour l'une ou l'autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d'un **État** étranger :
+    la personne ou entité condamnée pour l'une ou l'autre des infractions ci-après ou qui a été condamnée pour une infraction essentiellement similaire prévue par les lois d'un État étranger :
 
   **(4)** Subparagraphs 11.11(1)(c)(i) to (iv) of the English version of the Act are replaced by the following:
 
-    a money laundering offence, or an offence under the laws of a foreign **state** that is substantially similar to a money laundering offence,
+    a money laundering offence, or an offence under the laws of a foreign state that is substantially similar to a money laundering offence,
 
-    a terrorist activity financing offence, or an offence under the laws of a foreign **state** that is substantially similar to a terrorist activity financing offence,
+    a terrorist activity financing offence, or an offence under the laws of a foreign state that is substantially similar to a terrorist activity financing offence,
 
-    an offence under this Act or the `Proceeds of Crime (money laundering) Act`, chapter 26 of the Statutes of Canada, 1991 when convicted on indictment, or an offence under the laws of a foreign **state** that is substantially similar to an offence under either Act,
+    an offence under this Act or the `Proceeds of Crime (money laundering) Act`, chapter 26 of the Statutes of Canada, 1991 when convicted on indictment, or an offence under the laws of a foreign state that is substantially similar to an offence under either Act,
 
-    an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the `Criminal Code`, or an offence under the laws of a foreign **state** that is substantially similar to such an offence, or
+    an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the `Criminal Code`, or an offence under the laws of a foreign state that is substantially similar to such an offence, or
 
   **(5)** The portion of paragraph 11.11(1)(d) of the Act before subparagraph (i) is replaced by the following:
 
-    a person or entity that has been convicted on indictment or convicted more than once **of** an offence under any of the following, or that has been convicted of an offence under the laws of a foreign **state** that is substantially similar to an offence under any of the following:
+    a person or entity that has been convicted on indictment or convicted more than once of an offence under any of the following, or that has been convicted of an offence under the laws of a foreign state that is substantially similar to an offence under any of the following:
 
   **(6)** Paragraph 11.11(1)(e) of the Act is replaced by the following:
 
-    an entity that is a corporation in respect of which a director, the chief executive officer, the president or a person who owns or controls, directly or indirectly, 20% or more of the shares has been convicted on indictment of an offence under this Act or the `Proceeds of Crime (money laundering) Act`, chapter 26 of the Statutes of Canada, 1991 or has been convicted of an offence under the laws of a foreign **state** that is substantially similar to an offence under either Act;
+    an entity that is a corporation in respect of which a director, the chief executive officer, the president or a person who owns or controls, directly or indirectly, 20% or more of the shares has been convicted on indictment of an offence under this Act or the `Proceeds of Crime (money laundering) Act`, chapter 26 of the Statutes of Canada, 1991 or has been convicted of an offence under the laws of a foreign state that is substantially similar to an offence under either Act;
 
 ### Section 421
 
@@ -7456,7 +7475,7 @@ Subsection 11.12(1) of the Act is replaced by the following:
 
 ### Section 11.12
 
-  **(1)** An application for registration shall be submitted to the Centre in the prescribed form and manner, shall include a list of the applicant's agents **or** mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h), in **issuing or** selling money orders to, **or redeeming them from,** the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities, and shall include any prescribed information.
+  **(1)** An application for registration shall be submitted to the Centre in the prescribed form and manner, shall include a list of the applicant's agents or mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h), in issuing or selling money orders to, or redeeming them from, the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities, and shall include any prescribed information.
 
 ### Section 422
 
@@ -7464,7 +7483,7 @@ Section 11.41 of the Act is replaced by the following:
 
 ### Section 11.41
 
-In this Part, **foreign entity** means an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a **foreign state**, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
+In this Part, **foreign entity** means an entity, other than an entity referred to in section 5, that is incorporated or formed by or under the laws of a foreign state, including its subsidiaries, if any, and that does not carry on business in Canada, if it carries out activities similar to those of entities referred to in any of paragraphs 5(a) to (g) or activities referred to in paragraph 5(h) or (h.1).
 
 ### Section 423
 
@@ -7472,7 +7491,7 @@ In this Part, **foreign entity** means an entity, other than an entity referred 
 
 ### Section 11.42
 
-      **(1)** In addition to any other measure required by this Act, the Minister may, by written directive, require any person or entity referred to in section 5 to take, in order to safeguard the integrity of Canada's financial system, any measure specified in the directive with respect to any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state, foreign entity or **entity referred to in paragraph 5(e.1)**, that occurs or is attempted in the course of their activities, or with respect to any activity that is related to any such financial transaction or class of financial transactions.
+      **(1)** In addition to any other measure required by this Act, the Minister may, by written directive, require any person or entity referred to in section 5 to take, in order to safeguard the integrity of Canada's financial system, any measure specified in the directive with respect to any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state, foreign entity or entity referred to in paragraph 5(e.1), that occurs or is attempted in the course of their activities, or with respect to any activity that is related to any such financial transaction or class of financial transactions.
 
   **(2)** Paragraph 11.42(2)(d) of the Act is replaced by the following:
 
@@ -7480,9 +7499,9 @@ In this Part, **foreign entity** means an entity, other than an entity referred 
 
   **(3)** Paragraphs 11.42(4)(a) and (b) of the Act are replaced by the following:
 
-    an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state, foreign entity or **entity referred to in paragraph 5(e.1)** on the ground that the state's or entity's anti-money laundering or anti-terrorist financing measures are ineffective or insufficient; or
+    an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state, foreign entity or entity referred to in paragraph 5(e.1) on the ground that the state's or entity's anti-money laundering or anti-terrorist financing measures are ineffective or insufficient; or
 
-    the anti-money laundering or anti-terrorist financing measures that a foreign state, a foreign entity or **an entity referred to in paragraph 5(e.1)** has implemented are ineffective or insufficient and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
+    the anti-money laundering or anti-terrorist financing measures that a foreign state, a foreign entity or an entity referred to in paragraph 5(e.1) has implemented are ineffective or insufficient and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
 
 ### Section 424
 
@@ -7490,25 +7509,25 @@ Section 11.44 of the Act is replaced by the following:
 
 ### Section 11.44
 
-  **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the `Bank Act` and for foreign companies within the meaning of **subsection 2(1)** of the `Insurance Companies Act`, shall ensure that its foreign branches, and that its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, comply with any directive issued under this Part, except with respect to any reporting measure as contemplated by paragraph 11.42(2)(e), to the extent it is permitted by, and does not conflict with, the laws of the **foreign state** in which the branch or subsidiary is located.
+  **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the `Bank Act` and for foreign companies within the meaning of subsection 2(1) of the `Insurance Companies Act`, shall ensure that its foreign branches, and that its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, comply with any directive issued under this Part, except with respect to any reporting measure as contemplated by paragraph 11.42(2)(e), to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch or subsidiary is located.
 
-  **(2)** If compliance with a directive by a branch or a subsidiary is not permitted by or would conflict with the laws of the **foreign state** in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
+  **(2)** If compliance with a directive by a branch or a subsidiary is not permitted by or would conflict with the laws of the foreign state in which the branch or subsidiary is located, the entity shall keep, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
 
 ### Section 425
 
   **(1)** Paragraph 11.49(1)(a) of the Act is replaced by the following:
 
-    imposing a limitation or a prohibition on any person or entity referred to in section 5, with respect to entering into, undertaking or facilitating, directly or indirectly, any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state, foreign entity or **entity referred to in paragraph 5(e.1)**;
+    imposing a limitation or a prohibition on any person or entity referred to in section 5, with respect to entering into, undertaking or facilitating, directly or indirectly, any financial transaction, or any financial transaction within a class of financial transactions, originating from or bound for any foreign state, foreign entity or entity referred to in paragraph 5(e.1);
 
   **(2)** Paragraphs 11.49(3)(a) and (b) of the Act are replaced by the following:
 
     if
 
-    an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state, foreign entity or **entity referred to in paragraph 5(e.1)** on the ground that the state's or entity's anti-money laundering or anti-terrorist financing measures are ineffective or insufficient, and
+    an international organization, body, association or coalition or a grouping of states (such as the Financial Action Task Force) of which Canada is a member has called on its members to take measures in relation to a foreign state, foreign entity or entity referred to in paragraph 5(e.1) on the ground that the state's or entity's anti-money laundering or anti-terrorist financing measures are ineffective or insufficient, and
 
-    there is a risk that money laundering activities or terrorist financing activities may be carried out in that foreign state or by means of that foreign entity or **entity referred to in paragraph 5(e.1)**; or
+    there is a risk that money laundering activities or terrorist financing activities may be carried out in that foreign state or by means of that foreign entity or entity referred to in paragraph 5(e.1); or
 
-    if the anti-money laundering or anti-terrorist financing measures that a foreign state, a foreign entity or **an entity referred to in paragraph 5(e.1)** has implemented are ineffective or insufficient, the risk of money laundering activities or terrorist financing activities being carried out in that foreign state or by means of that foreign entity or **entity referred to in paragraph 5(e.1)** is significant and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
+    if the anti-money laundering or anti-terrorist financing measures that a foreign state, a foreign entity or an entity referred to in paragraph 5(e.1) has implemented are ineffective or insufficient, the risk of money laundering activities or terrorist financing activities being carried out in that foreign state or by means of that foreign entity or entity referred to in paragraph 5(e.1) is significant and, as a result, the Minister is of the opinion that there could be an adverse impact on the integrity of the Canadian financial system or a reputational risk to that system.
 
 ### Section 426
 
@@ -7516,7 +7535,7 @@ Section 11.6 of the Act is replaced by the following:
 
 ### Section 11.6
 
-Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the `Bank Act` and for foreign companies within the meaning of **subsection 2(1)** of the `Insurance Companies Act`, shall ensure that its foreign branches comply with any regulation made under subsection 11.49(1) to the extent it is permitted by, and does not conflict with, the laws of the **foreign state** in which the branch is located.
+Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the `Bank Act` and for foreign companies within the meaning of subsection 2(1) of the `Insurance Companies Act`, shall ensure that its foreign branches comply with any regulation made under subsection 11.49(1) to the extent it is permitted by, and does not conflict with, the laws of the foreign state in which the branch is located.
 
 ### Section 427
 
@@ -7524,7 +7543,7 @@ Subsection 30(1) of the Act is replaced by the following:
 
 ### Section 30
 
-  **(1)** A person who **makes a request** under section **25 for** a decision of the Minister may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
+  **(1)** A person who makes a request under section 25 for a decision of the Minister may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
 
 ### Section 428
 
@@ -7596,7 +7615,7 @@ respecting dealing in virtual currencies;
 
 respecting the keeping of records referred to in section 6;
 
-**respecting** the **verification** of the identity of persons and entities **referred** to in **section 6.1**;
+respecting the verification of the identity of persons and entities referred to in section 6.1;
 
 respecting the reports to the Centre referred to in section 7 and subsections 7.1(1) and 9(1);
 
@@ -7606,9 +7625,9 @@ respecting the measures referred to in subsections 9.3(2) and (2.1);
 
 respecting the measures referred to in subsection 9.4(1);
 
-**respecting** the program referred to in subsection 9.6(1);
+respecting the program referred to in subsection 9.6(1);
 
-**respecting** the special measures **referred** to **in** subsection 9.6(3);
+respecting the special measures referred to in subsection 9.6(3);
 
 respecting the registration referred to in sections 11.1 to 11.2;
 
@@ -7620,7 +7639,7 @@ prescribing anything that by this Act is to be prescribed.
 
 Subsection 73.15(2) of the French version of the Act is replaced by the following:
 
-**(2)** Si des observations sont présentées **conformément au procès-verbal**, le directeur détermine, selon la prépondérance des probabilités, la responsabilité de l'intéressé. Le cas échéant, il peut, sous réserve des règlements pris en vertu de l'alinéa 73.1(1)c), imposer la pénalité mentionnée au procès-verbal ou une pénalité réduite, ou encore n'imposer aucune pénalité.
+**(2)** Si des observations sont présentées conformément au procès-verbal, le directeur détermine, selon la prépondérance des probabilités, la responsabilité de l'intéressé. Le cas échéant, il peut, sous réserve des règlements pris en vertu de l'alinéa 73.1(1)c), imposer la pénalité mentionnée au procès-verbal ou une pénalité réduite, ou encore n'imposer aucune pénalité.
 
 
 #### Economic Action Plan 2014 Act, No. 1
@@ -7638,29 +7657,29 @@ Subsection 73.15(2) of the French version of the Act is replaced by the followin
 
     dealing in virtual currencies, or
 
-    any **prescribed** service;
+    any prescribed service;
 
   **(3)** Subsection 256(2) of the Act is amended by replacing the portion of paragraph 5(h.1) before subparagraph (i) that it enacts with the following:
 
-    persons and entities that do not have a place of business in Canada, that are engaged in the business of providing at least one of the following services that is directed at persons or entities in Canada, and that provide those services to their **clients** in Canada:
+    persons and entities that do not have a place of business in Canada, that are engaged in the business of providing at least one of the following services that is directed at persons or entities in Canada, and that provide those services to their clients in Canada:
 
   **(4)** Subsection 256(2) of the Act is amended by replacing the subparagraphs 5(h.1)(iv) and (v) that it enacts with the following:
 
     dealing in virtual currencies, or
 
-    any **prescribed** service;
+    any prescribed service;
 
 ### Section 437
 
   **(1)** Section 258 of the Act is amended by replacing the subsections 9.3(2) and (2.1) that it enacts with the following:
 
-    **(2)** If the person or entity determines that it is dealing with a person described in paragraph (1)(a), the person or entity shall take the measures **referred to in the regulations**.
+    **(2)** If the person or entity determines that it is dealing with a person described in paragraph (1)(a), the person or entity shall take the measures referred to in the regulations.
 
-    **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that the person poses a high risk of committing a money laundering offence or a terrorist activity financing offence, the person or entity shall take the measures **referred to in the regulations**.
+    **(2.1)** If the person or entity determines that it is dealing with a person described in paragraph (1)(b) or (c) and considers, based on an assessment referred to in subsection 9.6(2), that the person poses a high risk of committing a money laundering offence or a terrorist activity financing offence, the person or entity shall take the measures referred to in the regulations.
 
   **(2)** Section 258 of the Act is amended by replacing the definition **head of an international organization** in the subsection 9.3(3) that it enacts with the following:
 
-    **head of an international organization** means **a person who, at a given time, holds — or has held within a prescribed period before that time —** the **office or position of** head of an international organization that is established by the governments of states or the head of an institution of any such organization. (**dirigeant d'une organisation internationale**)
+    **head of an international organization** means a person who, at a given time, holds — or has held within a prescribed period before that time — the office or position of head of an international organization that is established by the governments of states or the head of an institution of any such organization. (**dirigeant d'une organisation internationale**)
 
 
 ##### Related Amendment to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act
@@ -7671,9 +7690,9 @@ Section 9.31 of the `Proceeds of Crime (Money Laundering) and Terrorist Financin
 
 ### Section 9.31
 
-  **(1)** No entity referred to in paragraph 5(a), (b), (d), (e) or **(e.1)** and no other entity that is referred to in section 5 and that is prescribed shall open or maintain an account for, or have a correspondent banking relationship with, a person or entity referred to in paragraph 5(h.1) unless that person or entity is registered with the Centre under section 11.1.
+  **(1)** No entity referred to in paragraph 5(a), (b), (d), (e) or (e.1) and no other entity that is referred to in section 5 and that is prescribed shall open or maintain an account for, or have a correspondent banking relationship with, a person or entity referred to in paragraph 5(h.1) unless that person or entity is registered with the Centre under section 11.1.
 
-  **(2)** For the purposes of this section, **correspondent banking relationship** means a relationship created by an agreement or arrangement under which an entity referred to in paragraph 5(a), (b), (d), (e) or **(e.1)** or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a person or entity referred to in paragraph 5(h.1) prescribed services or international electronic funds transfers, cash management **or** cheque clearing services.
+  **(2)** For the purposes of this section, **correspondent banking relationship** means a relationship created by an agreement or arrangement under which an entity referred to in paragraph 5(a), (b), (d), (e) or (e.1) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a person or entity referred to in paragraph 5(h.1) prescribed services or international electronic funds transfers, cash management or cheque clearing services.
 
 
 #### Coordinating Amendments
@@ -8058,7 +8077,7 @@ Schedule I to the `Access to Information Act` is amended by adding the following
 
 Subsection 41(2) of the `Financial Administration Act` is replaced by the following:
 
-**(2)** Subsection (1) does not apply in respect of Crown corporations, the Canada Revenue Agency or **the Invest in Canada Hub**.
+**(2)** Subsection (1) does not apply in respect of Crown corporations, the Canada Revenue Agency or the Invest in Canada Hub.
 
 ### Section 446
 
@@ -8362,7 +8381,7 @@ Section 252 of the `Economic Action Plan 2014 Act, No. 1` is amended by replacin
 
 ### Section 25.1
 
-**Sections 3 to 15 of the `Service Fees Act` do** not apply to a fee fixed under section 24 for a service or the use of a facility provided by the Agency under the `Safe Food for Canadians Act` or to a fee fixed under section 25 in respect of products, rights and privileges provided by the Agency under that Act.
+Sections 3 to 15 of the `Service Fees Act` do not apply to a fee fixed under section 24 for a service or the use of a facility provided by the Agency under the `Safe Food for Canadians Act` or to a fee fixed under section 25 in respect of products, rights and privileges provided by the Agency under that Act.
 
 
 #### Terminology
