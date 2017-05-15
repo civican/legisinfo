@@ -52,7 +52,7 @@ This Act may be cited as the `Judicial Accountability through Sexual Assault Law
 
     has, to the satisfaction of the Commissioner as defined in section 72, completed recent and comprehensive
 
-    education in sexual assault law that **has been developed in consultation with sexual assault survivors, as well as with groups and organizations that support them, and** that includes instruction in evidentiary prohibitions, principles of consent and the conduct of sexual assault proceedings, as well as education regarding myths and stereotypes associated with sexual assault complainants, **and**
+    education in sexual assault law that has been developed in consultation with sexual assault survivors, as well as with groups and organizations that support them, and that includes instruction in evidentiary prohibitions, principles of consent and the conduct of sexual assault proceedings, as well as education regarding myths and stereotypes associated with sexual assault complainants, and
 
     social context education.
 
@@ -60,7 +60,7 @@ This Act may be cited as the `Judicial Accountability through Sexual Assault Law
 
 Paragraph 60(2)(b) of the Act is replaced by the following:
 
-establish seminars for the continuing education of judges, including in respect of matters related to sexual assault law **and social context that have been developed in consultation with sexual assault survivors, as well as with groups and organizations that support them**;
+establish seminars for the continuing education of judges, including in respect of matters related to sexual assault law and social context that have been developed in consultation with sexual assault survivors, as well as with groups and organizations that support them;
 
 ### Section 4
 
@@ -87,7 +87,7 @@ The `Criminal Code` is amended by adding the following after section 278.91:
 
 ### Section 278.92
 
-  ****(1)**** In proceedings for an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273, the **judge** shall provide reasons for a decision that a person is
+  **(1)** In proceedings for an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273, the judge shall provide reasons for a decision that a person is
 
     acquitted;
 
@@ -102,8 +102,4 @@ The `Criminal Code` is amended by adding the following after section 278.91:
   **(2)** The reasons shall be entered in the record of the proceedings or, if the proceedings are not recorded, shall be provided in writing.
 
   **(3)** Subsections (1) and (2) apply only in proceedings before a judge without a jury.
-
-### Section 6
-
-[*Deleted*]
 
