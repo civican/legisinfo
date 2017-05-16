@@ -1,0 +1,1872 @@
+<Bills>
+  <Bill>
+    <Id>8945674</Id>
+    <NumberCode>C-49</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>49</Number>
+    <LongTitleEn>An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Transportation Modernization Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la modernisation des transports</ShortTitleFr>
+    <ShortTitle>Transportation Modernization Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2018-05-23T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>10524</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Marc</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Garneau</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Marc Garneau</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Transport</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Transports</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Transport</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>689</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Notre-Dame-de-Grâce—Westmount</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Notre-Dame-de-Grâce—Westmount</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Notre-Dame-de-Grâce—Westmount</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2018-05-23T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>208</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2017-05-16T10:11:47.023</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2017-06-19T15:00:30</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2017-11-01T18:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2017-11-02T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2017-12-08T00:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2018-03-29T15:15:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2018-05-23T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 16 May 2017, the Minister of Transport introduced Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (Transportation Modernization Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-49 amends the Canada Transportation Act in respect of air transportation and railway transportation.&lt;br/&gt;&lt;br/&gt;With respect to air transportation, it amends the Canada Transportation Act to require the Canadian Transportation Agency to make regulations establishing a new air passenger rights regime and to authorize the Governor in Council to make regulations requiring air carriers and other persons providing services in relation to air transportation to report on different aspects of their performance with respect to passenger experience or quality of service. It amends the definition of Canadian in that Act in order to raise the threshold of voting interests in an air carrier that may be owned and controlled by non-Canadians while retaining its Canadian status, while also establishing specific limits related to such interests. It also amends that Act to create a new process for the review and authorization of arrangements involving two or more transportation undertakings providing air services to take into account considerations respecting competition and broader considerations respecting public interest.&lt;br/&gt;&lt;br/&gt;With respect to railway transportation, it amends the Act to, among other things,&lt;br/&gt;(a) provide that the Canadian Transportation Agency will offer information and informal dispute resolution services;&lt;br/&gt;(b) expand the Governor in Council's powers to make regulations requiring major railway companies to provide to the Minister of Transport and the Agency information relating to rates, service and performance;&lt;br/&gt;(c) repeal provisions of the Act dealing with insolvent railway companies in order to allow the laws of general application respecting bankruptcy and insolvency to apply to those companies;&lt;br/&gt;(d) clarify the factors that must be applied in determining whether railway companies are fulfilling their service obligations;&lt;br/&gt;(e) shorten the period within which a level of service complaint is to be adjudicated by the Agency;&lt;br/&gt;(f) enable shippers to obtain terms in their contracts dealing with amounts to be paid in relation to a failure to comply with conditions related to railway companies' service obligations;&lt;br/&gt;(g) require the Agency to set the interswitching rate annually;&lt;br/&gt;(h) create a new remedy for shippers who have access to the lines of only one railway company at the point of origin or destination of the movement of traffic in circumstances where interswitching is not available;&lt;br/&gt;(i) change the process for the transfer and discontinuance of railway lines to, among other things, require railway companies to make certain information available to the Minister and the public and establish a remedy for non-compliance with the process;&lt;br/&gt;(j) change provisions respecting the maximum revenue entitlement for the movement of Western grain and require certain railway companies to provide to the Minister and the public information respecting the movement of grain; and&lt;br/&gt;(k) change provisions respecting the final offer arbitration process by, among other things, increasing the maximum amount for the summary process to $2 million and by making a decision of an arbitrator applicable for a period requested by the shipper of up to two years.&lt;br/&gt;&lt;br/&gt;It amends the CN Commercialization Act to increase the maximum proportion of voting shares of the Canadian National Railway Company that can be held by any one person to 25%.&lt;br/&gt;&lt;br/&gt;It amends the Railway Safety Act to prohibit a railway company from operating railway equipment and a local railway company from operating railway equipment on a railway unless the equipment is fitted with the prescribed recording instruments and the company, in the prescribed manner and circumstances, records the prescribed information using those instruments, collects the information that it records and preserves the information that it collects. This enactment also specifies the circumstances in which the prescribed information that is recorded can be used and communicated by companies, the Minister of Transport and railway safety inspectors.&lt;br/&gt;&lt;br/&gt;It amends the Canadian Transportation Accident Investigation and Safety Board Act to allow the use or communication of an on-board recording, as defined in subsection 28(1) of that Act, if that use or communication is expressly authorized under the Aeronautics Act, the National Energy Board Act, the Railway Safety Act or the Canada Shipping Act, 2001.&lt;br/&gt;&lt;br/&gt;It amends the Canadian Air Transport Security Authority Act to authorize the Canadian Air Transport Security Authority to enter into agreements for the delivery of screening services on a cost-recovery basis.&lt;br/&gt;&lt;br/&gt;It amends the Coasting Trade Act to enable repositioning of empty containers by ships registered in any register. These amendments are conditional on Bill C-30, introduced in the 1st session of the 42nd Parliament and entitled the Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act, receiving royal assent and sections 91 to 94 of that Act coming into force.&lt;br/&gt;&lt;br/&gt;It amends the Canada Marine Act to permit port authorities and their wholly-owned subsidiaries to receive loans and loan guarantees from the Canada Infrastructure Bank. These amendments are conditional on Bill C-44, introduced in the 1st session of the 42nd Parliament and entitled the Budget Implementation Act, 2017, No. 1, receiving royal assent.&lt;br/&gt;&lt;br/&gt;Finally, it makes related and consequential amendments to the Bankruptcy and Insolvency Act, the Competition Act, the Companies' Creditors Arrangement Act, the Air Canada Public Participation Act, the Budget Implementation Act, 2009 and the Fair Rail for Grain Farmers Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;Le 16 mai 2017, le Ministre des Transports a déposé le projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois (Loi sur la modernisation des transports), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-49 modifie la Loi sur les transports au Canada. Certaines modifications visent le transport aérien alors que d'autres visent le transport ferroviaire.&lt;br/&gt;En ce qui a trait au transport aérien, le texte modifie la Loi sur les transports au Canada afin que l'Office des transports du Canada soit tenu de prendre des règlements pour établir un nouveau régime de droits des passagers aériens et pour que le gouverneur en conseil soit autorisé à prendre des règlements pour exiger des transporteurs aériens et des fournisseurs de services en matière de transport aérien qu'ils fassent rapport sur différents aspects de leur rendement quant à la qualité du service ou à l'expérience passager. Il modifie la définition de «?Canadien?» prévue par cette loi afin d'élever le seuil des intérêts avec droit de vote d'un transporteur aérien qui peuvent être détenus et contrôlés par des non-Canadiens sans que le transporteur ne perde la qualité de Canadien, tout en établissant des limites précises liées à ces intérêts. Il modifie aussi cette loi afin d'établir un nouveau processus pour l'examen et l'autorisation des ententes entre au moins deux entreprises de transport qui offrent des services aériens pour tenir compte des aspects liés à la concurrence et de considérations, plus larges, touchant l'intérêt public.&lt;br/&gt;&lt;br/&gt;En ce qui a trait au transport ferroviaire, le texte apporte plusieurs modifications à cette loi, notamment afin?: &lt;br/&gt;a) de prévoir que l'Office des transports du Canada offrira des services d'information et de règlement informel de différends;&lt;br/&gt;b) de conférer au gouverneur en conseil des pouvoirs accrus d'exiger, par règlement, des compagnies de chemin de fer importantes qu'elles fournissent au ministre des Transports et à l'Office des renseignements relatifs à leurs services, à leurs prix et à leur rendement;&lt;br/&gt;c) d'abroger des dispositions portant sur la faillite et l'insolvabilité des compagnies de chemin de fer pour que les lois d'application générale en matière de faillite et d'insolvabilité s'appliquent à ces compagnies;&lt;br/&gt;d) de clarifier les éléments à prendre en compte pour décider si les compagnies de chemin de fer s'acquittent de leurs obligations en matière de service;&lt;br/&gt;e) d'écourter le délai accordé à l'Office pour rendre sa décision à l'égard des plaintes portant sur les niveaux de services;&lt;br/&gt;f) de conférer aux expéditeurs le droit d'obtenir des conditions contractuelles relativement aux sommes à payer en cas de non-respect des conditions liées aux obligations de service des compagnies de chemin de fer;&lt;br/&gt;g) de prévoir que l'Office établisse annuellement le prix pour l'interconnexion;&lt;br/&gt;h) de prévoir un nouveau recours pour les expéditeurs qui n'ont accès qu'aux lignes d'une seule compagnie de chemin de fer au point d'origine ou de destination du transport dans les circonstances où l'interconnexion n'est pas disponible;&lt;br/&gt;i) de changer le processus de transfert et de cessation de l'exploitation des lignes de chemin de fer afin, notamment, d'exiger des compagnies de chemin de fer qu'elles rendent certains renseignements disponibles au ministre et au public et de prévoir un recours en cas de non-respect du processus;&lt;br/&gt;j) de modifier les dispositions portant sur le revenu admissible maximal pour le transport du grain de l'Ouest et d'obliger certaines compagnies de chemin de fer à fournir au ministre et au public des renseignements relatifs au transport du grain;&lt;br/&gt;k) de modifier les dispositions portant sur l'arbitrage sur l'offre finale, notamment en augmentant le montant maximal pour la procédure sommaire à 2?000?000?$ et en rendant les décisions de l'arbitre applicables pour une durée, choisie par l'expéditeur, pouvant aller jusqu'à deux ans.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur la commercialisation du CN afin d'augmenter à vingt-cinq pour cent la proportion maximale des actions avec droit de vote de la Compagnie des chemins de fer nationaux du Canada qu'une personne peut détenir.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur la sécurité ferroviaire afin d'interdire à une compagnie de chemin de fer d'exploiter du matériel ferroviaire ou à une compagnie de chemin de fer locale d'exploiter du matériel ferroviaire sur un chemin de fer, sauf si le matériel ferroviaire est muni des appareils d'enregistrement réglementaires et que la compagnie, selon les modalités et dans les circonstances réglementaires, enregistre les renseignements réglementaires au moyen de ces appareils, recueille les renseignements enregistrés et conserve les renseignements recueillis. Le texte prévoit aussi les circonstances dans lesquelles les compagnies, le ministre des Transports et les inspecteurs de la sécurité ferroviaire peuvent utiliser et communiquer les renseignements réglementaires enregistrés.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur le Bureau canadien d'enquête sur les accidents de transport et de la sécurité des transports pour permettre l'utilisation ou la communication d'un enregistrement de bord, au sens du paragraphe 28(1) de cette loi, si cette utilisation ou communication est expressément autorisée sous le régime de la Loi sur l'aéronautique, de la Loi sur l'Office national de l'énergie, de la Loi sur la sécurité ferroviaire ou de la Loi de 2001 sur la marine marchande du Canada.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur l'Administration canadienne de la sûreté du transport aérien afin de permettre à l'Administration canadienne de la sûreté du transport aérien de conclure des ententes en matière de fourniture de services de contrôle selon le principe du recouvrement des coûts.&lt;br/&gt;&lt;br/&gt;Le texte modifie la Loi sur le cabotage pour permettre le repositionnement de conteneurs vides par les navires immatriculés dans tout registre, à condition que le projet de loi C-30, déposé au cours de la 1re session de la 42e législature et intitulé Loi de mise en œuvre de l'Accord économique et commercial global entre le Canada et l'Union européenne, reçoive la sanction et que les articles 91 à 94 de cette dernière loi soient entrés en vigueur.&lt;br/&gt;&lt;br/&gt;Il modifie la Loi maritime du Canada pour permettre aux administrations portuaires et à leurs filiales à cent pour cent de recevoir des prêts et des garanties d'emprunt de la Banque de l'infrastructure du Canada, à condition que le projet de loi C-44, déposé au cours de la 1re session de la 42e législature et intitulé Loi no 1 d'exécution du budget de 2017, reçoive la sanction.&lt;br/&gt;&lt;br/&gt;Finalement, il apporte des modifications connexes et corrélatives à la Loi sur la faillite et l'insolvabilité, à la Loi sur la concurrence, à la Loi sur les arrangements avec les créanciers des compagnies, à la Loi sur la participation publique au capital d'Air Canada, à la Loi d'exécution du budget de 2009 et à la Loi sur le transport ferroviaire équitable pour les producteurs de grain.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 16 May 2017, the Minister of Transport introduced Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (Transportation Modernization Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-49 amends the Canada Transportation Act in respect of air transportation and railway transportation.&lt;br/&gt;&lt;br/&gt;With respect to air transportation, it amends the Canada Transportation Act to require the Canadian Transportation Agency to make regulations establishing a new air passenger rights regime and to authorize the Governor in Council to make regulations requiring air carriers and other persons providing services in relation to air transportation to report on different aspects of their performance with respect to passenger experience or quality of service. It amends the definition of Canadian in that Act in order to raise the threshold of voting interests in an air carrier that may be owned and controlled by non-Canadians while retaining its Canadian status, while also establishing specific limits related to such interests. It also amends that Act to create a new process for the review and authorization of arrangements involving two or more transportation undertakings providing air services to take into account considerations respecting competition and broader considerations respecting public interest.&lt;br/&gt;&lt;br/&gt;With respect to railway transportation, it amends the Act to, among other things,&lt;br/&gt;(a) provide that the Canadian Transportation Agency will offer information and informal dispute resolution services;&lt;br/&gt;(b) expand the Governor in Council's powers to make regulations requiring major railway companies to provide to the Minister of Transport and the Agency information relating to rates, service and performance;&lt;br/&gt;(c) repeal provisions of the Act dealing with insolvent railway companies in order to allow the laws of general application respecting bankruptcy and insolvency to apply to those companies;&lt;br/&gt;(d) clarify the factors that must be applied in determining whether railway companies are fulfilling their service obligations;&lt;br/&gt;(e) shorten the period within which a level of service complaint is to be adjudicated by the Agency;&lt;br/&gt;(f) enable shippers to obtain terms in their contracts dealing with amounts to be paid in relation to a failure to comply with conditions related to railway companies' service obligations;&lt;br/&gt;(g) require the Agency to set the interswitching rate annually;&lt;br/&gt;(h) create a new remedy for shippers who have access to the lines of only one railway company at the point of origin or destination of the movement of traffic in circumstances where interswitching is not available;&lt;br/&gt;(i) change the process for the transfer and discontinuance of railway lines to, among other things, require railway companies to make certain information available to the Minister and the public and establish a remedy for non-compliance with the process;&lt;br/&gt;(j) change provisions respecting the maximum revenue entitlement for the movement of Western grain and require certain railway companies to provide to the Minister and the public information respecting the movement of grain; and&lt;br/&gt;(k) change provisions respecting the final offer arbitration process by, among other things, increasing the maximum amount for the summary process to $2 million and by making a decision of an arbitrator applicable for a period requested by the shipper of up to two years.&lt;br/&gt;&lt;br/&gt;It amends the CN Commercialization Act to increase the maximum proportion of voting shares of the Canadian National Railway Company that can be held by any one person to 25%.&lt;br/&gt;&lt;br/&gt;It amends the Railway Safety Act to prohibit a railway company from operating railway equipment and a local railway company from operating railway equipment on a railway unless the equipment is fitted with the prescribed recording instruments and the company, in the prescribed manner and circumstances, records the prescribed information using those instruments, collects the information that it records and preserves the information that it collects. This enactment also specifies the circumstances in which the prescribed information that is recorded can be used and communicated by companies, the Minister of Transport and railway safety inspectors.&lt;br/&gt;&lt;br/&gt;It amends the Canadian Transportation Accident Investigation and Safety Board Act to allow the use or communication of an on-board recording, as defined in subsection 28(1) of that Act, if that use or communication is expressly authorized under the Aeronautics Act, the National Energy Board Act, the Railway Safety Act or the Canada Shipping Act, 2001.&lt;br/&gt;&lt;br/&gt;It amends the Canadian Air Transport Security Authority Act to authorize the Canadian Air Transport Security Authority to enter into agreements for the delivery of screening services on a cost-recovery basis.&lt;br/&gt;&lt;br/&gt;It amends the Coasting Trade Act to enable repositioning of empty containers by ships registered in any register. These amendments are conditional on Bill C-30, introduced in the 1st session of the 42nd Parliament and entitled the Canada–European Union Comprehensive Economic and Trade Agreement Implementation Act, receiving royal assent and sections 91 to 94 of that Act coming into force.&lt;br/&gt;&lt;br/&gt;It amends the Canada Marine Act to permit port authorities and their wholly-owned subsidiaries to receive loans and loan guarantees from the Canada Infrastructure Bank. These amendments are conditional on Bill C-44, introduced in the 1st session of the 42nd Parliament and entitled the Budget Implementation Act, 2017, No. 1, receiving royal assent.&lt;br/&gt;&lt;br/&gt;Finally, it makes related and consequential amendments to the Bankruptcy and Insolvency Act, the Competition Act, the Companies' Creditors Arrangement Act, the Air Canada Public Participation Act, the Budget Implementation Act, 2009 and the Fair Rail for Grain Farmers Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2018</StatuteYear>
+    <StatuteChapter>10</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-05-16T10:11:47.023</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>178</Number>
+          <Date>2017-05-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2017-05-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2017-05-16T10:11:47.023</EventStartDateTime>
+          <EventEndDateTime>2017-05-16T10:11:47.023</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-05-16T10:11:47.023</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-19T15:00:30</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+          <StudyActivityId>9632089</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>187</Number>
+          <Date>2017-06-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>196</Number>
+          <Date>2017-06-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>197</Number>
+          <Date>2017-06-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9628269</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8953732</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - TRAN</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - TRAN</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - TRAN</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>337</DivisionNumber>
+          <DivisionVotesYeas>161</DivisionVotesYeas>
+          <DivisionVotesNays>114</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2017-06-19T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>197</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2017-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2017-06-19T15:00:30</EventStartDateTime>
+          <EventEndDateTime>2017-06-19T15:00:30</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-19T15:00:30</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9581962</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>10524</PersonId>
+          <PersonOfficialFirstName>Marc</PersonOfficialFirstName>
+          <PersonOfficialLastName>Garneau</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Marc Garneau</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>187</MeetingNumber>
+          <SpeechDateTime>2017-06-05T21:54:51</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9581989</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>59156</PersonId>
+          <PersonOfficialFirstName>Kelly</PersonOfficialFirstName>
+          <PersonOfficialLastName>Block</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Kelly Block</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>187</MeetingNumber>
+          <SpeechDateTime>2017-06-05T22:24:19</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9582013</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71560</PersonId>
+          <PersonOfficialFirstName>Robert</PersonOfficialFirstName>
+          <PersonOfficialLastName>Aubin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Robert Aubin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>187</MeetingNumber>
+          <SpeechDateTime>2017-06-05T22:51:38</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-10-05T09:36:12.13</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+          <StudyActivityId>9632089</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>213</Number>
+          <Date>2017-10-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>67</Number>
+          <Date>2017-09-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>68</Number>
+          <Date>2017-09-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>69</Number>
+          <Date>2017-09-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>70</Number>
+          <Date>2017-09-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>74</Number>
+          <Date>2017-10-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2017-10-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9131698</CommitteeReportId>
+          <CommitteeReportNumber>15</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2017-10-05T09:36:12.13</EventStartDateTime>
+          <EventEndDateTime>2017-10-05T09:36:12.13</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-10-05T09:36:12.13</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-10-30T19:30:21</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>222</Number>
+          <Date>2017-10-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>225</Number>
+          <Date>2017-10-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2017-10-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2017-10-30T19:30:21</EventStartDateTime>
+          <EventEndDateTime>2017-10-30T19:30:21</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-10-30T19:30:21</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-01T18:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>226</Number>
+          <Date>2017-10-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>227</Number>
+          <Date>2017-11-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9751366</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>8953734</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>384</DivisionNumber>
+          <DivisionVotesYeas>164</DivisionVotesYeas>
+          <DivisionVotesNays>139</DivisionVotesNays>
+          <DivisionVotePaired>2</DivisionVotePaired>
+          <DecisionSittingDate>2017-11-01T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>227</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2017-11-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2017-11-01T18:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-11-01T18:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-01T18:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-11-02T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>155</Number>
+          <Date>2017-11-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2017-11-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2017-11-02T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-11-02T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-02T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-12-08T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>158</Number>
+          <Date>2017-11-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>160</Number>
+          <Date>2017-11-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>164</Number>
+          <Date>2017-11-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>165</Number>
+          <Date>2017-12-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>166</Number>
+          <Date>2017-12-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>169</Number>
+          <Date>2017-12-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2017-12-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2017-12-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2017-12-08T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2017-12-08T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-12-08T00:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35201</PersonId>
+          <PersonOfficialFirstName>Grant</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mitchell</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Grant Mitchell</PersonName>
+          <SenateSystemAffiliationId>2778</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Non-affiliated</CaucusShortNameEn>
+          <CaucusShortNameFr>Non affilié(e)</CaucusShortNameFr>
+          <CaucusShortName>Non-affiliated</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>158</MeetingNumber>
+          <SpeechDateTime>2017-11-09T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/158db_2017-11-09-e#56</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/158db_2017-11-09-f#56</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/158db_2017-11-09-e#56</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>31079</PersonId>
+          <PersonOfficialFirstName>Dennis</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dawson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Dennis Dawson</PersonName>
+          <SenateSystemAffiliationId>2785</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>160</MeetingNumber>
+          <SpeechDateTime>2017-11-22T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/160db_2017-11-22-e#82</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/160db_2017-11-22-f#82</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/160db_2017-11-22-e#82</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-03-28T14:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>191</Number>
+          <Date>2018-03-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>85</Number>
+          <Date>2017-12-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>86</Number>
+          <Date>2018-01-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>87</Number>
+          <Date>2018-01-31T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2018-02-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2018-02-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2018-02-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2018-02-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2018-02-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>93</Number>
+          <Date>2018-02-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>94</Number>
+          <Date>2018-03-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>95</Number>
+          <Date>2018-03-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>96</Number>
+          <Date>2018-03-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-03-28T14:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-03-28T14:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-03-28T14:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-28T14:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-03-29T15:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>192</Number>
+          <Date>2018-03-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2018-03-29T15:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2018-03-29T15:05:00</EventStartDateTime>
+          <EventEndDateTime>2018-03-29T15:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-29T15:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-03-29T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>192</Number>
+          <Date>2018-03-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-03-29T15:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-03-29T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2018-03-29T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-29T15:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>208</Number>
+          <Date>2018-05-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2018-05-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2018-05-23T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-05-23T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-23T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2018-03-29T15:20:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>192</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2018-05-03T10:30:45</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>291</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2018-05-03T12:55:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>291</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2018-05-03T19:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>291</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2018-05-07T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>202</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2018-05-08T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>203</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2018-05-09T15:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>204</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2018-05-10T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>205</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2018-05-11T12:01:34</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>297</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2018-05-22T15:20:37</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>298</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>The Senate does not insist on its amendment(s)</EventNameEn>
+        <EventNameFr>Le Sénat n'insiste pas sur ses amendements</EventNameFr>
+        <EventName>The Senate does not insist on its amendment(s)</EventName>
+        <Date>2018-05-22T17:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>207</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>8955062</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9143636</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9214920</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9897188</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>336</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>159</DivisionVotesYeas>
+      <DivisionVotesNays>96</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>255</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-06-15T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>337</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>161</DivisionVotesYeas>
+      <DivisionVotesNays>114</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>275</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-06-19T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>379</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>168</DivisionVotesYeas>
+      <DivisionVotesNays>118</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>288</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-10-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>380</DivisionNumber>
+      <DivisionSubjectEn>Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>131</DivisionVotesYeas>
+      <DivisionVotesNays>165</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>296</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-10-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>381</DivisionNumber>
+      <DivisionSubjectEn>Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>132</DivisionVotesYeas>
+      <DivisionVotesNays>165</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>297</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2017-10-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>382</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>165</DivisionVotesYeas>
+      <DivisionVotesNays>132</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>297</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-10-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>384</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-49, Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>164</DivisionVotesYeas>
+      <DivisionVotesNays>139</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>305</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-11-01T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>662</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-49,Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois (amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts (amendment)</DivisionSubject>
+      <DivisionVotesYeas>118</DivisionVotesYeas>
+      <DivisionVotesNays>163</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>283</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-05-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>663</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-49,Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>161</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-05-03T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>667</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-49,Loi apportant des modifications à la Loi sur les transports au Canada et à d'autres lois concernant les transports ainsi que des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-49, An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>163</DivisionVotesYeas>
+      <DivisionVotesNays>123</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>286</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-05-22T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>42</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>190</MeetingNumber>
+      <HansardNumber>9601494</HansardNumber>
+      <RulingStatementDateTime>2017-06-08T15:26:34</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Garneau introduces legislation to support Canadian travellers and promote economic growth</TitleEn>
+      <TitleFr>Le ministre Garneau dépose un projet de loi pour répondre aux besoins des voyageurs canadiens et favoriser la croissance économique</TitleFr>
+      <Title>Minister Garneau introduces legislation to support Canadian travellers and promote economic growth</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/05/minister_garneauintroduceslegislationtosupportcanadiantravellers.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/05/le_ministre_garneaudeposeunprojetdeloipourrepondreauxbesoinsdesv.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/05/minister_garneauintroduceslegislationtosupportcanadiantravellers.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Air Passenger Rights</TitleEn>
+      <TitleFr>Droits des voyageurs aériens</TitleFr>
+      <Title>Air Passenger Rights</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/05/travellers_initiatives.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/05/initiatives_pourlesvoyageurs.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/05/travellers_initiatives.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Picking up steam: Growing Canada's economy with modernized Rail Transportation</TitleEn>
+      <TitleFr>En plein essor : Soutenir l'économie canadienne en modernisant le transport ferroviaire</TitleFr>
+      <Title>Picking up steam: Growing Canada's economy with modernized Rail Transportation</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/05/picking_up_steamgrowingcanadaseconomywithmodernizedrailtransport.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/05/en_plein_essor_soutenirleconomiecanadienneenmodernisantletranspo.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/05/picking_up_steamgrowingcanadaseconomywithmodernizedrailtransport.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada seeking to mandate locomotive voice and video recorders (LVVR)</TitleEn>
+      <TitleFr>Le gouvernement du Canada cherche à rendre les enregistreurs audio-vidéo de locomotive obligatoires</TitleFr>
+      <Title>Government of Canada seeking to mandate locomotive voice and video recorders (LVVR)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/05/government_of_canadaseekingtomandatelocomotivevoiceandvideorecor.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/05/le_gouvernement_ducanadacherchearendrelesenregistreursaudio-vide.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/05/government_of_canadaseekingtomandatelocomotivevoiceandvideorecor.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Transportation 2030 - A Strategic Plan for the Future of Transportation in Canada (Transport Canada)</TitleEn>
+      <TitleFr>Transports 2030, un plan stratégique pour l'avenir des transports au Canada (Transports Canada)</TitleFr>
+      <Title>Transportation 2030 - A Strategic Plan for the Future of Transportation in Canada (Transport Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.tc.gc.ca/eng/future-transportation-canada.html</UrlEn>
+      <UrlFr>https://www.tc.gc.ca/fra/avenir-transports-canada.html</UrlFr>
+      <Url>https://www.tc.gc.ca/eng/future-transportation-canada.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement by the TSB regarding locomotive voice and video recorders (TSB)</TitleEn>
+      <TitleFr>Déclaration du BST concernant les enregistreurs audio-vidéo de locomotive (BST)</TitleFr>
+      <Title>Statement by the TSB regarding locomotive voice and video recorders (TSB)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transportation-safety-board/news/2017/05/statement_by_thetsbregardinglocomotivevoiceandvideorecorders.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/bureau-securite-transports/nouvelles/2017/05/declaration_du_bstconcernantlesenregistreursaudio-videodelocomot.html</UrlFr>
+      <Url>https://www.canada.ca/en/transportation-safety-board/news/2017/05/statement_by_thetsbregardinglocomotivevoiceandvideorecorders.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement by the Chair and CEO of the Canadian Transportation Agency on the introduction of the Transportation Modernization Act (CTA)</TitleEn>
+      <TitleFr>Déclaration du président et premier dirigeant de l'Office des transports du Canada concernant le dépôt de la Loi sur la modernisation des transports (OTC)</TitleFr>
+      <Title>Statement by the Chair and CEO of the Canadian Transportation Agency on the introduction of the Transportation Modernization Act (CTA)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transportation-agency/news/2017/05/statement_by_thechairandceoofthecanadiantransportationagencyonth.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/office-transports/nouvelles/2017/05/declaration_du_presidentetpremierdirigeantdelofficedestransports.html</UrlFr>
+      <Url>https://www.canada.ca/en/transportation-agency/news/2017/05/statement_by_thechairandceoofthecanadiantransportationagencyonth.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Garneau highlights proposed freight rail legislation at Edmonton Chamber of Commerce</TitleEn>
+      <TitleFr>Le ministre Garneau présente un projet de loi sur le transport ferroviaire des marchandises devant la Chambre de commerce d'Edmonton</TitleFr>
+      <Title>Minister Garneau highlights proposed freight rail legislation at Edmonton Chamber of Commerce</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/05/minister_garneauhighlightsproposedfreightraillegislationatedmont.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/05/le_ministre_garneaupresenteunprojetdeloisurletransportferroviair.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/05/minister_garneauhighlightsproposedfreightraillegislationatedmont.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Speaking Notes for the Honourable Marc Garneau, Minister of Transport at Edmonton Chamber of Commerce to discuss the Transportation Modernization Act and Freight Rail</TitleEn>
+      <TitleFr>Notes d'allocution pour l'honorable Marc Garneau, ministre des Transports, devant la Chambre de commerce d'Edmonton pour discuter de la Loi sur la modernisation des transports et du transport ferroviaire des marchandises</TitleFr>
+      <Title>Speaking Notes for the Honourable Marc Garneau, Minister of Transport at Edmonton Chamber of Commerce to discuss the Transportation Modernization Act and Freight Rail</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/05/speaking_notes_forthehonourablemarcgarneauministeroftransportate.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/05/notes_d_allocutionpourlhonorablemarcgarneauministredestransports0.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/05/speaking_notes_forthehonourablemarcgarneauministeroftransportate.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada marks passage of Bill C-49, the Transportation Modernization Act</TitleEn>
+      <TitleFr>Le gouvernement du Canada souligne l'adoption du projet de loi C-49, Loi sur la modernisation des transports</TitleFr>
+      <Title>Government of Canada marks passage of Bill C-49, the Transportation Modernization Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/agriculture-agri-food/news/2018/05/government-of-canada-marks-passage-of-bill-c-49-the-transportation-modernization-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agriculture-agroalimentaire/nouvelles/2018/05/le-gouvernement-du-canada-souligne-ladoption-du-projet-de-loi-c-49-loisur-la-modernisation-des-transports.html</UrlFr>
+      <Url>https://www.canada.ca/en/agriculture-agri-food/news/2018/05/government-of-canada-marks-passage-of-bill-c-49-the-transportation-modernization-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Garneau's statement on the Transportation Modernization Act receiving Royal Assent</TitleEn>
+      <TitleFr>Déclaration du ministre Garneau au sujet de la sanction royale accordée au projet de Loi sur la modernisation des transports</TitleFr>
+      <Title>Minister Garneau's statement on the Transportation Modernization Act receiving Royal Assent</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2018/05/minister-garneaus-statement-on-the-transportation-modernization-act-receiving-royal-assen.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2018/05/declaration-du-ministre-garneau-au-sujet-de-la-sanction-royale-accordee-au-projet-de-loi-sur-la-modernisation-des-transports.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2018/05/minister-garneaus-statement-on-the-transportation-modernization-act-receiving-royal-assen.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canadian Transportation Agency Launches Consultation on Rail Transportation</TitleEn>
+      <TitleFr>L'Office des transports du Canada lance une consultation sur le transport ferroviaire</TitleFr>
+      <Title>Canadian Transportation Agency Launches Consultation on Rail Transportation</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.otc-cta.gc.ca/eng/content/canadian-transportation-agency-launches-consultation-rail-transportation</UrlEn>
+      <UrlFr>https://www.otc-cta.gc.ca/fra/content/loffice-des-transports-canada-lance-une-consultation-sur-transport-ferroviaire</UrlFr>
+      <Url>https://www.otc-cta.gc.ca/eng/content/canadian-transportation-agency-launches-consultation-rail-transportation</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Discussion Paper on Regulatory Modernization for Rail Transportation</TitleEn>
+      <TitleFr>Document de travail sur la modernisation de la réglementation en matière de transport ferroviaire</TitleFr>
+      <Title>Discussion Paper on Regulatory Modernization for Rail Transportation</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://otc-cta.gc.ca/eng/discussion-paper-regulatory-modernization-rail-transportation</UrlEn>
+      <UrlFr>https://otc-cta.gc.ca/fra/document-travail-sur-modernisation-reglementation-matiere-transport-ferroviaire</UrlFr>
+      <Url>https://otc-cta.gc.ca/eng/discussion-paper-regulatory-modernization-rail-transportation</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3115</BibliographicNoticeId>
+      <Title>Charte des voyageurs - turbulence en vue ?</Title>
+      <Author>Marc-André Séguin</Author>
+      <Publication>Journal du barreau</Publication>
+      <VolumePage>49(9):34-36</VolumePage>
+      <PublicationDate>novembre 2017</PublicationDate>
+      <Classification>Radar 26031879</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
