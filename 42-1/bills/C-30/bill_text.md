@@ -1203,7 +1203,7 @@ the reference in subsection 69(3) to "the Minister" to be read as a reference to
 
   **(2)** Subject to the regulations, the Minister may use electronic means to create, collect, receive, store, transfer, distribute, publish, certify or otherwise deal with documents or information under sections `106` to `134`.
 
-  **(3)** In this section, **electronic**, in reference to a form or means, includes optical, magnetic and other similar forms or means.
+  **(3)** In this section, electronic, in reference to a form or means, includes optical, magnetic and other similar forms or means.
 
 ### Section 130
 
@@ -2092,7 +2092,7 @@ Schedule 2 to the `Commercial Arbitration Act` is amended by adding, at the end 
 
       the container is at least 6.1 metres in length and has an internal volume of at least 14 cubic metres, is designed for carrying goods more than once and by one or more modes of transportation, and does not have wheels or is not otherwise built for being driven or drawn.
 
-    **(2.5)** Once a ship has completed a carriage of goods as described in subsection (2.4), subsection (1) applies to the ship in respect of any such subsequent carriage of goods by the ship, until it departs from the exclusive economic zone of Canada or from the **inland waters**, as defined in subsection 2(1) of the `Customs Act`, at a location where the inland waters are contiguous to the United States.
+    **(2.5)** Once a ship has completed a carriage of goods as described in subsection (2.4), subsection (1) applies to the ship in respect of any such subsequent carriage of goods by the ship, until it departs from the exclusive economic zone of Canada or from the inland waters, as defined in subsection 2(1) of the `Customs Act`, at a location where the inland waters are contiguous to the United States.
 
     **(2.6)** Before a ship engages, without a licence, in any activities referred to in subsections (2.1) to (2.4) and for which the owner of the ship intends to rely on an exemption under any one of those subsections, the owner shall provide information to an enforcement officer, in the form and manner specified by the Minister, establishing that the ship meets the applicable conditions under any of paragraphs (2.1)(a) to (d).
 
@@ -2106,13 +2106,13 @@ Schedule 2 to the `Commercial Arbitration Act` is amended by adding, at the end 
 
       a Canadian citizen,
 
-      a **permanent resident** as defined in subsection 2(1) of the `Immigration and Refugee Protection Act`, or
+      a permanent resident as defined in subsection 2(1) of the `Immigration and Refugee Protection Act`, or
 
       a national of a member state of the European Union; or
 
       in the case of a third party entity that is a trust, partnership, joint venture or other association, if an individual, or any combination of individuals, described in any of subparagraphs (a)(i) to (iii) holds, directly or indirectly, but not through a subsidiary, an interest in the trust, partnership, joint venture or other association that entitles the individual or combination of individuals to receive more than 50% of its profits or more than 50% of its assets on dissolution.
 
-    **(8)** For the purposes of subsection (7), **third party entity** means
+    **(8)** For the purposes of subsection (7),**third party entity** means
 
       a corporation, other than an entity referred to in paragraph (a) of the definition of either **Canadian entity** or **EU entity**, that is not incorporated under the law of the United States; or
 
@@ -2140,7 +2140,7 @@ Section 7 of the Act is replaced by the following:
 
 The Governor in Council may, by regulation
 
-specify that a territory is, or is not, a territory referred to in the definition of **territory of the European Union** in subsection 2(1);
+specify that a territory is, or is not, a territory referred to in the definition of**territory of the European Union** in subsection 2(1);
 
 indicate, for the purpose of paragraph 3(2.1)(c), the registers that are second, or international, registers of member states of the European Union; and
 
@@ -2240,7 +2240,7 @@ The Act is amended by adding the following after section 49.7:
 
 ### Section 49.9
 
-The Governor in Council may, on the recommendation of the Minister, make regulations defining the term **EU country or other CETA beneficiary**.
+The Governor in Council may, on the recommendation of the Minister, make regulations defining the term EU country or other CETA beneficiary.
 
 ### Section 49.91
 
@@ -2288,11 +2288,11 @@ The portion of subsection 89(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 94
 
-      **(1)** In sections 95, 96 and 98.1, **customs duties** means customs duties imposed under Part 2, other than
+      **(1)** In sections 95, 96 and 98.1, customs duties means customs duties imposed under Part 2, other than
 
   **(2)** Subsection 94(2) of the Act is replaced by the following:
 
-    **(2)** For greater certainty, in sections 95, 96 and 98.1, **customs duties** does not include any duties or taxes levied or imposed on imported goods under the `Excise Act, 2001`, the `Excise Tax Act` or the `Special Import Measures Act`.
+    **(2)** For greater certainty, in sections 95, 96 and 98.1, customs duties does not include any duties or taxes levied or imposed on imported goods under the `Excise Act, 2001`, the `Excise Tax Act` or the `Special Import Measures Act`.
 
 ### Section 102
 
@@ -2328,7 +2328,7 @@ The Act is amended by adding the following after section 98:
 
     any other imported goods or any imported goods used as materials, or any class of such goods, that may, on the recommendation of the Minister, be prescribed by the Governor in Council on the basis of an agreement between the Government of Canada and the other parties to the Canada–European Union Comprehensive Economic and Trade Agreement.
 
-  **(5)** In this section, **materials** means goods that are used in the processing of other goods, and includes parts or ingredients.
+  **(5)** In this section,**materials** means goods that are used in the processing of other goods, and includes parts or ingredients.
 
 ### Section 103
 
@@ -2640,7 +2640,7 @@ claims for damages for the infringement or use of any registered topography with
 
   **(3)** Subsection 22(5) of the Act is replaced by the following:
 
-    **(5)** In this section, **certificate of supplementary protection** has the same meaning as in section 2 of the `Patent Act` and **registered topography** has the same meaning as in subsection 2(1) of the `Integrated Circuit Topography Act`.
+    **(5)** In this section, certificate of supplementary protection has the same meaning as in section 2 of the `Patent Act` and registered topography has the same meaning as in subsection 2(1) of the `Integrated Circuit Topography Act`.
 
 
 ### `Federal Courts Act`
@@ -2926,13 +2926,15 @@ All references in this schedule to chapters and headings are references to the c
 
 **Agreement** within the meaning of subsection 2(1) of the `Canada-Chile Free Trade Agreement Implementation Act`
 
-**Agreement** within the meaning of section 2 of the `Canada–Peru Free Trade Agreement Implementation Act`
+**Agreement** within the meaning of sec­tion 2 of the `Canada–Peru Free Trade Agreement Implementation Act`
 
-**Agreement** within the meaning of section 2 of the `Canada–Colombia Free Trade Agreement Implementation Act`
+**Agreement** within the meaning of sec­tion 2 of the `Canada–Colombia Free Trade Agreement Implementation Act`
 
-**Agreement** within the meaning of section 2 of the `Canada–Panama Economic Growth and Prosperity Act`
+**Agreement** within the meaning of sec­tion 2 of the `Canada–Panama Economic Growth and Prosperity Act`
 
-**Agreement** within the meaning of section 2 of the `Canada–Honduras Economic Growth and Prosperity Act`
+**Agreement** within the meaning of sec­tion 2 of the `Canada–Honduras Economic Growth and Prosperity Act`
 
-**Agreement** within the meaning of section 2 of the `Canada–Korea Economic Growth and Prosperity Act`
+**Agreement** within the meaning of sec­tion 2 of the `Canada–Korea Economic Growth and Prosperity Act`
+
+
 
