@@ -965,7 +965,7 @@ The holder of a licence, permit, authorization or exemption shall comply with it
 
   **(5)** The Minister may refuse to register or cancel the registration of the importation of a designated device if the Minister believes on reasonable grounds that false or misleading information was provided, or it is necessary to do so to protect public health or safety or for any other prescribed reason.
 
-  **(6)** The Minister is authorized to disclose to the Canada Border Services Agency or an **officer**, as defined in section 2(1) of the `Customs Act`, any information submitted under subsection (2) for the purpose of verifying compliance with the provisions of this Act or the regulations.
+  **(6)** The Minister is authorized to disclose to the Canada Border Services Agency or an officer, as defined in section 2(1) of the `Customs Act`, any information submitted under subsection (2) for the purpose of verifying compliance with the provisions of this Act or the regulations.
 
   **(7)** The Minister is authorized to disclose any information submitted under subsection (2) to a Canadian police force or a member of a Canadian police force who requests the information in the course of an investigation under this Act.
 
@@ -1066,7 +1066,7 @@ The heading before section 55 of the Act is replaced by the following:
 
   **(10)** Paragraph 55(1)(u) of the Act is replaced by the following:
 
-    authorizing the Minister to add to or delete from, by order, a schedule to Part J of the `Food and Drug Regulations` any item or portion of an item included in Part V;
+    authorizing the Minister to add to or delete from, by order, a schedule to Part J of the `Food and Drug Regulations` any item or portion of an item included in Schedule V;
 
   **(11)** Paragraphs 55(1)(w) to (z) of the Act are replaced by the following:
 
@@ -1176,9 +1176,13 @@ Section 56.1 of the Act is replaced by the following:
 
   **(3)** An application for an exemption under subsection (1) that would allow certain activities to continue to take place at a supervised consumption site shall include any update to the information provided to the Minister since the previous exemption was granted, including any information related to the public health impacts of the activities at the site.
 
-  **(4)** The Minister may give notice, in the form and manner determined by the Minister, of any application for an exemption under subsection (1). The notice  shall indicate the period of time — not to exceed 90 days — in which members of the public may provide the Minister with comments.
+  **(4)** The Minister may give notice, in the form and manner determined by the Minister, of any application for an exemption under subsection (1). The notice  shall indicate the period of time — not less than 45 days or more than 90 days — in which members of the public may provide the Minister with comments.
 
   **(5)** After making a decision under subsection (1), the Minister shall, in writing, make the decision public and, if the decision is a refusal, include the reasons for it.
+
+### Section 56.2
+
+A person who is responsible for the direct supervision, at a supervised consumption site, of the consumption of controlled substances, may offer a person using the site alternative pharmaceutical therapy before that person consumes a controlled substance that is obtained in a manner not authorized under this Act.
 
 ### Section 43
 
