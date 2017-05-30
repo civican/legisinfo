@@ -24,23 +24,23 @@ This Act may be cited as the `Framework on Palliative Care in Canada Act`.
 
 ### Section 2
 
-  **(1)** The Minister of Health must, in consultation with the representatives of the provincial and territorial governments responsible for health, as well as with palliative care providers, develop a framework designed to **support improved access for** Canadians to palliative care — pro-vided through hospitals, home care, long-term care facilities and residential hospices — that, among other things,
+  **(1)** The Minister of Health must, in consultation with the representatives of the provincial and territorial governments responsible for health, as well as with palliative care providers, develop a framework designed to support improved access for Canadians to palliative care — pro-vided through hospitals, home care, long-term care facilities and residential hospices — that, among other things,
 
     defines what palliative care is;
 
-    identifies the palliative care training and education needs of health care providers **as well as other caregivers**;
+    identifies the palliative care training and education needs of health care providers as well as other caregivers;
 
-    identifies measures to support palliative **care providers**;
+    identifies measures to support palliative care providers;
 
-    **promotes** research and **the collection of** data on palliative care;
+    promotes research and the collection of data on palliative care;
 
     identifies measures to facilitate a consistent access to palliative care across Canada;
 
     takes into consideration existing palliative care frameworks, strategies and best practices; and
 
-    evaluates the advisability **of re-establishing the Department of Health's Secretariat on Palliative and End-of-Life Care.**
+    evaluates the advisability of re-establishing the Department of Health's Secretariat on Palliative and End-of-Life Care.
 
-  **(2)** The Minister must **initiate the consultations referred to in subsection (1)** within six months after the day on which this Act comes into force.
+  **(2)** The Minister must initiate the consultations referred to in subsection (1) within six months after the day on which this Act comes into force.
 
 ### Section 3
 
@@ -53,7 +53,7 @@ This Act may be cited as the `Framework on Palliative Care in Canada Act`.
 
 ### Section 4
 
-  **(1)** Within five years **after the day on which** the report referred to in section 3**is tabled in Parliament,** the Minister of Health must prepare a report on the **state of** palliative care **in Canada,** and cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
+  **(1)** Within five years after the day on which the report referred to in section 3 is tabled in Parliament, the Minister of Health must prepare a report on the state of palliative care in Canada, and cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
   **(2)** The Minister must post the report on the departmental Web site within 10 days after the day on which the report is tabled in Parliament.
 
