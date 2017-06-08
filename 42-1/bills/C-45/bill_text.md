@@ -83,6 +83,8 @@ Purpose
 
 Possession
 
+Definition of *medical emergency*
+
 Distribution
 
 Selling
@@ -499,6 +501,11 @@ Advice of experts
 Schedules 1 and 2
 
 
+### Review and Report
+
+Review of Act
+
+
 ## Transitional Provisions and Related, Consequential and Coordinating Amendments
 
 
@@ -835,6 +842,18 @@ enhance public awareness of the health risks associated with cannabis use.
 
     in the case of an organization, to a fine of not more than $100,000.
 
+### Section 8.1
+
+  **(1)** For the purposes of this section, **medical emergency** means a physiological event induced by the introduction of a psychoactive substance into the body of a person that results in a life-threatening situation and in respect of which there are reasonable grounds to believe that the person requires emergency medical or law enforcement assistance.
+
+  **(2)** No person who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from a medical emergency is to be charged or convicted of an offence under subsection 8(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assist­ance or having remained at the scene.
+
+  **(3)** The exemption under subsection (2) also applies to any person, including the person suffering from the medical emergency, who is at the scene on the arrival of the emergency medical or law enforcement assistance.
+
+  **(4)** No person who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from a medical emergency, or who is at the scene on the arrival of the assistance, is to be charged with an offence concerning a violation of any condition of a pre-trial release or probation order relating to an offence under subsection 8(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
+
+  **(5)** Any condition of a person's pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 8(1) that may be violated as a result of the person seeking emergency medical or law enforcement assistance for their, or another person's, medical emergency, or as a result of having been at the scene on the arrival of the assistance, is deemed not to be violated.
+
 ### Section 9
 
   **(1)** Unless authorized under this Act, it is prohibited
@@ -954,8 +973,6 @@ enhance public awareness of the health risks associated with cannabis use.
   **(5)** Unless authorized under this Act, if two or more individuals who are 18 years of age or older are ordinarily resident in the same dwelling-house, it is prohibited for any of those individuals to cultivate, propagate or harvest any cannabis plants if doing so results in there being more than four such plants being cultivated, propagated or harvested at any one time in the dwelling-house.
 
   **(6)** Unless authorized under this Act, it is prohibited for an individual who is 18 years of age or older
-
-    to cultivate, propagate or harvest, in their dwelling-house, any cannabis plant that is more than 100 cm in height, not including any part of the plant that is not normally exposed to the air;
 
     to cultivate, propagate or harvest any cannabis plant at a place that is not their dwelling-house or to offer to do so; or
 
@@ -1117,9 +1134,9 @@ It is prohibited to promote, in a way that is prohibited by this Part, cannabis,
 
 ### Section 21
 
-It is prohibited to display, in a promotion that is used, directly or indirectly, in the sponsorship of a person, entity, event, activity or facility,
+It is prohibited to display, **refer to or otherwise use any of the following,** directly or indirectly in a promotion that is used in the sponsorship of a person, entity, event, activity or facility:
 
-a brand element of cannabis, of a cannabis accessory or of a service related to cannabis; or
+a brand element of cannabis, of a cannabis accessory or of a service related to cannabis; **and**
 
 the name of a person that
 
@@ -1238,7 +1255,9 @@ Unless authorized under this Act, it is prohibited for a person that is authoriz
 
 ### Section 34
 
-Unless authorized under this Act, it is prohibited to sell cannabis of any class that is referred to in column 2 of Schedule 5 that contains any substance that is referred to in column 1.
+  ****(1)**** Unless authorized under this Act, it is prohibited to sell **any mixture of substances that contains** cannabis **and** any substance that is referred to in column 1 of Schedule 5.
+
+  **(2)** Subsection (1) does not apply in respect of a mixture of substances that contains a substance that is referred to in column 1 of Schedule 5 and any cannabis of a class of cannabis that is referred to in column 2 of that Schedule in respect of that substance.
 
 ### Section 35
 
@@ -1360,11 +1379,9 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
     proceedings in respect of an offence arising out of the contravention of paragraph `12`(4)(b) in respect of five or six cannabis plants;
 
-    proceedings in respect of an offence arising out of the contravention of subsection `12`(5) in respect of one or two cannabis plants;
+    proceedings in respect of an offence arising out of the contravention of subsection `12`(5) in respect of one or two cannabis plants; and
 
-    proceedings in respect of an offence arising out of the contravention of paragraph `12`(6)(a) in respect of a single cannabis plant that is 150 cm or less in height, not including any part of the plant that is not normally exposed to the air; and
-
-    proceedings in respect of an offence arising out of the contravention of section `44` in respect of a contravention of a provision that is specified in regulations made under paragraph `139`(1)(z.6).
+    proceedings in respect of an offence arising out of the contravention of section 44 in respect of a contravention of a provision that is specified in regulations made under paragraph `139`(1)(z.6).
 
   **(3)** The summons and information portions of the ticket must set out
 
@@ -1378,7 +1395,7 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
     a statement that if the accused pays the amount within the period set out in the ticket,
 
-    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records, and
+    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records **and will not be used for any purpose that would identify the accused as a person dealt with under this Act**, and
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty;
 
@@ -1392,9 +1409,9 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty.
 
-  **(4)** For the purpose of paragraph (3)(*c*), the amount is
+  **(4)** For the purpose of paragraph (3)(c), the amount is
 
-    for an offence referred to in any of paragraphs (2)(a) to (i), $200 plus a victim surcharge, calculated in accordance with subsection 737(2) of the `Criminal Code`, and any applicable administrative fees; and
+    for an offence referred to in any of paragraphs (2)(a) to (**h**), $200 plus a victim surcharge, calculated in accordance with subsection 737(2) of the `Criminal Code`, and any applicable administrative fees; and
 
     for an offence in respect of a contravention of a provision that is specified in regulations made under paragraph `139`(1)(z.6), the amount specified in those regulations in respect of that offence plus a victim surcharge, calculated in accordance with subsection 737(2) of the `Criminal Code`, and any applicable administrative fees.
 
@@ -1410,7 +1427,9 @@ if cannabis has been seized in relation to the offence, the cannabis is forfeite
 
 ### Section 53
 
-  **(1)** If an accused pleads not guilty and the accused is convicted of the offence described in the ticket, the accused is liable to a fine of $200, in the case of an offence referred to in any of paragraphs `51`(2)(a) to (i) or, in the case of an offence in respect of a contravention of a provision specified in regulations made under paragraph `139`(1)(z.6), to a fine equal to the amount specified in those regulations in respect of that offence.
+  **(1)** If an accused pleads not guilty and the accused is convicted of the offence described in the ticket, the accused is liable to a fine of **not more than** $200, in the case of an offence referred to in any of paragraphs 51(2)(a) to (**h**) or, in the case of an offence in respect of a contravention of a provision specified in regulations made under paragraph 139(1)(z.6), to a fine **of not more than** the amount specified in those regulations in respect of that offence.
+
+  **(1.1)** If the accused is convicted of the offence, no order is to be made under section 731 of the `Criminal Code` in respect of that conviction.
 
   **(2)** If the accused is convicted of the offence and the accused pays the amount owing in respect of the conviction, the judicial record of the accused in relation to the offence must be kept separate and apart from other judicial records and it must not be used for any purpose that would identify the accused as a person dealt with under this Act.
 
@@ -1454,7 +1473,7 @@ Except where otherwise provided by this Part, Part XXVII of the `Criminal Code` 
 
     a statement that if the accused pays the amount within the period referred to in paragraph (b),
 
-    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records, and
+    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records **and will not be used for any purpose that would identify the accused as a person dealt with under this Act**, and
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty;
 
@@ -1523,7 +1542,7 @@ the discharge and enforcement of fines and fees referred to in this Part in resp
 
   **(7)** The Minister may refuse to issue, renew or amend a licence or permit if
 
-    doing so is likely to create a risk to public health or public safety, including the risk of cannabis being diverted to an illicit market or activity;
+    **the issuance, the renewal or the amendment** is likely to create a risk to public health or public safety, including the risk of cannabis being diverted to an illicit market or activity;
 
     there are reasonable grounds to believe that false or misleading information or false or falsified documents were submitted in, or in support of, the application;
 
@@ -1638,9 +1657,9 @@ Subject to the regulations, the Minister may grant or refuse to grant a security
 
 ### Section 71
 
-  **(1)** Unless the regulations provide otherwise, every employee of a person that is authorized under this Act to sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
+  **(1)** Unless the regulations provide otherwise, every employee of a person that is authorized under this Act to **possess,** sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
 
-  **(2)** Unless the regulations provide otherwise, every individual who is acting as the agent or mandatary of a person that is authorized under this Act to sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
+  **(2)** Unless the regulations provide otherwise, every individual who is acting as the agent or mandatary of a person that is authorized under this Act to **possess,** sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
 
 ### Section 72
 
@@ -2606,7 +2625,11 @@ If any record, report, electronic data or other document is examined or seized u
 
     respecting the granting, suspension or cancellation of security clearances and specifying who must hold a security clearance;
 
-    respecting the composition, strength, concentration, potency, purity or quality or any other property of cannabis or any class of cannabis;
+    respecting the **characteristics,** composition, strength, concentration, potency, **intended use, sensory attributes — such as appearance and shape —** purity, quality or any other property of cannabis or any class of cannabis;
+
+    respecting the characteristics, composition, design, construction, performance, intended use, sensory attributes — such as appearance and shape — purity, quality or any other property of cannabis accessories;
+
+    respecting the emissions produced by the consumption of cannabis or the use of cannabis accessories and defining "emission" for the purpose of regulations made under this paragraph;
 
     requiring persons to take or keep samples of any cannabis or any class of cannabis, or of any package or label of cannabis, and to provide the Minister or an inspector with, or with access to, those samples;
 
@@ -2646,7 +2669,7 @@ If any record, report, electronic data or other document is examined or seized u
 
     respecting the review of orders under section `79`;
 
-    exempting, on any terms and conditions that are specified in the regulations, any person or class of persons, any cannabis or any class of cannabis or any cannabis accessory or any class of cannabis accessory from the application of any provision of this Act or the regulations;
+    exempting, on any terms and conditions that are specified in the regulations, any person or class of persons, any cannabis or any class of cannabis or any cannabis accessory or any class of cannabis accessory from the application of **all or** any **of the provisions** of this Act or of the regulations;
 
     specifying terms, expressions, logos, symbols or illustrations for the purposes of sections `19` and `28`;
 
@@ -2678,9 +2701,9 @@ If any record, report, electronic data or other document is examined or seized u
 
     the Minister of National Defence to designate military police;
 
-    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of any provision of Division 1 of Part 1 or of the regulations;
+    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of **all or** any **of the provisions** of Division 1 of Part 1 or of the regulations;
 
-    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of any provision of this Act or of the regulations;
+    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of **all or** any **of the provisions** of this Act or of the regulations;
 
     respecting the detention, storage and disposition of or other dealing with cannabis;
 
@@ -2696,9 +2719,9 @@ If any record, report, electronic data or other document is examined or seized u
 
     the Minister of National Defence to designate military police;
 
-    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of any provision of Division 1 of Part 1 or of the regulations;
+    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of **all or** any **of the provisions** of Division 1 of Part 1 or of the regulations;
 
-    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of any provision of Division 1 of Part 1 or of the regulations;
+    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of **all or** any **of the provisions** of Division 1 of Part 1 or of the regulations;
 
     respecting the detention, storage and disposition of or other dealing with cannabis;
 
@@ -2801,6 +2824,15 @@ The Minister may engage the services of persons having technical or specialized 
   **(4)** The Minister may, by order, amend Schedule 5 by adding or deleting, in column 1, the name of any substance or by adding or deleting, in column 2, the name of any class of cannabis in respect of any substance referred to in column 1.
 
 
+### Review and Report
+
+### Section 151.1
+
+  **(1)** Three years after this section comes into force, the Minister must cause a review of this Act and its administration and operation to be conducted.
+
+  **(2)** The Minister must cause a report of the review to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the review is completed.
+
+
 ## Transitional Provisions and Related, Consequential and Coordinating Amendments
 
 
@@ -2898,7 +2930,11 @@ Subject to regulations made under subsection `161`(1), all records, reports, ele
 
     if the licence applies, directly or indirectly, to cannabis and to opium poppy, it is deemed, in relation to its application to cannabis, to have been issued under section `62` of this Act and it continues in force until it is revoked or, if it is expressed to expire on a particular date, it continues in force until it expires, unless it is revoked before that date.
 
-  **(5)** Subject to regulations made under subsection `161`(1), every application for a licence under section 9.2 or 67 of the `Narcotic Control Regulations` or for a permit under section 10 of those Regulations in respect of which no final decision has been made before the commencement day is deemed to be an application for a licence or a permit, as the case may be, under section `62` of this Act.
+  **(5)** Subject to regulations made under subsection 161(1), **the following apply in respect of** every application for a licence under section 9.2 or 67 of the `Narcotic Control Regulations` or for a permit under section 10 of those Regulations in respect of which no final decision has been made before the commencement day:
+
+    **if the application relates solely to cannabis, it** is deemed to be an application **made** under section 62 of this Act; **and**
+
+    if the application relates, directly or indirectly, to cannabis and to any narcotic, as defined in subsection 2(1) of those Regulations, it is deemed, in relation to the cannabis, to be an application made under section 62 of this Act.
 
   **(6)** Subject to regulations made under subsection `161`(1), if regulations made under subsection `139`(1) that come into force on the commencement day provide for the issuance of registration numbers for test kits that contain cannabis,
 
@@ -2934,9 +2970,13 @@ Subject to regulations made under subsection `161`(1), all records, reports, ele
 
   **(1)** The definition usage du tabac in subsection 2(1) of the French version of the `Non-smokers' Health Act` is repealed.
 
+  **(1.1)** The definition **work space** in subsection 2(1) of the Act is replaced by the following:
+
+    **work space** means any indoor or other enclosed space — or any outdoor space or class of outdoor space designated in the regulations — in which employees perform the duties of their employment, and includes any adjacent corridor, lobby, stairwell, elevator, cafeteria, washroom or other common area — and any outdoor space or class of outdoor space designated in the regulations — that is frequented by employees during the course of their employment. (**lieu de travail**)
+
   **(2)** The definition smoke in subsection 2(1) of the English version of the Act is replaced by the following:
 
-    **smoke** means to smoke, hold or otherwise have control over an ignited tobacco product **or ignited cannabis**; (**fumer**)
+    **smoke** means to smoke, hold or otherwise have control over an ignited tobacco product or ignited cannabis; (**fumer**)
 
   **(3)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2952,13 +2992,19 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-Nothing in section 4 or 5 affects the operation of any other Act of Parliament, **any** regulations **made under any Act of Parliament**, or any rule of law in relation to the protection of persons from exposure to tobacco **or cannabis** smoke.
+Nothing in section 4 or 5 affects the operation of any other Act of Parliament, any regulations made under any Act of Parliament, or any rule of law in relation to the protection of persons from exposure to tobacco or cannabis smoke.
+
+### Section 163.1
+
+Subsection 7(1) of the Act is amended by adding the following after paragraph (b):
+
+designating outdoor spaces or classes of outdoor spaces for the purpose of the definition work space;
 
 ### Section 164
 
 Subsection 8.2(2) of the Act is replaced by the following:
 
-**(2)** On the recommendation of the Minister of Labour, the Governor in Council may make regulations respecting **smoking** in a workplace at which is carried on employment that is subject to a regulation made **under** subsection (1).
+**(2)** On the recommendation of the Minister of Labour, the Governor in Council may make regulations respecting smoking in a workplace at which is carried on employment that is subject to a regulation made under subsection (1).
 
 
 ### Consequential Amendments
@@ -2970,7 +3016,7 @@ Subsection 8.2(2) of the Act is replaced by the following:
 
 Subparagraph 7.2(a)(ii) of the `Criminal Records Act` is replaced by the following:
 
-any other offence under the `Criminal Code`, except subsection 255(1) — or under **the `Cannabis Act`**, the `Controlled Drugs and Substances Act`, the `Firearms Act`, Part III or IV of the `Food and Drugs Act` or the `Narcotic Control Act`, chapter N-1 of the Revised Statutes of Canada, 1985 — that is punishable either on conviction on indictment or on summary conviction; or
+any other offence under the `Criminal Code`, except subsection 255(1) — or under the `Cannabis Act`, the `Controlled Drugs and Substances Act`, the `Firearms Act`, Part III or IV of the `Food and Drugs Act` or the `Narcotic Control Act`, chapter N-1 of the Revised Statutes of Canada, 1985 — that is punishable either on conviction on indictment or on summary conviction; or
 
 
 #### `Identification of Criminals Act`
@@ -2981,7 +3027,7 @@ Paragraph 2(1)(c) of the `Identification of Criminals Act` is replaced by the fo
 
 any person alleged to have committed an indictable offence, other than
 
-an offence that is designated as a contravention under the `Contraventions Act` in respect of which the Attorney General, within the meaning of that Act, has made an election under section 50 of that Act, who is required **under** subsection 501(3) or 509(5) of the `Criminal Code` to appear for the purposes of this Act by an appearance notice, promise to appear, recognizance or summons; or
+an offence that is designated as a contravention under the `Contraventions Act` in respect of which the Attorney General, within the meaning of that Act, has made an election under section 50 of that Act, who is required under subsection 501(3) or 509(5) of the `Criminal Code` to appear for the purposes of this Act by an appearance notice, promise to appear, recognizance or summons; or
 
 an offence in respect of which proceedings were commenced by a peace officer under section 51 of the `Cannabis Act`.
 
@@ -3015,26 +3061,32 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
 Subsection 117(2) of the Act is replaced by the following:
 
-**(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, **cannabis**, raw leaf tobacco, excise stamps or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
+**(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, cannabis, raw leaf tobacco, excise stamps or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
 
 
 #### `Mutual Legal Assistance in Criminal Matters Act`
 
 ### Section 171
 
-  **(1)** Paragraph 9.4(6)(b) of the `Mutual Legal Assistance in Criminal Matters Act` is replaced by the following:
+  **(1)** **Paragraphs 9.3(4)(c) and (d)** of the `Mu­tual Legal Assistance in Criminal Matters Act` **are** replaced by the following:
 
-    an order for the forfeiture of offence-related property has the same effect as if it were an order under subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` **or subsection 94(1) or 95(2) of the `Cannabis Act`**, as the case may be.
+    an order for the seizure of offence-related property may be enforced as if it were a warrant issued under subsection 487(1) of the `Criminal Code`, subsection 11(1) of the `Controlled Drugs and Substances Act` or subsection 87(1) of the `Cannabis Act`, as the case may be; and
 
-  **(2)** Subparagraphs 9.4(8)(b)(i) and (ii) of the Act are replaced by the following:
+    an order for the restraint of offence-related property may be enforced as if it were an order made under subsection 490.8(3) of the `Criminal Code`, subsection 14(3) of the `Controlled Drugs and Substances Act` or subsection 91(3) of the `Cannabis Act`, as the case may be.
 
-    notice in accordance with subsection 490.41(2) of the `Criminal Code`, subsection 19.1(2) of the `Controlled Drugs and Substances Act` or **subsection 98(2) of the `Cannabis Act`** has been given to any person who resides in a dwelling-house that is offence-related property and who is a member of the immediate family of the person charged with or convicted of the offence in relation to which property would be forfeited, and
+  **(2)** Paragraph 9.4(6)(b) **of the Act** is replaced by the following:
 
-    notice in accordance with subsection 490.4(2) of the `Criminal Code`, subsection 19(2) of the `Controlled Drugs and Substances Act` or **subsection 97(2) of the `Cannabis Act`** has been given to any person who, in the opinion of the court, appears to have a valid interest in the property.
+    an order for the forfeiture of offence-related property has the same effect as if it were an order under subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` or subsection 94(1) or 95(2) of the `Cannabis Act`, as the case may be.
 
-  **(3)** Subsection 9.4(9) of the Act is replaced by the following:
+  **(**3**)** Subparagraphs 9.4(8)(b)(i) and (ii) of the Act are replaced by the following:
 
-    **(9)** Subsection 462.41(3) and section 462.42 of the `Criminal Code` apply, with any modifications that the circumstances require, to a person who claims an interest in proceeds of crime, and subsections 490.4(3) and 490.41(3) and section 490.5 of the `Criminal Code`, subsections 19(3) and 20(4) of the `Controlled Drugs and Substances Act` **and subsections 97(3) and 99(4) of the `Cannabis Act`** apply, with any modifications that the circumstances require, to a person who claims an interest in offence-related property.
+    notice in accordance with subsection 490.41(2) of the `Criminal Code`, subsection 19.1(2) of the `Controlled Drugs and Substances Act` or subsection 98(2) of the `Cannabis Act` has been given to any person who resides in a dwelling-house that is offence-related property and who is a member of the immediate family of the person charged with or convicted of the offence in relation to which property would be forfeited, and
+
+    notice in accordance with subsection 490.4(2) of the `Criminal Code`, subsection 19(2) of the `Controlled Drugs and Substances Act` or subsection 97(2) of the `Cannabis Act` has been given to any person who, in the opinion of the court, appears to have a valid interest in the property.
+
+  **(**4**)** Subsection 9.4(9) of the Act is replaced by the following:
+
+    **(9)** Subsection 462.41(3) and section 462.42 of the `Criminal Code` apply, with any modifications that the circumstances require, to a person who claims an interest in proceeds of crime, and subsections 490.4(3) and 490.41(3) and section 490.5 of the `Criminal Code`, subsections 19(3) and 20(4) of the `Controlled Drugs and Substances Act` and subsections 97(3) and 99(4) of the `Cannabis Act` apply, with any modifications that the circumstances require, to a person who claims an interest in offence-related property.
 
 
 #### `Corrections and Conditional Release Act`
@@ -3059,9 +3111,9 @@ section 13 (possession, etc., for use in production or distribution of illicit c
 
 section 14 (use of young person).
 
-### Section **5**
+### Section 5
 
-The offence of conspiring, as provided by paragraph 465(1)(c) of the `Criminal Code`, to commit any of the offences referred to in items 1 to **4** of this schedule **that was prosecuted by way of indictment**.
+The offence of conspiring, as provided by paragraph 465(1)(c) of the `Criminal Code`, to commit any of the offences referred to in items 1 to 4 of this schedule that was prosecuted by way of indictment.
 
 
 #### `Seized Property Management Act`
@@ -3070,27 +3122,27 @@ The offence of conspiring, as provided by paragraph 465(1)(c) of the `Criminal C
 
 The definitions **offence-related property** and **restrained property** in section 2 of the `Seized Property Management Act` are replaced by the following:
 
-**offence-related property** has the meaning given that expression by subsection 2(1) of the `Controlled Drugs and Substances Act` **or by subsection 2(1) of the `Cannabis Act`**; (**biens infractionnels**)
+**offence-related property** has the meaning given that expression by subsection 2(1) of the `Controlled Drugs and Substances Act` or by subsection 2(1) of the `Cannabis Act`; (**biens infractionnels**)
 
-**restrained property** means any property that is the subject of a restraint order made under section 83.13, 462.33 or 490.8 of the `Criminal Code`, section 14 of the `Controlled Drugs and Substances Act` **or section 91 of the `Cannabis Act`**; (**biens bloqués**)
+**restrained property** means any property that is the subject of a restraint order made under section 83.13, 462.33 or 490.8 of the `Criminal Code`, section 14 of the `Controlled Drugs and Substances Act` or section 91 of the `Cannabis Act`; (**biens bloqués**)
 
 ### Section 174
 
 Subparagraph 3(b)(iii) of the Act is replaced by the following:
 
-restrained **under** a restraint order made under section 83.13, 462.33 or 490.8 of the `Criminal Code`, section 14 of the `Controlled Drugs and Substances Act` **or section 91 of the `Cannabis Act`**, or
+restrained under a restraint order made under section 83.13, 462.33 or 490.8 of the `Criminal Code`, section 14 of the `Controlled Drugs and Substances Act` or section 91 of the `Cannabis Act`, or
 
 ### Section 175
 
   **(1)** Paragraphs 4(1)(a) and (b) of the Act are replaced by the following:
 
-    seized under a warrant issued under section 83.13, 462.32 or 487 of the `Criminal Code`, section 11 of the `Controlled Drugs and Substances Act` **or section 87 of the `Cannabis Act`** on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the `Criminal Code`, subsection 14.1(2) of the `Controlled Drugs and Substances Act` or **subsection 93(2) of the `Cannabis Act`**, as the case may be;
+    seized under a warrant issued under section 83.13, 462.32 or 487 of the `Criminal Code`, section 11 of the `Controlled Drugs and Substances Act` or section 87 of the `Cannabis Act` on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the `Criminal Code`, subsection 14.1(2) of the `Controlled Drugs and Substances Act` or subsection 93(2) of the `Cannabis Act`, as the case may be;
 
-    subject to a restraint order made under section 83.13, 462.33 or 490.8 of the `Criminal Code`, section 14 of the `Controlled Drugs and Substances Act` **or section 91 of the `Cannabis Act`** on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the `Criminal Code`, subsection 14.1(2) of the `Controlled Drugs and Substances Act` or **subsection 93(2) of the `Cannabis Act`**, as the case may be;
+    subject to a restraint order made under section 83.13, 462.33 or 490.8 of the `Criminal Code`, section 14 of the `Controlled Drugs and Substances Act` or section 91 of the `Cannabis Act` on the application of the Attorney General and that the Minister is appointed to manage under subsection 83.13(3), 462.331(2) or 490.81(2) of the `Criminal Code`, subsection 14.1(2) of the `Controlled Drugs and Substances Act` or subsection 93(2) of the `Cannabis Act`, as the case may be;
 
   **(2)** Subsection 4(4) of the Act is replaced by the following:
 
-    **(4)** Nothing in this section precludes the operation of the `Criminal Code`, the `Controlled Drugs and Substances Act`, **the `Cannabis Act`** or any other Act of Parliament in respect of any property that is in the possession or under the control of the Minister.
+    **(4)** Nothing in this section precludes the operation of the `Criminal Code`, the `Controlled Drugs and Substances Act`, the `Cannabis Act` or any other Act of Parliament in respect of any property that is in the possession or under the control of the Minister.
 
 ### Section 176
 
@@ -3098,7 +3150,7 @@ Subsection 5(1) of the Act is replaced by the following:
 
 ### Section 5
 
-  **(1)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2), 462.331(1) or 490.81(1) of the `Criminal Code`, subsection 14.1(1) of the `Controlled Drugs and Substances Act`, **subsection 93(1) of the `Cannabis Act`** or subsection 7(1) of this Act shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property or any part of the property that is needed as evidence or is necessary for the purposes of an investigation.
+  **(1)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2), 462.331(1) or 490.81(1) of the `Criminal Code`, subsection 14.1(1) of the `Controlled Drugs and Substances Act`, subsection 93(1) of the `Cannabis Act` or subsection 7(1) of this Act shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property or any part of the property that is needed as evidence or is necessary for the purposes of an investigation.
 
 ### Section 177
 
@@ -3106,25 +3158,25 @@ Subsection 6(1) of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** The Attorney General, or any other person with the written consent of the Attorney General, may apply to any judge or justice for a management order in respect of any seized property, other than a controlled substance**as defined in subsection 2(1) of the** `Controlled Drugs and Substances Act` **or cannabis as defined in subsection 2(1) of the `Cannabis Act`**.
+  **(1)** The Attorney General, or any other person with the written consent of the Attorney General, may apply to any judge or justice for a management order in respect of any seized property, other than a controlled substanceas defined in subsection 2(1) of the `Controlled Drugs and Substances Act` or cannabis as defined in subsection 2(1) of the `Cannabis Act`.
 
 ### Section 178
 
 The portion of paragraph 9(b) of the Act before subparagraph (i) is replaced by the following:
 
-subject to the `Criminal Code`, the `Controlled Drugs and Substances Act`, **the `Cannabis Act`** and any other Act of Parliament, manage any property referred to in any of subsections 4(1) to (3) in **the** manner **that** the Minister considers appropriate including, without restricting the generality of the foregoing, by advancing money at a commercial rate of interest to
+subject to the `Criminal Code`, the `Controlled Drugs and Substances Act`, the `Cannabis Act` and any other Act of Parliament, manage any property referred to in any of subsections 4(1) to (3) in the manner that the Minister considers appropriate including, without restricting the generality of the foregoing, by advancing money at a commercial rate of interest to
 
 ### Section 179
 
 Paragraph 10(1)(a) of the Act is replaced by the following:
 
-the forfeiture to Her Majesty of property **under** section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` **or subsection 94(1) or 95(2) of the `Cannabis Act`**,
+the forfeiture to Her Majesty of property under section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` or subsection 94(1) or 95(2) of the `Cannabis Act`,
 
 ### Section 180
 
 Subparagraph 11(a)(i) of the Act is replaced by the following:
 
-property forfeited to Her Majesty **under** section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` **or subsection 94(1) or 95(2) of the `Cannabis Act`**, or
+property forfeited to Her Majesty under section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` or subsection 94(1) or 95(2) of the `Cannabis Act`, or
 
 ### Section 181
 
@@ -3132,7 +3184,7 @@ Section 14 of the Act is replaced by the following:
 
 ### Section 14
 
-If the proceeds of disposition available to Her Majesty from the forfeiture of any property **under** subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` **or subsection 94(1) or 95(2) of the `Cannabis Act`** are insufficient to cover the outstanding amounts charged to the Working Capital Account **under** subsection 12(2), and any interest on it, in respect of the property, there **is to** be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
+If the proceeds of disposition available to Her Majesty from the forfeiture of any property under subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` or subsection 94(1) or 95(2) of the `Cannabis Act` are insufficient to cover the outstanding amounts charged to the Working Capital Account under subsection 12(2), and any interest on it, in respect of the property, there is to be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
 
 
 #### `Firearms Act`
@@ -3198,7 +3250,7 @@ Cannabis as defined in subsection 2(1) of the `Cannabis Act`.
 
 The definition **offence** in section 2 of the `Canadian Victims Bill of Rights` is replaced by the following:
 
-**offence** means an offence under the `Criminal Code`, the `Youth Criminal Justice Act` or the `Crimes Against Humanity and War Crimes Act`, a designated substance offence as defined in subsection 2(1) of the `Controlled Drugs and Substances Act`, **a designated offence as defined in subsection 2(1) of the `Cannabis Act`** or an offence under section 91 or Part 3 of the `Immigration and Refugee Protection Act`. (**infraction**)
+**offence** means an offence under the `Criminal Code`, the `Youth Criminal Justice Act` or the `Crimes Against Humanity and War Crimes Act`, a designated substance offence as defined in subsection 2(1) of the `Controlled Drugs and Substances Act`, a designated offence as defined in subsection 2(1) of the `Cannabis Act` or an offence under section 91 or Part 3 of the `Immigration and Refugee Protection Act`. (**infraction**)
 
 
 ### Coordinating Amendments
@@ -3314,6 +3366,13 @@ If a bill introduced in the 1st session of the 42nd Parliament and entitled `An 
 an offence under the `Criminal Code` other than an offence under subsection 320.14(1) or 320.15(1) of that Act — or under the `Cannabis Act`, the `Controlled Drugs and Substances Act`, the `Firearms Act`, Part III or IV of the `Food and Drugs Act` or the `Narcotic Control Act`, chapter N-1 of the Revised Statutes of Canada, 1985 — that is punishable either on conviction on indictment or on summary conviction; or
 
 
+## Cannabis Act
+
+### Section 193.1
+
+Schedule 4 to the `Cannabis Act` is amended by adding the following in numerical order:
+
+
 ## `Controlled Drugs and Substances Act`
 
 
@@ -3332,6 +3391,22 @@ Subsection 2(1) of the `Controlled Drugs and Substances Act` is amended by addin
   **(1)** Subsection 4(5) of the Act is repealed.
 
   **(2)** Subsection 4(8) of the Act is repealed.
+
+### Section 195.1
+
+Section 4.1 of the Act is replaced by the following:
+
+### Section 4.1
+
+  **(1)** For the purposes of this section, **medical emergency** means a physiological event induced by the introduction of a psychoactive substance into the body of a person that results in a life-threatening situation and in respect of which there are reasonable grounds to believe that the person requires emergency medical or law enforcement assistance.
+
+  **(2)** No person who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from a medical emergency is to be charged or convicted of an offence under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assist­ance or having remained at the scene.
+
+  **(3)** The exemption under subsection (2) also applies to any person, including the person suffering from the medical emergency, who is at the scene on the arrival of the emergency medical or law enforcement assistance.
+
+  **(4)** No person who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from a medical emergency, or who is at the scene on the arrival of the assistance, is to be charged with an offence concerning a violation of any condition of a pre-trial release or probation order relating to an offence under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
+
+  **(5)** Any condition of a person's pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) that may be violated as a result of the person seeking emergency medical or law enforcement assistance for their, or another person's, medical emergency, or as a result of having been at the scene on the arrival of the assistance, is deemed not to be violated.
 
 ### Section 196
 
@@ -3353,13 +3428,13 @@ Subsection 2(1) of the `Controlled Drugs and Substances Act` is amended by addin
 
   **(3)** The portion of subsection 7(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The following factors must be taken into account in applying paragraphs (2)(a) **and (a.1)**:
+    **(3)** The following factors must be taken into account in applying paragraphs (2)(a) and (a.1):
 
 ### Section 198
 
 Paragraph 10(2)(b) of the Act is replaced by the following:
 
-was previously convicted of a designated substance offence, **as defined in subsection 2(1) of this Act, or a designated offence, as defined in subsection 2(1) of the `Cannabis Act`**.
+was previously convicted of a designated substance offence, as defined in subsection 2(1) of this Act, or a designated offence, as defined in subsection 2(1) of the `Cannabis Act`.
 
 ### Section 199
 
@@ -3373,9 +3448,9 @@ was previously convicted of a designated substance offence, **as defined in subs
 
 Paragraphs 46(a) and (b) of the Act are replaced by the following:
 
-is guilty of an indictable offence and liable to a fine **of not more than $5,000,000** or to imprisonment for a term not exceeding three years, or to both; or
+is guilty of an indictable offence and liable to a fine of not more than $5,000,000 or to imprisonment for a term not exceeding three years, or to both; or
 
-is guilty of an offence punishable on summary conviction and liable, **for a first offence,** to a fine **of not more than $250,000** or imprisonment for a term of not more than six months, or to both, **and, for any subsequent offence, to a fine of not more than $500,000 or imprisonment for a term of not more than 18 months, or to both.**
+is guilty of an offence punishable on summary conviction and liable, for a first offence, to a fine of not more than $250,000 or imprisonment for a term of not more than six months, or to both, and, for any subsequent offence, to a fine of not more than $500,000 or imprisonment for a term of not more than 18 months, or to both.
 
 ### Section 201
 
@@ -3383,7 +3458,7 @@ Subsection 50(1) of the Act is replaced by the following:
 
 ### Section 50
 
-  **(1)** Subject to subsection (2), any certificate or other document issued **under** regulations made under paragraph 55(2)(c) **or (2.1)(c)** is admissible in evidence in a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament and, in the absence of evidence to the contrary, is proof that the certificate or other document was validly issued and of the facts contained in it, without proof of the signature or official character of the person purporting to have certified it.
+  **(1)** Subject to subsection (2), any certificate or other document issued under regulations made under paragraph 55(2)(c) or (2.1)(c) is admissible in evidence in a preliminary inquiry, trial or other proceeding under this or any other Act of Parliament and, in the absence of evidence to the contrary, is proof that the certificate or other document was validly issued and of the facts contained in it, without proof of the signature or official character of the person purporting to have certified it.
 
 ### Section 202
 
@@ -3402,7 +3477,7 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 60
 
-The Governor in Council may, by order, amend any of Schedules I to **VI** by adding to them or deleting from them any item or portion of an item, **if** the Governor in Council **considers** the amendment to be necessary in the public interest.
+The Governor in Council may, by order, amend any of Schedules I to VI by adding to them or deleting from them any item or portion of an item, if the Governor in Council considers the amendment to be necessary in the public interest.
 
 ### Section 204
 
@@ -3410,7 +3485,7 @@ The Governor in Council may, by order, amend any of Schedules I to **VI** by add
 
   **(2)** The portion of item 2 of Schedule II to the Act before subitem (1) is replaced by the following:
 
-    Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of **any substance that is identical to any phytocannabinoid and with the exception of** ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
+    Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of any substance that is identical to any phytocannabinoid and with the exception of ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
 
 ### Section 205
 
@@ -3447,7 +3522,7 @@ Schedules VII and VIII to the Act are repealed.
 
 Subsection 25.1(14) of the `Criminal Code` is replaced by the following:
 
-**(14)** Nothing in this section justifies a public officer or a person acting at his or her direction in committing an act or omission — or a public officer in directing the commission of an act or omission — that constitutes an offence under a provision of Part I of the `Controlled Drugs and Substances Act` or of the regulations made under it **or a provision of Division 1 of Part 1 of the `Cannabis Act`**.
+**(14)** Nothing in this section justifies a public officer or a person acting at his or her direction in committing an act or omission — or a public officer in directing the commission of an act or omission — that constitutes an offence under a provision of Part I of the `Controlled Drugs and Substances Act` or of the regulations made under it or a provision of Division 1 of Part 1 of the `Cannabis Act`.
 
 ### Section 208
 
@@ -3459,7 +3534,7 @@ an offence relating to the contravention of subsection 9(1) or (2), 10(1) or (2)
 
 Paragraph 110(1)(a) of the Act is replaced by the following:
 
-an offence, other than an offence referred to in any of paragraphs 109(1)(a) to **(c.1)**, in the commission of which violence against a person was used, threatened or attempted, or
+an offence, other than an offence referred to in any of paragraphs 109(1)(a) to (c.1), in the commission of which violence against a person was used, threatened or attempted, or
 
 ### Section 210
 
@@ -3489,7 +3564,7 @@ The portion of subsection 462.331(1) of the Act before paragraph (a) is replaced
 
 ### Section 462.331
 
-  **(1)** With respect to property seized under section 462.32 or restrained under section 462.33, other than a controlled substance, within the meaning of the `Controlled Drugs and Substances Act`, **or cannabis, as defined in subsection 2(1) of the `Cannabis Act`**, on application of the Attorney General or of any other person with the written consent of the Attorney General, **if** a judge is of the opinion that the circumstances so require, the judge may
+  **(1)** With respect to property seized under section 462.32 or restrained under section 462.33, other than a controlled substance, within the meaning of the `Controlled Drugs and Substances Act`, or cannabis, as defined in subsection 2(1) of the `Cannabis Act`, on application of the Attorney General or of any other person with the written consent of the Attorney General, if a judge is of the opinion that the circumstances so require, the judge may
 
 ### Section 213
 
@@ -3497,7 +3572,7 @@ Section 462.341 of the Act is replaced by the following:
 
 ### Section 462.341
 
-Subsection 462.34(2), paragraph 462.34(4)(c) and subsections 462.34(5), (5.1) and (5.2) apply, with any modifications that the circumstances require, to a person who has an interest in money or bank-notes that are seized under this Act, the `Controlled Drugs and Substances Act` **or the `Cannabis Act`** and in respect of which proceedings may be taken under subsection 462.37(1) or (2.01) or 462.38(2).
+Subsection 462.34(2), paragraph 462.34(4)(c) and subsections 462.34(5), (5.1) and (5.2) apply, with any modifications that the circumstances require, to a person who has an interest in money or bank-notes that are seized under this Act, the `Controlled Drugs and Substances Act` or the `Cannabis Act` and in respect of which proceedings may be taken under subsection 462.37(1) or (2.01) or 462.38(2).
 
 ### Section 214
 
@@ -3511,7 +3586,7 @@ Subsection 462.48(1) of the Act is amended by striking out "or" at the end of pa
 
 an offence under Division 1 of Part 1 of the `Cannabis Act`, except subsection 8(1) of that Act; or
 
-a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a) **or (a.1)**.
+a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a) or (a.1).
 
 ### Section 216
 
@@ -3537,7 +3612,7 @@ The portion of subsection 490.81(1) of the Act before paragraph (a) is replaced 
 
 ### Section 490.81
 
-  **(1)** With respect to offence-related property other than a controlled substance within the meaning of the `Controlled Drugs and Substances Act` **or cannabis as defined in subsection 2(1) of the `Cannabis Act`**, on application of the Attorney General or of any other person with the written consent of the Attorney General, a judge or justice in the case of offence-related property seized under section 487, or a judge in the case of offence-related property restrained under section 490.8, may, **if** he or she is of the opinion that the circumstances so require,
+  **(1)** With respect to offence-related property other than a controlled substance within the meaning of the `Controlled Drugs and Substances Act` or cannabis as defined in subsection 2(1) of the `Cannabis Act`, on application of the Attorney General or of any other person with the written consent of the Attorney General, a judge or justice in the case of offence-related property seized under section 487, or a judge in the case of offence-related property restrained under section 490.8, may, if he or she is of the opinion that the circumstances so require,
 
 ### Section 218
 
@@ -3559,7 +3634,7 @@ an order made under subsection 94(1) of the `Cannabis Act`; (**sentence**, **p
 
 Subsection 729(2) of the Act is replaced by the following:
 
-**(2)** In this section, **analyst** means a person designated as an analyst under the `Controlled Drugs and Substances Act` **or the `Cannabis Act`**.
+**(2)** In this section, **analyst** means a person designated as an analyst under the `Controlled Drugs and Substances Act` or the `Cannabis Act`.
 
 ### Section 222
 
@@ -3567,7 +3642,7 @@ Subsection 737(1) of the Act is replaced by the following:
 
 ### Section 737
 
-  **(1)** An offender who is convicted, or discharged under section 730, of an offence under this Act, the `Controlled Drugs and Substances Act` **or the `Cannabis Act`** shall pay a victim surcharge, in addition to any other punishment imposed on the offender.
+  **(1)** An offender who is convicted, or discharged under section 730, of an offence under this Act, the `Controlled Drugs and Substances Act` or the `Cannabis Act` shall pay a victim surcharge, in addition to any other punishment imposed on the offender.
 
 ### Section 223
 
@@ -3583,7 +3658,7 @@ an order made under subsection 94(1) of the `Cannabis Act`; (**sentence**, **p
 
   **(2)** Subparagraph (b)(v) of Form 5.04 in Part XXVIII of the Act is replaced by the following:
 
-    (v) an attempt or a conspiracy to commit an offence referred to in **any of subparagraphs** (i) **to** (ii) that was prosecuted by indictment (*or, if applicable,* an attempt or a conspiracy to commit an offence referred to in subparagraph (iii) or (iv));
+    (v) an attempt or a conspiracy to commit an offence referred to in any of subparagraphs (i) to (ii) that was prosecuted by indictment (*or, if applicable,* an attempt or a conspiracy to commit an offence referred to in subparagraph (iii) or (iv));
 
 
 ### Coordinating Amendment
@@ -3607,7 +3682,9 @@ On the first day on which both section 4 of `An Act to amend the Criminal Code (
 
 ### Section 226
 
-The provisions of this Act, except sections `161`, `188` to `194`, `199` to `202`, `206` and `225`, come into force on a day or days to be fixed by order of the Governor in Council.
+  ****(1)**** **Subject to subsection (2),** the provisions of this Act, except sections 161, 188 to **193,** 194, 199 to 202, 206 and 225, come into force on a day or days to be fixed by order of the Governor in Council.
+
+  **(2)** If section 193.1 does not come into force by order before the first anniversary of the day on which section 33 comes into force, section 193.1 comes into force on the first anniversary of the day on which section 33 comes into force.
 
 Any part of a cannabis plant, including the phytocannabinoids produced by, or found in, such a plant, regardless of whether that part has been processed or not, other than a part of the plant referred to in Schedule 2
 
