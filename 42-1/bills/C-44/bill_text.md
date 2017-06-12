@@ -1,7 +1,5 @@
 # Bill C-44: An Act to implement certain provisions of the budget tabled in Parliament on March 22, 2017 and other measures
 
-**Sponsor**: MINISTER OF FINANCE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on March 22, 2017 and other measures*".
 
 ## Summary
@@ -2756,13 +2754,9 @@ Sections 79.1 to 79.5 provide for an independent and non-partisan Parliamentary 
 
 ### Section 79.12
 
-[*Deleted*]
-
-### Section 79.13
-
 The Parliamentary Budget Officer and the Parliamentary Librarian shall take all reasonable steps to cooperate with each other to avoid any unnecessary duplication of resources and services provided to parliamentary committees and members of the Senate and the House of Commons.
 
-### Section 79.14
+### Section 79.13
 
   **(1)** Before each fiscal year, the Parliamentary Budget Officer shall prepare an annual work plan for that year that includes
 
@@ -2806,13 +2800,13 @@ The Parliamentary Budget Officer and the Parliamentary Librarian shall take all 
 
     shall, if requested to do so by a committee of the Senate or of the House of Commons, or a committee of both Houses, estimate the financial cost of any proposal that relates to a matter over which Parliament has jurisdiction; and
 
-    shall, if requested to do so by a member of the Senate or of the House of Commons, estimate the financial cost of any proposal that **relates to a matter over which Parliament has jurisdiction**.
+    shall, if requested to do so by a member of the Senate or of the House of Commons, estimate the financial cost of any proposal that relates to a matter over which Parliament has jurisdiction.
 
-  **(2)** The Parliamentary Budget Officer shall provide any report prepared under paragraph (1)(a) or (b) to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides. The Parliamentary Budget Officer **shall** make the report available to the public one business day after the day on which the report is provided to the Speaker of the Senate and the Speaker of the House of Commons.
+  **(2)** The Parliamentary Budget Officer shall provide any report prepared under paragraph (1)(a) or (b) to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides. The Parliamentary Budget Officer shall make the report available to the public one business day after the day on which the report is provided to the Speaker of the Senate and the Speaker of the House of Commons.
 
-  **(3)** The Parliamentary Budget Officer shall provide a report containing the research and analysis or estimate requested by a committee under paragraph (1)(c), (d) or (e) to the chair of the committee that requested it. The Parliamentary Budget Officer **shall** make the report available to the public one business day after the day on which the report is provided to the chair of the committee that requested it.
+  **(3)** The Parliamentary Budget Officer shall provide a report containing the research and analysis or estimate requested by a committee under paragraph (1)(c), (d) or (e) to the chair of the committee that requested it. The Parliamentary Budget Officer shall make the report available to the public one business day after the day on which the report is provided to the chair of the committee that requested it.
 
-  **(4)** The Parliamentary Budget Officer shall provide a report containing the estimate requested under paragraph (1)(f) to the member of the Senate or of the House of Commons who requested it. The Parliamentary Budget Officer **shall** make the report available to the public one business day after the day on which the report is provided to the member.
+  **(4)** The Parliamentary Budget Officer shall provide a report containing the estimate requested under paragraph (1)(f) to the member of the Senate or of the House of Commons who requested it. The Parliamentary Budget Officer shall make the report available to the public one business day after the day on which the report is provided to the member.
 
   **(5)** If Parliament is dissolved before a report is provided to the chair of the committee or to the member under subsection (3) or (4), the Parliamentary Budget Officer shall discontinue work on the request.
 
@@ -2870,7 +2864,7 @@ The Parliamentary Budget Officer shall, within three months after the end of eac
 
 ### Section 79.3
 
-The following definitions apply in sections 79.4 **to** 79.5.
+The following definitions apply in sections 79.4 to 79.5.
 
 **department** has the same meaning as in any of paragraphs (a), (a.1) and (d) of the definition department in section 2 of the `Financial Administration Act`. (**minis-tère**)
 
