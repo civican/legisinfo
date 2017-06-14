@@ -33,7 +33,7 @@ In this Act, ***Minister*** means the Minister of Employment and Social Developm
 
 ### Section 3
 
-  **(1)** The Minister must, in collaboration with other federal ministers and with representatives of the provincial and territorial governments responsible for employment and other relevant stakeholders, conduct consultations on the prospect of developing a national maternity assist-ance program to support women who are unable to work due to pregnancy and whose employer is unable to accommodate them by providing reassignment. The consultations **should** include an assessment of
+  **(1)** The Minister must, in collaboration with other federal ministers and with representatives of the provincial and territorial governments responsible for employment and other relevant stakeholders, conduct consultations on the prospect of developing a national maternity assist-ance program to support women who are unable to work due to pregnancy and whose employer is unable to accommodate them by providing reassignment. The consultations should include an assessment of
 
     the current demand for a national maternity as-sistance program;
 
@@ -47,23 +47,11 @@ In this Act, ***Minister*** means the Minister of Employment and Social Developm
 
     the different types of workplaces in Canada in relation to gender equality and the impact of a national maternity assistance program on workplace gender equality.
 
-  **(2)** The Minister must, in collaboration with other federal ministers, within a year after the day on which this Act comes into force, hold consultations **to which** representatives of the provincial and territorial governments responsible for employment and other relevant stakeholders **are invited to participate,** for the purpose of discussing the development of a strategy to implement a national maternity assistance program.
+  **(2)** The Minister must, in collaboration with other federal ministers, within a year after the day on which this Act comes into force, hold consultations to which representatives of the provincial and territorial governments responsible for employment and other relevant stakeholders are invited to participate, for the purpose of discussing the development of a strategy to implement a national maternity assistance program.
 
 ### Section 4
 
-  **(1)** The Minister must cause a copy of a report setting out the conclusions of the consultations on a national maternity assistance program to be laid before each House of Parliament within **three** years after the day on which this Act comes into force.
+  **(1)** The Minister must cause a copy of a report setting out the conclusions of the consultations on a national maternity assistance program to be laid before each House of Parliament within three years after the day on which this Act comes into force.
 
   **(2)** The Minister must post the report on the departmental Web site within 30 days after the day on which the report is tabled in Parliament.
-
-### Section 5
-
-[*Deleted*]
-
-### Section 6
-
-[*Deleted*]
-
-### Section 7
-
-[*Deleted*]
 
