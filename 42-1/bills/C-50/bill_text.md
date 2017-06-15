@@ -19,13 +19,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 The definitions **leadership campaign expense** and **nomination campaign expense** in subsection 2(1) of the `Canada Elections Act` are repealed.
 
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **leadership campaign expense** means an expense reasonably incurred by or on behalf of a leadership contestant during a leadership contest as an incidence of the contest, including a personal expense as defined in section 478. (**dépense de campagne à la direction**)
-> > **nomination campaign expense** means an expense reasonably incurred by or on behalf of a nomination contestant during a nomination contest as an incidence of the contest, including a personal expense as defined in section 476. (**dépense de campagne d'investiture**)
-
 ### Section 2
 
 The Act is amended by adding the following after section 384:
@@ -48,7 +41,7 @@ The Act is amended by adding the following after section 384:
 
     that is attended by
 
-    a leader, interim leader or leadership contestant of a registered party described in subparagraph (a)(i), or a minister of the Crown or minister of state, and
+    a leader, interim leader or leadership contestant of **the** registered party **for whose financial benefit the event is organized or the registered party** described in subparagraph (a)(**ii**), or a minister of the Crown or minister of state **who is** a **member of the registered party for whose financial benefit the event is organized or the registered party described in that subparagraph**, and
 
     at least one person who, in order to attend it, is required
 
@@ -89,6 +82,8 @@ The Act is amended by adding the following after section 384:
 
   **(4)** If at least one person or entity referred to in subsection (3) complies with the obligation under that subsection — to provide information to the registered party in time for the registered party to be able to publish it — the registered party shall publish that information in a prominent location on its Internet site for the period beginning five days before the day the regulated fundraising event takes place and ending at the time the event starts.
 
+  **(4.1)** If a registered party is required to publish information under subsection (1) or (4), it shall also notify the Chief Electoral Officer of the regulated fundraising event no later than five days before the day the event takes place.
+
   **(5)** If a registered party referred to in subsection (1) or (4) becomes aware, after publishing information under this section, of any change to that information, the registered party shall replace the old information on its Internet site with the new information as soon as feasible after becoming aware of the change.
 
   **(6)** If a person or entity referred to in subsection (3) becomes aware, after providing information to a registered party under this section, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
@@ -99,7 +94,7 @@ The Act is amended by adding the following after section 384:
 
 ### Section 384.3
 
-  **(1)** If a registered party organizes all or part of a regulated fundraising event for its own financial benefit or for the financial benefit of one of its registered associations, nomination contestants, candidates or leadership contestants, the registered party's chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event within 30 days after the day the event takes place.
+  **(1)** If a registered party organizes all or part of a regulated fundraising event for its own financial benefit or for the financial benefit of one of its registered associations, nomination contestants, candidates or leadership contestants, the registered party's chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event.
 
   **(2)** Subject to subsection (3), the report referred to in subsection (1) shall set out the following:
 
@@ -119,6 +114,8 @@ The Act is amended by adding the following after section 384:
 
     any person who was under 18 years of age on the day on which the event took place;
 
+    any person who attended the event solely to assist a person with a disability;
+
     any person who attended the event solely because they were employed in the organization of the event;
 
     any of the following persons who attended the event solely in the course of their employment:
@@ -131,21 +128,29 @@ The Act is amended by adding the following after section 384:
 
   **(4)** If a regulated fundraising event is organized entirely by one or more persons or entities other than the registered party for whose financial benefit the event is organized, or for the financial benefit of whose registered association, nomination contestant, candidate or leadership contestant the event is organized, each person or entity that organizes the event or any part of it shall, subject to subsection (5), provide the information set out in subsection (2) to the registered party in time for the registered party's chief agent to be able to provide the Chief Electoral Officer with a report on the event as required under subsection (6).
 
-  **(5)** No person or entity referred to in subsection (4) shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
+  **(4.1)** If a person or entity referred to in subsection (4) becomes aware, after providing information to a registered party under that subsection or this subsection, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
 
-  **(6)** If at least one person or entity referred to in subsection (4) complies with the obligation under that subsection — to provide information to the registered party in time for the registered party's chief agent to be able to provide the Chief Electoral Officer with the report — that chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event setting out that information within 30 days after the day the event takes place.
+  **(5)** No person or entity referred to in subsection (4) **or (4.1)** shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
 
-  **(7)** Subsections (1) to (6) do not apply in respect of a regulated fundraising event that takes place during the election period of a general election.
+  **(6)** If at least one person or entity referred to in subsection (4) complies with the obligation under that subsection — to provide information to the registered party in time for the registered party's chief agent to be able to provide the Chief Electoral Officer with the report — that chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event setting out that information.
 
-  **(8)** Within 60 days after polling day at a general election, a registered party's chief agent shall provide the Chief Electoral Officer with a single report, in the prescribed form, on all the regulated fundraising events that were held during the election period for that general election and
+  ****(6.1)**** **The registered party's chief agent shall provide the Chief Electoral Officer with the reports referred to in subsections (1) and (6)** within 30 days after the day the **regulated fundraising** event takes place.
+
+  **(7)** Subsections (1) to (**6.1**) do not apply in respect of a regulated fundraising event that takes place during the election period of a general election.
+
+  **(8)** A registered party's chief agent shall provide the Chief Electoral Officer with a single report, in the prescribed form, on all the regulated fundraising events that were held during the election period for a general election and
 
     all or part of which were organized by the registered party for its own financial benefit or for the financial benefit of one of its registered associations, nomination contestants, candidates or leadership contestants; or
 
     in respect of which at least one person or entity that organized the event or any part of it complied with the obligation under subsection (9).
 
+  ****(8.1)**** **The registered party's chief agent shall provide the Chief Electoral Officer with the report referred to in subsection (8)** within 60 days after polling day at **the** general election.
+
   **(9)** If a regulated fundraising event that was held during the election period for a general election was organized entirely by one or more persons or entities other than the registered party for whose financial benefit the event was organized, or for the financial benefit of whose registered association, nomination contestant, candidate or leadership contestant the event was organized, each person or entity that organized the event or any part of it shall, subject to subsection (10), provide the information set out in subsection (2) to the registered party in time for the registered party's chief agent to be able to provide the Chief Electoral Officer with the report as required under subsection (8).
 
-  **(10)** No person or entity referred to in subsection (9) shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
+  **(9.1)** If a person or entity referred to in subsection (9) becomes aware, after providing information to a registered party under that subsection or this subsection, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
+
+  **(10)** No person or entity referred to in subsection (9) **or (9.1)** shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
 
   **(11)** Subject to subsection (12), the report referred to in subsection (8) shall set out the information referred to in subsection (2) for each regulated fundraising event referred to in subsection (8).
 
@@ -213,10 +218,6 @@ The Chief Electoral Officer may correct a report referred to in subsection 384.3
 
   **(5)** The order may require that the applicant satisfy any condition that the judge considers necessary for carrying out the purposes of this Act.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 3
 
 The Act is amended by adding the following after section 476:
@@ -255,23 +256,13 @@ a fee of any auditor appointed under subsection 476.77(1).
 
   **(3)** In this section, **cost incurred** means an expense that is incurred by a nomination contestant, whether it is paid or unpaid.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 4
 
 The portion of section 476.67 of the Act before paragraph (a) is replaced by the following:
 
 ### Section 476.67
 
-The limit for nomination **contest** expenses that is allowed for a nomination contestant in an electoral district is the amount
-
-
-> **Explanatory Note**:
-> Relevant portion of section 476.67:
-> *Existing Text*:
-> > The limit for nomination campaign expenses — other than personal expenses — that is allowed for a nomination contestant in an electoral district is the amount
+The limit for nomination contest expenses that is allowed for a nomination contestant in an electoral district is the amount
 
 ### Section 5
 
@@ -279,28 +270,15 @@ Subsection 476.68(1) of the Act is replaced by the following:
 
 ### Section 476.68
 
-  **(1)** No nomination contestant and no financial agent of a nomination contestant shall incur total nomination **contest** expenses in an amount that is more than the limit allowed for that electoral district under section 476.67.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 476.68(1):
-> *Existing Text*:
-> > No nomination contestant and no financial agent of a nomination contestant shall incur total nomination campaign expenses — other than personal expenses — in an amount that is more than the limit allowed for that electoral district under section 476.67.
+  **(1)** No nomination contestant and no financial agent of a nomination contestant shall incur total nomination contest expenses in an amount that is more than the limit allowed for that electoral district under section 476.67.
 
 ### Section 6
 
 Paragraph 476.75(2)(a) of the Act is replaced by the following:
 
-a statement of nomination **contest** expenses;
+a statement of nomination contest expenses;
 
 a statement of nomination campaign expenses, other than nomination contest expenses;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 476.75(2):
-> *Existing Text*:
-> > The nomination campaign return shall set out
-> > a statement of nomination campaign expenses;
 
 ### Section 7
 
@@ -340,24 +318,13 @@ a fee of any auditor appointed under this Division.
 
   **(3)** In this section, **cost incurred** means an expense that is incurred by a leadership contestant, whether it is paid or unpaid.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 8
 
 Paragraph 478.8(2)(a) of the Act is replaced by the following:
 
-a statement of leadership **contest** expenses;
+a statement of leadership contest expenses;
 
 a statement of leadership campaign expenses, other than leadership contest expenses;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 478.8(2):
-> *Existing Text*:
-> > The leadership campaign return shall set out
-> > a statement of leadership campaign expenses;
 
 ### Section 9
 
@@ -374,19 +341,21 @@ being a registered party, contravenes subsection 384.2(1) or (4) (failure to pub
 
 being a person or entity, contravenes subsection 384.2(3) (failure to provide information about regulated fundraising event);
 
+being a registered party, contravenes subsection 384.2(4.1) (failure to notify Chief Electoral Officer of regulated fundraising event);
+
 being a registered party, contravenes subsection 384.2(5) or (7) (failure to replace old information about regulated fundraising event on its Internet site);
 
 being a person or entity, contravenes subsection 384.2(6) (failure to provide new information about regulated fundraising event);
 
-being a chief agent, contravenes subsection 384.3(1) or (6) (failure to provide report on regulated fundraising event);
+being a chief agent, contravenes subsection 384.3(1), (6) or **(6.1)** (failure to provide report on regulated fundraising event);
 
 being a chief agent, contravenes subsection 384.3(3) (including prohibited name or address in report on regulated fundraising event);
 
-being a person or entity, contravenes subsection 384.3(4) or (9) (failure to provide information about regulated fundraising event);
+being a person or entity, contravenes subsection 384.3(4), **(4.1)**, (9) or **(9.1)** (failure to provide information about regulated fundraising event);
 
 being a person or entity, contravenes subsection 384.3(5) or (10) (including prohibited name or address in information about regulated fundraising event);
 
-being a chief agent, contravenes subsection 384.3(8) (failure to provide report on all regulated fundraising events);
+being a chief agent, contravenes subsection 384.3(8) **or (8.1)** (failure to provide report on all regulated fundraising events);
 
 being a chief agent, contravenes subsection 384.3(12) (including prohibited name or address in report on all regulated fundraising events);
 
@@ -394,31 +363,23 @@ being the chief agent of a registered party, the financial agent of a registered
 
 being a chief agent or the leader of a registered party, contravenes subsection 384.7(3) (failure to provide corrected or revised report within 30-day period or any extension of that period).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 10
 
   **(1)** Paragraph 497.3(1)(f) of the Act is replaced by the following:
 
-    being a nomination contestant or the financial agent of one, contravenes subsection 476.68(1) (exceeding nomination **contest** expenses limit);
+    being a nomination contestant or the financial agent of one, contravenes subsection 476.68(1) (exceeding nomination contest expenses limit);
 
   **(2)** Paragraphs 497.3(2)(g) and (h) of the Act are replaced by the following:
 
-    being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.68(1) (exceeding nomination **contest** expenses limit);
+    being a nomination contestant or the financial agent of one, knowingly contravenes subsection 476.68(1) (exceeding nomination contest expenses limit);
 
-    being a person or entity, contravenes subsection 476.68(2) (circumventing nomination **contest** expenses limit);
+    being a person or entity, contravenes subsection 476.68(2) (circumventing nomination contest expenses limit);
 
 ### Section 11
 
 Section 500 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** Every person who is guilty of an offence under section 497.01 is liable on summary conviction to a fine of not more than $1,000.
-
-
-> **Explanatory Note**:
-> New.
 
 
 ## Transitional Provisions
