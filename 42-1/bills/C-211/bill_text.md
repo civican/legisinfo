@@ -39,9 +39,9 @@ The following definitions apply in this Act.
 
 ### Section 3
 
-The Minister must, no later than 12 months after the day on which this Act comes into force, convene a conference with the Minister of National Defence, the Minister of Veterans Affairs, **the Minister of Public Safety and Emergency Preparedness**, provincial and territorial government representatives responsible for health and stakeholders, including representatives of the medical community and patients' groups, for the purpose of developing a comprehensive federal framework **in relation to**
+The Minister must, no later than 12 months after the day on which this Act comes into force, convene a conference with the Minister of National Defence, the Minister of Veterans Affairs, the Minister of Public Safety and Emergency Preparedness, provincial and territorial government representatives responsible for health and stakeholders, including representatives of the medical community and patients' groups, for the purpose of developing a comprehensive federal framework in relation to
 
-**improved tracking of the** incidence **rate** and associated economic and social costs of post-traumatic stress disorder;
+improved tracking of the incidence rate and associated economic and social costs of post-traumatic stress disorder;
 
 the establishment of guidelines regarding
 
