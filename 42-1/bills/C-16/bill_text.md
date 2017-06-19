@@ -34,7 +34,7 @@ Subsection 3(1) of the Act is replaced by the following:
 
 Subsection 318(4) of the `Criminal Code` is replaced by the following:
 
-**(4)** In this section, **identifiable group** means any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression, or mental or physical disability.
+**(4)** In this section, identifiable group means any section of the public distinguished by colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression, or mental or physical disability.
 
 ### Section 4
 
