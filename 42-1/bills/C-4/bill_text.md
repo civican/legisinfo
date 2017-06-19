@@ -55,7 +55,7 @@ Section 39 of the Act is replaced by the following:
 
 ### Section 39
 
-  **(1)** If, on receipt of an application for an order made under subsection 38(1) or (3) in respect of a bargaining agent for a bargaining unit, and after any inquiry by way of a representation vote or otherwise that the Board considers appropriate in the circumstances, the Board is satisfied that a majority of the employees in the bargaining unit no longer wish to have the bargaining agent represent them, the Board shall, subject to subsection (2), by order,
+  **(1)** If, on receipt of an application for an order made under subsection 38(1) or (3) in respect of a bargaining agent for a bargaining unit, and after any inquiry by way of a representation vote or otherwise that the Board considers appropriate in the circumstances, the Board issatisfied that a majority of the employees in the bargaining unit no longer wish to have the bargaining agent represent them, the Board shall, subject to subsection (2), by order,
 
     in the case of an application made under subsection 38(1), revoke the certification of the trade union as the bargaining agent for the bargaining unit; or
 
@@ -183,7 +183,7 @@ If the Public Service Labour Relations and Employment Board has, during the peri
 
 ### Section 16
 
-If the Public Service Labour Relations and Employment Board has, during the period beginning on June 16, 2015 and ending immediately before the day on which section `8` comes into force, received an application for certification referred to in paragraph 64(1.1)(a) of the `Public Service Labour Relations Act` or an application for a declaration made under subsection 94(1) of that Act, and the application has not been finally disposed of before that coming into force, that application is to be dealt with and disposed of in accordance with that Act as it read immediately before that coming into force.
+If the Public Service Labour Relations and Employment Board has, during the period beginning on June 16, 2015 and ending immediately before the day on which section `8` comes into force, received an application for certification referred to in paragraph 64(1.1)(a) of the `Public Service Labour Relations Act` or an application for a declaration made under subsection 94(1) of that Act, and the application has not been finally disposed of before that coming into force, that applicationis to be dealt with and disposed of in accordance with that Act as it read immediately before that coming into force.
 
 
 ## Coming into Force
