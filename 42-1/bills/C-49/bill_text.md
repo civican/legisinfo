@@ -191,7 +191,7 @@ Subsection 27(1) of the English version of the Act is replaced by the following:
 
 ### Section 27
 
-  **(1)** The Agency may grant the whole or part of an application, or may make any order or grant any further or other relief that the Agency **considers appropriate**.
+  **(1)** The Agency may grant the whole or part of an application, or may make any order or grant any further or other relief that the Agency considers appropriate.
 
 ### Section 5
 
@@ -244,15 +244,15 @@ Section 49 of the Act is renumbered as subsection 49(1) and is amended by adding
 
   **(2)** The portion of subsection 50(1.1) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(1.1)** **Pour l'application du paragraphe (1)**, les renseignements peuvent être exigés des personnes suivantes :
+    **(1.1)** Pour l'application du paragraphe (1), les renseignements peuvent être exigés des personnes suivantes :
 
   **(3)** The portion of subsection 50(2) of the Act before paragraph (c) is replaced by the following:
 
-    **(2)** Information **that is** required to be provided under **this section** may include the following:
+    **(2)** Information that is required to be provided under this section may include the following:
 
-      financial **information**;
+      financial information;
 
-      **information respecting** traffic and **operations**;
+      information respecting traffic and operations;
 
   **(4)** Subsection 50(2) of the Act is amended by adding "and" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -260,7 +260,7 @@ Section 49 of the Act is renumbered as subsection 49(1) and is amended by adding
 
   **(5)** Subsection 50(4) of the Act is replaced by the following:
 
-    **(4)** The Minister may exempt a carrier or transportation undertaking from the application of all or any part of a regulation made under **this section** if the Minister is satisfied that it is not practicable for the carrier or transportation undertaking to provide the information.
+    **(4)** The Minister may exempt a carrier or transportation undertaking from the application of all or any part of a regulation made under this section if the Minister is satisfied that it is not practicable for the carrier or transportation undertaking to provide the information.
 
 ### Section 10
 
@@ -268,7 +268,7 @@ Subsection 50.01(1) of the Act is replaced by the following:
 
 ### Section 50.01
 
-  **(1)** A regulation made under subsection 50(1) **or (1.01)** may incorporate by reference any document that is produced by a person or body other than the Minister.
+  **(1)** A regulation made under subsection 50(1) or (1.01) may incorporate by reference any document that is produced by a person or body other than the Minister.
 
 ### Section 11
 
@@ -276,17 +276,17 @@ Section 50.1 of the Act is replaced by the following:
 
 ### Section 50.1
 
-For the purposes of subsection 50(1) **or (1.01)**, if any information referred to in that subsection has already been provided to a department or agency of the Government of Canada, the Minister may request that department or agency to provide the information to the Minister.
+For the purposes of subsection 50(1) or (1.01), if any information referred to in that subsection has already been provided to a department or agency of the Government of Canada, the Minister may request that department or agency to provide the information to the Minister.
 
 ### Section 12
 
   **(1)** Paragraph 51(2)(a) of the Act is replaced by the following:
 
-    the communication of information to the Agency, **the Administrator of the Fund appointed under section 153.7, Statistics Canada** or a minister of the Crown in right of Canada, the agent of **that** minister or an officer or employee of, or adviser to, Her Majesty in right of Canada for the purposes of the administration of this Act or any other Act of Parliament or for the purposes of the development of policies;
+    the communication of information to the Agency, the Administrator of the Fund appointed under section 153.7, Statistics Canada or a minister of the Crown in right of Canada, the agent of that minister or an officer or employee of, or adviser to, Her Majesty in right of Canada for the purposes of the administration of this Act or any other Act of Parliament or for the purposes of the development of policies;
 
   **(2)** Paragraph 51(2)(c) of the Act is replaced by the following:
 
-    the **communication** of information, **including to the public**, in an aggregated form that prevents information obtained from an identifiable person from being related to that person;
+    the communication of information, including to the public, in an aggregated form that prevents information obtained from an identifiable person from being related to that person;
 
 ### Section 13
 
@@ -306,7 +306,7 @@ Information that is provided to the Minister or the Agency in accordance with re
 
 ### Section 51.4
 
-  **(1)** If the Agency receives information from class 1 rail carriers or the Minister that is related to service and performance indicators provided in accordance with regulations made under paragraph 50(1.01)(b), the Agency shall publish the information on its Internet site within seven days after it is received.
+  **(1)** If the Agency receives information from class 1 rail carriers or the Minister that is related to service and performance indicators provided in accordance with regulations made under paragraph 50(1.01)(b), the Agency shall publish the information on its Internet site within **two** days after it is received.
 
   **(2)** Subsection 51(4) does not apply to the publication, in accordance with subsection (1), of information that is received from the Minister.
 
@@ -353,7 +353,7 @@ If a notice has been given under subsection 53.71(1), the proposed arrangement s
 
   **(2)** The Commissioner of Competition shall, within 120 days after the day on which he or she receives a copy of the notice under subsection 53.71(1) with the information referred to in subsection 53.71(2), report to the Minister and the parties on any concerns regarding potential prevention or lessening of competition that may occur as a result of the proposed arrangement.
 
-  **(3)** The Commissioner may make public a summary of the conclusions of the report.
+  **(3)** **Unless a notice is withdrawn or is deemed to have been withdrawn under section 53.8,** the Commissioner **shall** make public a summary of the conclusions of the report **that does not include any confidential information.**
 
   **(4)** The Minister shall, within 150 days after the day on which he or she receives the notice with the information referred to in subsection 53.71(2), report to the parties on any concerns with respect to the public interest that may occur as a result of the proposed arrangement and provide a copy of the report to the Commissioner.
 
@@ -363,7 +363,7 @@ If a notice has been given under subsection 53.71(1), the proposed arrangement s
 
   **(7)** The parties shall, within 30 days after the day on which they receive the Minister's preliminary decision, provide a response in writing to the Minister and the response may include proposed amendments to the terms and conditions specified in the decision.
 
-  **(8)** The Minister shall, within 30 days after the day on which he or she receives a response from the parties under subsection (7), render a final decision. The Minister may, if satisfied that the proposed arrangement is in the public interest, authorize it and specify any terms and conditions relating to the public interest and competition that the Minister considers appropriate.
+  **(8)** The Minister shall, within 30 days after the day on which he or she receives a response from the parties under subsection (7), render a final decision **and make public a summary of that decision that does not include any confidential information**. The Minister may, if satisfied that the proposed arrangement is in the public interest, authorize it and specify any terms and conditions relating to the public interest and competition that the Minister considers appropriate.
 
 ### Section 53.74
 
@@ -371,15 +371,17 @@ An authorization given by the Minister under subsection 53.73(8) does not affect
 
 ### Section 53.75
 
-On application by any party who is subject to terms and conditions of an authorization, the Minister may, after consulting with the Commissioner of Competition, vary or rescind the terms and conditions.
+On application by any party who is subject to terms and conditions of an authorization, the Minister may, after consulting with the Commissioner of Competition, vary or rescind the terms and conditions **and shall make public a summary of that decision that does not include any confidential information**.
 
 ### Section 53.76
 
-The parties to an authorized arrangement may propose an amendment to that arrangement to the Minister and he or she may, after consulting with the Commissioner of Competition and considering the significance of the amendment,
+  ****(1)**** The parties to an authorized arrangement may propose an amendment to that arrangement to the Minister and he or she may, after consulting with the Commissioner of Competition and considering the significance of the amendment,
 
-authorize the amendment, subject to any terms and conditions that the Minister may impose; or
+    authorize the amendment, subject to any terms and conditions that the Minister may impose; or
 
-require the parties to submit a new notice under subsection 53.71(1) for review of the proposed amended arrangement, unless the parties decide not to proceed with the amendment.
+    require the parties to submit a new notice under subsection 53.71(1) for review of the proposed amended arrangement, unless the parties decide not to proceed with the amendment.
+
+  **(2)** If the Minister authorizes the amendment under paragraph (1)(a), he or she shall make public a summary of that decision that does not include any confidential information.
 
 ### Section 53.77
 
@@ -449,11 +451,11 @@ The definition **Canadian** in subsection 55(1) of the Act is replaced by the fo
 
 **Canadian** means
 
-a Canadian citizen or a permanent resident **as defined in** subsection 2(1) of the `Immigration and Refugee Protection Act`,
+a Canadian citizen or a permanent resident as defined in subsection 2(1) of the `Immigration and Refugee Protection Act`,
 
-a government in Canada or an agent **or mandatary** of such a government, or
+a government in Canada or an agent or mandatary of such a government, or
 
-a corporation or entity that is incorporated or formed under the laws of Canada or a province, that is controlled in fact by Canadians and of which at least **51**% of the voting interests are owned and controlled by Canadians **and where**
+a corporation or entity that is incorporated or formed under the laws of Canada or a province, that is controlled in fact by Canadians and of which at least 51% of the voting interests are owned and controlled by Canadians and where
 
 no more than 25% of the voting interests are owned directly or indirectly by any single non-Canadian, either individually or in affiliation with another person, and
 
@@ -463,7 +465,7 @@ no more than 25% of the voting interests are owned by one or more non-Canadians 
 
 Subsection 56(2) of the Act is replaced by the following:
 
-**(2)** This Part does not apply to the operation of **specialty services provided by aircraft, including firefighting**, flight training, **sightseeing**, spraying, **surveying, mapping**, photography, **parachute jumping, glider towing, helicopter-lift for logging and** construction, **airborne agricultural, industrial and** inspection **services** or any other prescribed service **provided by aircraft**.
+**(2)** This Part does not apply to the operation of specialty services provided by aircraft, including firefighting, flight training, sightseeing, spraying, surveying, mapping, photography, parachute jumping, glider towing, helicopter-lift for logging and construction, airborne agricultural, industrial and inspection services or any other prescribed service provided by aircraft.
 
 ### Section 17
 
@@ -481,11 +483,11 @@ The Agency may, to the extent that it considers it appropriate, make applicable 
 
   **(1)** The portion of paragraph 86(1)(h) of the English version of the Act before subparagraph (i) is replaced by the following:
 
-    respecting traffic and tariffs, fares, rates, charges and terms and conditions of carriage for international service, **including**
+    respecting traffic and tariffs, fares, rates, charges and terms and conditions of carriage for international service, including
 
   **(2)** Subparagraph 86(1)(h)(iii) of the Act is replaced by the following:
 
-    authorizing the Agency to direct a licensee or carrier to take **the** corrective measures that the Agency considers appropriate and to pay compensation for any expense incurred by a person adversely affected by the licensee's or carrier's failure to apply the fares, rates, charges or terms or conditions of carriage **that are** applicable to the service it offers **and** that were set out in its tariffs, **if the Agency receives a written complaint and, if the complaint is related to any term or condition of carriage concerning any obligation prescribed by regulations made under subsection 86.11(1), it is filed by the person adversely affected**,
+    authorizing the Agency to direct a licensee or carrier to take the corrective measures that the Agency considers appropriate and to pay compensation for any expense incurred by a person adversely affected by the licensee's or carrier's failure to apply the fares, rates, charges or terms or conditions of carriage that are applicable to the service it offers and that were set out in its tariffs, if the Agency receives a written complaint and, if the complaint is related to any term or condition of carriage concerning any obligation prescribed by regulations made under subsection 86.11(1), it is filed by the person adversely affected,
 
     authorizing the Agency to make applicable, to some or to all passengers of the same flight as the complainant, all or part of the Agency's decision respecting a complaint related to any term or condition of carriage concerning any obligation prescribed by regulations made under paragraph 86.11(1)(b), to the extent that it considers appropriate, and
 
@@ -529,9 +531,9 @@ The Act is amended by adding the following after section 86.1:
 
   **(1)** The definitions **point of destination** and **point of origin** in section 87 of the Act are replaced by the following:
 
-    **point of destination** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or **section 131**, the point where the traffic is transferred from the line of a railway company to a line to which this Part does not apply; (**point de destination**)
+    **point of destination** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or section 131, the point where the traffic is transferred from the line of a railway company to a line to which this Part does not apply; (**point de destination**)
 
-    **point of origin** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or **section 131**, the point where the traffic is transferred to the line of a railway company from a line to which this Part does not apply; (**point d'origine**)
+    **point of origin** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or section 131, the point where the traffic is transferred to the line of a railway company from a line to which this Part does not apply; (**point d'origine**)
 
   **(2)** Section 87 of the Act is amended by adding the following in alphabetical order:
 
@@ -547,7 +549,7 @@ The Act is amended by adding the following after section 86.1:
 
     **Vancouver–Kamloops corridor** means the area of Canada that is bounded
 
-    to the east by longitude 120.25° W,
+    to the east by longitude **121.21°** W,
 
     to the north by latitude 50.83° N,
 
@@ -569,11 +571,11 @@ The heading before section 106 and sections 106 to 110 of the Act are repealed.
 
     **interswitch** means to transfer traffic from the lines of one railway company to the lines of another railway company; (**interconnexion**)
 
-    **local carrier** means a **class 1 rail carrier** that moves traffic to or from an interchange on a continuous route from the point of origin or to the point of destination that is served exclusively by the **class 1 rail carrier**; (**transporteur local**)
+    **local carrier** means a class 1 rail carrier that moves traffic to or from an interchange on a continuous route from the point of origin or to the point of destination that is served exclusively by the class 1 rail carrier; (**transporteur local**)
 
   **(3)** The definition **interswitching rate** in section 111 of the English version of the Act is replaced by the following:
 
-    **interswitching rate** means a rate **determined** by **the Agency** in accordance with **section 127.1**; (Version anglaise seulement)
+    **interswitching rate** means a rate determined by the Agency in accordance with section 127.1; (Version anglaise seulement)
 
   **(4)** Section 111 of the English version of the Act is amended by adding the following in alphabetical order:
 
@@ -583,7 +585,7 @@ The heading before section 106 and sections 106 to 110 of the Act are repealed.
 
   **(1)** Paragraph 116(1)(b) of the Act is replaced by the following:
 
-    within **90** days after receipt of the complaint, determine whether the company is fulfilling that obligation.
+    within 90 days after receipt of the complaint, determine whether the company is fulfilling that obligation.
 
   **(2)** Section 116 of the Act is amended by adding the following after subsection (1):
 
@@ -611,37 +613,37 @@ The heading before section 106 and sections 106 to 110 of the Act are repealed.
 
   **(3)** Subsection 116(3) of the Act is replaced by the following:
 
-    **(3)** If a **long-haul interwitching order** has been made under subsection **134(1)**, the terms **established by** the **order that are related to** the manner in which the local carrier **is to fulfil its** service obligations are binding on the Agency in making its determination.
+    **(3)** If a long-haul interwitching order has been made under subsection 134(1), the terms established by the order that are related to the manner in which the local carrier is to fulfil its service obligations are binding on the Agency in making its determination.
 
   **(4)** Paragraph 116(4)(c.1) of the English version of the Act is replaced by the following:
 
-    order the company to compensate any person adversely affected for any expenses that they incurred as a result of the company's failure to **fulfil** its service obligations or, if the company is a party to a confidential contract with a shipper that requires the company to pay an amount of compensation for expenses incurred by the shipper as a result of the company's failure to **fulfil** its service obligations, order the company to pay that amount to the shipper;
+    order the company to compensate any person adversely affected for any expenses that they incurred as a result of the company's failure to fulfil its service obligations or, if the company is a party to a confidential contract with a shipper that requires the company to pay an amount of compensation for expenses incurred by the shipper as a result of the company's failure to fulfil its service obligations, order the company to pay that amount to the shipper;
 
   **(5)** Subsection 116(6) of the Act is replaced by the following:
 
     **(5.1)** If an arbitrator's decision made under section 169.37 includes a term with respect to an amount described in paragraph 169.31(1)(c.1), the term does not limit the right to claim an amount of compensation in an action under subsection (5).
 
-    **(6)** Subject to the terms of a confidential contract referred to in subsection 113(4) or a tariff **that sets** out, **in accordance with subsection 136.4(1), terms established in a long-haul interswitching order**, a company is not relieved from an action taken under subsection (5) by any notice, condition or declaration if the damage claimed in the action arises from any negligence or omission of the company or any of its employees.
+    **(6)** Subject to the terms of a confidential contract referred to in subsection 113(4) or a tariff that sets out, in accordance with subsection 136.4(1), terms established in a long-haul interswitching order, a company is not relieved from an action taken under subsection (5) by any notice, condition or declaration if the damage claimed in the action arises from any negligence or omission of the company or any of its employees.
 
 ### Section 24
 
 Subsections 117(3) and (4) of the Act are replaced by the following:
 
-**(3)** The railway company shall make the tariff **accessible to the** public **by publishing it on** its **Internet site**.
+**(3)** The railway company shall make the tariff accessible to the public by publishing it on its Internet site.
 
 ### Section 25
 
   **(1)** Paragraphs 126(1)(d) and (e) of the Act are replaced by the following:
 
-    the manner in which the company **is to fulfil** its service obligations under section 113; and
+    the manner in which the company is to fulfil its service obligations under section 113; and
 
-    any conditions relating to the traffic to be moved by the company, **including any amount to be paid by the company or the shipper in relation to a failure to comply with any condition related to the service obligations referred to in paragraph (d)**.
+    any conditions relating to the traffic to be moved by the company, including any amount to be paid by the company or the shipper in relation to a failure to comply with any condition related to the service obligations referred to in paragraph (d).
 
   **(2)** Subsection 126(1.1) of the Act is replaced by the following:
 
     **(1.1)** A shipper may request that a railway company make it an offer to enter into a contract under subsection (1) with the railway company respecting
 
-      the manner in which the company **is to** fulfil its service obligations under section 113; **or**
+      the manner in which the company is to fulfil its service obligations under section 113; or
 
       any amount to be paid in relation to the company's or the shipper's failure to comply with a term related to those service obligations, the purpose of which is to encourage the efficient movement of the shipper's traffic and the performance of the railway system.
 
@@ -649,19 +651,19 @@ Subsections 117(3) and (4) of the Act are replaced by the following:
 
   **(3)** Paragraph 126(1.4)(c) of the Act is replaced by the following:
 
-    is set out in a tariff referred to in **subsection 136.4(1)** or 165(3); or
+    is set out in a tariff referred to in subsection 136.4(1) or 165(3); or
 
 ### Section 26
 
   **(1)** Subsections 127(2) and (3) of the Act are replaced by the following:
 
-    **(2)** **If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km, or a prescribed greater distance, of an interchange**, the Agency may order
+    **(2)** If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km, or a prescribed greater distance, of an interchange, the Agency may order
 
       one of the companies to interswitch the traffic; and
 
       the railway companies to provide reasonable facilities for the convenient interswitching of traffic in both directions at an interchange between the lines of either railway and those of other railway companies connecting with them.
 
-    **(3)** If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km, or a prescribed greater distance, of an interchange, a railway company shall not transfer the traffic at the interchange except in accordance with the regulations **and the interswitching rate**.
+    **(3)** If the point of origin or destination of a continuous movement of traffic is within a radius of 30 km, or a prescribed greater distance, of an interchange, a railway company shall not transfer the traffic at the interchange except in accordance with the regulations and the interswitching rate.
 
   **(2)** Subsection 127(4) of the Act is replaced by the following:
 
@@ -691,7 +693,7 @@ The Act is amended by adding the following after section 127:
 
   **(1)** Paragraph 128(1)(b) of the Act is replaced by the following:
 
-    establishing distance zones for the **purpose** of determining the interswitching rate; and
+    establishing distance zones for the purpose of determining the interswitching rate; and
 
   **(2)** Subsection 128(1) of the Act is amended by adding "and" at the end of paragraph (a), by striking out "and' at the end of paragraph (b) and by repealing paragraph (c).
 
@@ -749,6 +751,14 @@ No later than August 31 of every year, a railway company shall provide to the Ag
     if an order or consent agreement made under Part VIII of the `Competition Act`, which followed an application made by the Commissioner of Competition, addresses the rate for the traffic to be moved; or
 
     in any other case specified in the regulations.
+
+  **(4)** For the purpose of paragraph (3)(b), an interchange located in the metropolitan area of Montreal is deemed to be the nearest interchange and to be located outside the Quebec–Windsor corridor if
+
+    the point of origin of the movement of the shipper's traffic is located in Quebec and north of the Quebec-Windsor corridor;
+
+    the shipper has access to the lines of only one class 1 rail carrier at the point of origin; and
+
+    the nearest interchange is located in the Quebec–Windsor corridor.
 
 ### Section 130
 
@@ -897,7 +907,13 @@ If the Governor in Council is of the opinion that the financial viability of a r
 
   **(1)** A railway company shall prepare and keep up to date a list of the locations of the interchanges on the railway that the company operates. It shall publish the list on its Internet site or the Internet site of an association or other entity representing railway companies.
 
-  **(2)** A railway company may remove an interchange from its list only after the expiry of 60 days after the publication of a notice of its intention to do so on its Internet site or the Internet site of an association or other entity representing railway companies.
+  **(2)** A railway company may remove an interchange from its list only after the expiry of **120** days after **it**
+
+    **has published** a notice of its intention to do so on its Internet site or the Internet site of an association or other entity representing railway companies**; and**
+
+    has sent a copy of the notice to the Agency.
+
+  **(3)** For greater certainty, the removal of an interchange under subsection (2) does not relieve a railway company from its service obligations.
 
 ### Section 30
 
@@ -905,7 +921,7 @@ Subsection 137(1) of the Act is replaced by the following:
 
 ### Section 137
 
-  **(1)** **Any issue related to liability**, including **liability** to a third party, in respect of the movement of a shipper's traffic shall be dealt with between the railway company and the shipper only by means of a written agreement that is signed by the shipper or by an association or other **entity** representing shippers.
+  **(1)** Any issue related to liability, including liability to a third party, in respect of the movement of a shipper's traffic shall be dealt with between the railway company and the shipper only by means of a written agreement that is signed by the shipper or by an association or other entity representing shippers.
 
 ### Section 31
 
@@ -941,7 +957,7 @@ If, after receiving a complaint, the Agency finds that a railway company is not 
 
 ### Section 142
 
-      **(1)** A railway company shall comply with the steps described in this Division before discontinuing operating a railway line. **The railway company shall publish and keep up to date on its Internet site or the Internet site of an association or other entity representing railway companies a report that sets out the date that it commenced and completed each step**.
+      **(1)** A railway company shall comply with the steps described in this Division before discontinuing operating a railway line. The railway company shall publish and keep up to date on its Internet site or the Internet site of an association or other entity representing railway companies a report that sets out the date that it commenced and completed each step.
 
   **(2)** Section 142 of the Act is amended by adding the following after subsection (2):
 
@@ -951,7 +967,7 @@ If, after receiving a complaint, the Agency finds that a railway company is not 
 
 Subsection 143(3) of the Act is replaced by the following:
 
-**(3)** The advertisement **shall** also disclose
+**(3)** The advertisement shall also disclose
 
   the existence of any agreement between the railway company and a public passenger service provider in respect of the operation of a passenger rail service on the railway line; and
 
@@ -971,7 +987,7 @@ Section 144 of the Act is amended by adding the following after subsection (5):
 
   **(2)** Paragraph 145(3)(a) of the Act is replaced by the following:
 
-    by the Minister, the Government of Canada may accept it within **60** days **or, if the Minister has extended the period under subsection (3.1), within that period**;
+    by the Minister, the Government of Canada may accept it within 60 days or, if the Minister has extended the period under subsection (3.1), within that period;
 
   **(3)** Section 145 of the Act is amended by adding the following after subsection (3):
 
@@ -1009,17 +1025,17 @@ If, after receiving a complaint, the Agency finds that a railway company is not 
 
     Churchill, Manitoba for export,
 
-    a port in British Columbia for **export, other than** export to the United States for consumption in that country, or
+    a port in British Columbia for export, other than export to the United States for consumption in that country, or
 
-    a point west of Thunder Bay or Armstrong, Ontario, if the grain is to be carried to a port in British Columbia for export, **other than export to the United States for consumption in that country;** (**mouvement du grain**)
+    a point west of Thunder Bay or Armstrong, Ontario, if the grain is to be carried to a port in British Columbia for export, other than export to the United States for consumption in that country; (**mouvement du grain**)
 
-    **port in British Columbia** **includes** Vancouver, North Vancouver, New Westminster, Roberts Bank, Prince Rupert, Ridley Island, Burnaby, Fraser Mills, Fraser Surrey, Fraser Wharves, Lake City, Lulu Island Junction, Port Coquitlam, Port Moody, Steveston, Tilbury and Woodwards Landing; (**port de la Colombie-Britannique**)
+    **port in British Columbia** includes Vancouver, North Vancouver, New Westminster, Roberts Bank, Prince Rupert, Ridley Island, Burnaby, Fraser Mills, Fraser Surrey, Fraser Wharves, Lake City, Lulu Island Junction, Port Coquitlam, Port Moody, Steveston, Tilbury and Woodwards Landing; (**port de la Colombie-Britannique**)
 
 ### Section 40
 
   **(1)** Paragraph 150(3)(a) of the French version of the Act is replaced by the following:
 
-    les **primes**, rabais ou réductions semblables versés ou accordés par la compagnie;
+    les primes, rabais ou réductions semblables versés ou accordés par la compagnie;
 
   **(2)** Subsection 150(3) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after paragraph (c):
 
@@ -1031,19 +1047,19 @@ If, after receiving a complaint, the Agency finds that a railway company is not 
 
   **(1)** The description of F in subsection 151(1) of the Act is replaced by the following:
 
-    is the volume-related composite price index **that applies to the company**, as determined by the Agency.
+    is the volume-related composite price index that applies to the company, as determined by the Agency.
 
   **(2)** Subsections 151(4) and (5) of the Act are replaced by the following:
 
-    **(4)** The following rules are applicable to **a** volume-related composite price index:
+    **(4)** The following rules are applicable to a volume-related composite price index:
 
-      in the crop year **2016-2017, each prescribed railway company's** index is **1.3275**;
+      in the crop year 2016-2017, each prescribed railway company's index is 1.3275;
 
-      an index **shall be determined** in respect of **each** prescribed railway **company**; and
+      an index shall be determined in respect of each prescribed railway company; and
 
-      the Agency shall make adjustments to **each prescribed railway company's** index to reflect the costs incurred by **the** prescribed railway **company to obtain hopper** cars **for the movement of grain** and the costs incurred by the prescribed railway **company** for the maintenance of **those hopper** cars.
+      the Agency shall make adjustments to each prescribed railway company's index to reflect the costs incurred by the prescribed railway company to obtain hopper cars for the movement of grain and the costs incurred by the prescribed railway company for the maintenance of those hopper cars.
 
-    **(5)** The Agency shall make the determination of a prescribed railway company's maximum revenue entitlement for the movement of grain in a crop year under subsection (1) on or before December 31 of the following crop year and shall make the determination of **a prescribed railway company's** volume-related composite price index on or before April 30 of the previous crop year.
+    **(5)** The Agency shall make the determination of a prescribed railway company's maximum revenue entitlement for the movement of grain in a crop year under subsection (1) on or before December 31 of the following crop year and shall make the determination of a prescribed railway company's volume-related composite price index on or before April 30 of the previous crop year.
 
 ### Section 42
 
@@ -1067,7 +1083,7 @@ Section 155.8 of the Act is replaced by the following:
 
 ### Section 155.8
 
-  ****(1)**** If any portion of a levy is not paid by a railway company as required by subsection 155.7(1), the company shall pay to the Receiver General interest on that portion — **calculated and compounded monthly at the rate of interest determined under the regulations made under section 155.1 of the `Financial Administration Act`** — **beginning on the day on which** the payment was required to be made **and ending on the day before the day on which the payment is received by the Receiver General**.
+  **(1)** If any portion of a levy is not paid by a railway company as required by subsection 155.7(1), the company shall pay to the Receiver General interest on that portion — calculated and compounded monthly at the rate of interest determined under the regulations made under section 155.1 of the `Financial Administration Act` — beginning on the day on which the payment was required to be made and ending on the day before the day on which the payment is received by the Receiver General.
 
   **(2)** If a partial payment is made, the period for which interest is payable in respect of the amount paid ends on the day before the day on which the partial payment is received by the Receiver General.
 
@@ -1093,7 +1109,7 @@ The portion of section 164.1 of the Act before paragraph (a) is replaced by the 
 
 ### Section 164.1
 
-If the Agency determines that a shipper's final offer submitted under subsection 161.1(1) involves freight charges in an amount of not more than **$2,000,000, adjusted in accordance with section 164.2**, and the shipper did not indicate a contrary intention when submitting the offer, sections 163 and 164 do not apply and the arbitration shall proceed as follows:
+If the Agency determines that a shipper's final offer submitted under subsection 161.1(1) involves freight charges in an amount of not more than $2,000,000, adjusted in accordance with section 164.2, and the shipper did not indicate a contrary intention when submitting the offer, sections 163 and 164 do not apply and the arbitration shall proceed as follows:
 
 ### Section 48
 
@@ -1141,7 +1157,7 @@ be rendered so as to apply for the period that is agreed to by the parties or, i
 
   **(4)** Subsection 169.31(4) of the Act is replaced by the following:
 
-    **(4)** For greater certainty, a rate for the movement of the traffic is **not** to be subject to arbitration.
+    **(4)** For greater certainty, a rate for the movement of the traffic is not to be subject to arbitration.
 
 ### Section 51
 
@@ -1159,7 +1175,7 @@ Section 169.37 of the Act is replaced by the following:
 
 ### Section 169.37
 
-  ****(1)**** The arbitrator's decision must establish **the following terms**, or any combination of **the following** terms, that the arbitrator considers necessary to resolve the matters that are referred to him or her for arbitration:
+  **(1)** The arbitrator's decision must establish the following terms, or any combination of the following terms, that the arbitrator considers necessary to resolve the matters that are referred to him or her for arbitration:
 
     any operational term described in paragraph 169.31(1)(a), (b) or (c);
 
@@ -1171,7 +1187,7 @@ Section 169.37 of the Act is replaced by the following:
 
     any term with respect to the dispute resolution process described in paragraph 169.31(1)(f).
 
-  ****(2)**** In making **the** decision, the arbitrator must have regard to the following:
+  **(2)** In making the decision, the arbitrator must have regard to the following:
 
     the traffic to which the service obligations relate;
 
@@ -1197,7 +1213,7 @@ Section 169.37 of the Act is replaced by the following:
 
   **(2)** Paragraph 177(2)(a) of the Act is replaced by the following:
 
-    designate as a provision or requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180 any provision of section 51 **or 51.2 or any provision** of any regulation made under section 50 or 51, or any requirement of **section 51 or 51.2** or those **regulations**; and
+    designate as a provision or requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180 any provision of section 51 or 51.2 or any provision of any regulation made under section 50 or 51, or any requirement of section 51 or 51.2 or those regulations; and
 
   **(3)** Section 177 of the Act is amended by adding the following after subsection (2):
 
@@ -1209,7 +1225,7 @@ The portion of subsection 178(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 178
 
-  **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (2.1), or the Minister, in respect of a violation referred to in subsection 177(2), **(2.01)**, (2.2) or (3), may
+  **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (2.1), or the Minister, in respect of a violation referred to in subsection 177(2), (2.01), (2.2) or (3), may
 
 ### Section 55
 
@@ -1237,7 +1253,7 @@ Section 180.8 of the Act is replaced by the following:
 
   **(1)** In the case of a violation referred to in subsection 177(1), every reference to the "Minister" in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
 
-  **(2)** In the case of a violation referred to in subsection 177(2), **(2.01)**, (2.2) or (3), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
+  **(2)** In the case of a violation referred to in subsection 177(2), (2.01), (2.2) or (3), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
 
 ### Section 59
 
@@ -1256,7 +1272,19 @@ paragraph 155.84(1)(c).
 
 Paragraph 8(1)(a) of the `CN Commercialization Act` is replaced by the following:
 
-provisions imposing constraints on the issue, transfer and ownership, including joint ownership, of voting shares of CN to prevent any one person, together with the associates of that person, from holding, beneficially owning or controlling, directly or indirectly, otherwise than by way of security only, in the aggregate, voting shares to which are attached more than **25%** of the votes that may ordinarily be cast to elect directors of CN;
+provisions imposing constraints on the issue, transfer and ownership, including joint ownership, of voting shares of CN to prevent any one person, together with the associates of that person, from holding, beneficially owning or controlling, directly or indirectly, otherwise than by way of security only, in the aggregate, voting shares to which are attached more than 25% of the votes that may ordinarily be cast to elect directors of CN;
+
+### Section 60.1
+
+  **(1)** Despite sections 173 to 176 of the `Canada Business Corporations Act`, CN's directors may amend its articles in accordance with the amendment set out in section 60.
+
+  **(2)** When the directors amend the articles under subsection (1), they shall send the articles of amendment to the Director in accordance with section 177 of the `Canada Business Corporations Act`.
+
+  **(3)** The following definitions apply in this section.
+
+    **CN** has the same meaning as in subsection 2(1) of the `CN Commercialization Act`. (**CN**)
+
+    **Director** has the same meaning as in subsection 2(1) of the `Canada Business Corporations Act`. (**directeur**)
 
 
 ## Railway Safety Act
@@ -1370,17 +1398,17 @@ Section 36 of the Act is renumbered as subsection 36(1) and is amended by adding
 
   **(1)** Paragraph 41(2)(a) of the Act is replaced by the following:
 
-    a regulation made under subsection 7(1) or section 7.1, **17.95**, 18, 24, 37, 47 or 47.1;
+    a regulation made under subsection 7(1) or section 7.1, 17.95, 18, 24, 37, 47 or 47.1;
 
   **(2)** Paragraph 41(2)(h) of the Act is replaced by the following:
 
-    an order made under **subsection** 36**(1)**.
+    an order made under subsection 36(1).
 
 ### Section 66
 
 Paragraph 46(h) of the Act is replaced by the following:
 
-orders made under **subsection** 36**(1)**.
+orders made under subsection 36(1).
 
 
 ## Canadian Transportation Accident Investigation and Safety Board Act
@@ -1389,7 +1417,7 @@ orders made under **subsection** 36**(1)**.
 
   **(1)** Subsection 28(4) of the `Canadian Transportation Accident Investigation and Safety Board Act` is replaced by the following:
 
-    **(4)** The Board may make **any** use of any on-board recording obtained under this Act **that** it considers necessary in the interests of transportation safety, but, subject to **subsections** (5) **and (5.1)**, shall not knowingly communicate or permit to be communicated to anyone any portion **of the recording** that is unrelated to the causes or contributing factors of the transportation occurrence under investigation or to the identification of safety deficiencies.
+    **(4)** The Board may make any use of any on-board recording obtained under this Act that it considers necessary in the interests of transportation safety, but, subject to subsections (5) and (5.1), shall not knowingly communicate or permit to be communicated to anyone any portion of the recording that is unrelated to the causes or contributing factors of the transportation occurrence under investigation or to the identification of safety deficiencies.
 
   **(2)** Section 28 of the Act is amended by adding the following after subsection (5):
 
@@ -1410,7 +1438,7 @@ Subsection 6(1) of the `Canadian Air Transport Security Authority Act` is replac
 
 ### Section 6
 
-  **(1)** The **Authority's** mandate is to take actions, either directly or through a screening contractor, for the effective and efficient screening of persons who access aircraft or restricted areas through screening points, the property in their possession or control and the belongings or baggage that they give to an air carrier for transport.
+  **(1)** The Authority's mandate is to take actions, either directly or through a screening contractor, for the effective and efficient screening of persons who access aircraft or restricted areas through screening points, the property in their possession or control and the belongings or baggage that they give to an air carrier for transport.
 
   **(1.1)** For the purposes of subsection (1), a restricted area is an area designated as a restricted area under the `Aeronautics Act` at an aerodrome designated by the regulations or at any other place, including any other aerodrome, designated by the Minister.
 
@@ -1577,7 +1605,7 @@ Section 26 does not apply with respect to a loan guarantee provided by the Canad
 
   **(4)** A class 1 rail carrier shall, in its first report, provide an explanation of the methodology it used to derive the data, including the definition of unit train used by the class 1 rail carrier. The definition of unit train shall be based on the class 1 rail carrier's normal business practices. If the methodology changes, the class 1 rail carrier shall provide an updated explanation of its methodology in any subsequent report in which that methodology is used for the first time, including any updated definition of unit train.
 
-  **(5)** The class 1 rail carrier shall provide the report for each period of seven days commencing on Saturday and ending on Friday, no later than 14 days after the last day of the period of seven days to which the information relates.
+  **(5)** The class 1 rail carrier shall provide the report for each period of seven days commencing on Saturday and ending on Friday, no later than **five** days after the last day of the period of seven days to which the information relates.
 
   **(6)** The first report that is to be provided by a class 1 rail carrier is to contain information related to the seven day period that commences on the first Saturday that follows the day on which this section comes into force.
 
@@ -1638,13 +1666,13 @@ any information obtained under any of sections 53.71 to 53.81 of the `Canada Tra
 
   **(2)** Paragraph 29.1(3)(b) of the Act is replaced by the following:
 
-    state that the Minister of Transport requires the information for the purposes of section 53.1 or 53.2 **or any of sections 53.71 to 53.81** of the `Canada Transportation Act` and identify the transaction being considered under that section.
+    state that the Minister of Transport requires the information for the purposes of section 53.1 or 53.2 or any of sections 53.71 to 53.81 of the `Canada Transportation Act` and identify the transaction being considered under that section.
 
   **(3)** Subsections 29.1(4) and (5) of the Act are replaced by the following:
 
-    **(4)** The information communicated under subsection (1) may be used only for the purposes of section 53.1 or 53.2 **or any of sections 53.71 to 53.81**, as the case may be, of the `Canada Transportation Act`.
+    **(4)** The information communicated under subsection (1) may be used only for the purposes of section 53.1 or 53.2 or any of sections 53.71 to 53.81, as the case may be, of the `Canada Transportation Act`.
 
-    **(5)** No person who performs or has performed duties or functions in the administration or enforcement of the `Canada Transportation Act` shall communicate or allow to be communicated to any other person any information communicated under subsection (1), except to persons who perform duties or functions under section 53.1 or 53.2 **or any of sections 53.71 to 53.81** of that Act.
+    **(5)** No person who performs or has performed duties or functions in the administration or enforcement of the `Canada Transportation Act` shall communicate or allow to be communicated to any other person any information communicated under subsection (1), except to persons who perform duties or functions under section 53.1 or 53.2 or any of sections 53.71 to 53.81 of that Act.
 
 ### Section 85
 
@@ -1656,9 +1684,9 @@ is an arrangement, as defined in section 53.7 of the `Canada Transportation Act`
 
 Subsection 47(3) of the Act is replaced by the following:
 
-**(3)** This section does not apply **to**
+**(3)** This section does not apply to
 
-  an agreement or arrangement that is entered into or a submission that is arrived at only by companies each of which is, in respect of every one of the others, an affiliate; **or**
+  an agreement or arrangement that is entered into or a submission that is arrived at only by companies each of which is, in respect of every one of the others, an affiliate; or
 
   an agreement or arrangement that is an arrangement, as defined in section 53.7 of the `Canada Transportation Act`, or a submission that is arrived at under that arrangement, that has been authorized by the Minister of Transport under subsection 53.73(8) of that Act and for which the authorization has not been revoked, if the agreement, arrangement or submission is directly related to, and reasonably necessary for giving effect to, the objective of the arrangement.
 
@@ -1828,5 +1856,5 @@ Subsection 15(1) of the Act is replaced by the following:
 
   **(6)** If Bill C-44, introduced in the 1st session of the 42nd Parliament and entitled the `Budget Implementation Act, 2017, No. 1`, receives royal assent, then sections `73` and `74` come into force on the first day on which both that Act and this Act have received royal assent.
 
-  **(7)** Section `77` comes into force on the first anniversary of the day on which this Act receives royal assent.
+  **(7)** Section `77` comes into force **180 days after** the day on which this Act receives royal assent.
 
