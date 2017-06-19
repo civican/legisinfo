@@ -10,9 +10,13 @@ remove the requirement that an applicant intend, if granted citizenship, to cont
 
 reduce the number of days during which a person must have been physically present in Canada before applying for citizenship and provide that, in the calculation of the length of physical presence, the number of days during which the person was physically present in Canada before becoming a permanent resident may be taken into account;
 
-limit the requirement to demonstrate knowledge of Canada and of one of its official languages to applicants between the ages of 18 and 54; and
+limit the requirement to demonstrate knowledge of Canada and of one of its official languages to applicants between the ages of 18 and 54;
 
-authorize the Minister to seize any document that he or she has reasonable grounds to believe was fraudulently or improperly obtained or used or could be fraudulently or improperly used.
+authorize the Minister to seize any document that he or she has reasonable grounds to believe was fraudulently or improperly obtained or used or could be fraudulently or improperly used;
+
+change the process for the revocation of Canadian citizenship on the grounds of false representation, fraud or knowingly concealing material circumstances; and
+
+remove the requirement that an applicant be 18 years of age or over for citizenship to be granted under subsection 5(1) of that Act.
 
 It also makes consequential amendments to the `Immigration and Refugee Protection Act`.
 
@@ -23,7 +27,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-  **(1)** The portion of paragraph 5(1)(c) of the `Citizenship Act` before subparagraph (i) is replaced by the following:
+  **(0.1)** Paragraph 5(1)(b) of the `Citizenship Act` is repealed.
+
+  **(1)** The portion of paragraph 5(1)(c) of the Act before subparagraph (i) is replaced by the following:
 
     is a permanent resident within the meaning of subsection 2(1) of the `Immigration and Refugee Protection Act`, has, subject to the regulations, no unfulfilled conditions under that Act relating to his or her status as a permanent resident and has
 
@@ -41,9 +47,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(6)** Paragraphs 5(1)(d) and (e) of the Act are replaced by the following:
 
-    if under 55 years of age at the date of his or her application, has an adequate knowledge of one of the official languages of Canada;
+    if 18 years of age or more but less than 55 years of age at the date of his or her application, has an adequate knowledge of one of the official languages of Canada;
 
-    if under 55 years of age at the date of his or her application, demonstrates in one of the official languages of Canada that he or she has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship; and
+    if 18 years of age or more but less than 55 years of age at the date of his or her application, demonstrates in one of the official languages of Canada that he or she has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship; and
 
   **(7)** Section 5 of the Act is amended by adding the following after subsection (1):
 
@@ -53,6 +59,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
       for every day during which the person has been physically present in Canada since becoming a permanent resident, the person accumulates one day of physical presence.
 
+  **(7.1)** Section 5 of the Act is amended by adding the following after subsection (1.03):
+
+    **(1.04)** When the application referred to in paragraph (1)(a) is in respect of a minor, it must be
+
+      made by a person who has custody of the minor or who is empowered to act on their behalf by virtue of a court order or written agreement or by operation of law, unless otherwise ordered by a court; and
+
+      countersigned by the minor, if the minor has attained the age of 14 years on or before the day on which the application is made and is not prevented from understanding the significance of the application because of a mental disability.
+
+    **(1.05)** If the Minister waives the requirement set out in paragraph (1.04)(a) under subparagraph (3)(b)(v), the application referred to in paragraph (1)(a) may be made by the minor.
+
   **(8)** Subsection 5(1.1) of the Act is repealed.
 
   **(9)** Subsection 5(2) of the Act is amended by adding "and" at the end of paragraph (a) and by repealing paragraphs (c) and (d).
@@ -61,7 +77,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     in the case of any person, the requirements of paragraph (1)(d) or (e);
 
-  **(11)** Paragraph 5(3)(b) of the Act is amended by adding "or" at the end of subparagraph (ii) and by repealing subparagraph (iii).
+  **(11)** Subparagraph 5(3)(b)(i) of the Act is repealed.
+
+  **(11.1)** Subparagraph 5(3)(b)(iii) of the Act is repealed.
+
+  **(11.2)** Paragraph 5(3)(b) of the Act is amended by adding "or" at the end of subparagraph (iv) and by adding the following after subparagraph (iv):
+
+    the requirement respecting who may make an application in respect of a minor set out in paragraph (1.04)(a).
 
   **(12)** Subsection 5(3) of the Act is amended by adding "and" at the end of paragraph (b) and by repealing paragraph (b.1).
 
@@ -83,17 +105,67 @@ Subsections 9(2.1) and (2.2) of the Act are replaced by the following:
 
 ### Section 3
 
-Subsection 10(2) of the Act is repealed.
+  **(1)** Subsection 10(2) of the Act is repealed.
+
+  **(2)** Subsection 10(3) of the Act is replaced by the following:
+
+    **(3)** Before a person's citizenship or renunciation of citizenship may be revoked, the Minister shall provide the person with a written notice that
+
+      advises the person of his or her right to make written representations;
+
+      specifies the form and manner in which the representations must be made;
+
+      sets out the specific grounds and reasons, including reference to materials, on which the Minister is relying to make his or her decision; and
+
+      advises the person that the case will be referred to the Court unless the person requests that the case be decided by the Minister.
+
+    **(3.1)** The person may, within 60 days after the day on which the notice is sent, or within any extended time that the Minister may allow for special reasons,
+
+      make written representations with respect to the matters set out in the notice, including any considerations respecting his or her personal circumstances — such as the best interests of a child directly affected — that warrant special relief in light of all the circumstances of the case and whether the decision will render the person stateless; and
+
+      request that the case be decided by the Minister.
+
+    **(3.2)** The Minister shall consider any representations received from the person pursuant to paragraph (3.1)(a) before making a decision.
+
+  **(3)** The Act is amended by adding the following after subsection 10(4):
+
+    **(4.1)** The Minister shall refer the case to the Court under subsection 10.1(1) unless
+
+      the person has made written representations under paragraph (3.1)(a) and the Minister is satisfied
+
+      on a balance of probabilities that the person has not obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances, or
+
+      that considerations respecting the person's personal circumstances warrant special relief in light of all the circumstances of the case; or
+
+      the person has made a request under paragraph (3.1)(b).
 
 ### Section 4
 
-Subsections 10.1(2) and (3) of the Act are replaced by the following:
+  **(1)** Subsection 10.1(1) of the Act is replaced by the following:
 
-**(3)** A declaration made under subsection (1) has the effect of revoking a person's citizenship or renunciation of citizenship.
+### Section 10.1
+
+      **(1)** Unless a person makes a request under paragraph 10(3.1)(b), the person's citizenship or renunciation of citizenship may be revoked only if the Minister seeks a declaration, in an action that the Minister commences, that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances and the Court makes such a declaration.
+
+  **(2)** Subsections 10.1(2) and (3) of the Act are replaced by the following:
+
+    **(3)** A declaration made under subsection (1) has the effect of revoking a person's citizenship or renunciation of citizenship.
+
+  **(3)** Subsection 10.1(4) of the Act is replaced by the following:
+
+    **(4)** For the purposes of subsection (1), if the Minister seeks a declaration that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances, with respect to a fact described in section 34, 35 or 37 of the `Immigration and Refugee Protection Act`, the Minister need prove only that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances.
 
 ### Section 5
 
 Sections 10.3 and 10.4 of the Act are repealed.
+
+### Section 5.1
+
+Subsection 10.5(1) of the Act is replaced by the following:
+
+### Section 10.5
+
+  **(1)** On the request of the Minister of Public Safety and Emergency Preparedness, the Minister shall — in the originating document that commences an action under subsection 10.1(1) on the basis that the person obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances, with respect to a fact described in section 34, 35 or 37 of the `Immigration and Refugee Protection Act` other than a fact that is also described in paragraph 36(1)(a) or (b) or (2)(a) or (b) of that Act — seek a declaration that the person who is the subject of the action is inadmissible on security grounds, on grounds of violating human or international rights or on grounds of organized criminality under, respectively, subsection 34(1), paragraph 35(1)(a) or (b) or subsection 37(1) of the `Immigration and Refugee Protection Act`.
 
 ### Section 6
 
@@ -186,6 +258,14 @@ Paragraph 5(1)(c.1) of the `Citizenship Act`, as it read immediately before the 
 
 Paragraph 5(1)(c.1) of the `Citizenship Act`, as it read immediately before the day on which subsection `1`(5) comes into force, does not apply to a person whose application for citizenship was made on or after June 11, 2015 but before the day on which that subsection comes into force and has not been finally disposed of before the day on which that subsection comes into force.
 
+### Section 17.1
+
+Until the day on which subsection 1(6) comes into force, paragraphs 5(1)(d) and (e) of the `Citizenship Act` are replaced by the following:
+
+if 18 years of age or more but less than 65 years of age at the date of his or her application, has an adequate knowledge of one of the official languages of Canada;
+
+if 18 years of age or more but less than 65 years of age at the date of his or her application, demonstrates in one of the official languages of Canada that he or she has an adequate knowledge of Canada and of the responsibilities and privileges of citizenship; and
+
 ### Section 18
 
 Paragraphs 5(1)(d) and (e) of the `Citizenship Act`, as enacted by subsection `1`(6), apply to a person whose application for citizenship was made on or after June 11, 2015 but before the day on which that subsection comes into force and has not been finally disposed of before the day on which that subsection comes into force.
@@ -194,9 +274,19 @@ Paragraphs 5(1)(d) and (e) of the `Citizenship Act`, as enacted by subsection `1
 
 Paragraphs 5(2)(c) and (d) of the `Citizenship Act`, as they read immediately before the day on which subsection `1`(9) comes into force, do not apply to a person whose application for citizenship was made on or after June 11, 2015 but before the day on which that subsection comes into force and has not been finally disposed of before the day on which that subsection comes into force.
 
+### Section 19.1
+
+  **(1)** Any decision that is made under subsection 10(1) of the `Citizenship Act` as it read immediately before the day on which subsection 3(2) comes into force and that is set aside by the Federal Court and sent back for a redetermination on or after that day is to be determined in ac­cordance with that Act as it reads on that day.
+
+  **(2)** A proceeding that is pending before the Federal Court before the day on which subsection 3(2) comes into force as a result of an action commenced under subsection 10.1(1) of the `Citizenship Act` is to be dealt with and disposed of in accordance with that Act as it read immediately before that day.
+
 ### Section 20
 
 A person whose citizenship was revoked under subsection 10(2) of the `Citizenship Act`, as it read immediately before the day on which section `3` comes into force, is deemed never to have had their citizenship revoked.
+
+### Section 20.1
+
+If, before the day on which subsection 3(2) comes into force, a notice has been given to a person under subsection 10(3) of the `Citizenship Act` and a decision has not been made by the Minister before that day, the person may, within 30 days after that day, request to have the matter dealt with and disposed of as if the notice had been given under subsection 10(3) of that Act as it reads on that day.
 
 ### Section 21
 
@@ -242,6 +332,8 @@ subsection 10.1(3) of the `Citizenship Act`, other than in the circumstances set
   **(2)** Subsections `1`(2) and (4) come into force on a day to be fixed by order of the Governor in Council.
 
   **(3)** Subsections `1`(6), (9) and (10) and section `13` come into force on a day to be fixed by order of the Governor in Council.
+
+  **(3.1)** Subsections 3(2) and (3) and 4(1) and (3) and section 5.1 come into force on a day to be fixed by order of the Governor in Council.
 
   **(4)** Sections `11` and `12` come into force on a day to be fixed by order of the Governor in Council.
 
