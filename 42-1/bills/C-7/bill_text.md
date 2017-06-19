@@ -63,6 +63,14 @@ This Act may be cited as the `Federal Public Sector Labour Relations Act`.
 
 The definition **National Joint Council** in subsection 4(1) of the Act is repealed.
 
+### Section 4.1
+
+The Act is amended by adding the following after section 7:
+
+### Section 7.1
+
+Nothing in this Act is to be construed as affecting the right or authority of the Commissioner of the Royal Canadian Mounted Police under the `Royal Canadian Mounted Police Act` to ensure that police operations are effective.
+
 ### Section 5
 
 Section 13 of the Act is replaced by the following:
@@ -510,27 +518,9 @@ Sections 103 and 104 do not apply to disputes between the employer and the barga
 
 A collective agreement that applies to the bargaining unit determined under section 238.14 must not, directly or indirectly, alter or eliminate any existing term or condition of employment or establish any new term or condition of employment if
 
-doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition;
+doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition; or
 
-the term or condition is one that has been or may be established under the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`; or
-
-the term or condition relates to
-
-law enforcement techniques,
-
-transfers from one position to another and appointments,
-
-appraisals,
-
-probation,
-
-discharges or demotions,
-
-conduct, including harassment,
-
-the basic requirements for carrying out the duties of an RCMP member or a reservist, or
-
-the uniform, order of dress, equipment or medals of the Royal Canadian Mounted Police.
+the term or condition is one that has been or may be established under the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`.
 
 
 #### Essential Services, Conciliation and Strike Votes
@@ -552,29 +542,13 @@ In addition to the factors set out in subsection 148(2), the arbitration board m
 
     doing so would require the enactment or amendment of any legislation by Parliament, except for the purpose of appropriating money required for the implementation of the term or condition;
 
-    the term or condition is one that has been or may be established under the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`;
+    the term or condition is one that has been or may be established under the `Royal Canadian Mounted Police Superannuation Act`, the `Royal Canadian Mounted Police Pension Continuation Act`, the `Public Service Employment Act`, the `Public Service Superannuation Act` or the `Government Employees Compensation Act`; or
 
-    doing so would affect the organization of the public service, the categories of ***members*** as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or the assignment of duties to, and the classification of, positions and persons employed in the public service; or
+    doing so would affect either of the following:
 
-    the term or condition relates to
+    the organization of the public service, the categories of members as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act` or the assignment of duties to, and the classification of, positions and persons employed in the public service, or
 
-    law enforcement techniques,
-
-    transfers from one position to another and appointments,
-
-    appraisals,
-
-    probation,
-
-    discharges or demotions,
-
-    conduct, including harassment,
-
-    the basic requirements for carrying out the duties of an RCMP member or a reservist,
-
-    the uniform, order of dress, equipment or medals of the Royal Canadian Mounted Police, or
-
-    standards, procedures or processes governing matters referred to in any of subparagraphs (i) to (viii).
+    the right or authority of the Commissioner of the Royal Canadian Mounted Police under the `Royal Canadian Mounted Police Act` to ensure that police operations are effective.
 
   **(2)** For greater certainty, subsection 150(2) applies in respect of the arbitral award.
 
