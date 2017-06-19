@@ -109,7 +109,7 @@ If Bill C-21, introduced in the 1st session of the 42nd Parliament and entitled 
 
   **(1.1)** Subject to regulations made under paragraphs (2)(c) and (d), subsection (1) does not apply in respect of goods on board a conveyance
 
-    that enters Canadian waters, including the inland waters, or the airspace over Canada directly from outside Canada and then leaves Canada, as long as as
+    that enters Canadian waters, including the inland waters, or the airspace over Canada directly from outside Canada and then leaves Canada, as long as
 
     in the case of a conveyance other than an aircraft, the conveyance did not anchor, moor or make contact with another conveyance while in Canadian waters, including the inland waters, or
 
