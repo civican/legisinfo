@@ -1,0 +1,2141 @@
+<Bills>
+  <Bill>
+    <Id>9057418</Id>
+    <NumberCode>C-59</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>59</Number>
+    <LongTitleEn>An Act respecting national security matters</LongTitleEn>
+    <LongTitleFr>Loi concernant des questions de sécurité nationale</LongTitleFr>
+    <LongTitle>An Act respecting national security matters</LongTitle>
+    <ShortTitleEn>National Security Act, 2017</ShortTitleEn>
+    <ShortTitleFr>Loi de 2017 sur la sécurité nationale</ShortTitleFr>
+    <ShortTitle>National Security Act, 2017</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2019-06-21T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1265</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Ralph</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Goodale</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Ralph Goodale</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique et de la Protection civile</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>858</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Regina—Wascana</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Regina—Wascana</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Regina—Wascana</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2019-06-21T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>308</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2017-06-20T10:06:18.72</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2018-06-11T16:35:11</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2018-06-19T15:40:31</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2018-06-20T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2018-12-11T19:20:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2019-05-30T15:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2019-06-21T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 20 June 2017, the Minister of Public Safety and Emergency Preparedness introduced Bill C-59, An Act respecting national security matters, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 enacts the National Security and Intelligence Review Agency Act, which establishes the National Security and Intelligence Review Agency and sets out its composition, mandate and powers. It repeals the provisions of the Canadian Security Intelligence Service Act establishing the Security Intelligence Review Committee and amends that Act and other Acts in order to transfer certain powers, duties and functions to the new Agency. It also makes related and consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Intelligence Commissioner Act, which provides that the duties and functions of the Intelligence Commissioner are to review the conclusions on the basis of which certain authorizations are issued or amended, and determinations are made, under the Communications Security Establishment Act and the Canadian Security Intelligence Service Act and to approve those authorizations, admendments and determinations if those conclusions are reasonable. This Part also abolishes the position of the Commissioner of the Communications Security Establishment, provides for that Commissioner to become the Intelligence Commissioner, transfers the employees of the former Commissioner to the office of the new Commissioner and makes related and consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 3 enacts the Communications Security Establishment Act, which establishes the Communications Security Establishment and, among other things, sets out the Establishment's mandate as well as the regime for authorizing its activities. It also amends the National Defence Act and makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Canadian Security Intelligence Service Act to&lt;br/&gt;&lt;br/&gt;(a) add a preamble to that Act and provide a mechanism to enhance the accountability of the Canadian Security Intelligence Service;&lt;br/&gt;(b) add new limits on the exercise of the Service's power to reduce threats to the security of Canada including, in particular, by setting out a list of measures that may be authorized by the Federal Court;&lt;br/&gt;(c) provide a justification, subject to certain limitations, for the commission of acts or omissions that would otherwise constitute offences; &lt;br/&gt;(d) exempt employees of the Service and persons acting under their direction from liability for offences related to acts committed for the sole purpose of establishing or maintaining a covert identity;&lt;br/&gt;(e) create a regime for the Service to collect, retain, query and exploit datasets in the course of performing its duties and functions;&lt;br/&gt;(f) make amendments to the warrant regime that are related to datasets; and&lt;br/&gt;(g) implement measures for the management of datasets.&lt;br/&gt;&lt;br/&gt;Part 5 amends the Security of Canada Information Sharing Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) emphasize that the Act addresses only the disclosure of information and not its collection or use;&lt;br/&gt;(b) clarify the definition of "activity that undermines the security of Canada";&lt;br/&gt;(c) clarify that advocacy, protest, dissent and artistic expression are not activities that undermine the security of Canada unless they are carried on in conjunction with an activity that undermines the security of Canada;&lt;br/&gt;(d) provide that a disclosure of information is authorized only if the disclosure will contribute to the carrying out by the recipient institution of its national security responsibilities and will not affect any person's privacy interest more than reasonably necessary;&lt;br/&gt;(e) require that information disclosed be accompanied by information about the accuracy of the disclosed information and the reliability of the manner in which it was obtained; and&lt;br/&gt;(f) require that records be prepared and kept in respect of every disclosure of information and that every year a copy of every record prepared in the preceding year be provided to the National Security and Intelligence Review Agency.&lt;br/&gt;&lt;br/&gt;Part 6 amends the Secure Air Travel Act to authorize the Minister of Public Safety and Emergency Preparedness to collect from air carriers and operators of aviation reservation systems, for the purpose of identifying listed persons, information about any individuals who are on board or expected to be on board an aircraft for any flight prescribed by regulation, and to exempt an air carrier from providing that information, or from the application of any provision of the regulations, in certain circumstances. It amends the Act to authorize that Minister to collect personal information from individuals for the purpose of issuing a unique identifier to them to assist with pre-flight verification of their identity. It also reverses the rule in relation to a deemed decision on an application for administrative recourse. Finally, it amends the Act to provide for certain other measures related to the collection, disclosure and destruction of information.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Criminal Code to, among other things,&lt;br/&gt;&lt;br/&gt;(a) make certain procedural modifications to the terrorist listing regime under section 83.05, such as providing for a staggered ministerial review of listed entities and granting the Minister of Public Safety and Emergency Preparedness the authority to amend the names, including aliases, of listed entities;&lt;br/&gt;(b) change the offence of advocating or promoting terrorism offences in general, in section 83.221, to one of counselling the commission of a terrorism offence, and make corresponding changes to the definition of terrorist propaganda;&lt;br/&gt;(c) raise one of the thresholds for imposing a recognizance with conditions under section 83.3, and amend when that section is to be reviewed and, unless extended by Parliament, to cease to have effect;&lt;br/&gt;(d) repeal sections 83.28 and 83.29 relating to an investigative hearing into a terrorism offence and repeal subsections 83.31(1) and (1.1), which require annual reports on such hearings;&lt;br/&gt;(e) require the Attorney General of Canada to publish a report each year setting out the number of terrorism recognizances entered into under section 810.011 in the previous year; and&lt;br/&gt;(f) authorize a court, in proceedings for recognizances under any of sections 83 and 810 to 810.2, to make orders for the protection of witnesses.&lt;br/&gt;&lt;br/&gt;Part 8 amends the Youth Criminal Justice Act to, among other things, ensure that the protections that are afforded to young persons apply in respect of proceedings in relation to recognizance orders, including those related to terrorism, and give employees of a department or agency of the Government of Canada access to youth records, for the purpose of administering the Canadian Passport Order.&lt;br/&gt;&lt;br/&gt;Part 9 requires that a comprehensive review of the provisions and operation of this enactment take place during the sixth year after section 168 of this enactment comes into force. If that section 168 and section 34 of Bill C-22, introduced in the 1st session of the 42nd Parliament and entitled the National Security and Intelligence Committee of Parliamentarians Act, come into force within one year of each other, the reviews required by those sections are to take place at the same time and are to be undertaken by the same committee or committees.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca. &lt;br/&gt;&lt;br/&gt;Le 20 juin 2017, le Ministre de la Sécurité publique et de la Protection civile a déposé le projet de loi C-59, Loi concernant des questions de sécurité nationale, à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 édicte la Loi sur l'Office de surveillance des activités en matière de sécurité nationale et de renseignement qui constitue l'Office de surveillance des activités en matière de sécurité nationale et de renseignement et qui en prévoit la composition, le mandat et les pouvoirs. Elle abroge les dispositions de la Loi sur le Service canadien du renseignement de sécurité qui constituent le comité de surveillance des activités de renseignement de sécurité et modifie cette loi et d'autres lois en vue du transfert de certaines attributions au nouvel office. Elle apporte aussi des modifications connexes et corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 2 édicte la Loi sur le commissaire au renseignement qui prévoit que le commissaire au renseignement examine les conclusions sur lesquelles reposent certaines autorisations accordées ou modifiées et certaines déterminations effectuées au titre de la Loi sur le Centre de la sécurité des télécommunications et de la Loi sur le Service canadien du renseignement de sécurité et approuve ces autorisations, modifications et déterminations si elles reposent sur des conclusions raisonnables. De plus, cette partie abolit la fonction de commissaire du Centre de la sécurité des télécommunications, prévoit que ce dernier devient le commissaire au renseignement, transfère les employés de l'ancien bureau au bureau du nouveau commissaire et apporte des modifications connexes et corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 3 édicte la Loi sur le Centre de la sécurité des télécommunications, qui constitue le Centre de la sécurité des télécommunications et établit, entre autres, le mandat et le régime d'autorisation des activités du Centre. Elle modifie également la Loi sur la Défense nationale et apporte des modifications corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 4 modifie la Loi sur le Service canadien du renseignement de sécurité afin?: &lt;br/&gt;&lt;br/&gt;a) d'y ajouter un préambule et de prévoir un mécanisme permettant de rehausser la reddition de comptes du Service canadien du renseignement de sécurité;&lt;br/&gt;b) d'apporter de nouvelles restrictions à l'exercice des pouvoirs du Service pour réduire les menaces envers la sécurité du Canada en prévoyant, notamment, une liste de mesures pouvant être autorisées par la Cour fédérale;&lt;br/&gt;c) de prévoir une justification, assortie de certaines restrictions, pour la commission d'actes ou d'omissions qui constitueraient par ailleurs des infractions;&lt;br/&gt;d) d'exempter les employés du Service, ainsi que les personnes qui agissent sous leur direction, de toute responsabilité relativement aux infractions se rapportant à des actes posés dans le seul but d'établir ou de préserver une identité cachée;&lt;br/&gt;e) de créer un régime permettant au Service de recueillir, de conserver, d'interroger et d'exploiter des ensembles de données dans le cadre de ses fonctions;&lt;br/&gt;f) d'apporter des modifications au régime des mandats qui sont liées aux ensembles de données;&lt;br/&gt;g) de mettre en place des mesures de gestion des ensembles de données.&lt;br/&gt;&lt;br/&gt;La partie 5 modifie la Loi sur la communication d'information ayant trait à la sécurité du Canada afin, notamment?: &lt;br/&gt;&lt;br/&gt;a) de souligner que cette loi a trait seulement à la communication d'information et non à la collecte ou à l'utilisation d'information;&lt;br/&gt;b) de préciser la définition de «?activité portant atteinte à la sécurité du Canada?»;&lt;br/&gt;c) de préciser que, à moins d'avoir un lien avec une activité portant atteinte à la sécurité du Canada, les activités de défense d'une cause, de protestation, de manifestation d'un désaccord ou d'expression artistique ne sont pas des activités portant atteinte à la sécurité du Canada;&lt;br/&gt;d) de prévoir que la communication d'information est autorisée seulement si cette communication aidera à l'exercice des attributions de l'institution destinataire en matière de sécurité nationale et que son incidence sur le droit à la vie privée de toute personne sera limitée à ce qui est raisonnablement nécessaire dans les circonstances;&lt;br/&gt;e) de prévoir que l'information communiquée doit être accompagnée de renseignements sur son exactitude et la fiabilité quant à la façon dont elle a été obtenue;&lt;br/&gt;f) d'exiger que des documents soient préparés et conservés à l'égard de toute information communiquée et qu'une copie des documents préparés au cours de l'année soit fournie à l'Office de surveillance des activités en matière de sécurité nationale et de renseignement chaque année.&lt;br/&gt;&lt;br/&gt;La partie 6 modifie la Loi sur la sûreté des déplacements aériens afin d'autoriser le ministre de la Sécurité publique et de la Protection civile d'une part, à recueillir des renseignements auprès des transporteurs aériens et des exploitants de systèmes de réservation de services aériens au sujet de toute personne qui est ou sera vraisemblablement à bord d'un aéronef pour tout vol visé par règlement afin d'identifier les personnes inscrites et, d'autre part, à soustraire un transporteur aérien à l'obligation de lui fournir ces renseignements ou à l'application d'une disposition des règlements dans certaines circonstances. Elle modifie également cette loi pour autoriser le ministre à recueillir les renseignements personnels de personnes afin de leur attribuer un identifiant unique pouvant servir à la vérification de leur identité avant leur départ à bord d'aéronefs. Elle renverse par ailleurs la présomption applicable aux demandes de recours administratifs. Enfin, la partie 6 modifie cette loi afin de prévoir d'autres mesures relatives à la collecte, à la communication et à la destruction de renseignements.&lt;br/&gt;&lt;br/&gt;La partie 7 modifie le Code criminel afin, notamment?: &lt;br/&gt;&lt;br/&gt;a) d'apporter certaines modifications de nature procédurale au régime d'inscription d'entités impliquées dans des activités terroristes prévu par l'article 83.05, notamment en prévoyant des examens ministériels à échéances diverses des entités inscrites et en donnant au ministre de la Sécurité publique et de la Protection civile le pouvoir de modifier les noms des entités inscrites, y compris les divers noms sous lesquels elles sont connues;&lt;br/&gt;b) de remplacer l'infraction de préconiser ou fomenter la commission d'une infraction de terrorisme en général, à l'article 83.221, par l'infraction de conseiller la commission d'infractions de terrorisme et de modifier en conséquence la définition de «?propagande terroriste?»;&lt;br/&gt;c) de relever un des seuils quant à l'imposition d'un engagement assorti de conditions au titre de l'article 83.3, ainsi que de modifier le moment de l'examen de cet article et celui où cet article cesse d'avoir effet, sauf si le Parlement proroge l'application;&lt;br/&gt;d) d'abroger les articles 83.28 et 83.29 qui portent sur une investigation relative à une infraction de terrorisme, ainsi que les paragraphes 83.31(1) et (1.1), qui exigent des rapports annuels sur celle-ci;&lt;br/&gt;e) d'exiger du procureur général du Canada qu'il publie un rapport annuel indiquant le nombre d'engagements portant sur le terrorisme contractés pour l'année précédente au titre de l'article 810.011;&lt;br/&gt;f) d'autoriser le tribunal, dans le cadre de procédures d'engagements visées aux articles 83 et 810 à 810.2, à rendre des ordonnances visant la protection de témoins.&lt;br/&gt;&lt;br/&gt;La partie 8 modifie la Loi sur le système de justice pénale pour les adolescents afin, notamment, que les protections accordées aux adolescents s'appliquent à l'égard des procédures relatives aux engagements, y compris celles en matière de terrorisme, et que les employés d'un ministère ou organisme fédéral puissent avoir accès aux dossiers des adolescents pour l'application du Décret sur les passeports canadiens.&lt;br/&gt;&lt;br/&gt;La partie 9 exige qu'un examen approfondi des dispositions et de l'application du présent texte soit fait au cours de la sixième année qui suit l'entrée en vigueur de l'article 168 du présent texte. Si cet article 168 et l'article 34 du projet de loi C-22, déposé au cours de la 1re session de la 42e législature et intitulé Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement, entrent en vigueur dans une période d'un an l'un de l'autre, les examens requis par chacun seront faits au même moment par le même comité ou les mêmes comités.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 20 June 2017, the Minister of Public Safety and Emergency Preparedness introduced Bill C-59, An Act respecting national security matters, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Part 1 enacts the National Security and Intelligence Review Agency Act, which establishes the National Security and Intelligence Review Agency and sets out its composition, mandate and powers. It repeals the provisions of the Canadian Security Intelligence Service Act establishing the Security Intelligence Review Committee and amends that Act and other Acts in order to transfer certain powers, duties and functions to the new Agency. It also makes related and consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Intelligence Commissioner Act, which provides that the duties and functions of the Intelligence Commissioner are to review the conclusions on the basis of which certain authorizations are issued or amended, and determinations are made, under the Communications Security Establishment Act and the Canadian Security Intelligence Service Act and to approve those authorizations, admendments and determinations if those conclusions are reasonable. This Part also abolishes the position of the Commissioner of the Communications Security Establishment, provides for that Commissioner to become the Intelligence Commissioner, transfers the employees of the former Commissioner to the office of the new Commissioner and makes related and consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 3 enacts the Communications Security Establishment Act, which establishes the Communications Security Establishment and, among other things, sets out the Establishment's mandate as well as the regime for authorizing its activities. It also amends the National Defence Act and makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Canadian Security Intelligence Service Act to&lt;br/&gt;&lt;br/&gt;(a) add a preamble to that Act and provide a mechanism to enhance the accountability of the Canadian Security Intelligence Service;&lt;br/&gt;(b) add new limits on the exercise of the Service's power to reduce threats to the security of Canada including, in particular, by setting out a list of measures that may be authorized by the Federal Court;&lt;br/&gt;(c) provide a justification, subject to certain limitations, for the commission of acts or omissions that would otherwise constitute offences; &lt;br/&gt;(d) exempt employees of the Service and persons acting under their direction from liability for offences related to acts committed for the sole purpose of establishing or maintaining a covert identity;&lt;br/&gt;(e) create a regime for the Service to collect, retain, query and exploit datasets in the course of performing its duties and functions;&lt;br/&gt;(f) make amendments to the warrant regime that are related to datasets; and&lt;br/&gt;(g) implement measures for the management of datasets.&lt;br/&gt;&lt;br/&gt;Part 5 amends the Security of Canada Information Sharing Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) emphasize that the Act addresses only the disclosure of information and not its collection or use;&lt;br/&gt;(b) clarify the definition of "activity that undermines the security of Canada";&lt;br/&gt;(c) clarify that advocacy, protest, dissent and artistic expression are not activities that undermine the security of Canada unless they are carried on in conjunction with an activity that undermines the security of Canada;&lt;br/&gt;(d) provide that a disclosure of information is authorized only if the disclosure will contribute to the carrying out by the recipient institution of its national security responsibilities and will not affect any person's privacy interest more than reasonably necessary;&lt;br/&gt;(e) require that information disclosed be accompanied by information about the accuracy of the disclosed information and the reliability of the manner in which it was obtained; and&lt;br/&gt;(f) require that records be prepared and kept in respect of every disclosure of information and that every year a copy of every record prepared in the preceding year be provided to the National Security and Intelligence Review Agency.&lt;br/&gt;&lt;br/&gt;Part 6 amends the Secure Air Travel Act to authorize the Minister of Public Safety and Emergency Preparedness to collect from air carriers and operators of aviation reservation systems, for the purpose of identifying listed persons, information about any individuals who are on board or expected to be on board an aircraft for any flight prescribed by regulation, and to exempt an air carrier from providing that information, or from the application of any provision of the regulations, in certain circumstances. It amends the Act to authorize that Minister to collect personal information from individuals for the purpose of issuing a unique identifier to them to assist with pre-flight verification of their identity. It also reverses the rule in relation to a deemed decision on an application for administrative recourse. Finally, it amends the Act to provide for certain other measures related to the collection, disclosure and destruction of information.&lt;br/&gt;&lt;br/&gt;Part 7 amends the Criminal Code to, among other things,&lt;br/&gt;&lt;br/&gt;(a) make certain procedural modifications to the terrorist listing regime under section 83.05, such as providing for a staggered ministerial review of listed entities and granting the Minister of Public Safety and Emergency Preparedness the authority to amend the names, including aliases, of listed entities;&lt;br/&gt;(b) change the offence of advocating or promoting terrorism offences in general, in section 83.221, to one of counselling the commission of a terrorism offence, and make corresponding changes to the definition of terrorist propaganda;&lt;br/&gt;(c) raise one of the thresholds for imposing a recognizance with conditions under section 83.3, and amend when that section is to be reviewed and, unless extended by Parliament, to cease to have effect;&lt;br/&gt;(d) repeal sections 83.28 and 83.29 relating to an investigative hearing into a terrorism offence and repeal subsections 83.31(1) and (1.1), which require annual reports on such hearings;&lt;br/&gt;(e) require the Attorney General of Canada to publish a report each year setting out the number of terrorism recognizances entered into under section 810.011 in the previous year; and&lt;br/&gt;(f) authorize a court, in proceedings for recognizances under any of sections 83 and 810 to 810.2, to make orders for the protection of witnesses.&lt;br/&gt;&lt;br/&gt;Part 8 amends the Youth Criminal Justice Act to, among other things, ensure that the protections that are afforded to young persons apply in respect of proceedings in relation to recognizance orders, including those related to terrorism, and give employees of a department or agency of the Government of Canada access to youth records, for the purpose of administering the Canadian Passport Order.&lt;br/&gt;&lt;br/&gt;Part 9 requires that a comprehensive review of the provisions and operation of this enactment take place during the sixth year after section 168 of this enactment comes into force. If that section 168 and section 34 of Bill C-22, introduced in the 1st session of the 42nd Parliament and entitled the National Security and Intelligence Committee of Parliamentarians Act, come into force within one year of each other, the reviews required by those sections are to take place at the same time and are to be undertaken by the same committee or committees.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2019</StatuteYear>
+    <StatuteChapter>13</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-06-20T10:06:18.72</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>198</Number>
+          <Date>2017-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2017-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2017-06-20T10:06:18.72</EventStartDateTime>
+          <EventEndDateTime>2017-06-20T10:06:18.72</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-06-20T10:06:18.72</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60047</BillStageId>
+        <BillStageNameEn>Referral to committee before second reading</BillStageNameEn>
+        <BillStageNameFr>Renvoi à un comité avant la deuxième lecture</BillStageNameFr>
+        <BillStageName>Referral to committee before second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2017-11-27T19:15:55</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>9807256</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate on the motion to refer the bill to committee before second reading</NameEn>
+          <NameFr>Débat sur la motion de renvoi du projet de loi en comité avant la deuxième lecture</NameFr>
+          <Name>Debate on the motion to refer the bill to committee before second reading</Name>
+          <Number>234</Number>
+          <Date>2017-11-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate on the motion to refer the bill to committee before second reading</NameEn>
+          <NameFr>Débat sur la motion de renvoi du projet de loi en comité avant la deuxième lecture</NameFr>
+          <Name>Debate on the motion to refer the bill to committee before second reading</Name>
+          <Number>239</Number>
+          <Date>2017-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60122</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee before second reading</EventNameEn>
+          <EventNameFr>Renvoi en comité avant la deuxième lecture</EventNameFr>
+          <EventName>Referral to committee before second reading</EventName>
+          <EventDateTime>2017-11-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60122</EventTypeId>
+          <EventTypeNameEn>Referral to committee before second reading</EventTypeNameEn>
+          <EventTypeNameFr>Renvoi en comité avant la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Referral to committee before second reading</EventTypeName>
+          <EventStartDateTime>2017-11-27T19:15:55</EventStartDateTime>
+          <EventEndDateTime>2017-11-27T19:15:55</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-11-27T19:15:55</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-05-03T09:13:46.203</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>9807256</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>291</Number>
+          <Date>2018-05-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2017-11-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2017-12-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2017-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2017-12-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>93</Number>
+          <Date>2018-01-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>94</Number>
+          <Date>2018-02-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>95</Number>
+          <Date>2018-02-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>96</Number>
+          <Date>2018-02-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>97</Number>
+          <Date>2018-02-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>98</Number>
+          <Date>2018-02-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>101</Number>
+          <Date>2018-03-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>104</Number>
+          <Date>2018-04-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>105</Number>
+          <Date>2018-04-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>106</Number>
+          <Date>2018-04-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>107</Number>
+          <Date>2018-04-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21455</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>108</Number>
+          <Date>2018-04-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-05-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9801730</CommitteeReportId>
+          <CommitteeReportNumber>19</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-05-03T09:13:46.203</EventStartDateTime>
+          <EventEndDateTime>2018-05-03T09:13:46.203</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-03T09:13:46.203</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60048</BillStageId>
+        <BillStageNameEn>Report stage and second reading</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport et deuxième lecture</BillStageNameFr>
+        <BillStageName>Report stage and second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-11T16:35:11</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage and second reading</NameEn>
+          <NameFr>Débat à l'étape du rapport et de la deuxième lecture</NameFr>
+          <Name>Debate at report stage and second reading</Name>
+          <Number>302</Number>
+          <Date>2018-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage and second reading</NameEn>
+          <NameFr>Débat à l'étape du rapport et de la deuxième lecture</NameFr>
+          <Name>Debate at report stage and second reading</Name>
+          <Number>310</Number>
+          <Date>2018-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage and second reading</NameEn>
+          <NameFr>Débat à l'étape du rapport et de la deuxième lecture</NameFr>
+          <Name>Debate at report stage and second reading</Name>
+          <Number>312</Number>
+          <Date>2018-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60128</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage and second reading</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport et de la deuxième lecture</EventNameFr>
+          <EventName>Concurrence at report stage and second reading</EventName>
+          <EventDateTime>2018-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60128</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage and second reading</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport et de la deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage and second reading</EventTypeName>
+          <EventStartDateTime>2018-06-11T16:35:11</EventStartDateTime>
+          <EventEndDateTime>2018-06-11T16:35:11</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-11T16:35:11</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-19T15:40:31</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>316</Number>
+          <Date>2018-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>317</Number>
+          <Date>2018-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10228128</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9995074</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading  - Parts 7 and 8</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture - Parties 7 et 8</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading  - Parts 7 and 8</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>873</DivisionNumber>
+          <DivisionVotesYeas>176</DivisionVotesYeas>
+          <DivisionVotesNays>129</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2018-06-19T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>317</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-06-19T15:40:31</EventStartDateTime>
+          <EventEndDateTime>2018-06-19T15:40:31</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-19T15:40:31</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>224</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2018-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-12-11T19:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>229</Number>
+          <Date>2018-09-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>235</Number>
+          <Date>2018-10-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>238</Number>
+          <Date>2018-10-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>240</Number>
+          <Date>2018-10-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>241</Number>
+          <Date>2018-10-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>244</Number>
+          <Date>2018-11-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>246</Number>
+          <Date>2018-11-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>247</Number>
+          <Date>2018-11-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>253</Number>
+          <Date>2018-11-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>258</Number>
+          <Date>2018-12-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>261</Number>
+          <Date>2018-12-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2018-12-11T19:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2018-12-11T19:22:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2018-12-11T19:20:00</EventStartDateTime>
+          <EventEndDateTime>2018-12-11T19:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-12-11T19:22:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>95498</PersonId>
+          <PersonOfficialFirstName>Marc</PersonOfficialFirstName>
+          <PersonOfficialLastName>Gold</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Marc Gold</PersonName>
+          <SenateSystemAffiliationId>208003</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>229</MeetingNumber>
+          <SpeechDateTime>2018-09-25T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/229db_2018-09-25-e#27</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/229db_2018-09-25-f#27</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/229db_2018-09-25-e#27</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>62704</PersonId>
+          <PersonOfficialFirstName>Carolyn</PersonOfficialFirstName>
+          <PersonOfficialLastName>Stewart Olsen</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Carolyn Stewart Olsen</PersonName>
+          <SenateSystemAffiliationId>2860</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>235</MeetingNumber>
+          <SpeechDateTime>2018-10-16T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/235db_2018-10-16-e#66</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/235db_2018-10-16-f#66</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/235db_2018-10-16-e#66</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2019-05-15T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>289</Number>
+          <Date>2019-05-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>73</Number>
+          <Date>2019-04-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>74</Number>
+          <Date>2019-04-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>75</Number>
+          <Date>2019-05-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>76</Number>
+          <Date>2019-05-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>78</Number>
+          <Date>2019-05-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>79</Number>
+          <Date>2019-05-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2019-05-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>With observations</AdditionalInformationEn>
+          <AdditionalInformationFr>Avec des observations</AdditionalInformationFr>
+          <AdditionalInformation>With observations</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2019-05-15T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-15T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-15T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-05-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>290</Number>
+          <Date>2019-05-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report adopted</NameEn>
+          <NameFr>Adoption du rapport de comité</NameFr>
+          <Name>Committee report adopted</Name>
+          <Number>291</Number>
+          <Date>2019-05-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2019-05-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2019-05-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-05-30T15:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>293</Number>
+          <Date>2019-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>294</Number>
+          <Date>2019-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2019-05-30T15:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2019-05-30T15:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-30T15:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-30T15:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>308</Number>
+          <Date>2019-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2019-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2019-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2019-05-30T15:05:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>294</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-07T13:26:44</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>429</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-11T20:30:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>431</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2019-06-11T20:40:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>431</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2019-06-11T21:35:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>431</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2019-06-12T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>301</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2019-06-18T14:46:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>305</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>The Senate does not insist on its amendment(s)</EventNameEn>
+        <EventNameFr>Le Sénat n'insiste pas sur ses amendements</EventNameFr>
+        <EventName>The Senate does not insist on its amendment(s)</EventName>
+        <Date>2019-06-18T17:55:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>305</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>9067588</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9828217</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9996834</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10593712</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>406</DivisionNumber>
+      <DivisionSubjectEn>Bill C-59, An Act respecting national security matters (referral to a committee before second reading)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-59, Loi concernant des questions de sécurité nationale (renvoi à un comité avant la deuxième lecture)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-59, An Act respecting national security matters (referral to a committee before second reading)</DivisionSubject>
+      <DivisionVotesYeas>164</DivisionVotesYeas>
+      <DivisionVotesNays>118</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>282</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2017-11-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>737</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-59, An Act respecting national security matters</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-59, Loi concernant des questions de sécurité nationale</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-59, An Act respecting national security matters</DivisionSubject>
+      <DivisionVotesYeas>148</DivisionVotesYeas>
+      <DivisionVotesNays>55</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>203</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-06T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>746</DivisionNumber>
+      <DivisionSubjectEn>Bill C-59, An Act respecting national security matters (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-59, Loi concernant des questions de sécurité nationale (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-59, An Act respecting national security matters (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>41</DivisionVotesYeas>
+      <DivisionVotesNays>251</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>294</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>747</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage and second reading of Bill C-59, An Act respecting national security matters</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport et deuxième lecture du projet de loi C-59, Loi concernant des questions de sécurité nationale</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage and second reading of Bill C-59, An Act respecting national security matters</DivisionSubject>
+      <DivisionVotesYeas>168</DivisionVotesYeas>
+      <DivisionVotesNays>125</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>295</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>871</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-59, An Act respecting national security matters - Parts 1 to 5, part 9, clauses 169 to 172, the title and the preamble</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-59, Loi concernant des questions de sécurité nationale - Parties 1 à 5, Partie 9, les articles 169 à 172, le titre et le préambule</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-59, An Act respecting national security matters - Parts 1 to 5, part 9, clauses 169 to 172, the title and the preamble</DivisionSubject>
+      <DivisionVotesYeas />
+      <DivisionVotesNays />
+      <DivisionVotePaired />
+      <DivisionVoteTotal>0</DivisionVoteTotal>
+      <DecisionResultId>17</DecisionResultId>
+      <DecisionResultNameEn>Tie</DecisionResultNameEn>
+      <DecisionResultNameFr>Égalité</DecisionResultNameFr>
+      <DecisionResultName>Tie</DecisionResultName>
+      <DecisionDateTime>2018-06-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>true</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>872</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-59, An Act respecting national security matters</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-59, Loi concernant des questions de sécurité nationale</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-59, An Act respecting national security matters</DivisionSubject>
+      <DivisionVotesYeas>259</DivisionVotesYeas>
+      <DivisionVotesNays>47</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>306</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>873</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-59, An Act respecting national security matters</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-59, Loi concernant des questions de sécurité nationale</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-59, An Act respecting national security matters</DivisionSubject>
+      <DivisionVotesYeas>176</DivisionVotesYeas>
+      <DivisionVotesNays>129</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>305</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1350</DivisionNumber>
+      <DivisionSubjectEn>Motion for closure</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion de clôture</DivisionSubjectFr>
+      <DivisionSubject>Motion for closure</DivisionSubject>
+      <DivisionVotesYeas>153</DivisionVotesYeas>
+      <DivisionVotesNays>96</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>255</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1351</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-59, An Act respecting national security matters (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-59,Loi concernant des questions de sécurité nationale (amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-59, An Act respecting national security matters (amendment)</DivisionSubject>
+      <DivisionVotesYeas>86</DivisionVotesYeas>
+      <DivisionVotesNays>162</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>254</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1352</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-59, An Act respecting national security matters</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-59,Loi concernant des questions de sécurité nationale</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-59, An Act respecting national security matters</DivisionSubject>
+      <DivisionVotesYeas>155</DivisionVotesYeas>
+      <DivisionVotesNays>93</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>254</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>42</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>234</MeetingNumber>
+      <HansardNumber>9786298</HansardNumber>
+      <RulingStatementDateTime>2017-11-20T17:48:57</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>42</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>316</MeetingNumber>
+      <HansardNumber>10225129</HansardNumber>
+      <RulingStatementDateTime>2018-06-18T15:56:49</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government bolsters rights and security in comprehensive proposed legislation</TitleEn>
+      <TitleFr>Le gouvernement renforce les droits et la sécurité dans le cadre d'un projet de loi exhaustif</TitleFr>
+      <Title>Government bolsters rights and security in comprehensive proposed legislation</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2017/06/government_bolstersrightsandsecurityincomprehensiveproposedlegis.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2017/06/le_gouvernement_renforcelesdroitsetlasecuritedanslecadredunproje.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2017/06/government_bolstersrightsandsecurityincomprehensiveproposedlegis.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Enhancing Accountability and Transparency</TitleEn>
+      <TitleFr>Augmenter la responsabilisation et la transparence</TitleFr>
+      <Title>Enhancing Accountability and Transparency</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/enhancing-accountability-transparency.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securitenationale/notre-securite-nos-droits/augmenter-responsabilisation-transparence.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/enhancing-accountability-transparency.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Fulfilling Commitments to Address Former C-51</TitleEn>
+      <TitleFr>Respecter les engagements pris pour aborder l'ancien projet de loi C-51</TitleFr>
+      <Title>Fulfilling Commitments to Address Former C-51</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/fulfilling-commitments-address-former-c51.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securitenationale/notre-securite-nos-droits/respecter-engagements-pris-aborder-lancien-projet-c51.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/fulfilling-commitments-address-former-c51.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Strengthening Security and Protecting Rights</TitleEn>
+      <TitleFr>Renforcer la sécurité tout en protégeant les droits</TitleFr>
+      <Title>Strengthening Security and Protecting Rights</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/strengthening-security-protecting-rights.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securitenationale/notre-securite-nos-droits/renforcer-securite-protegeant-droits.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights/strengthening-security-protecting-rights.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Our Security, Our Rights (Government of Canada)</TitleEn>
+      <TitleFr>Notre sécurité, nos droits (Gouvernement du Canada)</TitleFr>
+      <Title>Our Security, Our Rights (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securitenationale/notre-securite-nos-droits.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/nationalsecurity/our-security-our-rights.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed Authorities And Capabilities For Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>Pouvoirs proposés et capacités du Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Proposed Authorities And Capabilities For Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/proposed-proposes</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/proposed-proposes</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/proposed-proposes</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Accountability and Transparency - Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>Reddition de comptes et transparence - Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Accountability and Transparency - Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/accountability-responsabilite</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/accountability-responsabilite</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/accountability-responsabilite</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>National Security Transparency Commitment</TitleEn>
+      <TitleFr>Engagement de transparence en matière de sécurité nationale</TitleFr>
+      <Title>National Security Transparency Commitment</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securitenationale/engagement-transparence-securite-nationale.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/nationalsecurity/national-security-transparency-commitment.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amendments to the CSIS Act - Threat Reduction Measures</TitleEn>
+      <TitleFr>Modifications apportées à la Loi sur le SCRS – Mesures de réduction de la menace</TitleFr>
+      <Title>Amendments to the CSIS Act - Threat Reduction Measures</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/security-intelligence-service/news/2017/06/amendments_to_thecsisact-threatreductionmeasures.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/service-renseignement-securite/nouvelles/2017/06/modifications_apporteesalaloisurlescrsmesuresdereductiondelamena.html</UrlFr>
+      <Url>https://www.canada.ca/en/security-intelligence-service/news/2017/06/amendments_to_thecsisact-threatreductionmeasures.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Privacy Under The Proposed CSE Act - Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>La protection de la vie privée aux termes de la Loi sur le CST proposée - Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Privacy Under The Proposed CSE Act - Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/privacy-privee</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/privacy-privee</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/privacy-privee</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Foreign Signals Intelligence - Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>Renseignement électromagnétique étranger - Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Foreign Signals Intelligence - Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/signals-renseignement</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/signals-renseignement</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/signals-renseignement</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cybersecurity and Info Assurances - Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>Cybersécurité et assurance de l'information - Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Cybersecurity and Info Assurances - Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/cybersec</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/cybersec</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/cybersec</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Assistance To Federal Security And Intelligence Partners - Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>Assistance aux partenaires fédéraux de la collectivité de la sécurité et du renseignement - Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Assistance To Federal Security And Intelligence Partners - Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/assistance</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/assistance</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/assistance</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Foreign Cyber Operations - Communications Security Establishment (CSE)</TitleEn>
+      <TitleFr>Cyberopérations étrangères - Centre de la sécurité des télécommunications (CST)</TitleFr>
+      <Title>Foreign Cyber Operations - Communications Security Establishment (CSE)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/cyberop</UrlEn>
+      <UrlFr>https://www.cse-cst.gc.ca/fr/cse-act-loi-cst/cyberop</UrlFr>
+      <Url>https://www.cse-cst.gc.ca/en/cse-act-loi-cst/cyberop</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amendments to the CSIS Act – Authorization Regime</TitleEn>
+      <TitleFr>Modifications apportées à la Loi sur le SCRS – Régime d'autorisation</TitleFr>
+      <Title>Amendments to the CSIS Act – Authorization Regime</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/security-intelligence-service/news/2017/06/amendments_to_thecsisactauthorizationregime.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/service-renseignement-securite/nouvelles/2017/06/modifications_apporteesalaloisurlescrsregimedautorisation.html</UrlFr>
+      <Url>https://www.canada.ca/en/security-intelligence-service/news/2017/06/amendments_to_thecsisactauthorizationregime.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement – Bill C-59: An act respecting national security matter</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-59 : la Loi concernant des questions de sécurité nationale</TitleFr>
+      <Title>Charter Statement – Bill C-59: An act respecting national security matter</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/ns-sn.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/sn-ns.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/ns-sn.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amendments to the CSIS Act - Data Analytics</TitleEn>
+      <TitleFr>Modifications apportées à la Loi sur le SCRS – Analytique des données</TitleFr>
+      <Title>Amendments to the CSIS Act - Data Analytics</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/security-intelligence-service/news/2017/06/amendments_to_thecsisact-dataanalytics.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/service-renseignement-securite/nouvelles/2017/06/modifications_apporteesalaloisurlescrsanalytiquedesdonnees.html</UrlFr>
+      <Url>https://www.canada.ca/en/security-intelligence-service/news/2017/06/amendments_to_thecsisact-dataanalytics.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed Changes in C-59 Relating to CSIS Authorities</TitleEn>
+      <TitleFr>Modifications aux pouvoirs du SCRS prévues dans le projet de loi C-59</TitleFr>
+      <Title>Proposed Changes in C-59 Relating to CSIS Authorities</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/security-intelligence-service/news/2019/04/proposed-changes-in-c-59-relating-to-csis-authorities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/service-renseignement-securite/nouvelles/2019/04/modifications-aux-pouvoirs-du-scrs-prevues-dans-le-projet-de-loic-59.html</UrlFr>
+      <Url>https://www.canada.ca/en/security-intelligence-service/news/2019/04/proposed-changes-in-c-59-relating-to-csis-authorities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Parliamentary Passage of Bill C-59: the  National Security Act, 2017 - Enhancing Accountability and Transparency: Overview of New Measures</TitleEn>
+      <TitleFr>Adoption par le Parlement du projet de loi C-59 : la  Loi de 2017 sur la sécurité nationale - Accroître la responsabilisation et la transparence : Aperçu des nouvelles mesures</TitleFr>
+      <Title>Parliamentary Passage of Bill C-59: the  National Security Act, 2017 - Enhancing Accountability and Transparency: Overview of New Measures</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2019/06/parliamentary-passage-of-bill-c-59-the-national-security-act-2017enhancing-accountability-and-transparencyoverview-of-new-measures.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2019/06/adoption-par-le-parlement-du-projet-de-loi-c-59-la-loi-de-2017-sur-la-securite-nationaleaccroitre-la-responsabilisation-et-la-transparenceapercu-de.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2019/06/parliamentary-passage-of-bill-c-59-the-national-security-act-2017enhancing-accountability-and-transparencyoverview-of-new-measures.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Parliamentary Passage of Bill C-59: the National Security Act, 2017 - Fulfilling Commitments to Address Former Bill C-51: Overview of New Measures</TitleEn>
+      <TitleFr>Adoption par le Parlement du projet de loi C-59 : la Loi de 2017 sur la sécurité nationale - Respecter les engagements pris à l'égard de l'ancien projet de loi C-51 : Aperçu des nouvelles mesures</TitleFr>
+      <Title>Parliamentary Passage of Bill C-59: the National Security Act, 2017 - Fulfilling Commitments to Address Former Bill C-51: Overview of New Measures</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2019/06/parliamentary-passage-of-bill-c-59-the-national-security-act-2017---fulfilling-commitments-to-address-former-bill-c-51overview-of-new-measures.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2019/06/adoption-par-le-parlement-du-projet-de-loic-59-la-loi-de-2017-sur-la-securite-nationale--respecter-les-engagements-pris-a-legard-de-lancien-projet-.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2019/06/parliamentary-passage-of-bill-c-59-the-national-security-act-2017---fulfilling-commitments-to-address-former-bill-c-51overview-of-new-measures.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Parliamentary Passage of Bill C-59: the  National Security Act, 2017 -  Strengthening Security and Protecting Rights: Overview of New Measures</TitleEn>
+      <TitleFr>Adoption par le Parlement du projet de loi C-59 : la  Loi de 2017 sur la sécurité nationale - Renforcer la sécurité et protéger les droits : Aperçu des nouvelles mesures</TitleFr>
+      <Title>Parliamentary Passage of Bill C-59: the  National Security Act, 2017 -  Strengthening Security and Protecting Rights: Overview of New Measures</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2019/06/parliamentary-passage-of-bill-c-59-thenational-security-act-2017-strengthening-security-and-protecting-rights-overview-of-new-measures.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2019/06/adoption-par-le-parlement-du-projet-de-loic-59-laloi-de-2017-sur-la-securite-nationalerenforcer-la-securite-et-proteger-les-droits--apercu-des-nouv.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2019/06/parliamentary-passage-of-bill-c-59-thenational-security-act-2017-strengthening-security-and-protecting-rights-overview-of-new-measures.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement from Ministers Goodale, Lametti and Sajjan on the passage of  Bill C-59 in Parliament</TitleEn>
+      <TitleFr>Déclaration des ministres Goodale, Lametti et Sajjan concernant l'adoption du projet de loi C-59 par le Parlement</TitleFr>
+      <Title>Statement from Ministers Goodale, Lametti and Sajjan on the passage of  Bill C-59 in Parliament</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2019/06/statement-from-ministers-goodale-lametti-and-sajjan-on-the-passage-of-bill-c-59-in-parliament.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2019/06/declaration-des-ministresgoodale-lametti-etsajjan-concernant-ladoption-du-projet-de-loic59par-le-parlement.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2019/06/statement-from-ministers-goodale-lametti-and-sajjan-on-the-passage-of-bill-c-59-in-parliament.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3075</BibliographicNoticeId>
+      <Title>National security overhaul would give CSIS, its agents limited law-breaking immunity</Title>
+      <Author>Cristin Schmitz</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2017</PublicationDate>
+      <Classification>Radar 24528148</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3256</BibliographicNoticeId>
+      <Title>Bill C-59, an act respecting national security matters : what it does and why it matters</Title>
+      <Author>Nesbitt, Michael</Author>
+      <Publication>Alberta Law Review</Publication>
+      <VolumePage>57(1):165-174</VolumePage>
+      <PublicationDate>2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3254</BibliographicNoticeId>
+      <Title>The road not taken : missing powers to compel decryption in Bill C-59, ticking bombs, and the future of the encryption debate</Title>
+      <Author>Diab, Robert</Author>
+      <Publication>Alberta Law Review</Publication>
+      <VolumePage>57 (1):267-296</VolumePage>
+      <PublicationDate>2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3264</BibliographicNoticeId>
+      <Title>Building haystacks : information retention and data exploitation by the Canadian Security Intelligence Service</Title>
+      <Author>West, Leah and Craig Forcese</Author>
+      <Publication>Alberta Law Review</Publication>
+      <VolumePage>57 (1):175-202</VolumePage>
+      <PublicationDate>2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3265</BibliographicNoticeId>
+      <Title>Bill C-59 and CSIS's 'new' powers to disrupt terrorists threats : holding the Charter-limiting regime to (constitutional) account</Title>
+      <Author>Nesbitt, Michael</Author>
+      <Publication>Alberta Law Review</Publication>
+      <VolumePage>57 (1):233-266</VolumePage>
+      <PublicationDate>2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3281</BibliographicNoticeId>
+      <Title>The Powers of the CSE After C-59: Are Privacy Rights at Risk?</Title>
+      <Author>Stephanie Williams</Author>
+      <Publication>National journal of constitutional law</Publication>
+      <VolumePage>Vol.40 (2), p.131-151</VolumePage>
+      <PublicationDate>2020</PublicationDate>
+      <Classification>Radar 20200915</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3204</BibliographicNoticeId>
+      <Title>The spies who hate us : official misdeeds and sowing distrust in Canadian national security</Title>
+      <Author>Faisal Bhabha</Author>
+      <Publication>UNB Law Journal</Publication>
+      <VolumePage>69:160-197</VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 31358783</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3207</BibliographicNoticeId>
+      <Title>Bill C-59 and the former bill C-22 : compromised oversight and continuing threats to non-derogable rights</Title>
+      <Author>Ryan Patrick Alford</Author>
+      <Publication>UNB Law Journal</Publication>
+      <VolumePage>69:57-95</VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 31348213</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3101</BibliographicNoticeId>
+      <Title>Reforming criminal justice and national security in an age of populism</Title>
+      <Author>Kent Roach</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>64(3 &amp; 4):286-316</VolumePage>
+      <PublicationDate>August 2017</PublicationDate>
+      <Classification>Radar 25227035</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3102</BibliographicNoticeId>
+      <Title>Reinventing the Inspector General</Title>
+      <Author>Stanley A. Cohen</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>64(3 &amp; 4):522-538</VolumePage>
+      <PublicationDate>August 2017</PublicationDate>
+      <Classification>Radar 25234668</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3105</BibliographicNoticeId>
+      <Title>On the lookout : breaking down Bill C-59, Canada's latest attempt to fine-tune national security</Title>
+      <Author>Kevin Philipupillai</Author>
+      <Publication>This magazine</Publication>
+      <VolumePage>51(2):13</VolumePage>
+      <PublicationDate>September/October 2017</PublicationDate>
+      <Classification>Radar 25324421</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3095</BibliographicNoticeId>
+      <Title>Editorial : reforming criminal justice and national security</Title>
+      <Author>Kent Roach</Author>
+      <Publication>Criminal law quarterly</Publication>
+      <VolumePage>64(3 &amp; 4):271-273</VolumePage>
+      <PublicationDate>August 2017</PublicationDate>
+      <Classification>Radar 25225598</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
