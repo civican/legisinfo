@@ -1,7 +1,5 @@
 # Bill C-23: An Act respecting the preclearance of persons and goods in Canada and the United States
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 ## Summary
 
 This enactment implements the Agreement on Land, Rail, Marine, and Air Transport Preclearance between the Government of Canada and the Government of the United States of America (the Agreement), done at Washington on March 16, 2015, to provide for the preclearance in each country of travellers and goods bound for the other country.
@@ -324,7 +322,7 @@ This Act may be cited as the `Preclearance Act, 2016`.
 
     for greater certainty, animals and plants and their products, conveyances and any document in any form. (**biens**)
 
-    **Minister** means, in relation to section `6`, `7` or `8`, subsection **11(2) or** `34`(2), section `41` or `45` or subsection 59(1), a Minister designated under subsection `4`(2) for the purpose of that provision or, in the absence of such a designation, the Minister who is responsible for this Act.  (**ministre**)
+    **Minister** means, in relation to section `6`, `7` or `8`, subsection 11(2) or `34`(2), section `41` or `45` or subsection 59(1), a Minister designated under subsection `4`(2) for the purpose of that provision or, in the absence of such a designation, the Minister who is responsible for this Act.  (**ministre**)
 
   **(2)** For greater certainty, travellers or goods en route towards the United States or Canada on their way to another country are, for the purposes of this Act, bound for the United States or Canada, as the case may be.
 
@@ -341,7 +339,7 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
   **(1)** The Governor in Council may, by order, designate a federal Minister as the Minister responsible for this Act.
 
-  **(2)** The Governor in Council may, by order, designate one or more federal Ministers as the Minister or Ministers for the purpose of section 6, 7 or 8, subsection **11(2) or** 34(2), section `41` or `45` or subsection `59`(1).
+  **(2)** The Governor in Council may, by order, designate one or more federal Ministers as the Minister or Ministers for the purpose of section 6, 7 or 8, subsection 11(2) or 34(2), section `41` or `45` or subsection `59`(1).
 
   **(3)** If more than one Minister is designated under subsection (2) for the purpose of a provision, the Governor in Council must, by order, specify the circumstances in which each Minister is to exercise the powers and perform the duties or functions set out in the provision.
 
@@ -416,7 +414,7 @@ For greater certainty, Canadian law applies, and may be administered and enforce
 
 ### Section 11
 
-  ****(1)**** A preclearance officer must exercise their powers and perform their duties and functions under this Act in accordance with Canadian law, including the `Canadian Charter of Rights and Freedoms`, the `Canadian Bill of Rights` and the `Canadian Human Rights Act`.
+  **(1)** A preclearance officer must exercise their powers and perform their duties and functions under this Act in accordance with Canadian law, including the `Canadian Charter of Rights and Freedoms`, the `Canadian Bill of Rights` and the `Canadian Human Rights Act`.
 
   **(2)** The Minister must, in accordance with paragraph 2 of Article IX of the Agreement, provide every preclearance officer with training on the Canadian law that applies to the exercise of the preclearance officer's powers and the performance of their duties and functions under this Act.
 
@@ -545,7 +543,7 @@ A preclearance officer may, for the purpose of conducting preclearance, conduct 
 
     the strip search is necessary for the purpose of conducting preclearance.
 
-  **(4)** A preclearance officer may conduct the strip search,**in a manner consistent with section 11**, if they have reasonable grounds to suspect that the conditions under paragraphs (1)(a) and (b) are still met and if
+  **(4)** A preclearance officer may conduct the strip search, in a manner consistent with section 11, if they have reasonable grounds to suspect that the conditions under paragraphs (1)(a) and (b) are still met and if
 
     a border services officer declines to conduct it;
 
@@ -839,7 +837,7 @@ The Minister may, by order, authorize a person who, or class of persons that, is
 
 The following definitions apply in this Part.
 
-**border services officer** means a person who is assigned to conduct preclearance in the United States **and is**
+**border services officer** means a person who is assigned to conduct preclearance in the United States and is
 
 employed by the Canada Border Services Agency in the administration or enforcement of the `Customs Act`, the `Customs Tariff` or the `Special Import Meas-ures Act`;
 
@@ -944,7 +942,7 @@ If goods are detained under the laws of the United States by a border services o
 
   **(2)** If a traveller bound for Canada has fully met, in a preclearance area or preclearance perimeter, an obligation under the regulations that is an adaptation of an equivalent obligation under preclearance legislation or under the `Immigration and Refugee Protection Act` that applies on entry into Canada, the traveller is exempt from complying with that equivalent obligation once they enter Canada, unless a border services officer or other public officer requires the traveller to do so.
 
-  **(3)** In this section, a reference to a "border services officer or other public officer" includes a reference to a person who is **employed,** designated or authorized as set out in the definition border services officer or other public officer in section `46` but who has not been assigned to conduct preclearance in the United States.
+  **(3)** In this section, a reference to a "border services officer or other public officer" includes a reference to a person who is employed, designated or authorized as set out in the definition border services officer or other public officer in section `46` but who has not been assigned to conduct preclearance in the United States.
 
 
 ### Withdrawal
