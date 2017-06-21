@@ -42,7 +42,7 @@ Whereas the Government of Canada is encouraged to continue to monitor the progre
 
 Whereas the Parliament of Canada wishes to underscore the importance of celebrating and commemorating the notable achievements and advancements of Canadian women and addressing the challenges faced by Canadian women;
 
-Whereas Parliament wishes to encourage all levels of government, non-governmental organizations, the private sector, academia, educators and all Canadians to recognize the **fourth** week in **September** as Gender Equality Week and to mark the week with events and initiatives to address the challenges Canadian women and individuals of minority gender identity and expression continue to face;
+Whereas Parliament wishes to encourage all levels of government, non-governmental organizations, the private sector, academia, educators and all Canadians to recognize the fourth week in September as Gender Equality Week and to mark the week with events and initiatives to address the challenges Canadian women and individuals of minority gender identity and expression continue to face;
 
 And whereas all Canadians, in particular  men and those who do not identify as women, are encouraged to become and remain engaged, during Gender Equality Week and throughout the year, in achieving greater inclusiveness and full gender equality in Canada;
 
@@ -60,5 +60,5 @@ This Act may be cited as the `Gender Equality Week Act`.
 
 ### Section 2
 
-Throughout Canada, in each and every year, the **fourth** week in **September** is to be known as "Gender Equality Week".
+Throughout Canada, in each and every year, the fourth week in September is to be known as "Gender Equality Week".
 
