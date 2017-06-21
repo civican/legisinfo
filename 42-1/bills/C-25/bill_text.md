@@ -1,7 +1,5 @@
 # Bill C-25: An Act to amend the Canada Business 
 
-**Sponsor**: MINISTER OF INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT
-
 ## Summary
 
 Part 1 amends the `Canada Business Corporations Act`, the `Canada Cooperatives Act` and the `Canada Not-for-profit Corporations Act` to, among other things,
@@ -200,7 +198,7 @@ anyone who is incapable;
 
     **(8)** The directors may, unless the articles otherwise provide, appoint one or more additional directors, who shall hold office for a term ending not later than the close of the next annual meeting of shareholders, but the total number of directors so appointed shall not exceed one third of the number of directors elected at the previous annual meeting of shareholders.
 
-    **(8.1)** If **an individual who was** a candidate **in** an election held in accordance with subsection (3.4) was not elected during **that election,** the **individual** is not to be appointed, except in prescribed circumstances, as a director under subsection (8) or 111(1) before the next meeting of shareholders at which an election of directors is required.
+    **(8.1)** If an individual who was a candidate in an election held in accordance with subsection (3.4) was not elected during that election, the individual is not to be appointed, except in prescribed circumstances, as a director under subsection (8) or 111(1) before the next meeting of shareholders at which an election of directors is required.
 
 ### Section 13.1
 
@@ -228,11 +226,11 @@ Subsection 138(3) of the English version of the Act is replaced by the following
 
 ### Section 17
 
-**Subsections** 150(1) **to (2)** of the Act **are** replaced by the following:
+Subsections 150(1) to (2) of the Act are replaced by the following:
 
 ### Section 150
 
-  **(1)** A person shall not solicit proxies unless a proxy circular, in the prescribed form, is **made available in the prescribed manner** to the auditor of the corporation, to each shareholder whose proxy is solicited, to each director and, in the case set out in paragraph (b), to the corporation as follows:
+  **(1)** A person shall not solicit proxies unless a proxy circular, in the prescribed form, is made available in the prescribed manner to the auditor of the corporation, to each shareholder whose proxy is solicited, to each director and, in the case set out in paragraph (b), to the corporation as follows:
 
     in the case of solicitation by or on behalf of the management of a corporation, a management proxy circular, either as an appendix to or as a separate document accompanying the notice of the meeting; or
 
@@ -335,9 +333,9 @@ Section 208 of the Act is replaced by the following:
 
 ### Section 208
 
-  **(1)** This Part, other than sections 209 and 212, does not apply to a corporation that is an **insolvent person** or a **bankrupt** as those terms are defined in section 2 of the `Bankruptcy and Insolvency Act`.
+  **(1)** This Part, other than sections 209 and 212, does not apply to a corporation that is an insolvent person or a bankrupt as those terms are defined in section 2 of the `Bankruptcy and Insolvency Act`.
 
-  **(2)** Any proceedings taken under this Part to dissolve or to liquidate and dissolve a corporation shall be stayed if the corporation is at any time found, in a proceeding under the `Bankruptcy and Insolvency Act`, to be an **insolvent person** as defined in section 2 of that Act.
+  **(2)** Any proceedings taken under this Part to dissolve or to liquidate and dissolve a corporation shall be stayed if the corporation is at any time found, in a proceeding under the `Bankruptcy and Insolvency Act`, to be an insolvent person as defined in section 2 of that Act.
 
 ### Section 28
 
@@ -656,7 +654,7 @@ is incapable; or
 
     **(12)** If the election of directors is for a prescribed cooperative, a separate vote by persons who are entitled to elect or appoint directors must be taken with respect to each candidate nominated for director.
 
-    **(13)** If **an individual who** was a candidate **in** an election held in accordance with subsection (10.1) was not elected during **that election,** the **individual** is not to be appointed, except in prescribed circumstances, as a director under subsection 85(1) before the next meeting at which an election of directors is required by persons who are entitled to elect or appoint directors.
+    **(13)** If an individual who was a candidate in an election held in accordance with subsection (10.1) was not elected during that election, the individual is not to be appointed, except in prescribed circumstances, as a director under subsection 85(1) before the next meeting at which an election of directors is required by persons who are entitled to elect or appoint directors.
 
 ### Section 60
 
@@ -664,11 +662,11 @@ Section 84 of the Act is replaced by the following:
 
 ### Section 84
 
-  **(1)** Subject to section 86, **a** director is entitled to hold office for a term **expiring not later** than
+  **(1)** Subject to section 86, a director is entitled to hold office for a term expiring not later than
 
-    in the case of a cooperative that is not a distributing cooperative, **the close of the third annual meeting of members following the director's election**; and
+    in the case of a cooperative that is not a distributing cooperative, the close of the third annual meeting of members following the director's election; and
 
-    in the case of a distributing cooperative, **the close of the next annual meeting of members following the director's election**.
+    in the case of a distributing cooperative, the close of the next annual meeting of members following the director's election.
 
   **(2)** Despite paragraph (1)(b), in the case of any prescribed class of distributing cooperatives or in any prescribed circumstances respecting distributing cooperatives or classes of distributing cooperatives, the directors are not entitled to hold office for a term that is longer than three years.
 
@@ -820,9 +818,9 @@ Section 307 of the Act is replaced by the following:
 
 ### Section 307
 
-  **(1)** This Part, other than sections 308 and 311, does not apply to a cooperative that is an **insolvent person** or a **bankrupt** as those terms are defined in section 2 of the `Bankruptcy and Insolvency Act`.
+  **(1)** This Part, other than sections 308 and 311, does not apply to a cooperative that is an insolvent person or a bankrupt as those terms are defined in section 2 of the `Bankruptcy and Insolvency Act`.
 
-  **(2)** Any proceedings taken under this Part to dissolve or to liquidate and dissolve a cooperative are stayed if the cooperative is at any time found, in a proceeding under the `Bankruptcy and Insolvency Act`, to be an **insolvent person** as defined in section 2 of that Act.
+  **(2)** Any proceedings taken under this Part to dissolve or to liquidate and dissolve a cooperative are stayed if the cooperative is at any time found, in a proceeding under the `Bankruptcy and Insolvency Act`, to be an insolvent person as defined in section 2 of that Act.
 
 ### Section 78
 
@@ -1137,7 +1135,7 @@ providing for anything that by this Act is to be prescribed or provided for by t
 
   **(3)** Sections `15` and `56` come into force on a day to be fixed by order of the Governor in Council.
 
-  **(4)** Sections **17**, 19, 22, 37, 63, 71 and 88 come into force on a day to be fixed by order of the Governor in Council.
+  **(4)** Sections 17, 19, 22, 37, 63, 71 and 88 come into force on a day to be fixed by order of the Governor in Council.
 
   **(5)** Section `24` comes into force on a day to be fixed by order of the Governor in Council.
 
@@ -1285,7 +1283,7 @@ Subsection 109(2) of the Act is replaced by the following:
 
 Paragraph 111(f) of the Act is replaced by the following:
 
-an acquisition of equity interests in an entity under an agreement in writing that provides for the creation of those equity interests only if the person or persons acquiring them incur expenses to carry out exploration or development activities with respect to a **Canadian resource property**, as defined in subsection 66(15) of the `Income Tax Act`, in respect of which the entity has the right to carry out those activities, if the entity does not have any significant assets other than that property.
+an acquisition of equity interests in an entity under an agreement in writing that provides for the creation of those equity interests only if the person or persons acquiring them incur expenses to carry out exploration or development activities with respect to a Canadian resource property, as defined in subsection 66(15) of the `Income Tax Act`, in respect of which the entity has the right to carry out those activities, if the entity does not have any significant assets other than that property.
 
 ### Section 120
 
