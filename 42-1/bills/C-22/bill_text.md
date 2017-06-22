@@ -311,7 +311,7 @@ information relating directly to an ongoing investigation carried out by a law e
 
   **(1)** The appropriate Minister for a department may refuse to provide information to which the Committee would, but for this section, otherwise be entitled to have access and that is under the control of that department, but only if he or she is of the opinion that
 
-    the information constitutes **special operational information**, as defined in subsection 8(1) of the `Security of Information Act`; and
+    the information constitutes special operational information, as defined in subsection 8(1) of the `Security of Information Act`; and
 
     provision of the information would be injurious to national security.
 
