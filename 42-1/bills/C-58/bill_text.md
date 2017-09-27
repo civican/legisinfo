@@ -6,13 +6,13 @@
 
 This enactment amends the `Access to Information Act` to, among other things,
 
-authorize the head of a government institution to decline to act on a request for access to a record for various reasons, including because it is vexatious or made in bad faith, and give the person who made the request the right to make a complaint to the Information Commissioner if their request is declined;
+authorize the head of a government institution, with the approval of the Information Commissioner, to decline to act on a request for access to a record for various reasons;
 
 authorize the Information Commissioner to refuse to investigate or cease to investigate a complaint that is, in the Commissioner's opinion, trivial, frivolous or vexatious or made in bad faith;
 
 clarify the powers of the Information Commissioner and the Privacy Commissioner to examine documents containing information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege in the course of their investigations and clarify that the disclosure by the head of a government institution to either of those Commissioners of such documents does not constitute a waiver of those privileges or that professional secrecy;
 
-authorize the Information Commissioner to make orders for the release of records or with respect to other matters relating to requesting or obtaining records and give parties the right to apply to the Federal Court for a review of the matter;
+authorize the Information Commissioner to make orders for the release of records or with respect to other matters relating to requesting or obtaining records and to publish any reports that he or she makes, including those that contain any orders he or she makes, and give parties the right to apply to the Federal Court for a review of the matter;
 
 create a new Part providing for the proactive publication of information or materials related to the Senate, the House of Commons, parliamentary entities, ministers' offices, government institutions and institutions that support superior courts;
 
@@ -50,21 +50,21 @@ Section 2 of the Act is replaced by the following:
 
 ### Section 2
 
-  **(1)** The purpose of this Act is **to enhance the accountability and transparency of federal institutions in order to promote an open and democratic society and to enable public debate on the conduct of those institutions**.
+  **(1)** The purpose of this Act is to enhance the accountability and transparency of federal institutions in order to promote an open and democratic society and to enable public debate on the conduct of those institutions.
 
-  **(2)** **In furtherance of that purpose,**
+  **(2)** In furtherance of that purpose,
 
-    **Part 1 extends** the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government; **and**
+    Part 1 extends the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government; and
 
-    **Part 2 sets out requirements for the proactive publication of information.**
+    Part 2 sets out requirements for the proactive publication of information.
 
-  ****(3)**** This Act is **also** intended to complement and not replace existing procedures for access to government information and is not intended to limit in any way access to the type of government information that is normally available to the general public.
+  **(3)** This Act is also intended to complement and not replace existing procedures for access to government information and is not intended to limit in any way access to the type of government information that is normally available to the general public.
 
 ### Section 3
 
   **(1)** The definition **third party** in section 3 of the English version of the Act is replaced by the following:
 
-    **third party**, in respect of a request for access to a record under **Part 1**, means any person, group of persons or organization other than the person that made the request or a government institution. (**tiers**)
+    **third party**, in respect of a request for access to a record under Part 1, means any person, group of persons or organization other than the person that made the request or a government institution. (**tiers**)
 
   **(2)** Section 3 of the Act is amended by adding the following in alphabetical order:
 
@@ -94,7 +94,7 @@ Section 5 of the Act and the heading before it are replaced by the following:
 
 ### Section 5
 
-**The head of each** government institution shall cause to be published the title and address of the appropriate officer **or employee** for **the** government institution to whom requests for access to records under this **Part** should be sent.
+The head of each government institution shall cause to be published the title and address of the appropriate officer or employee for the government institution to whom requests for access to records under this Part should be sent.
 
 ### Section 6
 
@@ -102,7 +102,7 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-A request for access to a record under this **Part** shall be made in writing to the government institution that has control of the record and shall **set out the following information and** provide sufficient detail to enable an experienced employee of the institution to identify the record with a reasonable effort:
+A request for access to a record under this Part shall be made in writing to the government institution that has control of the record and shall set out the following information and provide sufficient detail to enable an experienced employee of the institution to identify the record with a reasonable effort:
 
 the specific subject matter of the request;
 
@@ -112,21 +112,23 @@ the period for which the record is being requested or the date of the record.
 
 ### Section 6.1
 
-  **(1)** The head of a government institution may, before giving a person access to a record or refusing to do so, decline to act on the person's request if, in the opinion of the head of the institution,
+  **(1)** **With the Information Commissioner's written approval**, the head of a government institution may, before giving a person access to a record or refusing to do so, decline to act on the person's request if, in the opinion of the head of the institution,
 
-    the request does not meet the requirements set out in section 6;
+    [*Deleted*]
 
-    the person has already been given access to the record or may access the record by other means;
+    the person has already been given access to **an identical** record or the record may **reasonably be accessed** by other means;
 
     the request is for such a large number of records or necessitates a search through such a large number of records that acting on the request would unreasonably interfere with the operations of the government institution, even with a reasonable extension of the time limit set out in section 7; or
 
     the request is vexatious, is made in bad faith or is otherwise an abuse of the right to make a request for access to records.
 
-  **(2)** If the head of a government institution declines to act on the person's request, they shall
+  **(1.1)** The head of a government institution is not author­ized under paragraph (1)(b) to decline to act on a person's request for a record for the sole reason that the information contained in it has been published under Part 2.
 
-    give the person written notice of their decision to decline to act on the request and their reasons for doing so; and
+  **(2)** If the head of a government institution declines to act on the person's request, they shall give the person written notice of their decision to decline to act on the request and their reasons for doing so.
 
-    state in the notice that the person has a right to make a complaint to the Information Commissioner regarding the head of the institution's decision to decline to act on the request.
+    [*Deleted*]
+
+    [*Deleted*]
 
 ### Section 7
 
@@ -134,28 +136,28 @@ the period for which the record is being requested or the date of the record.
 
 ### Section 11
 
-      **(1)** Subject to this section, a person who makes a request for access to a record under this **Part shall** pay, at the time the request is made, **any** application fee **of** not **more than** $25, **that** may be prescribed by regulation.
+      **(1)** Subject to this section, a person who makes a request for access to a record under this Part shall pay, at the time the request is made, any application fee of not more than $25, that may be prescribed by regulation.
 
-      **(2)** The head of **the** government institution to which **the** request is made may require, in addition to the fee payable under **subsection** (1), payment of an amount **prescribed by regulation or** calculated in the manner prescribed by regulation and may require that the payment be made before access to the record is given.
+      **(2)** The head of the government institution to which the request is made may require, in addition to the fee payable under subsection (1), payment of an amount prescribed by regulation or calculated in the manner prescribed by regulation and may require that the payment be made before access to the record is given.
 
   **(2)** Subsection 11(4) of the Act is replaced by the following:
 
-    **(4)** **If** the head of a government institution requires **a person to pay** an amount under subsection (2) in respect of a request for **access to** a record, the head of the institution may require that a reasonable proportion of that amount be paid as a deposit before the search or production of the record is undertaken or the part of the record is prepared for disclosure.
+    **(4)** If the head of a government institution requires a person to pay an amount under subsection (2) in respect of a request for access to a record, the head of the institution may require that a reasonable proportion of that amount be paid as a deposit before the search or production of the record is undertaken or the part of the record is prepared for disclosure.
 
   **(3)** The portion of subsection 11(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** **If** the head of a government institution requires a person to pay an amount under **subsection (2)**, the head of the institution shall
+    **(5)** If the head of a government institution requires a person to pay an amount under subsection (2), the head of the institution shall
 
   **(4)** Subsection 11(6) of the Act is replaced by the following:
 
-    **(6)** The head of a government institution to which a request for access to a record is made under this **Part** may waive the requirement to pay a fee or amount or a part **of a fee or amount** under this section or may refund a fee or amount or a part **of a fee or amount** paid under this section.
+    **(6)** The head of a government institution to which a request for access to a record is made under this Part may waive the requirement to pay a fee or amount or a part of a fee or amount under this section or may refund a fee or amount or a part of a fee or amount paid under this section.
 
 ### Section 8
 
 The heading before section 12 of the English version of the Act is replaced by the following:
 
 
-### Access **Given**
+### Access Given
 
 ### Section 9
 
@@ -163,7 +165,7 @@ Subsection 19(1) of the Act is replaced by the following:
 
 ### Section 19
 
-  **(1)** Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this **Part** that contains personal information.
+  **(1)** Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Part that contains personal information.
 
 ### Section 10
 
@@ -171,11 +173,19 @@ Section 23 of the Act is replaced by the following:
 
 ### Section 23
 
-The head of a government institution may refuse to disclose any record requested under this **Part** that contains information that is subject to solicitor-client privilege **or the professional secrecy of advocates and notaries or to litigation privilege**.
+The head of a government institution may refuse to disclose any record requested under this Part that contains information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
 ### Section 11
 
 Subsection 24(2) of the Act is repealed.
+
+### Section 11.1
+
+Section 26 of the Act is replaced by the following:
+
+### Section 26
+
+The head of a government institution may refuse to disclose any record requested under this Part or any part of a record if the head of the institution believes on reasonable grounds that the material in the record or in part of the record will be published by a government institution, agent of the Government of Canada or minister of the Crown — other than under Part 2 — within 90 days after the request is made or within any further period of time that may be necessary for printing or translating the material for the purpose of printing it.
 
 ### Section 12
 
@@ -185,9 +195,9 @@ Section 29 of the Act is repealed.
 
   **(1)** Paragraph 30(1)(b) of the Act is replaced by the following:
 
-    from persons who have made a request for access to a record that the head of a government institution has declined to act on;
+    [*Deleted*]
 
-    from persons who have been required to pay an amount under **subsection** 11**(2)** that they consider unreasonable;
+    from persons who have been required to pay an amount under subsection 11(2) that they consider unreasonable;
 
   **(2)** Paragraph 30(1)(e) of the Act is repealed.
 
@@ -213,7 +223,7 @@ Section 29 of the Act is repealed.
 
   **(1)** Subparagraph 35(2)(c)(i) of the Act is replaced by the following:
 
-    the Information Commissioner intends **to make an order, under subsection 36.1(1), requiring the disclosure of a record or a part of a record** — **or** to recommend the disclosure **of a record** or **a** part of a record — that contains, or that the Commissioner has reason to believe might contain, trade secrets of the third party, information described in paragraph 20(1)(b) or (b.1) that was supplied by the third party or information the disclosure of which the Commissioner can reasonably foresee might effect a result described in paragraph 20(1)(c) or (d) in respect of the third party, and
+    the Information Commissioner intends to make an order, under subsection 36.1(1), requiring the disclosure of a record or a part of a record — or to recommend the disclosure of a record or a part of a record — that contains, or that the Commissioner has reason to believe might contain, trade secrets of the third party, information described in paragraph 20(1)(b) or (b.1) that was supplied by the third party or information the disclosure of which the Commissioner can reasonably foresee might effect a result described in paragraph 20(1)(c) or (d) in respect of the third party, and
 
   **(2)** Subsection 35(2) of the Act is amended by striking out "and" at the end of paragraph (b), by adding "and" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -223,7 +233,7 @@ Section 29 of the Act is repealed.
 
 Subsection 36(2) of the Act is replaced by the following:
 
-**(2)** **Despite** any other Act of Parliament, any privilege under the law of evidence, **solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, and subject to subsection (2.1)**, the Information Commissioner may, during the investigation of any complaint under this **Part**, examine any record to which this **Part** applies that is under the control of a government institution, and no such record may be withheld from the Commissioner on any grounds.
+**(2)** Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, and subject to subsection (2.1), the Information Commissioner may, during the investigation of any complaint under this Part, examine any record to which this Part applies that is under the control of a government institution, and no such record may be withheld from the Commissioner on any grounds.
 
 **(2.1)** The Information Commissioner may examine a record that contains information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege only if the head of a government institution refuses to disclose the record under section 23.
 
@@ -278,17 +288,17 @@ Section 37 of the Act is replaced by the following:
 
 ### Section 37
 
-  **(1)** If, on investigating a complaint under this Part, the Information Commissioner finds that the complaint is well-founded, the Commissioner shall provide the head of the government institution **concerned** with a report **that sets out**
+  **(1)** If, on investigating a complaint under this Part, the Information Commissioner finds that the complaint is well-founded, the Commissioner shall provide the head of the government institution concerned with a report that sets out
 
     the findings of the investigation and any recommendations that the Commissioner considers appropriate;
 
     any order that the Commissioner intends to make; and
 
-    **the period within which the head of the government institution shall give** notice to the Commissioner of **the** action taken or proposed to be taken to implement the **order or** recommendations **set out** in the report or reasons why no such action has been or is proposed to be taken.
+    the period within which the head of the government institution shall give notice to the Commissioner of the action taken or proposed to be taken to implement the order or recommendations set out in the report or reasons why no such action has been or is proposed to be taken.
 
-  **(2)** The Information Commissioner shall, after investigating a complaint under this Part, **provide a** report **that sets out the** results of the investigation **and any order or recommendations that he or she makes** to the complainant, **the head of the government institution**, any third party that was entitled under **paragraph** 35(2)**(c)** to make and that made representations to the Commissioner in respect of the complaint, **and the Privacy Commissioner if the report sets out an order requiring the head of the government institution to disclose a record or a part of a record that the head of the institution refuses to disclose under subsection 19(1),** but no report **is to** be made under this subsection **and no order is to be made** until the **expiry** of the time within which the notice **referred to in paragraph (1)(c)** is to be given to the **Information** Commissioner.
+  **(2)** The Information Commissioner shall, after investigating a complaint under this Part, provide a report that sets out the results of the investigation and any order or recommendations that he or she makes to the complainant, the head of the government institution, any third party that was entitled under paragraph 35(2)(c) to make and that made representations to the Commissioner in respect of the complaint, and the Privacy Commissioner if the report sets out an order requiring the head of the government institution to disclose a record or a part of a record that the head of the institution refuses to disclose under subsection 19(1), but no report is to be made under this subsection and no order is to be made until the expiry of the time within which the notice referred to in paragraph (1)(c) is to be given to the Information Commissioner.
 
-  **(3)** The **Information** Commissioner may include in the report **referred to in subsection (2) any** comments on the matter **that** he **or she** thinks fit and shall **include in that report**
+  **(3)** The Information Commissioner may include in the report referred to in subsection (2) any comments on the matter that he or she thinks fit and shall include in that report
 
     a summary of any notice that he or she receives under paragraph (1)(c);
 
@@ -298,7 +308,11 @@ Section 37 of the Act is replaced by the following:
 
     a statement, if applicable, that the Information Commissioner will provide a third party or the Privacy Commissioner with the report.
 
-  **(4)** **If** the head of a government institution gives notice to the Information Commissioner under paragraph (1)(**c**) that access to a record or **a** part **of a record** will be given to a complainant, the head of the institution shall give the complainant access to the record or **the** part **of the record**
+  **(3.1)** The Information Commissioner may publish the report referred to in subsection (2).
+
+  **(3.2)** However, the Information Commissioner is not to publish the report until the expiry of the periods to apply to the Court for a review of a matter that are referred to in section 41.
+
+  **(4)** If the head of a government institution gives notice to the Information Commissioner under paragraph (1)(c) that access to a record or a part of a record will be given to a complainant, the head of the institution shall give the complainant access to the record or the part of the record
 
     on receiving the report under subsection (2) or within any period specified in the Commissioner's order, if only the complainant and the head of the institution are provided with the report; or
 
@@ -308,7 +322,7 @@ Section 37 of the Act is replaced by the following:
 
 Subsection 40(2) of the Act is replaced by the following:
 
-**(2)** Every report referred to in subsection (1) shall, after it is transmitted for tabling **under** that subsection, be referred to the committee designated or established by Parliament for the purpose of **section 99**.
+**(2)** Every report referred to in subsection (1) shall, after it is transmitted for tabling under that subsection, be referred to the committee designated or established by Parliament for the purpose of section 99.
 
 ### Section 19
 
@@ -316,13 +330,13 @@ Sections 41 to 43 of the Act are replaced by the following:
 
 ### Section 41
 
-  ****(1)**** **A person who makes a complaint described in any of paragraphs 30(1)(a) to (d.1) and who receives a report** under subsection 37(2) **in respect of the complaint** may, within **30 business** days after **the day on which the head of the government institution receives the report**, apply to the Court for a review of the matter **that is the subject of the complaint**.
+  **(1)** A person who makes a complaint described in any of paragraphs 30(1)(a) to (d.1) and who receives a report under subsection 37(2) in respect of the complaint may, within 30 business days after the day on which the head of the government institution receives the report, apply to the Court for a review of the matter that is the subject of the complaint.
 
   **(2)** The head of a government institution who receives a report under subsection 37(2) may, within 30 business days after the day on which they receive it, apply to the Court for a review of any matter that is the subject of an order set out in the report.
 
-  **(3)** If neither the person who made the complaint nor the head of the government institution makes an application under this section within the period for doing so, a third party who receives a report under subsection 37(2) may, within **10 business** days after **the expiry of the period referred to in subsection (1)**, apply to the Court for a review of the application of any exemption provided for under this Part that may apply to a record that might contain information described in subsection 20(1) and that is the subject of the complaint in respect of which the report is made.
+  **(3)** If neither the person who made the complaint nor the head of the government institution makes an application under this section within the period for doing so, a third party who receives a report under subsection 37(2) may, within 10 business days after the expiry of the period referred to in subsection (1), apply to the Court for a review of the application of any exemption provided for under this Part that may apply to a record that might contain information described in subsection 20(1) and that is the subject of the complaint in respect of which the report is made.
 
-  **(4)** If neither the person who made the complaint nor the head of the institution makes an application under this section within the period for doing so, the Privacy Commissioner, if he or she receives a report under subsection 37(2), may, within **10 business** days after **the expiry of the period referred to in subsection (1)**, apply to the Court for a review of any matter in relation to the disclosure of a record that might contain personal information and that is the subject of the complaint in respect of which the report is made.
+  **(4)** If neither the person who made the complaint nor the head of the institution makes an application under this section within the period for doing so, the Privacy Commissioner, if he or she receives a report under subsection 37(2), may, within 10 business days after the expiry of the period referred to in subsection (1), apply to the Court for a review of any matter in relation to the disclosure of a record that might contain personal information and that is the subject of the complaint in respect of which the report is made.
 
   **(5)** The person who applies for a review under subsection (1), (3) or (4) may name only the head of the government institution concerned as the respondent to the proceedings. The head of the government institution who applies for a review under subsection (2) may name only the Information Commissioner as the respondent to the proceedings.
 
@@ -346,9 +360,9 @@ Sections 41 to 43 of the Act are replaced by the following:
 
 The Information Commissioner may
 
-appear before the Court on behalf of **a complainant**; or
+appear before the Court on behalf of a complainant; or
 
-appear as a party to any review applied for under section 41 or, with leave of the Court, **as a party to any review applied for under section** 44.
+appear as a party to any review applied for under section 41 or, with leave of the Court, as a party to any review applied for under section 44.
 
 ### Section 43
 
@@ -362,9 +376,9 @@ Subsections 44(1) and (2) of the Act are replaced by the following:
 
 ### Section 44
 
-  **(1)** Any third party to whom the head of a government institution is required under paragraph 28(1)(b) to give notice of a decision to disclose a record or a part **of a record** under this **Part** may, within 20 days after the notice is given, apply to the Court for a review of the matter.
+  **(1)** Any third party to whom the head of a government institution is required under paragraph 28(1)(b) to give notice of a decision to disclose a record or a part of a record under this Part may, within 20 days after the notice is given, apply to the Court for a review of the matter.
 
-  **(2)** The head of a government institution who has given notice under paragraph 28(1)(b) that a record requested under this **Part** or a part **of such a record** will be disclosed shall, on being given notice of an application made under subsection (1) in respect of the disclosure, give written notice of the application to the person who requested access to the record.
+  **(2)** The head of a government institution who has given notice under paragraph 28(1)(b) that a record requested under this Part or a part of such a record will be disclosed shall, on being given notice of an application made under subsection (1) in respect of the disclosure, give written notice of the application to the person who requested access to the record.
 
 ### Section 21
 
@@ -376,7 +390,7 @@ For greater certainty, an application under section 41 or 44 is to be heard and 
 
 ### Section 45
 
-An application made under section 41 or 44 **is to** be heard and determined in a summary way in accordance with any special rules made in respect of such applications **under** section 46 of the `Federal Courts Act`.
+An application made under section 41 or 44 is to be heard and determined in a summary way in accordance with any special rules made in respect of such applications under section 46 of the `Federal Courts Act`.
 
 ### Section 22
 
@@ -384,7 +398,7 @@ An application made under section 41 or 44 **is to** be heard and determined in 
 
 ### Section 46
 
-    **Despite** any other Act of Parliament, any privilege under the law of evidence, **solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege**, the Court may, in the course of any proceedings before **it** arising from an application under section 41, 42 or 44, examine any record to which this **Part** applies that is under the control of a government institution, and no such record may be withheld from the Court on any grounds.
+    Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, the Court may, in the course of any proceedings before it arising from an application under section 41, 42 or 44, examine any record to which this Part applies that is under the control of a government institution, and no such record may be withheld from the Court on any grounds.
 
   **(2)** Section 46 of the Act is replaced by the following:
 
@@ -406,7 +420,7 @@ Section 48 of the Act is replaced by the following:
 
 ### Section 48
 
-  ****(1)**** In any proceedings before the Court arising from an application under **subsection** 41(1) **or (2)**, the burden of establishing that the head of a government institution is authorized to refuse to disclose a record requested under this Part or a part **of such a record or to make the decision or take the action that is the subject of the proceedings is** on the government institution concerned.
+  **(1)** In any proceedings before the Court arising from an application under subsection 41(1) or (2), the burden of establishing that the head of a government institution is authorized to refuse to disclose a record requested under this Part or a part of such a record or to make the decision or take the action that is the subject of the proceedings is on the government institution concerned.
 
   **(2)** In any proceedings before the Court arising from an application under subsection 41(3) or (4), the burden of establishing that the head of a government institution is not authorized to disclose a record that is described in that subsection and requested under this Part or a part of such a record is on the person who made that application.
 
@@ -446,7 +460,7 @@ Subsection 52(1) of the Act is replaced by the following:
 
 Subsection 53(2) of the Act is replaced by the following:
 
-**(2)** **If** the Court is of the opinion that an application for review under section 41 has raised an important new principle in relation to this Part, the Court shall order that costs be awarded to the applicant even if the applicant has not been successful in the result.
+**(2)** If the Court is of the opinion that an application for review under section 41 has raised an important new principle in relation to this Part, the Court shall order that costs be awarded to the applicant even if the applicant has not been successful in the result.
 
 ### Section 28
 
@@ -454,44 +468,54 @@ Subsection 57(1) of the English version of the Act is replaced by the following:
 
 ### Section 57
 
-  **(1)** An Assistant Information Commissioner shall engage exclusively in such duties or functions of the office of the Information Commissioner under this **Part** or **under** any other Act of Parliament as are delegated by the Information Commissioner to that Assistant Information Commissioner and shall not hold any other office under Her Majesty for reward or engage in any other employment for reward.
+  **(1)** An Assistant Information Commissioner shall engage exclusively in such duties or functions of the office of the Information Commissioner under this Part or under any other Act of Parliament as are delegated by the Information Commissioner to that Assistant Information Commissioner and shall not hold any other office under Her Majesty for reward or engage in any other employment for reward.
 
 ### Section 29
 
 Paragraph 59(1)(b) of the Act is replaced by the following:
 
-in any case, the powers, duties or functions set out in sections **36.1**, 38 and 39.
+in any case, the powers, duties or functions set out in sections 36.1, 38 and 39.
 
 ### Section 30
 
 Subparagraph 63(1)(a)(ii) of the Act is replaced by the following:
 
-establish the grounds for findings, recommendations and **orders set out** in any report under this Part; or
+establish the grounds for findings, recommendations and orders set out in any report under this Part; or
+
+### Section 30.1
+
+The portion of section 64 of the Act before paragraph (a) is replaced by the following:
+
+### Section 64
+
+In carrying out an investigation under this Act and in any report published under subsection 37(3.1) or made to Parliament under section 38 or 39, the Information Commissioner and any person acting on behalf or under the direction of the Information Commissioner shall take every reasonable precaution to avoid the disclosure of, and shall not disclose,
 
 ### Section 31
 
-The portion of section 68 of the Act before paragraph (a) is replaced by the following:
+The portion of section 68 of the Act before paragraph **(b)** is replaced by the following:
 
 ### Section 68
 
-This **Part** does not apply to
+This Part does not apply to
+
+published material, other than material published under Part 2, or material available for purchase by the public;
 
 ### Section 32
 
 The heading before section 70 of the Act is replaced by the following:
 
 
-## **Designated Minister's Duties and Functions**
+## Designated Minister's Duties and Functions
 
 ### Section 33
 
 Paragraphs 70(1)(b) to (d) of the Act are replaced by the following:
 
-prescribe **any** forms **that** may be required for the operation of this **Part** and the regulations **made under this Part**;
+prescribe any forms that may be required for the operation of this Part and the regulations made under this Part;
 
-cause to be prepared and distributed to government institutions directives and guidelines concerning the operation of this **Part** and the regulations **made under this Part**; and
+cause to be prepared and distributed to government institutions directives and guidelines concerning the operation of this Part and the regulations made under this Part; and
 
-cause statistics to be collected on an annual basis for the purpose of assessing the compliance of government institutions with the provisions of this **Part** and the regulations relating to access **to records and cause to be published on an annual basis a report containing a summary of those statistics**.
+cause statistics to be collected on an annual basis for the purpose of assessing the compliance of government institutions with the provisions of this Part and the regulations relating to access to records and cause to be published on an annual basis a report containing a summary of those statistics.
 
 ### Section 34
 
@@ -770,15 +794,15 @@ The following definitions apply in sections `73` to `80`.
 
 **minister** includes the Prime Minister and any Minister of State or Associate Minister. (**ministre**)
 
-**ministerial adviser** has the same meaning as in subsection 2(1) of the `Conflict of Interest Act`. (**conseiller ministériel**)
+**ministerial adviser** has the same meaning as in subsection 2(1) of the `Conflict of Interest Act`. (**conseiller mi­nistériel**)
 
-**ministerial staff** has the same meaning as in subsection 2(1) of the `Conflict of Interest Act`. (**personnel ministériel**)
+**ministerial staff** has the same meaning as in subsection 2(1) of the `Conflict of Interest Act`. (**personnel mi­nistériel**)
 
 **quarter** means a three-month period that begins on the first day of April, July, October or January. (**trimestre**)
 
 ### Section 73
 
-The Prime Minister shall cause to be published in electronic form any letter or revised letter in which he or she establishes the mandate of any other minister.
+The Prime Minister shall cause to be published in electronic form any letter or revised letter in which he or she establishes the mandate of any other minister **within 30 days after the issuance of the letter or revised letter**.
 
 ### Section 74
 
@@ -866,7 +890,7 @@ Within 120 days after the end of each fiscal year, a minister shall cause to be 
 
   **(1)** A minister is not required to cause to be published any of the information, any part of the information, any of the materials or any part of the materials referred to in any of sections `74` to `78` if that information, that part of the information, those materials or that part of those materials were set out in a record and, in dealing with a request for access to that record, a head of a government institution could under Part 1 refuse to disclose that record, in whole or in part, for a reason that is set out in that Part.
 
-  **(2)** A head of a government institution shall not cause to be published any of the information, any part of the information, any of the materials or any part of the materials referred to in any of sections `82` to `88` if that information, that part of the information, those materials or that part of those materials were set out in a record and, in dealing with a request for access to that record, he or she would be required under Part 1 to refuse to disclose that record, in whole or in part, for a reason that is set out in that Part or because that Part does not apply to the information or materials in question.
+  **(2)** A **minister** shall not cause to be published any of the information, any part of the information, any of the materials or any part of the materials referred to in any of sections **74** to **78** if that information, that part of the information, those materials or that part of those materials were set out in a record and, in dealing with a request for access to that record, **a head of a government institution** would be required under Part 1 to refuse to disclose that record, in whole or in part, for a reason that is set out in that Part or because that Part does not apply to the information or materials in question.
 
   **(3)** For the purposes of this section, information that must be published under section `75` or `76` is not personal information.
 
@@ -971,9 +995,9 @@ any other information that, in accordance with Treasury Board policies, must be 
 
     any other information that, in accordance with Treasury Board policies, must be published.
 
-  **(2)** Within 30 days after the end of the quarter in which a contract — that has been entered into in relation to the activities of a government entity and that has a value of $10,000 or less — is amended so that its value exceeds $10,000, the head of the government entity shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (f) with respect to the contract as amended.
+  **(2)** Within 30 days after the end of the quarter in which a contract that has been entered into in relation to the activities of a government entity and that has a value of $10,000 or less is amended so that its value exceeds $10,000, **or within 60 days after the end of that quarter if that quarter is the fourth quarter**, the head of the government entity shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (f) with respect to the contract as amended.
 
-  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased, the head of the government entity shall cause to be published in electronic form the value of the contract as amended.
+  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased, **or within 60 days after the end of that quarter if that quarter is the fourth quarter**, the head of the government entity shall cause to be published in electronic form the value of the contract as amended.
 
 ### Section 87
 
@@ -1022,11 +1046,9 @@ within 120 days after an appearance before a committee of Parliament, the packag
 
 ### Section 91
 
-Despite any provision of Part 1, the Information Commissioner shall not exercise his or her powers or perform his or her duties and functions under that Part in respect of any matter relating to this Part, including
+  ****(1)**** The Information Commissioner shall not exercise any powers or perform any duties or functions in **relation** to the **proactive publication** of information under this Part, including **receiving** and **investigating complaints** or **exercising** any **other powers, duties** or **functions** under Part 1.
 
-any information or materials that must be published under this Part; and
-
-the exercise of a power or the performance of a duty or function under this Part by any person or entity.
+  **(2)** Nothing in subsection (1) shall be construed as preventing the Information Commissioner from exercising his or her powers or performing his or her duties and functions under Part 1 with respect to a record that, although subject to Part 2, is subject to a request for access under Part 1.
 
 
 ## General
@@ -1037,17 +1059,17 @@ The designated Minister may provide services with respect to the administration 
 
 ### Section 93
 
-  **(1)** The designated Minister shall undertake a review of this Act within one year after the day on which this section comes into force and every five years after the review is undertaken and shall **cause a** report to be laid before each House of Parliament.
+  **(1)** The designated Minister shall undertake a review of this Act within one year after the day on which this section comes into force and every five years after the review is undertaken and shall cause a report to be laid before each House of Parliament.
 
   **(2)** After the report is laid before both Houses, it shall be referred to the committee designated or established by Parliament for the purpose of section 99.
 
 ### Section 94
 
-  **(1)** **Every year** the head of every government institution shall prepare **a** report on the administration of this Act within the institution during **the period beginning on April 1 of the preceding year and ending on March 31 of the current year**.
+  **(1)** Every year the head of every government institution shall prepare a report on the administration of this Act within the institution during the period beginning on April 1 of the preceding year and ending on March 31 of the current year.
 
-  **(2)** Every report prepared under subsection (1) shall be laid before each House of Parliament on any of the first 15 days **on which** that House is sitting **after September 1 of the year in which the report is prepared**.
+  **(2)** Every report prepared under subsection (1) shall be laid before each House of Parliament on any of the first 15 days on which that House is sitting after September 1 of the year in which the report is prepared.
 
-  **(3)** Every report prepared under subsection (1) shall, after it is laid before **both Houses** under subsection (2), be referred to the committee designated or established by Parliament for the purpose of **section 99**.
+  **(3)** Every report prepared under subsection (1) shall, after it is laid before both Houses under subsection (2), be referred to the committee designated or established by Parliament for the purpose of section 99.
 
   **(4)** The head of every government institution shall provide a copy of the report to the designated Minister immediately after it is laid before both Houses.
 
@@ -1055,9 +1077,9 @@ The designated Minister may provide services with respect to the administration 
 
 ### Section 95
 
-  ****(1)**** The head of a government institution may, by order, **delegate** any of **their** powers, duties or functions under this Act to one or more officers or employees of that institution.
+  **(1)** The head of a government institution may, by order, delegate any of their powers, duties or functions under this Act to one or more officers or employees of that institution.
 
-  **(2)** The head of a government institution may, for the purposes of subsection 96(1), by order, **delegate** any of **their** powers, duties or functions under this Act **to** one or more officers or employees of another government institution.
+  **(2)** The head of a government institution may, for the purposes of subsection 96(1), by order, delegate any of their powers, duties or functions under this Act to one or more officers or employees of another government institution.
 
 ### Section 96
 
@@ -1077,13 +1099,13 @@ The records that the head of a government institution provides to the head of an
 
 ### Section 98
 
-  **(1)** **Despite** any other Act of Parliament, no civil or criminal proceedings lie against the head of any government institution, or against any person acting on behalf or under the direction of the head of a government institution, and no proceedings lie against the Crown or any government institution, for the disclosure in good faith of any record or any part of a record **under Part 1**, for any consequences that flow from that disclosure, or for the failure to give any notice required under **Part 1** if reasonable care is taken to give the required notice.
+  **(1)** Despite any other Act of Parliament, no civil or criminal proceedings lie against the head of any government institution, or against any person acting on behalf or under the direction of the head of a government institution, and no proceedings lie against the Crown or any government institution, for the disclosure in good faith of any record or any part of a record under Part 1, for any consequences that flow from that disclosure, or for the failure to give any notice required under Part 1 if reasonable care is taken to give the required notice.
 
   **(2)** Despite any other Act of Parliament, no civil or criminal proceedings lie against any person who is required to cause to be published any information or any materials, in whole or in part, under Part 2 or against any person acting on behalf or under the direction of that person, and no proceedings lie against the Crown or any entity, for the publication in good faith of any information or any materials, in whole or in part, under Part 2, or for any consequences that flow from that publication.
 
 ### Section 99
 
-The administration of this Act shall be reviewed on a permanent basis by **any** committee of the House of Commons, of the Senate or of both Houses of Parliament **that** may be designated or established by Parliament for that purpose.
+The administration of this Act shall be reviewed on a permanent basis by any committee of the House of Commons, of the Senate or of both Houses of Parliament that may be designated or established by Parliament for that purpose.
 
 ### Section 100
 
@@ -1091,11 +1113,11 @@ This Act is binding on Her Majesty in right of Canada.
 
 ### Section 101
 
-  **(1)** The Governor in Council may make regulations prescribing criteria for adding, **under paragraph (2)(a), the name of** a body or office to Schedule I.
+  **(1)** The Governor in Council may make regulations prescribing criteria for adding, under paragraph (2)(a), the name of a body or office to Schedule I.
 
   **(2)** The Governor in Council may, by order,
 
-    **add to** Schedule I **the name of** any department, ministry of state, body or office of the Government of Canada;
+    add to Schedule I the name of any department, ministry of state, body or office of the Government of Canada;
 
     replace in Schedule I the former name of any department, ministry of state, body or office of the Government of Canada with its new name; and
 
@@ -1562,7 +1584,7 @@ subsection 22.1(1);
 
 subsection 24(1);
 
-section 26;
+[*Deleted*]
 
 subsections 27(1) and (4);
 
@@ -1640,30 +1662,38 @@ The definition **personal information** in section 3 of the `Privacy Act` is ame
 
 the fact that an individual is or was a ministerial adviser or a member of a ministerial staff, as those terms are defined in subsection 2(1) of the `Conflict of Interest Act`, as well as the individual's name and title;
 
+### Section 47.1
+
+The Act is amended by adding the following after section 3.01:
+
+### Section 3.02
+
+Paragraph (j.1) of the definition personal information in section 3 applies only to records created on or after the day on which that paragraph comes into force.
+
 ### Section 48
 
 Subsection 22.1(1) of the Act is replaced by the following:
 
 ### Section 22.1
 
-  **(1)** The Privacy Commissioner shall refuse to disclose any personal information requested under this Act that was obtained or created by the Commissioner or on the Commissioner's behalf in the course of an investigation conducted by, or under the authority of, the Commissioner **or that was obtained by the Commissioner in the course of a consultation with the Information Commissioner under section 36.2 of the `Access to Information Act` or as the result of being notified by the head of a government institution that a complaint has been made under Part 1 of that Act**.
+  **(1)** The Privacy Commissioner shall refuse to disclose any personal information requested under this Act that was obtained or created by the Commissioner or on the Commissioner's behalf in the course of an investigation conducted by, or under the authority of, the Commissioner or that was obtained by the Commissioner in the course of a consultation with the Information Commissioner under section 36.2 of the `Access to Information Act` or as the result of being notified by the head of a government institution that a complaint has been made under Part 1 of that Act.
 
 ### Section 49
 
 Section 27 of the Act and the heading before it are replaced by the following:
 
 
-### Privilege **and Professional Secrecy**
+### Privilege and Professional Secrecy
 
 ### Section 27
 
-The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) that is subject to solicitor-client privilege **or the professional secrecy of advocates and notaries or to litigation privilege**.
+The head of a government institution may refuse to disclose any personal information requested under subsection 12(1) that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
 ### Section 50
 
 Subsection 34(2) of the Act is replaced by the following:
 
-**(2)** **Despite** any other Act of Parliament, any privilege under the law of evidence, **solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, and subject to subsection (2.1)**, the Privacy Commissioner may, during the investigation of any complaint under this Act, examine any information recorded in any form under the control of a government institution, other than a confidence of the Queen's Privy Council for Canada to which subsection 70(1) applies, and no information that the Commissioner may examine under this subsection may be withheld from the Commissioner on any grounds.
+**(2)** Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, and subject to subsection (2.1), the Privacy Commissioner may, during the investigation of any complaint under this Act, examine any information recorded in any form under the control of a government institution, other than a confidence of the Queen's Privy Council for Canada to which subsection 70(1) applies, and no information that the Commissioner may examine under this subsection may be withheld from the Commissioner on any grounds.
 
 **(2.1)** The Privacy Commissioner may examine information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege only if the head of a government institution refuses to disclose the information under section 27.
 
@@ -1675,13 +1705,13 @@ Section 45 of the Act is replaced by the following:
 
 ### Section 45
 
-**Despite** any other Act of Parliament, any privilege under the law of evidence, **solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege**, the Court may, in the course of any proceedings before **it** arising from an application under section 41, 42 or 43, examine any information recorded in any form under the control of a government institution, other than a confidence of the Queen's Privy Council for Canada to which subsection 70(1) applies, and no information that the Court may examine under this section may be withheld from the Court on any grounds.
+Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, the Court may, in the course of any proceedings before it arising from an application under section 41, 42 or 43, examine any information recorded in any form under the control of a government institution, other than a confidence of the Queen's Privy Council for Canada to which subsection 70(1) applies, and no information that the Court may examine under this section may be withheld from the Court on any grounds.
 
 ### Section 52
 
 Paragraph 64(1)(b) of the Act is replaced by the following:
 
-in the course of a prosecution for an offence under this Act, a prosecution for an offence under section 131 of the `Criminal Code` (perjury) in respect of a statement made under this Act **or** a review before the Court under this Act **or Part 1 of the `Access to Information Act`** or an appeal **from a review of that Court**.
+in the course of a prosecution for an offence under this Act, a prosecution for an offence under section 131 of the `Criminal Code` (perjury) in respect of a statement made under this Act or a review before the Court under this Act or Part 1 of the `Access to Information Act` or an appeal from a review of that Court.
 
 ### Section 53
 
@@ -1689,7 +1719,7 @@ Section 66 of the Act is replaced by the following:
 
 ### Section 66
 
-The Privacy Commissioner or any person acting on behalf or under the direction of the Commissioner is not a competent or compellable witness, in respect of any matter coming to the knowledge of the Commissioner or that person as a result of performing any duties or functions under this Act, in any proceeding other than a prosecution for an offence under this Act, a prosecution for an offence under section 131 of the `Criminal Code` (perjury) in respect of a statement made under this Act, a review before the Court under this Act or an appeal **from a review of that Court**.
+The Privacy Commissioner or any person acting on behalf or under the direction of the Commissioner is not a competent or compellable witness, in respect of any matter coming to the knowledge of the Commissioner or that person as a result of performing any duties or functions under this Act, in any proceeding other than a prosecution for an offence under this Act, a prosecution for an offence under section 131 of the `Criminal Code` (perjury) in respect of a statement made under this Act, a review before the Court under this Act or an appeal from a review of that Court.
 
 ### Section 66.1
 
@@ -1709,9 +1739,9 @@ The designated Minister may provide services with respect to the administration 
 
 ### Section 72
 
-      **(1)** **Every year** the head of every government institution shall prepare **a** report on the administration of this Act within the institution during **the period beginning on April 1 of the preceding year and ending on March 31 of the current year**.
+      **(1)** Every year the head of every government institution shall prepare a report on the administration of this Act within the institution during the period beginning on April 1 of the preceding year and ending on March 31 of the current year.
 
-      **(2)** Every report prepared under subsection (1) shall be laid before each House of Parliament on any of the first 15 days **on which** that House is sitting **after September 1 of the year in which the report is prepared**.
+      **(2)** Every report prepared under subsection (1) shall be laid before each House of Parliament on any of the first 15 days on which that House is sitting after September 1 of the year in which the report is prepared.
 
   **(2)** Section 72 of the Act is amended by adding the following after subsection (3):
 
@@ -1723,9 +1753,9 @@ Section 73 of the Act is replaced by the following:
 
 ### Section 73
 
-  ****(1)**** The head of a government institution may, by order, **delegate** any of **their** powers, duties or functions under this Act to one or more officers or employees of that institution.
+  **(1)** The head of a government institution may, by order, delegate any of their powers, duties or functions under this Act to one or more officers or employees of that institution.
 
-  **(2)** The head of a government institution may, for the purposes of subsection 73.1(1), by order, **delegate** any of **their** powers, duties or functions under this Act **to** one or more officers or employees of another government institution.
+  **(2)** The head of a government institution may, for the purposes of subsection 73.1(1), by order, delegate any of their powers, duties or functions under this Act to one or more officers or employees of another government institution.
 
 ### Section 73.1
 
@@ -1749,7 +1779,7 @@ Subsection 77(2) of the Act is replaced by the following:
 
 **(2)** The Governor in Council may, by order,
 
-  **add to** the schedule **the name of** any department, ministry of state, body or office of the Government of Canada;
+  add to the schedule the name of any department, ministry of state, body or office of the Government of Canada;
 
   replace in the schedule the former name of any department, ministry of state, body or office of the Government of Canada with its new name; and
 
@@ -1830,7 +1860,7 @@ the deletion of "Office of Indian Residential Schools Resolution of Canada/Burea
 
 Item 15 of the schedule to the `Canada Evidence Act` is replaced by the following:
 
-A judge of the Federal Court, for the purposes of **section** 41 of the `Access to Information Act`
+A judge of the Federal Court, for the purposes of section 41 of the `Access to Information Act`
 
 
 ### `Personal Information Protection and Electronic Documents Act`
@@ -1839,7 +1869,7 @@ A judge of the Federal Court, for the purposes of **section** 41 of the `Access 
 
 Paragraph 9(3)(a) of the `Personal Information Protection and Electronic Documents Act` is replaced by the following:
 
-the information is protected by solicitor-client privilege or the professional secrecy of **advocates** and notaries **or by litigation privilege**;
+the information is protected by solicitor-client privilege or the professional secrecy of advocates and notaries or by litigation privilege;
 
 
 ## Coordinating Amendment
