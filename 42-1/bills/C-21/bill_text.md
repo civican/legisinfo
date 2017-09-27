@@ -18,11 +18,6 @@ The heading of Part V of the `Customs Act` is replaced by the following:
 
 ## Collection of Information About Persons and Goods
 
-
-> **Explanatory Note**:
-> Existing heading of Part V:
-> *Existing Text*:
-
 ### Section 2
 
 The Act is amended by adding the following before section 95:
@@ -80,6 +75,10 @@ The Act is amended by adding the following before section 95:
 
     respecting the time within which and the manner in which the information must be given under subsection (1).
 
+### Section 93.1
+
+Subject to section 6 of the `Privacy Act`, information collected under sections 92 and 93 shall be retained for 15 years beginning on the day on which the information is collected.
+
 ### Section 94
 
 Every person who is leaving Canada shall, if requested to do so by an officer, present themselves to an officer and answer truthfully any questions asked by an officer in the performance of their duties under this or any other Act of Parliament.
@@ -87,17 +86,13 @@ Every person who is leaving Canada shall, if requested to do so by an officer, p
 
 ### Exportation of Goods
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 3
 
 Subsection 95(1) of the Act is replaced by the following:
 
 ### Section 95
 
-  **(1)** Subject to **subsections (1.1) and (1.2) and** paragraph (2)(a), all goods that are exported shall be reported at **any** time and place and in **any** manner **that** may be prescribed.
+  **(1)** Subject to subsections (1.1) and (1.2) and paragraph (2)(a), all goods that are exported shall be reported at any time and place and in any manner that may be prescribed.
 
   **(1.1)** Goods that are on board a conveyance that enters and then leaves Canadian waters, including the inland waters, or the airspace over Canada while proceeding directly from one place outside Canada to another place outside Canada are exempted from the requirements of subsection (1).
 
@@ -105,53 +100,31 @@ Subsection 95(1) of the Act is replaced by the following:
 
   **(1.3)** However, an officer may require that goods exempted under subsection (1.1) or (1.2) or the regulations made under paragraph (2)(a) be reported under subsection (1).
 
-
-> **Explanatory Note**:
-> Existing text of subsection 95(1):
-> *Existing Text*:
-> > Subject to paragraph (2)(a), all goods that are exported shall be reported at such time and place and in such manner as may be prescribed.
-
 ### Section 4
 
   **(1)** Subsections 97.25(1) and (2) of the Act are replaced by the following:
 
 ### Section 97.25
 
-      **(1)** Any goods **that are to be exported, that have been reported** under section 95 or **that have been** imported, by or on behalf of a debtor, are subject to a lien **or hypothec** for the amount owed by the debtor and may be detained by an officer at the expense of the debtor until that amount is paid.
+      **(1)** Any goods that are to be exported, that have been reported under section 95 or that have been imported, by or on behalf of a debtor, are subject to a lien or hypothec for the amount owed by the debtor and may be detained by an officer at the expense of the debtor until that amount is paid.
 
-      **(2)** Any conveyance used for the importation **or exportation** of goods in respect of which a notice has been served under section 109.3 is subject to a lien **or hypothec** for the amount owed by the debtor and may be detained by an officer at the expense of the person on whom the notice was served until the amount set out in the notice is paid.
+      **(2)** Any conveyance used for the importation or exportation of goods in respect of which a notice has been served under section 109.3 is subject to a lien or hypothec for the amount owed by the debtor and may be detained by an officer at the expense of the person on whom the notice was served until the amount set out in the notice is paid.
 
   **(2)** The portion of subsection 97.25(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Subject to the regulations, the Minister, on giving 30 days' notice in writing to the debtor at the debtor's latest known address, may direct that any good imported or **to be exported, or any good reported under section 95**, by or on behalf of the debtor, or any conveyance, that has been detained be sold
+    **(3)** Subject to the regulations, the Minister, on giving 30 days' notice in writing to the debtor at the debtor's latest known address, may direct that any good imported or to be exported, or any good reported under section 95, by or on behalf of the debtor, or any conveyance, that has been detained be sold
 
 ### Section 5
 
 Paragraph 99(1)(c) of the Act is replaced by the following:
 
-at any time up to the time of exportation, examine any goods **that are to be exported or** that have been reported under section 95 and open or cause to be opened any package or container of **those** goods and take samples of **those** goods in reasonable amounts;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 99(1):
-> *Existing Text*:
-> > An officer may
-> > 
-> > at any time up to the time of exportation, examine any goods that have been reported under section 95 and open or cause to be opened any package or container of such goods and take samples of such goods in reasonable amounts;
+at any time up to the time of exportation, examine any goods that are to be exported or that have been reported under section 95 and open or cause to be opened any package or container of those goods and take samples of those goods in reasonable amounts;
 
 ### Section 6
 
 Paragraph 107(5)(i) of the Act is replaced by the following:
 
-an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the `Employment Insurance Act` **or the `Old Age Security Act`**, if the information relates to the movement of people into and out of Canada;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 107(5):
-> *Existing Text*:
-> > An official may provide, allow to be provided or provide access to customs information to the following persons:
-> > 
-> > an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the `Employment Insurance Act`, if the information relates to the movement of people into and out of Canada;
+an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the `Employment Insurance Act` or the `Old Age Security Act`, if the information relates to the movement of people into and out of Canada;
 
 ### Section 7
 
@@ -159,15 +132,9 @@ Section 159 of the Act is replaced by the following:
 
 ### Section 159
 
-  ****(1)**** Every person commits an offence who smuggles or attempts to smuggle into Canada, whether clandestinely or not, any goods **that are** subject to duties, or any goods the importation of which is prohibited, controlled or regulated **under** this or any other Act of Parliament.
+  **(1)** Every person commits an offence who smuggles or attempts to smuggle into Canada, whether clandestinely or not, any goods that are subject to duties, or any goods the importation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
 
   **(2)** Every person commits an offence who smuggles or attempts to smuggle out of Canada, whether clandestinely or not, any goods that are subject to duties, or any goods the exportation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
-
-
-> **Explanatory Note**:
-> Existing text of section 159:
-> *Existing Text*:
-> > Every person commits an offence who smuggles or attempts to smuggle into Canada, whether clandestinely or not, any goods subject to duties, or any goods the importation of which is prohibited, controlled or regulated by or pursuant to this or any other Act of Parliament.
 
 ### Section 8
 
@@ -175,13 +142,7 @@ The portion of subsection 160(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 160
 
-  **(1)** Every person who contravenes section 11, 12, 13, 15 or 16, subsection 20(1), section 31 or 40, subsection 43(2), section **94, subsection** 95(1) or (3), 103(3) or 107(2) or section 153, 155, 156 or 159.1 or commits an offence under **subsection** 159**(1) or (2)** or knowingly contravenes an order referred to in subsection 107(11)
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 160(1):
-> *Existing Text*:
-> > Every person who contravenes section 11, 12, 13, 15 or 16, subsection 20(1), section 31 or 40, subsection 43(2), 95(1) or (3), 103(3) or 107(2) or section 153, 155, 156 or 159.1 or commits an offence under section 159 or knowingly contravenes an order referred to in subsection 107(11)
+  **(1)** Every person who contravenes section 11, 12, 13, 15 or 16, subsection 20(1), section 31 or 40, subsection 43(2), section 94, subsection 95(1) or (3), 103(3) or 107(2) or section 153, 155, 156 or 159.1 or commits an offence under subsection 159(1) or (2) or knowingly contravenes an order referred to in subsection 107(11)
 
 
 ## Coming into Force
