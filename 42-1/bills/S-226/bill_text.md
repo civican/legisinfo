@@ -1,7 +1,5 @@
 # Bill S-226: An Act to provide for the taking of restrictive measures in respect of foreign nationals 
 
-**Sponsor**: Andreychuk
-
 ## Summary
 
 This enactment enacts the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)` to provide for the taking of restrictive measures in respect of foreign nationals responsible for gross violations of internationally recognized human rights. It also proposes related amendments to the `Special Economic Measures Act` and to the `Immigration and Refugee Protection Act`.
@@ -225,7 +223,7 @@ The Governor in Council may make regulations for carrying out the purposes and p
 
 ### Section 4
 
-      **(1)** The Governor in Council may, **if satisfied based on reliable and appropriate evidence that the circumstances described in subsection (1.1) have occurred,**
+      **(1)** The Governor in Council may, if satisfied based on reliable and appropriate evidence that the circumstances described in subsection (1.1) have occurred,
 
       **(2)** Section 4 of the Act is amended by adding the following after subsection (1):
 
@@ -248,10 +246,6 @@ The Governor in Council may make regulations for carrying out the purposes and p
           a foreign state has materially assisted, sponsored, or provided financial, material or technological support for, or goods or services in support of, an activity described in paragraph (e).
 
 
-> **Explanatory Note**:
-> New.
-
-
 ### Immigration and Refugee Protection Act
 
 ### Section 17
@@ -261,8 +255,4 @@ Subsection 35(1) of the `Immigration and Refugee Protection Act` is amended by s
 engaging in or instigating an act described in paragraphs 4(1.1)(c) to (e) of the `Special Economic Measures Act`; or
 
 being a foreign national who is subject to an order or regulation made under section 4 of the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`.
-
-
-> **Explanatory Note**:
-> New.
 
