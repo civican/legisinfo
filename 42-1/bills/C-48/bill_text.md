@@ -204,6 +204,8 @@ The following definitions apply in this Act.
 
   **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1).
 
+  **(3)** After making an order under subsection (1), the Minister must make it accessible to the public on the Internet or by any other means that he or she considers appropriate.
+
 
 ## Administration and Enforcement
 
