@@ -8,7 +8,7 @@ His Excellency the Governor General recommends to the House of Commons the appro
 
 This enactment amends the `Oceans Act` to, among other things,
 
-clarify the responsibility of the Minister of Fisheries and Oceans to establish a national network of protected areas;
+clarify the responsibility of the Minister of Fisheries and Oceans to establish a national network of marine protected areas;
 
 empower the Minister to designate marine protected areas by order and prohibit certain activities in those areas;
 
@@ -43,33 +43,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 The `Oceans Act` is amended by adding the following before section 28:
 
 
-### **Application**
-
-
-> **Explanatory Note**:
-> New.
+### Application
 
 ### Section 2
 
 The Act is amended by adding the following before section 29:
 
 
-### **National Strategy**
-
-
-> **Explanatory Note**:
-> New.
+### National Strategy
 
 ### Section 3
 
 The Act is amended by adding the following before section 35:
 
 
-### **Designation of Marine Protected Areas**
-
-
-> **Explanatory Note**:
-> New.
+### Designation of Marine Protected Areas
 
 ### Section 4
 
@@ -77,19 +65,41 @@ The Act is amended by adding the following before section 35:
 
 ### Section 35
 
-      **(1)** A marine protected area is an area of the sea that forms part of the internal waters of Canada, the territorial sea of Canada or the exclusive economic zone of Canada and has been designated under this section **or section 35.1** for special protection for one or more of the following reasons:
+      **(1)** A marine protected area is an area of the sea that forms part of the internal waters of Canada, the territorial sea of Canada or the exclusive economic zone of Canada and has been designated under this section or section 35.1 for special protection for one or more of the following reasons:
+
+  **(1.1)** Section 35(1) of the Act is amended by striking out "and" at the end of paragraph (d), by adding "and" at the end of paragraph (e) and by adding the following after paragraph (e):
+
+    the conservation and protection of marine areas for the purpose of maintaining ecological integrity.
+
+  **(1.2)** Section 35 of the Act is amended by adding the following after subsection (1):
+
+    **(1.1)** For the purpose of paragraph (1)(f), **ecological integrity** means a condition in which
+
+      the structure, composition and function of ecosystems are undisturbed by any human activity;
+
+      natural ecological processes are intact and self-sustaining;
+
+      ecosystems evolve naturally; and
+
+      an ecosystem's capacity for self-renewal and its biodiversity are maintained.
 
   **(2)** Subsection 35(2) of the Act is replaced by the following:
 
-    **(2)** For the purposes of integrated management plans referred to in sections 31 and 32, the Minister **shall** lead and coordinate the development and implementation of a national **network** of protected areas on behalf of the Government of Canada.
+    **(2)** For the purposes of integrated management plans referred to in sections 31 and 32, the Minister shall lead and coordinate the development and implementation of a national network of **marine** protected areas on behalf of the Government of Canada.
+
+    **(2.1)** In performing his or her duties and functions under subsection (2), the Minister shall ensure that:
+
+      clearly identified objectives are set with regard to each marine protected area; and
+
+      the network of marine protected areas covers diverse habitat types, biogeographic regions and environmental conditions.
 
   **(3)** Subsection 35(3) of the Act is amended by striking out "and" at the end of paragraph (a) and by replacing paragraph (b) with the following:
 
-    **delineating zones within** marine protected areas;
+    delineating zones within marine protected areas;
 
-    **prohibiting** classes of activities within marine protected areas; and
+    prohibiting classes of activities within marine protected areas; and
 
-    **respecting** any other matter consistent with the purpose of the designation.
+    respecting any other matter consistent with the purpose of the designation.
 
 ### Section 5
 
@@ -111,11 +121,11 @@ The Act is amended by adding the following after section 35:
 
     was not carried out before the day on which the order comes into force, but was authorized and continues to be authorized, including by a permit or licence, under any applicable federal laws or laws of a province. (**en cours**)
 
-  **(2)** The Minister may, by order, designate a marine protected area in any area of the sea that is not designated as a marine protected area under paragraph 35(3)(a) and, in that order, the Minister
+  **(2)** The Minister may, by order, designate a marine protected area in any area of the sea that is not designated as a marine protected area under paragraph 35(3)(a), in **a manner that is not inconsistent with a land claims agreement that has been given effect and has been ratified or approved by an Act of Parliament and, in** that order, the Minister
 
     shall list the classes of activities that are ongoing activities in the marine protected area;
 
-    shall prohibit, in the marine protected area, any activity that is not part of a class of activities set out in paragraph (a) and that disturbs, damages, destroys or removes from that marine protected area any living marine organism or any part of its habitat or is likely to do so;
+    shall prohibit, in the marine protected area, any activity that is not part of a class of activities set out in paragraph (a) and that disturbs, damages, destroys or removes from that marine protected area any **unique geological or archeological features or any** living marine organism or any part of its habitat or is likely to do so;
 
     may prohibit, in the marine protected area, any activity that is part of a class of activities set out in paragraph (a) and that is governed by an Act of Parliament under which the Minister is responsible for the management, conservation or protection of fisheries resources; and
 
@@ -141,38 +151,21 @@ The Governor in Council and the Minister shall not use lack of scientific certai
 
   **(2)** The Governor in Council may repeal the order if the Governor in Council makes a regulation referred to in paragraph (1)(a).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 6
 
 Section 36 of the Act is amended by adding the following after subsection (3):
 
 **(4)** In the event of any inconsistency between an order made under subsection (1) and an order made under subsection 35.1(2), the order made under subsection (1) prevails to the extent of the inconsistency.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 7
 
 Sections 37 and 38 of the Act are replaced by the following:
 
 
-### **Administration and Enforcement**
+### Administration and Enforcement
 
 
-#### **Designation**
-
-
-> **Explanatory Note**:
-> Existing text of sections 37 and 38:
-> *Existing Text*:
-> > Every person who contravenes a regulation made under paragraph 35(3)(b) or an order made under subsection 36(1) in the exercise of a power under that paragraph
-> > is guilty of an offence punishable on summary conviction and liable to a fine not exceeding $100,000; or
-> > is guilty of an indictable offence and liable to a fine not exceeding $500,000.
-> > No person may be convicted of an offence consisting of a contravention of an order made under subsection 36(1) in the exercise of a power under paragraph 35(3)(b) that, at the time of the alleged contravention, had not been published in the `Canada Gazette` in both official languages unless it is proved that reasonable steps had been taken before that time to bring the purport of the order to the attention of those persons likely to be affected by it.
+#### Designation
 
 ### Section 8
 
@@ -180,24 +173,14 @@ Subsection 39(1) of the Act is replaced by the following:
 
 ### Section 39
 
-  **(1)** The Minister may designate **persons** or **classes** of persons as enforcement officers for the purposes of **the administration and enforcement** of this Act and the regulations.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 39(1):
-> *Existing Text*:
-> > The Minister may designate any person or class of persons to act as enforcement officers for the purposes of this Act and the regulations.
+  **(1)** The Minister may designate persons or classes of persons as enforcement officers for the purposes of the administration and enforcement of this Act and the regulations.
 
 ### Section 9
 
 The Act is amended by adding the following after section 39:
 
 
-#### **Enforcement Officer's Powers**
-
-
-> **Explanatory Note**:
-> New.
+#### Enforcement Officer's Powers
 
 ### Section 10
 
@@ -205,17 +188,17 @@ The Act is amended by adding the following after section 39:
 
 ### Section 39.1
 
-      **(1)** For **a** purpose **related to verifying** compliance **or preventing non-compliance** with this Act and the regulations, an enforcement officer may enter and inspect any place, **including any conveyance**, in which the enforcement officer has reasonable grounds to believe, **that** there is any thing to which this Act or the regulations apply or any **book, record, electronic data or other** document relating to the **application** of this Act or the regulations, and the enforcement officer may, **for that purpose**,
+      **(1)** For a purpose related to verifying compliance or preventing non-compliance with this Act and the regulations, an enforcement officer may enter and inspect any place, including any conveyance, in which the enforcement officer has reasonable grounds to believe, that there is any thing to which this Act or the regulations apply or any book, record, electronic data or other document relating to the application of this Act or the regulations, and the enforcement officer may, for that purpose,
 
-        open or cause to be opened any container that the enforcement officer **has** reasonable grounds to believe contains **that** thing, **book, record, electronic data or other** document;
+        open or cause to be opened any container that the enforcement officer has reasonable grounds to believe contains that thing, book, record, electronic data or other document;
 
   **(2)** Paragraph 39.1(1)(b) of the English version of the Act is replaced by the following:
 
-    **examine** the thing and take samples free of charge;
+    examine the thing and take samples free of charge;
 
   **(3)** The portion of subsection 39.1(1) of the Act after paragraph (b) is replaced by the following:
 
-    require any person to produce the **book, record, electronic data or other** document for **examination** or copying, in whole or in part;
+    require any person to produce the book, record, electronic data or other document for examination or copying, in whole or in part;
 
     use or cause to be used any computer system or data processing system at the place being inspected to examine any data contained in, or available to, the system;
 
@@ -227,13 +210,13 @@ The Act is amended by adding the following after section 39:
 
     **(1.1)** An enforcement officer may dispose of a sample taken under paragraph (1)(b) in any manner that the officer considers appropriate.
 
-    ****(1.2)**** **For the purposes of subsection (1), the enforcement officer may** seize any thing **that** the enforcement officer has reasonable grounds to believe
+    **(1.2)** For the purposes of subsection (1), the enforcement officer may seize any thing that the enforcement officer has reasonable grounds to believe
 
-      **was used in the contravention of** this Act or the regulations;
+      was used in the contravention of this Act or the regulations;
 
-      **is something in relation to which this Act or the regulations** have been contravened; or
+      is something in relation to which this Act or the regulations have been contravened; or
 
-      **was obtained by the contravention of this Act or the regulations**.
+      was obtained by the contravention of this Act or the regulations.
 
     **(1.3)** The owner or the person in charge of the place, and every person found in the place, shall
 
@@ -241,7 +224,7 @@ The Act is amended by adding the following after section 39:
 
       provide the enforcement officer with any information or any book, record, electronic data or other document, and access to any data, that are reasonably required for that purpose.
 
-    **(2)** For the purposes of carrying out the inspection, the enforcement officer may stop a conveyance or direct that it be moved to **any** place, **including in Canadian waters or the exclusive economic zone of Canada**, where the inspection can be carried out.
+    **(2)** For the purposes of carrying out the inspection, the enforcement officer may stop a conveyance or direct that it be moved to any place, including in Canadian waters or the exclusive economic zone of Canada, where the inspection can be carried out.
 
     **(2.1)** An enforcement officer and any person accompanying them may enter and pass through private property, other than a dwelling-place, in order to gain entry to a place referred to in subsection (1). For greater certainty, neither person is liable for doing so.
 
@@ -368,19 +351,13 @@ An enforcement officer may direct a ship to move to any place in Canadian waters
 
 #### Things Seized, Detained, Abandoned or Forfeited
 
-
-> **Explanatory Note**:
-> Existing text of section 39.2:
-> *Existing Text*:
-> > For the purpose of ensuring compliance with this Act and the regulations, an enforcement officer may exercise the powers of search and seizure provided in section 487 of the `Criminal Code` without a warrant, if the conditions for obtaining a warrant exist but by reason of exigent circumstances it would not be feasible to obtain the warrant.
-
 ### Section 12
 
   **(1)** The portion of subsection 39.3(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 39.3
 
-      **(1)** Subject to subsections (2) **to (3.1)**, **if** an enforcement officer seizes a thing under this Act or under a warrant issued under the `Criminal Code`,
+      **(1)** Subject to subsections (2) to (3.1), if an enforcement officer seizes a thing under this Act or under a warrant issued under the `Criminal Code`,
 
   **(2)** Section 39.3 of the Act is amended by adding the following after subsection (3):
 
@@ -392,10 +369,10 @@ Sections 39.5 and 39.6 of the Act are replaced by the following:
 
 ### Section 39.5
 
-The lawful owner and any person lawfully entitled to possession of any thing seized, **detained**, abandoned or forfeited under this Act are jointly and severally, **or solidarily**, liable for all the costs of inspection, seizure, **detention**, abandonment, forfeiture or disposition incurred by Her Majesty in right of Canada in excess of any proceeds of disposition of the thing that have been forfeited to Her Majesty under this Act.
+The lawful owner and any person lawfully entitled to possession of any thing seized, detained, abandoned or forfeited under this Act are jointly and severally, or solidarily, liable for all the costs of inspection, seizure, detention, abandonment, forfeiture or disposition incurred by Her Majesty in right of Canada in excess of any proceeds of disposition of the thing that have been forfeited to Her Majesty under this Act.
 
 
-### **Offences and Punishment**
+### Offences and Punishment
 
 ### Section 39.6
 
@@ -471,31 +448,31 @@ The lawful owner and any person lawfully entitled to possession of any thing sei
 
     for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
 
-  **(3)** Every individual or corporation that contravenes subsection 39**(6)** or a regulation made under **paragraph** 52.1**(b) or (c)** is guilty of an offence and liable
+  **(3)** Every individual or corporation that contravenes subsection 39(6) or a regulation made under paragraph 52.1(b) or (c) is guilty of an offence and liable
 
-    **on conviction on indictment**,
+    on conviction on indictment,
 
-    **for a first offence**, to a fine of not more than $500,000, **and**
+    for a first offence, to a fine of not more than $500,000, and
 
-    **for a second or subsequent offence, to a fine of not more than $1,000,000; or**
+    for a second or subsequent offence, to a fine of not more than $1,000,000; or
 
     on summary conviction,
 
-    **for a first offence**, to a fine **of** not **more than** $100,000, **and**
+    for a first offence, to a fine of not more than $100,000, and
 
     for a second or subsequent offence, to a fine of not more than $200,000.
 
-  **(4)** Every ship that contravenes any regulation made under **paragraph** 52.1**(b) or (c)** is guilty of an offence and liable
+  **(4)** Every ship that contravenes any regulation made under paragraph 52.1(b) or (c) is guilty of an offence and liable
 
-    **on conviction on indictment**,
+    on conviction on indictment,
 
-    **for a first offence**, to a fine of not more than $500,000, **and**
+    for a first offence, to a fine of not more than $500,000, and
 
-    **for a second or subsequent offence, to a fine of not more than $1,000,000; or**
+    for a second or subsequent offence, to a fine of not more than $1,000,000; or
 
     on summary conviction,
 
-    **for a first offence**, to a fine **of** not **more than** $100,000, **and**
+    for a first offence, to a fine of not more than $100,000, and
 
     for a second or subsequent offence, to a fine of not more than $200,000.
 
@@ -549,7 +526,7 @@ The court may impose a fine that is less than the minimum amount provided for in
 
   **(3)** When a ship is charged with an offence under section 39.6, the summons may be served by leaving it with the master or another officer, the authorized representative, the owner or the operator of the ship, or if it cannot reasonably be left with any of those persons, by posting a copy of it on any conspicuous part of the ship.
 
-  **(4)** If a ship is charged with an offence under section 39.6, the ship may appear **by counsel or representative before the court**. Despite the `Criminal Code`, if the ship does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
+  **(4)** If a ship is charged with an offence under section 39.6, the ship may appear by counsel or representative before the court. Despite the `Criminal Code`, if the ship does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
 
   **(5)** If a ship is prosecuted for an offence under section 39.6, it is sufficient proof of the offence to establish that the act or omission that constitutes the offence was committed by the master of the ship or any other person on board the ship, whether or not the person on board has been identified or has been prosecuted for the offence.
 
@@ -597,21 +574,6 @@ The court may impose a fine that is less than the minimum amount provided for in
 
   **(5)** If the court decides not to increase the amount of the fine despite being satisfied of the existence of one or more of the aggravating factors set out in subsection (2), the court shall provide reasons for that decision.
 
-
-> **Explanatory Note**:
-> Existing text of sections 39.5 and 39.6:
-> *Existing Text*:
-> > The lawful owner and any person lawfully entitled to possession of any thing seized, abandoned or forfeited under this Act are jointly and severally liable for all the costs of inspection, seizure, abandonment, forfeiture or disposition incurred by Her Majesty in right of Canada in excess of any proceeds of disposition of the thing that have been forfeited to Her Majesty under this Act.
-> > Every person who contravenes subsection 39(6) or any regulation made under section 52.1
-> > is guilty of an offence punishable on summary conviction and is liable to a fine not exceeding $100,000; or
-> > is guilty of an indictable offence and is liable to a fine not exceeding $500,000.
-> > Where a person is convicted of an offence under this Act a second or subsequent time, the amount of the fine for the subsequent offence may, notwithstanding subsection (1), be double the amount set out in that subsection.
-> > A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
-> > A fine imposed for an offence involving more than one animal, plant or other organism may be calculated in respect of each one as though it had been the subject of a separate information and the fine then imposed is the total of that calculation.
-> > Where a person has been convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence,
-> > the court may order the person to pay an additional fine in an amount equal to the court's estimation of the amount of the monetary benefits; and
-> > the additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
-
 ### Section 14
 
   **(1)** Section 39.9 of the Act is amended by striking out "and" at the end of paragraph (g) by adding the following after paragraph (h):
@@ -620,9 +582,9 @@ The court may impose a fine that is less than the minimum amount provided for in
 
     directing the person to pay to Her Majesty in right of Canada an amount of money that the court considers appropriate for the purpose of promoting the conservation, protection or restoration of any marine protected area;
 
-    directing the **person** to pay, in a manner specified by the court, an amount to enable research to be conducted with respect to the conservation, protection or restoration of any marine protected area;
+    directing the person to pay, in a manner specified by the court, an amount to enable research to be conducted with respect to the conservation, protection or restoration of any marine protected area;
 
-    directing the **person** to pay, in the manner specified by the court, an amount to environmental or other groups to assist in their work related to marine protected areas; and
+    directing the person to pay, in the manner specified by the court, an amount to environmental or other groups to assist in their work related to marine protected areas; and
 
     directing the person to pay, in the manner specified by the court, an amount to an educational institution including for scholarships for students enrolled in studies related to the environment.
 
@@ -640,14 +602,7 @@ Section 39.11 of the Act is replaced by the following:
 
 ### Section 39.92
 
-Proceedings by way of summary conviction in respect of an offence may be commenced not later than **five** years after the day on which **the offence was committed**.
-
-
-> **Explanatory Note**:
-> Existing text of section 39.11:
-> *Existing Text*:
-> > Proceedings by way of summary conviction in respect of an offence may be commenced at any time within, but not later than, two years after the day on which the subject-matter of the proceedings became known to the Minister.
-> > A document appearing to have been issued by the Minister, certifying the day on which the subject-matter of any proceedings became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is proof of the matter asserted in it.
+Proceedings by way of summary conviction in respect of an offence may be commenced not later than five years after the day on which the offence was committed.
 
 ### Section 17
 
@@ -669,7 +624,7 @@ Section 39.11 of the `Oceans Act`, as it read immediately before the day on whic
 
 ### Section 12
 
-      **(1)** The Governor in Council may, by order, prohibit any interest owner specified in the order from commenc­ing or continuing any work or activity on the frontier lands or any portion **of them** that are subject to the interest of that interest owner, in the case of
+      **(1)** The Governor in Council may, by order, prohibit any interest owner specified in the order from commenc­ing or continuing any work or activity on the frontier lands or any portion of them that are subject to the interest of that interest owner, in the case of
 
   **(2)** Subsection 12(1) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding "or" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -712,8 +667,4 @@ The Act is amended by adding the following after section 12:
   **(2)** If the Minister cancels an interest referred to in subsection 12.1(1), Her Majesty in right of Canada may grant to the interest owner the compensation that is specified in an order made by the Minister under subsection 12.1(3), subject to section 106 in respect of the amount of that compensation.
 
   **(3)** A person shall not have any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any servant or agent or mandatary of Her Majesty in right of Canada for any acquired, vested, future or potential right or entitlement that is affected by a surrender or cancellation of an interest referred to in subsection 12.1(1), other than compensation that may be granted to an interest owner under this section.
-
-
-> **Explanatory Note**:
-> New.
 
