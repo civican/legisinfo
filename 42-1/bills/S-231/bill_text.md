@@ -35,35 +35,33 @@ The `Canada Evidence Act` is amended by adding the following after section 39:
 
     **journalistic source** means a source that confidentially transmits information to a journalist on the journalist's undertaking not to divulge the identity of the source, whose anonymity is essential to the relationship between the journalist and the source. (**source journalistique**)
 
-  **(2)** This section applies despite any other provision of this Act or any other Act of Parliament.
+  **(2)** Subject to subsection (7), a journalist may object to the disclosure of information or a document before a court, person or body with the authority to compel the disclosure of information on the grounds that the information or document identifies or is likely to identify a journalistic source.
 
-  **(3)** Subject to subsection (8), a journalist may object to the disclosure of information or a document before a court, person or body with the authority to compel the disclosure of information on the grounds that the information or document identifies or is likely to identify a journalistic source.
+  **(3)** For the purposes of subsections (2) and (7), journalist includes an individual who was a journalist when information that identifies or is likely to identify the journalistic source was transmitted to that individual.
 
-  **(4)** For the purposes of subsections (3) and (8), **journalist** includes an individual who was a journalist when information that identifies or is likely to identify the journalistic source was transmitted to that individual.
+  **(4)** The court, person or body may raise the application of subsection (2) on their own initiative.
 
-  **(5)** The court, person or body may raise the application of subsection (3) on their own initiative.
+  **(5)** When an objection  or the application of subsection (2) is raised, the court, person or body shall ensure that the information or document is not disclosed other than in accordance with  this section.
 
-  **(6)** When an objection  or the application of subsection (3) is raised, the court, person or body shall ensure that the information or document is not disclosed other than in accordance with  this section.
+  **(6)** Before determining the question, the court, person or body must give the parties and interested persons a reasonable opportunity to present observations.
 
-  **(7)** Before determining the question, the court, person or body must give the parties and interested persons a reasonable opportunity to present observations.
+  **(7)** The court, person or body may authorize the disclosure of information or a document only if they consider that
 
-  **(8)** The court, person or body may authorize the disclosure of information or a document only if they consider that
+    the information or document cannot be produced in evidence by any other reasonable means; and
 
-    the information or document cannot be produced in evidence by any other reasonable means;
+    the public interest in the administration of justice outweighs the public interest in preserving the confidentiality of the journalistic source, having regard to, among other things,
 
-    the public interest in the administration of justice outweighs the public interest in preserving the confidentiality of the journalistic source, having regard to
-
-    the essential role of the information or document in the proceeding,
+    the importance of the information or document to a central issue in the proceeding,
 
     freedom of the press, and
 
-    the impact of disclosure on the journalistic source and the journalist; and
+    the impact of disclosure on the journalistic source and the journalist.
 
-    due consideration was given to all means of disclosure that would preserve the identity of the journalistic source.
+  **(8)** An authorization under subsection (7) may contain any conditions that the court, person or body considers appropriate to protect the identity of the journalistic source.
 
-  **(9)** A person who requests the disclosure has the burden of proving that the conditions set out in subsection (8) are fulfilled.
+  **(9)** A person who requests the disclosure has the burden of proving that the conditions set out in subsection (7) are fulfilled.
 
-  **(10)** An appeal lies from a determination under subsection (8)
+  **(10)** An appeal lies from a determination under subsection (7)
 
     to the Federal Court of Appeal from a determination of the Federal Court;
 
@@ -98,7 +96,7 @@ The `Criminal Code` is amended by adding the following after section 488:
 
     **officer** means a peace officer or public officer.   (**fonctionnaire**)
 
-  **(2)** Despite any other provision of this Act or any other Act of Parliament, a warrant under section 487.01, 487.1, 492.1 or 492.2, a search warrant under this Act, notably under section 487, or any other Act of Parliament, an authorization under section 184.2, 184.3, 186 or 188, or an order under any of sections 487.014 to 487.017 relating to a journalist's communications or an object, document or data relating to or in the possession of a journalist may be issued only by a judge of a superior court of criminal jurisdiction or by a judge within the meaning of section 552.
+  **(2)** Despite any other provision of this Act, if an applicant for a warrant under section 487.01, 487.1, 492.1 or 492.2, a search warrant under this Act, notably under section 487, an authorization under section 184.2, 184.3, 186 or 188, or an order under any of sections 487.014 to 487.017 knows that the application relates to a journalist's communications or an object, document or data relating to or in the possession of a journalist, they shall make an application to a judge of a superior court of criminal jurisdiction or to a judge as defined in section 552. That judge has exclusive jurisdiction to dispose of the application.
 
   **(3)** A judge may issue a warrant, authorization or order under subsection (2) only if, in addition to the conditions required for the issue of the warrant, authorization or order,  he or she is satisfied that
 
@@ -108,15 +106,35 @@ The `Criminal Code` is amended by adding the following after section 488:
 
   **(4)** The judge to whom the application for the warrant, authorization or order is made may, in his or her discretion, request that a special advocate present observations in the interests of freedom of the press concerning the conditions set out in subsection (3).
 
-  **(5)** The warrant, authorization or order may contain any conditions that the judge considers appropriate to protect the confidentiality of journalistic sources and to limit the disruption of journalistic activities.
+  **(5)** Subsections (3) and (4) do not apply in respect of an application for a warrant, authorization or order that is made in relation to the commission of an offence by a journalist.
 
-  **(6)** The judge who rules on the application for the warrant, authorization or order has the same powers, with the necessary adaptations, as the authority who may issue the warrant, authorization or order.
+  **(6)** If a warrant, authorization or order referred to in subsection (2) is sought in relation to the commission of an offence by a journalist and the judge considers it necessary to protect the confidentiality of journalistic sources, the judge may order that some or all documents obtained pursuant to the warrant, authorization or order are to be dealt with in accordance with section 488.02.
+
+  **(7)** The warrant, authorization or order referred to in subsection (2) may contain any conditions that the judge considers appropriate to protect the confidentiality of journalistic sources and to limit the disruption of journalistic activities.
+
+  **(8)** The judge who rules on the application for the warrant, authorization or order referred to in subsection (2) has the same powers, with the necessary adaptations, as the authority who may issue the warrant, authorization or order.
+
+  **(9)** If an officer, acting under a warrant, authorization or order referred to in subsection (2) for which an application was not made in accordance with that subsection, becomes aware that the warrant, authorization or order relates to a journalist's communications or an object, document or data relating to or in the possession of a journalist, the officer shall, as soon as possible, make an *ex parte* application to a judge of a superior court of criminal jurisdiction or a judge as defined in section 552 and, until the judge disposes of the application,
+
+    refrain from examining or reproducing, in whole or in part, any document obtained pursuant to the warrant, authorization or order; and
+
+    place any document obtained pursuant to the warrant, authorization or order in a sealed packet and keep it in a place to which the public has no access.
+
+  **(10)** On an application under subsection (9), the judge may
+
+    confirm the warrant, authorization or order if the judge is of the opinion that no additional conditions to protect the confidentiality of journalistic sources and to limit the disruption of journalistic activities should be imposed;
+
+    vary the warrant, authorization or order to impose any conditions that the judge considers appropriate to protect the confidentiality of journalistic sources and to limit the disruption of journalistic activities;
+
+    if the judge considers it necessary to protect the confidentiality of journalistic sources, order that some or all documents that were or will be obtained pursuant to the warrant, authorization or order are to be dealt with in accordance with section 488.02; or
+
+    revoke the warrant, authorization or order if the judge is of the opinion that the applicant knew or ought reasonably to have known that the application for the warrant, authorization or order related to a journalist's communications or an object, document or data relating to or in the possession of a journalist.
 
 ### Section 488.02
 
-  **(1)** Any document obtained pursuant to a warrant, authorization or order issued under subsection 488.01(3) is to be placed in a packet and sealed by the court that issued the warrant, authorization or order and is to be kept in the custody of the court in a place to which the public has no access or in such other place as the judge may authorize and is not to be dealt with except in accordance with this section.
+  **(1)** Any document obtained pursuant to a warrant, authorization or order issued in accordance with subsection 488.01(3),  or that is the subject of an order made under subsection 488.01(6) or paragraph 488.01(10)(c), is to be placed in a packet and sealed by the court that issued the warrant, authorization or order and is to be kept in the custody of the court in a place to which the public has no access or in such other place as the judge may authorize and is not to be dealt with except in accordance with this section.
 
-  **(2)** No officer is to examine or reproduce, in whole or in part, a document referred to in subsection (1) or make copies of it without giving the journalist and relevant media outlet notice of his or her intention to examine or reproduce the document or make copies of it.
+  **(2)** No officer is to examine or reproduce, in whole or in part, a document referred to in subsection (1) without giving the journalist and relevant media outlet notice of his or her intention to examine or reproduce the document.
 
   **(3)** The journalist or relevant media outlet may, within 10 days of receiving the notice referred to in subsection (2), apply to a judge of the court that issued the warrant, authorization or order to issue an order that the document is not to be disclosed to an officer on the grounds that the document identifies or is likely to identity a journalistic source.
 
@@ -135,8 +153,4 @@ The `Criminal Code` is amended by adding the following after section 488:
     if he or she is of the opinion that the document should not be disclosed, order that it be returned to the journalist or the media outlet, as the case may be; or
 
     if he or she is of the opinion that the document should be disclosed, order that it be delivered to the officer who gave the notice under subsection (2), subject to such restrictions and conditions as the judge deems appropriate.
-
-### Section 488.03
-
-Sections 488.01 and 488.02 apply despite any other provision of this Act or any other Act of Parliament.
 
