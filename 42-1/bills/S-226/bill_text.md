@@ -46,35 +46,33 @@ This Act may be cited as the `Justice for Victims of Corrupt Foreign Officials A
 
 ### Section 2
 
-  **(1)** The following definitions apply in this Act.
+The following definitions apply in this Act.
 
-    **Canadian** means a person who is a citizen within the meaning of the `Citizenship Act` or a corporation incorporated or continued by or under the laws of Canada or of a province. (**Canadien**)
+**Canadian** means a person who is a citizen within the meaning of the `Citizenship Act` or a corporation incorporated or continued by or under the laws of Canada or of a province. (**Canadien**)
 
-    **entity** means a corporation, trust, partnership, fund, an unincorporated association or organization or a foreign state. (**entité**)
+**entity** means a corporation, trust, partnership, fund, an unincorporated association or organization or a foreign state. (**entité**)
 
-    **foreign national** means an individual who is not
+**foreign national** means an individual who is not
 
-    a Canadian citizen; or
+a Canadian citizen; or
 
-    a permanent resident under the `Immigration and Refugee Protection Act`. (**étranger**)
+a permanent resident under the `Immigration and Refugee Protection Act`. (**étranger**)
 
-    **foreign state** means a country other than Canada, and includes
+**foreign public official** has the same meaning as in section 2 of the `Corruption of Foreign Public Officials Act`.  (**agent public étranger**)
 
-    any of its political subdivisions;
+**foreign state** means a country other than Canada, and includes
 
-    its government and any of its departments, or the government or any department of any of its political subdivisions; and
+any of its political subdivisions;
 
-    any of its agencies or any agency of any of its political subdivisions. (**État étranger**)
+its government and any of its departments, or the government or any department of any of its political subdivisions; and
 
-    **Minister** means the Minister of Foreign Affairs. (**ministre**)
+any of its agencies or any agency of any of its political subdivisions. (**État étranger**)
 
-    **person** means an individual or an entity. (**personne**)
+**Minister** means the Minister of Foreign Affairs. (**ministre**)
 
-    **prescribed** means prescribed by regulation. (**version anglaise seulement)**
+**person** means an individual or an entity. (**personne**)
 
-    **property** means any real, personal, movable or immovable property. (**bien**)
-
-  **(2)** For the purposes of this Act, the property of a person includes property controlled, directly or indirectly, by the person.
+**prescribed** means prescribed by regulation. (**version anglaise seulement)**
 
 
 ## Her Majesty
@@ -88,48 +86,56 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
 ### Section 4
 
-  **(1)** The Governor in Council may, if satisfied based on reliable and appropriate evidence that the circumstances described in subsection (2) have occurred,
+  **(1)** The Governor in Council may, if the Governor in Council is of the opinion that any of the circumstances described in subsection (2) has occurred,
 
-    make any orders or regulations with respect to the restriction or prohibition of any of the activities referred to in subsection (4) in relation to the foreign national's property that the Governor in Council considers necessary; and
+    make any orders or regulations with respect to the restriction or prohibition of any of the activities referred to in subsection (3) in relation to a foreign national that the Governor in Council considers necessary; and
 
     by order, cause to be seized, frozen or sequestrated in the manner set out in the order any of the foreign national's property situated in Canada.
 
   **(2)** The circumstances referred to in subsection (1) are the following:
 
-    a foreign national is responsible for, or complicit in, extrajudicial killings, torture or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek
+    a foreign national is responsible for, or complicit in, extrajudicial killings, torture or other gross violations of internationally recognized human rights committed against individuals in any foreign state who seek
 
-    to expose illegal activity carried out by government officials, or
+    to expose illegal activity carried out by foreign public officials, or
 
     to obtain, exercise, defend or promote internationally recognized human rights and freedoms, such as freedom of conscience, religion, thought, belief, opinion, expression, peaceful assembly and association, and the right to a fair trial and democratic elections;
 
     a foreign national acts as an agent of or on behalf of a foreign state in a matter relating to an activity described in paragraph (a);
 
-    a foreign national who is a government official of a foreign state, or a senior associate of such an official, is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
+    a foreign national, who is a foreign public official or an associate of such an official, is responsible for or complicit in ordering, controlling or otherwise directing acts of corruption — including bribery, the misappropriation of private or public assets for personal gain, the transfer of the proceeds of corruption to foreign states or any act of corruption related to expropriation, government contracts or the extraction of natural resources — which amount to acts of significant corruption when taking into consideration, among other things, their impact, the amounts involved, the foreign national's influence or position of authority or the complicity of the government of the foreign state in question in the acts; or
 
     a foreign national has materially assisted, sponsored, or provided financial, material or technological support for, or goods or services in support of, an activity described in paragraph (c).
 
-  **(3)** The Governor in Council may take into account information obtained by other countries and non-governmental organizations that monitor violations of human rights.
-
-  **(4)** Orders and regulations may be made under paragraph (1)(a) with respect to the restriction or prohibition of any of the following activities, whether carried out in or outside Canada:
+  **(3)** Orders and regulations may be made under paragraph (1)(a) with respect to the restriction or prohibition of any of the following activities, whether carried out in or outside Canada:
 
     the dealing, directly or indirectly, by any person in Canada or Canadian outside Canada in any property, wherever situated, of the foreign national;
 
     the entering into or facilitating, directly or indirectly, by any person in Canada or Canadian outside Canada, of any financial transaction related to a dealing referred to in paragraph (a); and
 
-    the provision by any person in Canada or Canadian outside Canada of financial services or related services in respect of property of the foreign national.
+    the provision by any person in Canada or Canadian outside Canada of financial services or any other services to, for the benefit of or on the direction or order of the foreign national;
+
+    the acquisition by any person in Canada or Canadian outside Canada of financial services or any other services for the benefit of or on the direction or order of the foreign national; and
+
+    the making available by any person in Canada or Canadian outside Canada of any property, wherever situated, to the foreign national or to a person acting on behalf of the foreign national.
+
+  **(4)** The Governor in Council may, by order, authorize the Minister to
+
+    issue to any person in Canada or Canadian outside Canada a permit to carry out a specified activity or transaction, or class of activity or transaction, that is restricted or prohibited under this Act or any order or regulations made under this Act; or
+
+    issue a general permit allowing any person in Canada or Canadian outside Canada to carry out a class of activity or transaction that is restricted or prohibited under this Act or any order or regulations made under this Act.
+
+  **(5)** The Minister may issue a permit or general permit, subject to any terms and conditions that are, in the opinion of the Minister, consistent with this Act and any order or regulations made under this Act.
+
+  **(6)** The Minister may amend, suspend, revoke or reinstate any permit or general permit issued by the Minister.
 
 ### Section 5
-
-An order or regulation made under section 4 in respect of a foreign national ceases to have effect on the day that is five years after the day on which it comes into force unless the Governor in Council, by order, extends it for the period specified in the order. It may be extended more than once.
-
-### Section 6
 
 A copy of each order or regulation made under section 4 must be tabled in each House of Parliament within 15 days after it is made. It may be sent to the Clerk of the House if the House is not sitting.
 
 
 ## Duty to Determine
 
-### Section 7
+### Section 6
 
 Each of the following entities must determine on a continuing basis whether it is in possession or control of property that it has reason to believe is the property of a foreign national who is the subject of an order or regulation made under section 4:
 
@@ -156,60 +162,96 @@ entities authorized under provincial legislation to engage in the business of de
 other entities of a prescribed class of entities.
 
 
-## Rights of Persons who are Subject to an Order or Regulation
+## Disclosure
+
+### Section 7
+
+  **(1)** Every entity referred to in section 6 must disclose, every month, to the principal agency or body that supervises or regulates it under federal or provincial law, whether it is in possession or control of any property referred to in that section and, if so, the number of persons or dealings involved and the total value of the property.
+
+  **(2)** Every person in Canada and every Canadian outside Canada must disclose without delay to the Commissioner of the Royal Canadian Mounted Police or the Director of the Canadian Security Intelligence Service
+
+    that they have reason to believe that property in their possession or control is owned, held or controlled by or on behalf of a foreign national who is the subject of an order or regulation made under section 4; and
+
+    any information about a transaction or proposed transaction in respect of property referred to in paragraph (a).
+
+  **(3)** No proceedings under this Act and no civil proceedings lie against a person for a disclosure made in good faith under subsection (1) or (2).
+
+
+## Rights of Foreign Nationals Who are the Subject of an Order or Regulation
 
 ### Section 8
 
-  **(1)** A person who is the subject of an order or regulation made under section 4 may apply in writing to the Minister to cease being the subject of the order or regulation on the grounds that the person is not a foreign national.
+  **(1)** A foreign national who is the subject of an order or regulation made under section 4 may apply in writing to the Minister to cease being the subject of the order or regulation.
 
-  **(2)** If the Minister has reasonable grounds to believe that the applicant is not a foreign national, the Minister must recommend to the Governor in Council that the order or regulation be amended or repealed, as the case may be, so that the applicant is no longer the subject of the order or regulation.
+  **(2)** On receipt of the application, the Minister must decide whether there are reasonable grounds to recommend to the Governor in Council that the order or regulation be amended or repealed, as the case may be, so that the applicant ceases to be the subject of it.
 
-  **(3)** The Minister must give notice without delay to the applicant of any decision to reject the application.
+  **(3)** The Minister must make a decision on the application within 90 days after the day on which the application is received.
+
+  **(4)** The Minister must give notice without delay to the applicant of any decision to reject the application.
+
+  **(5)** If there has been a material change in the applicant's circumstances since their last application under subsection (1) was submitted, he or she may submit another application.
 
 
 ## Application for a Certificate
 
 ### Section 9
 
-  **(1)** A person claiming not to be a foreign national may apply to the Minister in writing for a certificate stating that they are not a foreign national who is the subject of an order or regulation made under section 4.
+  **(1)** Any person in Canada or any Canadian outside Canada whose name is the same as or similar to the name of a foreign national who is the subject of an order or regulation made under section 4 may, if they claim not to be that foreign national, apply to the Minister in writing for a certificate stating that they are not that foreign national.
 
-  **(2)** If the Minister determines that the person is not a foreign national, the Minister must issue a certificate to the applicant as soon as feasible.
+  **(2)** Within 45 days after the day on which the application was received, the Minister must,
+
+    if he or she is satisfied that the applicant is not the foreign national, issue the certificate to the applicant; or
+
+    if he or she is not so satisfied, provide a notice to the applicant of his or her determination.
 
 ### Section 10
 
-  **(1)** A person who is the subject of an order or regulation made under section 4 may apply to the Minister in writing for a certificate to exempt property from the application of the order or regulation if the property is necessary to meet the reasonable expenses of the person and their dependents.
+  **(1)** A foreign national who is the subject of an order or regulation made under section 4 may apply to the Minister in writing for a certificate to exempt property from the application of the order or regulation if the property is necessary to meet the reasonable expenses of the person and their dependents.
 
-  **(2)** If the Minister determines that the property is necessary to meet the reasonable expenses of the applicant and their dependents, the Minister must issue a certificate to the applicant as soon as feasible.
+  **(2)** If the Minister determines that the property is necessary to meet the reasonable expenses of the applicant and their dependents, the Minister must issue a certificate to the applicant.
+
+  **(3)** The Minister must make a decision on the application and, if applicable, issue a certificate within 90 days after the day on which the application is received.
+
+
+## Offences
+
+### Section 11
+
+Every person who knowingly contravenes or fails to comply with an order or regulation made under section 4
+
+is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years; or
+
+is guilty of an offence punishable on summary conviction and is liable to a fine of not more than $25,000 or to imprisonment for a term of not more than one year, or to both.
 
 
 ## General
 
-### Section 11
+### Section 12
 
 A person who, in relation to any property that is the subject of an order or regulation made under section 4, acts reasonably in taking, or omitting to take, measures to comply with the order or regulation is not liable in any civil action arising from having taken or omitted to take the measures if they took all reasonable steps to satisfy themselves that the property was property that is the subject of the order or regulation.
 
-### Section 12
+### Section 13
 
 All secured and unsecured rights and interests in any property that is the subject of an order or regulation made under section 4 that are held by a person, other than the foreign national who is the subject of the order or regulation, are entitled to the same ranking that they would have been entitled to had the order or regulation not been made.
 
-### Section 13
+### Section 14
 
 The making of an order or regulation under section 4 does not preclude the commencement of proceedings under any Act of Parliament other than this Act, or any civil proceedings, in respect of any property that is the subject of the order or regulation.
 
-### Section 14
+### Section 15
 
 The Governor in Council may make regulations for carrying out the purposes and provisions of this Act.
 
 
 ## Review and Report
 
-### Section 15
+### Section 16
 
   **(1)** Within five years after the day on which this section comes into force, a comprehensive review of the provisions and operation of this Act and of the `Special Economic Measures Act` must be undertaken by the committees of the Senate and of the House of Commons that are designated or established by each  House for that purpose.
 
   **(2)** The committees referred to in subsection (1) must, within a year after a review is undertaken under that subsection or within any further time that may be authorized by the Senate or the House of Commons, as the case may be, submit a report on the review to Parliament, including a statement of any changes that the committees recommend.
 
-  **(3)** Each year, the committees of the Senate and the House of Commons that are designated or established by each House for that purpose conduct a review of the list of foreign nationals who are the subject of an order or regulation made under this Act and submit a report to Parliament together with their recommendations with regard to the addition of foreign nationals to the list or their deletion from the list.
+  **(3)** Committees of the Senate and the House of Commons that are designated or established by each House for that purpose may conduct a review concerning the foreign nationals who are the subject of an order or regulation made under this Act and submit a report to the appropriate House together with their recommendations as to whether those foreign nationals should remain, or no longer be, the subject of that order or regulation.
 
 
 ## Related Amendments
@@ -217,13 +259,13 @@ The Governor in Council may make regulations for carrying out the purposes and p
 
 ### Special Economic Measures Act
 
-### Section 16
+### Section 17
 
   **(1)** The portion of subsection 4(1) of the `Special Economic Measures Act` before paragraph (a) is replaced by the following:
 
 ### Section 4
 
-      **(1)** The Governor in Council may, if satisfied based on reliable and appropriate evidence that the circumstances described in subsection (1.1) have occurred,
+      **(1)** The Governor in Council may, if the Governor in Council is of the opinion that any of the circumstances described in subsection (1.1) has occurred,
 
       **(2)** Section 4 of the Act is amended by adding the following after subsection (1):
 
@@ -233,26 +275,22 @@ The Governor in Council may make regulations for carrying out the purposes and p
 
           a grave breach of international peace and security has occurred that has resulted in or is likely to result in a serious international crisis;
 
-          a foreign state is responsible for extrajudicial killings, torture or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek
+          gross and systematic human rights violations have been committed in a foreign state; or
 
-          to expose illegal activity carried out by government officials, or
-
-          to obtain, exercise, defend or promote internationally recognized human rights and freedoms, such as freedom of conscience, religion, thought, belief, opinion, expression, peaceful assembly and association, and the right to a fair trial and democratic elections;
-
-          a person acts as an agent or on behalf of a foreign state in a matter relating to an activity described in paragraph (c);
-
-          a government official of a foreign state, or a senior associate of such an official, is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
-
-          a foreign state has materially assisted, sponsored, or provided financial, material or technological support for, or goods or services in support of, an activity described in paragraph (e).
+          a national of a foreign state who is either a foreign public official, within the meaning of section 2 of the `Corruption of Foreign Public Officials Act`, or an associate of such an official, is responsible for or complicit in ordering, controlling or otherwise directing acts of corruption — including bribery, the misappropriation of private or public assets for personal gain, the transfer of the proceeds of corruption to foreign states or any act of corruption related to expropriation, government contracts or the extraction of natural resources — which amount to acts of significant corruption when taking into consideration, among other things, their impact, the amounts involved, the foreign national's influence or position of authority or the complicity of the government of the foreign state in question in the acts.
 
 
 ### Immigration and Refugee Protection Act
 
-### Section 17
+### Section 18
 
-Subsection 35(1) of the `Immigration and Refugee Protection Act` is amended by striking out "or" at the end of paragraph (b), and by adding the following after paragraph (c):
+  **(1)** Subsection 35(1) of the `Immigration and Refugee Protection Act` is amended by striking out "or" at the end of paragraph (b), and by adding the following after paragraph (c):
 
-engaging in or instigating an act described in paragraphs 4(1.1)(c) to (e) of the `Special Economic Measures Act`; or
+    being a person, other than a permanent resident, who is currently the subject of an order or regulation made under section 4 of the `Special Economic Measures Act` on the grounds that any of the circumstances described in paragraph 4(1.1)(c) or (d) of that Act has occurred; or
 
-being a foreign national who is subject to an order or regulation made under section 4 of the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`.
+    being a person, other than a permanent resident, who is currently the subject of an order or regulation made under section 4 of the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`.
+
+  **(2)** Section 35 of the Act is amended by adding the following after subsection (1):
+
+    **(2)** For greater certainty, despite section 33, a person who ceases being the subject of an order or regulation referred to in paragraph (1)(d) or (e) is no longer inadmissible under that paragraph.
 
