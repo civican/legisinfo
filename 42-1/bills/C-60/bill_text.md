@@ -1,7 +1,5 @@
 # Bill C-60: An Act to correct certain anomalies, inconsistencies and errors and to deal with other matters of a non-controversial and uncomplicated nature in the Statutes of Canada and to repeal certain Acts and provisions that have expired, lapsed or otherwise ceased to have effect
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment is the 12th in a series of bills introduced under the Miscellaneous Statute Law Amendment (MSLA) Program. It amends 41 Acts to correct grammatical, spelling, terminological, typographical and cross-referencing errors, update archaic wording and correct discrepancies between the two language versions. It also updates the names of certain organizations, for example, "Canadian Institute of Chartered Accountants" is replaced with "Chartered Professional Accountants of Canada". Finally, it contains amendments repealing eight Acts that no longer have any application, for example, the `Maintenance of Ports Operations Act, 1986`.
@@ -146,13 +144,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(2)** Subsection 4.32(2) of the English version of the Act is replaced by the following:
 
-    **(2)** An order under subsection (1) is exempt from examination, registration **and** publication under the `Statutory Instruments Act`.
+    **(2)** An order under subsection (1) is exempt from examination, registration and publication under the `Statutory Instruments Act`.
 
 ### Section 3
 
 Subsection 4.91(4) of the English version of the Act is replaced by the following:
 
-**(4)** An order under subsection (1) is exempt from examination, registration **and** publication under the `Statutory Instruments Act`.
+**(4)** An order under subsection (1) is exempt from examination, registration and publication under the `Statutory Instruments Act`.
 
 ### Section 4
 
@@ -160,7 +158,7 @@ Subsection 7.2(1) of the French version of the Act is replaced by the following:
 
 ### Section 7.2
 
-  **(1)** Toute personne concernée peut faire appel au Tribunal de la décision rendue en vertu du paragraphe 6.72(4), de l'alinéa 7(7)a) ou du paragraphe 7.1(7); **toute** personne concernée ou le ministre peuvent faire appel de celle rendue en vertu du paragraphe 6.9(8) ou de l'alinéa 7(7)b). Dans tous les cas, le délai d'appel est de trente jours suivant la décision.
+  **(1)** Toute personne concernée peut faire appel au Tribunal de la décision rendue en vertu du paragraphe 6.72(4), de l'alinéa 7(7)a) ou du paragraphe 7.1(7); toute personne concernée ou le ministre peuvent faire appel de celle rendue en vertu du paragraphe 6.9(8) ou de l'alinéa 7(7)b). Dans tous les cas, le délai d'appel est de trente jours suivant la décision.
 
 
 ### Bankruptcy and Insolvency Act
@@ -169,37 +167,37 @@ Subsection 7.2(1) of the French version of the Act is replaced by the following:
 
 Subsection 25(2) of the `Bankruptcy and Insolvency Act` is replaced by the following:
 
-**(2)** All payments made by a trustee under subsection (**1.3**) shall be made by cheque drawn on the estate account or in such manner as is specified in directives of the Superintendent.
+**(2)** All payments made by a trustee under subsection (1.3) shall be made by cheque drawn on the estate account or in such manner as is specified in directives of the Superintendent.
 
 ### Section 6
 
 Paragraph 50.4(8)(c) of the English version of the Act is replaced by the following:
 
-the trustee shall, within five days after the day the certificate mentioned in paragraph (**b.1**) is issued, send notice of the meeting of creditors under section 102, at which meeting the creditors may by ordinary resolution, notwithstanding section 14, affirm the appointment of the trustee or appoint another licensed trustee in lieu of that trustee.
+the trustee shall, within five days after the day the certificate mentioned in paragraph (b.1) is issued, send notice of the meeting of creditors under section 102, at which meeting the creditors may by ordinary resolution, notwithstanding section 14, affirm the appointment of the trustee or appoint another licensed trustee in lieu of that trustee.
 
 ### Section 7
 
 Subparagraph 57(c)(ii) of the Act is replaced by the following:
 
-if no quorum exists for the purpose of subparagraph (i), send notice, within five days after the day the certificate mentioned in paragraph (**b.1**) is issued, of the meeting of creditors under section 102,
+if no quorum exists for the purpose of subparagraph (i), send notice, within five days after the day the certificate mentioned in paragraph (b.1) is issued, of the meeting of creditors under section 102,
 
 ### Section 8
 
 Paragraph 61(2)(c) of the English version of the Act is replaced by the following:
 
-the trustee shall, within five days after the day the certificate mentioned in paragraph (**b.1**) is issued, send notice of the meeting of creditors under section 102, at which meeting the creditors may by ordinary resolution, notwithstanding section 14, affirm the appointment of the trustee or appoint another licensed trustee in lieu of that trustee.
+the trustee shall, within five days after the day the certificate mentioned in paragraph (b.1) is issued, send notice of the meeting of creditors under section 102, at which meeting the creditors may by ordinary resolution, notwithstanding section 14, affirm the appointment of the trustee or appoint another licensed trustee in lieu of that trustee.
 
 ### Section 9
 
 Paragraph 158(g) of the Act is replaced by the following:
 
-make disclosure to the trustee of all property disposed of by **transfer at undervalue** within the period beginning on the day that is five years before the date of the initial bankruptcy event and ending on the date of the bankruptcy, both dates included;
+make disclosure to the trustee of all property disposed of by transfer at undervalue within the period beginning on the day that is five years before the date of the initial bankruptcy event and ending on the date of the bankruptcy, both dates included;
 
 ### Section 10
 
 Subsection 254(2) of the Act is replaced by the following:
 
-**(2)** Sections **95** to 101 apply, with such modifications as the circumstances require, in respect of transactions of a customer with or through a securities firm relating to securities.
+**(2)** Sections 95 to 101 apply, with such modifications as the circumstances require, in respect of transactions of a customer with or through a securities firm relating to securities.
 
 
 ### Canada Health Act
@@ -208,7 +206,7 @@ Subsection 254(2) of the Act is replaced by the following:
 
 Paragraph (c) of the definition **insured person** in section 2 of the English version of the `Canada Health Act` is replaced by the following:
 
-a person serving a term of imprisonment in a penitentiary as defined in **Part I of** the `**Corrections and Conditional Release** Act`, or
+a person serving a term of imprisonment in a penitentiary as defined in Part I of the `Corrections and Conditional Release Act`, or
 
 
 ### Competition Act
@@ -217,17 +215,17 @@ a person serving a term of imprisonment in a penitentiary as defined in **Part I
 
 Subsection 18(1.1) of the `Competition Act` is replaced by the following:
 
-**(1.1)** The Commissioner need not return any copy of a record produced **under** section 11 **or obtained under section 15 or 16**.
+**(1.1)** The Commissioner need not return any copy of a record produced under section 11 or obtained under section 15 or 16.
 
 ### Section 13
 
   **(1)** Paragraph 103.3(1)(a) of the Act is replaced by the following:
 
-    to prevent the continuation of conduct that could be the subject of an order under any of sections 75 to 77, 79, 81, 84 or **90.1**; or
+    to prevent the continuation of conduct that could be the subject of an order under any of sections 75 to 77, 79, 81, 84 or 90.1; or
 
   **(2)** Subsection 103.3(3) of the Act is replaced by the following:
 
-    **(3)** Before making an application for an order to prevent the continuation of conduct that could be the subject of an order under any of sections 75 to 77, 79, 81, 84 or **90.1** by an entity incorporated under the `Bank Act`, the `Insurance Companies Act`, the `Trust and Loan Companies Act` or the `Cooperative Credit Associations Act` or a subsidiary of such an entity, the Commissioner must consult with the Minister of Finance respecting the safety and soundness of the entity.
+    **(3)** Before making an application for an order to prevent the continuation of conduct that could be the subject of an order under any of sections 75 to 77, 79, 81, 84 or 90.1 by an entity incorporated under the `Bank Act`, the `Insurance Companies Act`, the `Trust and Loan Companies Act` or the `Cooperative Credit Associations Act` or a subsidiary of such an entity, the Commissioner must consult with the Minister of Finance respecting the safety and soundness of the entity.
 
 
 ### Companies' Creditors Arrangement Act
@@ -236,7 +234,7 @@ Subsection 18(1.1) of the `Competition Act` is replaced by the following:
 
 Subsection 36(7) of the `Companies' Creditors Arrangement Act` is replaced by the following:
 
-**(7)** The court may grant the authorization only if the court is satisfied that the company can and will make the payments that would have been required under paragraphs 6(5)(a) and (**6**)(a) if the court had sanctioned the compromise or arrangement.
+**(7)** The court may grant the authorization only if the court is satisfied that the company can and will make the payments that would have been required under paragraphs 6(5)(a) and (6)(a) if the court had sanctioned the compromise or arrangement.
 
 
 ### International River Improvements Act
@@ -254,7 +252,7 @@ situated within boundary waters; or
 
 Subparagraph 251.05(1)(a)(iii) of the `Canada Labour Code` is replaced by the following:
 
-that the complaint has been settled **between the employer and the employee**,
+that the complaint has been settled between the employer and the employee,
 
 
 ### Motor Vehicle Safety Act
@@ -263,7 +261,7 @@ that the complaint has been settled **between the employer and the employee**,
 
 Subsection 10.1(7) of the English version of the `Motor Vehicle Safety Act` is replaced by the following:
 
-**(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified **in** the **order**, if the Minister considers that it is in the interest of safety.
+**(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified in the order, if the Minister considers that it is in the interest of safety.
 
 
 ### Employment Equity Act
@@ -272,7 +270,7 @@ Subsection 10.1(7) of the English version of the `Motor Vehicle Safety Act` is r
 
 Subsection 28(4.1) of the `Employment Equity Act` is replaced by the following:
 
-**(4.1)** A member whose appointment expires may, with the approval of the Chairperson, conclude any hearing that the member has begun, and a person performing duties under this section is deemed to be a part-time member for the purposes of **subsection 48.2(2)** of the `Canadian Human Rights Act`.
+**(4.1)** A member whose appointment expires may, with the approval of the Chairperson, conclude any hearing that the member has begun, and a person performing duties under this section is deemed to be a part-time member for the purposes of subsection 48.2(2) of the `Canadian Human Rights Act`.
 
 ### Section 19
 
@@ -304,7 +302,7 @@ The heading of the first column of the schedule to the French version of the `To
 
 Paragraph (a) of the definition **entreprises fédérales** in subsection 3(1) of the French version of the `Canadian Environmental Protection Act, 1999` is replaced by the following:
 
-ceux qui se rapportent à la navigation **et à la marine marchande, maritimes** ou **fluviales**, notamment en ce qui concerne l'exploitation de navires et le transport par navire;
+ceux qui se rapportent à la navigation et à la marine marchande, maritimes ou fluviales, notamment en ce qui concerne l'exploitation de navires et le transport par navire;
 
 ### Section 22
 
@@ -334,7 +332,7 @@ a periodic report on the state of the Canadian environment.
 
   **(4)** The portion of subsection 81(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** Subsections (1), **(3) and** (4) do not apply to
+    **(6)** Subsections (1), (3) and (4) do not apply to
 
   **(5)** The portion of subsection 81(8) of the Act before paragraph (a) is replaced by the following:
 
@@ -370,7 +368,7 @@ prescribing dates on or before which information shall be provided under subsect
 
   **(4)** The portion of subsection 106(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** Subsections (1), **(3) and** (4) do not apply to
+    **(6)** Subsections (1), (3) and (4) do not apply to
 
   **(5)** The portion of subsection 106(8) of the Act before paragraph (a) is replaced by the following:
 
@@ -412,7 +410,7 @@ Subsection 343(1) of the French version of the Act is replaced by the following:
 
 ### Section 343
 
-  **(1)** **Tous les cinq ans après** l'entrée en vigueur de la présente loi, celle-ci est soumise à l'examen d'un comité, soit de la Chambre des communes, soit du Sénat, soit mixte, désigné ou constitué pour examiner son application.
+  **(1)** Tous les cinq ans après l'entrée en vigueur de la présente loi, celle-ci est soumise à l'examen d'un comité, soit de la Chambre des communes, soit du Sénat, soit mixte, désigné ou constitué pour examiner son application.
 
 
 ### Canada National Parks Act
@@ -423,13 +421,13 @@ Subsection 12(1) of the French version of the `Canada National Parks Act` is rep
 
 ### Section 12
 
-  **(1)** Le ministre favorise, le cas échéant, la participation du public à l'échelle nationale, régionale et locale — notamment la participation des organisations autochtones, des organismes constitués dans le cadre d'accords sur des revendications territoriales et des représentants des collectivités —, tant à la création des parcs qu'à l'élaboration de la politique et des règlements à leur égard, des plans **directeurs**, de l'aménagement des terres et du développement des collectivités et des autres mesures qu'il juge utiles.
+  **(1)** Le ministre favorise, le cas échéant, la participation du public à l'échelle nationale, régionale et locale — notamment la participation des organisations autochtones, des organismes constitués dans le cadre d'accords sur des revendications territoriales et des représentants des collectivités —, tant à la création des parcs qu'à l'élaboration de la politique et des règlements à leur égard, des plans directeurs, de l'aménagement des terres et du développement des collectivités et des autres mesures qu'il juge utiles.
 
 ### Section 33
 
 Paragraph 33(2)(a) of the French version of the Act is replaced by the following:
 
-être compatible avec le plan **directeur** du parc où est située la collectivité;
+être compatible avec le plan directeur du parc où est située la collectivité;
 
 ### Section 34
 
@@ -441,7 +439,7 @@ Toutes les latitudes et longitudes indiquées ci-après font référence au Syst
 
 The thirty-seventh paragraph of the description of Jasper National Park of Canada in Part 2 of Schedule 1 to the Act is replaced by the following:
 
-Said parcel containing about **11 228** square kilometres;
+Said parcel containing about 11 228 square kilometres;
 
 ### Section 36
 
@@ -461,7 +459,7 @@ The description of Quttinirpaaq National Park of Canada in Part 13 of Schedule 1
 
   **(2)** The fourth paragraph of the description of Mingan Archipelago National Park Reserve of Canada in Schedule 2 to the Act is replaced by the following:
 
-    Notwithstanding the generality of the foregoing, the following Isles and Islets (without cadastral designation) forming part of the Fief and Seigneurie of the Isles and Islets of Mingan are not included in the present description, namely: Perroquet Island, Havre de Mingan Island, **Calculot des Betchouanes** Island, De la Maison Island, Wreck Island, **Innu** Island and that part of Fright Island described in a deed registered at the Saguenay Registry Office on January 15, 1952, under number 13630.
+    Notwithstanding the generality of the foregoing, the following Isles and Islets (without cadastral designation) forming part of the Fief and Seigneurie of the Isles and Islets of Mingan are not included in the present description, namely: Perroquet Island, Havre de Mingan Island, Calculot des Betchouanes Island, De la Maison Island, Wreck Island, Innu Island and that part of Fright Island described in a deed registered at the Saguenay Registry Office on January 15, 1952, under number 13630.
 
 
 ### Canada Shipping Act, 2001
@@ -470,30 +468,30 @@ The description of Quttinirpaaq National Park of Canada in Part 13 of Schedule 1
 
 Paragraph 40(1)(c) of the `Canada Shipping Act, 2001` is replaced by the following:
 
-subsection 20(**2**) (failure to return suspended or cancelled Canadian maritime document); and
+subsection 20(2) (failure to return suspended or cancelled Canadian maritime document); and
 
 ### Section 41
 
 The heading before section 87 and sections 87 to 89 of the French version of the Act are replaced by the following:
 
 
-### **Brevets**
+### Brevets
 
 ### Section 87
 
-Toute personne occupant à bord d'un bâtiment canadien un poste à l'égard duquel un **brevet** est exigé sous le régime de la présente partie doit être titulaire du **brevet** et en respecter les modalités.
+Toute personne occupant à bord d'un bâtiment canadien un poste à l'égard duquel un brevet est exigé sous le régime de la présente partie doit être titulaire du brevet et en respecter les modalités.
 
 ### Section 88
 
-  **(1)** Seuls les citoyens canadiens et les résidents permanents au sens du paragraphe 2(1) de la `Loi sur l'immigration et la protection des réfugiés` peuvent être titulaires d'un **brevet d'aptitude** délivré sous le régime de la présente partie.
+  **(1)** Seuls les citoyens canadiens et les résidents permanents au sens du paragraphe 2(1) de la `Loi sur l'immigration et la protection des réfugiés` peuvent être titulaires d'un brevet d'aptitude délivré sous le régime de la présente partie.
 
-  **(2)** Le ministre peut, à la demande d'une personne visée au paragraphe (1), délivrer un **brevet d'aptitude** relativement à certaines exigences prévues sous le régime de la présente loi au titulaire d'un **brevet d'aptitude** délivré en vertu de lois étrangères s'il est convaincu que les exigences afférentes à ce dernier **brevet** sont égales ou supérieures à celles prévues sous le régime de la présente loi. Il peut, au préalable, exiger que le titulaire subisse l'examen qu'il précise.
+  **(2)** Le ministre peut, à la demande d'une personne visée au paragraphe (1), délivrer un brevet d'aptitude relativement à certaines exigences prévues sous le régime de la présente loi au titulaire d'un brevet d'aptitude délivré en vertu de lois étrangères s'il est convaincu que les exigences afférentes à ce dernier brevet sont égales ou supérieures à celles prévues sous le régime de la présente loi. Il peut, au préalable, exiger que le titulaire subisse l'examen qu'il précise.
 
 ### Section 89
 
-  **(1)** Dans le cas où le gouvernement d'un État étranger a conclu avec le gouvernement du Canada un arrangement réciproque en vue d'accepter, en remplacement des **brevets d'aptitude** délivrés par cet État, les **brevets d'aptitude** délivrés sous le régime de la présente partie, le ministre peut ordonner, sous réserve des conditions qu'il peut imposer, que le **brevet d'aptitude** étranger soit accepté en remplacement du **brevet d'aptitude** prévu par la présente partie, s'il est convaincu que les exigences afférentes au premier **brevet** sont égales ou supérieures à celles afférentes au second.
+  **(1)** Dans le cas où le gouvernement d'un État étranger a conclu avec le gouvernement du Canada un arrangement réciproque en vue d'accepter, en remplacement des brevets d'aptitude délivrés par cet État, les brevets d'aptitude délivrés sous le régime de la présente partie, le ministre peut ordonner, sous réserve des conditions qu'il peut imposer, que le brevet d'aptitude étranger soit accepté en remplacement du brevet d'aptitude prévu par la présente partie, s'il est convaincu que les exigences afférentes au premier brevet sont égales ou supérieures à celles afférentes au second.
 
-  **(2)** Le **brevet** ainsi accepté peut, seulement en ce qui concerne sa validité au Canada, être suspendu ou révoqué par le ministre comme s'il s'agissait d'un document maritime canadien; le **brevet** ainsi suspendu ou révoqué doit être remis par le titulaire au ministre, qui le renvoie aussitôt à l'autorité qui l'a délivré.
+  **(2)** Le brevet ainsi accepté peut, seulement en ce qui concerne sa validité au Canada, être suspendu ou révoqué par le ministre comme s'il s'agissait d'un document maritime canadien; le brevet ainsi suspendu ou révoqué doit être remis par le titulaire au ministre, qui le renvoie aussitôt à l'autorité qui l'a délivré.
 
 ### Section 42
 
@@ -501,27 +499,27 @@ Toute personne occupant à bord d'un bâtiment canadien un poste à l'égard duq
 
 ### Section 90
 
-      **(1)** Le médecin ou l'optométriste qui a des motifs raisonnables de croire que l'état du titulaire d'un **brevet** est susceptible de constituer un risque pour la sécurité maritime fait part sans délai de son avis motivé au ministre.
+      **(1)** Le médecin ou l'optométriste qui a des motifs raisonnables de croire que l'état du titulaire d'un brevet est susceptible de constituer un risque pour la sécurité maritime fait part sans délai de son avis motivé au ministre.
 
-      **(2)** Quiconque est titulaire d'un **brevet** assorti de normes médicales ou optométriques est tenu de dévoiler ce fait avant l'examen au médecin ou à l'optométriste.
+      **(2)** Quiconque est titulaire d'un brevet assorti de normes médicales ou optométriques est tenu de dévoiler ce fait avant l'examen au médecin ou à l'optométriste.
 
-      **(3)** Le ministre peut utiliser ces renseignements pour décider si le titulaire du **brevet** satisfait aux exigences afférentes à celui-ci.
+      **(3)** Le ministre peut utiliser ces renseignements pour décider si le titulaire du brevet satisfait aux exigences afférentes à celui-ci.
 
   **(2)** Subsection 90(5) of the French version of the Act is replaced by the following:
 
-    **(5)** Le titulaire du **brevet** est présumé avoir consenti à la communication au ministre des renseignements portant sur son état dans les circonstances qui sont mentionnées au paragraphe (1).
+    **(5)** Le titulaire du brevet est présumé avoir consenti à la communication au ministre des renseignements portant sur son état dans les circonstances qui sont mentionnées au paragraphe (1).
 
 ### Section 43
 
   **(1)** Paragraph 100(c) of the French version of the Act is replaced by the following:
 
-    déterminer les catégories et classes de certificats **et de brevets** qui peuvent être délivrés relativement aux postes à bord des bâtiments — ou catégories de bâtiments — canadiens;
+    déterminer les catégories et classes de certificats et de brevets qui peuvent être délivrés relativement aux postes à bord des bâtiments — ou catégories de bâtiments — canadiens;
 
   **(2)** Paragraphs 100(e) and (f) of the French version of the Act are replaced by the following:
 
-    régir la façon de déterminer si une personne satisfait aux exigences visées à l'alinéa b) ou si un candidat possède les qualifications requises aux termes de l'alinéa d) pour l'obtention d'une catégorie ou classe de **brevet d'aptitude** ou d'autre document maritime canadien;
+    régir la façon de déterminer si une personne satisfait aux exigences visées à l'alinéa b) ou si un candidat possède les qualifications requises aux termes de l'alinéa d) pour l'obtention d'une catégorie ou classe de brevet d'aptitude ou d'autre document maritime canadien;
 
-    préciser les modalités dont sont assortis les **brevets d'aptitude** et autres documents maritimes canadiens délivrés sous le régime de la présente partie;
+    préciser les modalités dont sont assortis les brevets d'aptitude et autres documents maritimes canadiens délivrés sous le régime de la présente partie;
 
 
 ### Immigration and Refugee Protection Act
@@ -546,19 +544,19 @@ a person was subjected to humiliating or degrading treatment, including with res
 
   **(1)** Paragraph 148(1)(a) of the Act is replaced by the following:
 
-    not carry to Canada a person who is prescribed or does not hold a prescribed document, or **whom** an officer directs not **to** be carried;
+    not carry to Canada a person who is prescribed or does not hold a prescribed document, or whom an officer directs not to be carried;
 
   **(2)** Paragraph 148(1)(d) of the French version of the Act is replaced by the following:
 
-    fournir les documents, rapports et renseignements **réglementaires**;
+    fournir les documents, rapports et renseignements réglementaires;
 
   **(3)** Paragraph 148(1)(f) of the French version of the Act is replaced by the following:
 
-    sur avis **d'un agent** ou dans les cas prévus par règlement faire sortir du Canada la personne qu'il a amenée ou fait amener;
+    sur avis d'un agent ou dans les cas prévus par règlement faire sortir du Canada la personne qu'il a amenée ou fait amener;
 
   **(4)** Subsection 148(2) of the French version of the Act is replaced by the following:
 
-    **(2)** **Tout ou partie de** la sûreté qu'il a fournie et tout véhicule ou **autre** marchandise **réglementaire dont il est le propriétaire ou l'exploitant** peuvent, si l'intéressé contrevient aux obligations prévues par la présente loi, être retenus, saisis **ou** confisqués au profit de Sa Majesté du chef du Canada.
+    **(2)** Tout ou partie de la sûreté qu'il a fournie et tout véhicule ou autre marchandise réglementaire dont il est le propriétaire ou l'exploitant peuvent, si l'intéressé contrevient aux obligations prévues par la présente loi, être retenus, saisis ou confisqués au profit de Sa Majesté du chef du Canada.
 
 
 ### Yukon Act
@@ -567,7 +565,7 @@ a person was subjected to humiliating or degrading treatment, including with res
 
 Paragraph 34(1)(a) of the `Yukon Act` is replaced by the following:
 
-the consolidated financial statements present fairly, in all material respects and in accordance with accounting principles recommended for the public sector by that **organization** or its successor, the financial position of the Yukon Government as at the end of the fiscal year and the results of its operations in, and changes in its financial position for, the fiscal year; and
+the consolidated financial statements present fairly, in all material respects and in accordance with accounting principles recommended for the public sector by that organization or its successor, the financial position of the Yukon Government as at the end of the fiscal year and the results of its operations in, and changes in its financial position for, the fiscal year; and
 
 ### Section 47
 
@@ -575,13 +573,13 @@ the consolidated financial statements present fairly, in all material respects a
 
 ### Section 64
 
-      **(1)** Le gouvernement du Yukon s'engage à indemniser le gouvernement fédéral, ainsi que les **employés** et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires à l'égard :
+      **(1)** Le gouvernement du Yukon s'engage à indemniser le gouvernement fédéral, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l'égard :
 
   **(2)** Subsections 64(2) and (3) of the French version of the Act are replaced by the following:
 
-    **(2)** Le gouvernement du Yukon s'engage à indemniser le gouvernement fédéral, ainsi que les **employés** et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant d'un manquement de sa part ou de celle de ses **employés** et mandataires aux obligations qu'impose l'accord au gouvernement du Yukon relativement aux fonctionnaires fédéraux.
+    **(2)** Le gouvernement du Yukon s'engage à indemniser le gouvernement fédéral, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant d'un manquement de sa part ou de celle de ses employés et mandataires aux obligations qu'impose l'accord au gouvernement du Yukon relativement aux fonctionnaires fédéraux.
 
-    **(3)** Le gouvernement du Yukon s'engage à indemniser les premières nations, ainsi que les **employés** et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires à l'égard de la remise en état de lieux effectuée, en conformité avec l'accord, sur les terres de ces premières nations.
+    **(3)** Le gouvernement du Yukon s'engage à indemniser les premières nations, ainsi que les employés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l'égard de la remise en état de lieux effectuée, en conformité avec l'accord, sur les terres de ces premières nations.
 
 ### Section 48
 
@@ -589,13 +587,13 @@ the consolidated financial statements present fairly, in all material respects a
 
 ### Section 65
 
-      **(1)** Le gouvernement fédéral s'engage à indemniser le gouvernement du Yukon, ainsi que les **employés** et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires à l'égard :
+      **(1)** Le gouvernement fédéral s'engage à indemniser le gouvernement du Yukon, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l'égard :
 
   **(2)** Subsections 65(2) and (3) of the French version of the Act are replaced by the following:
 
-    **(2)** Le gouvernement fédéral s'engage à indemniser le gouvernement du Yukon, ainsi que les **employés** et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de la prise de mesures au titre des articles 49 à 51 ou 55.
+    **(2)** Le gouvernement fédéral s'engage à indemniser le gouvernement du Yukon, ainsi que les employés et mandataires de celui-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de la prise de mesures au titre des articles 49 à 51 ou 55.
 
-    **(3)** Le gouvernement fédéral s'engage à indemniser les premières nations, ainsi que les **employés** et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires à l'égard de la remise en état de lieux effectuée, en conformité avec l'accord, sur les terres de ces premières nations.
+    **(3)** Le gouvernement fédéral s'engage à indemniser les premières nations, ainsi que les employés et mandataires de celles-ci, de tous les frais et dépens — y compris les sommes versées pour transiger ou pour exécuter un jugement — entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires à l'égard de la remise en état de lieux effectuée, en conformité avec l'accord, sur les terres de ces premières nations.
 
 
 ### Species at Risk Act
@@ -604,7 +602,7 @@ the consolidated financial statements present fairly, in all material respects a
 
 Subsection 79(2) of the French version of the `Species at Risk Act` is replaced by the following:
 
-**(2)** La personne détermine les effets nocifs du projet sur l'espèce et son habitat essentiel et, si le projet est réalisé, veille à ce que des mesures compatibles avec tout programme de rétablissement et tout plan d'action applicable soient prises en vue de les éviter ou de les amoindrir et les **surveiller**.
+**(2)** La personne détermine les effets nocifs du projet sur l'espèce et son habitat essentiel et, si le projet est réalisé, veille à ce que des mesures compatibles avec tout programme de rétablissement et tout plan d'action applicable soient prises en vue de les éviter ou de les amoindrir et les surveiller.
 
 
 ### First Nations Fiscal Management Act
@@ -613,7 +611,7 @@ Subsection 79(2) of the French version of the `Species at Risk Act` is replaced 
 
 Subsection 41(2) of the `First Nations Fiscal Management Act` is replaced by the following:
 
-**(2)** **AFOA** Canada, or any other body prescribed by regulation, shall appoint up to three additional directors to hold office during pleasure for a term not exceeding five years.
+**(2)** AFOA Canada, or any other body prescribed by regulation, shall appoint up to three additional directors to hold office during pleasure for a term not exceeding five years.
 
 
 ### Department of Employment and Social Development Act
@@ -624,7 +622,7 @@ The portion of subsection 71(1) of the `Department of Employment and Social Deve
 
 ### Section 71
 
-  **(1)** Subject to the regulations, the Minister may administer or enforce electronically the Acts, programs and activities referred to in paragraphs 70.1(a) to (**e.1**), (g) and (h), the Minister of Labour may administer or enforce electronically the `Canada Labour Code` and the Commission may administer or enforce electronically the `Employment Insurance Act`, including for the purposes of
+  **(1)** Subject to the regulations, the Minister may administer or enforce electronically the Acts, programs and activities referred to in paragraphs 70.1(a) to (e.1), (g) and (h), the Minister of Labour may administer or enforce electronically the `Canada Labour Code` and the Commission may administer or enforce electronically the `Employment Insurance Act`, including for the purposes of
 
 
 ### Wage Earner Protection Program Act
@@ -673,9 +671,9 @@ Paragraph (e) of the definition **intérêt existant** in section 68 of the Fren
 
 tout permis qui :
 
-soit est en vigueur à cette date et dont la délivrance était assujettie **à** la `Loi sur les immeubles fédéraux et les biens réels fédéraux`,
+soit est en vigueur à cette date et dont la délivrance était assujettie à la `Loi sur les immeubles fédéraux et les biens réels fédéraux`,
 
-soit est visé au sous-alinéa (i) et est renouvelé ou remplace un permis visé à ce sous-alinéa ou y succède, si le droit au renouvellement, au remplacement ou à la succession existait **à** cette date.
+soit est visé au sous-alinéa (i) et est renouvelé ou remplace un permis visé à ce sous-alinéa ou y succède, si le droit au renouvellement, au remplacement ou à la succession existait à cette date.
 
 ### Section 57
 
@@ -683,11 +681,11 @@ soit est visé au sous-alinéa (i) et est renouvelé ou remplace un permis visé
 
 ### Section 73
 
-      **(1)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les **employés** et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires et qui sont survenus :
+      **(1)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus :
 
   **(2)** Subsection 73(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les **employés** et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant d'un manquement de sa part ou de celle de ses **employés** et mandataires aux obligations que lui impose l'accord relativement aux fonctionnaires fédéraux.
+    **(2)** Le gouvernement des Territoires du Nord-Ouest indemnise le gouvernement du Canada, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant d'un manquement de sa part ou de celle de ses employés et mandataires aux obligations que lui impose l'accord relativement aux fonctionnaires fédéraux.
 
 ### Section 58
 
@@ -695,11 +693,11 @@ soit est visé au sous-alinéa (i) et est renouvelé ou remplace un permis visé
 
 ### Section 74
 
-      **(1)** Le gouvernement du Canada indemnise le gouvernement des Territoires du Nord-Ouest, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires et qui sont survenus :
+      **(1)** Le gouvernement du Canada indemnise le gouvernement des Territoires du Nord-Ouest, ainsi que les employés et mandataires de celui-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus :
 
   **(2)** Subsection 74(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Le gouvernement du Canada indemnise la partie autochtone, ainsi que les **employés** et mandataires de celle-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses **employés** et mandataires et qui sont survenus à l'égard de mesures d'assainissement exécutées au titre de l'accord sur des terres de cette partie autochtone visées par un règlement.
+    **(2)** Le gouvernement du Canada indemnise la partie autochtone, ainsi que les employés et mandataires de celle-ci, des frais et dépens, notamment les sommes versées pour transiger ou pour exécuter un jugement, entraînés par toute réclamation ou tout recours exercés contre eux et découlant de faits — actes ou omissions — qui sont imputables à lui ou à ses employés et mandataires et qui sont survenus à l'égard de mesures d'assainissement exécutées au titre de l'accord sur des terres de cette partie autochtone visées par un règlement.
 
 ### Section 59
 
@@ -707,7 +705,7 @@ Section 75 of the French version of the Act is replaced by the following:
 
 ### Section 75
 
-En cas de règlement hors cour, les gouvernements du Canada et des Territoires du Nord-Ouest, les parties autochtones et leurs **employés** et mandataires ne peuvent être indemnisés en application des articles 73 ou 74 sans le consentement écrit du gouvernement qui est tenu d'indemniser.
+En cas de règlement hors cour, les gouvernements du Canada et des Territoires du Nord-Ouest, les parties autochtones et leurs employés et mandataires ne peuvent être indemnisés en application des articles 73 ou 74 sans le consentement écrit du gouvernement qui est tenu d'indemniser.
 
 
 ### Economic Action Plan 2014 Act, No. 2
@@ -722,7 +720,7 @@ Section 105 of the English version of the `Economic Action Plan 2014 Act, No. 2`
 
 Subsection 111(3) of the English version of the Act is amended by replacing the paragraph 25(g.2) that it enacts with the following:
 
-respecting the recording or registration of transfers of applications for the registration of **designs** or transfers of registered designs;
+respecting the recording or registration of transfers of applications for the registration of designs or transfers of registered designs;
 
 
 ## Terminology
