@@ -1,0 +1,1318 @@
+<Bills>
+  <Bill>
+    <Id>9197605</Id>
+    <NumberCode>C-64</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>64</Number>
+    <LongTitleEn>An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations</LongTitleEn>
+    <LongTitleFr>Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d'assistance</LongTitleFr>
+    <LongTitle>An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations</LongTitle>
+    <ShortTitleEn>Wrecked, Abandoned or Hazardous Vessels Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur les épaves et les bâtiments abandonnés ou dangereux</ShortTitleFr>
+    <ShortTitle>Wrecked, Abandoned or Hazardous Vessels Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2019-02-28T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>10524</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Marc</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Garneau</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Marc Garneau</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Transport</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Transports</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Transport</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>689</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Notre-Dame-de-Grâce—Westmount</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Notre-Dame-de-Grâce—Westmount</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Notre-Dame-de-Grâce—Westmount</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2019-02-28T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>269</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2017-10-30T15:08:47.097</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2017-12-05T15:08:28.707</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2018-06-20T15:30:44</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2018-09-18T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2018-10-18T15:58:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2018-12-10T21:40:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2019-02-28T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 30 October 2017, the Minister of Transport introduced Bill C-64, An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations (Wrecked, Abandoned or Hazardous Vessels Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-64 amends enacts the Wrecked, Abandoned or Hazardous Vessels Act, which promotes the protection of the public, of the environment, including coastlines and shorelines, and of infrastructure by regulating abandoned or hazardous vessels and wrecks in Canadian waters and, in certain cases, Canada's exclusive economic zone, and by recognizing the responsibility and liability of owners for their vessels.&lt;br/&gt;&lt;br/&gt;The Act, among other things,&lt;br/&gt;(a) implements the Nairobi International Convention on the Removal of Wrecks, 2007;&lt;br/&gt;(b) requires owners of vessels of 300 gross tonnage and above, and unregistered vessels being towed, to maintain wreck removal insurance or other financial security;&lt;br/&gt;(c) prohibits vessel abandonment unless it is authorized under an Act of Parliament or of the legislature of a province or it is due to a maritime emergency;&lt;br/&gt;(d) prohibits the leaving of a dilapidated vessel in the same place for more than 60 days without authorization;&lt;br/&gt;(e) authorizes the Minister of Transport or the Minister of Fisheries and Oceans to order the removal of a dilapidated vessel left on any federal property;&lt;br/&gt;(f) authorizes the Minister of Fisheries and Oceans to take measures to prevent, mitigate or eliminate hazards posed by vessels or wrecks and to hold the owner liable;&lt;br/&gt;(g) authorizes the Minister of Transport to take measures with respect to abandoned or dilapidated vessels and to hold the owner liable;&lt;br/&gt;(h) establishes an administration and enforcement scheme, including administrative monetary penalties; and&lt;br/&gt;(i) authorizes the Governor in Council to make regulations respecting such matters as excluding certain vessels from the application of the Act, setting fees and establishing requirements for salvage operations, the towing of vessels and the dismantlement or destruction of vessels.&lt;br/&gt;&lt;br/&gt;The enactment also re-enacts and revises provisions related to the International Convention on Salvage, 1989 and to the receiver of wreck. The enactment strengthens the protection of owners of certain wrecks in cases where the owner is unknown or cannot be located and maintains regulatory powers related to the protection and preservation of wrecks having heritage value.&lt;br/&gt;&lt;br/&gt;Finally, it makes related and consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;Le 30 octobre 2017, le Ministre des Transports a déposé le projet de loi C-64, Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d'assistance (Loi sur les épaves et les bâtiments abandonnés ou dangereux), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi C-64 édicte la Loi sur les épaves et les bâtiments abandonnés ou dangereux, laquelle favorise la protection du public, de l'environnement, notamment les côtes et les rivages, et des infrastructures en réglementant les épaves et les bâtiments abandonnés ou dangereux dans les eaux canadiennes et, dans certains cas, la zone économique exclusive du Canada et en reconnaissant la responsabilité qui incombe aux propriétaires relativement à leurs bâtiments.&lt;br/&gt;&lt;br/&gt;La loi, notamment?: &lt;br/&gt;a) met en œuvre la Convention internationale de Nairobi sur l'enlèvement des épaves, 2007;&lt;br/&gt;b) exige des propriétaires de bâtiments d'une jauge brute égale ou supérieure à 300 et de bâtiments remorqués qui ne sont pas immatriculés un contrat d'assurance ou une autre garantie financière relative à l'enlèvement d'épaves;&lt;br/&gt;c) interdit l'abandon d'un bâtiment, sauf si l'abandon est autorisé en vertu d'une loi fédérale ou provinciale ou résulte d'une urgence maritime;&lt;br/&gt;d) interdit de laisser un bâtiment délabré au même endroit pendant plus de soixante jours sans autorisation;&lt;br/&gt;e) autorise le ministre des Transports ou le ministre des Pêches et des Océans à ordonner l'enlèvement d'un bâtiment délabré laissé sur une propriété fédérale;&lt;br/&gt;f) autorise le ministre des Pêches et des Océans à prendre des mesures pour prévenir, atténuer ou éliminer les dangers présentés par des bâtiments ou des épaves et à en tenir leur propriétaire responsable;&lt;br/&gt;g) autorise le ministre des Transports à prendre des mesures relativement aux bâtiments délabrés ou abandonnés et à en tenir leur propriétaire responsable;&lt;br/&gt;h) met en place un régime d'exécution et de contrôle d'application qui prévoit des sanctions administratives pécuniaires;&lt;br/&gt;i) autorise le gouverneur en conseil à prendre des règlements visant entre autres à soustraire tout bâtiment de l'application de la loi, à imposer des droits et à déterminer les exigences relatives aux opérations d'assistance, au remorquage, au démantèlement et à la destruction de bâtiments.&lt;br/&gt;&lt;br/&gt;Par ailleurs, le texte réédicte et révise les dispositions liées à la Convention internationale de 1989 sur l'assistance et celles liées au receveur d'épaves, renforce la protection des propriétaires de certaines épaves lorsque ceux-ci sont inconnus ou introuvables tout en conservant les pouvoirs de prendre des règlements portant sur la protection et la préservation des épaves ayant une valeur patrimoniale.&lt;br/&gt;&lt;br/&gt;Finalement, il apporte des modifications connexes et corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 30 October 2017, the Minister of Transport introduced Bill C-64, An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations (Wrecked, Abandoned or Hazardous Vessels Act), in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-64 amends enacts the Wrecked, Abandoned or Hazardous Vessels Act, which promotes the protection of the public, of the environment, including coastlines and shorelines, and of infrastructure by regulating abandoned or hazardous vessels and wrecks in Canadian waters and, in certain cases, Canada's exclusive economic zone, and by recognizing the responsibility and liability of owners for their vessels.&lt;br/&gt;&lt;br/&gt;The Act, among other things,&lt;br/&gt;(a) implements the Nairobi International Convention on the Removal of Wrecks, 2007;&lt;br/&gt;(b) requires owners of vessels of 300 gross tonnage and above, and unregistered vessels being towed, to maintain wreck removal insurance or other financial security;&lt;br/&gt;(c) prohibits vessel abandonment unless it is authorized under an Act of Parliament or of the legislature of a province or it is due to a maritime emergency;&lt;br/&gt;(d) prohibits the leaving of a dilapidated vessel in the same place for more than 60 days without authorization;&lt;br/&gt;(e) authorizes the Minister of Transport or the Minister of Fisheries and Oceans to order the removal of a dilapidated vessel left on any federal property;&lt;br/&gt;(f) authorizes the Minister of Fisheries and Oceans to take measures to prevent, mitigate or eliminate hazards posed by vessels or wrecks and to hold the owner liable;&lt;br/&gt;(g) authorizes the Minister of Transport to take measures with respect to abandoned or dilapidated vessels and to hold the owner liable;&lt;br/&gt;(h) establishes an administration and enforcement scheme, including administrative monetary penalties; and&lt;br/&gt;(i) authorizes the Governor in Council to make regulations respecting such matters as excluding certain vessels from the application of the Act, setting fees and establishing requirements for salvage operations, the towing of vessels and the dismantlement or destruction of vessels.&lt;br/&gt;&lt;br/&gt;The enactment also re-enacts and revises provisions related to the International Convention on Salvage, 1989 and to the receiver of wreck. The enactment strengthens the protection of owners of certain wrecks in cases where the owner is unknown or cannot be located and maintains regulatory powers related to the protection and preservation of wrecks having heritage value.&lt;br/&gt;&lt;br/&gt;Finally, it makes related and consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2019</StatuteYear>
+    <StatuteChapter>1</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-10-30T15:08:47.097</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>225</Number>
+          <Date>2017-10-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2017-10-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2017-10-30T15:08:47.097</EventStartDateTime>
+          <EventEndDateTime>2017-10-30T15:08:47.097</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-10-30T15:08:47.097</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2017-12-05T15:08:28.707</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+          <StudyActivityId>9897985</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>245</Number>
+          <Date>2017-12-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>9864434</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9200962</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - TRAN</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - TRAN</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - TRAN</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>12</DecisionMethodId>
+          <DecisionMethodNameEn>By unanimous consent</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Du consentement unanime</DecisionMethodNameFr>
+          <DecisionMethodName>By unanimous consent</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2017-12-05T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>245</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2017-12-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2017-12-05T15:08:28.707</EventStartDateTime>
+          <EventEndDateTime>2017-12-05T15:08:28.707</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2017-12-05T15:08:28.707</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-03-02T10:11:41.62</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+          <StudyActivityId>9897985</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>270</Number>
+          <Date>2018-03-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2018-02-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2018-02-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2018-02-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2018-02-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21456</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Transport, Infrastructure and Communities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des transports, de l'infrastructure et des collectivités</CommitteeNameFr>
+          <CommitteeAcronym>TRAN</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2018-02-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Transport, Infrastructure and Communities</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-03-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9687747</CommitteeReportId>
+          <CommitteeReportNumber>22</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-03-02T10:11:41.62</EventStartDateTime>
+          <EventEndDateTime>2018-03-02T10:11:41.62</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-02T10:11:41.62</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-19T16:00:25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>317</Number>
+          <Date>2018-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2018-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2018-06-19T16:00:25</EventStartDateTime>
+          <EventEndDateTime>2018-06-19T16:00:25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-19T16:00:25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T15:30:44</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>318</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10230355</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9200964</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2018-06-20T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>318</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T15:30:44</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T15:30:44</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T15:30:44</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-09-18T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>226</Number>
+          <Date>2018-09-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2018-09-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2018-09-18T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-09-18T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-09-18T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-10-18T15:58:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>234</Number>
+          <Date>2018-10-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>237</Number>
+          <Date>2018-10-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2018-10-18T15:58:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2018-10-18T16:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2018-10-18T15:58:00</EventStartDateTime>
+          <EventEndDateTime>2018-10-18T15:58:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-10-18T16:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35186</PersonId>
+          <PersonOfficialFirstName>Larry W.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Campbell</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Larry W. Campbell</PersonName>
+          <SenateSystemAffiliationId>2787</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>234</MeetingNumber>
+          <SpeechDateTime>2018-10-04T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/234db_2018-10-04-e#44</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/234db_2018-10-04-f#44</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/234db_2018-10-04-e#44</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35224</PersonId>
+          <PersonOfficialFirstName>Fabian</PersonOfficialFirstName>
+          <PersonOfficialLastName>Manning</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Fabian Manning</PersonName>
+          <SenateSystemAffiliationId>2798</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>237</MeetingNumber>
+          <SpeechDateTime>2018-10-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/237db_2018-10-18-e#52</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/237db_2018-10-18-f#52</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/237db_2018-10-18-e#52</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-12-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>259</Number>
+          <Date>2018-12-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>118</Number>
+          <Date>2018-11-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>122</Number>
+          <Date>2018-12-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>123</Number>
+          <Date>2018-12-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-12-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-12-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-12-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-12-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-12-10T21:25:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>260</Number>
+          <Date>2018-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2018-12-10T21:25:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2018-12-10T21:25:00</EventStartDateTime>
+          <EventEndDateTime>2018-12-10T21:25:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-12-10T21:25:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-12-10T21:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>260</Number>
+          <Date>2018-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-12-10T21:40:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-12-10T21:40:00</EventStartDateTime>
+          <EventEndDateTime>2018-12-10T21:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-12-10T21:40:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>269</Number>
+          <Date>2019-02-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2019-02-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2019-02-28T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-02-28T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-02-28T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2018-12-10T21:45:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>260</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-02-01T10:52:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>376</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2019-02-01T13:05:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>376</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>9201315</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9703297</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9999589</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10360350</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>874</DivisionNumber>
+      <DivisionSubjectEn>Bill C-64, An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-64, Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d'assistance (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-64, An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>48</DivisionVotesYeas>
+      <DivisionVotesNays>257</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>305</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>875</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-64, An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-64, Loi concernant les épaves, les bâtiments délabrés, abandonnés ou dangereux et les opérations d'assistance</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-64, An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations</DivisionSubject>
+      <DivisionVotesYeas>306</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>306</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada marks the one-year anniversary of the Oceans Protection Plan and introduces the Wrecked, Abandoned or Hazardous Vessels Act</TitleEn>
+      <TitleFr>Le gouvernement du Canada souligne le premier anniversaire du Plan de protection des océans et présente la Loi sur les épaves et les bâtiments abandonnés ou dangereux</TitleFr>
+      <Title>Government of Canada marks the one-year anniversary of the Oceans Protection Plan and introduces the Wrecked, Abandoned or Hazardous Vessels Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/10/government_of_canadamarkstheone-yearanniversaryoftheoceansprotec.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/10/le_gouvernement_ducanadasoulignelepremieranniversaireduplandepro.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/10/government_of_canadamarkstheone-yearanniversaryoftheoceansprotec.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Protecting our coasts: Oceans Protection Plan (Government of Canada)</TitleEn>
+      <TitleFr>Protégeons nos côtes: Plan de protection des océans (Gouvernement du Canada)</TitleFr>
+      <Title>Protecting our coasts: Oceans Protection Plan (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.tc.gc.ca/en/campaigns/protecting-coasts.html</UrlEn>
+      <UrlFr>http://www.tc.gc.ca/fr/campagnes/protegeons-cotes.html</UrlFr>
+      <Url>http://www.tc.gc.ca/en/campaigns/protecting-coasts.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>National Strategy to address Canada's wrecked and abandoned vessels</TitleEn>
+      <TitleFr>Stratégie nationale relative aux bateaux abandonnés et aux épaves au Canada</TitleFr>
+      <Title>National Strategy to address Canada's wrecked and abandoned vessels</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/10/national_strategytoaddresscanadaswreckedandabandonedvessels.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/10/strategie_nationalerelativeauxbateauxabandonnesetauxepavesaucana.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/10/national_strategytoaddresscanadaswreckedandabandonedvessels.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Oceans Protection Plan</TitleEn>
+      <TitleFr>Plan de protection des océans</TitleFr>
+      <Title>The Oceans Protection Plan</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/10/the_oceans_protectionplan.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/10/plan_de_protectiondesoceans.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/10/the_oceans_protectionplan.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Abandoned Boats Program</TitleEn>
+      <TitleFr>Programme de bateaux abandonnés</TitleFr>
+      <Title>Abandoned Boats Program</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.tc.gc.ca/eng/abandoned-boats-program.html</UrlEn>
+      <UrlFr>http://www.tc.gc.ca/fra/programme-bateaux-abandonnes.html</UrlFr>
+      <Url>http://www.tc.gc.ca/eng/abandoned-boats-program.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Small Craft Harbours Abandoned and Wrecked Vessels Removal Program</TitleEn>
+      <TitleFr>Programme d'élimination des épaves et des navires abandonnés de Ports pour petits bateaux</TitleFr>
+      <Title>Small Craft Harbours Abandoned and Wrecked Vessels Removal Program</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://dfo-mpo.gc.ca/sch-ppb/vessels-bateaux/index-eng.html</UrlEn>
+      <UrlFr>http://dfo-mpo.gc.ca/sch-ppb/vessels-bateaux/index-fra.html</UrlFr>
+      <Url>http://dfo-mpo.gc.ca/sch-ppb/vessels-bateaux/index-eng.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Investments under the Oceans Protection Plan to protect Canada's Arctic Coast and Water</TitleEn>
+      <TitleFr>Plan de protection des océans : investissements visant à protéger les côtes et les eaux de l'Arctique canadien</TitleFr>
+      <Title>Investments under the Oceans Protection Plan to protect Canada's Arctic Coast and Water</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/08/investments_undertheoceansprotectionplantoprotectcanadasarcticco.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/08/plan_de_protectiondesoceansinvestissementsvisantaprotegerlescote.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/08/investments_undertheoceansprotectionplantoprotectcanadasarcticco.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Pilotage Act Review (Government of Canada)</TitleEn>
+      <TitleFr>Examen de la Loi sur le pilotage (Gouvernement du Canada)</TitleFr>
+      <Title>Pilotage Act Review (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.tc.gc.ca/en/reviews/pilotage-act-review.html</UrlEn>
+      <UrlFr>https://www.tc.gc.ca/fr/examens/examen-loi-pilotage.html</UrlFr>
+      <Url>https://www.tc.gc.ca/en/reviews/pilotage-act-review.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Speaking Notes for The Honourable Marc Garneau, Minister of Transport for a News Conference on Bill C-64, The Wrecked, Abandoned, or Hazardous Vessels Act</TitleEn>
+      <TitleFr>Notes d'allocution de l'Honorable Marc Garneau, Ministre des Transports pour une conférence de presse concernant le projet de loi C-64, la Loi sur les  épaves et les bâtiments abandonnés ou dangereux</TitleFr>
+      <Title>Speaking Notes for The Honourable Marc Garneau, Minister of Transport for a News Conference on Bill C-64, The Wrecked, Abandoned, or Hazardous Vessels Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2017/10/speaking_notes_forthehonourablemarcgarneauministeroftransportfor.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2017/10/notes_d_allocutiondelhonorablemarcgarneauministredestransportspo.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2017/10/speaking_notes_forthehonourablemarcgarneauministeroftransportfor.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Jordan highlights the passage of Bill C-64: the Wrecked, Abandoned or Hazardous Vessels Act to address vessel abandonment and ensure owner accountability</TitleEn>
+      <TitleFr>La ministre Jordan souligne l'adoption du projet de loi C-64 : la Loi sur les épaves et les bâtiments abandonnés ou dangereux réglera les cas d'abandon de bâtiments et renforcera les obligations des propriétaires</TitleFr>
+      <Title>Minister Jordan highlights the passage of Bill C-64: the Wrecked, Abandoned or Hazardous Vessels Act to address vessel abandonment and ensure owner accountability</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2019/03/minister-jordan-highlights-the-passage-of-bill-c-64-the-wrecked-abandoned-or-hazardous-vessels-act-to-address-vessel-abandonment-and-ensure-owner-a.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2019/03/la-ministrejordan-souligne-ladoption-du-projet-de-loi-c-64-la-loi-sur-les-epaves-et-les-batiments-abandonnes-ou-dangereux-reglera-les-cas-dabandon-.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2019/03/minister-jordan-highlights-the-passage-of-bill-c-64-the-wrecked-abandoned-or-hazardous-vessels-act-to-address-vessel-abandonment-and-ensure-owner-a.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada marks the passage of Bill C-64: the Wrecked, Abandoned or Hazardous Vessels Act to address vessel abandonment and ensure owner accountability</TitleEn>
+      <TitleFr>Le gouvernement du Canada souligne l'adoption du projet de loi C-64 : la Loi sur les épaves et les bâtiments abandonnés ou dangereux réglera les cas d'abandon de bâtiments et renforcera les obligations des propriétaires</TitleFr>
+      <Title>Government of Canada marks the passage of Bill C-64: the Wrecked, Abandoned or Hazardous Vessels Act to address vessel abandonment and ensure owner accountability</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2019/02/government-of-canada-marks-the-passage-of-bill-c-64-the-wrecked-abandoned-or-hazardous-vessels-act-to-address-vessel-abandonment-and-ensure-owner-a.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2019/02/le-gouvernement-du-canada-souligne-ladoption-du-projet-de-loi-c-64-la-loi-sur-les-epaves-et-les-batiments-abandonnes-ou-dangereux-reglera-les-cas-d.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2019/02/government-of-canada-marks-the-passage-of-bill-c-64-the-wrecked-abandoned-or-hazardous-vessels-act-to-address-vessel-abandonment-and-ensure-owner-a.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada marks the coming into force of the Wrecked, Abandoned or Hazardous Vessels Act</TitleEn>
+      <TitleFr>Le gouvernement du Canada souligne l'entrée en vigueur de la Loi sur les épaves et les bâtiments abandonnés ou dangereux</TitleFr>
+      <Title>Government of Canada marks the coming into force of the Wrecked, Abandoned or Hazardous Vessels Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2019/07/government-of-canada-marks-the-coming-into-force-of-the-wrecked-abandoned-or-hazardous-vessels-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2019/07/le-gouvernement-du-canada-souligne-lentree-en-vigueur-de-la-loi-sur-les-epaves-et-les-batiments-abandonnes-ou-dangereux.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2019/07/government-of-canada-marks-the-coming-into-force-of-the-wrecked-abandoned-or-hazardous-vessels-act.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
