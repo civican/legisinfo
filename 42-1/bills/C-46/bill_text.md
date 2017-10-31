@@ -1,7 +1,5 @@
 # Bill C-46: An Act to amend the Criminal Code (offences relating to conveyances) and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 Part 1 amends the provisions of the `Criminal Code` that deal with offences and procedures relating to drug-impaired driving. Among other things, the amendments
@@ -30,7 +28,7 @@ Whereas dangerous driving and impaired driving are unacceptable at all times and
 
 Whereas it is important to deter persons from driving while impaired by alcohol or drugs;
 
-Whereas it is important that law enforcement officers be better equipped to detect instances of alcohol-impaired or drug-impaired driving **and exercise investigative powers in a manner that is consistent with the `Canadian Charter of Rights and Freedoms`**;
+Whereas it is important that law enforcement officers be better equipped to detect instances of alcohol-impaired or drug-impaired driving and exercise investigative powers in a manner that is consistent with the `Canadian Charter of Rights and Freedoms`;
 
 Whereas it is important to simplify the law relating to the proof of blood alcohol concentration;
 
@@ -208,7 +206,7 @@ Subsection 257(2) of the Act is replaced by the following:
 
 ### Section 258.1
 
-      **(1)** Subject to subsection (3) and subsections 258(4) and (5), no person shall use a bodily substance taken under paragraph 254(2)(b) or (c), subsection 254(3), **(3.1)**, (3.3) or (3.4) or section 256 or with the consent of the person from whom it was taken after a request by a peace officer or medical samples that are provided by consent and subsequently seized under a warrant, except for the purpose of an analysis that is referred to in that provision or for which the consent is given.
+      **(1)** Subject to subsection (3) and subsections 258(4) and (5), no person shall use a bodily substance taken under paragraph 254(2)(b) or (c), subsection 254(3), (3.1), (3.3) or (3.4) or section 256 or with the consent of the person from whom it was taken after a request by a peace officer or medical samples that are provided by consent and subsequently seized under a warrant, except for the purpose of an analysis that is referred to in that provision or for which the consent is given.
 
   **(2)** The portion of subsection 258.1(2) of the Act before paragraph (a) is replaced by the following:
 
@@ -400,7 +398,7 @@ an evaluation conducted by an evaluating officer is a reliable method of determi
 
 ### Section 320.16
 
-  **(1)** Everyone commits an offence who operates a conveyance and who at the time of operating the conveyance knows that, or is reckless as to whether, the conveyance has been involved in an accident with **a** person or another conveyance and who fails, without reasonable excuse, to stop the conveyance, give their name and address and, if any person has been injured or appears to require assistance, offer assistance.
+  **(1)** Everyone commits an offence who operates a conveyance and who at the time of operating the conveyance knows that, or is reckless as to whether, the conveyance has been involved in an accident with a person or another conveyance and who fails, without reasonable excuse, to stop the conveyance, give their name and address and, if any person has been injured or appears to require assistance, offer assistance.
 
   **(2)** Everyone commits an offence who commits an offence under subsection (1) and who at the time of committing the offence knows that, or is reckless as to whether, the accident resulted in bodily harm to another person.
 
@@ -416,7 +414,7 @@ Everyone commits an offence who operates a motor vehicle or vessel while being p
 
     by an order made under this Act; or
 
-    by any other form of legal restriction imposed under any other Act of Parliament or under provincial law in respect of a conviction under this Act **or a discharge under section 730**.
+    by any other form of legal restriction imposed under any other Act of Parliament or under provincial law in respect of a conviction under this Act or a discharge under section 730.
 
   **(2)** No person commits an offence under subsection (1) arising out of the operation of a motor vehicle if they are registered in an alcohol ignition interlock device program established under the law of the province in which they reside and they comply with the conditions of the program.
 
@@ -456,7 +454,7 @@ Everyone commits an offence who operates a motor vehicle or vessel while being p
 
 Everyone who commits an offence under subsection 320.13(2), 320.14(2), 320.15(2) or 320.16(2) is liable on conviction on indictment or on summary conviction
 
-**to the following minimum punishment, namely,**
+to the following minimum punishment, namely,
 
 for a first offence, a fine of $1,000,
 
@@ -464,13 +462,13 @@ for a second offence, imprisonment for a term of 30 days, and
 
 for each subsequent offence, imprisonment for a term of 120 days;
 
-**if the offence is prosecuted by indictment**, to imprisonment for a term of not more than 14 years; **and**
+if the offence is prosecuted by indictment, to imprisonment for a term of not more than 14 years; and
 
 if the offence is punishable on summary conviction, to imprisonment for a term of not more than two years less a day.
 
 ### Section 320.21
 
-Everyone who commits an offence under subsection 320.13(3), 320.14(3), 320.15(3) or 320.16(3) is liable on conviction on indictment to imprisonment for life **and to a minimum punishment of,**
+Everyone who commits an offence under subsection 320.13(3), 320.14(3), 320.15(3) or 320.16(3) is liable on conviction on indictment to imprisonment for life and to a minimum punishment of,
 
 for a first offence, a fine of $1,000;
 
@@ -556,7 +554,7 @@ the offender was not permitted, under a federal or provincial Act, to operate th
 
 In determining, for the purpose of imposing a sentence for an offence under subsection 320.14(1) or 320.15(1), whether the offence is a second, third or subsequent offence, any of the following offences for which the offender was previously convicted is considered to be an earlier offence:
 
-an offence under **any of subsections** 320.14(1) **to (3)** or section 320.15; or
+an offence under any of subsections 320.14(1) to (3) or section 320.15; or
 
 an offence under any of sections 253, 254 and 255, as those sections read from time to time before the day on which this section comes into force.
 
@@ -623,7 +621,7 @@ an offence under any of sections 253, 254 and 255, as those sections read from t
 
   **(8)** A person who takes samples of blood under this section shall cause one of the samples to be retained for the purpose of analysis by or on behalf of the person from whom the blood samples were taken.
 
-  **(9)** A failure to comply with subsection (7) or (8) does not by itself affect the validity **of the taking of the sample or** of an analysis made of the sample.
+  **(9)** A failure to comply with subsection (7) or (8) does not by itself affect the validity of the taking of the sample or of an analysis made of the sample.
 
   **(10)** A judge of a superior court of criminal jurisdiction or a court of criminal jurisdiction shall, on the summary application of the person from whom samples of blood were taken under this section, made within six months after the day on which the samples were taken, order the release of any sample that was retained to the person for the purpose of examination or analysis, subject to any terms that the judge considers appropriate to ensure that the sample is safeguarded and preserved for use in any proceedings in respect of which it was taken.
 
@@ -678,13 +676,13 @@ Samples of a person's blood that are taken for the purposes of this Part may be 
 
     a calculation based on the evidence referred to in paragraphs (a) and (b) of what their blood alcohol concentration or blood drug concentration would have been at the time the sample was taken.
 
-  **(4)** For the purpose of paragraphs 320.14(1)(b) and (d), if the first of the samples of breath was taken, or the sample of blood was taken, more than two hours after the person ceased to operate the conveyance **and the person's blood alcohol concentration exceeds 20 mg of alcohol in 100 mL of blood**, the person's blood alcohol concentration is conclusively presumed to be the concentration established in accordance with subsection (1) or (2), as the case may be, plus an additional 5 mg of alcohol in 100 mL of blood for every interval of 30 minutes in excess of those two hours.
+  **(4)** For the purpose of paragraphs 320.14(1)(b) and (d), if the first of the samples of breath was taken, or the sample of blood was taken, more than two hours after the person ceased to operate the conveyance and the person's blood alcohol concentration exceeds 20 mg of alcohol in 100 mL of blood, the person's blood alcohol concentration is conclusively presumed to be the concentration established in accordance with subsection (1) or (2), as the case may be, plus an additional 5 mg of alcohol in 100 mL of blood for every interval of 30 minutes in excess of those two hours.
 
   **(5)** An evaluating officer's opinion relating to the impairment, by a type of drug that they identified, or by a combination of alcohol and that type of drug, of a person's ability to operate a conveyance is admissible in evidence without qualifying the evaluating officer as an expert.
 
   **(6)** If the analysis of a sample provided under subsection 320.28(4) demonstrates that the person has a drug in their body that is of a type that the evaluating officer has identified as impairing the person's ability to operate a conveyance, that drug — or, if the person has also consumed alcohol, the combination of alcohol and that drug — is presumed, in the absence of evidence to the contrary, to be the drug, or the combination of alcohol and that drug, that was present in the person's body at the time when the person operated the conveyance and, on proof of the person's impairment, to have been the cause of that impairment.
 
-  **(7)** The result of an analysis of a sample of a person's breath, blood, urine, **sweat** or other bodily substance that they were not required to provide under this Part may be admitted in evidence even if the person was not warned before they provided the sample that they were not required to do so or that the result of the analysis of the sample might be used in evidence.
+  **(7)** The result of an analysis of a sample of a person's breath, blood, urine, sweat or other bodily substance that they were not required to provide under this Part may be admitted in evidence even if the person was not warned before they provided the sample that they were not required to do so or that the result of the analysis of the sample might be used in evidence.
 
   **(8)** Unless a person is required to provide a sample of a bodily substance under this Part, evidence that they failed or refused to provide a sample for analysis or that a sample was not taken is not admissible and the failure, refusal or fact that a sample was not taken shall not be the subject of comment by any person in any proceedings under this Part.
 
@@ -749,7 +747,7 @@ In proceedings in respect of an offence under section 320.14 or 320.15, if it is
 
   **(1)** No person shall use a bodily substance obtained under this Part for any purpose other than for an analysis under this Part.
 
-  **(2)** No person shall use, disclose or allow the disclosure of the results obtained under this Part of any evaluation, physical coordination test or analysis of a bodily substance, except for the purpose of the administration or enforcement of a federal or provincial Act **related to drugs and/or alcohol and/or to the operation of a motor vehicle, vessel, aircraft or railway equipment**.
+  **(2)** No person shall use, disclose or allow the disclosure of the results obtained under this Part of any evaluation, physical coordination test or analysis of a bodily substance, except for the purpose of the administration or enforcement of a federal or provincial Act related to drugs and/or alcohol and/or to the operation of a motor vehicle, vessel, aircraft or railway equipment.
 
   **(3)** The results of an evaluation, test or analysis referred to in subsection (2) may be disclosed to the person to whom they relate, and may be disclosed to any other person if the results are made anonymous and the disclosure is made for statistical or research purposes.
 
@@ -799,7 +797,7 @@ a person or class of persons as qualified, for the purposes of this Part,
 
 to take samples of blood, or
 
-to analyze samples of **bodily substances**; and
+to analyze samples of bodily substances; and
 
 a person or class of persons as qualified, for the purposes of this Part, to certify that an alcohol standard is suitable for use with an approved instrument.
 
