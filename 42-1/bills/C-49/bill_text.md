@@ -1,7 +1,5 @@
 # Bill C-49: An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF TRANSPORT
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Canada Transportation Act and other Acts respecting transportation and to make related and consequential amendments to other Acts*".
 
 ## Summary
@@ -306,7 +304,7 @@ Information that is provided to the Minister or the Agency in accordance with re
 
 ### Section 51.4
 
-  **(1)** If the Agency receives information from class 1 rail carriers or the Minister that is related to service and performance indicators provided in accordance with regulations made under paragraph 50(1.01)(b), the Agency shall publish the information on its Internet site within **two** days after it is received.
+  **(1)** If the Agency receives information from class 1 rail carriers or the Minister that is related to service and performance indicators provided in accordance with regulations made under paragraph 50(1.01)(b), the Agency shall publish the information on its Internet site within two days after it is received.
 
   **(2)** Subsection 51(4) does not apply to the publication, in accordance with subsection (1), of information that is received from the Minister.
 
@@ -353,7 +351,7 @@ If a notice has been given under subsection 53.71(1), the proposed arrangement s
 
   **(2)** The Commissioner of Competition shall, within 120 days after the day on which he or she receives a copy of the notice under subsection 53.71(1) with the information referred to in subsection 53.71(2), report to the Minister and the parties on any concerns regarding potential prevention or lessening of competition that may occur as a result of the proposed arrangement.
 
-  **(3)** **Unless a notice is withdrawn or is deemed to have been withdrawn under section 53.8,** the Commissioner **shall** make public a summary of the conclusions of the report **that does not include any confidential information.**
+  **(3)** Unless a notice is withdrawn or is deemed to have been withdrawn under section 53.8, the Commissioner shall make public a summary of the conclusions of the report that does not include any confidential information.
 
   **(4)** The Minister shall, within 150 days after the day on which he or she receives the notice with the information referred to in subsection 53.71(2), report to the parties on any concerns with respect to the public interest that may occur as a result of the proposed arrangement and provide a copy of the report to the Commissioner.
 
@@ -363,7 +361,7 @@ If a notice has been given under subsection 53.71(1), the proposed arrangement s
 
   **(7)** The parties shall, within 30 days after the day on which they receive the Minister's preliminary decision, provide a response in writing to the Minister and the response may include proposed amendments to the terms and conditions specified in the decision.
 
-  **(8)** The Minister shall, within 30 days after the day on which he or she receives a response from the parties under subsection (7), render a final decision **and make public a summary of that decision that does not include any confidential information**. The Minister may, if satisfied that the proposed arrangement is in the public interest, authorize it and specify any terms and conditions relating to the public interest and competition that the Minister considers appropriate.
+  **(8)** The Minister shall, within 30 days after the day on which he or she receives a response from the parties under subsection (7), render a final decision and make public a summary of that decision that does not include any confidential information. The Minister may, if satisfied that the proposed arrangement is in the public interest, authorize it and specify any terms and conditions relating to the public interest and competition that the Minister considers appropriate.
 
 ### Section 53.74
 
@@ -371,11 +369,11 @@ An authorization given by the Minister under subsection 53.73(8) does not affect
 
 ### Section 53.75
 
-On application by any party who is subject to terms and conditions of an authorization, the Minister may, after consulting with the Commissioner of Competition, vary or rescind the terms and conditions **and shall make public a summary of that decision that does not include any confidential information**.
+On application by any party who is subject to terms and conditions of an authorization, the Minister may, after consulting with the Commissioner of Competition, vary or rescind the terms and conditions and shall make public a summary of that decision that does not include any confidential information.
 
 ### Section 53.76
 
-  ****(1)**** The parties to an authorized arrangement may propose an amendment to that arrangement to the Minister and he or she may, after consulting with the Commissioner of Competition and considering the significance of the amendment,
+  **(1)** The parties to an authorized arrangement may propose an amendment to that arrangement to the Minister and he or she may, after consulting with the Commissioner of Competition and considering the significance of the amendment,
 
     authorize the amendment, subject to any terms and conditions that the Minister may impose; or
 
@@ -549,7 +547,7 @@ The Act is amended by adding the following after section 86.1:
 
     **Vancouver–Kamloops corridor** means the area of Canada that is bounded
 
-    to the east by longitude **121.21°** W,
+    to the east by longitude 121.21° W,
 
     to the north by latitude 50.83° N,
 
@@ -907,9 +905,9 @@ If the Governor in Council is of the opinion that the financial viability of a r
 
   **(1)** A railway company shall prepare and keep up to date a list of the locations of the interchanges on the railway that the company operates. It shall publish the list on its Internet site or the Internet site of an association or other entity representing railway companies.
 
-  **(2)** A railway company may remove an interchange from its list only after the expiry of **120** days after **it**
+  **(2)** A railway company may remove an interchange from its list only after the expiry of 120 days after it
 
-    **has published** a notice of its intention to do so on its Internet site or the Internet site of an association or other entity representing railway companies**; and**
+    has published a notice of its intention to do so on its Internet site or the Internet site of an association or other entity representing railway companies; and
 
     has sent a copy of the notice to the Agency.
 
@@ -1605,7 +1603,7 @@ Section 26 does not apply with respect to a loan guarantee provided by the Canad
 
   **(4)** A class 1 rail carrier shall, in its first report, provide an explanation of the methodology it used to derive the data, including the definition of unit train used by the class 1 rail carrier. The definition of unit train shall be based on the class 1 rail carrier's normal business practices. If the methodology changes, the class 1 rail carrier shall provide an updated explanation of its methodology in any subsequent report in which that methodology is used for the first time, including any updated definition of unit train.
 
-  **(5)** The class 1 rail carrier shall provide the report for each period of seven days commencing on Saturday and ending on Friday, no later than **five** days after the last day of the period of seven days to which the information relates.
+  **(5)** The class 1 rail carrier shall provide the report for each period of seven days commencing on Saturday and ending on Friday, no later than five days after the last day of the period of seven days to which the information relates.
 
   **(6)** The first report that is to be provided by a class 1 rail carrier is to contain information related to the seven day period that commences on the first Saturday that follows the day on which this section comes into force.
 
@@ -1856,5 +1854,5 @@ Subsection 15(1) of the Act is replaced by the following:
 
   **(6)** If Bill C-44, introduced in the 1st session of the 42nd Parliament and entitled the `Budget Implementation Act, 2017, No. 1`, receives royal assent, then sections `73` and `74` come into force on the first day on which both that Act and this Act have received royal assent.
 
-  **(7)** Section `77` comes into force **180 days after** the day on which this Act receives royal assent.
+  **(7)** Section `77` comes into force 180 days after the day on which this Act receives royal assent.
 
