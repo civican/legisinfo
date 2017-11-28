@@ -1,7 +1,5 @@
 # Bill C-45: An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts
 
-**Sponsor**: MINISTER OF JUSTICE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts*".
 
 ## Summary
@@ -83,7 +81,7 @@ Purpose
 
 Possession
 
-Definition of *medical emergency*
+Definition of ***medical emergency***
 
 Distribution
 
@@ -511,7 +509,7 @@ Review of Act
 
 ### Transitional Provisions
 
-Definition of commencement day
+Definition of ***commencement day***
 
 Decisions
 
@@ -1134,9 +1132,9 @@ It is prohibited to promote, in a way that is prohibited by this Part, cannabis,
 
 ### Section 21
 
-It is prohibited to display, **refer to or otherwise use any of the following,** directly or indirectly in a promotion that is used in the sponsorship of a person, entity, event, activity or facility:
+It is prohibited to display, refer to or otherwise use any of the following, directly or indirectly in a promotion that is used in the sponsorship of a person, entity, event, activity or facility:
 
-a brand element of cannabis, of a cannabis accessory or of a service related to cannabis; **and**
+a brand element of cannabis, of a cannabis accessory or of a service related to cannabis; and
 
 the name of a person that
 
@@ -1255,7 +1253,7 @@ Unless authorized under this Act, it is prohibited for a person that is authoriz
 
 ### Section 34
 
-  ****(1)**** Unless authorized under this Act, it is prohibited to sell **any mixture of substances that contains** cannabis **and** any substance that is referred to in column 1 of Schedule 5.
+  **(1)** Unless authorized under this Act, it is prohibited to sell any mixture of substances that contains cannabis and any substance that is referred to in column 1 of Schedule 5.
 
   **(2)** Subsection (1) does not apply in respect of a mixture of substances that contains a substance that is referred to in column 1 of Schedule 5 and any cannabis of a class of cannabis that is referred to in column 2 of that Schedule in respect of that substance.
 
@@ -1395,7 +1393,7 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
     a statement that if the accused pays the amount within the period set out in the ticket,
 
-    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records **and will not be used for any purpose that would identify the accused as a person dealt with under this Act**, and
+    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records and will not be used for any purpose that would identify the accused as a person dealt with under this Act, and
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty;
 
@@ -1411,7 +1409,7 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
   **(4)** For the purpose of paragraph (3)(c), the amount is
 
-    for an offence referred to in any of paragraphs (2)(a) to (**h**), $200 plus a victim surcharge, calculated in accordance with subsection 737(2) of the `Criminal Code`, and any applicable administrative fees; and
+    for an offence referred to in any of paragraphs (2)(a) to (h), $200 plus a victim surcharge, calculated in accordance with subsection 737(2) of the `Criminal Code`, and any applicable administrative fees; and
 
     for an offence in respect of a contravention of a provision that is specified in regulations made under paragraph `139`(1)(z.6), the amount specified in those regulations in respect of that offence plus a victim surcharge, calculated in accordance with subsection 737(2) of the `Criminal Code`, and any applicable administrative fees.
 
@@ -1427,7 +1425,7 @@ if cannabis has been seized in relation to the offence, the cannabis is forfeite
 
 ### Section 53
 
-  **(1)** If an accused pleads not guilty and the accused is convicted of the offence described in the ticket, the accused is liable to a fine of **not more than** $200, in the case of an offence referred to in any of paragraphs 51(2)(a) to (**h**) or, in the case of an offence in respect of a contravention of a provision specified in regulations made under paragraph 139(1)(z.6), to a fine **of not more than** the amount specified in those regulations in respect of that offence.
+  **(1)** If an accused pleads not guilty and the accused is convicted of the offence described in the ticket, the accused is liable to a fine of not more than $200, in the case of an offence referred to in any of paragraphs 51(2)(a) to (h) or, in the case of an offence in respect of a contravention of a provision specified in regulations made under paragraph 139(1)(z.6), to a fine of not more than the amount specified in those regulations in respect of that offence.
 
   **(1.1)** If the accused is convicted of the offence, no order is to be made under section 731 of the `Criminal Code` in respect of that conviction.
 
@@ -1473,7 +1471,7 @@ Except where otherwise provided by this Part, Part XXVII of the `Criminal Code` 
 
     a statement that if the accused pays the amount within the period referred to in paragraph (b),
 
-    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records **and will not be used for any purpose that would identify the accused as a person dealt with under this Act**, and
+    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records and will not be used for any purpose that would identify the accused as a person dealt with under this Act, and
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty;
 
@@ -1542,7 +1540,7 @@ the discharge and enforcement of fines and fees referred to in this Part in resp
 
   **(7)** The Minister may refuse to issue, renew or amend a licence or permit if
 
-    **the issuance, the renewal or the amendment** is likely to create a risk to public health or public safety, including the risk of cannabis being diverted to an illicit market or activity;
+    the issuance, the renewal or the amendment is likely to create a risk to public health or public safety, including the risk of cannabis being diverted to an illicit market or activity;
 
     there are reasonable grounds to believe that false or misleading information or false or falsified documents were submitted in, or in support of, the application;
 
@@ -1657,9 +1655,9 @@ Subject to the regulations, the Minister may grant or refuse to grant a security
 
 ### Section 71
 
-  **(1)** Unless the regulations provide otherwise, every employee of a person that is authorized under this Act to **possess,** sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
+  **(1)** Unless the regulations provide otherwise, every employee of a person that is authorized under this Act to possess, sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
 
-  **(2)** Unless the regulations provide otherwise, every individual who is acting as the agent or mandatary of a person that is authorized under this Act to **possess,** sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
+  **(2)** Unless the regulations provide otherwise, every individual who is acting as the agent or mandatary of a person that is authorized under this Act to possess, sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
 
 ### Section 72
 
@@ -2625,7 +2623,7 @@ If any record, report, electronic data or other document is examined or seized u
 
     respecting the granting, suspension or cancellation of security clearances and specifying who must hold a security clearance;
 
-    respecting the **characteristics,** composition, strength, concentration, potency, **intended use, sensory attributes — such as appearance and shape —** purity, quality or any other property of cannabis or any class of cannabis;
+    respecting the characteristics, composition, strength, concentration, potency, intended use, sensory attributes — such as appearance and shape — purity, quality or any other property of cannabis or any class of cannabis;
 
     respecting the characteristics, composition, design, construction, performance, intended use, sensory attributes — such as appearance and shape — purity, quality or any other property of cannabis accessories;
 
@@ -2669,7 +2667,7 @@ If any record, report, electronic data or other document is examined or seized u
 
     respecting the review of orders under section `79`;
 
-    exempting, on any terms and conditions that are specified in the regulations, any person or class of persons, any cannabis or any class of cannabis or any cannabis accessory or any class of cannabis accessory from the application of **all or** any **of the provisions** of this Act or of the regulations;
+    exempting, on any terms and conditions that are specified in the regulations, any person or class of persons, any cannabis or any class of cannabis or any cannabis accessory or any class of cannabis accessory from the application of all or any of the provisions of this Act or of the regulations;
 
     specifying terms, expressions, logos, symbols or illustrations for the purposes of sections `19` and `28`;
 
@@ -2681,7 +2679,7 @@ If any record, report, electronic data or other document is examined or seized u
 
     respecting the circumstances under which, the criteria by which and the manner in which the amount of a penalty for a violation may be increased or reduced, including a reduction in the amount that is provided for in a compliance agreement;
 
-    specifying provisions of this Act or of the regulations, other than provisions of Division 1 of Part 1, for the purposes of paragraph `51`(2)(j) and fixing the amount of the fine, or a range of amounts as the fine, in respect of each specified provision; and
+    specifying provisions of this Act or of the regulations, other than provisions of Division 1 of Part 1, for the purposes of paragraph `51`(2)(i) and fixing the amount of the fine, or a range of amounts as the fine, in respect of each specified provision; and
 
     prescribing anything that, by this Act, is to be or may be prescribed.
 
@@ -2701,9 +2699,9 @@ If any record, report, electronic data or other document is examined or seized u
 
     the Minister of National Defence to designate military police;
 
-    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of **all or** any **of the provisions** of Division 1 of Part 1 or of the regulations;
+    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of all or any of the provisions of Division 1 of Part 1 or of the regulations;
 
-    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of **all or** any **of the provisions** of this Act or of the regulations;
+    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of all or any of the provisions of this Act or of the regulations;
 
     respecting the detention, storage and disposition of or other dealing with cannabis;
 
@@ -2719,9 +2717,9 @@ If any record, report, electronic data or other document is examined or seized u
 
     the Minister of National Defence to designate military police;
 
-    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of **all or** any **of the provisions** of Division 1 of Part 1 or of the regulations;
+    exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of all or any of the provisions of Division 1 of Part 1 or of the regulations;
 
-    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of **all or** any **of the provisions** of Division 1 of Part 1 or of the regulations;
+    respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of all or any of the provisions of Division 1 of Part 1 or of the regulations;
 
     respecting the detention, storage and disposition of or other dealing with cannabis;
 
@@ -2930,9 +2928,9 @@ Subject to regulations made under subsection `161`(1), all records, reports, ele
 
     if the licence applies, directly or indirectly, to cannabis and to opium poppy, it is deemed, in relation to its application to cannabis, to have been issued under section `62` of this Act and it continues in force until it is revoked or, if it is expressed to expire on a particular date, it continues in force until it expires, unless it is revoked before that date.
 
-  **(5)** Subject to regulations made under subsection 161(1), **the following apply in respect of** every application for a licence under section 9.2 or 67 of the `Narcotic Control Regulations` or for a permit under section 10 of those Regulations in respect of which no final decision has been made before the commencement day:
+  **(5)** Subject to regulations made under subsection 161(1), the following apply in respect of every application for a licence under section 9.2 or 67 of the `Narcotic Control Regulations` or for a permit under section 10 of those Regulations in respect of which no final decision has been made before the commencement day:
 
-    **if the application relates solely to cannabis, it** is deemed to be an application **made** under section 62 of this Act; **and**
+    if the application relates solely to cannabis, it is deemed to be an application made under section 62 of this Act; and
 
     if the application relates, directly or indirectly, to cannabis and to any narcotic, as defined in subsection 2(1) of those Regulations, it is deemed, in relation to the cannabis, to be an application made under section 62 of this Act.
 
@@ -3068,23 +3066,23 @@ Subsection 117(2) of the Act is replaced by the following:
 
 ### Section 171
 
-  **(1)** **Paragraphs 9.3(4)(c) and (d)** of the `Mu­tual Legal Assistance in Criminal Matters Act` **are** replaced by the following:
+  **(1)** Paragraphs 9.3(4)(c) and (d) of the `Mu­tual Legal Assistance in Criminal Matters Act` are replaced by the following:
 
     an order for the seizure of offence-related property may be enforced as if it were a warrant issued under subsection 487(1) of the `Criminal Code`, subsection 11(1) of the `Controlled Drugs and Substances Act` or subsection 87(1) of the `Cannabis Act`, as the case may be; and
 
     an order for the restraint of offence-related property may be enforced as if it were an order made under subsection 490.8(3) of the `Criminal Code`, subsection 14(3) of the `Controlled Drugs and Substances Act` or subsection 91(3) of the `Cannabis Act`, as the case may be.
 
-  **(2)** Paragraph 9.4(6)(b) **of the Act** is replaced by the following:
+  **(2)** Paragraph 9.4(6)(b) of the Act is replaced by the following:
 
     an order for the forfeiture of offence-related property has the same effect as if it were an order under subsection 490.1(1) or 490.2(2) of the `Criminal Code`, subsection 16(1) or 17(2) of the `Controlled Drugs and Substances Act` or subsection 94(1) or 95(2) of the `Cannabis Act`, as the case may be.
 
-  **(**3**)** Subparagraphs 9.4(8)(b)(i) and (ii) of the Act are replaced by the following:
+  **(3)** Subparagraphs 9.4(8)(b)(i) and (ii) of the Act are replaced by the following:
 
     notice in accordance with subsection 490.41(2) of the `Criminal Code`, subsection 19.1(2) of the `Controlled Drugs and Substances Act` or subsection 98(2) of the `Cannabis Act` has been given to any person who resides in a dwelling-house that is offence-related property and who is a member of the immediate family of the person charged with or convicted of the offence in relation to which property would be forfeited, and
 
     notice in accordance with subsection 490.4(2) of the `Criminal Code`, subsection 19(2) of the `Controlled Drugs and Substances Act` or subsection 97(2) of the `Cannabis Act` has been given to any person who, in the opinion of the court, appears to have a valid interest in the property.
 
-  **(**4**)** Subsection 9.4(9) of the Act is replaced by the following:
+  **(4)** Subsection 9.4(9) of the Act is replaced by the following:
 
     **(9)** Subsection 462.41(3) and section 462.42 of the `Criminal Code` apply, with any modifications that the circumstances require, to a person who claims an interest in proceeds of crime, and subsections 490.4(3) and 490.41(3) and section 490.5 of the `Criminal Code`, subsections 19(3) and 20(4) of the `Controlled Drugs and Substances Act` and subsections 97(3) and 99(4) of the `Cannabis Act` apply, with any modifications that the circumstances require, to a person who claims an interest in offence-related property.
 
@@ -3682,7 +3680,7 @@ On the first day on which both section 4 of `An Act to amend the Criminal Code (
 
 ### Section 226
 
-  ****(1)**** **Subject to subsection (2),** the provisions of this Act, except sections 161, 188 to **193,** 194, 199 to 202, 206 and 225, come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** Subject to subsection (2), the provisions of this Act, except sections 161, 188 to 193, 194, 199 to 202, 206 and 225, come into force on a day or days to be fixed by order of the Governor in Council.
 
   **(2)** If section 193.1 does not come into force by order before the first anniversary of the day on which section 33 comes into force, section 193.1 comes into force on the first anniversary of the day on which section 33 comes into force.
 
